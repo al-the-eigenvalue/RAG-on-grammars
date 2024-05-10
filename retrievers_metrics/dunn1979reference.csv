@@ -25,8 +25,8 @@ TsimshianEnglish
 ERGATIVE = SUBJECT (withtransitiveverb)
 ABSOLUTIVE = SUBJECT (withintransitive verb)
 ABSOLUTIVE = DIRECT OBJECT
-2.",tensor([37.6210])," Verbs agree in number with their
-absolutive(transitive object or intransitivesubject).",tensor([40.1206])," WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
+2.",37.58258056640625," Verbs agree in number with their
+absolutive(transitive object or intransitivesubject).",40.03221130371094," WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
  2.the temporal designators....... cc cece cccccvcs 59
  XL. BASICSENTENCE WORD ORDER...ccc ceece ccc eee eeece eee 59
  1 aeFos sO rs59
@@ -57,7 +57,7 @@ word order.",74.72012329101562," WOTd OFder... .. ee ccc cw eee eee wee ce cere 
  3.the ergative eEnclitic...... cece ccc cee eee ee ee eee60
  4.absolutive incorporation... ... cee cee ee ec ee eens61
  5.",84.72784423828125
-0.36788831565927504,0,3,0.4773705614469083,3,0.4773705614469083,0,0.0,0,0.6131471927654585,2,0.1547411228938166,3,0.4773705614469083,2,0.5226294385530917,3,0.4773705614469083,"The author investigates the use of the three simple sentence types
+0.367888315659275,0,3,0.4773705614469083,3,0.4773705614469083,0,0.0,0,0.6131471927654585,2,0.15474112289381667,3,0.4773705614469083,2,0.5226294385530917,3,0.4773705614469083,"The author investigates the use of the three simple sentence types
 with both subject and object in the Inuktitut language.
 No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS."," Then the sentence pattern
 TEMP+t VB,+daERG+aABS
@@ -95,14 +95,14 @@ word order.",72.74459838867188,"Verbs and
 adjectivesshow number agreementin the same way that nouns show
 number.",74.83306884765625,"The author investigates the use of the three simple sentence types
 with both subject and object in the Inuktitut language.
-No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",tensor([36.6212])," WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
+No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",36.33719253540039," WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
  2.the temporal designators....... cc cece cccccvcs 59
  XL. BASICSENTENCE WORD ORDER...ccc ceece ccc eee eeece eee 59
  1 aeFos sO rs59
  2.the absolutive enclitic..... cc. eee ee ee wee ee eenes60
  3.the ergative eEnclitic...... cece ccc cee eee ee ee eee60
  4.absolutive incorporation... ... cee cee ee ec ee eens61
- 5.",tensor([39.7957])," Then the sentence pattern
+ 5.",39.723594665527344," Then the sentence pattern
 TEMP+t VB,+daERG+aABS
 becomes
 TEMPVB,ptMt+ABS+aERG,
@@ -127,7 +127,7 @@ word order.",75.94784545898438," WOTd OFder... .. ee ccc cw eee eee wee ce cere 
  4.absolutive incorporation... ... cee cee ee ec ee eens61
  5.",74.71076202392578," The paper by M. Mithun
 deals with word order in Tuscarora.",78.8829574584961
-0.3107311381422535,0,0,0.4032036125099061,5,0.6621462276284508,5,0.2589426151185445,0,0.5178852302370891,5,0.3896422953952582,0,0.4032036125099061,5,0.7003734335375118,5,0.6621462276284508,"Vowels aresometimes insertedinto consonantclusters in order
+0.3107311381422535,0,0,0.4032036125099061,5,0.6621462276284508,5,0.2589426151185445,0,0.5178852302370891,5,0.38964229539525824,0,0.4032036125099061,5,0.7003734335375118,5,0.6621462276284508,"Vowels aresometimes insertedinto consonantclusters in order
 tomake them easiertopronounce.
  ""ntomsk, nika'ntomsk sacred
 woomxk, waxwoomasksuffer
@@ -171,7 +171,7 @@ yagwapresent (used only with action verbs)
 designator,transitive verb,ergative noun phrase,absolutive
 noun phrase (TEMP VB,, ERG ABS), or (b)temporaldesignator, in-
 transitive verb, absOlutivenounphrase(TEMP VB.",73.94941711425781," Verbs agree in number with their
-absolutive(transitive object or intransitivesubject).",tensor([35.8800])," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
+absolutive(transitive object or intransitivesubject).",35.75291061401367," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
  Tsimshian: TEMP VB ERGABSTEMPVBLABS
  59
  60
@@ -179,7 +179,7 @@ TsimshianEnglish
 ERGATIVE = SUBJECT (withtransitiveverb)
 ABSOLUTIVE = SUBJECT (withintransitive verb)
 ABSOLUTIVE = DIRECT OBJECT
-2.",tensor([39.7642]),"The author investigates the use of the three simple sentence types
+2.",39.65550994873047,"The author investigates the use of the three simple sentence types
 with both subject and object in the Inuktitut language.
 No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",73.20758056640625," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
  Tsimshian: TEMP VB ERGABSTEMPVBLABS
@@ -218,7 +218,7 @@ yagwapresent (used only with action verbs)
 designator,transitive verb,ergative noun phrase,absolutive
 noun phrase (TEMP VB,, ERG ABS), or (b)temporaldesignator, in-
 transitive verb, absOlutivenounphrase(TEMP VB.",76.78262329101562
-0.39208511485294306,3,5,0.5523293739807609,0,0.5839935186313142,0,0.2283797786907083,2,0.5354458109974787,0,0.3436530566827345,5,0.5523293739807609,0,0.6177087911115845,0,0.5839935186313142," Then the sentence pattern
+0.392085114852943,3,5,0.5523293739807609,0,0.5839935186313142,0,0.2283797786907083,2,0.5354458109974787,0,0.3436530566827345,5,0.5523293739807609,0,0.6177087911115845,0,0.5839935186313142," Then the sentence pattern
 TEMP+t VB,+daERG+aABS
 becomes
 TEMPVB,ptMt+ABS+aERG,
@@ -253,9 +253,9 @@ concerned with the structure and use of the verbs.
  2.the absolutive enclitic..... cc. eee ee ee wee ee eenes60
  3.the ergative eEnclitic...... cece ccc cee eee ee ee eee60
  4.absolutive incorporation... ... cee cee ee ec ee eens61
- 5.",tensor([35.1701]),"The author investigates the use of the three simple sentence types
+ 5.",35.002906799316406,"The author investigates the use of the three simple sentence types
 with both subject and object in the Inuktitut language.
-No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",tensor([38.8901])," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
+No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",38.78948211669922," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
  Tsimshian: TEMP VB ERGABSTEMPVBLABS
  59
  60
@@ -268,7 +268,7 @@ with both subject and object in the Inuktitut language.
 No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",71.89634704589844,"The major part of the grammar is
 concerned with the structure and use of the verbs.
 ",76.63248443603516
-0.5312363212974341,5,0,0.5158680826422392,0,0.5454419607643838,0,0.2133035903890536,3,0.5991195769671255,3,0.4199877670473664,0,0.5158680826422392,0,0.5769315642319762,3,0.6444624720466384," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
+0.5312363212974341,5,0,0.5158680826422392,0,0.5454419607643838,0,0.2133035903890536,3,0.5991195769671255,3,0.41998776704736646,0,0.5158680826422392,0,0.5769315642319762,3,0.6444624720466384," English:SUBJ TEMP VBnOBJSUBJ TEMPVBL
  Tsimshian: TEMP VB ERGABSTEMPVBLABS
  59
  60
@@ -300,8 +300,8 @@ raphy currently in use.
 attaches to the verb,even if it is intransitive and no noun
 phrase at all follows it.
 5.",71.60076141357422," The paper by M. Mithun
-deals with word order in Tuscarora.",tensor([33.9028])," The paper by M. Mithun
-deals with word order in Tuscarora.",tensor([36.3534]),"Whenusedas a noun,thefirst
+deals with word order in Tuscarora.",33.805023193359375," The paper by M. Mithun
+deals with word order in Tuscarora.",36.10530471801758,"Whenusedas a noun,thefirst
 set (-on) refers to the specific number of fathoms.
 volumeorgeneral linear
 k'ttlda'onk'ttldmgaay one
@@ -338,7 +338,7 @@ c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
 -S; nagwat ERG;his father is haulingfirewood)
 5. An indirect object follows the absolutive in the sentence
 word order.",76.59528350830078
-0.6831968651624872,5,5,0.6678286265072922,5,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.4199877670473664,5,0.6678286265072922,0,0.5769315642319762,0,0.6444624720466384,"The temporal designatorsare:
+0.6831968651624872,5,5,0.6678286265072922,5,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.41998776704736646,5,0.6678286265072922,0,0.5769315642319762,0,0.6444624720466384,"The temporal designatorsare:
 nahcompletedorperfect
  e.g., nahdzap""alreadymade""
 dm future and progressive
@@ -428,10 +428,10 @@ and unit measures can stand alone as nouns.",71.57276153564453,"The subjects of 
 and the direct objects of transitivesentencesare in Tsimshian
 considered to be the same kind ofnounphrase, i.e., they are
 considered to have the same grammaticalfunction;they are both
-called absolutives.",tensor([32.8699])," Subjects of intransitive sentences
+called absolutives.",32.85923385620117," Subjects of intransitive sentences
 are not consideredto be like subjects of transitivesentences,
 as is the case in English.
-",tensor([35.7266]),"The temporal designatorsare:
+",35.980491638183594,"The temporal designatorsare:
 nahcompletedorperfect
  e.g., nahdzap""alreadymade""
 dm future and progressive
@@ -466,7 +466,7 @@ considered to have the same grammaticalfunction;they are both
 called absolutives.",69.906494140625,"The author investigates the use of the three simple sentence types
 with both subject and object in the Inuktitut language.
 No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",76.4423828125
-0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.4199877670473664,0,0.6678286265072922,5,0.7191339578246786,0,0.6444624720466384,"The subjects of intransitive sentences
+0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.41998776704736646,0,0.6678286265072922,5,0.7191339578246786,0,0.6444624720466384,"The subjects of intransitive sentences
 and the direct objects of transitivesentencesare in Tsimshian
 considered to be the same kind ofnounphrase, i.e., they are
 considered to have the same grammaticalfunction;they are both
@@ -477,10 +477,10 @@ absolutive(transitive object or intransitivesubject).",67.59212493896484,"Subjec
 shian are called ergatives.",71.53833770751953," Subjects of intransitive sentences
 are not consideredto be like subjects of transitivesentences,
 as is the case in English.
-",tensor([32.2822]),"The enclitic-a
+",32.5938606262207,"The enclitic-a
 attaches to the verb,even if it is intransitive and no noun
 phrase at all follows it.
-5.",tensor([34.6977]),"It also containssect-
+5.",34.7205924987793,"It also containssect-
 ions dealing with pronunciation and sound changes,word forma-
 tion(morphology), and syntax.",71.42897033691406,"The temporal designatorsare:
 nahcompletedorperfect
@@ -515,7 +515,7 @@ transitive verb, absOlutivenounphrase(TEMP VB.",69.86591339111328,"It contains s
 relationships and provides an explanation of the practical orthog-
 raphy currently in use.
 ",75.84675598144531
-0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.4199877670473664,0,0.6678286265072922,0,0.7191339578246786,0,0.6444624720466384," Verbs agree in number with their
+0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.41998776704736646,0,0.6678286265072922,0,0.7191339578246786,0,0.6444624720466384," Verbs agree in number with their
 absolutive(transitive object or intransitivesubject).","It contains sections on pronunciation, sound changes, word formation
 (morphology), syntax, basic sentence types and their grammatical
 relationships and provides an explanation of the practical orthog-
@@ -527,9 +527,9 @@ considered to have the same grammaticalfunction;they are both
 called absolutives.",67.46981048583984," Verbs agree in number with their
 absolutive(transitive object or intransitivesubject).",71.36581420898438,"This second set is
 said to be marked because an -'n- is placed between the verb and
-the pronominal.",tensor([31.8288]),"This second set is
+the pronominal.",32.0821418762207,"This second set is
 said to be marked because an -'n- is placed between the verb and
-the pronominal.",tensor([33.5775]),"It contains sections on pronunciation, sound changes, word formation
+the pronominal.",33.86817169189453,"It contains sections on pronunciation, sound changes, word formation
 (morphology), syntax, basic sentence types and their grammatical
 relationships and provides an explanation of the practical orthog-
 raphy currently in use.
@@ -537,7 +537,7 @@ raphy currently in use.
 ions dealing with pronunciation and sound changes,word forma-
 tion(morphology), and syntax.",69.75431060791016,"Subjects of transitive sentencesin Tsim-
 shian are called ergatives.",75.67788696289062
-0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.4199877670473664,0,0.6678286265072922,0,0.7191339578246786,0,0.6444624720466384," Somereduplication formsare compound.
+0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,3,0.4970407017152806,0,0.6678286265072922,0,0.7191339578246786,0,0.6444624720466384," Somereduplication formsare compound.
 swantk, sumsikswantk blow
 GRAMMATICAL SUFFIXES
 1. There are ten suffixes which,when attached to words,change
@@ -570,11 +570,23 @@ clitics becausethey sometimesare prefixed directly to the
 word and at other times act as separate word prepositions.",65.88288879394531,"They are attached to the end of the
 verb.
 ",71.14005279541016,"Subjects of transitive sentencesin Tsim-
-shian are called ergatives.",tensor([31.6733]),"The subjects of intransitive sentences
-and the direct objects of transitivesentencesare in Tsimshian
-considered to be the same kind ofnounphrase, i.e., they are
-considered to have the same grammaticalfunction;they are both
-called absolutives.",tensor([33.3043]),"The subjects of intransitive sentences
+shian are called ergatives.",31.82298469543457," Then the sentence pattern
+TEMP+t VB,+daERG+aABS
+becomes
+TEMPVB,ptMt+ABS+aERG,
+i.e.,the absolutive becomes a part of the verb as a compound
+word and the ergative functions syntactically as an absolutive.
+Someexamples of absolutiveincorporation:
+a) Bawilaadmhoonu (bawil TEMP;aat VB,,;-m-; hoon ABS; -u
+ERG;and then I was just seiningfor fish or I was
+just now fish-seining)
+b) Yagwa suwiliinsgmwudziis Dzon (Yagwa TEMP;suwiliinsk VB
+-m-;wudzii ABS; -s;Dzon ERG;John ishunting cari-
+bou or John is caribou-hunting)
+c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
+-S; nagwat ERG;his father is haulingfirewood)
+5. An indirect object follows the absolutive in the sentence
+word order.",33.190673828125,"The subjects of intransitive sentences
 and the direct objects of transitivesentencesare in Tsimshian
 considered to be the same kind ofnounphrase, i.e., they are
 considered to have the same grammaticalfunction;they are both
@@ -582,7 +594,7 @@ called absolutives.",70.50640106201172," Verbs agree in number with their
 absolutive(transitive object or intransitivesubject).",69.64039611816406,"It also containssect-
 ions dealing with pronunciation and sound changes,word forma-
 tion(morphology), and syntax.",75.22525024414062
-0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,3,0.6731098553376779,3,0.4939780454179189,0,0.6678286265072922,0,0.7191339578246786,0,0.6444624720466384," Subjects of intransitive sentences
+0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.5991195769671255,0,0.4970407017152806,0,0.6678286265072922,0,0.7191339578246786,0,0.6444624720466384," Subjects of intransitive sentences
 are not consideredto be like subjects of transitivesentences,
 as is the case in English.
 "," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
@@ -591,39 +603,27 @@ as is the case in English.
 ions dealing with pronunciation and sound changes,word forma-
 tion(morphology), and syntax.",65.82322692871094,"It also containssect-
 ions dealing with pronunciation and sound changes,word forma-
-tion(morphology), and syntax.",71.12763214111328," Then the sentence pattern
-TEMP+t VB,+daERG+aABS
-becomes
-TEMPVB,ptMt+ABS+aERG,
-i.e.,the absolutive becomes a part of the verb as a compound
-word and the ergative functions syntactically as an absolutive.
-Someexamples of absolutiveincorporation:
-a) Bawilaadmhoonu (bawil TEMP;aat VB,,;-m-; hoon ABS; -u
-ERG;and then I was just seiningfor fish or I was
-just now fish-seining)
-b) Yagwa suwiliinsgmwudziis Dzon (Yagwa TEMP;suwiliinsk VB
--m-;wudzii ABS; -s;Dzon ERG;John ishunting cari-
-bou or John is caribou-hunting)
-c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
--S; nagwat ERG;his father is haulingfirewood)
-5. An indirect object follows the absolutive in the sentence
-word order.",tensor([30.6697])," Then the sentence pattern
-TEMP+t VB,+daERG+aABS
-becomes
-TEMPVB,ptMt+ABS+aERG,
-i.e.,the absolutive becomes a part of the verb as a compound
-word and the ergative functions syntactically as an absolutive.
-Someexamples of absolutiveincorporation:
-a) Bawilaadmhoonu (bawil TEMP;aat VB,,;-m-; hoon ABS; -u
-ERG;and then I was just seiningfor fish or I was
-just now fish-seining)
-b) Yagwa suwiliinsgmwudziis Dzon (Yagwa TEMP;suwiliinsk VB
--m-;wudzii ABS; -s;Dzon ERG;John ishunting cari-
-bou or John is caribou-hunting)
-c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
--S; nagwat ERG;his father is haulingfirewood)
-5. An indirect object follows the absolutive in the sentence
-word order.",tensor([33.2771]),"And justnowthe wolf has seen
+tion(morphology), and syntax.",71.12763214111328,"Whenusedas a noun,thefirst
+set (-on) refers to the specific number of fathoms.
+volumeorgeneral linear
+k'ttlda'onk'ttldmgaay one
+gupl'on two
+k'ul'on three
+txaalpxl'on four
+kwstunsal'onfive
+k'oolda'onsix
+t'apxoolda'on seven
+yukwia'al'oneight
+kstamoolsal'on nine
+kpal'on ten
+PROCLITICS
+1. Morphemes that occur before nouns and verbs are called pro-
+clitics becausethey sometimesare prefixed directly to the
+word and at other times act as separate word prepositions.",30.92445182800293,"The subjects of intransitive sentences
+and the direct objects of transitivesentencesare in Tsimshian
+considered to be the same kind ofnounphrase, i.e., they are
+considered to have the same grammaticalfunction;they are both
+called absolutives.",33.1748046875,"And justnowthe wolf has seen
 you(pl).
 If an absolutive pronominaloccurs in a sentence with a proper
 noun ergative, the -it/-t enclitic must attach to theend of the
@@ -648,7 +648,7 @@ word and at other times act as separate word prepositions.",68.85797119140625," 
 are not consideredto be like subjects of transitivesentences,
 as is the case in English.
 ",75.13336181640625
-0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,0,0.6731098553376779,0,0.4939780454179189,0,0.6678286265072922,0,0.7191339578246786,5,0.7634615356888077,"This volume contains five papers on linguistic subjects: three are
+0.6831968651624872,0,0,0.6678286265072922,0,0.6974025046294369,0,0.2133035903890536,3,0.6705190151524271,0,0.4970407017152806,0,0.6678286265072922,0,0.7191339578246786,5,0.7634615356888077,"This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
  (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
 1964); and, oneonAlgonquin (Hamp 1974).
@@ -665,25 +665,25 @@ noun ergative, the -it/-t enclitic must attach to theend of the
 word immediately preceding the proper noun ergative.
  g)Bawilt niidzutDzon.",65.17861938476562,"The author investigates the use of the three simple sentence types
 with both subject and object in the Inuktitut language.
-No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",71.0053939819336,"Whenusedas a noun,thefirst
-set (-on) refers to the specific number of fathoms.
-volumeorgeneral linear
-k'ttlda'onk'ttldmgaay one
-gupl'on two
-k'ul'on three
-txaalpxl'on four
-kwstunsal'onfive
-k'oolda'onsix
-t'apxoolda'on seven
-yukwia'al'oneight
-kstamoolsal'on nine
-kpal'on ten
-PROCLITICS
-1. Morphemes that occur before nouns and verbs are called pro-
-clitics becausethey sometimesare prefixed directly to the
-word and at other times act as separate word prepositions.",tensor([30.6650]),"The major part of the grammar is
+No. 50CONTRIBUTIONS TO CANADIAN LINGUISTICS.",71.0053939819336," Then the sentence pattern
+TEMP+t VB,+daERG+aABS
+becomes
+TEMPVB,ptMt+ABS+aERG,
+i.e.,the absolutive becomes a part of the verb as a compound
+word and the ergative functions syntactically as an absolutive.
+Someexamples of absolutiveincorporation:
+a) Bawilaadmhoonu (bawil TEMP;aat VB,,;-m-; hoon ABS; -u
+ERG;and then I was just seiningfor fish or I was
+just now fish-seining)
+b) Yagwa suwiliinsgmwudziis Dzon (Yagwa TEMP;suwiliinsk VB
+-m-;wudzii ABS; -s;Dzon ERG;John ishunting cari-
+bou or John is caribou-hunting)
+c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
+-S; nagwat ERG;his father is haulingfirewood)
+5. An indirect object follows the absolutive in the sentence
+word order.",30.6307373046875,"The major part of the grammar is
 concerned with the structure and use of the verbs.
-",tensor([32.1051])," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
+",32.248165130615234," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
  2. aAgGwil (ASide) ..",69.12028503417969,"And justnowthe wolf has seen
 you(pl).
@@ -699,7 +699,7 @@ ERGATIVE = SUBJECT (withtransitiveverb)
 ABSOLUTIVE = SUBJECT (withintransitive verb)
 ABSOLUTIVE = DIRECT OBJECT
 2.",74.60887145996094
-0.6831968651624872,0,0,0.6678286265072922,3,0.7665738269487875,3,0.2824749127084042,0,0.6731098553376779,5,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"They are used to refer to languages
+0.6831968651624872,0,0,0.6678286265072922,3,0.7665738269487875,3,0.2824749127084042,0,0.6705190151524271,5,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"They are used to refer to languages
 of dialects.
  gaalmx, geelmxNass-Gitksan language
  gyaanmx Nass-gitksan language
@@ -721,7 +721,7 @@ etc.).
 2. The suffix -x (sometimes -k) derivesa word that refers to a
 thing,place,or activity that is touched by or affected by the
 original word,or that is in some way a consequence of the origi-
-nal word.",tensor([30.1156]),"The temporal designatorsare:
+nal word.",30.24116516113281,"The temporal designatorsare:
 nahcompletedorperfect
  e.g., nahdzap""alreadymade""
 dm future and progressive
@@ -749,7 +749,7 @@ yagwapresent (used only with action verbs)
 1. The basic word order of a Tsimshian sentenceis (a) temporal
 designator,transitive verb,ergative noun phrase,absolutive
 noun phrase (TEMP VB,, ERG ABS), or (b)temporaldesignator, in-
-transitive verb, absOlutivenounphrase(TEMP VB.",tensor([31.4089])," Somereduplication formsare compound.
+transitive verb, absOlutivenounphrase(TEMP VB.",31.380233764648438," Somereduplication formsare compound.
 swantk, sumsikswantk blow
 GRAMMATICAL SUFFIXES
 1. There are ten suffixes which,when attached to words,change
@@ -767,7 +767,7 @@ and the direct objects of transitivesentencesare in Tsimshian
 considered to be the same kind ofnounphrase, i.e., they are
 considered to have the same grammaticalfunction;they are both
 called absolutives.",73.51993560791016
-0.6831968651624872,0,0,0.6678286265072922,0,0.7665738269487875,0,0.2824749127084042,0,0.6731098553376779,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"Whenusedas a noun,thefirst
+0.6831968651624872,0,0,0.6678286265072922,0,0.7665738269487875,0,0.2824749127084042,5,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"Whenusedas a noun,thefirst
 set (-on) refers to the specific number of fathoms.
 volumeorgeneral linear
 k'ttlda'onk'ttldmgaay one
@@ -797,10 +797,36 @@ nal word.",64.1425552368164," The
 connective between the transitive verb and the ergativeis -a/
 null and there is no -t enclitic on the temporal designation.
 ",64.06405639648438,"Words are sometimes puttogethertoform anew wordwith a
-new meaning.",69.92227172851562,"The major part of the grammar is
-concerned with the structure and use of the verbs.
-",tensor([29.8959]),"Subjects of transitive sentencesin Tsim-
-shian are called ergatives.",tensor([31.3247]),"These suffixesare -t,-l, and -n.
+new meaning.",69.92227172851562,"The temporal designatorsare:
+nahcompletedorperfect
+ e.g., nahdzap""alreadymade""
+dm future and progressive
+ e.g., dm dzap""will make,""""is going to make,""""ismaking""
+ta close to the present
+ e.g., ta dzap""just beginningto make""
+ nahta dzap""just finished making""
+ tadm dzap ""just about to start making""
+wilsubsequent to another action or event
+ e.g., wil dzap ""and then made""
+ nah wil dzap ""and then already made""
+ na'al dzap(variant of nah wil dzap)
+ dm wil dzap ""and now will be making""
+ wil dm dzap (variant of dm wil dzap)
+ nahtawildzap ""and then justfinished making""
+ nahta'aldzap(variant of nah tawil dzap)
+ na'al ta dzap (variantof nah tawildzap)
+ dm tawil""and now just about to start making""
+ dm ta'al (variant of dm tawil)
+ tawil dm (variant of dm tawil)
+ ta'al dm (variant of dm tawil)
+yagwapresent (used only with action verbs)
+ e€.g.,yagwa dzap""be making right now,"" ""is now making""
+ BASIC SENTENCEWORD ORDER
+1. The basic word order of a Tsimshian sentenceis (a) temporal
+designator,transitive verb,ergative noun phrase,absolutive
+noun phrase (TEMP VB,, ERG ABS), or (b)temporaldesignator, in-
+transitive verb, absOlutivenounphrase(TEMP VB.",29.966480255126957,"Subjects of transitive sentencesin Tsim-
+shian are called ergatives.",31.27503776550293,"These suffixesare -t,-l, and -n.
 4. The suffix -tchanges a word to mean someone or something
 that uses (as aninstrument) the original word.
 gyemksun,moon
@@ -848,7 +874,7 @@ null and there is no -t enclitic on the temporal designation.
 ",66.90022277832031,"This second set is
 said to be marked because an -'n- is placed between the verb and
 the pronominal.",73.42688751220703
-0.7268742777071464,2,3,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,5,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
+0.7268742777071464,2,3,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," WOTd OFder... .. ee ccc cw eee eee wee ce cere te eee teens 59
  2.the temporal designators....... cc cece cccccvcs 59
  XL. BASICSENTENCE WORD ORDER...ccc ceece ccc eee eeece eee 59
  1 aeFos sO rs59
@@ -859,35 +885,9 @@ the pronominal.",73.42688751220703
 deals with word order in Tuscarora.",63.6805419921875," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
  2. aAgGwil (ASide) ..",63.790138244628906," Reduplication is a morphological device in which part of
-a word is copied or repeated.",69.83550262451172,"The temporal designatorsare:
-nahcompletedorperfect
- e.g., nahdzap""alreadymade""
-dm future and progressive
- e.g., dm dzap""will make,""""is going to make,""""ismaking""
-ta close to the present
- e.g., ta dzap""just beginningto make""
- nahta dzap""just finished making""
- tadm dzap ""just about to start making""
-wilsubsequent to another action or event
- e.g., wil dzap ""and then made""
- nah wil dzap ""and then already made""
- na'al dzap(variant of nah wil dzap)
- dm wil dzap ""and now will be making""
- wil dm dzap (variant of dm wil dzap)
- nahtawildzap ""and then justfinished making""
- nahta'aldzap(variant of nah tawil dzap)
- na'al ta dzap (variantof nah tawildzap)
- dm tawil""and now just about to start making""
- dm ta'al (variant of dm tawil)
- tawil dm (variant of dm tawil)
- ta'al dm (variant of dm tawil)
-yagwapresent (used only with action verbs)
- e€.g.,yagwa dzap""be making right now,"" ""is now making""
- BASIC SENTENCEWORD ORDER
-1. The basic word order of a Tsimshian sentenceis (a) temporal
-designator,transitive verb,ergative noun phrase,absolutive
-noun phrase (TEMP VB,, ERG ABS), or (b)temporaldesignator, in-
-transitive verb, absOlutivenounphrase(TEMP VB.",tensor([29.8377]),"Whenusedas a noun,thefirst
+a word is copied or repeated.",69.83550262451172,"The major part of the grammar is
+concerned with the structure and use of the verbs.
+",29.85605812072754,"Whenusedas a noun,thefirst
 set (-on) refers to the specific number of fathoms.
 volumeorgeneral linear
 k'ttlda'onk'ttldmgaay one
@@ -903,14 +903,14 @@ kpal'on ten
 PROCLITICS
 1. Morphemes that occur before nouns and verbs are called pro-
 clitics becausethey sometimesare prefixed directly to the
-word and at other times act as separate word prepositions.",tensor([30.6904])," Verbs agree in number with their
+word and at other times act as separate word prepositions.",30.799118041992188," Verbs agree in number with their
 absolutive(transitive object or intransitivesubject).",67.84050750732422," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
  2. aAgGwil (ASide) ..",66.2695083618164," The
 connective between the transitive verb and the ergativeis -a/
 null and there is no -t enclitic on the temporal designation.
 ",72.96936798095703
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"Subjects of transitive sentencesin Tsim-
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"Subjects of transitive sentencesin Tsim-
 shian are called ergatives.","88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
@@ -922,8 +922,8 @@ shian is very unlike Englishin that Tsimshian does not have
 subjectsand objects.",69.21728515625,"The enclitic-a
 attaches to the verb,even if it is intransitive and no noun
 phrase at all follows it.
-5.",tensor([29.5871]),"While not dealing in detail with all aspects of the Eskimo grammar,
-it concentrates on an analysis of noun and verb structures.",tensor([29.8013]),"88
+5.",29.67717742919922,"While not dealing in detail with all aspects of the Eskimo grammar,
+it concentrates on an analysis of noun and verb structures.",29.86205291748047,"88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
 ",67.76783752441406,"88
@@ -932,7 +932,7 @@ it concentrates on an analysis of noun and verb structures.",tensor([29.8013]),"
 ",66.18727111816406,"They are attached to the end of the
 verb.
 ",72.88745880126953
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"88
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
 "," 78
@@ -972,7 +972,7 @@ PROCLITICS
 1. Morphemes that occur before nouns and verbs are called pro-
 clitics becausethey sometimesare prefixed directly to the
 word and at other times act as separate word prepositions.",69.04473876953125,"While not dealing in detail with all aspects of the Eskimo grammar,
-it concentrates on an analysis of noun and verb structures.",tensor([28.0994])," Somereduplication formsare compound.
+it concentrates on an analysis of noun and verb structures.",28.22151756286621," Somereduplication formsare compound.
 swantk, sumsikswantk blow
 GRAMMATICAL SUFFIXES
 1. There are ten suffixes which,when attached to words,change
@@ -982,7 +982,7 @@ etc.).
 2. The suffix -x (sometimes -k) derivesa word that refers to a
 thing,place,or activity that is touched by or affected by the
 original word,or that is in some way a consequence of the origi-
-nal word.",tensor([29.7562])," 78
+nal word.",29.753082275390625," 78
  l. why/because SENteEnCEeS....cece cece cee eee ener eee eeees 78
  2.iff/then SentenceS..... cece cece cccccccceccccsccceccece 78
  3. whenever SENTENCES... cc cee cer ccnccecceccvssescescceces 78
@@ -1012,7 +1012,7 @@ original word,or that is in some way a consequence of the origi-
 nal word.",65.74900817871094,"Verbs and
 adjectivesshow number agreementin the same way that nouns show
 number.",72.62383270263672
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"$4.50
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"$4.50
 This volume contains 7 papers on ethnological subjects.","These suffixesare -t,-l, and -n.
 4. The suffix -tchanges a word to mean someone or something
 that uses (as aninstrument) the original word.
@@ -1069,10 +1069,10 @@ nal word.",62.63092041015625,"This second set is
 said to be marked because an -'n- is placed between the verb and
 the pronominal.",68.94188690185547,"It also containssect-
 ions dealing with pronunciation and sound changes,word forma-
-tion(morphology), and syntax.",tensor([27.7880])," The
+tion(morphology), and syntax.",27.914682388305664," The
 connective between the transitive verb and the ergativeis -a/
 null and there is no -t enclitic on the temporal designation.
-",tensor([28.6638]),"The enclitic-a
+",28.60039710998535,"The enclitic-a
 attaches to the verb,even if it is intransitive and no noun
 phrase at all follows it.
 5.",66.74156951904297," 78
@@ -1096,7 +1096,7 @@ Ottawa, Ontario.",65.71498107910156,"88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
 ",72.3952407836914
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"Gwin- (locative, motion, notinternal, afferent)
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.2824749127084042,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"Gwin- (locative, motion, notinternal, afferent)
 gwinse'ikpull (non-human object)
 gwinspiilpull (human object)
 10."," An introduction to
@@ -1107,12 +1107,12 @@ Labrador Inuttut word-formation is also provided.
 ",62.51382064819336,"While not dealing in detail with all aspects of the Eskimo grammar,
 it concentrates on an analysis of noun and verb structures.",68.65049743652344,"They are attached to the end of the
 verb.
-",tensor([27.3531]),"And justnowthe wolf has seen
+",27.56649208068848,"And justnowthe wolf has seen
 you(pl).
 If an absolutive pronominaloccurs in a sentence with a proper
 noun ergative, the -it/-t enclitic must attach to theend of the
 word immediately preceding the proper noun ergative.
- g)Bawilt niidzutDzon.",tensor([28.3827])," An introduction to
+ g)Bawilt niidzutDzon.",28.353351593017578," An introduction to
 Labrador Inuttut word-formation is also provided.
 ",66.46795654296875," ClassIV irregular words ina as in'father.'
  ha'yin haha'yinplaceupright
@@ -1134,7 +1134,7 @@ This grammar is designed to be used in conjunction with A Prac-
 ttealDtettonaryof the Coast Tsimshtan Language, compiledand
 edited by John Dunn, published by the National Museum of Man,
 Ottawa, Ontario.",72.13602447509766
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,3,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," 78
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,3,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," 78
  l. why/because SENteEnCEeS....cece cece cee eee ener eee eeees 78
  2.iff/then SentenceS..... cece cece cccccccceccccsccceccece 78
  3. whenever SENTENCES... cc cee cer ccnccecceccvssescescceces 78
@@ -1175,11 +1175,11 @@ c) Yagwateemlaks nagwat(Yagwa TEMP;tee VB,;-m-;lakABS;
 word order.",68.58486938476562,"There are several types of reduplication.
 2. The most common type of plural reduplication consists of
 copying the first consonant of the word and prefixing it to the
-word along with a vowel and a kay(k).",tensor([27.0342]),"It contains sections on pronunciation, sound changes, word formation
+word along with a vowel and a kay(k).",26.997222900390625,"It contains sections on pronunciation, sound changes, word formation
 (morphology), syntax, basic sentence types and their grammatical
 relationships and provides an explanation of the practical orthog-
 raphy currently in use.
-",tensor([27.5167]),"Vowels aresometimes insertedinto consonantclusters in order
+",27.552759170532227,"Vowels aresometimes insertedinto consonantclusters in order
 tomake them easiertopronounce.
  ""ntomsk, nika'ntomsk sacred
 woomxk, waxwoomasksuffer
@@ -1237,7 +1237,7 @@ etc.).
 thing,place,or activity that is touched by or affected by the
 original word,or that is in some way a consequence of the origi-
 nal word.",71.91812133789062
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"There are several types of reduplication.
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"There are several types of reduplication.
 2. The most common type of plural reduplication consists of
 copying the first consonant of the word and prefixing it to the
 word along with a vowel and a kay(k)."," Five suffixesare used to expressvarious typesofsimilarity
@@ -1249,9 +1249,9 @@ considered to be the same kind ofnounphrase, i.e., they are
 considered to have the same grammaticalfunction;they are both
 called absolutives.",68.01173400878906,"Verbs and
 adjectivesshow number agreementin the same way that nouns show
-number.",tensor([26.9662]),"They are attached to the end of the
+number.",26.9646110534668,"They are attached to the end of the
 verb.
-",tensor([27.1264]),"They are used to refer to languages
+",27.187427520751953,"They are used to refer to languages
 of dialects.
  gaalmx, geelmxNass-Gitksan language
  gyaanmx Nass-gitksan language
@@ -1265,7 +1265,7 @@ Labrador Inuttut word-formation is also provided.
 ",64.68051147460938," An introduction to
 Labrador Inuttut word-formation is also provided.
 ",71.56024932861328
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"ClassIirregularwordsin oo.
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"ClassIirregularwordsin oo.
 mookskmookmooksk white
  CLASS IIREDUPLICATION
 1. In a few words the plural reduplication consists of copying
@@ -1292,9 +1292,8 @@ ttealDtettonaryof the Coast Tsimshtan Language, compiledand
 edited by John Dunn, published by the National Museum of Man,
 Ottawa, Ontario.",61.83148193359375,"In a few other
 words the penultimatesyllable is stressed.
-2.",67.63513946533203,"Numerals
-for humans, long objects,canoes, humans aboard a conveyance,
-and unit measures can stand alone as nouns.",tensor([26.6856]),2 SARCEE VERB PARADIGMS.,tensor([27.0838]),"$3.50
+2.",67.63513946533203," Five suffixesare used to expressvarious typesofsimilarity
+to the original word.",26.87986183166504,2 SARCEE VERB PARADIGMS.,27.04099464416504,"$3.50
 This bibliography brings together the relevant materials in
 linguistics, anthropology, archaeology, folklore, and ethnomusicology
 for the Athapaskan Indian languages.",65.407470703125," Subjects of intransitive sentences
@@ -1303,7 +1302,7 @@ as is the case in English.
 ",64.63053894042969," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
 subjectsand objects.",71.30741882324219
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," Five suffixesare used to expressvarious typesofsimilarity
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," Five suffixesare used to expressvarious typesofsimilarity
 to the original word."," Subjects of intransitive sentences
 are not consideredto be like subjects of transitivesentences,
 as is the case in English.
@@ -1312,11 +1311,11 @@ to the original word.",61.57243347167969,"It contains sections on pronunciation,
 (morphology), syntax, basic sentence types and their grammatical
 relationships and provides an explanation of the practical orthog-
 raphy currently in use.
-",67.3050308227539," Five suffixesare used to expressvarious typesofsimilarity
-to the original word.",tensor([26.6280]),"There are several types of reduplication.
-2. The most common type of plural reduplication consists of
-copying the first consonant of the word and prefixing it to the
-word along with a vowel and a kay(k).",tensor([26.8573])," ClassIV irregular words ina as in'father.'
+",67.3050308227539,"Numerals
+for humans, long objects,canoes, humans aboard a conveyance,
+and unit measures can stand alone as nouns.",26.777002334594727,"Verbs and
+adjectivesshow number agreementin the same way that nouns show
+number.",26.868650436401367," ClassIV irregular words ina as in'father.'
  ha'yin haha'yinplaceupright
 7.",65.39997100830078,"Gwin- (locative, motion, notinternal, afferent)
 gwinse'ikpull (non-human object)
@@ -1364,7 +1363,7 @@ hard
  daxsnthrow flat onthe water,make
  skip alongthe water
 6.",71.28672790527344
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"It contains sections on pronunciation, sound changes, word formation
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"It contains sections on pronunciation, sound changes, word formation
 (morphology), syntax, basic sentence types and their grammatical
 relationships and provides an explanation of the practical orthog-
 raphy currently in use.
@@ -1375,9 +1374,10 @@ adjectivesshow number agreementin the same way that nouns show
 number.",61.31798553466797,"88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
-",66.99121856689453,2 SARCEE VERB PARADIGMS.,tensor([26.4191]),"Verbs and
-adjectivesshow number agreementin the same way that nouns show
-number.",tensor([26.7248])," The
+",66.99121856689453,2 SARCEE VERB PARADIGMS.,26.265928268432617,"There are several types of reduplication.
+2. The most common type of plural reduplication consists of
+copying the first consonant of the word and prefixing it to the
+word along with a vowel and a kay(k).",26.708492279052734," The
 connective between the transitive verb and the ergativeis -a/
 null and there is no -t enclitic on the temporal designation.
 ",65.35653686523438,"They are used to refer to languages
@@ -1406,7 +1406,7 @@ PROCLITICS
 1. Morphemes that occur before nouns and verbs are called pro-
 clitics becausethey sometimesare prefixed directly to the
 word and at other times act as separate word prepositions.",70.62129974365234
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," 89
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
  LANGUAGE.","Vowels aresometimes insertedinto consonantclusters in order
 tomake them easiertopronounce.
@@ -1465,16 +1465,16 @@ you(pl).
 If an absolutive pronominaloccurs in a sentence with a proper
 noun ergative, the -it/-t enclitic must attach to theend of the
 word immediately preceding the proper noun ergative.
- g)Bawilt niidzutDzon.",tensor([26.2056])," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
+ g)Bawilt niidzutDzon.",26.249534606933597," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
- 2. aAgGwil (ASide) ..",tensor([26.5370]),"ClassIirregularwordsin oo.
+ 2. aAgGwil (ASide) ..",26.478004455566406,"ClassIirregularwordsin oo.
 mookskmookmooksk white
  CLASS IIREDUPLICATION
 1. In a few words the plural reduplication consists of copying
 the first consonant of the word and prefixing it to the word
 with a vowel and an ach(x).",64.85980224609375," Five suffixesare used to expressvarious typesofsimilarity
 to the original word.",63.94630813598633,2 SARCEE VERB PARADIGMS.,70.3507308959961
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"In a few other
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.3416994770341407,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7191339578246786,0,0.7634615356888077,"In a few other
 words the penultimatesyllable is stressed.
 2.","Verbs and
 adjectivesshow number agreementin the same way that nouns show
@@ -1484,9 +1484,9 @@ the pronominal.",60.95235443115234," 2... 2.2... ewwwwww ee cercece ensenvvrvce 
  1. relationship toindependent words.............60- 51
  2. aAgGwil (ASide) ..",65.60393524169922," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
- 2. aAgGwil (ASide) ..",tensor([25.6716]),"It also containssect-
-ions dealing with pronunciation and sound changes,word forma-
-tion(morphology), and syntax.",tensor([26.5120]),"Nancy Bonvillain.
+ 2. aAgGwil (ASide) ..",25.62065696716309," ClassIV irregular words ina as in'father.'
+ ha'yin haha'yinplaceupright
+7.",26.41899871826172,"Nancy Bonvillain.
 249 p. $2.50
 Presentation of the general characteristics of Mohawk; definition
 of the word and word formation, completed by a discussion of the
@@ -1495,7 +1495,7 @@ adjectivesshow number agreementin the same way that nouns show
 number.",63.90489959716797," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
  2. aAgGwil (ASide) ..",70.18265533447266
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,2,0.3775873654928268,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,3,0.7729657905127076,0,0.7634615356888077,"The enclitic-a
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,2,0.3775873654928268,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,3,0.7729657905127076,0,0.7634615356888077,"The enclitic-a
 attaches to the verb,even if it is intransitive and no noun
 phrase at all follows it.
 5.","They are used to refer to languages
@@ -1516,12 +1516,13 @@ Labrador Inuttut word-formation is also provided.
  2.the absolutive enclitic..... cc. eee ee ee wee ee eenes60
  3.the ergative eEnclitic...... cece ccc cee eee ee ee eee60
  4.absolutive incorporation... ... cee cee ee ec ee eens61
- 5.",65.49315643310547," The
-connective between the transitive verb and the ergativeis -a/
-null and there is no -t enclitic on the temporal designation.
-",tensor([25.1635])," ClassIV irregular words ina as in'father.'
- ha'yin haha'yinplaceupright
-7.",tensor([26.2849]),"This volume contains five papers on linguistic subjects: three are
+ 5.",65.49315643310547,"It contains sections on pronunciation, sound changes, word formation
+(morphology), syntax, basic sentence types and their grammatical
+relationships and provides an explanation of the practical orthog-
+raphy currently in use.
+",25.261125564575195,"It also containssect-
+ions dealing with pronunciation and sound changes,word forma-
+tion(morphology), and syntax.",26.418724060058594,"This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
  (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
 1964); and, oneonAlgonquin (Hamp 1974).
@@ -1529,7 +1530,7 @@ No. 51CONTESINDIENS DE LABASSECOTE NORDDU SAINT
  LAURENT.",64.48567962646484," The paper by M. Mithun
 deals with word order in Tuscarora.",63.892276763916016,"While not dealing in detail with all aspects of the Eskimo grammar,
 it concentrates on an analysis of noun and verb structures.",70.1523208618164
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,5,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," 14
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,5,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," 14
  2.class I irregular words in i........cee ee eee wee 15
  3.class I irregular words in to...eee ee ee ee eee 15
  4.class I irregular words in uU..........ceceeeeees15
@@ -1547,11 +1548,10 @@ TsimshianEnglish
 ERGATIVE = SUBJECT (withtransitiveverb)
 ABSOLUTIVE = SUBJECT (withintransitive verb)
 ABSOLUTIVE = DIRECT OBJECT
-2.",65.35533142089844,"It contains sections on pronunciation, sound changes, word formation
-(morphology), syntax, basic sentence types and their grammatical
-relationships and provides an explanation of the practical orthog-
-raphy currently in use.
-",tensor([25.1172]),"They are used to refer to languages
+2.",65.35533142089844," The
+connective between the transitive verb and the ergativeis -a/
+null and there is no -t enclitic on the temporal designation.
+",25.06333351135254,"They are used to refer to languages
 of dialects.
  gaalmx, geelmxNass-Gitksan language
  gyaanmx Nass-gitksan language
@@ -1560,7 +1560,7 @@ of dialects.
  tingiitxTlingit language
  sgttimx Southern Tsimshian dialect
 CARDINAL NUMBERS
-1.",tensor([25.9131]),"Gwin- (locative, motion, notinternal, afferent)
+1.",25.907716751098633,"Gwin- (locative, motion, notinternal, afferent)
 gwinse'ikpull (non-human object)
 gwinspiilpull (human object)
 10.",64.40552520751953,"$3.50
@@ -1568,7 +1568,7 @@ This bibliography brings together the relevant materials in
 linguistics, anthropology, archaeology, folklore, and ethnomusicology
 for the Athapaskan Indian languages.",63.36482620239258," Verbs agree in number with their
 absolutive(transitive object or intransitivesubject).",69.98736572265625
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"Numerals
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"Numerals
 for humans, long objects,canoes, humans aboard a conveyance,
 and unit measures can stand alone as nouns.",2 SARCEE VERB PARADIGMS.,59.95499420166016,"They are used to refer to languages
 of dialects.
@@ -1581,19 +1581,12 @@ of dialects.
 CARDINAL NUMBERS
 1.",60.19783782958984," ClassIV irregular words ina as in'father.'
  ha'yin haha'yinplaceupright
-7.",65.25088500976562,"They are used to refer to languages
-of dialects.
- gaalmx, geelmxNass-Gitksan language
- gyaanmx Nass-gitksan language
- gyitksanmxNass-Gitksan language
- haydmxHaida language
- tingiitxTlingit language
- sgttimx Southern Tsimshian dialect
-CARDINAL NUMBERS
-1.",tensor([24.8466]),"Gwin- (locative, motion, notinternal, afferent)
+7.",65.25088500976562,"In a few other
+words the penultimatesyllable is stressed.
+2.",25.021114349365234,"Gwin- (locative, motion, notinternal, afferent)
 gwinse'ikpull (non-human object)
 gwinspiilpull (human object)
-10.",tensor([25.6950])," 14
+10.",25.587358474731445," 14
  2.class I irregular words in i........cee ee eee wee 15
  3.class I irregular words in to...eee ee ee ee eee 15
  4.class I irregular words in uU..........ceceeeeees15
@@ -1603,7 +1596,7 @@ gwinspiilpull (human object)
 concerned with the structure and use of the verbs.
 ",63.320255279541016," Five suffixesare used to expressvarious typesofsimilarity
 to the original word.",69.93285369873047
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," ClassIV irregular words ina as in'father.'
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," ClassIV irregular words ina as in'father.'
  ha'yin haha'yinplaceupright
 7.","The major part of the grammar is
 concerned with the structure and use of the verbs.
@@ -1613,51 +1606,18 @@ gwinspiilpull (human object)
 10.",59.965110778808594," The
 connective between the transitive verb and the ergativeis -a/
 null and there is no -t enclitic on the temporal designation.
-",64.64358520507812,"In a few other
-words the penultimatesyllable is stressed.
-2.",tensor([24.7922]),"These suffixesare -t,-l, and -n.
-4. The suffix -tchanges a word to mean someone or something
-that uses (as aninstrument) the original word.
-gyemksun,moon
- gyemgat astronomer
-gyiims~cedar bark
- gyimstmatch(originally shredded
-cedar bark used to start
-a fire)
-gaks awaken
- gakst rattle (noun)
- 33
- 34
- originalwordderived wor ameaning
- waay paddle, oar
- waaytpectoralfin, ventral fin
-5. The suffixes -l and -n change a word to mean a person,thing,
-or action that has as it goal, intention, or purpose, theorigi-
-nal word or something similar to the original word.
- buublow, sound (of a whale)
- buul,buu'l warn
- hasaax lack
- hasaakldesire
- +00drift,swim(of a fish)
- tool,toowl push thru the water
- p'uu scatter(intransitive)
- p'uulscatter(transitive)
- t'ia'k water spout
- t'a'kyltwist
- sakskclean(adjective)
- saksgn clean(transitive)
- sayp bone
- saypnharden (transitive), make
-hard
- teky bent, crooked,twisted
- ta'gyinbend (transitive)
- hookscome
- hooksk be with
- hooksn put with,be put with
- daxs flounder
- daxsnthrow flat onthe water,make
- skip alongthe water
-6.",tensor([25.1036])," Five suffixesare used to expressvarious typesofsimilarity
+",64.64358520507812,"They are used to refer to languages
+of dialects.
+ gaalmx, geelmxNass-Gitksan language
+ gyaanmx Nass-gitksan language
+ gyitksanmxNass-Gitksan language
+ haydmxHaida language
+ tingiitxTlingit language
+ sgttimx Southern Tsimshian dialect
+CARDINAL NUMBERS
+1.",25.00881767272949,"Numerals
+for humans, long objects,canoes, humans aboard a conveyance,
+and unit measures can stand alone as nouns.",25.11836051940918," Five suffixesare used to expressvarious typesofsimilarity
 to the original word.",64.04922485351562,"Vowels aresometimes insertedinto consonantclusters in order
 tomake them easiertopronounce.
  ""ntomsk, nika'ntomsk sacred
@@ -1666,7 +1626,7 @@ gyelttks, gyilgyalksfeel
 7.",63.16936492919922,"In a few other
 words the penultimatesyllable is stressed.
 2.",69.8014144897461
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," Tsim-
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
 subjectsand objects.","Numerals
 for humans, long objects,canoes, humans aboard a conveyance,
@@ -1715,14 +1675,14 @@ hard
  daxs flounder
  daxsnthrow flat onthe water,make
  skip alongthe water
-6.",tensor([24.6686])," Five suffixesare used to expressvarious typesofsimilarity
-to the original word.",tensor([24.9908]),"Verbs and
+6.",24.66579818725586," Five suffixesare used to expressvarious typesofsimilarity
+to the original word.",25.102121353149414,"Verbs and
 adjectivesshow number agreementin the same way that nouns show
 number.",64.04337310791016,"This second set is
 said to be marked because an -'n- is placed between the verb and
 the pronominal.",63.10087585449219,"Words are sometimes puttogethertoform anew wordwith a
 new meaning.",69.67626190185547
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"$3.50
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"$3.50
 This bibliography brings together the relevant materials in
 linguistics, anthropology, archaeology, folklore, and ethnomusicology
 for the Athapaskan Indian languages.","ClassIirregularwordsin oo.
@@ -1731,18 +1691,54 @@ mookskmookmooksk white
 1. In a few words the plural reduplication consists of copying
 the first consonant of the word and prefixing it to the word
 with a vowel and an ach(x).",59.586273193359375,"Subjects of transitive sentencesin Tsim-
-shian are called ergatives.",59.64604568481445,2 SARCEE VERB PARADIGMS.,64.06307220458984,"Vowels aresometimes insertedinto consonantclusters in order
-tomake them easiertopronounce.
- ""ntomsk, nika'ntomsk sacred
-woomxk, waxwoomasksuffer
-gyelttks, gyilgyalksfeel
-7.",tensor([23.9539]),"Numerals
-for humans, long objects,canoes, humans aboard a conveyance,
-and unit measures can stand alone as nouns.",tensor([24.9762]),"Numerals
+shian are called ergatives.",59.64604568481445,2 SARCEE VERB PARADIGMS.,64.06307220458984,"Words are sometimes puttogethertoform anew wordwith a
+new meaning.",24.21048355102539,"These suffixesare -t,-l, and -n.
+4. The suffix -tchanges a word to mean someone or something
+that uses (as aninstrument) the original word.
+gyemksun,moon
+ gyemgat astronomer
+gyiims~cedar bark
+ gyimstmatch(originally shredded
+cedar bark used to start
+a fire)
+gaks awaken
+ gakst rattle (noun)
+ 33
+ 34
+ originalwordderived wor ameaning
+ waay paddle, oar
+ waaytpectoralfin, ventral fin
+5. The suffixes -l and -n change a word to mean a person,thing,
+or action that has as it goal, intention, or purpose, theorigi-
+nal word or something similar to the original word.
+ buublow, sound (of a whale)
+ buul,buu'l warn
+ hasaax lack
+ hasaakldesire
+ +00drift,swim(of a fish)
+ tool,toowl push thru the water
+ p'uu scatter(intransitive)
+ p'uulscatter(transitive)
+ t'ia'k water spout
+ t'a'kyltwist
+ sakskclean(adjective)
+ saksgn clean(transitive)
+ sayp bone
+ saypnharden (transitive), make
+hard
+ teky bent, crooked,twisted
+ ta'gyinbend (transitive)
+ hookscome
+ hooksk be with
+ hooksn put with,be put with
+ daxs flounder
+ daxsnthrow flat onthe water,make
+ skip alongthe water
+6.",24.925514221191406,"Numerals
 for humans, long objects,canoes, humans aboard a conveyance,
 and unit measures can stand alone as nouns.",63.755470275878906,2 SARCEE VERB PARADIGMS.,63.081817626953125," Reduplication is a morphological device in which part of
 a word is copied or repeated.",69.2180404663086
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"The major part of the grammar is
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"The major part of the grammar is
 concerned with the structure and use of the verbs.
 ","Gwin- (locative, motion, notinternal, afferent)
 gwinse'ikpull (non-human object)
@@ -1753,10 +1749,14 @@ tomake them easiertopronounce.
 woomxk, waxwoomasksuffer
 gyelttks, gyilgyalksfeel
 7.",59.030086517333984," Five suffixesare used to expressvarious typesofsimilarity
-to the original word.",63.92861557006836,"Words are sometimes puttogethertoform anew wordwith a
-new meaning.",tensor([23.7530])," Tsim-
+to the original word.",63.92861557006836,"Vowels aresometimes insertedinto consonantclusters in order
+tomake them easiertopronounce.
+ ""ntomsk, nika'ntomsk sacred
+woomxk, waxwoomasksuffer
+gyelttks, gyilgyalksfeel
+7.",24.141098022460938," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
-subjectsand objects.",tensor([24.6957]),2 SARCEE VERB PARADIGMS.,63.73345184326172,"There are several types of reduplication.
+subjectsand objects.",24.61655616760254,2 SARCEE VERB PARADIGMS.,63.73345184326172,"There are several types of reduplication.
 2. The most common type of plural reduplication consists of
 copying the first consonant of the word and prefixing it to the
 word along with a vowel and a kay(k).",62.37386322021485,"Nancy Bonvillain.
@@ -1764,7 +1764,7 @@ word along with a vowel and a kay(k).",62.37386322021485,"Nancy Bonvillain.
 Presentation of the general characteristics of Mohawk; definition
 of the word and word formation, completed by a discussion of the
 phonemics and morphophonemics.",68.66527557373047
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"Nancy Bonvillain.
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077,"Nancy Bonvillain.
 249 p. $2.50
 Presentation of the general characteristics of Mohawk; definition
 of the word and word formation, completed by a discussion of the
@@ -1788,12 +1788,12 @@ of dialects.
 CARDINAL NUMBERS
 1.",62.74903869628906," An introduction to
 Labrador Inuttut word-formation is also provided.
-",tensor([23.5396]),"Vowels aresometimes insertedinto consonantclusters in order
+",23.70822525024414,"Vowels aresometimes insertedinto consonantclusters in order
 tomake them easiertopronounce.
  ""ntomsk, nika'ntomsk sacred
 woomxk, waxwoomasksuffer
 gyelttks, gyilgyalksfeel
-7.",tensor([24.4438]),"There are several types of reduplication.
+7.",24.602863311767578,"There are several types of reduplication.
 2. The most common type of plural reduplication consists of
 copying the first consonant of the word and prefixing it to the
 word along with a vowel and a kay(k).",63.59123611450195,"Nancy Bonvillain.
@@ -1804,7 +1804,7 @@ phonemics and morphophonemics.",62.29427337646485,"There are several types of re
 2. The most common type of plural reduplication consists of
 copying the first consonant of the word and prefixing it to the
 word along with a vowel and a kay(k).",68.33944702148438
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," Should that be the case,
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.6678286265072922,0,0.7729657905127076,0,0.7634615356888077," Should that be the case,
 your indulgence is requested,bearing in mind the object of
 the Series.","$3.50
 This bibliography brings together the relevant materials in
@@ -1818,12 +1818,11 @@ you(pl).
 If an absolutive pronominaloccurs in a sentence with a proper
 noun ergative, the -it/-t enclitic must attach to theend of the
 word immediately preceding the proper noun ergative.
- g)Bawilt niidzutDzon.",61.97720718383789,"Gwin- (locative, motion, notinternal, afferent)
-gwinse'ikpull (non-human object)
-gwinspiilpull (human object)
-10.",tensor([23.4694])," An introduction to
+ g)Bawilt niidzutDzon.",61.97720718383789," ClassIV irregular words ina as in'father.'
+ ha'yin haha'yinplaceupright
+7.",23.542911529541016," An introduction to
 Labrador Inuttut word-formation is also provided.
-",tensor([24.1521])," The first volume includes papers presented at two of
+",24.0374813079834," The first volume includes papers presented at two of
 the eight sessions:""Myth and Culture"" and ""The Theory of
 Markedness in Social Relations and Language"".",63.38613128662109,"ClassIirregularwordsin oo.
 mookskmookmooksk white
@@ -1836,7 +1835,7 @@ tomake them easiertopronounce.
 woomxk, waxwoomasksuffer
 gyelttks, gyilgyalksfeel
 7.",67.49947357177734
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,3,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"Verbs and
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,3,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"Verbs and
 adjectivesshow number agreementin the same way that nouns show
 number.","They are attached to the end of the
 verb.
@@ -1844,12 +1843,13 @@ verb.
 for humans, long objects,canoes, humans aboard a conveyance,
 and unit measures can stand alone as nouns.",58.46004486083984," An introduction to
 Labrador Inuttut word-formation is also provided.
-",61.529296875," ClassIV irregular words ina as in'father.'
- ha'yin haha'yinplaceupright
-7.",tensor([23.4637]),"88
+",61.529296875,"Gwin- (locative, motion, notinternal, afferent)
+gwinse'ikpull (non-human object)
+gwinspiilpull (human object)
+10.",23.479995727539062,"88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
-",tensor([23.9793])," The paper by M. Mithun
+",24.008193969726562," The paper by M. Mithun
 deals with word order in Tuscarora.",63.11322021484375,"This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
  (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
@@ -1865,7 +1865,7 @@ of dialects.
  sgttimx Southern Tsimshian dialect
 CARDINAL NUMBERS
 1.",67.48089599609375
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"This second set is
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"This second set is
 said to be marked because an -'n- is placed between the verb and
 the pronominal.","This second set is
 said to be marked because an -'n- is placed between the verb and
@@ -1877,11 +1877,11 @@ mookskmookmooksk white
 the first consonant of the word and prefixing it to the word
 with a vowel and an ach(x).",61.07109069824219," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
-subjectsand objects.",tensor([23.4502]),"Nancy Bonvillain.
+subjectsand objects.",23.337278366088867,"Nancy Bonvillain.
 249 p. $2.50
 Presentation of the general characteristics of Mohawk; definition
 of the word and word formation, completed by a discussion of the
-phonemics and morphophonemics.",tensor([23.9242])," Subjects of intransitive sentences
+phonemics and morphophonemics.",23.797746658325195," Subjects of intransitive sentences
 are not consideredto be like subjects of transitivesentences,
 as is the case in English.
 ",62.81479644775391," The first volume includes papers presented at two of
@@ -1889,7 +1889,7 @@ the eight sessions:""Myth and Culture"" and ""The Theory of
 Markedness in Social Relations and Language"".",61.95233917236328," The first volume includes papers presented at two of
 the eight sessions:""Myth and Culture"" and ""The Theory of
 Markedness in Social Relations and Language"".",66.94319915771484
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,2 SARCEE VERB PARADIGMS.," The first volume includes papers presented at two of
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,2 SARCEE VERB PARADIGMS.," The first volume includes papers presented at two of
 the eight sessions:""Myth and Culture"" and ""The Theory of
 Markedness in Social Relations and Language"".",59.04478454589844,"ClassIirregularwordsin oo.
 mookskmookmooksk white
@@ -1904,12 +1904,12 @@ No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
  4.class I irregular words in uU..........ceceeeeees15
  5.class I irregular words in @.........eeeee eeeeee15
  6.class I irregular words in OO.....cee wwe e cence15
- IX. CLASSII REDUPLICATION...",tensor([23.2226]),"ClassIirregularwordsin oo.
+ IX. CLASSII REDUPLICATION...",23.192916870117188,"ClassIirregularwordsin oo.
 mookskmookmooksk white
  CLASS IIREDUPLICATION
 1. In a few words the plural reduplication consists of copying
 the first consonant of the word and prefixing it to the word
-with a vowel and an ach(x).",tensor([23.9229]),"Gwit-(locative,motion,notinternal,efferent,proximate)
+with a vowel and an ach(x).",23.643526077270508,"Gwit-(locative,motion,notinternal,efferent,proximate)
 gwitt'uuspush (human object)
 gwit'aax lip
 gwiiwohget out
@@ -1919,7 +1919,7 @@ and unit measures can stand alone as nouns.",61.85221099853516,"The enclitic-a
 attaches to the verb,even if it is intransitive and no noun
 phrase at all follows it.
 5.",66.6797866821289
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"They are attached to the end of the
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"They are attached to the end of the
 verb.
 ","There are several types of reduplication.
 2. The most common type of plural reduplication consists of
@@ -1941,13 +1941,13 @@ mookskmookmooksk white
  CLASS IIREDUPLICATION
 1. In a few words the plural reduplication consists of copying
 the first consonant of the word and prefixing it to the word
-with a vowel and an ach(x).",tensor([22.6040])," 14
+with a vowel and an ach(x).",22.48430633544922," 14
  2.class I irregular words in i........cee ee eee wee 15
  3.class I irregular words in to...eee ee ee ee eee 15
  4.class I irregular words in uU..........ceceeeeees15
  5.class I irregular words in @.........eeeee eeeeee15
  6.class I irregular words in OO.....cee wwe e cence15
- IX. CLASSII REDUPLICATION...",tensor([23.2136])," 89
+ IX. CLASSII REDUPLICATION...",23.25411033630371," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
  LANGUAGE.",62.381778717041016,"Gwit-(locative,motion,notinternal,efferent,proximate)
 gwitt'uuspush (human object)
@@ -1959,7 +1959,7 @@ If an absolutive pronominaloccurs in a sentence with a proper
 noun ergative, the -it/-t enclitic must attach to theend of the
 word immediately preceding the proper noun ergative.
  g)Bawilt niidzutDzon.",66.67149353027344
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"Words are sometimes puttogethertoform anew wordwith a
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"Words are sometimes puttogethertoform anew wordwith a
 new meaning.","This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
  (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
@@ -1979,9 +1979,9 @@ No. 51CONTESINDIENS DE LABASSECOTE NORDDU SAINT
  LAURENT.",60.271392822265625,"88
 37 SOME GRAMMATICAL ASPECTS OF LABRADORINUTTUT(ESKIMO):
  A Surveyofthe InflectionalParadigms of Nouns and Verbs.
-",tensor([22.2930]),"In a few other
+",22.347003936767575,"In a few other
 words the penultimatesyllable is stressed.
-2.",tensor([22.8009]),"In a few other
+2.",22.792098999023438,"In a few other
 words the penultimatesyllable is stressed.
 2.",62.03931427001953," 14
  2.class I irregular words in i........cee ee eee wee 15
@@ -1992,7 +1992,7 @@ words the penultimatesyllable is stressed.
  IX. CLASSII REDUPLICATION...",61.37171936035156,"Numerals
 for humans, long objects,canoes, humans aboard a conveyance,
 and unit measures can stand alone as nouns.",66.29849243164062
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," An introduction to
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," An introduction to
 Labrador Inuttut word-formation is also provided.
 ","Subjects of transitive sentencesin Tsim-
 shian are called ergatives.",58.143497467041016,"$3.50
@@ -2001,12 +2001,9 @@ linguistics, anthropology, archaeology, folklore, and ethnomusicology
 for the Athapaskan Indian languages.",57.4173583984375,"Gwin- (locative, motion, notinternal, afferent)
 gwinse'ikpull (non-human object)
 gwinspiilpull (human object)
-10.",60.09363555908203,"Nancy Bonvillain.
-249 p. $2.50
-Presentation of the general characteristics of Mohawk; definition
-of the word and word formation, completed by a discussion of the
-phonemics and morphophonemics.",tensor([21.9810])," Reduplication is a morphological device in which part of
-a word is copied or repeated.",tensor([22.4092]),"They are attached to the end of the
+10.",60.09363555908203," Reduplication is a morphological device in which part of
+a word is copied or repeated.",22.229490280151367," Reduplication is a morphological device in which part of
+a word is copied or repeated.",22.243000030517578,"They are attached to the end of the
 verb.
 ",61.67286682128906,"Subjects of transitive sentencesin Tsim-
 shian are called ergatives.",61.17399978637695,"ClassIirregularwordsin oo.
@@ -2015,7 +2012,7 @@ mookskmookmooksk white
 1. In a few words the plural reduplication consists of copying
 the first consonant of the word and prefixing it to the word
 with a vowel and an ach(x).",66.24664306640625
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," Reduplication is a morphological device in which part of
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," Reduplication is a morphological device in which part of
 a word is copied or repeated.","In a few other
 words the penultimatesyllable is stressed.
 2.",57.503944396972656,"In a few other
@@ -2037,9 +2034,10 @@ a nontechnicalintroduction to the Coast Tsimshian language.
 This grammar is designed to be used in conjunction with A Prac-
 ttealDtettonaryof the Coast Tsimshtan Language, compiledand
 edited by John Dunn, published by the National Museum of Man,
-Ottawa, Ontario.",60.03239059448242," Reduplication is a morphological device in which part of
-a word is copied or repeated.",tensor([21.9692])," Sometimesa
-yod offglide is added to unround k at the end of a word.",tensor([22.0757]),"This second set is
+Ottawa, Ontario.",60.03239059448242," The first volume includes papers presented at two of
+the eight sessions:""Myth and Culture"" and ""The Theory of
+Markedness in Social Relations and Language"".",22.07430458068848," Sometimesa
+yod offglide is added to unround k at the end of a word.",21.968034744262695,"This second set is
 said to be marked because an -'n- is placed between the verb and
 the pronominal.",61.31443405151367,"In a few other
 words the penultimatesyllable is stressed.
@@ -2048,7 +2046,7 @@ gwitt'uuspush (human object)
 gwit'aax lip
 gwiiwohget out
 ll.",65.63909912109375
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"It also containssect-
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"It also containssect-
 ions dealing with pronunciation and sound changes,word forma-
 tion(morphology), and syntax."," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
@@ -2096,13 +2094,15 @@ hard
  daxs flounder
  daxsnthrow flat onthe water,make
  skip alongthe water
-6.",56.90243148803711," The first volume includes papers presented at two of
-the eight sessions:""Myth and Culture"" and ""The Theory of
-Markedness in Social Relations and Language"".",tensor([21.9128]),"Gwit-(locative,motion,notinternal,efferent,proximate)
+6.",56.90243148803711,"Nancy Bonvillain.
+249 p. $2.50
+Presentation of the general characteristics of Mohawk; definition
+of the word and word formation, completed by a discussion of the
+phonemics and morphophonemics.",22.01874351501465,"Gwit-(locative,motion,notinternal,efferent,proximate)
 gwitt'uuspush (human object)
 gwit'aax lip
 gwiiwohget out
-ll.",tensor([21.3803]),"The major part of the grammar is
+ll.",21.325576782226562,"The major part of the grammar is
 concerned with the structure and use of the verbs.
 ",61.23392105102539,"They are attached to the end of the
 verb.
@@ -2110,7 +2110,7 @@ verb.
 gwinse'ikpull (non-human object)
 gwinspiilpull (human object)
 10.",65.33094787597656
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"Gwit-(locative,motion,notinternal,efferent,proximate)
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"Gwit-(locative,motion,notinternal,efferent,proximate)
 gwitt'uuspush (human object)
 gwit'aax lip
 gwiiwohget out
@@ -2125,14 +2125,14 @@ gwiiwohget out
 ll.",57.117183685302734," Should that be the case,
 your indulgence is requested,bearing in mind the object of
 the Series.",56.17716979980469," Sometimesa
-yod offglide is added to unround k at the end of a word.",tensor([21.1585])," The first volume includes papers presented at two of
+yod offglide is added to unround k at the end of a word.",21.16426658630371," The first volume includes papers presented at two of
 the eight sessions:""Myth and Culture"" and ""The Theory of
-Markedness in Social Relations and Language"".",tensor([20.6435]),"Subjects of transitive sentencesin Tsim-
+Markedness in Social Relations and Language"".",20.718399047851562,"Subjects of transitive sentencesin Tsim-
 shian are called ergatives.",60.48027801513672,"While not dealing in detail with all aspects of the Eskimo grammar,
 it concentrates on an analysis of noun and verb structures.",60.48154830932617," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
  LANGUAGE.",65.26163482666016
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," Sometimesa
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," Sometimesa
 yod offglide is added to unround k at the end of a word.","While not dealing in detail with all aspects of the Eskimo grammar,
 it concentrates on an analysis of noun and verb structures.",56.97317123413086,"This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
@@ -2146,7 +2146,7 @@ word along with a vowel and a kay(k).",56.134368896484375,"Gwit-(locative,motion
 gwitt'uuspush (human object)
 gwit'aax lip
 gwiiwohget out
-ll.",tensor([20.9888])," 78
+ll.",21.11762237548828," 78
  l. why/because SENteEnCEeS....cece cece cee eee ener eee eeees 78
  2.iff/then SentenceS..... cece cece cccccccceccccsccceccece 78
  3. whenever SENTENCES... cc cee cer ccnccecceccvssescescceces 78
@@ -2163,13 +2163,13 @@ a nontechnicalintroduction to the Coast Tsimshian language.
 This grammar is designed to be used in conjunction with A Prac-
 ttealDtettonaryof the Coast Tsimshtan Language, compiledand
 edited by John Dunn, published by the National Museum of Man,
-Ottawa, Ontario.",tensor([20.6260])," Tsim-
+Ottawa, Ontario.",20.629003524780273," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
 subjectsand objects.",60.15055084228516," Reduplication is a morphological device in which part of
 a word is copied or repeated.",60.37010955810547," ClassIV irregular words ina as in'father.'
  ha'yin haha'yinplaceupright
 7.",65.15190887451172
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," The
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," The
 connective between the transitive verb and the ergativeis -a/
 null and there is no -t enclitic on the temporal designation.
 "," 89
@@ -2183,8 +2183,8 @@ a word is copied or repeated.",55.70500946044922," 14
  6.class I irregular words in OO.....cee wwe e cence15
  IX. CLASSII REDUPLICATION...",54.1758041381836," Should that be the case,
 your indulgence is requested,bearing in mind the object of
-the Series.",tensor([20.8727]),"Words are sometimes puttogethertoform anew wordwith a
-new meaning.",tensor([19.7004])," Reduplication is a morphological device in which part of
+the Series.",20.712677001953125,"Words are sometimes puttogethertoform anew wordwith a
+new meaning.",19.68413543701172," Reduplication is a morphological device in which part of
 a word is copied or repeated.",59.32827758789063," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
  LANGUAGE.",60.023193359375," 14
@@ -2194,7 +2194,7 @@ No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
  5.class I irregular words in @.........eeeee eeeeee15
  6.class I irregular words in OO.....cee wwe e cence15
  IX. CLASSII REDUPLICATION...",64.74281311035156
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"While not dealing in detail with all aspects of the Eskimo grammar,
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"While not dealing in detail with all aspects of the Eskimo grammar,
 it concentrates on an analysis of noun and verb structures."," Reduplication is a morphological device in which part of
 a word is copied or repeated.",55.37897872924805," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
@@ -2218,16 +2218,16 @@ a nontechnicalintroduction to the Coast Tsimshian language.
 This grammar is designed to be used in conjunction with A Prac-
 ttealDtettonaryof the Coast Tsimshtan Language, compiledand
 edited by John Dunn, published by the National Museum of Man,
-Ottawa, Ontario.",tensor([20.4681])," Should that be the case,
+Ottawa, Ontario.",20.413864135742188," Should that be the case,
 your indulgence is requested,bearing in mind the object of
-the Series.",tensor([19.5312]),"While not dealing in detail with all aspects of the Eskimo grammar,
+the Series.",19.435625076293945,"While not dealing in detail with all aspects of the Eskimo grammar,
 it concentrates on an analysis of noun and verb structures.",58.84603118896485," Tsim-
 shian is very unlike Englishin that Tsimshian does not have
 subjectsand objects.",59.9747428894043,"$3.50
 This bibliography brings together the relevant materials in
 linguistics, anthropology, archaeology, folklore, and ethnomusicology
 for the Athapaskan Indian languages.",64.57382202148438
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"And justnowthe wolf has seen
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"And justnowthe wolf has seen
 you(pl).
 If an absolutive pronominaloccurs in a sentence with a proper
 noun ergative, the -it/-t enclitic must attach to theend of the
@@ -2243,12 +2243,12 @@ on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
  (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
 1964); and, oneonAlgonquin (Hamp 1974).
 No. 51CONTESINDIENS DE LABASSECOTE NORDDU SAINT
- LAURENT.",tensor([17.8846]),"This volume contains five papers on linguistic subjects: three are
+ LAURENT.",17.83047103881836,"This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
  (Walker 1966), and Chilcotin(King 1968); one on Blackfoot (Lowery
 1964); and, oneonAlgonquin (Hamp 1974).
 No. 51CONTESINDIENS DE LABASSECOTE NORDDU SAINT
- LAURENT.",tensor([18.7276])," Sometimesa
+ LAURENT.",18.589279174804688," Sometimesa
 yod offglide is added to unround k at the end of a word.",58.39713668823242," Sometimesa
 yod offglide is added to unround k at the end of a word.",57.75650787353516,"This volume contains five papers on linguistic subjects: three are
 on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
@@ -2256,7 +2256,7 @@ on the Athapaskan languages of Dogrib (Howren 1968), Central Carrier
 1964); and, oneonAlgonquin (Hamp 1974).
 No. 51CONTESINDIENS DE LABASSECOTE NORDDU SAINT
  LAURENT.",63.904075622558594
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," The first volume includes papers presented at two of
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," The first volume includes papers presented at two of
 the eight sessions:""Myth and Culture"" and ""The Theory of
 Markedness in Social Relations and Language""."," Should that be the case,
 your indulgence is requested,bearing in mind the object of
@@ -2267,15 +2267,15 @@ the eight sessions:""Myth and Culture"" and ""The Theory of
 Markedness in Social Relations and Language"".",52.76618194580078,"$3.50
 This bibliography brings together the relevant materials in
 linguistics, anthropology, archaeology, folklore, and ethnomusicology
-for the Athapaskan Indian languages.",tensor([17.0940]),"$3.50
+for the Athapaskan Indian languages.",16.996124267578125,"$3.50
 This bibliography brings together the relevant materials in
 linguistics, anthropology, archaeology, folklore, and ethnomusicology
-for the Athapaskan Indian languages.",tensor([16.5538])," Should that be the case,
+for the Athapaskan Indian languages.",16.362977981567383," Should that be the case,
 your indulgence is requested,bearing in mind the object of
 the Series.",56.55884552001953,"$4.50
 This volume contains 7 papers on ethnological subjects.",55.37675476074219," Sometimesa
 yod offglide is added to unround k at the end of a word.",63.49330520629883
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"These suffixesare -t,-l, and -n.
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077,"These suffixesare -t,-l, and -n.
 4. The suffix -tchanges a word to mean someone or something
 that uses (as aninstrument) the original word.
 gyemksun,moon
@@ -2324,22 +2324,22 @@ gwitt'uuspush (human object)
 gwit'aax lip
 gwiiwohget out
 ll.",52.45806121826172,"$4.50
-This volume contains 7 papers on ethnological subjects.",tensor([14.6299]),"$4.50
-This volume contains 7 papers on ethnological subjects.",tensor([15.7922]),"Words are sometimes puttogethertoform anew wordwith a
+This volume contains 7 papers on ethnological subjects.",14.501023292541504,"$4.50
+This volume contains 7 papers on ethnological subjects.",15.511259078979492,"Words are sometimes puttogethertoform anew wordwith a
 new meaning.",56.265926361083984," Should that be the case,
 your indulgence is requested,bearing in mind the object of
 the Series.",54.566871643066406,"$4.50
 This volume contains 7 papers on ethnological subjects.",61.429630279541016
-0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7823033866993261,0,0.6092635826168366,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
+0.7268742777071464,0,0,0.7333447453242812,0,0.7665738269487875,0,0.4663278865682947,0,0.7825671928273249,0,0.6123262389141982,0,0.7173388821484197,0,0.7729657905127076,0,0.7634615356888077," 2... 2.2... ewwwwww ee cercece ensenvvrvce 51
  1. relationship toindependent words.............60- 51
  2. aAgGwil (ASide) ..","$4.50
 This volume contains 7 papers on ethnological subjects.",51.60182571411133,"Words are sometimes puttogethertoform anew wordwith a
 new meaning.",50.32574462890625,"$4.50
 This volume contains 7 papers on ethnological subjects.",48.91329193115234," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
- LANGUAGE.",tensor([14.4809])," 89
+ LANGUAGE.",14.284465789794922," 89
 No. 42 A PRACTICAL DICTIONARY OF THE COASTTSIMSHIAN
- LANGUAGE.",tensor([14.5352]),"$4.50
+ LANGUAGE.",14.198369026184082,"$4.50
 This volume contains 7 papers on ethnological subjects.",55.95668029785156,"Words are sometimes puttogethertoform anew wordwith a
 new meaning.",53.91608047485352," Should that be the case,
 your indulgence is requested,bearing in mind the object of
