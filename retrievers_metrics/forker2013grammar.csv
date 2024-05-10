@@ -51,11 +51,11 @@ arguments precedes less prominent arguments, but this may be due to topicality
 the answer occupies the first position (1439a) and/or may directly precede the
 verb. In the last case the word order (in transitive clauses) is either AVP (1439b)
 or PAV (1439c) when explicitly topicalizing the patient (see also (1417b)).
-",tensor([48.5703])," Phrases are head-final. In clauses with transitive verbs the most frequent
+",48.6093864440918," Phrases are head-final. In clauses with transitive verbs the most frequent
 word order is agent-patient-verb, although main clauses admit all other five logi-
 cally possible orders. Only subordinate clauses are more restrictive in their word
 order. Generally, word order is strongly influenced by information structure.
-",tensor([52.9219])," Since in Hinuq word order is heavily influenced by information structure,
+",52.91575241088867," Since in Hinuq word order is heavily influenced by information structure,
 this chapter starts with the analysis of how topic and focus are expressed via word
 order (Section 29.2). The three major focus types, i.e. predicate focus (topic-
 comment sentences), argument focus (identificational sentences), and sentence
@@ -344,11 +344,11 @@ PAV) are often contrastive topics or other extremely salient topics. In intransi
 clauses SV is more frequent than VS. SV is the neutral word order whereas VS
 is associated with a certain pragmatic value (Section 29.2.8.2). For more general
 information on word order see also Chapter 27.
-",tensor([48.1741])," If the question focuses on the S or A argument, then the focal argument in
+",48.27784729003906," If the question focuses on the S or A argument, then the focal argument in
 the answer occupies the first position (1439a) and/or may directly precede the
 verb. In the last case the word order (in transitive clauses) is either AVP (1439b)
 or PAV (1439c) when explicitly topicalizing the patient (see also (1417b)).
-",tensor([50.2983])," Word order in the noun phrase and in the postpositional phrase 737
+",50.41469192504883," Word order in the noun phrase and in the postpositional phrase 737
 Postponed modifiers express pragmatic salience. They often have a con-
 trastive interpretation, as in (1369a) where the younger brother is contrasted with
 his elder brothers. Another possibility for modifiers following their head is to ex-
@@ -529,7 +529,7 @@ word order is agent-patient-verb, although main clauses admit all other five log
 cally possible orders. Only subordinate clauses are more restrictive in their word
 order. Generally, word order is strongly influenced by information structure.
 ",88.29322814941406
-0.9407836178068271,5,2,0.8592163821931731,5,1.0,5,0.6346393630113784,5,1.0,5,1.0,5,1.0,5,1.0,5,1.0," Since in Hinuq word order is heavily influenced by information structure,
+0.9407836178068272,5,2,0.8592163821931731,5,1.0,5,0.6346393630113784,5,1.0,5,1.0,5,1.0,5,1.0,5,1.0," Since in Hinuq word order is heavily influenced by information structure,
 this chapter starts with the analysis of how topic and focus are expressed via word
 order (Section 29.2). The three major focus types, i.e. predicate focus (topic-
 comment sentences), argument focus (identificational sentences), and sentence
@@ -586,7 +586,7 @@ order. Generally, word order is strongly influenced by information structure.
 word order is agent-patient-verb, although main clauses admit all other five logi-
 cally possible orders. Only subordinate clauses are more restrictive in their word
 order. Generally, word order is strongly influenced by information structure.
-",tensor([46.8333])," Since in Hinuq word order is heavily influenced by information structure,
+",46.82612609863281," Since in Hinuq word order is heavily influenced by information structure,
 this chapter starts with the analysis of how topic and focus are expressed via word
 order (Section 29.2). The three major focus types, i.e. predicate focus (topic-
 comment sentences), argument focus (identificational sentences), and sentence
@@ -610,7 +610,7 @@ PAV) are often contrastive topics or other extremely salient topics. In intransi
 clauses SV is more frequent than VS. SV is the neutral word order whereas VS
 is associated with a certain pragmatic value (Section 29.2.8.2). For more general
 information on word order see also Chapter 27.
-",tensor([49.5694])," Phrases are head-final. In clauses with transitive verbs the most frequent
+",49.718353271484375," Phrases are head-final. In clauses with transitive verbs the most frequent
 word order is agent-patient-verb, although main clauses admit all other five logi-
 cally possible orders. Only subordinate clauses are more restrictive in their word
 order. Generally, word order is strongly influenced by information structure.
@@ -676,7 +676,7 @@ is non-referential and contrasted with the wife, who the man lost. At the same
 time the agents in the examples below are topics, and are therefore expressed as
 pronouns.
 ",86.17769622802734
-0.9507395222518541,5,5,0.8828859850023695,2,0.8991234782373295,5,0.6960665467587214,3,0.932748985491553,5,1.0,2,0.8991234782373295,5,1.0,2,0.8991234782373295," Word order in the noun phrase and in the postpositional phrase 737
+0.950739522251854,5,5,0.8828859850023695,2,0.8991234782373295,5,0.6960665467587214,3,0.932748985491553,5,1.0,2,0.8991234782373295,5,1.0,2,0.8991234782373295," Word order in the noun phrase and in the postpositional phrase 737
 Postponed modifiers express pragmatic salience. They often have a con-
 trastive interpretation, as in (1369a) where the younger brother is contrasted with
 his elder brothers. Another possibility for modifiers following their head is to ex-
@@ -880,7 +880,7 @@ information on word order see also Chapter 27.
 ",78.66900634765625,"With respect to word order, one can say that frequently the more prominent
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
-",tensor([46.5164]),"Word order in declarative main clauses 757
+",46.79765319824219,"Word order in declarative main clauses 757
 29.2.1. Unmarked word orders
 APV is by far the most frequent word order for transitive clauses, but AVP is
 also quite frequent. Both orders seem to have a neutral information structural
@@ -917,7 +917,7 @@ is introduced as a new referent into the story. The focalized patient in (1414c)
 is non-referential and contrasted with the wife, who the man lost. At the same
 time the agents in the examples below are topics, and are therefore expressed as
 pronouns.
-",tensor([47.1407])," 186
+",47.414554595947266," 186
 6.11 Word order . . . . . . . . . . . . . . . . . . .",77.48947143554688,"Word order in declarative main clauses 757
 29.2.1. Unmarked word orders
 APV is by far the most frequent word order for transitive clauses, but AVP is
@@ -1031,8 +1031,8 @@ is introduced as a new referent into the story. The focalized patient in (1414c)
 is non-referential and contrasted with the wife, who the man lost. At the same
 time the agents in the examples below are topics, and are therefore expressed as
 pronouns.
-",tensor([45.0435]),"756
-29.2 Word order in declarative main clauses . . . . . . . . . . . . .",tensor([46.5465]),"Word order in declarative main clauses 757
+",45.23357391357422,"756
+ 29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",46.78232192993164,"Word order in declarative main clauses 757
 29.2.1. Unmarked word orders
 APV is by far the most frequent word order for transitive clauses, but AVP is
 also quite frequent. Both orders seem to have a neutral information structural
@@ -1128,7 +1128,7 @@ clauses SV is more frequent than VS. SV is the neutral word order whereas VS
 is associated with a certain pragmatic value (Section 29.2.8.2). For more general
 information on word order see also Chapter 27.
 ",85.77244567871094
-0.8737298154219139,2,4,0.8174238891626757,1,0.8355744168341689,5,0.6941689590103357,3,0.9047548318260474,2,0.8650889514025153,2,0.857132247739071,2,0.8416764327749225,2,0.857132247739071," Language 61, 821–848.
+0.8737298154219139,2,4,0.8174238891626757,1,0.8355744168341689,5,0.6941689590103357,3,0.9047548318260474,3,0.8866467823074176,2,0.857132247739071,2,0.8416764327749225,2,0.857132247739071," Language 61, 821–848.
 Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
  syntactic description. Cambridge: Cambridge University Press.
 Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
@@ -1386,140 +1386,7 @@ the predicate represents the focus (1376a-1376c). But it is also possible to add
 the enclitic to some other word. The consituent bearing the Interrogative enclitic
 is always in focus (1377a, 1377b). More information on the information structure
 of polar questions is provided in Section 29.3.2.
-",tensor([44.1919]),"756
- 29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",tensor([46.5153])," Language 61, 821–848.
-Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
- syntactic description. Cambridge: Cambridge University Press.
-Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
- New York: Mouton de Gruyter.
-Slobin, Dan. I. 2004. The many ways to search for a frog: Linguistic typology and the
- expression of motion events. In S. Strömqvist & L. Verhoeven (eds.) Relating events
- in narrative, Vol.2, 219–257. Mahwah, NJ: LEA.
-Smith, Carlota S. 1997. The parameter of aspect. Dordrecht: Kluwer.
-Sumbatova, Nina R. & Mutalov, Rasul O. 2003. A grammar of Icari Dargwa. München:
- Lincom Europa.
-Tatevosov, Sergei. 2005. From habituals to futures. In Henk Verkuyl, Henriette de Swart
- & A. van Hout (eds.) Perspectives on aspect, 181–197. Dordrecht: Springer.
-Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1998),
- 257–280.
-Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
- Siewierska (1998), 649–679.
-",76.80430603027344," Language 61, 821–848.
-Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
- syntactic description. Cambridge: Cambridge University Press.
-Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
- New York: Mouton de Gruyter.
-Slobin, Dan. I. 2004. The many ways to search for a frog: Linguistic typology and the
- expression of motion events. In S. Strömqvist & L. Verhoeven (eds.) Relating events
- in narrative, Vol.2, 219–257. Mahwah, NJ: LEA.
-Smith, Carlota S. 1997. The parameter of aspect. Dordrecht: Kluwer.
-Sumbatova, Nina R. & Mutalov, Rasul O. 2003. A grammar of Icari Dargwa. München:
- Lincom Europa.
-Tatevosov, Sergei. 2005. From habituals to futures. In Henk Verkuyl, Henriette de Swart
- & A. van Hout (eds.) Perspectives on aspect, 181–197. Dordrecht: Springer.
-Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1998),
- 257–280.
-Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
- Siewierska (1998), 649–679.
-",75.77818298339844," 186
-6.11 Word order . . . . . . . . . . . . . . . . . . .",85.1567153930664
-0.8852993771863255,5,2,0.7791772398547231,5,0.850639983946808,5,0.722190864023202,2,0.8585064460950095,3,0.8408000584499759,4,0.8518974801558488,4,0.8378578111048827,2,0.8152473024339433," Phrases are head-final. In clauses with transitive verbs the most frequent
-word order is agent-patient-verb, although main clauses admit all other five logi-
-cally possible orders. Only subordinate clauses are more restrictive in their word
-order. Generally, word order is strongly influenced by information structure.
-"," Language 61, 821–848.
-Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
- syntactic description. Cambridge: Cambridge University Press.
-Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
- New York: Mouton de Gruyter.
-Slobin, Dan. I. 2004. The many ways to search for a frog: Linguistic typology and the
- expression of motion events. In S. Strömqvist & L. Verhoeven (eds.) Relating events
- in narrative, Vol.2, 219–257. Mahwah, NJ: LEA.
-Smith, Carlota S. 1997. The parameter of aspect. Dordrecht: Kluwer.
-Sumbatova, Nina R. & Mutalov, Rasul O. 2003. A grammar of Icari Dargwa. München:
- Lincom Europa.
-Tatevosov, Sergei. 2005. From habituals to futures. In Henk Verkuyl, Henriette de Swart
- & A. van Hout (eds.) Perspectives on aspect, 181–197. Dordrecht: Springer.
-Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1998),
- 257–280.
-Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
- Siewierska (1998), 649–679.
-",74.25398254394531,"Word order in declarative main clauses 757
-29.2.1. Unmarked word orders
-APV is by far the most frequent word order for transitive clauses, but AVP is
-also quite frequent. Both orders seem to have a neutral information structural
-value, i.e. none of the arguments is particularly emphasized. Thus, both word
-orders are used for the unmarked subject-predicate sentence type in which the
-subject (plus any other topical element) is the topic and the predicate is focused
-(‘topic-comment sentences’ or ‘predicate-focus structure’). Cross-linguistically,
-it is well known that there is a strong correlation between topic and ‘subject’.
-That is, in the absence of any contrary indications, the subject of a sentence
-will be interpreted as its topic and the predicate as a comment about this topic.
-In (1413a, 1413b) the topic (agent) is an unaccented pronoun; it may even be
-omitted. The accent falls on the last word of the predicate which is an auxiliary
-in both examples.
-(1413) a. [What is your brother doing right now?]
- [hayìoy]TOP kaGat caxxogoì
- he.ERG letter write.ICVB be
- ‘He is writing a letter.’
- b. [Malla Nasrudin beat the donkey]
- hoboy [haìu-y]TOP gotto zoq’e-n mecxer
- then this.obl-erg pour.icvb be-uwpst money
- ‘Then it poured money.’ (N)
-29.2.2. Patient focus
-New referents, especially inanimate referents, are often introduced as patients
-into the discourse. In such cases, APV word order is possible (1414a). See for
-instance Du Bois (1987), who notes that objects are the preferred grammati-
-cal role for introducing new discourse referents. The tendency observed by Du
-Bois to introduce new referents as patiens (or single arguments of intransitive
-verbs) rather than as agents has been confirmed for Hinuq narratives by Forker
-(2007). But since APV is the neutral word order, it is not associated with pa-
-tient focus. Thus, for explicit patient focus PVA word order can be employed.
-Testelec (1998b) observes that other Daghestanian languages such as Archi also
-use PVA to put the patient in focus. In (1414b) the patient karzinkabe ‘baskets’
-is introduced as a new referent into the story. The focalized patient in (1414c)
-is non-referential and contrasted with the wife, who the man lost. At the same
-time the agents in the examples below are topics, and are therefore expressed as
-pronouns.
-",74.48338317871094,"Word order in declarative main clauses 757
-29.2.1. Unmarked word orders
-APV is by far the most frequent word order for transitive clauses, but AVP is
-also quite frequent. Both orders seem to have a neutral information structural
-value, i.e. none of the arguments is particularly emphasized. Thus, both word
-orders are used for the unmarked subject-predicate sentence type in which the
-subject (plus any other topical element) is the topic and the predicate is focused
-(‘topic-comment sentences’ or ‘predicate-focus structure’). Cross-linguistically,
-it is well known that there is a strong correlation between topic and ‘subject’.
-That is, in the absence of any contrary indications, the subject of a sentence
-will be interpreted as its topic and the predicate as a comment about this topic.
-In (1413a, 1413b) the topic (agent) is an unaccented pronoun; it may even be
-omitted. The accent falls on the last word of the predicate which is an auxiliary
-in both examples.
-(1413) a. [What is your brother doing right now?]
- [hayìoy]TOP kaGat caxxogoì
- he.ERG letter write.ICVB be
- ‘He is writing a letter.’
- b. [Malla Nasrudin beat the donkey]
- hoboy [haìu-y]TOP gotto zoq’e-n mecxer
- then this.obl-erg pour.icvb be-uwpst money
- ‘Then it poured money.’ (N)
-29.2.2. Patient focus
-New referents, especially inanimate referents, are often introduced as patients
-into the discourse. In such cases, APV word order is possible (1414a). See for
-instance Du Bois (1987), who notes that objects are the preferred grammati-
-cal role for introducing new discourse referents. The tendency observed by Du
-Bois to introduce new referents as patiens (or single arguments of intransitive
-verbs) rather than as agents has been confirmed for Hinuq narratives by Forker
-(2007). But since APV is the neutral word order, it is not associated with pa-
-tient focus. Thus, for explicit patient focus PVA word order can be employed.
-Testelec (1998b) observes that other Daghestanian languages such as Archi also
-use PVA to put the patient in focus. In (1414b) the patient karzinkabe ‘baskets’
-is introduced as a new referent into the story. The focalized patient in (1414c)
-is non-referential and contrasted with the wife, who the man lost. At the same
-time the agents in the examples below are topics, and are therefore expressed as
-pronouns.
-",76.42709350585938," 736
-27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .",tensor([43.8524]),"Chapter 27
+",44.15108108520508,"Chapter 27
 Word order
 27.1. Introduction
 Hinuq is a head-final language at the phrase level as well as at the clause level.
@@ -1645,7 +1512,140 @@ preceding the Genitive may in principle be interpreted as referring to the Genit
 (see (1355a) and (1355b) above). Numerals or adjectives may also precede the
 Genitive (1359b), but ‘mixing’ is forbidden, i.e. inserting the Genitive between
 the other modifiers (1359c).
-(1359)a.",tensor([46.4074])," Word order in declarative main clauses 759
+(1359)a.",46.74535369873047," Language 61, 821–848.
+Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
+ syntactic description. Cambridge: Cambridge University Press.
+Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
+ New York: Mouton de Gruyter.
+Slobin, Dan. I. 2004. The many ways to search for a frog: Linguistic typology and the
+ expression of motion events. In S. Strömqvist & L. Verhoeven (eds.) Relating events
+ in narrative, Vol.2, 219–257. Mahwah, NJ: LEA.
+Smith, Carlota S. 1997. The parameter of aspect. Dordrecht: Kluwer.
+Sumbatova, Nina R. & Mutalov, Rasul O. 2003. A grammar of Icari Dargwa. München:
+ Lincom Europa.
+Tatevosov, Sergei. 2005. From habituals to futures. In Henk Verkuyl, Henriette de Swart
+ & A. van Hout (eds.) Perspectives on aspect, 181–197. Dordrecht: Springer.
+Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1998),
+ 257–280.
+Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
+ Siewierska (1998), 649–679.
+",76.80430603027344," Language 61, 821–848.
+Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
+ syntactic description. Cambridge: Cambridge University Press.
+Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
+ New York: Mouton de Gruyter.
+Slobin, Dan. I. 2004. The many ways to search for a frog: Linguistic typology and the
+ expression of motion events. In S. Strömqvist & L. Verhoeven (eds.) Relating events
+ in narrative, Vol.2, 219–257. Mahwah, NJ: LEA.
+Smith, Carlota S. 1997. The parameter of aspect. Dordrecht: Kluwer.
+Sumbatova, Nina R. & Mutalov, Rasul O. 2003. A grammar of Icari Dargwa. München:
+ Lincom Europa.
+Tatevosov, Sergei. 2005. From habituals to futures. In Henk Verkuyl, Henriette de Swart
+ & A. van Hout (eds.) Perspectives on aspect, 181–197. Dordrecht: Springer.
+Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1998),
+ 257–280.
+Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
+ Siewierska (1998), 649–679.
+",75.77818298339844," 186
+6.11 Word order . . . . . . . . . . . . . . . . . . .",85.1567153930664
+0.8852993771863255,5,2,0.7791772398547231,5,0.850639983946808,5,0.722190864023202,2,0.8585064460950095,2,0.8420575546590168,4,0.8518974801558488,4,0.8378578111048827,2,0.8152473024339433," Phrases are head-final. In clauses with transitive verbs the most frequent
+word order is agent-patient-verb, although main clauses admit all other five logi-
+cally possible orders. Only subordinate clauses are more restrictive in their word
+order. Generally, word order is strongly influenced by information structure.
+"," Language 61, 821–848.
+Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
+ syntactic description. Cambridge: Cambridge University Press.
+Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
+ New York: Mouton de Gruyter.
+Slobin, Dan. I. 2004. The many ways to search for a frog: Linguistic typology and the
+ expression of motion events. In S. Strömqvist & L. Verhoeven (eds.) Relating events
+ in narrative, Vol.2, 219–257. Mahwah, NJ: LEA.
+Smith, Carlota S. 1997. The parameter of aspect. Dordrecht: Kluwer.
+Sumbatova, Nina R. & Mutalov, Rasul O. 2003. A grammar of Icari Dargwa. München:
+ Lincom Europa.
+Tatevosov, Sergei. 2005. From habituals to futures. In Henk Verkuyl, Henriette de Swart
+ & A. van Hout (eds.) Perspectives on aspect, 181–197. Dordrecht: Springer.
+Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1998),
+ 257–280.
+Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
+ Siewierska (1998), 649–679.
+",74.25398254394531,"Word order in declarative main clauses 757
+29.2.1. Unmarked word orders
+APV is by far the most frequent word order for transitive clauses, but AVP is
+also quite frequent. Both orders seem to have a neutral information structural
+value, i.e. none of the arguments is particularly emphasized. Thus, both word
+orders are used for the unmarked subject-predicate sentence type in which the
+subject (plus any other topical element) is the topic and the predicate is focused
+(‘topic-comment sentences’ or ‘predicate-focus structure’). Cross-linguistically,
+it is well known that there is a strong correlation between topic and ‘subject’.
+That is, in the absence of any contrary indications, the subject of a sentence
+will be interpreted as its topic and the predicate as a comment about this topic.
+In (1413a, 1413b) the topic (agent) is an unaccented pronoun; it may even be
+omitted. The accent falls on the last word of the predicate which is an auxiliary
+in both examples.
+(1413) a. [What is your brother doing right now?]
+ [hayìoy]TOP kaGat caxxogoì
+ he.ERG letter write.ICVB be
+ ‘He is writing a letter.’
+ b. [Malla Nasrudin beat the donkey]
+ hoboy [haìu-y]TOP gotto zoq’e-n mecxer
+ then this.obl-erg pour.icvb be-uwpst money
+ ‘Then it poured money.’ (N)
+29.2.2. Patient focus
+New referents, especially inanimate referents, are often introduced as patients
+into the discourse. In such cases, APV word order is possible (1414a). See for
+instance Du Bois (1987), who notes that objects are the preferred grammati-
+cal role for introducing new discourse referents. The tendency observed by Du
+Bois to introduce new referents as patiens (or single arguments of intransitive
+verbs) rather than as agents has been confirmed for Hinuq narratives by Forker
+(2007). But since APV is the neutral word order, it is not associated with pa-
+tient focus. Thus, for explicit patient focus PVA word order can be employed.
+Testelec (1998b) observes that other Daghestanian languages such as Archi also
+use PVA to put the patient in focus. In (1414b) the patient karzinkabe ‘baskets’
+is introduced as a new referent into the story. The focalized patient in (1414c)
+is non-referential and contrasted with the wife, who the man lost. At the same
+time the agents in the examples below are topics, and are therefore expressed as
+pronouns.
+",74.48338317871094,"Word order in declarative main clauses 757
+29.2.1. Unmarked word orders
+APV is by far the most frequent word order for transitive clauses, but AVP is
+also quite frequent. Both orders seem to have a neutral information structural
+value, i.e. none of the arguments is particularly emphasized. Thus, both word
+orders are used for the unmarked subject-predicate sentence type in which the
+subject (plus any other topical element) is the topic and the predicate is focused
+(‘topic-comment sentences’ or ‘predicate-focus structure’). Cross-linguistically,
+it is well known that there is a strong correlation between topic and ‘subject’.
+That is, in the absence of any contrary indications, the subject of a sentence
+will be interpreted as its topic and the predicate as a comment about this topic.
+In (1413a, 1413b) the topic (agent) is an unaccented pronoun; it may even be
+omitted. The accent falls on the last word of the predicate which is an auxiliary
+in both examples.
+(1413) a. [What is your brother doing right now?]
+ [hayìoy]TOP kaGat caxxogoì
+ he.ERG letter write.ICVB be
+ ‘He is writing a letter.’
+ b. [Malla Nasrudin beat the donkey]
+ hoboy [haìu-y]TOP gotto zoq’e-n mecxer
+ then this.obl-erg pour.icvb be-uwpst money
+ ‘Then it poured money.’ (N)
+29.2.2. Patient focus
+New referents, especially inanimate referents, are often introduced as patients
+into the discourse. In such cases, APV word order is possible (1414a). See for
+instance Du Bois (1987), who notes that objects are the preferred grammati-
+cal role for introducing new discourse referents. The tendency observed by Du
+Bois to introduce new referents as patiens (or single arguments of intransitive
+verbs) rather than as agents has been confirmed for Hinuq narratives by Forker
+(2007). But since APV is the neutral word order, it is not associated with pa-
+tient focus. Thus, for explicit patient focus PVA word order can be employed.
+Testelec (1998b) observes that other Daghestanian languages such as Archi also
+use PVA to put the patient in focus. In (1414b) the patient karzinkabe ‘baskets’
+is introduced as a new referent into the story. The focalized patient in (1414c)
+is non-referential and contrasted with the wife, who the man lost. At the same
+time the agents in the examples below are topics, and are therefore expressed as
+pronouns.
+",76.42709350585938," 736
+27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .",43.9603385925293,"756
+29.2 Word order in declarative main clauses . . . . . . . . . . . . .",46.70490646362305," Word order in declarative main clauses 759
 (1416) a. Ø-ežinnu uži-žr-aš-a goì [hayìo-z]TOP [nasibaw
  I -old son-DAT V-find-INF be he.OBL - DAT predestinated
  žo]FOC
@@ -1717,7 +1717,7 @@ left dislocation. The pronoun can have various functions in its clause: stimulus
 (1418b), A (1418a), P, oblique, adjunct, or it can even be a complement clause.
 ",75.66131591796875," 736
 27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .",84.56327056884766
-0.8278692102180005,0,5,0.809719935833532,2,0.8278936527703005,3,0.7239948676896998,2,0.8352498104426793,3,0.8349097769792161,1,0.8128518491818091,2,0.8159406709788228,3,0.811014651231902," There is a simple explanation as to why the AT-Essive and not another case
+0.8278692102180005,0,5,0.809719935833532,2,0.8278936527703005,3,0.7239948676896998,2,0.8352498104426793,3,0.8360856982779968,1,0.8128518491818091,2,0.8159406709788228,3,0.811014651231902," There is a simple explanation as to why the AT-Essive and not another case
 is used to mark non-canonical agents in causative constructions; this explanation
 makes use of the hierarchy of syntactic positions: Comrie (1976b) notes that
 in the paradigm case of causatives derived from transitive verbs, the causee is
@@ -1912,7 +1912,7 @@ preceding the Genitive may in principle be interpreted as referring to the Genit
 Genitive (1359b), but ‘mixing’ is forbidden, i.e. inserting the Genitive between
 the other modifiers (1359c).
 (1359)a.",75.69949340820312,"756
- 29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",tensor([43.5772]),"V-P-A
+ 29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",43.6475715637207,"V-P-A
 bu:s magalu kedi
  Free adjuncts, especially temporal adverbs, often appear in clause initial
 position (1374a, 1374b), and spatial, directional, and manner adverbs show a
@@ -1996,7 +1996,7 @@ the predicate represents the focus (1376a-1376c). But it is also possible to add
 the enclitic to some other word. The consituent bearing the Interrogative enclitic
 is always in focus (1377a, 1377b). More information on the information structure
 of polar questions is provided in Section 29.3.2.
-",tensor([46.4070]),"736 Chapter 27. Word order
+",46.59809494018555,"736 Chapter 27. Word order
 (1366) [šahali-do Ø-iň’i-yo goìa] dižoessu-sbuňe
  town.IN - DIR I-go-ICVB be.PTCP I. GEN 2 brother(I)-GEN 1 house
  ‘the house of my brother, who went to town’
@@ -2158,7 +2158,7 @@ preceding the Genitive may in principle be interpreted as referring to the Genit
 Genitive (1359b), but ‘mixing’ is forbidden, i.e. inserting the Genitive between
 the other modifiers (1359c).
 (1359)a.",83.92455291748047
-0.8233299008964742,3,2,0.7916651156054114,4,0.8379264236702042,1,0.6963638012484715,2,0.8157067511857274,3,0.8299600447159577,2,0.7946144571333729,5,0.8412437343180459,1,0.7783108517619903,"Chapter 27
+0.8233299008964742,3,2,0.7916651156054114,4,0.8379264236702042,1,0.6963638012484715,2,0.8157067511857274,3,0.8310674168346711,2,0.7946144571333729,5,0.8412437343180459,1,0.7783108517619903,"Chapter 27
 Word order
 27.1. Introduction
 Hinuq is a head-final language at the phrase level as well as at the clause level.
@@ -2361,10 +2361,10 @@ mood, evidentiality, polarity, illocutionary force, gender, and number. The cat-
 egories of gender and number are fused in agreement prefixes. Hinuq verbs do
 not show person agreement.
 ",74.81340789794922,"756
-29.2 Word order in declarative main clauses . . . . . . . . . . . . .",tensor([43.4290]),"With respect to word order, one can say that frequently the more prominent
+29.2 Word order in declarative main clauses . . . . . . . . . . . . .",43.47552490234375,"With respect to word order, one can say that frequently the more prominent
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
-",tensor([45.8406]),"756
+",46.07288360595703,"756
 29.2 Word order in declarative main clauses . . . . . . . . . . . . .",75.8952407836914," If the question focuses on the S or A argument, then the focal argument in
 the answer occupies the first position (1439a) and/or may directly precede the
 verb. In the last case the word order (in transitive clauses) is either AVP (1439b)
@@ -2404,7 +2404,7 @@ ated with different pragmatic values. A more detailed account of the relationshi
 between word order and information structure is given in Section 29.2. Here only
 a few examples at the noun phrase level are discussed.
 ",83.56501770019531
-0.8061902922113687,2,1,0.7629516310371476,2,0.820013058249915,5,0.7257118688852744,3,0.8122236585296803,4,0.8389738052321386,2,0.7789970444095877,1,0.8099021039410383,2,0.7635576876444959,"Moscow: Academia.
+0.8061902922113687,2,1,0.7629516310371476,2,0.820013058249915,5,0.7257118688852744,3,0.8122236585296803,4,0.8400224759293907,2,0.7789970444095877,1,0.8099021039410383,2,0.7635576876444959,"Moscow: Academia.
 Belyaev, Oleg & Forker, Diana. In preparation. Word order and focus particles in Nakh-
 Daghestanian languages. In Robert Jr van Valin & M.M.Jocelyne Fernandez-Vest
 (eds.) Information structure and spoken language in a cross-linguistic perspective.
@@ -2582,7 +2582,7 @@ preceding the Genitive may in principle be interpreted as referring to the Genit
 (see (1355a) and (1355b) above). Numerals or adjectives may also precede the
 Genitive (1359b), but ‘mixing’ is forbidden, i.e. inserting the Genitive between
 the other modifiers (1359c).
-(1359)a.",tensor([42.8039])," Word order in declarative main clauses 759
+(1359)a.",42.84604644775391," Word order in declarative main clauses 759
 (1416) a. Ø-ežinnu uži-žr-aš-a goì [hayìo-z]TOP [nasibaw
  I -old son-DAT V-find-INF be he.OBL - DAT predestinated
  žo]FOC
@@ -2617,7 +2617,7 @@ referent in the form of a referring expression placed in a syntactically autonom
 position to the left of the clause. In my Hinuq corpus, there are a few examples of
 left dislocation. The pronoun can have various functions in its clause: stimulus
 (1418b), A (1418a), P, oblique, adjunct, or it can even be a complement clause.
-",tensor([44.8800])," 736
+",45.13240432739258," 736
 27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .",75.12403869628906," Word order187
 (300) a. hadu buce goì elu-sbišun xiriyaw buce, Ramzan
 this month be we.OBL - GEN 1 most dear month Ramadan
@@ -2660,7 +2660,7 @@ egories of gender and number are fused in agreement prefixes. Hinuq verbs do
 not show person agreement.
 ",74.35432434082031,"756
 29.2 Word order in declarative main clauses . . . . . . . . . . . . .",83.01873016357422
-0.7791237710879036,1,5,0.7866534200674252,3,0.81660593312282,2,0.714727795354055,2,0.7970295633302847,1,0.8103119027075526,2,0.7654198937443498,1,0.7826549506994038,1,0.7385658454721318,"736 Chapter 27. Word order
+0.7791237710879036,1,5,0.7866534200674252,3,0.81660593312282,2,0.714727795354055,2,0.7970295633302847,1,0.8113095407492977,2,0.7654198937443498,1,0.7826549506994038,1,0.7385658454721318,"736 Chapter 27. Word order
 (1366) [šahali-do Ø-iň’i-yo goìa] dižoessu-sbuňe
  town.IN - DIR I-go-ICVB be.PTCP I. GEN 2 brother(I)-GEN 1 house
  ‘the house of my brother, who went to town’
@@ -2703,9 +2703,9 @@ arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
 ",73.24701690673828,"756
 29.2 Word order in declarative main clauses . . . . . . . . . . . . .",73.69158172607422," 186
-6.11 Word order . . . . . . . . . . . . . . . . . . .",tensor([42.3244]),"730
+6.11 Word order . . . . . . . . . . . . . . . . . . .",42.5270881652832,"730
 27.2 Word order in the noun phrase and in the postpositional phrase730
- 27.2.1 Scope properties in noun phrases with two modifiers .",tensor([44.7442])," . . . . 583
+ 27.2.1 Scope properties in noun phrases with two modifiers .",44.90168380737305," . . . . 583
 21.3.3 Illocutionary force: Questions and imperatives . . . . 583
  21.4 Word order and extraction . . . . . . . . . . . . . . .",75.09256744384766,"Shamil song=and call-CVB = Q I-go-PRS home-DIR
 ‘Is Shamil going home SINGING A SONG?’
@@ -2844,7 +2844,7 @@ mood, evidentiality, polarity, illocutionary force, gender, and number. The cat-
 egories of gender and number are fused in agreement prefixes. Hinuq verbs do
 not show person agreement.
 ",82.88719940185547
-0.7980508929598424,4,2,0.7825556850961389,4,0.8342529806380763,1,0.7017025789815667,4,0.8153451744397385,2,0.8054061936146711,4,0.7848150244242722,4,0.8014614772741634,5,0.7702619376164535," I.OBL - GEN 2 forehead.OBL - GEN 1
+0.7980508929598424,4,2,0.7825556850961389,4,0.8342529806380763,1,0.7017025789815667,4,0.8153451744397385,2,0.8063697607596175,4,0.7848150244242722,4,0.8014614772741634,5,0.7702619376164535," I.OBL - GEN 2 forehead.OBL - GEN 1
  ‘Dou you want a hair from me, one hair from my forehead?’ (N)
 29.2.5. Clause-initial position of the verbal complex
 In practice, the word order in verb-initial clauses is always VAP. Of sentences
@@ -2906,8 +2906,8 @@ referent in the form of a referring expression placed in a syntactically autonom
 position to the left of the clause. In my Hinuq corpus, there are a few examples of
 left dislocation. The pronoun can have various functions in its clause: stimulus
 (1418b), A (1418a), P, oblique, adjunct, or it can even be a complement clause.
-",tensor([41.9613])," 736
-27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .",tensor([44.6022])," I.OBL - GEN 2 forehead.OBL - GEN 1
+",42.05850601196289," 736
+27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .",44.70674514770508," I.OBL - GEN 2 forehead.OBL - GEN 1
  ‘Dou you want a hair from me, one hair from my forehead?’ (N)
 29.2.5. Clause-initial position of the verbal complex
 In practice, the word order in verb-initial clauses is always VAP. Of sentences
@@ -2936,7 +2936,7 @@ the answer occupies the first position (1439a) and/or may directly precede the
 verb. In the last case the word order (in transitive clauses) is either AVP (1439b)
 or PAV (1439c) when explicitly topicalizing the patient (see also (1417b)).
 ",82.66107177734375
-0.7831212867243366,1,3,0.7895413432285173,2,0.828869070290329,4,0.7219944708056809,1,0.7998599687712602,2,0.8009490207282005,2,0.7810193674232533,2,0.7971310331080834,1,0.7562250847369997," –Reversed word order: Can the order of the verbs be reversed or not?
+0.7831212867243366,1,3,0.7895413432285173,2,0.828869070290329,4,0.7219944708056809,1,0.7998599687712602,2,0.8018816321286144,2,0.7810193674232533,2,0.7971310331080834,1,0.7562250847369997," –Reversed word order: Can the order of the verbs be reversed or not?
 ","With respect to word order, one can say that frequently the more prominent
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
@@ -2978,12 +2978,12 @@ left dislocation. The pronoun can have various functions in its clause: stimulus
 (1418b), A (1418a), P, oblique, adjunct, or it can even be a complement clause.
 ",73.64238739013672,"730
 27.2 Word order in the noun phrase and in the postpositional phrase730
- 27.2.1 Scope properties in noun phrases with two modifiers .",tensor([41.7680])," 186
-6.11 Word order . . . . . . . . . . . . . . . . . . .",tensor([44.2954]),". . 670
+ 27.2.1 Scope properties in noun phrases with two modifiers .",41.81938934326172," 186
+6.11 Word order . . . . . . . . . . . . . . . . . . .",44.39451599121094,". . 670
 24.1.2.4 Word order and reversal of roles . . . . .",74.7269287109375,"756
 29.2 Word order in declarative main clauses . . . . . . . . . . . . .",73.30765533447266," –Reversed word order: Can the order of the verbs be reversed or not?
 ",82.16453552246094
-0.7897051385066849,3,2,0.7858112000251181,1,0.813825944131448,2,0.7203148681540779,2,0.7958165799747602,2,0.796872571256637,2,0.7775479283810287,3,0.8032895868410945,3,0.7636254325447906,"[Goriš-be]FOC
+0.7897051385066849,3,2,0.7858112000251181,1,0.813825944131448,2,0.7203148681540779,2,0.7958165799747602,2,0.79777687109462,2,0.7775479283810287,3,0.8032895868410945,3,0.7636254325447906,"[Goriš-be]FOC
 he.ERG girl.PLbe-UWPST HPL-steal.ICVB cow.PL
 zoq’e-n r-ik’ekko
 be-UWPST NHPL-steal.ICVB
@@ -3256,7 +3256,7 @@ tivariate analysis. In Bril (2010), 51–101.
 Bickel, Balthasar. 2010b. Grammatical relations typology. In Jae Jung Song (ed.) The
 Oxford Handbook of Language Typology, 399–444. Oxford: Oxford University Press.
 Boguslavskaja, Ol’ga Ju. 1995. Genitives and adjectives as attributes in Daghestanian.
-",tensor([41.4694])," Language 61, 821–848.
+",41.59966659545898," Language 61, 821–848.
 Shopen, Timothy (ed.) . 1985. Complex constructions, vol. 2 of Language typology and
  syntactic description. Cambridge: Cambridge University Press.
 Siewierska, Anna (ed.) . 1998. Constituent order in the languages of Europe. Berlin,
@@ -3273,7 +3273,7 @@ Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1
  257–280.
 Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
  Siewierska (1998), 649–679.
-",tensor([43.5135]),"756
+",43.68658447265625,"756
  29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",74.47795867919922,"With respect to word order, one can say that frequently the more prominent
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
@@ -3281,7 +3281,7 @@ arguments precedes less prominent arguments, but this may be due to topicality
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
 ",81.8629379272461
-0.7957609609664814,3,2,0.782380216804936,1,0.799989286765809,4,0.7379678481809843,2,0.7920974736678437,2,0.79312305576294,1,0.7647559623645658,3,0.8089542204399589,3,0.7704322675019323,"With respect to word order, one can say that frequently the more prominent
+0.7957609609664814,3,2,0.782380216804936,1,0.799989286765809,4,0.7379678481809843,2,0.7920974736678437,2,0.7940013146447609,1,0.7647559623645658,3,0.8089542204399589,3,0.7704322675019323,"With respect to word order, one can say that frequently the more prominent
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
 ",". . 670
@@ -3315,7 +3315,7 @@ Testelec, Jakov G. 1998a. Word order in Daghestanian languages. In Siewierska (1
  257–280.
 Testelec, Jakov G. 1998b. Word order variation in some SOV languages of Europe. In
  Siewierska (1998), 649–679.
-",tensor([41.3471]),"Moscow: Academia.
+",41.30598068237305,"Moscow: Academia.
 Belyaev, Oleg & Forker, Diana. In preparation. Word order and focus particles in Nakh-
 Daghestanian languages. In Robert Jr van Valin & M.M.Jocelyne Fernandez-Vest
 (eds.) Information structure and spoken language in a cross-linguistic perspective.
@@ -3328,7 +3328,7 @@ tivariate analysis. In Bril (2010), 51–101.
 Bickel, Balthasar. 2010b. Grammatical relations typology. In Jae Jung Song (ed.) The
 Oxford Handbook of Language Typology, 399–444. Oxford: Oxford University Press.
 Boguslavskaja, Ol’ga Ju. 1995. Genitives and adjectives as attributes in Daghestanian.
-",tensor([42.6263]),"Shamil song=and call-CVB = Q I-go-PRS home-DIR
+",42.976627349853516,"Shamil song=and call-CVB = Q I-go-PRS home-DIR
 ‘Is Shamil going home SINGING A SONG?’
 21.4. Word order and extraction
 By far the preferred order for temporal and non-temporal converbs is to pre-
@@ -3635,7 +3635,7 @@ the enclitic to some other word. The consituent bearing the Interrogative enclit
 is always in focus (1377a, 1377b). More information on the information structure
 of polar questions is provided in Section 29.3.2.
 ",81.63742065429688
-0.7830866311680338,1,4,0.797480874908139,2,0.7963351477054366,1,0.726877526187761,2,0.7886596353558137,2,0.7896571080453904,1,0.7529314251697574,2,0.8050543682793788,2,0.7675882344724794," Just as verbs in other clause types, the copula most frequently occurs in
+0.7830866311680338,1,4,0.797480874908139,2,0.7963351477054366,1,0.726877526187761,2,0.7886596353558137,1,0.7813752136641378,1,0.7529314251697574,2,0.8050543682793788,2,0.7675882344724794," Just as verbs in other clause types, the copula most frequently occurs in
 clause-final position, but other orders are also possible. The copula subject is
 always in the Absolutive case. It may be a noun, a proper name, a pronoun, a
 numeral, or any other type of noun phrase. The copula complement may be a
@@ -3808,8 +3808,41 @@ ated with different pragmatic values. A more detailed account of the relationshi
 between word order and information structure is given in Section 29.2. Here only
 a few examples at the noun phrase level are discussed.
 ",72.6201400756836,"735
- 27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",tensor([41.0558]),"735
- 27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",tensor([40.9088])," Word order187
+ 27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",40.96929168701172,"736 Chapter 27. Word order
+(1366) [šahali-do Ø-iň’i-yo goìa] dižoessu-sbuňe
+ town.IN - DIR I-go-ICVB be.PTCP I. GEN 2 brother(I)-GEN 1 house
+ ‘the house of my brother, who went to town’
+If the Genitive follows the head noun, the relative clause is usually inter-
+preted as modifying the Genitive and not the head of the Genitive (1367a). In
+principle, another interpretation where both the relative clause and the Genitive
+modify the head noun is possible if it is semantically plausible (1367b, 1367c).
+(1367)a. [haìo-deň’oq’ar goìa] sedanartaw-es hači
+he.OBL - ALOC in.front.of be.PTCP one.OBL giant-GEN 1 sneezing
+‘the sneezing of one giant in front of him’ (N)
+b. [[idu-rØ-aq’-o goìa] Murad-es] hudul
+home-LAT I-come-ICVB be.PTCP Murad-GEN 1 friend
+‘the friend of the home-coming Murad’
+c. [idu-r Ø-aq’-o goìa] Murad-eshudul
+home-LAT I-come-ICVB be.PTCP Murad-GEN 1 friend
+‘the friend of Murad, who came home’ (i.e. The fried came home.)
+If, however, the Genitive precedes the head noun, then it cannot function as
+the nucleus of the relative clause. Therefore, it is either interpreted as belonging
+to the relative clause (1368a) or as modifying the head together with the rela-
+tive clause (1368b) depending on the semantics and pragmatics of the phrase in
+question.
+(1368)a. [Maèama-s aže y-occo goìa] uži
+Mahama-GEN 1 tree(IV ) IV-cut.ICVB be.PTCP son
+‘the son who cut Mahama’s tree’ (not: Mahama’s son who cut the
+tree)
+b. Murad-es[idu-r Ø-aq’-ogoìa] hudul
+Murad-GEN 1 home-LAT I-come-ICVB be.PTCP friend
+‘Murad’s friend, who came home’ (i.e. the friend came home)
+27.2.4. Uncommon word orders
+Word order is relatively free in Hinuq. But different word orders are often associ-
+ated with different pragmatic values. A more detailed account of the relationship
+between word order and information structure is given in Section 29.2. Here only
+a few examples at the noun phrase level are discussed.
+",41.07999801635742," Word order187
 (300) a. hadu buce goì elu-sbišun xiriyaw buce, Ramzan
 this month be we.OBL - GEN 1 most dear month Ramadan
 buce
@@ -3853,7 +3886,7 @@ not show person agreement.
 21.3.3 Illocutionary force: Questions and imperatives . . . . 583
  21.4 Word order and extraction . . . . . . . . . . . . . . .",72.63265228271484,". . 670
 24.1.2.4 Word order and reversal of roles . . . . .",81.53047180175781
-0.7887618060623,3,2,0.7940583403063165,1,0.7842214809126824,1,0.7165811016976604,5,0.8116312183795624,1,0.7777181609724289,1,0.7419533440616412,2,0.8014336859115897,4,0.7823900071750943,"V-P-A
+0.7887618060623,3,2,0.7940583403063165,1,0.7842214809126824,1,0.7165811016976604,5,0.8116312183795624,2,0.7783740567064857,1,0.7419533440616412,2,0.8014336859115897,4,0.7823900071750943,"V-P-A
 bu:s magalu kedi
  Free adjuncts, especially temporal adverbs, often appear in clause initial
 position (1374a, 1374b), and spatial, directional, and manner adverbs show a
@@ -4218,41 +4251,8 @@ T in ditransitive clauses.
 ked-imagalu b-u:-s
 girl-ERG bread( III) III-do-PST
 ‘The girl made bread.’
-b.",tensor([39.7248]),"736 Chapter 27. Word order
-(1366) [šahali-do Ø-iň’i-yo goìa] dižoessu-sbuňe
- town.IN - DIR I-go-ICVB be.PTCP I. GEN 2 brother(I)-GEN 1 house
- ‘the house of my brother, who went to town’
-If the Genitive follows the head noun, the relative clause is usually inter-
-preted as modifying the Genitive and not the head of the Genitive (1367a). In
-principle, another interpretation where both the relative clause and the Genitive
-modify the head noun is possible if it is semantically plausible (1367b, 1367c).
-(1367)a. [haìo-deň’oq’ar goìa] sedanartaw-es hači
-he.OBL - ALOC in.front.of be.PTCP one.OBL giant-GEN 1 sneezing
-‘the sneezing of one giant in front of him’ (N)
-b. [[idu-rØ-aq’-o goìa] Murad-es] hudul
-home-LAT I-come-ICVB be.PTCP Murad-GEN 1 friend
-‘the friend of the home-coming Murad’
-c. [idu-r Ø-aq’-o goìa] Murad-eshudul
-home-LAT I-come-ICVB be.PTCP Murad-GEN 1 friend
-‘the friend of Murad, who came home’ (i.e. The fried came home.)
-If, however, the Genitive precedes the head noun, then it cannot function as
-the nucleus of the relative clause. Therefore, it is either interpreted as belonging
-to the relative clause (1368a) or as modifying the head together with the rela-
-tive clause (1368b) depending on the semantics and pragmatics of the phrase in
-question.
-(1368)a. [Maèama-s aže y-occo goìa] uži
-Mahama-GEN 1 tree(IV ) IV-cut.ICVB be.PTCP son
-‘the son who cut Mahama’s tree’ (not: Mahama’s son who cut the
-tree)
-b. Murad-es[idu-r Ø-aq’-ogoìa] hudul
-Murad-GEN 1 home-LAT I-come-ICVB be.PTCP friend
-‘Murad’s friend, who came home’ (i.e. the friend came home)
-27.2.4. Uncommon word orders
-Word order is relatively free in Hinuq. But different word orders are often associ-
-ated with different pragmatic values. A more detailed account of the relationship
-between word order and information structure is given in Section 29.2. Here only
-a few examples at the noun phrase level are discussed.
-",tensor([40.7242]),"730
+b.",39.845924377441406,"735
+ 27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",40.89200973510742,"730
 27.2 Word order in the noun phrase and in the postpositional phrase730
  27.2.1 Scope properties in noun phrases with two modifiers .",74.04350280761719,"756
  29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",72.38441467285156," Word order in declarative main clauses 759
@@ -4291,7 +4291,7 @@ position to the left of the clause. In my Hinuq corpus, there are a few examples
 left dislocation. The pronoun can have various functions in its clause: stimulus
 (1418b), A (1418a), P, oblique, adjunct, or it can even be a complement clause.
 ",81.08183288574219
-0.8007345823785861,3,1,0.789108247970957,2,0.7878538335688141,3,0.7297689469389226,2,0.8148021635095288,1,0.7730431344501826,5,0.7715477887140167,3,0.8131931474983862,1,0.7776363361564679,"592Chapter 22. Complement clauses
+0.8007345823785861,3,1,0.789108247970957,2,0.7878538335688141,3,0.7297689469389226,2,0.8148021635095288,1,0.7736879890267516,5,0.7715477887140167,3,0.8131931474983862,1,0.7776363361564679,"592Chapter 22. Complement clauses
  – potential type (refers to the potentiality of the subject of the complement
 clause becoming involved in an activity): Infinitive/Purposive converb,
 clause union, purpose clauses with the Quotative enclitic (Section 22.2.4.7).
@@ -4533,7 +4533,7 @@ accented constituent in the sentence. Argument-focus is most easily identified i
 question-answer pairs.
 ",72.34394836425781," . . . . 583
 21.3.3 Illocutionary force: Questions and imperatives . . . . 583
- 21.4 Word order and extraction . . . . . . . . . . . . . . .",tensor([38.3408])," Word order187
+ 21.4 Word order and extraction . . . . . . . . . . . . . . .",38.44397735595703," Word order187
 (300) a. hadu buce goì elu-sbišun xiriyaw buce, Ramzan
 this month be we.OBL - GEN 1 most dear month Ramadan
 buce
@@ -4573,7 +4573,7 @@ nox ‘come.IMP’ / ‘come.GT’. Categories marked on the verb are: tense, as
 mood, evidentiality, polarity, illocutionary force, gender, and number. The cat-
 egories of gender and number are fused in agreement prefixes. Hinuq verbs do
 not show person agreement.
-",tensor([40.4989])," If the question focuses on the S or A argument, then the focal argument in
+",40.73484420776367," If the question focuses on the S or A argument, then the focal argument in
 the answer occupies the first position (1439a) and/or may directly precede the
 verb. In the last case the word order (in transitive clauses) is either AVP (1439b)
 or PAV (1439c) when explicitly topicalizing the patient (see also (1417b)).
@@ -4699,7 +4699,7 @@ restricted; various elements can be inserted between the patient and the lexical
 verb. The single argument in the Absolutive case is interpreted as the patient,
 independently of its position in the clause.
 ",80.93524932861328
-0.7958397714963433,1,1,0.784402669426841,3,0.7994448543873195,2,0.734167276817653,1,0.8096783861124878,5,0.8011513991924645,2,0.7752661185483533,1,0.8080955587392423,0,0.7649793853976282,"730
+0.7958397714963433,1,1,0.784402669426841,3,0.7994448543873195,2,0.734167276817653,1,0.8096783861124878,5,0.8017857579983978,2,0.7752661185483533,1,0.8080955587392423,0,0.7649793853976282,"730
 27.2 Word order in the noun phrase and in the postpositional phrase730
  27.2.1 Scope properties in noun phrases with two modifiers ."," Word order187
 (300) a. hadu buce goì elu-sbišun xiriyaw buce, Ramzan
@@ -4918,7 +4918,7 @@ Word order is relatively free in Hinuq. But different word orders are often asso
 ated with different pragmatic values. A more detailed account of the relationship
 between word order and information structure is given in Section 29.2. Here only
 a few examples at the noun phrase level are discussed.
-",tensor([37.7269])," Word order in the noun phrase and in the postpositional phrase 737
+",37.786094665527344," Word order in the noun phrase and in the postpositional phrase 737
 Postponed modifiers express pragmatic salience. They often have a con-
 trastive interpretation, as in (1369a) where the younger brother is contrasted with
 his elder brothers. Another possibility for modifiers following their head is to ex-
@@ -5006,7 +5006,7 @@ T in ditransitive clauses.
 ked-imagalu b-u:-s
 girl-ERG bread( III) III-do-PST
 ‘The girl made bread.’
-b.",tensor([40.0992]),"735
+b.",40.4095573425293,"735
  27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",73.65571594238281," –Reversed word order: Can the order of the verbs be reversed or not?
 ",72.2401351928711," To conclude, Bickel (2010a) proposes the decomposition of terms referring
 to clause linkage (e.g. ‘subordination’, ‘cosubordination’, etc.) into sets of vari-
@@ -5015,7 +5015,7 @@ tions. Afterwards it is possible to measure the diversity between constructions
 from many languages. In fact, these variables represent a useful tool for analyz-
 ing adverbial clauses and have at least partially been considered in this chapter.
 ",80.8487319946289
-0.7911764790248262,1,1,0.7799196588413831,2,0.8026061849140745,2,0.7383575712139372,2,0.8126784065110959,4,0.8200487287379736,3,0.7866900256049763,3,0.8190019786422214,1,0.7608025420787533," Word order187
+0.7911764790248262,1,1,0.7799196588413831,2,0.8026061849140745,2,0.7383575712139372,2,0.8126784065110959,4,0.820673088210048,3,0.7866900256049763,3,0.8190019786422214,1,0.7608025420787533," Word order187
 (300) a. hadu buce goì elu-sbišun xiriyaw buce, Ramzan
 this month be we.OBL - GEN 1 most dear month Ramadan
 buce
@@ -5424,7 +5424,7 @@ Terminative converb 239–240, 265, 274–
 thetic sentences see sentence-focus
 topic of conversation/thought 74, 435–
 ",72.08441162109375,". . 670
-24.1.2.4 Word order and reversal of roles . . . . .",tensor([37.5441])," I.OBL - GEN 2 forehead.OBL - GEN 1
+24.1.2.4 Word order and reversal of roles . . . . .",37.57924270629883," I.OBL - GEN 2 forehead.OBL - GEN 1
  ‘Dou you want a hair from me, one hair from my forehead?’ (N)
 29.2.5. Clause-initial position of the verbal complex
 In practice, the word order in verb-initial clauses is always VAP. Of sentences
@@ -5436,7 +5436,7 @@ my corpus where predicates are contrastive and thus occur clause-initially, e.g.
 (1421a) two actions (reading and knowing) are contrasted with each other. Both
 145 There may well be one or two such examples, but the only VAP-like sentence that I
 came across seems to be rather a right detachment construction.
-",tensor([40.0221]),"Chapter 27
+",40.23663330078125,"Chapter 27
 Word order
 27.1. Introduction
 Hinuq is a head-final language at the phrase level as well as at the clause level.
@@ -5875,7 +5875,7 @@ eral discussion and Good (2003) on Chechen, Creissels (2010c) on Akhvakh,
 Polinsky (2007) on Tsez, Kazenin (2001a) on Bagvalal for analyses of Nakh-
 Daghestanian languages). I will discuss this question briefly.
 ",80.78158569335938
-0.7867248835706873,1,1,0.7756401611120483,1,0.7979798486053543,3,0.7500017946244907,4,0.8308305437506072,1,0.81515572546132,2,0.7899511740175114,2,0.8217691319912244,2,0.764459466291485," * Maèama-y Murad oPocu b-uher-er-hogoì
+0.7867248835706873,1,1,0.7756401611120483,1,0.7979798486053543,3,0.7500017946244907,4,0.8308305437506072,1,0.8157705395339963,2,0.7899511740175114,2,0.8217691319912244,2,0.764459466291485," * Maèama-y Murad oPocu b-uher-er-hogoì
 Mahama-ERG Murat chicken(III) III-kill-CAUS - ICVB be
 (Mahama makes Murat kill the chicken.)
 The next constraint concerns the order of auxiliary and lexical verb, which
@@ -6011,8 +6011,8 @@ my corpus where predicates are contrastive and thus occur clause-initially, e.g.
 (1421a) two actions (reading and knowing) are contrasted with each other. Both
 145 There may well be one or two such examples, but the only VAP-like sentence that I
 came across seems to be rather a right detachment construction.
-",tensor([37.0536])," –Reversed word order: Can the order of the verbs be reversed or not?
-",tensor([39.9542]),"Moscow: Academia.
+",37.05167007446289," –Reversed word order: Can the order of the verbs be reversed or not?
+",40.05424499511719,"Moscow: Academia.
 Belyaev, Oleg & Forker, Diana. In preparation. Word order and focus particles in Nakh-
 Daghestanian languages. In Robert Jr van Valin & M.M.Jocelyne Fernandez-Vest
 (eds.) Information structure and spoken language in a cross-linguistic perspective.
@@ -6040,7 +6040,7 @@ Bickel, Balthasar. 2010b. Grammatical relations typology. In Jae Jung Song (ed.)
 Oxford Handbook of Language Typology, 399–444. Oxford: Oxford University Press.
 Boguslavskaja, Ol’ga Ju. 1995. Genitives and adjectives as attributes in Daghestanian.
 ",80.06905364990234
-0.7824676538178024,1,1,0.7715475149476742,2,0.8009794006096629,1,0.7462898214427574,1,0.8259184425877133,1,0.8104763606482023,3,0.8004938271361701,2,0.8244154658033449,1,0.760532828692727,"Narrative converb clauses and serial verb constructions 707
+0.7824676538178024,1,1,0.7715475149476742,2,0.8009794006096629,1,0.7462898214427574,1,0.8259184425877133,1,0.8110820460930103,3,0.8004938271361701,2,0.8244154658033449,1,0.760532828692727,"Narrative converb clauses and serial verb constructions 707
 (1298) hado uži[...] Ø-et’e-n al-ň’o-sk’oň-o
  this boy(I) I -burst-CVB branch. OBL - SPR - ABL 1 jump-PRS
  gulu-zomoqoli-ň’o-r
@@ -6200,7 +6200,7 @@ nox ‘come.IMP’ / ‘come.GT’. Categories marked on the verb are: tense, as
 mood, evidentiality, polarity, illocutionary force, gender, and number. The cat-
 egories of gender and number are fused in agreement prefixes. Hinuq verbs do
 not show person agreement.
-",tensor([37.0099])," * Maèama-y Murad oPocu b-uher-er-hogoì
+",36.98997497558594," * Maèama-y Murad oPocu b-uher-er-hogoì
 Mahama-ERG Murat chicken(III) III-kill-CAUS - ICVB be
 (Mahama makes Murat kill the chicken.)
 The next constraint concerns the order of auxiliary and lexical verb, which
@@ -6237,7 +6237,7 @@ is partly fixed. In contrast, in the ergative construction, the word order is le
 restricted; various elements can be inserted between the patient and the lexical
 verb. The single argument in the Absolutive case is interpreted as the patient,
 independently of its position in the clause.
-",tensor([39.0524]),"With respect to word order, one can say that frequently the more prominent
+",39.20900344848633,"With respect to word order, one can say that frequently the more prominent
 arguments precedes less prominent arguments, but this may be due to topicality
 (see Section 27.3 on word order in the clause).
 ",72.8314208984375,"Moscow: Academia.
@@ -6255,7 +6255,7 @@ Oxford Handbook of Language Typology, 399–444. Oxford: Oxford University Press
 Boguslavskaja, Ol’ga Ju. 1995. Genitives and adjectives as attributes in Daghestanian.
 ",71.42719268798828,"731
  27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",79.94361877441406
-0.7783895397280828,1,2,0.7748457874596988,1,0.7966340240054682,2,0.7499527507725239,1,0.8212130096829117,2,0.8132125996955023,3,0.8105929161498874,1,0.8197317320584931,2,0.7639901252437983,"528 Chapter 17. Non-canonical agent constructions
+0.7783895397280828,1,2,0.7748457874596988,1,0.7966340240054682,2,0.7499527507725239,1,0.8212130096829117,2,0.8138095405838521,3,0.8105929161498874,1,0.8197317320584931,2,0.7639901252437983,"528 Chapter 17. Non-canonical agent constructions
 (957) [What is Patimat eating? / What is Patimat doing?]
 Pat’imat magalu b-accogoì
 Patimat bread(III) III-eat.ICVB be
@@ -6292,8 +6292,8 @@ Boguslavskaja, Ol’ga Ju. 1995. Genitives and adjectives as attributes in Daghe
 ",69.94108581542969,"731
  27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",69.31127166748047,". . 670
 24.1.2.4 Word order and reversal of roles . . . . .",71.4920654296875," –Reversed word order: Can the order of the verbs be reversed or not?
-",tensor([36.6959]),". . 670
-24.1.2.4 Word order and reversal of roles . . . . .",tensor([38.4324]),"V-P-A
+",36.81543731689453,". . 670
+24.1.2.4 Word order and reversal of roles . . . . .",38.51335525512695,"V-P-A
 bu:s magalu kedi
  Free adjuncts, especially temporal adverbs, often appear in clause initial
 position (1374a, 1374b), and spatial, directional, and manner adverbs show a
@@ -6381,7 +6381,7 @@ of polar questions is provided in Section 29.3.2.
 27.2 Word order in the noun phrase and in the postpositional phrase730
  27.2.1 Scope properties in noun phrases with two modifiers .",71.19566345214844,"735
  27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",79.71998596191406
-0.7744770455432903,1,3,0.7850371245423091,2,0.7994921349791795,1,0.7464399079953651,0,0.8096716596451246,1,0.8088107012760813,1,0.8062278348344719,2,0.8222652272132057,2,0.7673070144611127,"726 Chapter 26. Other minor constructions
+0.7744770455432903,1,3,0.7850371245423091,2,0.7994921349791795,1,0.7464399079953651,1,0.8166986732833056,1,0.809399252740904,1,0.8062278348344719,2,0.8222652272132057,2,0.7673070144611127,"726 Chapter 26. Other minor constructions
  The ambiguity is more pragmatic than syntactic in nature. That is, if the two
 nouns cannot both be interpreted as substitutes then no ambiguity arises. In other
 words, it is not the syntactic structure alone that can lead to ambiguities. For
@@ -6736,31 +6736,9 @@ mon noun. The reverse order is ungrammatical. Only the common noun takes
 case markers. With other nouns, which are not toponymic expressions, Genitive
 phrases are used, e.g Hinuzas mec ‘Hinuq language’ (see Chapter 14 for more
 details on place names, language names, ethnic names, etc.).
-",70.97188568115234,"818 Bibliography
-Kibrik, Aleksandr E. 1977. Opyt strukturnogo opisanija arčinskogo jazyka. Vol. 1. [An
-attempt to describe the Archi language]. Moscow: MSU.
-Kibrik, Aleksandr E. 1979. Canonical ergativity and Daghestan languages. In Frans
-Plank (ed.) Ergativity. Towards a theory of grammatical relations, 61–77. London:
-Academic Press.
-Kibrik, Aleksandr E. 1980. Materialy k tipologii èrgativnosti [Materials on the typology
-of ergativity]. Moscow: Institut Russkogo Jazyka AN SSSR.
-Kibrik, Aleksandr E. 1981. Materialy k tipologii èrgativnosti [Materials on the typology
-of ergativity]. Predvaritel’nye publikacii. 140. Moscow: Institut Russkogo Jazyka AN
-SSSR.
-Kibrik, Aleksandr E. 1987. Constructions with clause actants in Daghestanian lan-
-guages. Lingua 71, 133–178.
-Kibrik, Aleksandr E. 1994. Archi. In Rieks Smeets (ed.) The indigenous languages of
-the Caucasus, Vol. 4, The North East Caucasian languages II, 297–365. Delmar, NY:
-Caravan Books.
-Kibrik, Aleksandr E. 1995. Direct-oblique agreement of attributes in Daghestanian. In
-Plank (1995), 216–229.
-Kibrik, Aleksandr E. 1997. Beyond subject and object: Towards a comprehensive rela-
-tional typology. Linguistic Typology 1, 279–346.
-Kibrik, Aleksandr E. (ed.) . 1999. Èlementy caxurskogo jazyka v tipologičeskom os-
-veščenii [Aspects of Tsakhur from a typological perspective]. Moscow: Nasledie.
-Kibrik, Aleksandr E. (ed.) . 2001. Bagvalalinskij jazyk [The Bagvalal language].
-",tensor([36.6764]),"731
- 27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",tensor([38.1862]),"731
+",70.97188568115234,"731
+ 27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",36.70827865600586,"731
+ 27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",38.342796325683594,"731
  27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",72.23133087158203,". . 670
 24.1.2.4 Word order and reversal of roles . . . . .",71.09724426269531,"Index
 Ablative case 71, 83, 86, 91, 96, 99, 102,spatial 103, 134, 140, 148, 330, 346–
@@ -7034,7 +7012,7 @@ Terminative converb 239–240, 265, 274–
 thetic sentences see sentence-focus
 topic of conversation/thought 74, 435–
 ",79.57675170898438
-0.7981075599600577,5,3,0.7948283246491057,3,0.8090853780946531,0,0.7362176394584109,1,0.8054308000269965,0,0.7977342836094397,1,0.8020341373544232,2,0.8246992511129466,5,0.7910357202826472," If the question focuses on the S or A argument, then the focal argument in
+0.7981075599600577,5,3,0.7948283246491057,3,0.8090853780946531,0,0.7362176394584109,0,0.8055142322283024,1,0.8051621236528513,1,0.8020341373544232,2,0.8246992511129466,5,0.7910357202826472," If the question focuses on the S or A argument, then the focal argument in
 the answer occupies the first position (1439a) and/or may directly precede the
 verb. In the last case the word order (in transitive clauses) is either AVP (1439b)
 or PAV (1439c) when explicitly topicalizing the patient (see also (1417b)).
@@ -7212,8 +7190,7 @@ ables with possible values in order to capture the variation between construc-
 tions. Afterwards it is possible to measure the diversity between constructions
 from many languages. In fact, these variables represent a useful tool for analyz-
 ing adverbial clauses and have at least partially been considered in this chapter.
-",70.25489044189453,"731
- 27.2.2 Word order in the Genitive phrase . . . . . . . . . . .",tensor([36.6745]),"818 Bibliography
+",70.25489044189453,"818 Bibliography
 Kibrik, Aleksandr E. 1977. Opyt strukturnogo opisanija arčinskogo jazyka. Vol. 1. [An
 attempt to describe the Archi language]. Moscow: MSU.
 Kibrik, Aleksandr E. 1979. Canonical ergativity and Daghestan languages. In Frans
@@ -7236,7 +7213,103 @@ tional typology. Linguistic Typology 1, 279–346.
 Kibrik, Aleksandr E. (ed.) . 1999. Èlementy caxurskogo jazyka v tipologičeskom os-
 veščenii [Aspects of Tsakhur from a typological perspective]. Moscow: Nasledie.
 Kibrik, Aleksandr E. (ed.) . 2001. Bagvalalinskij jazyk [The Bagvalal language].
-",tensor([37.8041])," –Reversed word order: Can the order of the verbs be reversed or not?
+",36.54375457763672,"Shamil song=and call-CVB = Q I-go-PRS home-DIR
+‘Is Shamil going home SINGING A SONG?’
+21.4. Word order and extraction
+By far the preferred order for temporal and non-temporal converbs is to pre-
+cede the main clause. Only the Purposive converb behaves exceptionally because
+586 Chapter 21. Adverbial clauses
+about half of the examples with this converb show the reverse order, with the con-
+verbal clause following the main clause. But all types of converbal clauses may
+be center embedded or follow the main clause without any change in meaning.
+The following examples illustrate center embedding (1075a) with the conditional
+converb and a converbal clause following the main clause (1075b) with the Ter-
+minative converb.
+(1075) a. eli [me elu-ì-edokezi.y.iq-o-me]
+we.ERG you.SG we.OBL - CONT- DIR meet.II-COND - NEG
+ň’u=nb-iG-agoì ň’ere-s
+earth.roof(III)=and III-take-INF be upwards-ABL 1
+‘If you are not on our side, we will take away the roof from above.’
+(N)
+b. “Üumar”=ňen eňi-yo, “žiqu=šid me t’ot’er-o, me
+Umar=QUOT say-PRS today=on you.SG . ERG read-IMP you.SG
+t’ot’er-o [debez r-et-ače]!”
+learn-IMP you.SG . DAT V-want- TERM
+‘“Umar,” he is saying, “from today on, you read, you study as long
+as you want!”’ (lit. ‘until you want’) (N)
+The relevant converbal clause need not be adjacent to the main clause. Other
+converbal clauses which may (1076a) or may not (1076b) share arguments with
+the other adverbial and main clauses can intervene.
+(1076) a. me [hago Ø-ot’-nos] [hayìo-s b-ašir-no
+you.SG . ERG heI -lay- ANT he. OBL - GEN 1 III-catch- CVB
+q’oňu] [č’e-da-dokur-no]b-ek’ w er-o!=ňen
+skin(III ) fire-OBL . IN - DIR throw-CVB III-burn-IMP = QUOT
+‘After he goes to bed you take his skin, throw it into the fire, and
+burn it!’ (N)
+b. [idu-do Ø-aq’e-nos] essu-y[qema r-aq’-ono], qaca
+home-DIR I-come-ANT brother(I) rain(V) V-come-CONC wood(V)
+èadur r-u:-s
+prepare V-do-PST
+‘When he came home, the brother prepared wood even though it
+rained.’
+Extraction out of the adverbial clause is not allowed independently of the
+place in which the extracted item is positioned. For instance, in (1077a) the pa-
+tient of the converbal clause, mecxer ‘money’, has been moved into clause-initial
+Word order and extraction587
+position, and in (1077b) in clause-final position, both times leading to ungram-
+maticality of the sentences. This is remarkable because another type of subordi-
+nate clauses, namely complement clauses, are not so restricted since they allow
+extraction of topicalized items.
+(1077) a. * mecxeruži: k’oèlo b-ux-iš[b-aši-nos]
+money( III) boy.ERG ball(III) III-buy-PST III-get-ANT
+ (After the boy got the money, he bought a ball.)
+b. * uži: [b-aši-yň’o] sayGat b-ux-išmecxer
+ boy.ERG III-get-SIM present(III) III-buy-PST money(III)
+ (When the boy got the money, he bought a present.)
+In the converb clause, the converb is usually but not necessarily in clause-
+final position. Examples like (1078), where the converb is followed by some
+item of its clause, are quite easy to find in texts or to elicit. This distinguishes
+adverbial clauses from relative clauses, which have a strict verb-final word order
+(Section 20.2.2.1).
+(1078) [idu-rØ-aq’e-yň’o yoňu.koka] boìiň’o b-iň’i-yogoìa
+ home-LAT I-come-SIM cinderello hunting HPL-go-ICVB be.PTCP
+ essnixu=n r-aq’er-no b-aq’e-n
+ brother.PL meat(V)=and V-ring-CVB HPL-come-UWPST
+ ‘When Cinderello came home, his brothers who were gone hunting came
+ home bringing meat.’ (N)
+Subordinate structures are not subject to the Coordinate Structure Constraint
+(Ross 1967). For Hinuq adverbial clauses, this means that relativization on a
+constituent of the converbal clause should be allowed. In fact, this prediction is
+borne out, at least for the Simple Anterior converb (1079a, 1079b), and also for
+the Narrative converb (1079c, 1079d). However, the Realis Conditional and the
+Concessive converb, which clearly represent subordinate clauses, do not allow
+for relativization on their constituents (see the ungrammatical examples (1025d)
+and (1025b) in Section 20.2.1.1.
+(1079) a. [čorpa ga:-nos] hago untezi Ø-iq-iš
+ soup drink- ANT he fall.ill I-become-PST
+‘After eating the soup, he got ill.’
+b. [[_ ga:-nos] hago untezi Ø-iqqogoìa] čorpa diž
+ABS drink-ANT hefall.ill I-become.ICVB be.PTCP soup I. DAT
+neň-om!
+give-PROH
+588 Chapter 21. Adverbial clauses
+‘Do not give me the soup that after he ate it he got sick.’
+c. hayìoy [keč’=no cax-no] prizb-ux-iš
+he.ERG song=and write-CVB prize( III) III-take-PST
+‘He wrote a song and got a prize.’
+d. [hayìoy [_ cax-no] priz b-ux-o] goìa] keč’
+he.ERG ABS write-CVB prize( III) III-take-ICVB be.PTCP song
+c’aq’ bercinaw goì
+very beautiful be
+‘The song that he wrote and got a prize is very beautiful.’
+21.5. The syntactic nature of adverbial clauses
+A number of scholars have posed the question as to whether adverbial clauses
+are syntactically coordinate, subordinate, cosubordinate, or something else (cf.
+Haspelmath (1995b), Foley & van Valin (1984), Bickel (2010a) for the gen-
+eral discussion and Good (2003) on Chechen, Creissels (2010c) on Akhvakh,
+Polinsky (2007) on Tsez, Kazenin (2001a) on Bagvalal for analyses of Nakh-
+Daghestanian languages). I will discuss this question briefly.
+",38.080467224121094," –Reversed word order: Can the order of the verbs be reversed or not?
 ",71.73670196533203,"735
  27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .",71.09224700927734,"648 Chapter 22. Complement clauses
 If the embedded verb is intransitive, then it is impossible to say whether the
@@ -7277,7 +7350,7 @@ itself or by the subordinate verb. However, as the example of k’ w ezi -iq- �
 able’ above shows (Section 22.4.6), the valency frame of the subordinate verb
 can influence the case assignment of the matrix verb.
 ",79.3467788696289
-0.7941257210976571,1,4,0.8109258681445459,3,0.818313962208629,2,0.7397409947686922,1,0.8013511442494491,1,0.7937574306195191,3,0.8113569052737724,5,0.8470763341665298,4,0.8071839218005076,"731
+0.7941257210976571,1,4,0.8109258681445459,3,0.818313962208629,2,0.7397409947686922,1,0.8014334620423128,0,0.7944075294556312,3,0.8113569052737724,5,0.8470763341665298,4,0.8071839218005076,"731
  27.2.2 Word order in the Genitive phrase . . . . . . . . . . .","Derbent-SPR or Makhachkala-SPR II-be- PRS she
 ‘Does she live in Derbent or in Makhachkala?’
  WH-questions747
@@ -7606,103 +7679,30 @@ Haspelmath (1995b), Foley & van Valin (1984), Bickel (2010a) for the gen-
 eral discussion and Good (2003) on Chechen, Creissels (2010c) on Akhvakh,
 Polinsky (2007) on Tsez, Kazenin (2001a) on Bagvalal for analyses of Nakh-
 Daghestanian languages). I will discuss this question briefly.
-",tensor([35.8945]),"Shamil song=and call-CVB = Q I-go-PRS home-DIR
-‘Is Shamil going home SINGING A SONG?’
-21.4. Word order and extraction
-By far the preferred order for temporal and non-temporal converbs is to pre-
-cede the main clause. Only the Purposive converb behaves exceptionally because
-586 Chapter 21. Adverbial clauses
-about half of the examples with this converb show the reverse order, with the con-
-verbal clause following the main clause. But all types of converbal clauses may
-be center embedded or follow the main clause without any change in meaning.
-The following examples illustrate center embedding (1075a) with the conditional
-converb and a converbal clause following the main clause (1075b) with the Ter-
-minative converb.
-(1075) a. eli [me elu-ì-edokezi.y.iq-o-me]
-we.ERG you.SG we.OBL - CONT- DIR meet.II-COND - NEG
-ň’u=nb-iG-agoì ň’ere-s
-earth.roof(III)=and III-take-INF be upwards-ABL 1
-‘If you are not on our side, we will take away the roof from above.’
-(N)
-b. “Üumar”=ňen eňi-yo, “žiqu=šid me t’ot’er-o, me
-Umar=QUOT say-PRS today=on you.SG . ERG read-IMP you.SG
-t’ot’er-o [debez r-et-ače]!”
-learn-IMP you.SG . DAT V-want- TERM
-‘“Umar,” he is saying, “from today on, you read, you study as long
-as you want!”’ (lit. ‘until you want’) (N)
-The relevant converbal clause need not be adjacent to the main clause. Other
-converbal clauses which may (1076a) or may not (1076b) share arguments with
-the other adverbial and main clauses can intervene.
-(1076) a. me [hago Ø-ot’-nos] [hayìo-s b-ašir-no
-you.SG . ERG heI -lay- ANT he. OBL - GEN 1 III-catch- CVB
-q’oňu] [č’e-da-dokur-no]b-ek’ w er-o!=ňen
-skin(III ) fire-OBL . IN - DIR throw-CVB III-burn-IMP = QUOT
-‘After he goes to bed you take his skin, throw it into the fire, and
-burn it!’ (N)
-b. [idu-do Ø-aq’e-nos] essu-y[qema r-aq’-ono], qaca
-home-DIR I-come-ANT brother(I) rain(V) V-come-CONC wood(V)
-èadur r-u:-s
-prepare V-do-PST
-‘When he came home, the brother prepared wood even though it
-rained.’
-Extraction out of the adverbial clause is not allowed independently of the
-place in which the extracted item is positioned. For instance, in (1077a) the pa-
-tient of the converbal clause, mecxer ‘money’, has been moved into clause-initial
-Word order and extraction587
-position, and in (1077b) in clause-final position, both times leading to ungram-
-maticality of the sentences. This is remarkable because another type of subordi-
-nate clauses, namely complement clauses, are not so restricted since they allow
-extraction of topicalized items.
-(1077) a. * mecxeruži: k’oèlo b-ux-iš[b-aši-nos]
-money( III) boy.ERG ball(III) III-buy-PST III-get-ANT
- (After the boy got the money, he bought a ball.)
-b. * uži: [b-aši-yň’o] sayGat b-ux-išmecxer
- boy.ERG III-get-SIM present(III) III-buy-PST money(III)
- (When the boy got the money, he bought a present.)
-In the converb clause, the converb is usually but not necessarily in clause-
-final position. Examples like (1078), where the converb is followed by some
-item of its clause, are quite easy to find in texts or to elicit. This distinguishes
-adverbial clauses from relative clauses, which have a strict verb-final word order
-(Section 20.2.2.1).
-(1078) [idu-rØ-aq’e-yň’o yoňu.koka] boìiň’o b-iň’i-yogoìa
- home-LAT I-come-SIM cinderello hunting HPL-go-ICVB be.PTCP
- essnixu=n r-aq’er-no b-aq’e-n
- brother.PL meat(V)=and V-ring-CVB HPL-come-UWPST
- ‘When Cinderello came home, his brothers who were gone hunting came
- home bringing meat.’ (N)
-Subordinate structures are not subject to the Coordinate Structure Constraint
-(Ross 1967). For Hinuq adverbial clauses, this means that relativization on a
-constituent of the converbal clause should be allowed. In fact, this prediction is
-borne out, at least for the Simple Anterior converb (1079a, 1079b), and also for
-the Narrative converb (1079c, 1079d). However, the Realis Conditional and the
-Concessive converb, which clearly represent subordinate clauses, do not allow
-for relativization on their constituents (see the ungrammatical examples (1025d)
-and (1025b) in Section 20.2.1.1.
-(1079) a. [čorpa ga:-nos] hago untezi Ø-iq-iš
- soup drink- ANT he fall.ill I-become-PST
-‘After eating the soup, he got ill.’
-b. [[_ ga:-nos] hago untezi Ø-iqqogoìa] čorpa diž
-ABS drink-ANT hefall.ill I-become.ICVB be.PTCP soup I. DAT
-neň-om!
-give-PROH
-588 Chapter 21. Adverbial clauses
-‘Do not give me the soup that after he ate it he got sick.’
-c. hayìoy [keč’=no cax-no] prizb-ux-iš
-he.ERG song=and write-CVB prize( III) III-take-PST
-‘He wrote a song and got a prize.’
-d. [hayìoy [_ cax-no] priz b-ux-o] goìa] keč’
-he.ERG ABS write-CVB prize( III) III-take-ICVB be.PTCP song
-c’aq’ bercinaw goì
-very beautiful be
-‘The song that he wrote and got a prize is very beautiful.’
-21.5. The syntactic nature of adverbial clauses
-A number of scholars have posed the question as to whether adverbial clauses
-are syntactically coordinate, subordinate, cosubordinate, or something else (cf.
-Haspelmath (1995b), Foley & van Valin (1984), Bickel (2010a) for the gen-
-eral discussion and Good (2003) on Chechen, Creissels (2010c) on Akhvakh,
-Polinsky (2007) on Tsez, Kazenin (2001a) on Bagvalal for analyses of Nakh-
-Daghestanian languages). I will discuss this question briefly.
-",tensor([37.7571]),"[Goriš-be]FOC
+",35.96147918701172,"818 Bibliography
+Kibrik, Aleksandr E. 1977. Opyt strukturnogo opisanija arčinskogo jazyka. Vol. 1. [An
+attempt to describe the Archi language]. Moscow: MSU.
+Kibrik, Aleksandr E. 1979. Canonical ergativity and Daghestan languages. In Frans
+Plank (ed.) Ergativity. Towards a theory of grammatical relations, 61–77. London:
+Academic Press.
+Kibrik, Aleksandr E. 1980. Materialy k tipologii èrgativnosti [Materials on the typology
+of ergativity]. Moscow: Institut Russkogo Jazyka AN SSSR.
+Kibrik, Aleksandr E. 1981. Materialy k tipologii èrgativnosti [Materials on the typology
+of ergativity]. Predvaritel’nye publikacii. 140. Moscow: Institut Russkogo Jazyka AN
+SSSR.
+Kibrik, Aleksandr E. 1987. Constructions with clause actants in Daghestanian lan-
+guages. Lingua 71, 133–178.
+Kibrik, Aleksandr E. 1994. Archi. In Rieks Smeets (ed.) The indigenous languages of
+the Caucasus, Vol. 4, The North East Caucasian languages II, 297–365. Delmar, NY:
+Caravan Books.
+Kibrik, Aleksandr E. 1995. Direct-oblique agreement of attributes in Daghestanian. In
+Plank (1995), 216–229.
+Kibrik, Aleksandr E. 1997. Beyond subject and object: Towards a comprehensive rela-
+tional typology. Linguistic Typology 1, 279–346.
+Kibrik, Aleksandr E. (ed.) . 1999. Èlementy caxurskogo jazyka v tipologičeskom os-
+veščenii [Aspects of Tsakhur from a typological perspective]. Moscow: Nasledie.
+Kibrik, Aleksandr E. (ed.) . 2001. Bagvalalinskij jazyk [The Bagvalal language].
+",37.8947868347168,"[Goriš-be]FOC
 he.ERG girl.PLbe-UWPST HPL-steal.ICVB cow.PL
 zoq’e-n r-ik’ekko
 be-UWPST NHPL-steal.ICVB
@@ -7941,7 +7941,7 @@ my corpus where predicates are contrastive and thus occur clause-initially, e.g.
 145 There may well be one or two such examples, but the only VAP-like sentence that I
 came across seems to be rather a right detachment construction.
 ",79.32239532470703
-0.7837711050664673,0,1,0.8068717015393502,4,0.8337219824574065,1,0.7366150086914071,0,0.7909023158279387,2,0.7964466302745423,5,0.8333751454529744,4,0.8621093214578575,2,0.8096980532552047,"The biabsolutive construction can be interpreted as a means of decreasing
+0.7837711050664673,0,1,0.8068717015393502,4,0.8337219824574065,1,0.7366150086914071,0,0.7909835602779864,2,0.797088252463127,5,0.8333751454529744,4,0.8621093214578575,2,0.8096980532552047,"The biabsolutive construction can be interpreted as a means of decreasing
 the transitivity of a transitive event or situation. Although its semantics is not
 very clear, the function of the biabsolutive construction can be broadly described
 as agent promotion in combination with patient demotion. The fact that topical-
@@ -8144,9 +8144,9 @@ ables with possible values in order to capture the variation between construc-
 tions. Afterwards it is possible to measure the diversity between constructions
 from many languages. In fact, these variables represent a useful tool for analyz-
 ing adverbial clauses and have at least partially been considered in this chapter.
-",tensor([34.8034])," . . . . 583
+",35.035011291503906," . . . . 583
 21.3.3 Illocutionary force: Questions and imperatives . . . . 583
- 21.4 Word order and extraction . . . . . . . . . . . . . . .",tensor([37.6908]),"14 Chapter 1. Introduction
+ 21.4 Word order and extraction . . . . . . . . . . . . . . .",37.640289306640625,"14 Chapter 1. Introduction
 The number of loans from Russian is constantly growing since nowadays all new
 loans, including all internationalisms are borrowed from Russian. An illustrative
 list is given in (5). The influence from Russian is especially obvious in trans-
@@ -8173,7 +8173,7 @@ in WH-questions and the pragmatics related to different word orders).
 (1389) a. di kednixece-y meži?
 ",70.77955627441406,"756
  29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .",79.2230453491211
-0.7915673873131747,2,3,0.8209301138080168,1,0.8347878594165752,4,0.757533990782604,1,0.7922426758290282,1,0.7977514500574457,4,0.8536738747779646,1,0.862993229621512,2,0.8173281383274188," 186
+0.7915673873131747,2,3,0.8209301138080168,1,0.8347878594165752,4,0.757533990782604,1,0.7923233994851151,1,0.7983889593132603,4,0.8536738747779646,1,0.862993229621512,2,0.8173281383274188," 186
 6.11 Word order . . . . . . . . . . . . . . . . . . .","[Goriš-be]FOC
 he.ERG girl.PLbe-UWPST HPL-steal.ICVB cow.PL
 zoq’e-n r-ik’ekko
@@ -8479,7 +8479,7 @@ is partly fixed. In contrast, in the ergative construction, the word order is le
 restricted; various elements can be inserted between the patient and the lexical
 verb. The single argument in the Absolutive case is interpreted as the patient,
 independently of its position in the clause.
-",tensor([34.5244]),"Narrative converb clauses and serial verb constructions 707
+",34.689937591552734,"Narrative converb clauses and serial verb constructions 707
 (1298) hado uži[...] Ø-et’e-n al-ň’o-sk’oň-o
  this boy(I) I -burst-CVB branch. OBL - SPR - ABL 1 jump-PRS
  gulu-zomoqoli-ň’o-r
@@ -8560,7 +8560,7 @@ example, but occurs in the second example.
 140 My main informant sees the use of the SPR-Ablative as ungrammatical. But note that
 the closely related languages Khwarshi and Tsez use the SPR -Ablative in all kinds of
 comparative constructions, not only for the expression of age differences.
-",tensor([36.5261]),"Derbent-SPR or Makhachkala-SPR II-be- PRS she
+",36.651981353759766,"Derbent-SPR or Makhachkala-SPR II-be- PRS she
 ‘Does she live in Derbent or in Makhachkala?’
  WH-questions747
 d. Derbent-ň’o y-iči-yo. / Derbent-ň’o
@@ -8615,7 +8615,7 @@ independently of its position in the clause.
 ",70.32911682128906," . . . . 583
 21.3.3 Illocutionary force: Questions and imperatives . . . . 583
  21.4 Word order and extraction . . . . . . . . . . . . . . .",78.66893005371094
-0.786575530670391,0,0,0.8157530871801469,4,0.8547486176577931,0,0.7527567587431965,5,0.8187780304766976,5,0.8242520647554072,1,0.8545966503393501,4,0.8827761165066378,3,0.8310927087308182," I -turn-COND - NEG I.GEN 1 you. PL . OBL - AT order
+0.786575530670391,0,0,0.8157530871801469,4,0.8547486176577931,0,0.7527567587431965,5,0.8188582450656788,5,0.8248855536904449,1,0.8545966503393501,4,0.8827761165066378,3,0.8310927087308182," I -turn-COND - NEG I.GEN 1 you. PL . OBL - AT order
  ‘If I do not come back from this disease, this is my order for you ...’ (N)
 18.9. Other verbs used in copula-clauses
 Since the morphological paradigm of the copula verbs is defective, three other
@@ -8724,7 +8724,7 @@ word order in Russian is predominantly agent-verb-patient, but in Hinuq it is
 agent-patient-verb. Another example is the use of nouns marked for plural after
 all numbers except for the numeral 1, which is the norm in Russian, but not in
 Hinuq (in Hinuq normally the singular is used).
-",tensor([33.7352]),"14 Chapter 1. Introduction
+",33.92778396606445,"14 Chapter 1. Introduction
 The number of loans from Russian is constantly growing since nowadays all new
 loans, including all internationalisms are borrowed from Russian. An illustrative
 list is given in (5). The influence from Russian is especially obvious in trans-
@@ -8734,7 +8734,7 @@ word order in Russian is predominantly agent-verb-patient, but in Hinuq it is
 agent-patient-verb. Another example is the use of nouns marked for plural after
 all numbers except for the numeral 1, which is the norm in Russian, but not in
 Hinuq (in Hinuq normally the singular is used).
-",tensor([36.4872])," * Maèama-y Murad oPocu b-uher-er-hogoì
+",36.605995178222656," * Maèama-y Murad oPocu b-uher-er-hogoì
 Mahama-ERG Murat chicken(III) III-kill-CAUS - ICVB be
 (Mahama makes Murat kill the chicken.)
 The next constraint concerns the order of auxiliary and lexical verb, which
@@ -9005,7 +9005,7 @@ posed open proposition. The phrase expressing the focus denotatum is the only
 accented constituent in the sentence. Argument-focus is most easily identified in
 question-answer pairs.
 ",77.88447570800781
-0.7941076279988789,2,5,0.8417259893181732,5,0.8804794625946027,1,0.7542914732672789,1,0.8199029307461507,4,0.8439649048567959,3,0.8679138260243234,1,0.8835037610547843,0,0.825933861740848," 736
+0.7941076279988789,2,5,0.8417259893181732,5,0.8804794625946027,1,0.7542914732672789,1,0.8199826474186099,4,0.8445944615319889,3,0.8679138260243234,1,0.8835037610547843,0,0.825933861740848," 736
 27.3 Word order at the clause level . . . . . . . . . . . . . . . . . .","14 Chapter 1. Introduction
 The number of loans from Russian is constantly growing since nowadays all new
 loans, including all internationalisms are borrowed from Russian. An illustrative
@@ -9107,88 +9107,115 @@ example, but occurs in the second example.
 140 My main informant sees the use of the SPR-Ablative as ungrammatical. But note that
 the closely related languages Khwarshi and Tsez use the SPR -Ablative in all kinds of
 comparative constructions, not only for the expression of age differences.
-",68.63774108886719,"Narrative converb clauses and serial verb constructions 707
-(1298) hado uži[...] Ø-et’e-n al-ň’o-sk’oň-o
- this boy(I) I -burst-CVB branch. OBL - SPR - ABL 1 jump-PRS
- gulu-zomoqoli-ň’o-r
- horse-GEN 2 back-SPR - LAT
- ‘The boy [...] jumps from the branch onto the horse’s back.’ (N)
- The combinations seem to be monoclausal because all arguments and mod-
-ifiers are shared and they have just one valency pattern that may differ from the
-valency patterns of the single verbs. The word order cannot be changed:
-(1299)* kedgiri-mo-ň’o=bito k’oňe-n y-et’e-s
-girl(II) fence-OBL - SPR = TRANS jump- CVB II-separate-PST
- (The girl jumped over the fence.)
-Chapter 26
-Other minor constructions
-26.1. Comparative constructions
-In comparative constructions two or more items are examined in order to note
-similarities and differences between them (Dixon 2008: 787). Hinuq has sev-
-eral ways of expressing comparative constructions. For expressing inequality
-between two items, a spatial case is used (Section 26.1.1). In superlative con-
-structions, degree adverbs occur (Section 26.1.2). For expressing equality or
-similarity, an enclitic (Section 26.1.4) and an adverb are used (Section 26.1.5).
-26.1.1. Expressing inequality with the ALOC -Lative
-26.1.1.1. Standard comparative constructions
-Hinuq comparative constructions consist of the comparee, which is often, but not
-always the subject of the clause, the standard of comparison, and the parameter
-of comparison. For standard comparative constructions, Hinuq does not employ
-an index (as for instance more in English). In simple comparative constructions,
-the comparee and the standard are normally expressed by noun phrases (nouns,
-proper names, pronouns). The comparee is often a copula subject or in the S or
-A function (1301b). The standard is marked with a spatial case, i.e. to indicate its
-grammatical function, the ALOC-Lative suffix -der is added to the standard (see
-Section 3.5.25 for other functions of this case). Cross-linguistically, this is rather
-unusual. According to Dixon (2008: 791), in a fair number of languages the ab-
-lative or locative (i.e. essive) markers are preferably employed for indicating the
-standard of comparison. In fact, all other Tsezic languages have either a dedi-
-cated suffix for this function (Tsez, Hunzib), or they use an Essive (Bezhta) or
-a spatial case containing the Ablative (Tsez, Khwarshi). Furthermore, the ALOC
-suffix is predominantly employed with animate nouns, but in comparative con-
-structions animate as well as inanimate nouns and other nominalized expression
-can take this case suffix. The construction is monoclausal. The word order is free.
-The comparee more frequently precedes the standard of comparison (1300a), but
-the reverse order is possible as well (1300b).
-(1300) a. diessu dew-zo essu-de-r bercinaw goì
-I.GEN 1 sister you.SG . OBL - GEN 2 sister-ALOC - LAT beautiful be
- ‘My sister is more beautiful than your sister.’
- Comparative constructions 709
- b. dew-zoessu-de-r diessu bercinaw goì
- you.SG . OBL - GEN 2 I.GEN 1 sister sister- ALOC - LAT beautiful be
- ‘My sister is more beautiful than your sister.’
-In simple comparative constructions the parameter, that is, the property, in
-whose respect the comparee and the standard are compared, can be just an ad-
-jective (1300a), an adjective with some modifier (1301a), or an adverb (1301b),
-(1303b).
-(1301)a. di obu di-de-rqura santimetra
-I.GEN 1 father(I) I.OBL - ALOC - LAT twenty.OBL centimeter.IN
- Ø-oxoru goì
- I -longbe
- ‘My father is 20 cm taller than me.’
- b. iyo-y bišar-eg r-u:-ho zonzo
- mother-ERG food(V) V-well V-do-PRS REFL . SG . GEN 2
- essu-de-r
- sister-ALOC - LAT
- ‘The mother makes the food better than her sister.’
-In constructions expressing differences in age, it is possible to mark the stan-
-dard of comparison not only with the ALOC-Lative, but, at least for some Hinuq
-speakers alternatively with the SPR-Ablative.140
-(1302)a. obu-de-r q’ w ena ňeb-aØ-Ü eži zoq’e-n hago
-father-ALOC - LAT two.OBL year.OBL - IN I-big be-UWPST he
- ‘He was two years older than my father.’ (N)
- b. hago di-ň’o-sìoraňeb-aØ-Ü eži goì
- he I.OBL - SPR - ABL 1 three.OBL year.OBL - IN I-big be
- ‘He is two years older than me.’
-Since Hinuq does not have special comparative forms of adjectives or ad-
-verbs, the standard of comparison must obligatorily occur in every comparative
-construction. Otherwise the clause is just a copula construction or another kind
-of simple clause. For instance, compare example (1303a) and (1303b); both are
-identical except for the standard of comparison, which is absent from the first
-example, but occurs in the second example.
-140 My main informant sees the use of the SPR-Ablative as ungrammatical. But note that
-the closely related languages Khwarshi and Tsez use the SPR -Ablative in all kinds of
-comparative constructions, not only for the expression of age differences.
-",tensor([33.1658]),"Derbent-SPR or Makhachkala-SPR II-be- PRS she
+",68.63774108886719,"726 Chapter 26. Other minor constructions
+ The ambiguity is more pragmatic than syntactic in nature. That is, if the two
+nouns cannot both be interpreted as substitutes then no ambiguity arises. In other
+words, it is not the syntactic structure alone that can lead to ambiguities. For
+instance, (1342a) and (1342b) have the same syntactic structure as (1340), but
+only one meaning since in (1342a) the two nouns t’ek ‘book’ and žurnal ‘journal’
+can only functions as objects of the verb t’ot’er- ‘read’, and in (1342b) essu
+‘sibling’ can only be interpreted as substituting the agent but never the patient of
+the same verb ‘read’.
+(1342) a. det’ek t’ot’r-iš žurnal-zomoča:
+ I.ERG book read-PST journal-GEN 2 place.IN
+ ‘I read the book instead of the journal.’
+ b. det’ek t’ot’r-iš essu-zo moča:
+ I.ERG book read-PST brother-GEN 2 place.IN
+ ‘I instead of my brother read the book.’
+26.4. Appositional phrases
+Appositional phrases consist of two (or more) noun phrases with the same refer-
+ence, and the noun phrases immediately follow each other. As indicated by mod-
+ifiers and case marking, appositional phrases behave like a single noun phrase
+in their clause (see below for the relevant examples). They typically involve a
+proper name plus a kinship term (1343a) or a profession or another characteriz-
+ing term plus a ‘dummy noun’ rek’ w e ‘man’ or aqili ‘woman’ (1343b, 1343c).
+Occasionally a name plus a profession (1348a) or a toponymic expression occur
+(1350a). The typical order is name plus kinship term/profession/toponym and
+profession plus ‘dummy noun’.
+(1343) a. seda zaman-a-ìèapiz Üumar essuØ-iň’i-yo
+ one.OBL time-OBL - CONT Hapiz Umar brother(I) I-go-PRS
+ Yiq’o-do hayìi qazaq-za-ì-er
+ Yiqo-DIR there Georgian-OBL . PL - CONT- LAT
+ ‘One time, brother Hapiz Umar goes to Yiqo, there to the Georgians.’
+ (N)
+ b. čanaqan rek’ w e=xa [...], wali rek’ w e zoq’e-s goì hago
+ hunter man= EMPHsaint man be-PST be he
+ ‘He was a hunter, he was a sacred man.’ (N)
+ c. haw zoq’ w e-n šayix aqili
+ she be-UWPST saint woman
+ ‘She was a sacred woman.’ (N)
+ Appositional phrases 727
+Case is only on the second noun phrase marked (1344a, 1344b). The apposi-
+tion always remains in the Absolutive (1344a, 1344b).
+(1344)a. q’orol aqila-y xan-eskedsweru
+widow woman.OBL - ERG khan-GEN 1 daughter(II ) around
+y-aGi-yo
+II-open- PRS
+‘The widow made the khan’s daughter tell everything (lit. open her
+around).’ (N)
+b. hibayìo rek’u-zo, exo rek’u-de-r
+that.OBL man.OBL - GEN 2 shepherd man.OBL - ALOC - LAT
+beňe-ho-r r-oňňoku neši b-iň’i-yohadbe
+house.OBL - ILOC - LAT V-half at.night HPL -go-PRS they
+‘At midnight they go to that man – the shepherd’s house.’ (N)
+Modifiers syntactically refer to the second noun phrase, e.g. demonstrative
+pronouns appear in the oblique form, or possessive pronouns must have the Sec-
+ond Genitive case if the second noun is in an oblique case (1345), (1347a).
+(1345) hayìo èabib èaži obu-szoq’e-s goì ìeno uži=n hes
+ that.OBL Habib Gadzhi father-GEN 1 be-RES be five son=and one
+ ked=no
+ daughter=and
+ ‘Father Habib Gadzhi had five sons and one daughter.’ (N)
+Occasionally the typical order is reversed, i.e. the name can follow the kin-
+ship term or the profession, especially if the appositional phrase is modified by
+several modifiers because in this manner the modifiers that semantically belong
+to the kinship term directly precede this term (1346). But usually the order is
+fixed, e.g. to change the order of the profession and the dummy noun in a phrase
+like (1343b) is ungrammatical.
+(1346) hezzo-r Ø-oxer-nohado. askarbit=no Ø-u:-n di
+ back-LAT I-drive.away-UWPST he insult=and I-do-CVB I.GEN 1
+ hago Ø-Ü ežinnu obu Maèama èaži
+ that I-oldfather(I) Mahama Gadzhi
+ ‘(They) threw him out and offended my grandfather Mahama Gadzhi.’
+ (N)
+In any case, it is only the second noun, or, if two or more names appear in
+a sequence, it is only the last name that can be case marked (1347a, 1347b). In
+728 Chapter 26. Other minor constructions
+other words, it is the order of the two nouns that is important, and none of the
+nouns can be claimed to represent the head of the appositional phrase.
+(1347)a. di-žoØ-Ü ežinnu obuMuèamad èaži:
+I.OBL - GEN 2 I-old father(I) Mohamed Gadzhi.ERG
+[caňi-n] mihna=tow b-aq’er-no geì q’idi-r
+throw-CVB bird(III)=EMPH III-bring-UWPST down down-LAT
+‘My grandfather Mohamed Gadzhi shot and brought the bird itself
+down.’ (N)
+b. di-žo Ø-Ü ežinnu obu èapiz Üumar-es essu Pari=ňen
+I.OBL - GEN 2 I-old father Hapiz Umar-GEN 1 sister Pari=QUOT
+eňi-ngoì
+say-CVB be
+‘My grandfather Hapiz Umar has a sister called Pari.’
+The combination of a name plus a profession, which seems to be less fre-
+quently used, is quite tolerant with both word orders. The second noun phrase,
+be it the profession or the name, takes the case marking (1348a, 1348b).
+(1348)a. Šamil exo-y G w e zok’-iš
+Shamil herdsman-ERG dog beat-PST
+‘The herdsman Shamil beat the dog.’
+b. učitel Maèama-y maÜarul mec toňňo
+teacher Mahama-ERG Avarlanguage give.PRS
+‘The teacher Mahama teaches Avar.’
+If, however, the apposition and its noun phrase are separated by a pause, they
+do not form a single phrase anymore. Only in this case is it possible to add case
+suffixes to both noun phrases:
+(1349) di-žoessu-y, Maèama-y G w edes r-uxxoxu
+ I.OBL - GEN 2 brother-ERG, Mahama-ERG daily V-buy.PRS meat(V)
+ ‘My brother, Mahama, buys meat every day.’
+For toponymic expressions preceded by a proper name, the same rules apply
+as for the appositional phrases described above. The name precedes the com-
+mon noun. The reverse order is ungrammatical. Only the common noun takes
+case markers. With other nouns, which are not toponymic expressions, Genitive
+phrases are used, e.g Hinuzas mec ‘Hinuq language’ (see Chapter 14 for more
+details on place names, language names, ethnic names, etc.).
+",33.27030944824219,"Derbent-SPR or Makhachkala-SPR II-be- PRS she
 ‘Does she live in Derbent or in Makhachkala?’
  WH-questions747
 d. Derbent-ň’o y-iči-yo. / Derbent-ň’o
@@ -9203,7 +9230,7 @@ verb (1389c). Again, the word order is predominantly verb-final, but other order
 are also grammatical (see Section 29.3.1 for more information on the word order
 in WH-questions and the pragmatics related to different word orders).
 (1389) a. di kednixece-y meži?
-",tensor([34.9277]),"592Chapter 22. Complement clauses
+",35.26136779785156,"592Chapter 22. Complement clauses
  – potential type (refers to the potentiality of the subject of the complement
 clause becoming involved in an activity): Infinitive/Purposive converb,
 clause union, purpose clauses with the Quotative enclitic (Section 22.2.4.7).
@@ -9245,7 +9272,7 @@ Biabsolutive constructions529
 of languages that have differential subject marking: the lower in prominence the
 subject, the more frequently it is case marked.
 ",76.99505615234375
-0.8014790624384668,2,3,0.8549191861090332,1,0.8812100732412279,5,0.7802448359230804,4,0.8393423745985319,1,0.844918723373961,1,0.8687212484729967,1,0.8842158846304713,1,0.8269979012489512,"756
+0.8014790624384668,2,3,0.8549191861090332,1,0.8812100732412279,5,0.7802448359230804,4,0.8394216039752437,1,0.8455444316661102,1,0.8687212484729967,1,0.8842158846304713,1,0.8269979012489512,"756
  29.2.1 Unmarked word orders . . . . . . . . . . . . . . . . .","592Chapter 22. Complement clauses
  – potential type (refers to the potentiality of the subject of the complement
 clause becoming involved in an activity): Infinitive/Purposive converb,
@@ -9359,7 +9386,7 @@ verb (1389c). Again, the word order is predominantly verb-final, but other order
 are also grammatical (see Section 29.3.1 for more information on the word order
 in WH-questions and the pragmatics related to different word orders).
 (1389) a. di kednixece-y meži?
-",tensor([33.0931])," Just as verbs in other clause types, the copula most frequently occurs in
+",33.24702072143555," Just as verbs in other clause types, the copula most frequently occurs in
 clause-final position, but other orders are also possible. The copula subject is
 always in the Absolutive case. It may be a noun, a proper name, a pronoun, a
 numeral, or any other type of noun phrase. The copula complement may be a
@@ -9484,7 +9511,7 @@ If the order is reversed, and the item denoting the location follows the subject
 the interpretation is usually only locative. However, the interpretation depends
 also on the subject type. For example, in (966a) an existential interpretation,
 though possible, seems very unlikely.
-",tensor([34.8644]),"386 Chapter 11. Postpositions
+",35.213069915771484,"386 Chapter 11. Postpositions
 (681)a. sedi.sed-eì hezzo b-uxxo zoq’ w e-s nawuti
  REC . OBL - CONT after III -buy. PRS be- PST petroleum( III)
  ‘One after the other was buying petroleum.’ (N)
@@ -9663,7 +9690,7 @@ details on place names, language names, ethnic names, etc.).
 ",70.058837890625,"730
 27.2 Word order in the noun phrase and in the postpositional phrase730
  27.2.1 Scope properties in noun phrases with two modifiers .",76.92752075195312
-0.80869722413634,2,2,0.8618155015698326,1,0.881925492448812,5,0.8056585555713279,1,0.8403099444438309,4,0.8639203829285739,2,0.8755344402145644,1,0.884913201165035,1,0.8280398163993007,"735
+0.80869722413634,2,2,0.8618155015698326,1,0.881925492448812,5,0.8056585555713279,1,0.8403886966570369,4,0.8645423228563275,2,0.8755344402145644,1,0.884913201165035,1,0.8280398163993007,"735
  27.2.4 Uncommon word orders . . . . . . . . . . . . . . . .","Index
 Ablative case 71, 83, 86, 91, 96, 99, 102,spatial 103, 134, 140, 148, 330, 346–
 104, 374, 461, 475, 488, 532, 557, 362, 371, 375, 413
@@ -10081,115 +10108,88 @@ Complement-taking adjectives, adverbs, and nouns649
 itself or by the subordinate verb. However, as the example of k’ w ezi -iq- ‘be
 able’ above shows (Section 22.4.6), the valency frame of the subordinate verb
 can influence the case assignment of the matrix verb.
-",68.0425796508789,"726 Chapter 26. Other minor constructions
- The ambiguity is more pragmatic than syntactic in nature. That is, if the two
-nouns cannot both be interpreted as substitutes then no ambiguity arises. In other
-words, it is not the syntactic structure alone that can lead to ambiguities. For
-instance, (1342a) and (1342b) have the same syntactic structure as (1340), but
-only one meaning since in (1342a) the two nouns t’ek ‘book’ and žurnal ‘journal’
-can only functions as objects of the verb t’ot’er- ‘read’, and in (1342b) essu
-‘sibling’ can only be interpreted as substituting the agent but never the patient of
-the same verb ‘read’.
-(1342) a. det’ek t’ot’r-iš žurnal-zomoča:
- I.ERG book read-PST journal-GEN 2 place.IN
- ‘I read the book instead of the journal.’
- b. det’ek t’ot’r-iš essu-zo moča:
- I.ERG book read-PST brother-GEN 2 place.IN
- ‘I instead of my brother read the book.’
-26.4. Appositional phrases
-Appositional phrases consist of two (or more) noun phrases with the same refer-
-ence, and the noun phrases immediately follow each other. As indicated by mod-
-ifiers and case marking, appositional phrases behave like a single noun phrase
-in their clause (see below for the relevant examples). They typically involve a
-proper name plus a kinship term (1343a) or a profession or another characteriz-
-ing term plus a ‘dummy noun’ rek’ w e ‘man’ or aqili ‘woman’ (1343b, 1343c).
-Occasionally a name plus a profession (1348a) or a toponymic expression occur
-(1350a). The typical order is name plus kinship term/profession/toponym and
-profession plus ‘dummy noun’.
-(1343) a. seda zaman-a-ìèapiz Üumar essuØ-iň’i-yo
- one.OBL time-OBL - CONT Hapiz Umar brother(I) I-go-PRS
- Yiq’o-do hayìi qazaq-za-ì-er
- Yiqo-DIR there Georgian-OBL . PL - CONT- LAT
- ‘One time, brother Hapiz Umar goes to Yiqo, there to the Georgians.’
- (N)
- b. čanaqan rek’ w e=xa [...], wali rek’ w e zoq’e-s goì hago
- hunter man= EMPHsaint man be-PST be he
- ‘He was a hunter, he was a sacred man.’ (N)
- c. haw zoq’ w e-n šayix aqili
- she be-UWPST saint woman
- ‘She was a sacred woman.’ (N)
- Appositional phrases 727
-Case is only on the second noun phrase marked (1344a, 1344b). The apposi-
-tion always remains in the Absolutive (1344a, 1344b).
-(1344)a. q’orol aqila-y xan-eskedsweru
-widow woman.OBL - ERG khan-GEN 1 daughter(II ) around
-y-aGi-yo
-II-open- PRS
-‘The widow made the khan’s daughter tell everything (lit. open her
-around).’ (N)
-b. hibayìo rek’u-zo, exo rek’u-de-r
-that.OBL man.OBL - GEN 2 shepherd man.OBL - ALOC - LAT
-beňe-ho-r r-oňňoku neši b-iň’i-yohadbe
-house.OBL - ILOC - LAT V-half at.night HPL -go-PRS they
-‘At midnight they go to that man – the shepherd’s house.’ (N)
-Modifiers syntactically refer to the second noun phrase, e.g. demonstrative
-pronouns appear in the oblique form, or possessive pronouns must have the Sec-
-ond Genitive case if the second noun is in an oblique case (1345), (1347a).
-(1345) hayìo èabib èaži obu-szoq’e-s goì ìeno uži=n hes
- that.OBL Habib Gadzhi father-GEN 1 be-RES be five son=and one
- ked=no
- daughter=and
- ‘Father Habib Gadzhi had five sons and one daughter.’ (N)
-Occasionally the typical order is reversed, i.e. the name can follow the kin-
-ship term or the profession, especially if the appositional phrase is modified by
-several modifiers because in this manner the modifiers that semantically belong
-to the kinship term directly precede this term (1346). But usually the order is
-fixed, e.g. to change the order of the profession and the dummy noun in a phrase
-like (1343b) is ungrammatical.
-(1346) hezzo-r Ø-oxer-nohado. askarbit=no Ø-u:-n di
- back-LAT I-drive.away-UWPST he insult=and I-do-CVB I.GEN 1
- hago Ø-Ü ežinnu obu Maèama èaži
- that I-oldfather(I) Mahama Gadzhi
- ‘(They) threw him out and offended my grandfather Mahama Gadzhi.’
- (N)
-In any case, it is only the second noun, or, if two or more names appear in
-a sequence, it is only the last name that can be case marked (1347a, 1347b). In
-728 Chapter 26. Other minor constructions
-other words, it is the order of the two nouns that is important, and none of the
-nouns can be claimed to represent the head of the appositional phrase.
-(1347)a. di-žoØ-Ü ežinnu obuMuèamad èaži:
-I.OBL - GEN 2 I-old father(I) Mohamed Gadzhi.ERG
-[caňi-n] mihna=tow b-aq’er-no geì q’idi-r
-throw-CVB bird(III)=EMPH III-bring-UWPST down down-LAT
-‘My grandfather Mohamed Gadzhi shot and brought the bird itself
-down.’ (N)
-b. di-žo Ø-Ü ežinnu obu èapiz Üumar-es essu Pari=ňen
-I.OBL - GEN 2 I-old father Hapiz Umar-GEN 1 sister Pari=QUOT
-eňi-ngoì
-say-CVB be
-‘My grandfather Hapiz Umar has a sister called Pari.’
-The combination of a name plus a profession, which seems to be less fre-
-quently used, is quite tolerant with both word orders. The second noun phrase,
-be it the profession or the name, takes the case marking (1348a, 1348b).
-(1348)a. Šamil exo-y G w e zok’-iš
-Shamil herdsman-ERG dog beat-PST
-‘The herdsman Shamil beat the dog.’
-b. učitel Maèama-y maÜarul mec toňňo
-teacher Mahama-ERG Avarlanguage give.PRS
-‘The teacher Mahama teaches Avar.’
-If, however, the apposition and its noun phrase are separated by a pause, they
-do not form a single phrase anymore. Only in this case is it possible to add case
-suffixes to both noun phrases:
-(1349) di-žoessu-y, Maèama-y G w edes r-uxxoxu
- I.OBL - GEN 2 brother-ERG, Mahama-ERG daily V-buy.PRS meat(V)
- ‘My brother, Mahama, buys meat every day.’
-For toponymic expressions preceded by a proper name, the same rules apply
-as for the appositional phrases described above. The name precedes the com-
-mon noun. The reverse order is ungrammatical. Only the common noun takes
-case markers. With other nouns, which are not toponymic expressions, Genitive
-phrases are used, e.g Hinuzas mec ‘Hinuq language’ (see Chapter 14 for more
-details on place names, language names, ethnic names, etc.).
-",tensor([33.0775]),"744 Chapter 28. Questions
+",68.0425796508789,"Narrative converb clauses and serial verb constructions 707
+(1298) hado uži[...] Ø-et’e-n al-ň’o-sk’oň-o
+ this boy(I) I -burst-CVB branch. OBL - SPR - ABL 1 jump-PRS
+ gulu-zomoqoli-ň’o-r
+ horse-GEN 2 back-SPR - LAT
+ ‘The boy [...] jumps from the branch onto the horse’s back.’ (N)
+ The combinations seem to be monoclausal because all arguments and mod-
+ifiers are shared and they have just one valency pattern that may differ from the
+valency patterns of the single verbs. The word order cannot be changed:
+(1299)* kedgiri-mo-ň’o=bito k’oňe-n y-et’e-s
+girl(II) fence-OBL - SPR = TRANS jump- CVB II-separate-PST
+ (The girl jumped over the fence.)
+Chapter 26
+Other minor constructions
+26.1. Comparative constructions
+In comparative constructions two or more items are examined in order to note
+similarities and differences between them (Dixon 2008: 787). Hinuq has sev-
+eral ways of expressing comparative constructions. For expressing inequality
+between two items, a spatial case is used (Section 26.1.1). In superlative con-
+structions, degree adverbs occur (Section 26.1.2). For expressing equality or
+similarity, an enclitic (Section 26.1.4) and an adverb are used (Section 26.1.5).
+26.1.1. Expressing inequality with the ALOC -Lative
+26.1.1.1. Standard comparative constructions
+Hinuq comparative constructions consist of the comparee, which is often, but not
+always the subject of the clause, the standard of comparison, and the parameter
+of comparison. For standard comparative constructions, Hinuq does not employ
+an index (as for instance more in English). In simple comparative constructions,
+the comparee and the standard are normally expressed by noun phrases (nouns,
+proper names, pronouns). The comparee is often a copula subject or in the S or
+A function (1301b). The standard is marked with a spatial case, i.e. to indicate its
+grammatical function, the ALOC-Lative suffix -der is added to the standard (see
+Section 3.5.25 for other functions of this case). Cross-linguistically, this is rather
+unusual. According to Dixon (2008: 791), in a fair number of languages the ab-
+lative or locative (i.e. essive) markers are preferably employed for indicating the
+standard of comparison. In fact, all other Tsezic languages have either a dedi-
+cated suffix for this function (Tsez, Hunzib), or they use an Essive (Bezhta) or
+a spatial case containing the Ablative (Tsez, Khwarshi). Furthermore, the ALOC
+suffix is predominantly employed with animate nouns, but in comparative con-
+structions animate as well as inanimate nouns and other nominalized expression
+can take this case suffix. The construction is monoclausal. The word order is free.
+The comparee more frequently precedes the standard of comparison (1300a), but
+the reverse order is possible as well (1300b).
+(1300) a. diessu dew-zo essu-de-r bercinaw goì
+I.GEN 1 sister you.SG . OBL - GEN 2 sister-ALOC - LAT beautiful be
+ ‘My sister is more beautiful than your sister.’
+ Comparative constructions 709
+ b. dew-zoessu-de-r diessu bercinaw goì
+ you.SG . OBL - GEN 2 I.GEN 1 sister sister- ALOC - LAT beautiful be
+ ‘My sister is more beautiful than your sister.’
+In simple comparative constructions the parameter, that is, the property, in
+whose respect the comparee and the standard are compared, can be just an ad-
+jective (1300a), an adjective with some modifier (1301a), or an adverb (1301b),
+(1303b).
+(1301)a. di obu di-de-rqura santimetra
+I.GEN 1 father(I) I.OBL - ALOC - LAT twenty.OBL centimeter.IN
+ Ø-oxoru goì
+ I -longbe
+ ‘My father is 20 cm taller than me.’
+ b. iyo-y bišar-eg r-u:-ho zonzo
+ mother-ERG food(V) V-well V-do-PRS REFL . SG . GEN 2
+ essu-de-r
+ sister-ALOC - LAT
+ ‘The mother makes the food better than her sister.’
+In constructions expressing differences in age, it is possible to mark the stan-
+dard of comparison not only with the ALOC-Lative, but, at least for some Hinuq
+speakers alternatively with the SPR-Ablative.140
+(1302)a. obu-de-r q’ w ena ňeb-aØ-Ü eži zoq’e-n hago
+father-ALOC - LAT two.OBL year.OBL - IN I-big be-UWPST he
+ ‘He was two years older than my father.’ (N)
+ b. hago di-ň’o-sìoraňeb-aØ-Ü eži goì
+ he I.OBL - SPR - ABL 1 three.OBL year.OBL - IN I-big be
+ ‘He is two years older than me.’
+Since Hinuq does not have special comparative forms of adjectives or ad-
+verbs, the standard of comparison must obligatorily occur in every comparative
+construction. Otherwise the clause is just a copula construction or another kind
+of simple clause. For instance, compare example (1303a) and (1303b); both are
+identical except for the standard of comparison, which is absent from the first
+example, but occurs in the second example.
+140 My main informant sees the use of the SPR-Ablative as ungrammatical. But note that
+the closely related languages Khwarshi and Tsez use the SPR -Ablative in all kinds of
+comparative constructions, not only for the expression of age differences.
+",33.12084197998047,"744 Chapter 28. Questions
 (1380) a. debezr-eti-yoiyo-sxok’o-be?
  you.SG . DAT NHPL-want-PRS mother-GEN 1 khinkal-PL
 ‘Do you love mother’s khinkal?’
@@ -10206,7 +10206,7 @@ The word order in polar questions is the same as in assertions, i.e. predom-
 inantly verb-final, but all other word orders are also accepted. Also as in asser-
 tions, focused constituents can be clefted (1382b).
 (1382) a. Üali q’idi Ø-iči-š goì=e paradala:?
-",tensor([34.6743]),"Index
+",35.06589126586914,"Index
 Ablative case 71, 83, 86, 91, 96, 99, 102,spatial 103, 134, 140, 148, 330, 346–
 104, 374, 461, 475, 488, 532, 557, 362, 371, 375, 413
 708, 722temporal 77, 96, 100, 140, 174, 349
@@ -10574,7 +10574,7 @@ phrases, the reverse order seems to be excluded. In sum, ň’ w oq’ar seems t
 in the middle of a process of grammaticalization from a case-marked noun to an
 adposition.
 ",76.46959686279297
-0.8157689462602672,2,1,0.8626357820178688,2,0.8885625224225872,4,0.8246205654999682,1,0.8412578845659623,0,0.8587920435936484,4,0.8940816581613743,2,0.8915324957265738,3,0.8409328434230333,"756
+0.8157689462602672,2,1,0.8626357820178688,2,0.8885625224225872,4,0.8246205654999682,1,0.841336169296191,0,0.859410291608283,4,0.8940816581613743,2,0.8915324957265738,3,0.8409328434230333,"756
 29.2 Word order in declarative main clauses . . . . . . . . . . . . .","386 Chapter 11. Postpositions
 (681)a. sedi.sed-eì hezzo b-uxxo zoq’ w e-s nawuti
  REC . OBL - CONT after III -buy. PRS be- PST petroleum( III)
@@ -11056,13 +11056,13 @@ If the order is reversed, and the item denoting the location follows the subject
 the interpretation is usually only locative. However, the interpretation depends
 also on the subject type. For example, in (966a) an existential interpretation,
 though possible, seems very unlikely.
-",tensor([31.9379])," To conclude, Bickel (2010a) proposes the decomposition of terms referring
+",31.97774314880371," To conclude, Bickel (2010a) proposes the decomposition of terms referring
 to clause linkage (e.g. ‘subordination’, ‘cosubordination’, etc.) into sets of vari-
 ables with possible values in order to capture the variation between construc-
 tions. Afterwards it is possible to measure the diversity between constructions
 from many languages. In fact, these variables represent a useful tool for analyz-
 ing adverbial clauses and have at least partially been considered in this chapter.
-",tensor([33.7764]),"744 Chapter 28. Questions
+",34.022911071777344,"744 Chapter 28. Questions
 (1380) a. debezr-eti-yoiyo-sxok’o-be?
  you.SG . DAT NHPL-want-PRS mother-GEN 1 khinkal-PL
 ‘Do you love mother’s khinkal?’
@@ -11371,7 +11371,7 @@ tions and their strategies are subsumed. The column ‘case’ gives the case ma
 ing of the most prominent argument of these verbs. The abbreviations used are
 LA=local agreement, LDA=long distance agreement and BC=backward control.
 ",76.0401611328125
-0.8344070912273267,4,4,0.8809996030227988,1,0.8892147953973802,1,0.8256471076287543,4,0.8597468360482587,3,0.8713250990229182,1,0.894701626177684,1,0.8921673846635713,5,0.8652769614483182,"744 Chapter 28. Questions
+0.8344070912273267,4,4,0.8809996030227988,1,0.8892147953973802,1,0.8256471076287543,4,0.859824662557295,3,0.8719397282687111,1,0.894701626177684,1,0.8921673846635713,5,0.8652769614483182,"744 Chapter 28. Questions
 (1380) a. debezr-eti-yoiyo-sxok’o-be?
  you.SG . DAT NHPL-want-PRS mother-GEN 1 khinkal-PL
 ‘Do you love mother’s khinkal?’
@@ -11573,7 +11573,7 @@ The word order in polar questions is the same as in assertions, i.e. predom-
 inantly verb-final, but all other word orders are also accepted. Also as in asser-
 tions, focused constituents can be clefted (1382b).
 (1382) a. Üali q’idi Ø-iči-š goì=e paradala:?
-",tensor([31.6673]),"[Goriš-be]FOC
+",31.754714965820312,"[Goriš-be]FOC
 he.ERG girl.PLbe-UWPST HPL-steal.ICVB cow.PL
 zoq’e-n r-ik’ekko
 be-UWPST NHPL-steal.ICVB
@@ -11789,7 +11789,7 @@ In identificational sentences the focus identifies the missing element in a pres
 posed open proposition. The phrase expressing the focus denotatum is the only
 accented constituent in the sentence. Argument-focus is most easily identified in
 question-answer pairs.
-",tensor([33.6221]),"726 Chapter 26. Other minor constructions
+",33.88322448730469,"726 Chapter 26. Other minor constructions
  The ambiguity is more pragmatic than syntactic in nature. That is, if the two
 nouns cannot both be interpreted as substitutes then no ambiguity arises. In other
 words, it is not the syntactic structure alone that can lead to ambiguities. For
@@ -11976,7 +11976,7 @@ agent-patient-verb. Another example is the use of nouns marked for plural after
 all numbers except for the numeral 1, which is the norm in Russian, but not in
 Hinuq (in Hinuq normally the singular is used).
 ",75.85429382324219
-0.8411368991089537,2,1,0.8816866780757322,1,0.889854438224212,2,0.8324274932088394,3,0.8721040600010077,1,0.8720680319596628,1,0.8953095895761728,1,0.8927899800646977,1,0.8660548146420516,". . 670
+0.8411368991089537,2,1,0.8816866780757322,1,0.889854438224212,2,0.8324274932088394,3,0.8721814371615192,1,0.8726791125078688,1,0.8953095895761728,1,0.8927899800646977,1,0.8660548146420516,". . 670
 24.1.2.4 Word order and reversal of roles . . . . .","726 Chapter 26. Other minor constructions
  The ambiguity is more pragmatic than syntactic in nature. That is, if the two
 nouns cannot both be interpreted as substitutes then no ambiguity arises. In other
@@ -12330,7 +12330,7 @@ In identificational sentences the focus identifies the missing element in a pres
 posed open proposition. The phrase expressing the focus denotatum is the only
 accented constituent in the sentence. Argument-focus is most easily identified in
 question-answer pairs.
-",tensor([31.5446]),"726 Chapter 26. Other minor constructions
+",31.64533424377441,"726 Chapter 26. Other minor constructions
  The ambiguity is more pragmatic than syntactic in nature. That is, if the two
 nouns cannot both be interpreted as substitutes then no ambiguity arises. In other
 words, it is not the syntactic structure alone that can lead to ambiguities. For
@@ -12438,7 +12438,7 @@ mon noun. The reverse order is ungrammatical. Only the common noun takes
 case markers. With other nouns, which are not toponymic expressions, Genitive
 phrases are used, e.g Hinuzas mec ‘Hinuq language’ (see Chapter 14 for more
 details on place names, language names, ethnic names, etc.).
-",tensor([33.2903])," HPL -go-ICVB be.PTCP
+",33.53099060058594," HPL -go-ICVB be.PTCP
  ‘while the two armies went in order to fight against each other ...’
  (N)
 c. balon-be=nsedi.sed-eì hezzo b-uxxo zoq’ w e-s
@@ -12633,7 +12633,7 @@ Thus, in the extended intransitive construction, the controller must be in the A
 solutive case and the controllee is the reflexive pronoun (1227a); the other way
 around is ungrammatical (1227b).
 (1227) a.",75.65687561035156
-0.8477392503766541,2,5,0.9051498042731988,3,0.9018764986505992,3,0.8447767302127972,0,0.8671354512484406,1,0.8727968944031396,0,0.8902087727504602,3,0.9047953159285572,1,0.8668179359837099," . . . . 583
+0.8477392503766541,2,5,0.9051498042731988,3,0.9018764986505992,3,0.8447767302127972,0,0.8672123875706914,1,0.8734044934629549,0,0.8902087727504602,3,0.9047953159285572,1,0.8668179359837099," . . . . 583
 21.3.3 Illocutionary force: Questions and imperatives . . . . 583
  21.4 Word order and extraction . . . . . . . . . . . . . . .","648 Chapter 22. Complement clauses
 If the embedded verb is intransitive, then it is impossible to say whether the
@@ -12733,7 +12733,7 @@ tient of the clause. Example (946) also fits what has been noted for a number
 Biabsolutive constructions529
 of languages that have differential subject marking: the lower in prominence the
 subject, the more frequently it is case marked.
-",tensor([31.0562])," HPL -go-ICVB be.PTCP
+",31.337495803833008," HPL -go-ICVB be.PTCP
  ‘while the two armies went in order to fight against each other ...’
  (N)
 c. balon-be=nsedi.sed-eì hezzo b-uxxo zoq’ w e-s
@@ -12761,7 +12761,7 @@ The antecedent can be in the superordinate clause controlling a reciprocal
 pronoun in the subordinate clause (1268d), (1272a, 1272b). Often it is not overtly
 expressed in the clause but can be retrieved from the context (1268b), (1269c).
 The word order of antencedent and reciprocal pronoun can be reversed.
-",tensor([32.4315])," To conclude, Bickel (2010a) proposes the decomposition of terms referring
+",32.629085540771484," To conclude, Bickel (2010a) proposes the decomposition of terms referring
 to clause linkage (e.g. ‘subordination’, ‘cosubordination’, etc.) into sets of vari-
 ables with possible values in order to capture the variation between construc-
 tions. Afterwards it is possible to measure the diversity between constructions
@@ -12809,7 +12809,7 @@ tive constructions (Bybee et al. 1994: 129ff.). A detailed analysis of the biab-
 solutive construction in Nakh-Daghestanian languages can be found in Forker
 (2012a).
 ",75.55298614501953
-0.8485955180534659,1,1,0.9056832126331408,5,0.9249230861557076,2,0.8512733509628362,3,0.8791300261906456,0,0.8678885528184056,5,0.9133209759613558,5,0.9278254889020427,1,0.8675669109942122,"Shamil song=and call-CVB = Q I-go-PRS home-DIR
+0.8485955180534659,1,1,0.9056832126331408,5,0.9249230861557076,2,0.8512733509628362,3,0.8792065298466573,0,0.8684927349277812,5,0.9133209759613558,5,0.9278254889020427,1,0.8675669109942122,"Shamil song=and call-CVB = Q I-go-PRS home-DIR
 ‘Is Shamil going home SINGING A SONG?’
 21.4. Word order and extraction
 By far the preferred order for temporal and non-temporal converbs is to pre-
@@ -13004,7 +13004,7 @@ Saida-DAT IV-know-PRS boy.ERG drink-RES - ABST milk(IV )
 tions and their strategies are subsumed. The column ‘case’ gives the case mark-
 ing of the most prominent argument of these verbs. The abbreviations used are
 LA=local agreement, LDA=long distance agreement and BC=backward control.
-",tensor([30.2961]),"The biabsolutive construction can be interpreted as a means of decreasing
+",30.29654693603516,"The biabsolutive construction can be interpreted as a means of decreasing
 the transitivity of a transitive event or situation. Although its semantics is not
 very clear, the function of the biabsolutive construction can be broadly described
 as agent promotion in combination with patient demotion. The fact that topical-
@@ -13024,7 +13024,7 @@ tient of the clause. Example (946) also fits what has been noted for a number
 Biabsolutive constructions529
 of languages that have differential subject marking: the lower in prominence the
 subject, the more frequently it is case marked.
-",tensor([32.3221]),"648 Chapter 22. Complement clauses
+",32.40694046020508,"648 Chapter 22. Complement clauses
 If the embedded verb is intransitive, then it is impossible to say whether the
 construction represents forward or backward control.
 (1181) qaňe-li:-ž Ø-uìi-š=eňq’iliqan
@@ -13209,7 +13209,7 @@ case markers. With other nouns, which are not toponymic expressions, Genitive
 phrases are used, e.g Hinuzas mec ‘Hinuq language’ (see Chapter 14 for more
 details on place names, language names, ethnic names, etc.).
 ",75.06644439697266
-0.8438834253210745,0,1,0.9062069361726116,1,0.9253399742638464,0,0.8465463887234507,1,0.8798011946248814,0,0.8630693294602124,1,0.9138022884247544,1,0.9282262605087428,1,0.8683022872517534," There has been some discussion concerning pharyngealization in Hinuq and
+0.8438834253210745,0,1,0.9062069361726116,1,0.9253399742638464,0,0.8465463887234507,1,0.8798772734703516,0,0.8636701566589551,1,0.9138022884247544,1,0.9282262605087428,1,0.8683022872517534," There has been some discussion concerning pharyngealization in Hinuq and
 in other Tsezic languages (cf. Kibrik & Kodzasov (1990), Maddieson et al.
 (1996), Comrie (2003a), Grawunder et al. (2009)). The precise nature and the
 historical development of pharyngealization remains a subject of debate. Lom-
@@ -13516,7 +13516,7 @@ The antecedent can be in the superordinate clause controlling a reciprocal
 pronoun in the subordinate clause (1268d), (1272a, 1272b). Often it is not overtly
 expressed in the clause but can be retrieved from the context (1268b), (1269c).
 The word order of antencedent and reciprocal pronoun can be reversed.
-",tensor([30.0769])," Beginning from the 1970’s Kibrik and Kodzasov organized many field trips
+",30.082733154296875," Beginning from the 1970’s Kibrik and Kodzasov organized many field trips
 from Moscow State University to Daghestan in order to study Daghestanian
 languages. Material about Hinuq syntax can be found in Materialy k tipologii
 èrgativnosti (‘Materials on the typology of ergativity’) from 1980 and 1981, and
@@ -13524,7 +13524,7 @@ alternatively in a newer version of these books by Kibrik (2003), and partially
 also in Kibrik (1987). Furthermore, Kibrik & Kodzasov (1990) contains descrip-
 tions of the phonology and the case formation in many Daghestanian languages,
 including Hinuq.
-",tensor([31.8946])," Just as verbs in other clause types, the copula most frequently occurs in
+",31.875822067260742," Just as verbs in other clause types, the copula most frequently occurs in
 clause-final position, but other orders are also possible. The copula subject is
 always in the Absolutive case. It may be a noun, a proper name, a pronoun, a
 numeral, or any other type of noun phrase. The copula complement may be a
@@ -13900,7 +13900,7 @@ the interpretation is usually only locative. However, the interpretation depends
 also on the subject type. For example, in (966a) an existential interpretation,
 though possible, seems very unlikely.
 ",74.4411849975586
-0.8392551821737684,0,1,0.9067213402856664,0,0.9202649861004212,1,0.8473879985993051,0,0.8749759619827482,3,0.8747892358304924,1,0.9142750361478892,1,0.9286199005637428,0,0.8635401198833942," To conclude, Bickel (2010a) proposes the decomposition of terms referring
+0.8392551821737684,0,1,0.9067213402856664,0,0.9202649861004212,1,0.8473879985993051,0,0.8750516235769907,3,0.8753867678177379,1,0.9142750361478892,1,0.9286199005637428,0,0.8635401198833942," To conclude, Bickel (2010a) proposes the decomposition of terms referring
 to clause linkage (e.g. ‘subordination’, ‘cosubordination’, etc.) into sets of vari-
 ables with possible values in order to capture the variation between construc-
 tions. Afterwards it is possible to measure the diversity between constructions
@@ -14002,7 +14002,7 @@ alternatively in a newer version of these books by Kibrik (2003), and partially
 also in Kibrik (1987). Furthermore, Kibrik & Kodzasov (1990) contains descrip-
 tions of the phonology and the case formation in many Daghestanian languages,
 including Hinuq.
-",tensor([29.9246]),"592Chapter 22. Complement clauses
+",29.736305236816406,"592Chapter 22. Complement clauses
  – potential type (refers to the potentiality of the subject of the complement
 clause becoming involved in an activity): Infinitive/Purposive converb,
 clause union, purpose clauses with the Quotative enclitic (Section 22.2.4.7).
@@ -14022,7 +14022,7 @@ Saida-DAT IV-know-PRS boy.ERG drink-RES - ABST milk(IV )
 tions and their strategies are subsumed. The column ‘case’ gives the case mark-
 ing of the most prominent argument of these verbs. The abbreviations used are
 LA=local agreement, LDA=long distance agreement and BC=backward control.
-",tensor([31.4369]),"Narrative converb clauses and serial verb constructions 707
+",31.58521270751953,"Narrative converb clauses and serial verb constructions 707
 (1298) hado uži[...] Ø-et’e-n al-ň’o-sk’oň-o
  this boy(I) I -burst-CVB branch. OBL - SPR - ABL 1 jump-PRS
  gulu-zomoqoli-ň’o-r
@@ -14199,7 +14199,7 @@ is already heavily used for lower grammatical roles (in contrast to the Dative,
 which is mainly used for the coding of the experiencer); therefore, causees are
 also marked with it.
 ",73.49718475341797
-0.8618000548791882,5,1,0.9072267679438062,1,0.920697027914384,1,0.8482149222140764,1,0.8756534010340786,1,0.8754676866519547,1,0.9147395343284652,0,0.9235882011044936,4,0.8805349349559101,"14 Chapter 1. Introduction
+0.8618000548791882,5,1,0.9072267679438062,1,0.920697027914384,1,0.8482149222140764,1,0.8757286526582111,1,0.8760619809298046,1,0.9147395343284652,0,0.9235882011044936,4,0.8805349349559101,"14 Chapter 1. Introduction
 The number of loans from Russian is constantly growing since nowadays all new
 loans, including all internationalisms are borrowed from Russian. An illustrative
 list is given in (5). The influence from Russian is especially obvious in trans-
@@ -14422,75 +14422,90 @@ and periphrastic tense-aspect-mood forms have often arisen from original loca-
 tive constructions (Bybee et al. 1994: 129ff.). A detailed analysis of the biab-
 solutive construction in Nakh-Daghestanian languages can be found in Forker
 (2012a).
-",tensor([29.4303]),"386 Chapter 11. Postpositions
-(681)a. sedi.sed-eì hezzo b-uxxo zoq’ w e-s nawuti
- REC . OBL - CONT after III -buy. PRS be- PST petroleum( III)
- ‘One after the other was buying petroleum.’ (N)
- b. de c’udaki-ya-ì hezzo Ø-iň’i-š
- I raspberry-OBL - CONT after I-go-PST
- ‘I (masc.) went for raspberries.’
-11.2.8. aldoGo ‘in front of’
-The postposition aldoGo can be used with three cases leading always to the spa-
-tial meaning ‘in front of’, namely the CONT-Essive (682a), the ALOC-Essive
-(682b), and the ILOC-Essive (682c). It also occurs with the temporal meaning
-‘ago, before’ (11.3.1). The postposition can be case-marked (682c) and functions
-as an adverb (Section 10.2.2.5). There are two verbs derived from this postpo-
-sition: aldoGoì- ‘move forward, advance’ (intr.) and aldoGok’- ‘move forward’
-(tr.).
-(682)a. hayìu raq’i-mo-ì aldoGo=bitor-iň’i-yo sadaq bayraq
- that.OBL bier-OBL - CONT in.front=TRANS V-go-PRS allflag(V)
- r-iìi
- V -similar
- ‘All (things) go in front of the bier like a flag.’ (N)
- b. hayìoy [b-ux-an=no b-ux-no] gor-no sadaq
- he.ERG III-take-RED=and III-take-CVB put-UWPST all
- obu-s maÜišat hayìu-dealdoGo
- father-GEN 1 property(III) she.OBL - ALOC in.front
- ‘He took all his father’s property and put it in front of her.’ (N)
- c. xan-i-žobeňe-hoaldoGo-r b-aq’-a goì
- khan-OBL - GEN 2 house.OBL-ILOC in.front- LAT III-come-INF be
- oc’eno q’ono gulu
- ten two horse( III)
- ‘Twelve horses will come in front of the khan’s palace.’
-11.2.9. dandi ‘towards, against’
-This postposition, an Avar loan word, governs the ILOC-Essive with inanimate
-nouns (683a) and the ALOC-Essive with animate nouns (683b, 683c). It can have
-a clear spatial meaning (683b), but more abstract interpretations, as for instance
-Spatial postpositions387
-‘against’, are also possible (683b). When employed as an adverbial, dandi has
-both temporal and spatial meaning (Section 10.2.2.10). This postposition can
-take case markers (683b) and serve as the base for two derived verbs: dandeì-
-‘unite’ (intr.) and dandek’- ‘make near’ (tr.).
-(683) a. kawu-mo-ho dandi-r=noØ-iň’i-n yoňu.koka
-gate-OBL - ILOC towards-LAT=and I-go-CVB cinderello
-zeru-ň’o-r qaň-a Ø-uìi-š=eň
-fox-SPR - LAT call-INF I-begin-PST = NARR
-‘Cinderello went towards the gate and began to shout at the fox.’ (N)
-b. hoboži Ø-oxe-yahayìo-dedandi-r y-aq’-o
-then I-leave-PTCP. LOC he.OBL - ALOC against-LAT II-come-PRS
-hes=gozon ked
-one=TOP girl(II)
-‘Then while leaving, a girl comes towards him.’ (S)
-c. baGarzi Ø-iqqohadze-de dandi Ø-ihi:-ž hado
-move I-happen.PRS they.OBL - ALOC against I-fight-PURP he
-‘He moves in order to fight against them.’ (N)
-11.2.10.ň’ w oq’ar ‘in front of, towards’
-This postposition is based on the noun ň’ w oq’o ‘forehead’ marked with the IN-
-Lative case. Because it contains, at least diachronically, a case marker, ň’ w oq’ar
-cannot take additional case markers. The postposition governs the ALOC-Essive
-(684a), the ILOC-Essive (684b), or the Second Genitive case (684c). The use of
-the Second Genitive case seems natural if one thinks of the postpositional phrase
-as a phrase expressing possession. That is, ň’oq’ar hayìozo can also be translated
-as ‘towards his forehead’, in which case the pronoun must be marked with the
-second Genitive because the head noun carries already an oblique case suffix.
-Maybe this explains why the order of adposition and noun is reversed in (684c).
-Although the most frequent word order in Genitive phrases is Genitive-noun, the
-reverse order is relatively common. In fact, the standard order in genitive phrases,
-genitive-noun, would also be possible in (684c). In contrast, in postpositional
-phrases, the reverse order seems to be excluded. In sum, ň’ w oq’ar seems to be
-in the middle of a process of grammaticalization from a case-marked noun to an
-adposition.
-",tensor([30.8372]),"670 Chapter 24. Reflexivization and reciprocalization
+",29.49765014648437,"670 Chapter 24. Reflexivization and reciprocalization
+(1220)a. haìu-zr-ik-ozonesčurGan
+ she.OBL - DAT V-see-PRS REFL . SG . GEN 1 headscarf(V)
+ ‘She sees her headscarf.’ (N)
+ b. hoboži coy boži b-iq-išzonzo
+ now eagle(III) belief III-happen-PST REFL . SG . GEN 2
+ q’uwat-mo-ň’o
+ force-OBL - SPR
+ ‘The eagle believed in its force.’ (N)
+ Other non-arguments marked with various spatial cases can be expressed as
+reflexive pronouns:
+(1221)a. xan-iqaňe-n zonde-rØ-eg w ennu uži
+ khan-ERG call-UWPST REFL . SG . ALOC - LAT I-small son(I)
+ ‘The khan called the small son to himself.’ (N)
+ b. haìuked-izon-ìib-u:-ho arxi
+ this.OBL girl-ERG REFL . SG . OBL - ABST III-do-PRS ditch( III)
+ ‘The girl makes a ditch out of herself.’ (N)
+ c. haw mecxer=no ukru=n hayìu ked-i zonqo-do
+ that money=and silver=and that.OBL girl-ERG REFL . SG . AT- DIR
+ b-ux-no
+ III -take-UWPST
+ ‘The girl took the money and the silver for herself.’ (N)
+ d. Üali-ž Ø-ike-s Maèama zondepureì
+ Ali-DAT I-see-PST Mahama REFL . SG . ALOC next
+ ‘Ali saw Mahama next to himself.’
+24.1.2.3. Object control of possessors
+If the possessor of the more prominent argument in a clause is coreferential with
+the less prominent argument of the same clause, then the possessor must be a
+reflexive pronoun. It cannot be a normal demonstrative pronoun. Usually, the
+reflexive pronoun =tow is added in order to facilitate the interpretation.
+(1222)a. zonzo=towi G w e-y Üumari Ø-uň’er-iš
+ REFL . SG . GEN 2= SELF dog- ERG Omar(I ) I -frighten- PST
+ ‘Hisi own dog frightened Omari .’
+ b. hayìo-zo∗i/ j G w e-y Üumari Ø-uň’er-iš
+ he.OBL - GEN 2 dog-ERG Omar(I) I-frighten-PST
+Reflexivization 671
+ ‘His∗i/ j dog frightened Omari .’
+If the possessor is expressed as a noun phrase anteceding the pronoun in
+the object position, then coreference is excluded if the object is a demonstrative
+pronoun (1223a). If =tow is added to the demonstrative pronoun, then the pos-
+sessor can be interpreted as the antecedent, but disjoint reference is also possible
+(1223b).
+(1223) a. Üumar-zoi G w e-y hago∗i/ j Ø-uň’er-iš
+Omar-GEN 2 dog-ERG heI -frighten- PST
+ ‘Omar’si dog frightened him∗i/ j .’
+b. Üumar-zoi G w e-y hago=towi/ j Ø-uň’er-iš
+ Omar-GEN 2 dog-ERG he=SELF I -frighten- PST
+ ‘Omar’si dog frightened himi/ j .’
+When the reduplicated demonstrative pronoun is used in the same position,
+then it must be interpreted as being coreferential with the more prominent argu-
+ment (1224), not with the possessor (see also (1216c) above):
+(1224) Üumar-esi G w e j zoni.zon-ň’o-r∗i/ j b-eze-s
+ Omar-GEN 1 dog(III) RED . REFL . SG . OBL - SPR - LAT III-look- PST
+ ‘Omar’si dog j looked at itself∗i/ j .’
+When the simple reflexive pronoun is marked with =tow, then the possessor
+functions as antecedent (1225). The enclitic cannot be left out because then the
+sentence becomes incomprehensible (1216a).
+(1225) Üumar-zoi G w e-y j zo=towi/∗ jhil-iš
+ Omar-GEN 2 dog-ERG REFL . SG = SELF bite-PST
+ ‘Omar’si dog j bit himi/∗ j .’
+24.1.2.4. Word order and reversal of roles
+The word order of reflexive pronouns is in principle free, i.e. they usually follow
+their antecedent, but the reversed order is also possible.
+(1226) a. Šayix-izoni.zo zokko
+Sheikh-ERG RED . REFL . SG beat.PRS
+ ‘Sheikh beats himself.’
+b. zoni.zo Šayixi zokko
+672Chapter 24. Reflexivization and reciprocalization
+ c. Üumar zoni.zonqo-r Ø-eg Ø-ez-o
+Omar RED . REFL . SG . AT- LAT I-well I-look-PRS
+‘Omar cares about himself.’ (lit. ‘looks well at himself’)
+ d. zoni.zonqo-r Üumar Ø-eg Ø-ez-o
+ e. Madina-zzonezzo y-eq’i-yo
+Madina(II)- DAT REFL . SG . DAT REFL . SG II -know-PRS
+‘Madina knows herself.’
+f. zonez zo Madinaz yeq’iyo
+With simple reflexive pronouns, the roles of antecedent and pronoun cannot
+be reversed. With reduplicated reflexive pronouns, it is likewise mostly impos-
+sible to change the roles of controller and controllee such that the reflexive pro-
+noun takes the more prominent role and the noun phrase the less prominent one.
+Thus, in the extended intransitive construction, the controller must be in the Ab-
+solutive case and the controllee is the reflexive pronoun (1227a); the other way
+around is ungrammatical (1227b).
+(1227) a.",31.12991714477539,"670 Chapter 24. Reflexivization and reciprocalization
 (1220)a. haìu-zr-ik-ozonesčurGan
  she.OBL - DAT V-see-PRS REFL . SG . GEN 1 headscarf(V)
  ‘She sees her headscarf.’ (N)
@@ -14597,7 +14612,7 @@ inantly verb-final, but all other word orders are also accepted. Also as in asse
 tions, focused constituents can be clefted (1382b).
 (1382) a. Üali q’idi Ø-iči-š goì=e paradala:?
 ",73.41980743408203
-0.8732494936106308,3,0,0.9023688325019876,0,0.9157669631487472,1,0.8490276871533062,0,0.870964531787778,1,0.8761345209650961,0,0.9098413702080232,3,0.9347067822862716,0,0.8758199265154331," Maèama-zoi G w e-y j zoni.zo∗i/ jhil-iš
+0.8732494936106308,3,0,0.9023688325019876,0,0.9157669631487472,1,0.8490276871533062,0,0.871039380461353,1,0.8767256329699605,0,0.9098413702080232,3,0.9347067822862716,0,0.8758199265154331," Maèama-zoi G w e-y j zoni.zo∗i/ jhil-iš
  Mahama-GEN 2 dog-ERG RED . REFL . SG bite-PST
  ‘Mahama’si dog j bit itself∗i/ j .’
 24.1.2.2. Status of the reflexive
@@ -14765,90 +14780,75 @@ Essive is also employed to code temporary possessors. In other words, this case
 is already heavily used for lower grammatical roles (in contrast to the Dative,
 which is mainly used for the coding of the experiencer); therefore, causees are
 also marked with it.
-",tensor([29.1831]),"670 Chapter 24. Reflexivization and reciprocalization
-(1220)a. haìu-zr-ik-ozonesčurGan
- she.OBL - DAT V-see-PRS REFL . SG . GEN 1 headscarf(V)
- ‘She sees her headscarf.’ (N)
- b. hoboži coy boži b-iq-išzonzo
- now eagle(III) belief III-happen-PST REFL . SG . GEN 2
- q’uwat-mo-ň’o
- force-OBL - SPR
- ‘The eagle believed in its force.’ (N)
- Other non-arguments marked with various spatial cases can be expressed as
-reflexive pronouns:
-(1221)a. xan-iqaňe-n zonde-rØ-eg w ennu uži
- khan-ERG call-UWPST REFL . SG . ALOC - LAT I-small son(I)
- ‘The khan called the small son to himself.’ (N)
- b. haìuked-izon-ìib-u:-ho arxi
- this.OBL girl-ERG REFL . SG . OBL - ABST III-do-PRS ditch( III)
- ‘The girl makes a ditch out of herself.’ (N)
- c. haw mecxer=no ukru=n hayìu ked-i zonqo-do
- that money=and silver=and that.OBL girl-ERG REFL . SG . AT- DIR
- b-ux-no
- III -take-UWPST
- ‘The girl took the money and the silver for herself.’ (N)
- d. Üali-ž Ø-ike-s Maèama zondepureì
- Ali-DAT I-see-PST Mahama REFL . SG . ALOC next
- ‘Ali saw Mahama next to himself.’
-24.1.2.3. Object control of possessors
-If the possessor of the more prominent argument in a clause is coreferential with
-the less prominent argument of the same clause, then the possessor must be a
-reflexive pronoun. It cannot be a normal demonstrative pronoun. Usually, the
-reflexive pronoun =tow is added in order to facilitate the interpretation.
-(1222)a. zonzo=towi G w e-y Üumari Ø-uň’er-iš
- REFL . SG . GEN 2= SELF dog- ERG Omar(I ) I -frighten- PST
- ‘Hisi own dog frightened Omari .’
- b. hayìo-zo∗i/ j G w e-y Üumari Ø-uň’er-iš
- he.OBL - GEN 2 dog-ERG Omar(I) I-frighten-PST
-Reflexivization 671
- ‘His∗i/ j dog frightened Omari .’
-If the possessor is expressed as a noun phrase anteceding the pronoun in
-the object position, then coreference is excluded if the object is a demonstrative
-pronoun (1223a). If =tow is added to the demonstrative pronoun, then the pos-
-sessor can be interpreted as the antecedent, but disjoint reference is also possible
-(1223b).
-(1223) a. Üumar-zoi G w e-y hago∗i/ j Ø-uň’er-iš
-Omar-GEN 2 dog-ERG heI -frighten- PST
- ‘Omar’si dog frightened him∗i/ j .’
-b. Üumar-zoi G w e-y hago=towi/ j Ø-uň’er-iš
- Omar-GEN 2 dog-ERG he=SELF I -frighten- PST
- ‘Omar’si dog frightened himi/ j .’
-When the reduplicated demonstrative pronoun is used in the same position,
-then it must be interpreted as being coreferential with the more prominent argu-
-ment (1224), not with the possessor (see also (1216c) above):
-(1224) Üumar-esi G w e j zoni.zon-ň’o-r∗i/ j b-eze-s
- Omar-GEN 1 dog(III) RED . REFL . SG . OBL - SPR - LAT III-look- PST
- ‘Omar’si dog j looked at itself∗i/ j .’
-When the simple reflexive pronoun is marked with =tow, then the possessor
-functions as antecedent (1225). The enclitic cannot be left out because then the
-sentence becomes incomprehensible (1216a).
-(1225) Üumar-zoi G w e-y j zo=towi/∗ jhil-iš
- Omar-GEN 2 dog-ERG REFL . SG = SELF bite-PST
- ‘Omar’si dog j bit himi/∗ j .’
-24.1.2.4. Word order and reversal of roles
-The word order of reflexive pronouns is in principle free, i.e. they usually follow
-their antecedent, but the reversed order is also possible.
-(1226) a. Šayix-izoni.zo zokko
-Sheikh-ERG RED . REFL . SG beat.PRS
- ‘Sheikh beats himself.’
-b. zoni.zo Šayixi zokko
-672Chapter 24. Reflexivization and reciprocalization
- c. Üumar zoni.zonqo-r Ø-eg Ø-ez-o
-Omar RED . REFL . SG . AT- LAT I-well I-look-PRS
-‘Omar cares about himself.’ (lit. ‘looks well at himself’)
- d. zoni.zonqo-r Üumar Ø-eg Ø-ez-o
- e. Madina-zzonezzo y-eq’i-yo
-Madina(II)- DAT REFL . SG . DAT REFL . SG II -know-PRS
-‘Madina knows herself.’
-f. zonez zo Madinaz yeq’iyo
-With simple reflexive pronouns, the roles of antecedent and pronoun cannot
-be reversed. With reduplicated reflexive pronouns, it is likewise mostly impos-
-sible to change the roles of controller and controllee such that the reflexive pro-
-noun takes the more prominent role and the noun phrase the less prominent one.
-Thus, in the extended intransitive construction, the controller must be in the Ab-
-solutive case and the controllee is the reflexive pronoun (1227a); the other way
-around is ungrammatical (1227b).
-(1227) a.",tensor([30.7451])," Due to the scarcity of examples, the exact meaning of this suffix remains
+",29.26431655883789,"386 Chapter 11. Postpositions
+(681)a. sedi.sed-eì hezzo b-uxxo zoq’ w e-s nawuti
+ REC . OBL - CONT after III -buy. PRS be- PST petroleum( III)
+ ‘One after the other was buying petroleum.’ (N)
+ b. de c’udaki-ya-ì hezzo Ø-iň’i-š
+ I raspberry-OBL - CONT after I-go-PST
+ ‘I (masc.) went for raspberries.’
+11.2.8. aldoGo ‘in front of’
+The postposition aldoGo can be used with three cases leading always to the spa-
+tial meaning ‘in front of’, namely the CONT-Essive (682a), the ALOC-Essive
+(682b), and the ILOC-Essive (682c). It also occurs with the temporal meaning
+‘ago, before’ (11.3.1). The postposition can be case-marked (682c) and functions
+as an adverb (Section 10.2.2.5). There are two verbs derived from this postpo-
+sition: aldoGoì- ‘move forward, advance’ (intr.) and aldoGok’- ‘move forward’
+(tr.).
+(682)a. hayìu raq’i-mo-ì aldoGo=bitor-iň’i-yo sadaq bayraq
+ that.OBL bier-OBL - CONT in.front=TRANS V-go-PRS allflag(V)
+ r-iìi
+ V -similar
+ ‘All (things) go in front of the bier like a flag.’ (N)
+ b. hayìoy [b-ux-an=no b-ux-no] gor-no sadaq
+ he.ERG III-take-RED=and III-take-CVB put-UWPST all
+ obu-s maÜišat hayìu-dealdoGo
+ father-GEN 1 property(III) she.OBL - ALOC in.front
+ ‘He took all his father’s property and put it in front of her.’ (N)
+ c. xan-i-žobeňe-hoaldoGo-r b-aq’-a goì
+ khan-OBL - GEN 2 house.OBL-ILOC in.front- LAT III-come-INF be
+ oc’eno q’ono gulu
+ ten two horse( III)
+ ‘Twelve horses will come in front of the khan’s palace.’
+11.2.9. dandi ‘towards, against’
+This postposition, an Avar loan word, governs the ILOC-Essive with inanimate
+nouns (683a) and the ALOC-Essive with animate nouns (683b, 683c). It can have
+a clear spatial meaning (683b), but more abstract interpretations, as for instance
+Spatial postpositions387
+‘against’, are also possible (683b). When employed as an adverbial, dandi has
+both temporal and spatial meaning (Section 10.2.2.10). This postposition can
+take case markers (683b) and serve as the base for two derived verbs: dandeì-
+‘unite’ (intr.) and dandek’- ‘make near’ (tr.).
+(683) a. kawu-mo-ho dandi-r=noØ-iň’i-n yoňu.koka
+gate-OBL - ILOC towards-LAT=and I-go-CVB cinderello
+zeru-ň’o-r qaň-a Ø-uìi-š=eň
+fox-SPR - LAT call-INF I-begin-PST = NARR
+‘Cinderello went towards the gate and began to shout at the fox.’ (N)
+b. hoboži Ø-oxe-yahayìo-dedandi-r y-aq’-o
+then I-leave-PTCP. LOC he.OBL - ALOC against-LAT II-come-PRS
+hes=gozon ked
+one=TOP girl(II)
+‘Then while leaving, a girl comes towards him.’ (S)
+c. baGarzi Ø-iqqohadze-de dandi Ø-ihi:-ž hado
+move I-happen.PRS they.OBL - ALOC against I-fight-PURP he
+‘He moves in order to fight against them.’ (N)
+11.2.10.ň’ w oq’ar ‘in front of, towards’
+This postposition is based on the noun ň’ w oq’o ‘forehead’ marked with the IN-
+Lative case. Because it contains, at least diachronically, a case marker, ň’ w oq’ar
+cannot take additional case markers. The postposition governs the ALOC-Essive
+(684a), the ILOC-Essive (684b), or the Second Genitive case (684c). The use of
+the Second Genitive case seems natural if one thinks of the postpositional phrase
+as a phrase expressing possession. That is, ň’oq’ar hayìozo can also be translated
+as ‘towards his forehead’, in which case the pronoun must be marked with the
+second Genitive because the head noun carries already an oblique case suffix.
+Maybe this explains why the order of adposition and noun is reversed in (684c).
+Although the most frequent word order in Genitive phrases is Genitive-noun, the
+reverse order is relatively common. In fact, the standard order in genitive phrases,
+genitive-noun, would also be possible in (684c). In contrast, in postpositional
+phrases, the reverse order seems to be excluded. In sum, ň’ w oq’ar seems to be
+in the middle of a process of grammaticalization from a case-marked noun to an
+adposition.
+",30.999744415283203," Due to the scarcity of examples, the exact meaning of this suffix remains
 unclear. But it seems to be comparable to the animate location suffix because
 example (162b) has about the same meaning as example (154c) where the -Go has
 been replaced by the ALOC ending -de. Furthermore, two other Tsezic languages,
@@ -14944,7 +14944,7 @@ Kibrik, Aleksandr E. (ed.) . 1999. Èlementy caxurskogo jazyka v tipologičesko
 veščenii [Aspects of Tsakhur from a typological perspective]. Moscow: Nasledie.
 Kibrik, Aleksandr E. (ed.) . 2001. Bagvalalinskij jazyk [The Bagvalal language].
 ",73.1914291381836
-0.8785707030519206,1,0,0.9023688325019876,3,0.9317305914726168,1,0.8543488965945961,1,0.8762857412290679,1,0.881455730406386,0,0.9098413702080232,0,0.9347067822862716,0,0.8758199265154331,"386 Chapter 11. Postpositions
+0.8785707030519206,1,0,0.9023688325019876,3,0.9317305914726168,1,0.8543488965945961,1,0.8763605899026429,1,0.8820468424112504,0,0.9098413702080232,0,0.9347067822862716,0,0.8758199265154331,"386 Chapter 11. Postpositions
 (681)a. sedi.sed-eì hezzo b-uxxo zoq’ w e-s nawuti
  REC . OBL - CONT after III -buy. PRS be- PST petroleum( III)
  ‘One after the other was buying petroleum.’ (N)
@@ -15209,7 +15209,7 @@ noun takes the more prominent role and the noun phrase the less prominent one.
 Thus, in the extended intransitive construction, the controller must be in the Ab-
 solutive case and the controllee is the reflexive pronoun (1227a); the other way
 around is ungrammatical (1227b).
-(1227) a.",tensor([28.7648]),"528 Chapter 17. Non-canonical agent constructions
+(1227) a.",28.84775161743164,"528 Chapter 17. Non-canonical agent constructions
 (957) [What is Patimat eating? / What is Patimat doing?]
 Pat’imat magalu b-accogoì
 Patimat bread(III) III-eat.ICVB be
@@ -15230,7 +15230,7 @@ and periphrastic tense-aspect-mood forms have often arisen from original loca-
 tive constructions (Bybee et al. 1994: 129ff.). A detailed analysis of the biab-
 solutive construction in Nakh-Daghestanian languages can be found in Forker
 (2012a).
-",tensor([30.6629]),"The biabsolutive construction can be interpreted as a means of decreasing
+",30.841934204101562,"The biabsolutive construction can be interpreted as a means of decreasing
 the transitivity of a transitive event or situation. Although its semantics is not
 very clear, the function of the biabsolutive construction can be broadly described
 as agent promotion in combination with patient demotion. The fact that topical-
@@ -15373,7 +15373,7 @@ in typological studies (cf. Haspelmath (1999a), Ganenkov (2006), Rice & Ka-
 bata (2007)). The extended range of grammatical functions of AT correlates with
 the fact that this suffix rarely indicates spatial location and movement.
 ",73.18954467773438
-0.8838595853496838,1,0,0.9023688325019876,1,0.9370194737703802,0,0.8543488965945961,0,0.8762857412290679,0,0.881455730406386,1,0.9151302525057864,1,0.9399956645840348,0,0.8758199265154331,"670 Chapter 24. Reflexivization and reciprocalization
+0.8838595853496838,1,0,0.9023688325019876,1,0.9370194737703802,0,0.8543488965945961,0,0.8763605899026429,0,0.8820468424112504,1,0.9151302525057864,1,0.9399956645840348,0,0.8758199265154331,"670 Chapter 24. Reflexivization and reciprocalization
 (1220)a. haìu-zr-ik-ozonesčurGan
  she.OBL - DAT V-see-PRS REFL . SG . GEN 1 headscarf(V)
  ‘She sees her headscarf.’ (N)
@@ -15622,7 +15622,7 @@ receive, addressees of verbs of speech receive information) and has been shown
 in typological studies (cf. Haspelmath (1999a), Ganenkov (2006), Rice & Ka-
 bata (2007)). The extended range of grammatical functions of AT correlates with
 the fact that this suffix rarely indicates spatial location and movement.
-",tensor([28.4160])," A strong correlation between the initial segment of a noun and the appropri-
+",28.57586669921875," A strong correlation between the initial segment of a noun and the appropri-
 ate agreement prefix has already been proposed for several other Nakh-Daghesta-
 nian languages (e.g. see Kibrik (1977: 64–66) for Archi, Nichols (1989) for Nakh
 and Comrie & Polinsky (1999b) for Tsez and Hunzib). Comrie and Polinsky ex-
@@ -15632,7 +15632,7 @@ the correlation, from classes to initial/final segments and vice versa have been
 examined. After counting all 800 nouns in my material the results are given in
 Tables 17-20. In these tables the abbreviation seg. refers to the segments and occ.
 (‘occurence’) to the number of nouns beginning with that segment.
-",tensor([30.2730]),"528 Chapter 17. Non-canonical agent constructions
+",30.51666259765625,"528 Chapter 17. Non-canonical agent constructions
 (957) [What is Patimat eating? / What is Patimat doing?]
 Pat’imat magalu b-accogoì
 Patimat bread(III) III-eat.ICVB be
@@ -15731,7 +15731,7 @@ Based on the copula, a few converbs and participles can be built, but for the
 majority of converbal and participial forms of ‘be’, the verbs -iči- and -iq- must
 be employed (see Section 7.8.3 for the forms and some examples).
 ",72.71586608886719
-0.8838595853496838,0,1,0.9076264915721032,0,0.9370194737703802,1,0.8596065556647116,1,0.8815434002991833,0,0.881455730406386,0,0.9151302525057864,0,0.9399956645840348,1,0.8810775855855485," Due to the scarcity of examples, the exact meaning of this suffix remains
+0.8838595853496838,0,1,0.9076264915721032,0,0.9370194737703802,1,0.8596065556647116,1,0.8816182489727583,0,0.8820468424112504,0,0.9151302525057864,0,0.9399956645840348,1,0.8810775855855485," Due to the scarcity of examples, the exact meaning of this suffix remains
 unclear. But it seems to be comparable to the animate location suffix because
 example (162b) has about the same meaning as example (154c) where the -Go has
 been replaced by the ALOC ending -de. Furthermore, two other Tsezic languages,
@@ -15905,7 +15905,7 @@ genitive-noun, would also be possible in (684c). In contrast, in postpositional
 phrases, the reverse order seems to be excluded. In sum, ň’ w oq’ar seems to be
 in the middle of a process of grammaticalization from a case-marked noun to an
 adposition.
-",tensor([28.3570])," Due to the scarcity of examples, the exact meaning of this suffix remains
+",28.37528610229492," Due to the scarcity of examples, the exact meaning of this suffix remains
 unclear. But it seems to be comparable to the animate location suffix because
 example (162b) has about the same meaning as example (154c) where the -Go has
 been replaced by the ALOC ending -de. Furthermore, two other Tsezic languages,
@@ -15966,7 +15966,7 @@ receive, addressees of verbs of speech receive information) and has been shown
 in typological studies (cf. Haspelmath (1999a), Ganenkov (2006), Rice & Ka-
 bata (2007)). The extended range of grammatical functions of AT correlates with
 the fact that this suffix rarely indicates spatial location and movement.
-",tensor([29.9054])," I -turn-COND - NEG I.GEN 1 you. PL . OBL - AT order
+",30.030750274658203," I -turn-COND - NEG I.GEN 1 you. PL . OBL - AT order
  ‘If I do not come back from this disease, this is my order for you ...’ (N)
 18.9. Other verbs used in copula-clauses
 Since the morphological paradigm of the copula verbs is defective, three other
@@ -16118,7 +16118,7 @@ example, but occurs in the second example.
 the closely related languages Khwarshi and Tsez use the SPR -Ablative in all kinds of
 comparative constructions, not only for the expression of age differences.
 ",72.53948211669922
-0.9099969686843603,5,0,0.9076264915721032,0,0.9370194737703802,0,0.8596065556647116,0,0.8815434002991833,0,0.881455730406386,0,0.9151302525057864,0,0.9399956645840348,0,0.8810775855855485,"648 Chapter 22. Complement clauses
+0.9099969686843604,5,0,0.9076264915721032,0,0.9370194737703802,0,0.8596065556647116,0,0.8816182489727583,0,0.8820468424112504,0,0.9151302525057864,0,0.9399956645840348,0,0.8810775855855485,"648 Chapter 22. Complement clauses
 If the embedded verb is intransitive, then it is impossible to say whether the
 construction represents forward or backward control.
 (1181) qaňe-li:-ž Ø-uìi-š=eňq’iliqan
@@ -16209,7 +16209,7 @@ the correlation, from classes to initial/final segments and vice versa have been
 examined. After counting all 800 nouns in my material the results are given in
 Tables 17-20. In these tables the abbreviation seg. refers to the segments and occ.
 (‘occurence’) to the number of nouns beginning with that segment.
-",tensor([27.8693])," There is a simple explanation as to why the AT-Essive and not another case
+",27.91610717773437," There is a simple explanation as to why the AT-Essive and not another case
 is used to mark non-canonical agents in causative constructions; this explanation
 makes use of the hierarchy of syntactic positions: Comrie (1976b) notes that
 in the paradigm case of causatives derived from transitive verbs, the causee is
@@ -16223,7 +16223,7 @@ Essive is also employed to code temporary possessors. In other words, this case
 is already heavily used for lower grammatical roles (in contrast to the Dative,
 which is mainly used for the coding of the experiencer); therefore, causees are
 also marked with it.
-",tensor([29.5740]),"818 Bibliography
+",29.734567642211914,"818 Bibliography
 Kibrik, Aleksandr E. 1977. Opyt strukturnogo opisanija arčinskogo jazyka. Vol. 1. [An
 attempt to describe the Archi language]. Moscow: MSU.
 Kibrik, Aleksandr E. 1979. Canonical ergativity and Daghestan languages. In Frans
@@ -16313,7 +16313,7 @@ examined. After counting all 800 nouns in my material the results are given in
 Tables 17-20. In these tables the abbreviation seg. refers to the segments and occ.
 (‘occurence’) to the number of nouns beginning with that segment.
 ",71.99016571044922
-0.9099969686843603,0,0,0.9076264915721032,0,0.9370194737703802,0,0.8596065556647116,5,0.907534785093522,5,0.9074471152007246,3,0.9307250833823896,0,0.9399956645840348,1,0.8862758625444163,"818 Bibliography
+0.9099969686843604,0,0,0.9076264915721032,0,0.9370194737703802,0,0.8596065556647116,5,0.907609633767097,5,0.9080382272055891,3,0.9307250833823896,0,0.9399956645840348,1,0.8862758625444163,"818 Bibliography
 Kibrik, Aleksandr E. 1977. Opyt strukturnogo opisanija arčinskogo jazyka. Vol. 1. [An
 attempt to describe the Archi language]. Moscow: MSU.
 Kibrik, Aleksandr E. 1979. Canonical ergativity and Daghestan languages. In Frans
@@ -16458,7 +16458,7 @@ Complement-taking adjectives, adverbs, and nouns649
 itself or by the subordinate verb. However, as the example of k’ w ezi -iq- ‘be
 able’ above shows (Section 22.4.6), the valency frame of the subordinate verb
 can influence the case assignment of the matrix verb.
-",tensor([27.0360]),"648 Chapter 22. Complement clauses
+",27.136489868164062,"648 Chapter 22. Complement clauses
 If the embedded verb is intransitive, then it is impossible to say whether the
 construction represents forward or backward control.
 (1181) qaňe-li:-ž Ø-uìi-š=eňq’iliqan
@@ -16496,7 +16496,7 @@ Complement-taking adjectives, adverbs, and nouns649
 itself or by the subordinate verb. However, as the example of k’ w ezi -iq- ‘be
 able’ above shows (Section 22.4.6), the valency frame of the subordinate verb
 can influence the case assignment of the matrix verb.
-",tensor([29.0110])," Maèama-zoi G w e-y j zoni.zo∗i/ jhil-iš
+",29.206445693969727," Maèama-zoi G w e-y j zoni.zo∗i/ jhil-iš
  Mahama-GEN 2 dog-ERG RED . REFL . SG bite-PST
  ‘Mahama’si dog j bit itself∗i/ j .’
 24.1.2.2. Status of the reflexive
@@ -16559,7 +16559,7 @@ pronoun in the subordinate clause (1268d), (1272a, 1272b). Often it is not overt
 expressed in the clause but can be retrieved from the context (1268b), (1269c).
 The word order of antencedent and reciprocal pronoun can be reversed.
 ",71.2204818725586
-0.9099969686843603,0,0,0.9076264915721032,0,0.9370194737703802,0,0.8596065556647116,3,0.9230448039557424,3,0.922957134062945,0,0.9307250833823896,0,0.9399956645840348,4,0.9069558876940432," Beginning from the 1970’s Kibrik and Kodzasov organized many field trips
+0.9099969686843604,0,0,0.9076264915721032,0,0.9370194737703802,0,0.8596065556647116,3,0.9231196526293172,3,0.9235482460678094,0,0.9307250833823896,0,0.9399956645840348,4,0.9069558876940432," Beginning from the 1970’s Kibrik and Kodzasov organized many field trips
 from Moscow State University to Daghestan in order to study Daghestanian
 languages. Material about Hinuq syntax can be found in Materialy k tipologii
 èrgativnosti (‘Materials on the typology of ergativity’) from 1980 and 1981, and
@@ -16704,7 +16704,7 @@ positions of local reflexive constructions in my corpus. Such examples can be
 elicited, but monotransitive sentences with a simple reflexive pronoun in the P
 position are quite marginal (1217c). At least in the experiencer construction the
 order of controller and controllee can be reversed (1217d).
-",tensor([26.3650])," Maèama-zoi G w e-y j zoni.zo∗i/ jhil-iš
+",26.39366912841797," Maèama-zoi G w e-y j zoni.zo∗i/ jhil-iš
  Mahama-GEN 2 dog-ERG RED . REFL . SG bite-PST
  ‘Mahama’si dog j bit itself∗i/ j .’
 24.1.2.2. Status of the reflexive
@@ -16715,7 +16715,7 @@ positions of local reflexive constructions in my corpus. Such examples can be
 elicited, but monotransitive sentences with a simple reflexive pronoun in the P
 position are quite marginal (1217c). At least in the experiencer construction the
 order of controller and controllee can be reversed (1217d).
-",tensor([28.8980])," There is a simple explanation as to why the AT-Essive and not another case
+",29.00119400024414," There is a simple explanation as to why the AT-Essive and not another case
 is used to mark non-canonical agents in causative constructions; this explanation
 makes use of the hierarchy of syntactic positions: Comrie (1976b) notes that
 in the paradigm case of causatives derived from transitive verbs, the causee is
@@ -16765,7 +16765,7 @@ are also grammatical (see Section 29.3.1 for more information on the word order
 in WH-questions and the pragmatics related to different word orders).
 (1389) a. di kednixece-y meži?
 ",70.12750244140625
-0.9099969686843603,0,3,0.9230543366675656,0,0.9370194737703802,0,0.8596065556647116,2,0.933330034019384,2,0.9332423641265868,0,0.9307250833823896,0,0.9399956645840348,0,0.9069558876940432," A strong correlation between the initial segment of a noun and the appropri-
+0.9099969686843604,0,3,0.9230543366675656,0,0.9370194737703802,0,0.8596065556647116,2,0.9334048826929592,2,0.9338334761314511,0,0.9307250833823896,0,0.9399956645840348,0,0.9069558876940432," A strong correlation between the initial segment of a noun and the appropri-
 ate agreement prefix has already been proposed for several other Nakh-Daghesta-
 nian languages (e.g. see Kibrik (1977: 64–66) for Archi, Nichols (1989) for Nakh
 and Comrie & Polinsky (1999b) for Tsez and Hunzib). Comrie and Polinsky ex-
@@ -17085,7 +17085,7 @@ Terminative converb 239–240, 265, 274–
 275, 430
 thetic sentences see sentence-focus
 topic of conversation/thought 74, 435–
-",tensor([26.2280]),"Index
+",26.21416664123535,"Index
 Ablative case 71, 83, 86, 91, 96, 99, 102,spatial 103, 134, 140, 148, 330, 346–
 104, 374, 461, 475, 488, 532, 557, 362, 371, 375, 413
 708, 722temporal 77, 96, 100, 140, 174, 349
@@ -17356,7 +17356,7 @@ Terminative converb 239–240, 265, 274–
 275, 430
 thetic sentences see sentence-focus
 topic of conversation/thought 74, 435–
-",tensor([27.6081])," A strong correlation between the initial segment of a noun and the appropri-
+",27.47502899169922," A strong correlation between the initial segment of a noun and the appropri-
 ate agreement prefix has already been proposed for several other Nakh-Daghesta-
 nian languages (e.g. see Kibrik (1977: 64–66) for Archi, Nichols (1989) for Nakh
 and Comrie & Polinsky (1999b) for Tsez and Hunzib). Comrie and Polinsky ex-
@@ -17385,7 +17385,7 @@ also in Kibrik (1987). Furthermore, Kibrik & Kodzasov (1990) contains descrip-
 tions of the phonology and the case formation in many Daghestanian languages,
 including Hinuq.
 ",68.48831176757812
-0.9151130259106185,1,0,0.9230543366675656,0,0.9370194737703802,3,0.8749547273434864,0,0.933330034019384,0,0.9332423641265868,0,0.9307250833823896,0,0.9399956645840348,3,0.922304059372818," HPL -go-ICVB be.PTCP
+0.9151130259106184,1,0,0.9230543366675656,0,0.9370194737703802,3,0.8749547273434864,0,0.9334048826929592,0,0.9338334761314511,0,0.9307250833823896,0,0.9399956645840348,3,0.922304059372818," HPL -go-ICVB be.PTCP
  ‘while the two armies went in order to fight against each other ...’
  (N)
 c. balon-be=nsedi.sed-eì hezzo b-uxxo zoq’ w e-s
@@ -17518,7 +17518,7 @@ b. zek r-oč’č’u r-eser-ič-aG w ede
 Based on the copula, a few converbs and participles can be built, but for the
 majority of converbal and participial forms of ‘be’, the verbs -iči- and -iq- must
 be employed (see Section 7.8.3 for the forms and some examples).
-",tensor([24.0492])," I -turn-COND - NEG I.GEN 1 you. PL . OBL - AT order
+",24.037296295166016," I -turn-COND - NEG I.GEN 1 you. PL . OBL - AT order
  ‘If I do not come back from this disease, this is my order for you ...’ (N)
 18.9. Other verbs used in copula-clauses
 Since the morphological paradigm of the copula verbs is defective, three other
@@ -17574,7 +17574,7 @@ b. zek r-oč’č’u r-eser-ič-aG w ede
 Based on the copula, a few converbs and participles can be built, but for the
 majority of converbal and participial forms of ‘be’, the verbs -iči- and -iq- must
 be employed (see Section 7.8.3 for the forms and some examples).
-",tensor([25.2095])," There has been some discussion concerning pharyngealization in Hinuq and
+",25.31081771850586," There has been some discussion concerning pharyngealization in Hinuq and
 in other Tsezic languages (cf. Kibrik & Kodzasov (1990), Maddieson et al.
 (1996), Comrie (2003a), Grawunder et al. (2009)). The precise nature and the
 historical development of pharyngealization remains a subject of debate. Lom-
@@ -17624,7 +17624,7 @@ elicited, but monotransitive sentences with a simple reflexive pronoun in the P
 position are quite marginal (1217c). At least in the experiencer construction the
 order of controller and controllee can be reversed (1217d).
 ",67.64263153076172
-0.9252936063512327,2,0,0.9230543366675656,0,0.9370194737703802,0,0.8749547273434864,0,0.933330034019384,0,0.9332423641265868,0,0.9307250833823896,0,0.9399956645840348,0,0.922304059372818,"Index
+0.9252936063512328,2,0,0.9230543366675656,0,0.9370194737703802,0,0.8749547273434864,0,0.9334048826929592,0,0.9338334761314511,0,0.9307250833823896,0,0.9399956645840348,0,0.922304059372818,"Index
 Ablative case 71, 83, 86, 91, 96, 99, 102,spatial 103, 134, 140, 148, 330, 346–
 104, 374, 461, 475, 488, 532, 557, 362, 371, 375, 413
 708, 722temporal 77, 96, 100, 140, 174, 349
@@ -17949,7 +17949,7 @@ affricates are voiceless nonejective and voiceless ejective. In every box the fi
 row represents the phonetic value of each phoneme, while the second row gives
 the orthographic symbols used in this grammar (see also Section 31.1 in the
 appendix for the complete orthography).
-",tensor([20.7383])," There has been some discussion concerning pharyngealization in Hinuq and
+",20.64466857910156," There has been some discussion concerning pharyngealization in Hinuq and
 in other Tsezic languages (cf. Kibrik & Kodzasov (1990), Maddieson et al.
 (1996), Comrie (2003a), Grawunder et al. (2009)). The precise nature and the
 historical development of pharyngealization remains a subject of debate. Lom-
@@ -17968,7 +17968,7 @@ affricates are voiceless nonejective and voiceless ejective. In every box the fi
 row represents the phonetic value of each phoneme, while the second row gives
 the orthographic symbols used in this grammar (see also Section 31.1 in the
 appendix for the complete orthography).
-",tensor([23.8567])," Beginning from the 1970’s Kibrik and Kodzasov organized many field trips
+",24.034046173095703," Beginning from the 1970’s Kibrik and Kodzasov organized many field trips
 from Moscow State University to Daghestan in order to study Daghestanian
 languages. Material about Hinuq syntax can be found in Materialy k tipologii
 èrgativnosti (‘Materials on the typology of ergativity’) from 1980 and 1981, and
