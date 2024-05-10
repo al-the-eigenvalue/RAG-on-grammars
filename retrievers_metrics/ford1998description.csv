@@ -1,4 +1,4 @@
-BM25 NDCG@K,BM25 Relevance Score,SFR-Embedding-Mistral Default Instruct Relevance Score,SFR-Embedding-Mistral Default Instruct NDCG@K,SFR-Embedding-Mistral Specific Instruct Relevance Score,SFR-Embedding-Mistral Specific Instruct NDCG@K,gte-large-en-v1.5 Relevance Score,gte-large-en-v1.5 NDCG@K,GritLM-7B Default Instruct Relevance Score,GritLM-7B Default Instruct NDCG@K,GritLM-7B Specific Instruct Relevance Score,GritLM-7B Specific Instruct NDCG@K,e5-mistral-7b-instruct Default Instruct Relevance Score,e5-mistral-7b-instruct Default Instruct NDCG@K,e5-mistral-7b-instruct Specific Instruct Relevance Score,e5-mistral-7b-instruct Specific Instruct NDCG@K,voyage-large-2-instruct Relevance Score,voyage-large-2-instruct NDCG@K,BM25 Paragraphs,SFR-Embedding-Mistral Default Instruct Paragraphs,SFR-Embedding-Mistral Default Instruct Cosine Similarity,SFR-Embedding-Mistral Specific Instruct Paragraphs,SFR-Embedding-Mistral Specific Instruct Cosine Similarity,gte-large-en-v1.5 Paragraphs,gte-large-en-v1.5 Cosine Similarity,GritLM-7B Default Instruct Paragraphs,GritLM-7B Default Instruct Cosine Similarity,GritLM-7B Specific Instruct Paragraphs,GritLM-7B Specific Instruct Cosine Similarity,e5-mistral-7b-instruct Default Instruct Paragraphs,e5-mistral-7b-instruct Default Instruct Cosine Similarity,e5-mistral-7b-instruct Specific Instruct Paragraphs,e5-mistral-7b-instruct Specific Instruct Cosine Similarity
+BM25 NDCG@K,BM25 Relevance Score,SFR-Embedding-Mistral Default Instruct Relevance Score,SFR-Embedding-Mistral Default Instruct NDCG@K,SFR-Embedding-Mistral Specific Instruct Relevance Score,SFR-Embedding-Mistral Specific Instruct NDCG@K,gte-large-en-v1.5 Relevance Score,gte-large-en-v1.5 NDCG@K,GritLM-7B Default Instruct Relevance Score,GritLM-7B Default Instruct NDCG@K,GritLM-7B Specific Instruct Relevance Score,GritLM-7B Specific Instruct NDCG@K,e5-mistral-7b-instruct Default Instruct Relevance Score,e5-mistral-7b-instruct Default Instruct NDCG@K,e5-mistral-7b-instruct Specific Instruct Relevance Score,e5-mistral-7b-instruct Specific Instruct NDCG@K,voyage-large-2-instruct Relevance Score,voyage-large-2-instruct NDCG@K,BM25 Paragraphs,SFR-Embedding-Mistral Default Instruct Paragraphs,SFR-Embedding-Mistral Default Instruct Cosine Similarity,SFR-Embedding-Mistral Specific Instruct Paragraphs,SFR-Embedding-Mistral Specific Instruct Cosine Similarity,gte-large-en-v1.5 Paragraphs,gte-large-en-v1.5 Cosine Similarity,GritLM-7B Default Instruct Paragraphs,GritLM-7B Default Instruct Cosine Similarity,GritLM-7B Specific Instruct Paragraphs,GritLM-7B Specific Instruct Cosine Similarity,e5-mistral-7b-instruct Default Instruct Paragraphs,e5-mistral-7b-instruct Default Instruct Cosine Similarity,e5-mistral-7b-instruct Specific Instruct Paragraphs,e5-mistral-7b-instruct Specific Instruct Cosine Similarity,voyage-large-2-instruct Paragraphs,voyage-large-2-instruct Cosine Similarity
 1.0,5,5,1.0,5,1.0,5,1.0,5,1.0,5,1.0,5,1.0,5,1.0,5,1.0,"311
 Table 38: NPs in core argument function
 texts 12 3 4 5 6 7 9 JO11131415 16 total
@@ -86,7 +86,14 @@ of AOV, one example of AVOA, six examples of OVA, four examples of OAV,
 two examples of OAVA, and one example of OAVO. Table 35 analyses NPs in
 core argument function. Given the small size of the sample, two overt argument!~
 in a clause are rare.
-",79.48575592041016
+",79.48575592041016,"Constituent order is free, but the preferred ordel)of overt NPs in a
+CllK
+transitive clauseOVA or AOV. New information is presented clause-
+ initially by an overt noun phrase. Serial verb constructions contain two
+ verbs treated as a single clause. The syntax of Emmi simple and complex
+ clauses is analysed in Chapter Eight. Independent modal, temporal and
+ aspectual lexemes are appended as Appendix C.
+",86.2947006225586
 0.6905177542123668,1,5,1.0,5,1.0,0,0.6131471927654585,1,0.6905177542123668,1,0.6905177542123668,5,1.0,5,1.0,5,1.0,"1.2. Linguistic we and typological singularities
  Emmi is .an Australian language of the pr~fixing, predominantly head-
  ukL ofl..a.r (~ """""":1.._ ""1 ~~ baJ'1 ~Vi._,,. ~IA-.
@@ -152,7 +159,13 @@ transitive clauseOVA or AOV. New information is presented clause-
  verbs treated as a single clause. The syntax of Emmi simple and complex
  clauses is analysed in Chapter Eight. Independent modal, temporal and
  aspectual lexemes are appended as Appendix C.
-",79.39883422851562
+",79.39883422851562,"Although word order is free, NPs in S/A function are likely to !'m~tede
+one in 0 function. The corpus contains nine examples of AVO, eight exampies
+of AOV, one example of AVOA, six examples of OVA, four examples of OAV,
+two examples of OAVA, and one example of OAVO. Table 35 analyses NPs in
+core argument function. Given the small size of the sample, two overt argument!~
+in a clause are rare.
+",83.94242095947266
 0.5754229808182052,1,5,1.0,1,0.8122885095908974,1,0.5162065986250322,5,0.7631344712273078,1,0.5754229808182052,5,1.0,1,0.8122885095908974,1,0.8122885095908974,"Arguments which constitute the inner periphery of the clause (Benefactive,
 Adversative) are also coded on the verb as suffixes which occupy ordered post-0
 slots. Thus, an argument in 0 role always precedes one in Benefactive or
@@ -272,8 +285,14 @@ slots. Thus, an argument in 0 role always precedes one in Benefactive or
 Adversative role. In a complex VP, the 0 suffix is ordered after the auxiliary
 verb-stem. Benefactive is ordered after the coverb stem, preceding Adversative
 which occupies the ante-penultimate VP slot.
-",75.33982849121094
-0.59191824495182,1,1,1.0,5,0.9749855092608076,5,0.6904066922117522,1,0.7723369463607558,0,0.5530671922843842,1,1.0,5,0.9749855092608075,5,0.9749855092608076," Augmented SIA or 0 is obligatorily gender-marked by the nwnbcr
+",75.33982849121094,"Arguments which constitute the inner periphery of the clause (Benefactive,
+Adversative) are also coded on the verb as suffixes which occupy ordered post-0
+slots. Thus, an argument in 0 role always precedes one in Benefactive or
+Adversative role. In a complex VP, the 0 suffix is ordered after the auxiliary
+verb-stem. Benefactive is ordered after the coverb stem, preceding Adversative
+which occupies the ante-penultimate VP slot.
+",82.18090057373047
+0.59191824495182,1,1,1.0,5,0.9749855092608076,5,0.6904066922117522,1,0.7723369463607558,0,0.5530671922843842,1,1.0,5,0.9749855092608076,5,0.9749855092608076," Augmented SIA or 0 is obligatorily gender-marked by the nwnbcr
  word in the penultimate VP slot, e.g. (4-S). where the VP·final s1ot is
  occupied by the 1Pertective1 aspcctunl cnclitie•(e)yi. Enclitics arc ordered.
 ","Arguments which constitute the inner periphery of the clause (Benefactive,
@@ -408,8 +427,52 @@ rarely contain two overt NPs, but those that do may show AVO order, as in
  ganhdhi gana nyiminy
  3MIN.A.R.hold 3MIN.S.R. walk fire
 'Rainbow Serpent keeps holding the fire away over there in the sea.'
-",75.19915771484375
-0.5719581962099882,0,1,1.0,1,0.9758290217875198,0,0.6671255189318931,0,0.7462930066343616,5,0.703022015185441,0,0.9662790445943148,1,0.9758290217875198,1,0.9758290217875198," Dixon (1'994~32) bas churnediW>J.""""
+",75.19915771484375,"311
+Table 38: NPs in core argument function
+texts 12 3 4 5 6 7 9 JO11131415 16 total
+VJ only 1617 19 29 654478106 521616 73 583 592
+VT only 378 26 29735061106 408537 '1640 l639
+Total 53 25 45 58138 94139 212 92101 43119 984 1231
+Vonly
+sv57 15 64 248 228 3 2 15135 137
+OV8 7l 5 14119 8 6 1232 5120 130
+.
+AV0 50 2 6 9 4 109 0 0 104l60
+Total 1319 16 13 24442140231534 30 296 327
+NPV
+vs3 53 107 4 4 3 6 0 434 2 SB
+VO8 13 2 17145 7 4 4 9 l 117 0102
+VA02 1 0 3 1 3 2 0 0 222 0 18
+Total 11 206 272410149 109 7 16132178
+VNP
+AVO 0 02 1 l 0 3 0 0 1 0 l 009
+OVA 0 02 0 0 0 0 I I 1 0 0 0I6
+AOV 0 0I 0 1 1 0 0 0 3 0 l I08
+OAV 0 00 0 0 0 0 0 004
+VAO1 1
+Total 0 06 1 3 3 4 1 2 4 021I28
+2NPs
+AVOA I1
+OAVA lI
+OAVO 1I
+Total1 2 3
+3NPs
+Total 7764 73 98 186 149 175 262 125 126 84166 141121767
+clauses
+312
+ Table 38 also shows that Emmi has no preferred word order. Clauses
+rarely contain two overt NPs, but those that do may show AVO order, as in
+ (8-45), OVA order, as in (8-46), AOV order, as in
+(8-4i), OAV order, or QAVA order, as in (8-49).
+8-45A
+ awa therrwenyuwakak yene wutharr
+ meat Rainbow Serpent3MIN.FarDEIC away LOC sea
+ v0
+ ganhdhi gana nyiminy
+ 3MIN.A.R.hold 3MIN.S.R. walk fire
+'Rainbow Serpent keeps holding the fire away over there in the sea.'
+",81.41831970214844
+0.5719581962099882,0,1,1.0,1,0.9758290217875198,0,0.6671255189318931,0,0.7462930066343616,5,0.703022015185441,0,0.9662790445943148,1,0.9758290217875198,0,0.9421080663818344," Dixon (1'994~32) bas churnediW>J.""""
  l1 grammatical association ofadjcctivcs with verb class
  tends to be round in lnngungcs that do not have dependent
 marking~ those with 'hcad·matking1 ""where syntactic function
@@ -478,8 +541,21 @@ adjectives tend to be treated in a similar way to nouns,
 ",73.12759399414062," Augmented SIA or 0 is obligatorily gender-marked by the nwnbcr
  word in the penultimate VP slot, e.g. (4-S). where the VP·final s1ot is
  occupied by the 1Pertective1 aspcctunl cnclitie•(e)yi. Enclitics arc ordered.
-",73.71733856201172
-0.7053069393069316,5,1,1.0,1,0.9765569213211917,0,0.6470352954472544,0,0.7238186852917868,0,0.6818507827878111,0,0.937179929954683,1,0.9765569213211915,1,0.9765569213211917,"Constituent order is free, but the preferred ordel)of overt NPs in a
+",73.71733856201172,"Morpho-syntactically, affixes attach only to the class of stem they
+ specify, but enclitics may be copied onto any or every clause constituent. For
+ instance, propositional enclitics, which have scope over the whole clause, are
+ often attracted to the final constituent of a clause-initial or clause-final phrase,
+ whatever its word-class.
+ 3.1 Word classes
+ Four word classes can be distinguished in Enuni. They are:
+ nominals (nouns; adjectives; numeral quantifiers; pronouns; deictics,
+interrogatives)
+verbs \simple verbs, complex verbs)
+adverbs
+free particles (polarity particles; interjections)
+ Each word class can be justified on synta~c and morphological grounds.
+",79.39190673828125
+0.7053069393069316,5,1,1.0,1,0.9765569213211917,0,0.6470352954472544,0,0.7238186852917868,0,0.6818507827878111,0,0.937179929954683,1,0.9765569213211917,1,0.943851459268692,"Constituent order is free, but the preferred ordel)of overt NPs in a
 CllK
 transitive clauseOVA or AOV. New information is presented clause-
  initially by an overt noun phrase. Serial verb constructions contain two
@@ -559,8 +635,15 @@ specified in Chapter Seven. Enclitics are ordered in relation to each other.
 They may occur as part of tt~ verb complex, or enc}hcise to the final
 element of a clause-initial constituent, or the final member of each clause
 constituent-phrase.
-",73.22005462646484
-0.7133840066219111,1,0,0.9725915931105278,1,0.9771994587603624,1,0.6567094956872583,1,0.731388375140579,1,0.6905707459847299,1,0.9389017279953102,1,0.9771994587603623,0,0.94979105187089," Lk ofr:;.. ~'1 ~'~;hot an ergative language, but morphologically and
+",73.22005462646484," Lk ofr:;.. ~'1 ~'~;hot an ergative language, but morphologically and
+ syntactically has a nominative/accusative system.
+f..1k.. ~ ~ l'-t~in addition to the obligatory pronominal prefixes and
+ suffixes to the verb which index core grammatical relations within the
+ clause, inner peripheral arguments such as Dative, and outer peripheral
+ arguments including Benefactive and Adversative, are also coded on the
+ verb in ordered slots.
+",79.32874298095703
+0.7133840066219111,1,0,0.9725915931105278,1,0.9771994587603624,1,0.6567094956872583,1,0.731388375140579,1,0.6905707459847299,1,0.9389017279953102,1,0.9771994587603624,1,0.9453904013193056," Lk ofr:;.. ~'1 ~'~;hot an ergative language, but morphologically and
  syntactically has a nominative/accusative system.
 f..1k.. ~ ~ l'-t~in addition to the obligatory pronominal prefixes and
  suffixes to the verb which index core grammatical relations within the
@@ -642,8 +725,18 @@ f..1k.. ~ ~ l'-t~in addition to the obligatory pronominal prefixes and
  clause, inner peripheral arguments such as Dative, and outer peripheral
  arguments including Benefactive and Adversative, are also coded on the
  verb in ordered slots.
-",72.9582290649414
-0.7206306163087525,1,0,0.9480012289200764,1,0.9777759326028196,0,0.6401056860505425,5,0.839313135324023,1,0.6983941511028846,1,0.9404464963961944,1,0.9777759326028196,1,0.9510605017909388," I define Emmi enclitics as ordered unstressed bound morphemes
+",72.9582290649414,"In (4-7), where 0 and IU are expressed, the Dative pronominal
+ suffix has precedence over Direct 0, and occupies the Oblique !lronominal
+ slot. Direct 0 is expressed VP-externally by an overt NP.
+ 4-7awagaya+ na+ wut= eyi
+ 1+2-3+ 4-9
+ meat 3MIN.S.R.lie 3MIN.MDAT+give= PERF
+ 'He gave him meat.'
+ (4-8) - (4-9) show the Benefactive pronominal slot in a simple VP
+ and a complex VP, and provide strong evidence for a Benefactive slot whicil.
+is distinct from the Oblique slot and ordered after it.
+",79.24886322021484
+0.7206306163087525,1,0,0.9480012289200764,1,0.9777759326028196,0,0.6401056860505425,5,0.839313135324023,1,0.6983941511028846,1,0.9404464963961944,1,0.9777759326028196,1,0.9467711143846508," I define Emmi enclitics as ordered unstressed bound morphemes
 which never occur independently, but always pJ~c:.k. to a host word and
 are attracted to any semantically compatible clause-initial host. Pronominal
 affixes are also ordered and unstressed, but attach only to a member of the
@@ -783,8 +876,31 @@ Adversative, in ordered peripheral VP slots.
  (4-8) - (4-9) show the Benefactive pronominal slot in a simple VP
  and a complex VP, and provide strong evidence for a Benefactive slot whicil.
 is distinct from the Oblique slot and ordered after it.
-",72.58487701416016
-0.7272120186456079,1,1,0.9492262193931816,0,0.954741422798176,0,0.6250260341490177,0,0.8195405412151429,0,0.68194133570349,1,0.9418494617555594,0,0.9547414227981761,1,0.9522134217123056,"Propositional enclitic particles have scope over the clause and specify tense,
+",72.58487701416016,"297
+ Chapter Eight
+Syntactic constructions
+ 8.0 Introduction
+ This chapter analyses and illustrates the syntax of Emmi clauses. In
+doing so, it breaks new ground in the study of Daly languages, about which
+little syntactic information has been published. Emmi clauses are either simple
+or complex. Simple clauses may or may not contain a VP. Complex clauses
+always contain two VPs. The first part of this chapter discusses the structure of
+simple clauses. 8.1.1 deals with simple verbless clauses. 8.1.2 deals with simple
+verb clauses. The rest of the chapter discusses complex clauses. 8.2.1 deals with
+serial verb constructions. 8.2.i.2 focusses on causative serial constructions.
+8.2.2 discusses headless relative clauses. 8.2.3 describes conjoined clauses.
+8.2.4 lists free temporal, modal and locational lexemes.
+8.1 Simple clauses
+ Simple clauses minimally consist of a p1·edicate. In this they confom1 to
+the pattern Green (1995:221) noted for Gurr-goni. In Emmi, a predicate may
+consist of a member of any word class. When a verb forms the predicate, it
+carries obligatory .coding for core arguments SIA and, on transitive verbs, 0.
+3MIN.O is realised as zero. Only humans, higher animates and entities classed
+as human in myths qualify as core arguments to be coded on the verb. Also
+coded on the Emmi verb are the peripheral arguments Dative, Benefactive and
+Adversative, in ordered peripheral VP slots.
+",77.71131896972656
+0.7272120186456079,1,1,0.9492262193931816,0,0.954741422798176,0,0.6250260341490177,0,0.8195405412151429,0,0.68194133570349,1,0.9418494617555594,0,0.954741422798176,1,0.9480250839769818,"Propositional enclitic particles have scope over the clause and specify tense,
 status, modality, direction, polarity or evidentiality. These may attach to a
 member of any word class, and are attracted to a clause-initial host. All enclitics
 ma~ be copied onto every clause constituent Enclitics are ordered. Ad.nominal
@@ -867,8 +983,125 @@ adjectives tend to be treated in a similar way to nouns,
  in languages where there is a predominant 'dependent marking'
  pattern with syntactic function being marked on the arguments
  of a predicate.
-",72.49552917480469
-0.7111251633573465,0,1,0.9503494000339264,0,0.9336213275405812,1,0.6333209354581912,0,0.8014112615121677,1,0.6889771981129769,1,0.9431358256627664,0,0.9336213275405812,1,0.9532705216362964,"Emmi operates on a subject versus object system for nominals, verbs and
+",72.49552917480469,"In Canberra, my supervisors Bob Dixon and Ian Green inspired and
+ encouraged me. Harold Koch read the next to final draft and made many
+ helpful suggestions. Tamsin Donaldson 'Uld Margaret Burns gave me moral
+ and practical support. Dennis James solved many computer glitches. I am
+ responsible for any errors that remain.
+~fl\°"""".....;, t-\CJ.ri7'°"""" ~ 'W\o.A.t:i..' ""5 ~. '¥'k;' ~. Tl.Ii. CP'ii..&.ti.
+i1'\""'\All; Avi..-\4. A....; ""°'1 ""'' i i'JUI·,,,.. j <; ~~.r\1 'fi"""" •
+xv
+ Abbreviations and Conventions
+ Phonological conventions
+ [] phonetic representation
+II phonemic rqiir~entation
+ c consonant
+ v vowel
+Nnasal
+Lliquid
+sv semivowel
+St stop
+Hetheterorganic
+Hom homorganic
+( ) optional element
+ is realised as
+Iin the environment of
+#word boundary
+$syllable boundary
+primary $tress
+secondary stress
+Morphological and Syntactic Conventions
+s subject of intransitive
+A subject of transitive
+0 object of transitive
+N noun
+NPnoun phrase
+v verb
+VPverb phrase
+ AUXauxiliary
+ ()optional
+ * ungrammatical
+ + boundary of stress-bearing botmd component (coverb,
+ incorporated nominal, bound number word)
+ = boundary of enclitic
+ Interlinear Gloss Abbreviations
+ 1 first person
+ 2 second person
+ 3 third person
+ M male
+Ffemale
+M.otherother male
+F.otherother female
+MINminimal
+UAUG unit augmented
+AUGaugmented
+Rrealis
+IRirrealis
+REFLreflexive
+RECIreciprocal
+Manip Manipulative
+DAT dative
+BEN benefactive
+AnV adversative
+POSSpossessive
+PRO free cardinal pronoun
+ RECPASTrecent past
+DEICdeictic
+Anaph anaphoric
+PURP purposive
+COMITcomitative
+SIMsimilar
+REDUPreduplicated
+REPETrepetitive
+LIKlikely
+NEW INFnew information
+DIR direct
+HAPhappens to be
+HABhabitual
+PERF perfective
+ List of Tables
+1 Emmi-speaker~transcription of Emmi lexemes compared with Tryon's
+ ................. ,.... ~ ............................. ,.. ,............................ ,................................... 20
+2 Lexical variants in Emmi and MenhdJ1e ...................................................... 30
+3 Marranunggu and Emmi cognates compared ............................................. 32
+4 Vowel phonemes ............................................... ,........................ ,................ 36
+5 Distribution of vowel allophones ................................................................ 41
+6 Consonant phonemes ............. ,..................................................................... 41
+7 Distribution of stop and fricative allophones .............................................. 43
+8 Distribution patterns of nasals .................................................................... 58
+9 Allophonic distribution of liquids compared with retroflex obstruents ...... 63
+10 Distribution of intramorphemic intersyllabic consonant clusters ............. 90
+11 Ca,rdinal pronouns ...... a.••··········•1:••·······""*""'' .......................... . , ................... 125
+13 Possessive pronouns ............................... ,................................................. 131
+14 Adjective loans from Patjtjamalh.......................,..................................... 134
+14 Semantic overlap between adjectives and now1s .................................... 136
+15 Semantic overlap between adjectives and verbs ..................................... 137
+16 Near Deictic paradigm ............. ~ ..................... u••••·······••0••········· .. ··········· 143
+17 Far Deictic paradigm ........ ,.......................................... (\ ........................... 144
+18 Anaphoric Deictic paradigm ................................................................... 144
+19 Canonical verb structure ........... 11.u1t1111t1111111111••••••tt•lttttOt111u11101ttlltthU1tt.l53
+20 Status inflection in Emmi auxiliary verb stems ...................................... 160
+21 Auxiliary verb stems ....................................... e ........... , •••••• , .................... 162
+22 Pronominal prefixes analysed ......... ~ ....................................................... 163
+23 1 AUG Realis derived from 2MIN Irrealis ............................................. 164
+24 Oblique pronominal suffixes contrasted ................................................. 168
+25 Benefactive pronominal suffix paradigm................................................ 174
+26 Adversative pronominal suffix paradigm ............................................... 176
+ xix
+27 Number of 0 shown by suppletive coverb ............................................. 179
+28 Major intransitive auxiliary verbs ........................................................... 184
+29 Minor intransitive auxiliary verbs ............................................... "" .......... 184
+30 Major transitive auxiliary verbs .............................................................. 185
+31 Minor transitive auxiliary verbs .............................................................. 186
+32 Incorporated nouns by type of incorporation .......................................... 233
+33 Suppletive fonns by type of incorporation ............................................. 234
+34 Metaphorical and classifying functions of lexically incorporated body-part
+notms ............ ,. .................................................................................................. 243
+35 Propositional enclitics by function ..................................... ;.................... 260
+37 Propositional enclitics by order .............................................................. 270
+38 Modality and enclitics ....... ,................................. ,.................... ,.............. 274
+39 NPs in core argun1ent function ..............................h ...............................",77.57793426513672
+0.7111251633573465,0,1,0.9503494000339264,0,0.9336213275405812,1,0.6333209354581912,0,0.8014112615121677,1,0.6889771981129769,1,0.9431358256627664,0,0.9336213275405812,0,0.9270535626811937,"Emmi operates on a subject versus object system for nominals, verbs and
 bound pronouns. A, S and 0 are zero-marked on nominals but obligatorily coded
 on verbs. This is a more consistently nominative/accusative system than that of
 the typologically similar Dal:y: languages Marrithiyel, and Ngan' gityemerri,
@@ -932,8 +1165,12 @@ enclitics precede propositional enclitics.
 discourse, the last word in the subject NP hosts adnominal enclitic nene
 which signals new information. This happens regardless of tense or
 modality.
-",72.16806030273438
-0.6962622786977847,0,0,0.9304866047809756,1,0.9350086762148448,0,0.6200841995061674,1,0.8055618691223633,1,0.6954777359495457,1,0.9443243163926476,0,0.914108157676882,0,0.9333466734271436,"Ordered rule 4 can be formulated to account for these data: Rule 3
+",72.16806030273438,"The subs~ing of grammatical words into a longer phonological word is
+pervasive in the language. Compound nouns, free pronouns, deictics, verb
+complexes, and serial lconstructions all subsume grammatical word which then
+lose phonolodcal independence; but remain stress-bearing.
+",77.5696029663086
+0.6962622786977847,0,0,0.9304866047809756,1,0.9350086762148448,0,0.6200841995061674,1,0.8055618691223633,1,0.6954777359495457,1,0.9443243163926476,0,0.914108157676882,1,0.9285781810466536,"Ordered rule 4 can be formulated to account for these data: Rule 3
 precedes Rule 3.
 "," Hamilton's second most favoured cluster is [APIC] [LAM]. This
 cluster is also common in Emmi, e.g. windjerre 'steal'. Hamilton's least
@@ -1060,8 +1297,30 @@ verbs \simple verbs, complex verbs)
 adverbs
 free particles (polarity particles; interjections)
  Each word class can be justified on synta~c and morphological grounds.
-",71.88105010986328
-0.7022903891270259,1,1,0.9318661977432696,0,0.9164520888790436,1,0.6276241731036901,1,0.8094207725195459,0,0.6816749834451534,0,0.9255828468253277,1,0.9158128043973319,0,0.914823070918828,"In addition to core arguments, peripheral argwnents ate indexd on
+",71.88105010986328,"269
+Table 36: Propositional enclitics by order
+12 34 56 7 89
+-nhdha -nhdheni-(e)no -(e)ndh -rre -(e)yi · -ve-(e)ya -ga
+ ~ngana -wany-mangga
+-wiye
+Tokens of the fourteen enclitic types occur in 47.3% of text clauses ..
+The ordering set out in this table hoMs for all enclitics except -nhdhi
+'TOWARDS' and -(e)nhdheni 'now' when each forms a clitic c1•.ister with the
+evidential enclitic -(e)nhdha 'really'. The corpus contains seven tokens of
+cluster type-nhdhi=nhdha '=TOWARDS=really',, e.g. (7~14), (7-18), but no
+tokens of cluster type nhdha=nhdhi 'really=TOWARDS. It contains six tokens
+of cluster type -nhdha=enhdheni 'really=now', (7-15) - (7-16), and seven
+tokens of cluster type nhdheni=nhdhi 'now=TOWARDS', e.g. (7-17), (7-86)
+but no tokens of cluster type enhdheni=nhdha 'now=really'.
+7-14yere yawanga delyak
+child 3MIN.F.AnaphDEIC .young woman
+yawanga=nhdhi=nhdha
+3MJN.F.AnaphDEIC=TOWARDS=really
+garru
+3M!N.S.R.go somewhere
+'Your child, that young woman I mentioned, is coming here really.'
+",77.42147827148438
+0.7022903891270259,1,1,0.9318661977432696,0,0.9164520888790436,1,0.6276241731036901,1,0.8094207725195459,0,0.6816749834451534,0,0.9255828468253277,1,0.915812804397332,0,0.9101492161043516,"In addition to core arguments, peripheral argwnents ate indexd on
  the Emmi verb by means of ordered bound pronominal suffixes which occur
  a,.'ter the coverb. Like other Daly languages, Emmi indexes Adversative on
  the verb. Green (1989: 1:6-127) calls the Marrithiyel equivalent the '/'anga/
@@ -1168,8 +1427,57 @@ status, modality, direction, polarity or evidentiality. These may attach to a
 member of any word class, and are attracted to a clause-initial host. All enclitics
 ma~ be copied onto every clause constituent Enclitics are ordered. Ad.nominal
 enclitics precede propositional enclitics.
-",71.54029846191406
-0.689000181208667,0,0,0.9142314761069774,1,0.9180331572335776,0,0.6157469555249268,1,0.8130273113492797,1,0.6876989953369973,1,0.9269911238766668,0,0.89848187865326,0,0.897510874982136," Bake·r (1988:81-83) says 'The core fact about the distribution ofNI
+",71.54029846191406," Hamilton's second most favoured cluster is [APIC] [LAM]. This
+cluster is also common in Emmi, e.g. windjerre 'steal'. Hamilton's least
+favoured clusters are [SON] [SON], and amongst these he sets up the
+ hierarchy
+ (Hamilton)
+NAS+NAS LIQ+NAS LIQ+GLID ._ENAS+GLIDE
+More marked
+The same clusters, in the same order of frequency, are the least
+favoured consonant clusters in the Emmi corpus.
+2.4 Obstruent Hierarchies.
+1. Voiceless stop( Voiced sto')
+Dorso-velarAlveopalatal Laminodental Apico-alveolar Retroflex
+Bilabial
+2.
+ StoP.r!=-------------------~Fricative
+ Bilabial Apico-alveolar Alveo-palatal Retroflex Lamino-dental Dorso-velar
+ 2.4 Rules.
+ Rulel
+ 0---------------) [[h] Ii_ _.
+ Rule2:
+ Stop -----;>vl I#_ _ (but not bilabial or apico-alveoiar).
+ Rule3
+ Stop--------;)Vless I_#
+ Rule4:
+ Stop -------,?vl /Stop_
+Rule5
+Stop -------? +voice IN_ _
+Rule6
+Voiced velar stop-----------,.._ +fricative I L_ _
+Rule7
+Voiced velar stop ----~ +Fricative N _ _V
+94
+B!!J!!
+Inf ------·..----~---;> 0 I ny_ _
+Rule9
+m ----,·----------?0 / mb_ __
+Rule 10
+ L-,.--------------} 0 / L._ _
+ Ruic 11
+ Irr!------------? /r/ I rrV_ _
+ Rule 12
+ 0---~----;>w N#_#u_
+y N#_# I, e, a,_
+ Chapter Three
+ Nominal Morphology
+:3 .0 The grammatical word
+In Emmi, a grammatical word consists of a lexical stem plus affixes
+and/or enclitics. Each grammatical word also qualifies as a phonological word, in
+that it can occur independently and bear primary stress.
+",77.19561767578125
+0.689000181208667,0,0,0.9142314761069774,1,0.9180331572335776,0,0.6157469555249268,1,0.8130273113492797,1,0.6876989953369973,1,0.9269911238766668,0,0.89848187865326,0,0.8929254686260557," Bake·r (1988:81-83) says 'The core fact about the distribution ofNI
 is that in. ordinary transitive clauses, the direct object may be incorporated
 but the subject may not be.' Baker (1988:83-4) accounts for the
 incorporation oflocatives by treating them as structural objects.
@@ -1365,8 +1673,49 @@ or (c) 'You two washed them for those others.'
  stress-bearing components of the Emmi verb complex. This implies that, at
  some earlier stage of the language, they were separate words which have
  since lost their phonological independence and been subsumed into the VP.
-",71.14488983154297
-0.6946317710175285,1,1,0.9157845739414204,0,0.901409397796784,1,0.6227050159434177,1,0.8164130158555813,1,0.6933541470409197,0,0.9102051534332836,1,0.9003201704561715,1,0.8993667497354167," Table 36 shows that propositional enclitics are ordered in relation to
+",71.14488983154297,"8.1.2.1 Core arguments
+Enuni's core arguments are, in Dixon's 1979 teiminology, S (subject of an
+ intransitive verb), A (agent ofa transitive verb), and 0 (object of a transitive
+ verb). SIA and 0 are obligatorily coded on the Emmi verb, e.g. (8-20)- (8-28)
+ and thus have what Foley and Van Valin (1984:98) teim ""indispensability"". I
+ have used 0 indilpensability"" as a diagnostic of Emmi's core arguments. (In the
+ test of this section, all SIA and 0 arguments are bolded; other arguments which
+ may be coded on the verb are underlined.
+S arguuicnt
+8-20dhama+wul
+2MIN.S.JR.stand+coma back
+'(You (one)), come back!' (T30:1)
+A+ 0 arguments
+8-21 ycnya-ngany+viye-no ninga
+ 2MIN.A..IR.make-1MJN.O+ltead=PURP2MIN.S.1R.sit
+ 'You (one), sit Gild massage my head!' (11:91)
+8-22 gama..tta-gu.rr-eyi tjinda**tlene
+ JMIN.S.R.poke+2MIN.O+hit•PERF spear•INS'fR
+304
+ .. 'He would have poked you (one) with a spear.' (Tl 1:123)
+ 8-21 gana-ngga+varratj=mangga=ga
+3MINS.R.walk-1/20+chase=LIK=FOC
+'It's likely to chase you and me.' (T6:8)
+ 8-24mudika=nene ganhdhinya-ngarrinya+dharrwut+mari
+ car=INSTR3AUG.A.R lzold-JAUG.O+pack+belly
+ 'Using trucks, they hold us packed inside.' (TI 5:4)
+ An additional statement is necessary in relation to the realisation of the
+ 0 argtiment. In 3 Minimal, 0 is realised as zero, e.g. (B·.Z..S), and contrasts with
+peripheral pronominrJ affixes, all of which have overt gender-marked
+realisations for 3 Minimal, e.g. (8-~) - (8-'2.~. For instance, when an 0 fa co-
+referential with the A of the verb, the 0 slot is filled by the Reflexive peripheral
+pronominal af'.Ox, e.g. (8"" JJo).
+8-25ganya-0+gurr=eyi
+3MIN.A.R.make-iMIN.O+hit==PERF
+'S/he shot him/her.'
+8-26,ya-nga+gurr=eyi
+ 3MIN.A.R.make-3MIN.F.REFl+hit=PERF
+ 'She shot herself.'
+8-27ganya-gurr-ngala=yi
+3MIN.A.R.make+hit-3MIN.F.BEN=PERF
+'S/he shot it for her.'
+",76.90149688720703
+0.6946317710175285,1,1,0.9157845739414204,0,0.901409397796784,1,0.6227050159434177,1,0.8164130158555813,1,0.6933541470409197,0,0.9102051534332836,1,0.9003201704561715,1,0.8948643759926825," Table 36 shows that propositional enclitics are ordered in relation to
 each other. The directional enclitics -(e)nhdhi 'TOWARDS' and -(e)ya
 'AWAY' are mutually exclusive.
 ","Propositional enclitic particles have scope over the clause and specify tense,
@@ -1511,8 +1860,12 @@ Ambiguity does, however, arise in transitive sentences, when A,
  (a) 'You mob washed those two for them.'
 or (b) 'You mob washed them for those two.'
 or (c) 'You two washed them for those others.'
-",70.97100830078125
-0.7694553402317224,5,1,0.9172481650735748,1,0.9031228170342286,0,0.6118829423407889,0,0.8022244650626389,0,0.6813042527573533,1,0.9117657100592962,1,0.9020525195209794,0,0.8837365349271292,"Although word order is free, NPs in S/A function are likely to !'m~tede
+",70.97100830078125,"Constituents of bahuvrihi compounds in Emmi are ordered like
+adjectival phrases, meaning that an attributive adjective follows its referent, e.g.
+rtedi kul (back bent) 'hunchback; viye wedjirr '(head bad) 'trouble-maker';
+rtedi-burrburr (back hairy) 'Hairy backed crocodile sp.'
+",76.87391662597656
+0.7694553402317224,5,1,0.9172481650735748,1,0.9031228170342286,0,0.6118829423407889,0,0.8022244650626389,0,0.6813042527573533,1,0.9117657100592962,1,0.9020525195209794,0,0.8793124085387327,"Although word order is free, NPs in S/A function are likely to !'m~tede
 one in 0 function. The corpus contains nine examples of AVO, eight exampies
 of AOV, one example of AVOA, six examples of OVA, four examples of OAV,
 two examples of OAVA, and one example of OAVO. Table 35 analyses NPs in
@@ -1612,8 +1965,12 @@ carries obligatory .coding for core arguments SIA and, on transitive verbs, 0.
 as human in myths qualify as core arguments to be coded on the verb. Also
 coded on the Emmi verb are the peripheral arguments Dative, Benefactive and
 Adversative, in ordered peripheral VP slots.
-",70.89740753173828
-0.7565878555777477,0,1,0.9186320114260912,1,0.9047428794341555,5,0.6852647566541055,1,0.8055318352603319,1,0.6866337532787179,1,0.9132412386733731,1,0.9036904803434747,1,0.885680791174922,"183
+",70.89740753173828,"Coverbs, incorporated nominals, and bound number words are all
+ stress-bearing components of the Emmi verb complex. This implies that, at
+ some earlier stage of the language, they were separate words which have
+ since lost their phonological independence and been subsumed into the VP.
+",76.42171478271484
+0.7565878555777477,0,1,0.9186320114260912,1,0.9047428794341555,5,0.6852647566541055,1,0.8055318352603319,1,0.6866337532787179,1,0.9132412386733731,1,0.9036904803434748,1,0.8813306487794014,"183
 Table 28: Major intransitive auxiliary verbs (cited in no particular order)
  AUX English Gloss
  nawalk
@@ -1797,8 +2154,30 @@ retained with primary and secondary stresses falling on the initial
  occurs word-initially, occurs as a coverb initial consonant, e.g. rri 'tell story'
  Body-part nominals incorporated into the VP also give up their
  phonological independenGe. This is shown in two ways.
-",70.52749633789062
-0.7443857752453148,0,1,0.9199442962133076,0,0.8901513878926716,0,0.6742129593670696,1,0.8086681744848654,5,0.7561987628908619,1,0.9146404646422353,0,0.8891159616600026,1,0.8875245058993125,"In (6-96), gumbVi is co-referential with the person ordered to do
+",70.52749633789062,"1.2. Linguistic we and typological singularities
+ Emmi is .an Australian language of the pr~fixing, predominantly head-
+ ukL ofl..a.r (~ """""":1.._ ""1 ~~ baJ'1 ~Vi._,,. ~IA-.
+ marking type.Xt is primarily an agglutinating language, in that a
+ grammatical word may comprise several morphemes, each of which
+ occupies an ordered slot. Emmi verbs frequently consist of eight ordered
+ morphemes, e.g. (1-6) (and see Chapter 2, section 2.3). Emmi has many
+ unsegmen;table fused morphemes, e.g. the obligatory pronominal prefi~
+ which inflects for person, number, gender and modality of SIA, and the
+ reflexive affix, which inflects for person, number and gender. Both are
+ shown in (1-6).
+ 1-6gadbama-nga+pirr+wuda=e.nhdbeni=no::ya
+ 3MIN.S.IR.stand-3MIN.F.REFL-i·throw
+ down+water=now=PURP=away fr-:.im speaker
+ 'She was about to throw herself into the water now over there away
+ from me.' (Tl:38)
+ A word may host up to four enclitics. Permissible combinations of
+temporal, modal, aspectual, directional and illocutionary enclitics are
+specified in Chapter Seven. Enclitics are ordered in relation to each other.
+They may occur as part of tt~ verb complex, or enc}hcise to the final
+element of a clause-initial constituent, or the final member of each clause
+constituent-phrase.
+",76.41854858398438
+0.7443857752453148,0,1,0.9199442962133076,0,0.8901513878926716,0,0.6742129593670696,1,0.8086681744848654,5,0.7561987628908619,1,0.9146404646422353,0,0.8891159616600026,1,0.8832445216309365,"In (6-96), gumbVi is co-referential with the person ordered to do
 something, so it is cross-referenced with Reflexive pronominal marking.
  The same obligatory cross-referencing exists in Marrithiyel (Green,
  1989:263).
@@ -1950,8 +2329,13 @@ enclitics precede propositional enclitics.
 pervasive in the language. Compound nouns, free pronouns, deictics, verb
 complexes, and serial lconstructions all subsume grammatical word which then
 lose phonolodcal independence; but remain stress-bearing.
-",70.35929870605469
-0.7327845998127183,0,1,0.9211919560892682,0,0.8762784704405494,0,0.6637054200230114,1,0.8116500612261972,1,0.7599983799932374,1,0.9159707841854908,0,0.8752591812187855,1,0.889277424859243," Of the intramorphemic consonant clusters which straddle syllable
+",70.35929870605469,"Propositional enclitic particles have scope over the clause and specify tense,
+status, modality, direction, polarity or evidentiality. These may attach to a
+member of any word class, and are attracted to a clause-initial host. All enclitics
+ma~ be copied onto every clause constituent Enclitics are ordered. Ad.nominal
+enclitics precede propositional enclitics.
+",76.3624038696289
+0.7327845998127183,0,1,0.9211919560892682,0,0.8762784704405494,0,0.6637054200230114,1,0.8116500612261972,1,0.7599983799932374,1,0.9159707841854908,0,0.8752591812187855,1,0.8850641437036848," Of the intramorphemic consonant clusters which straddle syllable
 boundaries, the most common is a homorganic nasal + stop cluster, and amongst
 these, the most common clusters, in order of frequency are:
 /nh/dh/;
@@ -2170,8 +2554,31 @@ y N#_# I, e, a,_
 In Emmi, a grammatical word consists of a lexical stem plus affixes
 and/or enclitics. Each grammatical word also qualifies as a phonological word, in
 that it can occur independently and bear primary stress.
-",70.17784881591797
-0.7368160645528781,1,1,0.9223809289180962,1,0.8781450506738293,1,0.6687790787288114,0,0.7994047392840914,1,0.7636192718578543,0,0.902151580962652,0,0.8620541918165596,1,0.8909478905483718,"Constituents of bahuvrihi compounds in Emmi are ordered like
+",70.17784881591797,"The 1931 Ngan.gimerri data suggests that the precursor to the
+contemporary Ngan.gityemerri verb structure was a phrasal verb,
+consisting of a 'finite verb' and a freeform 'participle'...These two
+major elements of the phrasal verb appear to have formed separate
+phonological words. They could be ordered variably with respect
+to one another, and verbal enclitics could be copied onto both
+elements of the phrasal verb .. .If we accept that the 'finite verb' and
+'participle' of the phrasal verb were separate phonological words,
+we can further presume that each of these two words would have
+borne primary stress on its initial syllable. In the contemporary
+Ngan.gityemc~ri verb, where these two 'halves' have been
+collapsed into a single phonological wor<l, this pattern is essentially
+retained with primary and secondary stresses falling on the initial
+(rnsyllables of the auxiliary and CVS [the Emmi. coverb] respectively.
+\..i:u~.i\~""'1-......u.r.. ~ ~'1""""""i!. F••U•)
+ Without data from an earlier stage of Emmi, one can only hypothesise,
+ but the phonological evidence suggests that the Emmi verb complex has
+ undergone similar changes to those shown by Reid for Ngan.gityemerri. Today,
+ the Enuni coverb has adapted so completely to a word-medial environment that a
+ coverb-initial /g/ lenites to [V] after a preceding vowel, and /cr/, which never
+ occurs word-initially, occurs as a coverb initial consonant, e.g. rri 'tell story'
+ Body-part nominals incorporated into the VP also give up their
+ phonological independenGe. This is shown in two ways.
+",76.19242095947266
+0.7368160645528781,1,1,0.9223809289180962,1,0.8781450506738293,1,0.6687790787288114,0,0.7994047392840914,1,0.7636192718578543,0,0.902151580962652,0,0.8620541918165596,1,0.8867981749448255,"Constituents of bahuvrihi compounds in Emmi are ordered like
 adjectival phrases, meaning that an attributive adjective follows its referent, e.g.
 rtedi kul (back bent) 'hunchback; viye wedjirr '(head bad) 'trouble-maker';
 rtedi-burrburr (back hairy) 'Hairy backed crocodile sp.'
@@ -2359,8 +2766,11 @@ the typologically similar Dal:y: languages Marrithiyel, and Ngan' gityemerri,
  which are semantically or pragmatically marked.' (Green. 1989:49; Reid
  (1990:326).
  3.2,2.2 Instrumental case-nene.
-",69.58196258544922
-0.7406659232369632,1,0,0.908888326403444,1,0.8799275467599416,0,0.6589961680066792,0,0.787711034376141,0,0.7524490373216836,0,0.8889548936632173,1,0.8640720652352618,1,0.8925431064945004,"The 1931 Ngan.gimerri data suggests that the precursor to the
+",69.58196258544922," Augmented SIA or 0 is obligatorily gender-marked by the nwnbcr
+ word in the penultimate VP slot, e.g. (4-S). where the VP·final s1ot is
+ occupied by the 1Pertective1 aspcctunl cnclitie•(e)yi. Enclitics arc ordered.
+",76.16325378417969
+0.7406659232369632,1,0,0.908888326403444,1,0.8799275467599416,0,0.6589961680066792,0,0.787711034376141,0,0.7524490373216836,0,0.8889548936632173,1,0.8640720652352618,1,0.8884540929950764,"The 1931 Ngan.gimerri data suggests that the precursor to the
 contemporary Ngan.gityemerri verb structure was a phrasal verb,
 consisting of a 'finite verb' and a freeform 'participle'...These two
 major elements of the phrasal verb appear to have formed separate
@@ -2509,8 +2919,11 @@ In (3-40), yene modifies the complex NP nga demi 'her side'. The
 affixed to errgi 'mother' in another possessive construction. Like other nouns
 denoting blood-kin, errgi 'mother' inflects for person, e.g. errgi-nbe (mother-to
 you) 'your mother', errgi-na (mother-to hlm) 'his mother'.
-",69.50272369384766
-0.7301460773609154,0,0,0.895979179631149,1,0.8816329630109336,1,0.6638395226732928,0,0.7765229961303906,1,0.7559650597173972,1,0.8905320924613569,1,0.8660026804817756,1,0.8940693410930309," Finally, there are markers of transitivity outside the verb but inside
+",69.50272369384766," Table 36 shows that propositional enclitics are ordered in relation to
+each other. The directional enclitics -(e)nhdhi 'TOWARDS' and -(e)ya
+'AWAY' are mutually exclusive.
+",75.9600830078125
+0.7301460773609154,0,0,0.895979179631149,1,0.8816329630109336,1,0.6638395226732928,0,0.7765229961303906,1,0.7559650597173972,1,0.8905320924613569,1,0.8660026804817756,1,0.890038404778542," Finally, there are markers of transitivity outside the verb but inside
  the clause. When an animate subject is introduced or re-introduced into
 197
 discourse, the last word in the subject NP hosts adnominal enclitic nene
@@ -2600,8 +3013,15 @@ yawanga=nhdhi=nhdha
 garru
 3M!N.S.R.go somewhere
 'Your child, that young woman I mentioned, is coming here really.'
-",69.27338409423828
-0.7338723614266233,1,0,0.8836070306269234,0,0.8694589140671862,0,0.6546728794341171,1,0.7796088834520479,0,0.7455262988918808,0,0.8782351596849586,1,0.8678529855345435,1,0.8955320870205115,"The Benefactive suffix marks arguments beneficially affected by the
+",69.27338409423828,"In addition to core arguments, peripheral argwnents ate indexd on
+ the Emmi verb by means of ordered bound pronominal suffixes which occur
+ a,.'ter the coverb. Like other Daly languages, Emmi indexes Adversative on
+ the verb. Green (1989: 1:6-127) calls the Marrithiyel equivalent the '/'anga/
+ pronominal; Reid (1990:135 -139) calls the Ngan.gityemerri equivalent
+ 'implicated arguments', and Tryon (1970:67) calls the Marranunggu
+ equivalent 'Licitive'.
+",75.70648193359375
+0.7338723614266233,1,0,0.8836070306269234,0,0.8694589140671862,0,0.6546728794341171,1,0.7796088834520479,0,0.7455262988918808,0,0.8782351596849586,1,0.8678529855345435,1,0.8915568119823593,"The Benefactive suffix marks arguments beneficially affected by the
 action of the verb. Within the VP, pronominal suffixes arp ordered with
 respect to each other. The Benefactive suffix is ordered after the Oblique
 slot and before incorporated nominals, the Adversative suffix, bound
@@ -2750,8 +3170,87 @@ Australian languages, in which verbs and nouns operate on au Ergative
 Absolutive system, but pronow1s operate on a Nominative/Accusative system
 \dxon, 1980:4), Emmi nouns and free or bound pronouns inflect on a
 Nominative/Accusative system which I have termed Direct.
-",69.21709442138672
-0.7338723614266233,0,0,0.8836070306269234,1,0.8830825170456237,1,0.6682964824125546,1,0.7932324864304853,1,0.7591499018703183,0,0.8782351596849586,1,0.8814765885129809,0,0.8955320870205115,"The subs~ing of grammatical words into a longer phonological word is
+",69.21709442138672," 306
+ Benefactive
+ 8-32ela vinme+nerre-nganila
+ mother 2MIN.S.IR.rise+shifl position:.lMIN.BEN
+ 'Mother! Get up for me!' (Tl 1: 126)
+Adwrsative
+8-33 yawanga=nhdha=yi
+ 3MIN.F.AnaphDEIC=really=PERF
+ garru+ngatj-ninbe
+ 3MIN.S.R.go somewhere-run away-2MIN.AD V
+ 'That girl we talked about really ran away from you.' (T9:51)
+8.1.2.3 Ordering of arguments coded on the verb
+ Arguments coded on the Emmi verb occupy ordered slots. This was
+described in 4.1.
+8.1.2.4 Arguments coded on the verb may cross-reference an overt NP
+All arguments eligible for coding on the Emmi verb may cross-reference
+an overt NP, e.g.
+s
+8-34na=gathernven
+3MIN.MPRO=FOC rainbow serpent
+yuwa=yagaya
+3MINFarDEIC=AWAY3MIN.S.R.lie
+'As for rainbow serpent, he's lying over there away from them.' (T3:22)
+ 307
+ A
+8-35 yiina yerekirr
+ 3MIN.MNearDEIC child small
+ gamen+nerre dharray kamul
+ 3MIN.A.R.pick up+shift position that waybilly-can
+ 'This small child picks up the billy-can and shifts it that way.' (T5:79)
+ A
+8-36 gaya+ngalh+miri+therreawa ngutj=nene
+ 31Vl!N.S.R.lie+mouth+eye+answer meat spirit.,,NEW INF
+ 'It was the spirit who answered.' (T4:29)
+ In the first 29 lines of narrative in Text 4, the spirit is the first A to be
+denoted by an overt NP, and be topicalised. This is, in fact, the only time an A
+is denoted by an overt NP, in a narrative text of 131 clauses (119 lines).
+nagurriny
+older brother-3MIN.MDAT 3MIN.MPOSS
+gala-na+dut+tjengi+mede
+3MINA.R.chop-3AUG.O+jind+ear+UAUG
+ 'His two older brothers hear him. (TS.165)
+0 0
+8-3~ manhdhaguman+gurr awapederre=ga
+throat3MIN.A.R.poke+hit meat gorilla=FOC
+'It's that gorilla he spears in the throat.' (T5:189)
+308
+0
+ 8-39atho=nodugulbi ngavula-na+gurr=eno
+ later= P URP brother-in-law 1MIN.A.JR. chop-2MIN. O+hit=P URP
+ 'I'm going to shoot you later, brother-in-law.' (T3:31)
+ Dative
+ 8-41 kandu dawarraborakverru-na=yi
+mansorcerer2MIN.S.IR.go somewhere-3MIN:MDAT=PERF
+ 'You should have gone to that sorcerer.' (Tl 1:121)
+ Benefactive
+ 8-42 endji malh ngavula+dut-pela manggan?
+how story 1MIN.A.1Rchop+find-2MIN.BEN mate
+'How will I find a story for you, mate?' (Tl 1:136)
+ Adversative
+8-43guman+manhdha+gat-nganga that wulgumen
+3MIN.A.poke+throat+cut-3MIN.F.AD Vthatold woman
+. gamen+wu+miri ganen
+3MIN.A.take+fight+eye 3MIN.S.R.sit
+ 'He cut off that old woman's escape despite her, he's burning her
+up.' (T5:77 - 78)
+Reflexive
+8-44 ganya-na+vinggar+tit gaya
+ 3MIN.A.R.make-3MIN.MREFL+knee+cross 3MIN.S.R.lie
+1~1.\1,~u·o.. ·is lying with his knees crossed.' (T3:1)
+Jµ.c:Uli\
+309
+ 8.1.2.5 Cross-referencing insufficient criterion for core argument status
+Emmi is like Warlpiri, in that Emmi nominals are marked for syntactic and
+peripheral case, in Dixon's terms (Dixon: 1977:407). Unlike Warlpiri, and most
+Australian languages, in which verbs and nouns operate on au Ergative
+Absolutive system, but pronow1s operate on a Nominative/Accusative system
+\dxon, 1980:4), Emmi nouns and free or bound pronouns inflect on a
+Nominative/Accusative system which I have termed Direct.
+",75.61475372314453
+0.7338723614266233,0,0,0.8836070306269234,1,0.8830825170456237,1,0.6682964824125546,1,0.7932324864304853,1,0.7591499018703183,0,0.8782351596849586,1,0.8814765885129809,0,0.8915568119823593,"The subs~ing of grammatical words into a longer phonological word is
 pervasive in the language. Compound nouns, free pronouns, deictics, verb
 complexes, and serial lconstructions all subsume grammatical word which then
 lose phonolodcal independence; but remain stress-bearing.
@@ -2932,8 +3431,133 @@ multiple functions, all enclitics are ordered with respect to each other. A
 sub-set of enclitics may co-occur, some forming clitic clusters; other
 enclitics are mutually exclusive. The way enclitics operate in Emmi is
 described in Chapter Seven.
-",69.00867462158203
-0.7473231889777406,1,0,0.8836070306269234,1,0.896533344596741,1,0.6817473099636719,1,0.8066833139816026,0,0.7591499018703183,0,0.8782351596849586,0,0.8814765885129809,0,0.8955320870205115," Emmi has a set of fourteen enclitics which function as adnominal
+",69.00867462158203,"A Description of the Emmi language
+ of the
+Northern Territory of Australia
+ Lysbeth Julie Ford
+ A thesis submitted for the degree of
+Doctor of Philosophy
+of the
+Australian National University
+April 1998
+Unless otherwise acknowledged in the text,
+this thesis is my own work
+LYSBErH JULIE FORD
+ii
+Table of contents
+Abstract ......................................................................................................... xiii
+Acknowledgments ............................................................................................ xv
+Abbreviations and Conventions ............................................. ,.......... .,. ........... xvi
+List of Tables ................................................................................................. xix
+List of Figures ................................................................................................. xx
+List of Maps .................................................................................................... xx
+Map 1 - Emmiyangal and Menhillleyangal traditional territory .................... xxi
+Map 2 - Emmiyangal and Menhdheyangal traditional territory from Tindale's
+1974 inap ...................................................................................................... xxii
+Map 3 -The Daly Tribes Strumer 1933a..................................................... xxiii
+Chapter One: Emmi and the Emmiyangal:geographical and historical
+context
+1.1 Name of language ........................................................................................ 1
+1.2 Linguistic type and typological singularities .............................................. 3
+1.3 Emmiyangal traditional territory ................................................................. 8
+1.4 Post-contact history ................................................................................... 10
+1.5 Speakers ............................................... ""...................... ,.............................. 12
+1.6 Methodology of this ·work ......................................................................... 14
+1. 7 Previous work on the language ................................................................. 15
+1.8 Relationship with neighbouring languages ............................................... 30
+Chapter 2: Phonology
+2.1 lntroduction ................................................. ~···············································35
+2.2 Segmental phoneme inventory .................................................................. 35
+ 2.2.l Vowel phonemes ........................... ,............................................... 35
+ 2.2.2 Vowel allophony ........................................................................ 37
+iii •
+ 2.2.3 Consonant phonemes ................................................................. 41
+ 2.2.4 Consonant allophony ................................................................. 42
+ 2.2.4.lStop/fricative allophony .................................. ,. ........... 42
+ 2.2.4.2 Relevant environments................................................ 44
+ 2.2.4.3 Competing analyses .................................................... 56
+ 2.2.5 Nasal allophony ......................................................................... 57
+ 2.2.6 Liquid allophony .........................................,. .............................. 63
+ 2.2.7 Sen1ivowel allophony................................................................. 67
+2.3 Phonotactics ............................................................................................... 69
+ 2.3.1 The phonological word .............................................................. 69
+ 2.3.2 Word-stress ................................................................................ 70
+ 2.3.3.Syllable and word-structure ................................... ,................... 77
+ 2.3.4 Restrictions on word- and syllable-constituents ........................ 85
+ Emmi phonotactics in context of Australian languages ...................... 91
+ 2.3.5.1 Word-edge phonotactics ......................................................... 91
+ 2.3.5.2 Word-medial phonotactics ...................................................... 93
+2.4 Obstruent Hierarchies ................................................................ "" ............. 93
+2.5 Rules .......................................................................................................... 94
+Chapter Three: Nominal Morphology
+3.0 The grammatical word .............................................................................. 96
+3.1 Word classes ............................................................................ ., ............... 96
+3.1.1 Syntactic grounds ....................................................................... 96
+3.1.2 Morphological grounds ............................................................... 98
+3.1.3 Semantic grounds ..................................................................... 100
+ 3.2 Nouns ......................................................... ,......................................... ,;.,, l 00
+3.2.1 Generic nouns .............................................................. ,....u ••• ., •• 100
+3.2.2 NP-relators mid their extended uses ......................................... 100
+3.2.2.1 Direct ................ ~ ....................... -0 ............................. 104
+iv
+ 3.2.2.2 Instrumental ............................ -nene ........................ 107
+ 3.2.2.3 Dative/ Allative -(e)no ....................... 109
+ 3.2.2.4 Ablative/Causal -ngana ...................... 111
+ 3.2.2.5 Comitative-widja ....................... 112
+ 3.2.2.5 Locative yenc ......................... 113
+ 3.2.2.6 New Information -nene......................... 115
+ 3.2.2.8 Focus-ga ............................ 120
+ 3.2.2.9 One of a pair or group -gamena .................. 122
+ 3.2.2.10 Similar -gamena .................. 124
+3.3 Pronouns ................. ,.......... ""...................................... ~ . ·•······~····················· 124
+ 3.3.1 Cardinal pronouns .................................................................... 125
+ 3.3.2 Possessive pronouns ................................................................ 130
+3.4 Adjectives ............................................................................................... 134
+3.5 Nominal Compounding ........................................................................... 141
+ 3.5.1 Bahuvrihi .compounds .............................................................. 141
+ 3.5.2 Whole-part compounds ............................................................ 142
+3.6 Deictics ·················~····························································~···················· 143
+3~7 Numeral quantifiers ............................................. "".~·································(I· 147
+3.8 Interrogatives .............................................. , .................. ;........................ 148
+Chapter Four: Verb morphology
+4.1 Verb structure ............................................................................................ 153
+4.2 Tense and Status ···~··············••!!••······a.····························· . ··•s•••·················· 159
+4.3 Auxiliary verb paradigms ........................................ ,. .............................. 161
+4.4 Pronominal verb prefixes analysed .......................................................... 162
+4.4.1 lAUG Realis derived from 2MIN Irrealis .................................... 163
+4.4.2 Two forms for lMIN"" Realis .......................................................... 165
+4.4.3 Two fom1s for l / 2AUG ............ __ ,......... ""' .................. .-.................. 165
+4!114.4 3AUG lrrealis .......... ,....... ,.............. -...................... ,....................... 166
+ 4.5 Bound pronominal suffixes .............................................................. ,...... 166
+ 4.5.l Oblique pronominal suffixes .................................................. 168
+ 4.5.2 The 0 suffix ............................................................................ 170
+ 4.5.3 Dative pronominal suffix ......................................................... 170
+ 4.5.4 Reflexive pronominal suffix .................................................... 172
+ 4.5.5 Reciprocal suffix ..................................................................... 172
+ 4.5.6 Benefactive pronominal suffix .................................................. 174
+ 4.5.7 Adversative suffix ..................................................................... 176
+ 4.6 Number marking on the VP .................................................................... 177
+ 4.6.1 Number shown by Suppletive co-verb .................................... 178
+ Chapter Fivc:Auxiliary (AUX) and covcrb
+ 5.0 Introduction .............................................................................................. 180
+ 5.1 Emmi veI""b categories ..........................................................,.................. 181
+K. )\.~l 5,.4 Transitivityof AUX ............... ll . . . . . . . . . . . . . . . l! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+5.3 Transitivity of coverbs ............................................................................ 187
+5.4 How transitivity affects the co-occurrence of AUX+ coverb ................. 190
+5.5 Semantic re.strictfons on co-occurrence of AUX+ coverb ..................... 198
+S .?,1 Literal and classificatory functions of AUX ...... ,..................... 198
+~··s~l~IMajor intransitive auxiliaries .............................................. ~ .... 198
+~. 'S"". I , f .1 na 'walk' ""··············••(l;!''""' '•i••,··········· .. ················""········· 198
+ ~ · f· l • ' ,2 rru 'go somewhere' ................................................... 199
+'ii' '! · 1• 1•• 3 nen 'sit'
+ttttiltUIU•tUUtttttttltUl•tttttttttltUUttltUUtttt'ttttttolltlttt200
+1'· ~· J. J.4. ya 'lie' ............................................ ~······••UttttUU•Uth1201
+~. :s'·l·t.s ma 'stand' ................................................. utuuuu••····204
+€i 'i ,f, 2., Minor intrans.itive auxiliaries .................................................... 205
+""'5·~~ J,i.1 AUX dji 'crawl' ............ u. ............................................ 205
+~.~·I 11.2 AUX rrame 'creep' ...................... u, ...................... ,... 205
+~ . '$'./ ,23 AUX rran 'use legs' ....................s ... u .................... h . . . .",75.06019592285156
+0.7473231889777406,1,0,0.8836070306269234,1,0.896533344596741,1,0.6817473099636719,1,0.8066833139816026,0,0.7591499018703183,0,0.8782351596849586,0,0.8814765885129809,0,0.8915568119823593," Emmi has a set of fourteen enclitics which function as adnominal
 enclitics, relating an NP to the rest of the clause. Most adnominal enclitics
 also function as propositional enclitics, with scope over the whole clause.
 Propositional enclitics may attach to a member of any word-class. They
@@ -3073,8 +3697,15 @@ lose phonolodcal independence; but remain stress-bearing.
  region language Ngan.gityemerri. Reid (1990:100-101) produced data from en
 earlier stage of the language to show that in 1931 the coverb was a separate
 phonological word.
-",68.98199462890625
-0.7606120965111727,1,1,0.8968959381603555,0,0.896533344596741,0,0.6817473099636719,0,0.8066833139816026,1,0.7724388094037503,1,0.8915240672183907,0,0.8814765885129809,0,0.8955320870205115,"297
+",68.98199462890625," 2-57awa vula+djuk+kala me
+ meat2MIN.A.1Rchop+burn+ 1/2BEN do
+ 'Roast the mea.t for us all. Do it!' (Tl 1:67)
+ Inside the verb complex, coverbs also take secondary stress in the Daly
+ region language Ngan.gityemerri. Reid (1990:100-101) produced data from en
+earlier stage of the language to show that in 1931 the coverb was a separate
+phonological word.
+",74.6937484741211
+0.7606120965111727,1,1,0.8968959381603555,0,0.896533344596741,0,0.6817473099636719,0,0.8066833139816026,1,0.7724388094037503,1,0.8915240672183907,0,0.8814765885129809,0,0.8915568119823593,"297
  Chapter Eight
 Syntactic constructions
  8.0 Introduction
@@ -3186,8 +3817,21 @@ In Emmi, each serial construction comprises two or more separate
 '2MIN.S.IR.walk!' occurs twice. The first wadja bears p,tlmary stress; th(~
 second wadja carries secondary stress, behaving like a compoimd noun, as part
 of a single phonological word.
-",68.96336364746094
-0.7606120965111727,0,0,0.8968959381603555,0,0.896533344596741,1,0.6948840474264253,1,0.819820051444356,1,0.7855755468665038,0,0.8915240672183907,1,0.8946133259757343,1,0.9086688244832648," Dixon's proposals were recently restated by Hamilton (1996).
+",68.96336364746094," Dixon (1'994~32) bas churnediW>J.""""
+ l1 grammatical association ofadjcctivcs with verb class
+ tends to be round in lnngungcs that do not have dependent
+marking~ those with 'hcad·matking1 ""where syntactic function
+140
+is shown by pronominal affixes on th0 predicate which
+'cross-reference subject, object etc' 1
+But Emmi, while primarily a head-marking language is also dependent-
+marking. According to Dixon (1994:32),
+adjectives tend to be treated in a similar way to nouns,
+ in languages where there is a predominant 'dependent marking'
+ pattern with syntactic function being marked on the arguments
+ of a predicate.
+",74.67833709716797
+0.7606120965111727,0,0,0.8968959381603555,0,0.896533344596741,1,0.6948840474264253,1,0.819820051444356,1,0.7855755468665038,0,0.8915240672183907,1,0.8946133259757343,1,0.9046935494451126," Dixon's proposals were recently restated by Hamilton (1996).
 Hamilton sets up the following markedness hierarchies for word-edge
 consonants:
 (i) place of articulation
@@ -3331,8 +3975,16 @@ sentence, yere nimbugirriny 'your child'is also marked as new by enclitic
 adjectival phrases, meaning that an attributive adjective follows its referent, e.g.
 rtedi kul (back bent) 'hunchback; viye wedjirr '(head bad) 'trouble-maker';
 rtedi-burrburr (back hairy) 'Hairy backed crocodile sp.'
-",68.71231079101562
-0.7606120965111727,0,0,0.8968959381603555,1,0.909526707848172,1,0.7078774106778561,1,0.832813414695787,0,0.7855755468665038,0,0.8915240672183907,1,0.9076066892271651,0,0.9086688244832648,"Morpho-syntactically, affixes attach only to the class of stem they
+",68.71231079101562," I define Emmi enclitics as ordered unstressed bound morphemes
+which never occur independently, but always pJ~c:.k. to a host word and
+are attracted to any semantically compatible clause-initial host. Pronominal
+affixes are also ordered and unstressed, but attach only to a member of the
+class of stems they modify. Unlike affxes, some enditics insert an
+epenthetic initial vowel when encliticising a consonant final host. Unlike
+affixes, some clitics form clusters containing the clitic -(e)nhdha 'really'
+which modifies just the preceding enclitic.
+",74.25636291503906
+0.7606120965111727,0,0,0.8968959381603555,1,0.909526707848172,1,0.7078774106778561,1,0.832813414695787,0,0.7855755468665038,0,0.8915240672183907,1,0.9076066892271653,0,0.9046935494451126,"Morpho-syntactically, affixes attach only to the class of stem they
  specify, but enclitics may be copied onto any or every clause constituent. For
  instance, propositional enclitics, which have scope over the whole clause, are
  often attracted to the final constituent of a clause-initial or clause-final phrase,
@@ -3527,8 +4179,30 @@ incorporation oflocatives by treating them as structural objects.
  pronominal; Reid (1990:135 -139) calls the Ngan.gityemerri equivalent
  'implicated arguments', and Tryon (1970:67) calls the Marranunggu
  equivalent 'Licitive'.
-",68.53864288330078
-0.7734700531074414,1,1,0.9097538947566242,0,0.909526707848172,1,0.7207353672741249,0,0.832813414695787,0,0.7855755468665038,0,0.8915240672183907,0,0.9076066892271651,1,0.9215267810795336,"In Canberra, my supervisors Bob Dixon and Ian Green inspired and
+",68.53864288330078," The same complex morphemes also mark augmented number on nouns,
+Cardinal pronouns and Deictics, where they also bear secondary stress., e.g.
+ngada+mede ['~adamede] 'two of us'.
+nganggu+nganya flJ81Jl)9UIJaJla] 'we four or more women, including
+addressee';
+wida+ninya ['w1danipa] 'They, consisting of four or more men'.
+yuwanya+ngamen+mede ('juwapal)amenmede] \hose two men and one
+ woman in the distance;
+ yawanya+nemen+nganya ['jawapanemern:iapa) \hose four or more women
+ plus OL~ man that I mentioned'.
+ 2-65 meyidjagundinyi tjipelh+mede
+two3AUG.A.R.elbowRECIyoung girl+UAUG
+'The two young girls elbow each other.' (T2:11)
+In Emmi, each serial construction comprises two or more separate
+ grammatical words. Two of these words must be inflected verbs, the second of
+ which loses its phonological independence, and be~omes part of the preceding
+ phonological word, which is often, but not necessarily, the main verb, (cf (2-68),
+ sharing a single primary stress. The second inflected verb lt>~es its primary stress.
+ For instance, in the serial c1nstruction shown in (2-66), th~ fo..fiected verb wadja
+'2MIN.S.IR.walk!' occurs twice. The first wadja bears p,tlmary stress; th(~
+second wadja carries secondary stress, behaving like a compoimd noun, as part
+of a single phonological word.
+",74.20156860351562
+0.7734700531074414,1,1,0.9097538947566242,0,0.909526707848172,1,0.7207353672741249,0,0.832813414695787,0,0.7855755468665038,0,0.8915240672183907,0,0.9076066892271653,1,0.9175515060413814,"In Canberra, my supervisors Bob Dixon and Ian Green inspired and
  encouraged me. Harold Koch read the next to final draft and made many
  helpful suggestions. Tamsin Donaldson 'Uld Margaret Burns gave me moral
  and practical support. Dennis James solved many computer glitches. I am
@@ -3775,8 +4449,27 @@ introduced into the discourse for the first time by the enclitic -nene. In the f
 sentence, the NP kandu nimbugurriny=nene 'your man' is the new subject of
 the intransitive verb mi-come out'. The subject of the second, verb-less,
 sentence, yere nimbugirriny 'your child'is also marked as new by enclitic
- -nen~.",68.17764282226562
-0.7734700531074414,0,1,0.922483689229065,0,0.909526707848172,1,0.7334651617465656,0,0.832813414695787,1,0.7983053413389445,1,0.9042538616908314,1,0.9203364836996059,1,0.9342565755519744," Hamilton's second most favoured cluster is [APIC] [LAM]. This
+ -nen~.",68.17764282226562,"The Benefactive suffix marks arguments beneficially affected by the
+action of the verb. Within the VP, pronominal suffixes arp ordered with
+respect to each other. The Benefactive suffix is ordered after the Oblique
+slot and before incorporated nominals, the Adversative suffix, bound
+number wordf and aspectual enclitics, e.g. (4-8) - (4-10). Ambiguity does
+not arise when assigning augmented number suffixes to SIA or BEN1 when
+ one is minimal and the other augmented, e.g. (4-46).
+ 4-46 me-kinyala
+2MIN.A.IR.pick up-112.BEN
+'You (one) bring it for us all.' (AD: 1)
+Ambiguity does, however, arise in transitive sentences, when A,
+ Oblique and Benefactive are augmented, e.g. (4-47a-c). The context is a
+ mortuary ceremony involving ritual washing of people associated with the
+ deceased. Speakers preferred gloss (b).
+ 4-47a· garranya-ne+fit-nyela+mede=yi
+.2A UG.A.R.handfe ..3A UG. O+wash-3A UG.BEN+ UA UG=PERF
+ (a) 'You mob washed those two for them.'
+or (b) 'You mob washed them for those two.'
+or (c) 'You two washed them for those others.'
+",74.2000503540039
+0.7734700531074414,0,1,0.922483689229065,0,0.909526707848172,1,0.7334651617465656,0,0.832813414695787,1,0.7983053413389445,1,0.9042538616908314,1,0.920336483699606,0,0.9175515060413814," Hamilton's second most favoured cluster is [APIC] [LAM]. This
 cluster is also common in Emmi, e.g. windjerre 'steal'. Hamilton's least
 favoured clusters are [SON] [SON], and amongst these he sets up the
  hierarchy
@@ -3880,8 +4573,12 @@ class of stems they modify. Unlike affxes, some enditics insert an
 epenthetic initial vowel when encliticising a consonant final host. Unlike
 affixes, some clitics form clusters containing the clitic -(e)nhdha 'really'
 which modifies just the preceding enclitic.
-",68.0289535522461
-0.7734700531074414,0,1,0.9350919317910096,0,0.909526707848172,0,0.7334651617465656,1,0.8454216572577314,0,0.7983053413389445,0,0.9042538616908314,0,0.9203364836996059,0,0.9342565755519744," 119
+",68.0289535522461," These number markers are complex morphemes and bear stress. This
+suggests that, at an earlier stage of t'ie language, they may also have been
+independent words, but have since lost their phonological independence, as
+obligatory components of the verb complex.
+",73.89217376708984
+0.7734700531074414,0,1,0.9350919317910096,0,0.909526707848172,0,0.7334651617465656,1,0.8454216572577314,0,0.7983053413389445,0,0.9042538616908314,0,0.920336483699606,1,0.9301597486033258," 119
 Reid (1990:326) argues that -ninggi modifies 'marked' agents of transitive verbs
 and subjects of 'those low transitive verbs that have a non-subject core argument'
 (Reid, 1990:326). He defines 'low transitive' verbs as'verbs that are formally
@@ -4009,8 +4706,18 @@ coverb, auxiliaries retain their literal sense, e.g. (5-4) - (5-7).
 suggests that, at an earlier stage of t'ie language, they may also have been
 independent words, but have since lost their phonological independence, as
 obligatory components of the verb complex.
-",67.87825012207031
-0.7859627948636111,1,0,0.9350919317910096,1,0.9220194496043416,0,0.7334651617465656,0,0.8454216572577314,0,0.7983053413389445,0,0.9042538616908314,0,0.9203364836996059,0,0.9342565755519744,"In (4-7), where 0 and IU are expressed, the Dative pronominal
+",67.87825012207031," Emmi has a set of fourteen enclitics which function as adnominal
+enclitics, relating an NP to the rest of the clause. Most adnominal enclitics
+also function as propositional enclitics, with scope over the whole clause.
+Propositional enclitics may attach to a member of any word-class. They
+ct:1;.zy a high functional load and are used to express modal, aspectual,
+directional, and illocutionary information. While not all enclitics have
+multiple functions, all enclitics are ordered with respect to each other. A
+sub-set of enclitics may co-occur, some forming clitic clusters; other
+enclitics are mutually exclusive. The way enclitics operate in Emmi is
+described in Chapter Seven.
+",73.83969116210938
+0.7859627948636111,1,0,0.9350919317910096,1,0.9220194496043416,0,0.7334651617465656,0,0.8454216572577314,0,0.7983053413389445,0,0.9042538616908314,0,0.920336483699606,0,0.9301597486033258,"In (4-7), where 0 and IU are expressed, the Dative pronominal
  suffix has precedence over Direct 0, and occupies the Oblique !lronominal
  slot. Direct 0 is expressed VP-externally by an overt NP.
  4-7awagaya+ na+ wut= eyi
@@ -4189,8 +4896,13 @@ pronominal af'.Ox, e.g. (8"" JJo).
 8-27ganya-gurr-ngala=yi
 3MIN.A.R.make+hit-3MIN.F.BEN=PERF
 'S/he shot it for her.'
-",67.6662826538086
-0.7859627948636111,0,0,0.9350919317910096,0,0.9220194496043416,1,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.9166366587726724,0,0.9203364836996059,0,0.9342565755519744," But in Emmi,-nene, 'New Information' cannot accurately be described as
+",67.6662826538086,"Chapter Two describes the segmental phonology of the language. It
+provides evidence for the existence of a voicing contrast between stops and the
+existence of two phonemic :fricatives. It shows how the stress patterns of
+complex morphemes which have been subsumed into the verb reveal that they
+were once independent words.
+",73.48772430419922
+0.7859627948636111,0,0,0.9350919317910096,0,0.9220194496043416,1,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.9166366587726724,0,0.920336483699606,0,0.9301597486033258," But in Emmi,-nene, 'New Information' cannot accurately be described as
 a transitivity marker. As a signal of new information' -nene is attached to new
 agents of 'high' transitive verbs, or 'low' transitive verbs, also to subjects of
 intransitive verbs, whether these are two argument intransitive verbs, e.g. 'come
@@ -4327,8 +5039,10 @@ provides evidence for the existence of a voicing contrast between stops and the
 existence of two phonemic :fricatives. It shows how the stress patterns of
 complex morphemes which have been subsumed into the verb reveal that they
 were once independent words.
-",67.44840240478516
-0.7859627948636111,0,1,0.9473699003442888,0,0.9220194496043416,0,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.928914627325952,0,0.9203364836996059,0,0.9342565755519744,"120
+",67.44840240478516," Classifiers, but not noun classes, may be used in different ways
+ in different speech styles, within a language.
+",73.39549255371094
+0.7859627948636111,0,1,0.9473699003442888,0,0.9220194496043416,0,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.928914627325952,0,0.920336483699606,0,0.9301597486033258,"120
 3-54emmi malh=enhdhenimalh=gu
 what story=nowstory=FOG
 'What story [do you want] now? Is it a story?' (TlO:l)
@@ -4441,8 +5155,34 @@ which modifies just the preceding enclitic.
 is that in. ordinary transitive clauses, the direct object may be incorporated
 but the subject may not be.' Baker (1988:83-4) accounts for the
 incorporation oflocatives by treating them as structural objects.
-",67.29383087158203
-0.7859627948636111,0,0,0.9473699003442888,1,0.9341973131721142,0,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.9410924908937244,0,0.9203364836996059,0,0.9342565755519744,"(TY:4)
+",67.29383087158203," Dixon's proposals were recently restated by Hamilton (1996).
+Hamilton sets up the following markedness hierarchies for word-edge
+consonants:
+(i) place of articulation
+(Hamilton)
+ LAB DORSLAM APIC
+ < Less marked in CinitLess marked i;(Crm
+ Emmi word-edge consonants fit this hierarchy, if we substitute the
+tenn 'most favoured' for Hamilton's 'less marked' :
+92
+(ii) manner of articulation
+ (Hamilton)
+OBSTRGLIDE NAS LATVIB
+ ~ Most favoured in Cini!
+(Emmi)
+OBSTRGLIDE NAS LAT VIB
+Most f~oured in Cr.n >
+The most favoured word-final consonants in Emmi are Hamilton's
+ least marked, but word-initial consonants do not fit his predictions. Emmi's
+most favoured word-initial conl""onants are nasals, not obstruents, and
+ vibrants are less frequent in this position than laterals, reversing the order
+ Hamilton predicts.
+ Emmi)
+NASOBSTRGLIDEVIB LAT
+ ~Most favoured in Cinit Most favourediltCr111
+2.3.5.2 Word-medial phonotactics.
+",72.46348571777344
+0.7859627948636111,0,0,0.9473699003442888,1,0.9341973131721142,0,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.9410924908937244,0,0.920336483699606,0,0.9301597486033258,"(TY:4)
 3-79nganv=gamena
  JMIN.PRON=SIM
  'Like me (not like anyone else).' (BL:l)
@@ -4673,8 +5413,47 @@ denhdhi fall down
  All intransitive auxiliaries except nme 'rise' may occur without a
 coverb, but occur more frequently \\'ith coverbs. When they occur without a
 coverb, auxiliaries retain their literal sense, e.g. (5-4) - (5-7).
-",67.09854888916016
-0.7980449254096872,1,1,0.9594520308903648,0,0.9341973131721142,0,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.9531746214398008,1,0.9324186142456821,0,0.9342565755519744,"In (3-39) - (3-40), yene means 'beside'.In both utterances, yene modifies a
+",67.09854888916016,"120
+3-54emmi malh=enhdhenimalh=gu
+what story=nowstory=FOG
+'What story [do you want] now? Is it a story?' (TlO:l)
+3-55avagama yuwaelewerre=ga
+ who 3MIN.S.R.stand 3MIN.FarDEIC shady tree=FOC
+ 'Who's standing over there by that shady tree?' (T4:94)
+3-56 gawani+oyulhuk:=eooyii=nhdha=ga
+3MIN.S.IR. walk+enter=PURP3MIN.NearDEIC=really=FOC
+It's really here he's going to go inside.' (T2:97)
+In other respects, -gu and -oeoc are very similar. Like -mme, -gu may
+attach to a nominal as the subject of an intransitive verb in (3-53), the agent of a
+high transitive verb in (3-57), of a low transitive verb in (3-44), as the object of
+ a high transitive verb in (3-58), or the predicate of a verb-'ess clause in (3-54)
+ and (3-59) - (3-60).
+ 3-57mani ginbe-oga+lorr+nunggu
+ money3MIN.A.R.take off-3MIN.F.DAT+strip of+hand
+ wuda=noyuwana=gakandu
+ grog=DAT 3MIN.M.FarDEIC=FOC man
+ 'That man over there takes her money out of her hands for grog.' (T9:277)
+3-58manbdha guman+gurr awa pederre=ga
+throat 3MIN.A.R.poke+hit meat monster=FOC
+'It was the monster he speared in the throat.' (T5:189)
+121
+ 3-59y~re=ga nganggugurriny
+ child=FOC 1 /2MIN.POSS
+ 'As for the children, yours and mine?' (Tl :40)
+ 3-60mama=nbdhangany=gu
+mother=really1MJN.PRO=FOC
+'My mother really, that was.' (T10:164)
+As a propositional enclitic -gu brings the entire clause into focus. It may
+attach to any clause constituent, but is attracted to clause-initial or final constituents.
+See Chapter Seven for details.
+32.2.9. -gamena 'one of a pair or group'
+ Enclitic -gamena 'one of a pair or group' functions in much the same way
+as do -gara 'one of a pair' and mal]gan 'one of many' in Dyirbal (Dixon, 1972:
+51-2; 230-231, 260 - 261). Dixon describes gara and mal]gan as primarily noun
+suffixes. But the Dyirbal 'terms inflect to show Dative and Genitive case, unlike
+Emmi -gamena, whk1h is invariable.
+",72.21571350097656
+0.7980449254096872,1,1,0.9594520308903648,0,0.9341973131721142,0,0.7458479588284067,0,0.8454216572577314,0,0.7983053413389445,1,0.9531746214398008,1,0.932418614245682,0,0.9301597486033258,"In (3-39) - (3-40), yene means 'beside'.In both utterances, yene modifies a
 complex NP. In (3-39), this NP is a list of juxtaposed referents:
 3-39geminya-mede""""'y=:en""""'e=--.:.:k=an:::;d::;.:u=-=d::.aw~!l.l=-=m.:.:u:.:.k=u
 3AUG.S.R.come out+UAUG LOC man allwoman
@@ -4916,8 +5695,12 @@ ordering of enclitics, Chapter Seven).
 5
 inanimate.entities, not possessed by spirits, e.g. malh 'language' in (3-54),
 elewerre 'shady tree' in (3-55), and the Near Deictic yii in (3-56).
-",66.76315307617188
-0.7980449254096872,0,0,0.9594520308903648,0,0.9341973131721142,0,0.7458479588284067,1,0.8574121108421657,1,0.8102957949233788,0,0.9531746214398008,0,0.9324186142456821,0,0.9342565755519744," Enuni and Patjtjamalh (see Ford, 1990) do not appear to be in any
+",66.76315307617188," Bake·r (1988:81-83) says 'The core fact about the distribution ofNI
+is that in. ordinary transitive clauses, the direct object may be incorporated
+but the subject may not be.' Baker (1988:83-4) accounts for the
+incorporation oflocatives by treating them as structural objects.
+",72.13211059570312
+0.7980449254096872,0,0,0.9594520308903648,0,0.9341973131721142,0,0.7458479588284067,1,0.8574121108421657,1,0.8102957949233788,0,0.9531746214398008,0,0.932418614245682,0,0.9301597486033258," Enuni and Patjtjamalh (see Ford, 1990) do not appear to be in any
 way related, except as Australian languages. This contradicts Tryon (1970),
 but nobody has proved that the two languages are related by reconstructing
 the immediate proto-language of which they are the supposed daughters.
@@ -5158,8 +5941,17 @@ you) 'your mother', errgi-na (mother-to hlm) 'his mother'.
  possessor by means of a possessive pronowi is the usual way in Emmi to
  express possession of alienably possessed entities, e.g. material objects such as
  cars, e.g. (3-80) - (3-84), or food, e.g. (3-85). ~ .J.""Vo $'. '5' • 2.. ~ f• Q.O I.
-",66.69767761230469
-0.7980449254096872,0,0,0.9594520308903648,0,0.9341973131721142,0,0.7458479588284067,0,0.8574121108421657,0,0.8102957949233788,0,0.9531746214398008,1,0.9443211621792874,0,0.9342565755519744,"8.1.2.1 Core arguments
+",66.69767761230469,"Emmi operates on a subject versus object system for nominals, verbs and
+bound pronouns. A, S and 0 are zero-marked on nominals but obligatorily coded
+on verbs. This is a more consistently nominative/accusative system than that of
+the typologically similar Dal:y: languages Marrithiyel, and Ngan' gityemerri,
+ (a.~w~•·n Nqo-n""lq_~t'\)
+ which have ergativ~case-mark.ing on nouns functioning as 'transitive subjects
+ which are semantically or pragmatically marked.' (Green. 1989:49; Reid
+ (1990:326).
+ 3.2,2.2 Instrumental case-nene.
+",71.92571258544922
+0.7980449254096872,0,0,0.9594520308903648,0,0.9341973131721142,0,0.7458479588284067,0,0.8574121108421657,0,0.8102957949233788,0,0.9531746214398008,1,0.9443211621792874,0,0.9301597486033258,"8.1.2.1 Core arguments
 Enuni's core arguments are, in Dixon's 1979 teiminology, S (subject of an
  intransitive verb), A (agent ofa transitive verb), and 0 (object of a transitive
  verb). SIA and 0 are obligatorily coded on the Emmi verb, e.g. (8-20)- (8-28)
@@ -5564,8 +6356,14 @@ ttttiltUIU•tUUtttttttltUl•tttttttttltUUttltUUtttt'ttttttolltlttt200
 ~ . '$'./ ,23 AUX rran 'use legs' ....................s ... u .................... h . . . .",66.91004180908203," Table 36 shows that propositional enclitics are ordered in relation to
 each other. The directional enclitics -(e)nhdhi 'TOWARDS' and -(e)ya
 'AWAY' are mutually exclusive.
-",66.69757080078125
-0.7980449254096872,0,0,0.9594520308903648,1,0.9460154693302076,0,0.7458479588284067,1,0.8692302670002593,0,0.8102957949233788,0,0.9531746214398008,0,0.9443211621792874,0,0.9342565755519744,"Coverbs, incorporated nominals, and bound number words are all
+",66.69757080078125," Finally, there are markers of transitivity outside the verb but inside
+ the clause. When an animate subject is introduced or re-introduced into
+197
+discourse, the last word in the subject NP hosts adnominal enclitic nene
+which signals new information. This happens regardless of tense or
+modality.
+",71.77783203125
+0.7980449254096872,0,0,0.9594520308903648,1,0.9460154693302076,0,0.7458479588284067,1,0.8692302670002593,0,0.8102957949233788,0,0.9531746214398008,0,0.9443211621792874,0,0.9301597486033258,"Coverbs, incorporated nominals, and bound number words are all
  stress-bearing components of the Emmi verb complex. This implies that, at
  some earlier stage of the language, they were separate words which have
  since lost their phonological independence and been subsumed into the VP.
@@ -5679,8 +6477,10 @@ most favoured word-initial conl""onants are nasals, not obstruents, and
 NASOBSTRGLIDEVIB LAT
  ~Most favoured in Cinit Most favourediltCr111
 2.3.5.2 Word-medial phonotactics.
-",66.66503143310547
-0.7980449254096872,0,0,0.9594520308903648,1,0.9577525141882276,1,0.7575850036864266,0,0.8692302670002593,1,0.8220328397813985,0,0.9531746214398008,0,0.9443211621792874,1,0.945993620409994,"A Description of the Emmi language
+",66.66503143310547,"Ordered rule 4 can be formulated to account for these data: Rule 3
+precedes Rule 3.
+",71.67213439941406
+0.7980449254096872,0,0,0.9594520308903648,1,0.9577525141882276,1,0.7575850036864266,0,0.8692302670002593,1,0.8220328397813985,0,0.9531746214398008,0,0.9443211621792874,1,0.9418967934613456,"A Description of the Emmi language
  of the
 Northern Territory of Australia
  Lysbeth Julie Ford
@@ -5969,8 +6769,24 @@ in Locative case, e.g. (3-52).
 something, so it is cross-referenced with Reflexive pronominal marking.
  The same obligatory cross-referencing exists in Marrithiyel (Green,
  1989:263).
-",66.50776672363281
-0.8097039272685598,1,0,0.9594520308903648,0,0.9577525141882276,1,0.7692440055452991,0,0.8692302670002593,1,0.8336918416402711,0,0.9531746214398008,1,0.95598016403816,0,0.945993620409994," On this evidence, it looks as though, in Emmi, -nene 'New Information'
+",66.50776672363281," On this evidence, it looks as though, in Emmi, -nene 'New Information'
+may have originated as an Ergative marker, was then extended to introduce new
+subjects of intransitive verbs, and now covers other new animate arguments.
+3.2.2.8 -gu Focus marker
+ Focus marker gu has an allomorph -ga which occurs after a host-final i, e
+or a; otherwise, -gu occurs, e.g. (3-44), (3-55).
+-nene 'New Information' and - gu 'Focus marker' may bod1 attach to the
+same NP host, e.g. (3-54), but -gu is always preceded by -nene (for the relative
+ordering of enclitics, Chapter Seven).
+3-53 gemi-ne awanguti=nene=~a
+ 3MIN.S.R.come out-3MIN.MDAT meat spirit=NEW JNF=FOC
+ 'It's the spirit that comes out for him.' (Tl7:l 19, 137)
+ As an ad.nominal enclitic, -gu differs from nene in bringing into focus
+5
+inanimate.entities, not possessed by spirits, e.g. malh 'language' in (3-54),
+elewerre 'shady tree' in (3-55), and the Near Deictic yii in (3-56).
+",70.85681915283203
+0.8097039272685598,1,0,0.9594520308903648,0,0.9577525141882276,1,0.7692440055452991,0,0.8692302670002593,1,0.8336918416402711,0,0.9531746214398008,1,0.95598016403816,0,0.9418967934613456," On this evidence, it looks as though, in Emmi, -nene 'New Information'
 may have originated as an Ergative marker, was then extended to introduce new
 subjects of intransitive verbs, and now covers other new animate arguments.
 3.2.2.8 -gu Focus marker
@@ -6167,8 +6983,15 @@ notms ............ ,. ..........................................................
 35 Propositional enclitics by function ..................................... ;.................... 260
 37 Propositional enclitics by order .............................................................. 270
 38 Modality and enclitics ....... ,................................. ,.................... ,.............. 274
-39 NPs in core argun1ent function ..............................h ...............................",66.457763671875
-0.8097039272685598,0,1,0.9710358646826752,0,0.9577525141882276,1,0.7808278393376096,0,0.8692302670002593,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,1,0.9575774542023044," 2-57awa vula+djuk+kala me
+39 NPs in core argun1ent function ..............................h ...............................",66.457763671875," But in Emmi,-nene, 'New Information' cannot accurately be described as
+a transitivity marker. As a signal of new information' -nene is attached to new
+agents of 'high' transitive verbs, or 'low' transitive verbs, also to subjects of
+intransitive verbs, whether these are two argument intransitive verbs, e.g. 'come
+out [for] in (3-47) or one argument intransitive verbs, e.g. 'go somewhere' in (3-
+48).-nene also marks new animate referents in 0 function, e.g.(3-49)- (3-51), or
+in Locative case, e.g. (3-52).
+",70.72172546386719
+0.8097039272685598,0,1,0.9710358646826752,0,0.9577525141882276,1,0.7808278393376096,0,0.8692302670002593,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,1,0.953480627253656," 2-57awa vula+djuk+kala me
  meat2MIN.A.1Rchop+burn+ 1/2BEN do
  'Roast the mea.t for us all. Do it!' (Tl 1:67)
  Inside the verb complex, coverbs also take secondary stress in the Daly
@@ -6236,8 +7059,32 @@ intransitive verbs, whether these are two argument intransitive verbs, e.g. 'com
 out [for] in (3-47) or one argument intransitive verbs, e.g. 'go somewhere' in (3-
 48).-nene also marks new animate referents in 0 function, e.g.(3-49)- (3-51), or
 in Locative case, e.g. (3-52).
-",66.1689682006836
-0.821215291273923,1,0,0.9710358646826752,0,0.9577525141882276,0,0.7808278393376096,1,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.9575774542023044," 306
+",66.1689682006836,"In (3-39) - (3-40), yene means 'beside'.In both utterances, yene modifies a
+complex NP. In (3-39), this NP is a list of juxtaposed referents:
+3-39geminya-mede""""'y=:en""""'e=--.:.:k=an:::;d::;.:u=-=d::.aw~!l.l=-=m.:.:u:.:.k=u
+3AUG.S.R.come out+UAUG LOC man allwoman
+yeremarbuk
+child sprout
+ 'They both come out beside all the men, women and half-grown children'
+ (T4:24)
+ 3-40gunin+medeyene nga demi
+ 3AUG.S.Rsit+UAUG LOC 3MIN.F.PRO side
+yene errgi-nga=nhdha
+LOC mother-3MIN.DAT.F=really
+ 'They are both sittii'lg there by her mother's side, really beside her mother.'
+ (T2:12)
+ 114
+In (3-40), yene modifies the complex NP nga demi 'her side'. The
+ cardinal pronoun nga 'she' and body-part noun demi 'side' are juxtaposed in the
+ construction usual to express inalienable possession, here of a body-part. The
+ alternative word orders demi nga yene and yene demi nga were equally
+ acceptable to speakers and made no difference in meaning. The first nga in the
+ utterance is a free pronoun, but the second is a bound pronominal 'to/for her'
+affixed to errgi 'mother' in another possessive construction. Like other nouns
+denoting blood-kin, errgi 'mother' inflects for person, e.g. errgi-nbe (mother-to
+you) 'your mother', errgi-na (mother-to hlm) 'his mother'.
+",69.85940551757812
+0.821215291273923,1,0,0.9710358646826752,0,0.9577525141882276,0,0.7808278393376096,1,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.953480627253656," 306
  Benefactive
  8-32ela vinme+nerre-nganila
  mother 2MIN.S.IR.rise+shifl position:.lMIN.BEN
@@ -6560,8 +7407,14 @@ the Purposive enclitic, because propositional enclitics may attach to all clause
 constituents, whereas adnominal enclitics attach only to the phrase they modify.
 With either construal, the meaning of (3-25) and (3-26) remains the same,
 ;.2.2.4 Ablative/Causal -ngana.
-",65.34322357177734
-0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,1,0.7922692700842849,0,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.9575774542023044,"Used as a propositional enclitic, -(e)no functions as a purposive marker.
+",65.34322357177734," 119
+Reid (1990:326) argues that -ninggi modifies 'marked' agents of transitive verbs
+and subjects of 'those low transitive verbs that have a non-subject core argument'
+(Reid, 1990:326). He defines 'low transitive' verbs as'verbs that are formally
+transitive, but are characterised by a low degree of patient affectivity'(Reid,
+1990:223).
+",69.15145874023438
+0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,1,0.7922692700842849,0,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.953480627253656,"Used as a propositional enclitic, -(e)no functions as a purposive marker.
 Ad.nominal and propositional enclitic .. (e)no frequently occur on different words
 in the same sentence, e.g. (3-25) and (3-26).
  llO
@@ -6707,8 +7560,27 @@ these, the most common clusters, in order of frequency are:
 /nd/;
  /mb/.
  /nydj/ is the least frequent homorganic nasal+stop cluster.
-",65.32228088378906
-0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,0,0.7922692700842849,0,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.9575774542023044," 286
+",65.32228088378906," 286
+-(e)nhdheni may co-occur with the Perfective enclitic, the Purposive
+ enclitic, and the combination of Purposive and Perfective enclitics. Its
+ :function in th~se ordered co-occurrences - it always precedes these
+ particular enciitics - is to bring the event described closer to the .moment of
+ speaking. For instance, when co-occurring with -(e)yi, the Perfective
+ enclitic, -(e)nhdheni marks an event as having happened just before the
+ moment of speech, as in (7-73).
+ 7-73kudjala=nhdheni=yi, ngarru+kalh=m
+ today=now=PERF lMIN.S.R.go somewhere+climb=PERF
+ 'I arrived just now.'
+·(e)nhdheni 'now' adds immediacy to positive imperatives, e.g. (7-74), or
+exhortations, e.g. (7-75).
+7-74 uma+gat+viye=phdheni ninga
+2MIN.IR.poke+cut+head=now2MIN.IR-sit
+'Sit and cut the head out now!' (Tl I :6)
+7-75gak=enhdhe~i ngadhama+wul=wany=eya
+away=now JMJN.S.R,stand+go back=REPET=AWAY
+'Let me go back again away from here now!' (Tl5:89).
+",68.88878631591797
+0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,0,0.7922692700842849,0,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.953480627253656," 286
 -(e)nhdheni may co-occur with the Perfective enclitic, the Purposive
  enclitic, and the combination of Purposive and Perfective enclitics. Its
  :function in th~se ordered co-occurrences - it always precedes these
@@ -6916,8 +7788,28 @@ ttttiltUIU•tUUtttttttltUl•tttttttttltUUttltUUtttt'ttttttolltlttt200
 €i 'i ,f, 2., Minor intrans.itive auxiliaries .................................................... 205
 ""'5·~~ J,i.1 AUX dji 'crawl' ............ u. ............................................ 205
 ~.~·I 11.2 AUX rrame 'creep' ...................... u, ...................... ,... 205
-~ . '$'./ ,23 AUX rran 'use legs' ....................s ... u .................... h . . . .",65.30217742919922
-0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,1,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.9575774542023044," These number markers are complex morphemes and bear stress. This
+~ . '$'./ ,23 AUX rran 'use legs' ....................s ... u .................... h . . . .",65.30217742919922,"183
+Table 28: Major intransitive auxiliary verbs (cited in no particular order)
+ AUX English Gloss
+ nawalk
+ ITU go somewhere
+ nen sit
+ yalie
+ mastand
+Table 29: Minor intran!;itive auxiliary verbs (cited in order of frequency)
+AUXEnglish Gloss
+djicrawl
+ rrame creep
+ rranuse legs
+ nhdha perch
+ nmerise
+ mi come out
+denhdhi fall down
+ All intransitive auxiliaries except nme 'rise' may occur without a
+coverb, but occur more frequently \\'ith coverbs. When they occur without a
+coverb, auxiliaries retain their literal sense, e.g. (5-4) - (5-7).
+",68.66848754882812
+0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,1,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.9531746214398008,0,0.95598016403816,0,0.953480627253656," These number markers are complex morphemes and bear stress. This
 suggests that, at an earlier stage of t'ie language, they may also have been
 independent words, but have since lost their phonological independence, as
 obligatory components of the verb complex.
@@ -7057,8 +7949,23 @@ as do -gara 'one of a pair' and mal]gan 'one of many' in Dyirbal (Dixon, 1972:
 51-2; 230-231, 260 - 261). Dixon describes gara and mal]gan as primarily noun
 suffixes. But the Dyirbal 'terms inflect to show Dative and Genitive case, unlike
 Emmi -gamena, whk1h is invariable.
-",64.93063354492188
-0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,1,0.964420045799514,0,0.95598016403816,0,0.9575774542023044," The same complex morphemes also mark augmented number on nouns,
+",64.93063354492188,"(TY:4)
+3-79nganv=gamena
+ JMIN.PRON=SIM
+ 'Like me (not like anyone else).' (BL:l)
+.2,.3.2 Possessive pronouns.
+ a...,/
+ Possessive pronouns occur in Emmi and Menhdhe, . · · in the nearest
+ """"""""'""""""'""
+ related language, Marranunggu, '- .-in any other Daly region language, where
+ possession can only be expressed by the juxtaposition of possessor
+ noun/pronowi and possessed noun. In Emmi and Menhdhe, juxtaposition is
+ only one of several ways to express the possessive relation. Marking ·the
+ possessor by means of a possessive pronowi is the usual way in Emmi to
+ express possession of alienably possessed entities, e.g. material objects such as
+ cars, e.g. (3-80) - (3-84), or food, e.g. (3-85). ~ .J.""Vo $'. '5' • 2.. ~ f• Q.O I.
+",68.53312683105469
+0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,1,0.964420045799514,0,0.95598016403816,0,0.953480627253656," The same complex morphemes also mark augmented number on nouns,
 Cardinal pronouns and Deictics, where they also bear secondary stress., e.g.
 ngada+mede ['~adamede] 'two of us'.
 nganggu+nganya flJ81Jl)9UIJaJla] 'we four or more women, including
@@ -7220,8 +8127,16 @@ exhortations, e.g. (7-75).
 7-75gak=enhdhe~i ngadhama+wul=wany=eya
 away=now JMJN.S.R,stand+go back=REPET=AWAY
 'Let me go back again away from here now!' (Tl5:89).
-",64.2673110961914
-0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.9575774542023044," 3MINA.R.smell=PERF
+",64.2673110961914," Of the intramorphemic consonant clusters which straddle syllable
+boundaries, the most common is a homorganic nasal + stop cluster, and amongst
+these, the most common clusters, in order of frequency are:
+/nh/dh/;
+/ngg/;
+/nd/;
+ /mb/.
+ /nydj/ is the least frequent homorganic nasal+stop cluster.
+",68.43944549560547
+0.821215291273923,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.953480627253656," 3MINA.R.smell=PERF
 \.-..
 -nene also occurs on subjects of intransitive sentences, e.g. (3-47)- (3-
 48), and (3-53), when these subjects are introduced into discourse.
@@ -7369,8 +8284,35 @@ and subjects of 'those low transitive verbs that have a non-subject core argumen
 (Reid, 1990:326). He defines 'low transitive' verbs as'verbs that are formally
 transitive, but are characterised by a low degree of patient affectivity'(Reid,
 1990:223).
-",64.11466217041016
-0.8323403022745034,1,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.9575774542023044,"269
+",64.11466217041016," 3MINA.R.smell=PERF
+\.-..
+-nene also occurs on subjects of intransitive sentences, e.g. (3-47)- (3-
+48), and (3-53), when these subjects are introduced into discourse.
+3-47atho=nhdha gayimi-nbe
+ soon=really 3M/NS.IR.come out-2MINDAT
+ gavurru=nhdhi
+3MIN.S.IR.go somewhere=TOWARDS
+ kandu nimbugurrinv=nene.
+man2MINPOSS=NEW INF
+ye renimbugurriny=nene.
+ child 2MINPOSS=NEW INF
+ ye re yawanga delyak
+ child 3MIN.F.AnaphDEIC young woman
+ yawanga=nhdhi=nhdha
+ 3MIN.F.AnaphDEIC=TOWARDS=really
+ garru
+ 3MIN.S.R.go somewhere
+'Your man will set about coming out here for you soon. Your child [will
+ come out]. That female child I mentioned, that young woman I mentioned
+ really is corning towards us.' (Tl 1: 100 - 102)
+117
+(3-47) consists of three sentences. In the first two, human referents are
+introduced into the discourse for the first time by the enclitic -nene. In the first
+sentence, the NP kandu nimbugurriny=nene 'your man' is the new subject of
+the intransitive verb mi-come out'. The subject of the second, verb-less,
+sentence, yere nimbugirriny 'your child'is also marked as new by enclitic
+ -nen~.",68.15435791015625
+0.8323403022745034,1,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.953480627253656,"269
 Table 36: Propositional enclitics by order
 12 34 56 7 89
 -nhdha -nhdheni-(e)no -(e)ndh -rre -(e)yi · -ve-(e)ya -ga
@@ -7466,8 +8408,12 @@ common, sharing only 12% cognates in Dixon's Comparative Australian 90
 word list and 11 % in the Comparative Australian 400 word list. For a
 detailed account of phonological, morphological and syntactic differences
 between Emmi and Patjtjamalh, see Ford~ in press.
-",60.30205535888672
-0.8323403022745034,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.9575774542023044,"Chapter Two describes the segmental phonology of the language. It
+",60.30205535888672,"In (6-96), gumbVi is co-referential with the person ordered to do
+something, so it is cross-referenced with Reflexive pronominal marking.
+ The same obligatory cross-referencing exists in Marrithiyel (Green,
+ 1989:263).
+",67.7470474243164
+0.8323403022745034,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.953480627253656,"Chapter Two describes the segmental phonology of the language. It
 provides evidence for the existence of a voicing contrast between stops and the
 existence of two phonemic :fricatives. It shows how the stress patterns of
 complex morphemes which have been subsumed into the verb reveal that they
@@ -7525,8 +8471,20 @@ between Emmi and Patjtjamalh, see Ford~ in press.
  in different speech styles, within a language.
 ",59.560333251953125," Classifiers, but not noun classes, may be used in different ways
  in different speech styles, within a language.
-",59.42490768432617
-0.8323403022745034,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.9575774542023044," Classifiers, but not noun classes, may be used in different ways
+",59.42490768432617,"Used as a propositional enclitic, -(e)no functions as a purposive marker.
+Ad.nominal and propositional enclitic .. (e)no frequently occur on different words
+in the same sentence, e.g. (3-25) and (3-26).
+ llO
+3-26awa=no ngammani=no
+meat=DAT J/2MIN.S.walk=PURP
+'Let's both go for meat!' (RY:2)
+In (3-25) and (3-26), it is possible to construe both instano,ts of -(c)no as
+the Purposive enclitic, because propositional enclitics may attach to all clause-
+constituents, whereas adnominal enclitics attach only to the phrase they modify.
+With either construal, the meaning of (3-25) and (3-26) remains the same,
+;.2.2.4 Ablative/Causal -ngana.
+",67.6438980102539
+0.8323403022745034,0,0,0.9710358646826752,0,0.9577525141882276,0,0.803577862126482,0,0.8807416310056224,0,0.8336918416402711,0,0.964420045799514,0,0.95598016403816,0,0.953480627253656," Classifiers, but not noun classes, may be used in different ways
  in different speech styles, within a language.
 "," Enuni and Patjtjamalh (see Ford, 1990) do not appear to be in any
 way related, except as Australian languages. This contradicts Tryon (1970),
@@ -7816,4 +8774,17 @@ ttttiltUIU•tUUtttttttltUl•tttttttttltUUttltUUtttt'ttttttolltlttt200
 precedes Rule 3.
 ",57.04043960571289,"Ordered rule 4 can be formulated to account for these data: Rule 3
 precedes Rule 3.
-",56.30357360839844
+",56.30357360839844," Enuni and Patjtjamalh (see Ford, 1990) do not appear to be in any
+way related, except as Australian languages. This contradicts Tryon (1970),
+but nobody has proved that the two languages are related by reconstructing
+the immediate proto-language of which they are the supposed daughters.
+There are grammatical and conceptual similarities between the two
+languages, which may well be the result of long..term contact, but close
+examination reveals important differences in phonology, morphology,
+ 33
+synta.'C and semantics. Lexically, Emmi and Patjtjamalh have little in
+common, sharing only 12% cognates in Dixon's Comparative Australian 90
+word list and 11 % in the Comparative Australian 400 word list. For a
+detailed account of phonological, morphological and syntactic differences
+between Emmi and Patjtjamalh, see Ford~ in press.
+",67.38706970214844
