@@ -39,10 +39,10 @@ seen’, fronting ‘two rats’ due to pragmatic reasons:
 (12:21) Jam ishtyi’ yae nai-tya-ksi.",79.28031158447266," Transitive clauses have two arguments, a subject (A) and an object
 (O). The basic constituent order in Moseten is A V O.251 This word
 order can easily be varied, with different pragmatic effects.
-",tensor([53.6408])," Transitive clauses have two arguments, a subject (A) and an object
+",53.370792388916016," Transitive clauses have two arguments, a subject (A) and an object
 (O). The basic constituent order in Moseten is A V O.251 This word
 order can easily be varied, with different pragmatic effects.
-",tensor([54.5280])," When several participants are identified in the context, subject
+",54.395572662353516," When several participants are identified in the context, subject
 participants are often realized as personal pronouns and can also occur
 in subject position. In this case, the pronoun disambiguates which
 identified participant the speaker is talking about.252 In clauses with a
@@ -126,7 +126,7 @@ constituent order is A V O. This order can be changed due to pragmatic
 status. Identifiable referents are often pro-dropped, i.e. they are
 exclusively referred to by the verbal cross-reference ending and do not
 occur as a pronoun or as a full noun phrase.
-",tensor([48.2545]),"A maximum of two arguments, subject and object, can be referred to
+",48.2033576965332,"A maximum of two arguments, subject and object, can be referred to
 by the verbal cross-reference ending. In this way, three-argument
 ditransitive clauses formally have two core arguments. The word order
 in intransitive clauses is usually S V. In transitive clauses, the basic
@@ -134,7 +134,7 @@ constituent order is A V O. This order can be changed due to pragmatic
 status. Identifiable referents are often pro-dropped, i.e. they are
 exclusively referred to by the verbal cross-reference ending and do not
 occur as a pronoun or as a full noun phrase.
-",tensor([49.9913])," Transitive clauses have two arguments, a subject (A) and an object
+",50.07582473754883," Transitive clauses have two arguments, a subject (A) and an object
 (O). The basic constituent order in Moseten is A V O.251 This word
 order can easily be varied, with different pragmatic effects.
 ",76.97648620605469," The following example shows the basic constituent order A V O:
@@ -155,7 +155,7 @@ personal pronoun in subject position and a pro-dropped object.
 (O). The basic constituent order in Moseten is A V O.251 This word
 order can easily be varied, with different pragmatic effects.
 ",85.38927459716797
-0.9061442547954487,5,1,0.8122885095908974,5,1.0,4,0.8592163821931731,1,0.8122885095908974,5,1.0,5,1.0,5,1.0,2,0.7653606369886218,"A maximum of two arguments, subject and object, can be referred to
+0.9061442547954488,5,1,0.8122885095908974,5,1.0,4,0.8592163821931731,1,0.8122885095908974,5,1.0,5,1.0,5,1.0,2,0.7653606369886218,"A maximum of two arguments, subject and object, can be referred to
 by the verbal cross-reference ending. In this way, three-argument
 ditransitive clauses formally have two core arguments. The word order
 in intransitive clauses is usually S V. In transitive clauses, the basic
@@ -247,7 +247,7 @@ have the basic constituent order S V, in the same way as intransitive
  clauses with subjects realized as full noun phrases:
 Verbal clauses 375
 (12:10) Jike-katyi’ m o’wa-ti-’.
-",tensor([46.9365]),"Interrogative clauses are constructed by combining a clause with a
+",46.78161239624024,"Interrogative clauses are constructed by combining a clause with a
 question marker. The interrogated element is fronted, i.e. appears in
 clause-initial position, followed by the question particle. In an
 information question, this interrogated element is replaced by an
@@ -272,7 +272,7 @@ a fronted core element of the clause, in which case the core element
 disappears from its original position in the clause. I will now look at the
 interrogated element, as well as at further word-order tendencies in the
 different types of questions.
-",tensor([49.3088]),"Interrogative clauses are constructed by combining a clause with a
+",49.482025146484375,"Interrogative clauses are constructed by combining a clause with a
 question marker. The interrogated element is fronted, i.e. appears in
 clause-initial position, followed by the question particle. In an
 information question, this interrogated element is replaced by an
@@ -817,7 +817,7 @@ caused by pragmatic status is the focalization and fronting of the object:
 O A V. This is for instance the case in the following example, where the
 speaker expresses ‘I have not seen them - only these two rats have I
 seen’, fronting ‘two rats’ due to pragmatic reasons:
-(12:21) Jam ishtyi’ yae nai-tya-ksi.",tensor([46.3308]),"Intransitive clauses consist of intransitive verbs and a subject
+(12:21) Jam ishtyi’ yae nai-tya-ksi.",46.37272262573242,"Intransitive clauses consist of intransitive verbs and a subject
 participant. As a full noun phrase, the subject can appear before or after
 the verb. Both orders occur in Moseten, with a tendency for S V to be
 the pragmatically least marked constituent order:
@@ -844,7 +844,7 @@ have the basic constituent order S V, in the same way as intransitive
  clauses with subjects realized as full noun phrases:
 Verbal clauses 375
 (12:10) Jike-katyi’ m o’wa-ti-’.
-",tensor([49.0455])," The following example shows the basic constituent order A V O:
+",49.11962890625," The following example shows the basic constituent order A V O:
 (12:14) Aj katyi'chhith majmi watyeke tits____ soiii ’
  yet EH half roadsuddenly DE.M man
  naij-tepaerae’ tara’tara’.
@@ -1015,7 +1015,7 @@ a fronted core element of the clause, in which case the core element
 disappears from its original position in the clause. I will now look at the
 interrogated element, as well as at further word-order tendencies in the
 different types of questions.
-",tensor([46.2241]),"The nominal morphology is rather simple, and most nominal
+",46.22471618652344,"The nominal morphology is rather simple, and most nominal
  modification is carried out by clitics. The same is the case with
  adjectives, adverbs and particles. Exceptional in nominal and adjectival
 14Introduction
@@ -1026,7 +1026,7 @@ usually determiner-modifier-noun, though usually long modifiers, such
 as relative clauses, appear after the head noun. Furthermore, the noun
 phrase can also be split up and a verb can appear between the different
 parts of the phrase.
-",tensor([47.9124])," PS-EH-IRsay-F.S-3F.SG woman
+",48.21184158325195," PS-EH-IRsay-F.S-3F.SG woman
  ‘Then the woman said... ’ STE/VJ
 376 Clause types
 12.1.3. Word order in transitive clauses
@@ -1156,7 +1156,7 @@ usually determiner-modifier-noun, though usually long modifiers, such
 as relative clauses, appear after the head noun. Furthermore, the noun
 phrase can also be split up and a verb can appear between the different
 parts of the phrase.
-",tensor([42.7719]),"M-AD-IR 2SG live-VI.M.S say-10-lSG
+",42.86913299560547,"M-AD-IR 2SG live-VI.M.S say-10-lSG
 “‘Here you will stay” he told me.’ STE/VC
 Apart form a change in the word order with pronominal subjects, there
 are also other constituent orders in transitive verbal clauses. These are
@@ -1169,7 +1169,7 @@ caused by pragmatic status is the focalization and fronting of the object:
 O A V. This is for instance the case in the following example, where the
 speaker expresses ‘I have not seen them - only these two rats have I
 seen’, fronting ‘two rats’ due to pragmatic reasons:
-(12:21) Jam ishtyi’ yae nai-tya-ksi.",tensor([47.4093]),"Intransitive clauses consist of intransitive verbs and a subject
+(12:21) Jam ishtyi’ yae nai-tya-ksi.",47.60902786254883,"Intransitive clauses consist of intransitive verbs and a subject
 participant. As a full noun phrase, the subject can appear before or after
 the verb. Both orders occur in Moseten, with a tendency for S V to be
 the pragmatically least marked constituent order:
@@ -1261,7 +1261,7 @@ have the basic constituent order S V, in the same way as intransitive
 Verbal clauses 375
 (12:10) Jike-katyi’ m o’wa-ti-’.
 ",82.16030883789062
-0.9084315859943711,5,1,0.7504922942024986,1,0.8444208555755542,3,0.834178342740705,1,0.7429039741328586,5,0.832188152890502,4,0.8505163214202355,3,0.880763964899288,5,0.7166934401357025,"Interrogative clauses are constructed by combining a clause with a
+0.9084315859943712,5,1,0.7504922942024986,1,0.8444208555755542,3,0.834178342740705,1,0.7429039741328586,5,0.832188152890502,4,0.8505163214202355,3,0.880763964899288,5,0.7166934401357025,"Interrogative clauses are constructed by combining a clause with a
 question marker. The interrogated element is fronted, i.e. appears in
 clause-initial position, followed by the question particle. In an
 information question, this interrogated element is replaced by an
@@ -1316,7 +1316,7 @@ those clauses that appear with a full NP or a pronoun in subject position,
 i.e. where the subject does not undergo pro-drop.249 I will start with
 clauses, in which the subject is realized as a full noun phrase, and move
 on to those clauses, where the subject is a pronoun.
-",tensor([41.7485])," When several participants are identified in the context, subject
+",41.887115478515625," When several participants are identified in the context, subject
 participants are often realized as personal pronouns and can also occur
 in subject position. In this case, the pronoun disambiguates which
 identified participant the speaker is talking about.252 In clauses with a
@@ -1353,7 +1353,7 @@ As opposed to independent personal pronouns in transitive clauses,
 these clitics can, in very few cases, also cover object functions in the
 clause. They exclusively appear with 1st and 2nd person:253
 (12:20) “I-ya’-ra ’ mi bae’-i!”yi-n-yae.
-",tensor([43.8894]),"M-AD-IR 2SG live-VI.M.S say-10-lSG
+",44.18998336791992,"M-AD-IR 2SG live-VI.M.S say-10-lSG
 “‘Here you will stay” he told me.’ STE/VC
 Apart form a change in the word order with pronominal subjects, there
 are also other constituent orders in transitive verbal clauses. These are
@@ -1511,14 +1511,14 @@ or other elements can appear in between. The elements that can appear
 in between are often adverbials, such as aj ‘yet’, though also other the
 subject of the clause may appear between the negator and the negative
 quantifier, as in example (10:28) above.
-",tensor([41.2833]),"374 Clause types
+",41.53239059448242,"374 Clause types
 12.1.2. Word order in intransitive clauses
 In the present section on intransitive clauses, I will exclusively consider
 those clauses that appear with a full NP or a pronoun in subject position,
 i.e. where the subject does not undergo pro-drop.249 I will start with
 clauses, in which the subject is realized as a full noun phrase, and move
 on to those clauses, where the subject is a pronoun.
-",tensor([43.8050]),"The nominal morphology is rather simple, and most nominal
+",44.0369873046875,"The nominal morphology is rather simple, and most nominal
  modification is carried out by clitics. The same is the case with
  adjectives, adverbs and particles. Exceptional in nominal and adjectival
 14Introduction
@@ -1665,7 +1665,7 @@ As opposed to independent personal pronouns in transitive clauses,
 these clitics can, in very few cases, also cover object functions in the
 clause. They exclusively appear with 1st and 2nd person:253
 (12:20) “I-ya’-ra ’ mi bae’-i!”yi-n-yae.
-",tensor([41.0308])," The following example shows the basic constituent order A V O:
+",41.0142707824707," The following example shows the basic constituent order A V O:
 (12:14) Aj katyi'chhith majmi watyeke tits____ soiii ’
  yet EH half roadsuddenly DE.M man
  naij-tepaerae’ tara’tara’.
@@ -1679,7 +1679,7 @@ pronouns in object position are extremely rare. Therefore, I will
 consider only two types of clauses with personal pronouns here: 1. a
 personal pronoun in subject position and a full NP object and 2. a
 personal pronoun in subject position and a pro-dropped object.
-",tensor([43.7476]),"374 Clause types
+",43.78036880493164,"374 Clause types
 12.1.2. Word order in intransitive clauses
 In the present section on intransitive clauses, I will exclusively consider
 those clauses that appear with a full NP or a pronoun in subject position,
@@ -1809,13 +1809,13 @@ pronouns in object position are extremely rare. Therefore, I will
 consider only two types of clauses with personal pronouns here: 1. a
 personal pronoun in subject position and a full NP object and 2. a
 personal pronoun in subject position and a pro-dropped object.
-",tensor([40.5430])," PS-EH-IRsay-F.S-3F.SG woman
+",40.26326370239258," PS-EH-IRsay-F.S-3F.SG woman
  ‘Then the woman said... ’ STE/VJ
 376 Clause types
 12.1.3. Word order in transitive clauses
 In the present section, on word order in transitive clauses, I will mainly
 discuss clauses that are not affected by pro-drop (12.1.1).
-",tensor([43.3208]),"The head can also be adjacent to the relative clause, for example,
+",43.37002182006836,"The head can also be adjacent to the relative clause, for example,
 when the word order is changed in the main clause:
 (13:54) M e’-ki ja e ’ma menbae’-e-dye’ aj-win m o’-tyaka ’
 so-CO DMmoment live-VI-NO yet-C 3F.SG-EM
@@ -1881,7 +1881,7 @@ Verbal clauses 375
 In the present section, on word order in transitive clauses, I will mainly
 discuss clauses that are not affected by pro-drop (12.1.1).
 ",80.68754577636719
-0.856083591421889,1,1,0.7606396173870938,1,0.8188337178356736,5,0.8353720589523648,1,0.7635297599215873,1,0.7822766936366053,3,0.8072743961860931,4,0.862785702895782,5,0.7696092749428677," DMsend-VD.DT-10 DM Germany.E-DR
+0.856083591421889,1,1,0.7606396173870938,1,0.8188337178356736,5,0.8353720589523648,3,0.789273831754719,1,0.7822766936366053,3,0.8072743961860931,4,0.862785702895782,5,0.7696092749428677," DMsend-VD.DT-10 DM Germany.E-DR
  ‘So, when she came, she sent a postcard to me from Germany.’
  STE/JH
 Usually, the patient-‘secondary object’ appears after the primary object
@@ -1941,13 +1941,22 @@ pronouns in object position are extremely rare. Therefore, I will
 consider only two types of clauses with personal pronouns here: 1. a
 personal pronoun in subject position and a full NP object and 2. a
 personal pronoun in subject position and a pro-dropped object.
-",71.4774398803711," PS-EH-IRsay-F.S-3F.SG woman
- ‘Then the woman said... ’ STE/VJ
-376 Clause types
-12.1.3. Word order in transitive clauses
-In the present section, on word order in transitive clauses, I will mainly
-discuss clauses that are not affected by pro-drop (12.1.1).
-",tensor([40.1782]),"1SG house-COM
+",71.4774398803711," With pronominal subjects, the two main types of relative clauses
+differ in their internal constituent order. In relative clauses marked by
+ V-L, the pronominal subject usually appears after the verb, in the same
+way as in declarative clauses:
+(13:56) M i’yae tye-te kirjkajiri-ty soni’
+3M.SG ISG give-3M.O bookone-M man
+chhii-ye-te-tyi’mi.
+know-VY-3M.O-L.M 2SG
+‘I gave the book to a man, w hom you k n ow .’ ELE/DM
+In relative clauses marked by yodye ’, on the other hand, the pronominal
+subject usually precedes the verb:
+Relative clauses 427
+(13:57) M i’ yaetye-tekirjka jiri-ty soni’
+ 3M.SG 1SGgive-3M.O bookone-M man
+yo-dye’-tyi’mi chhn-ye-te.
+",40.20734024047852,"1SG house-COM
 ‘I have a house.’ ELE/CT
 When a noun phrase contains both determiner and modifier, nominal
 relation marking appears with the determiner:
@@ -1956,7 +1965,7 @@ live-VI.M.S-lP DE.F-IN housenew-L.F
 ‘We live in this new house.’ ELE/JH
 The order of elements inside the noun phrase is rather free, though there
 are some tendencies that I will elaborate on here.
-",tensor([42.5414]),"DE.M-FO fatherNG send-VD.DT-3M.O
+",42.899539947509766,"DE.M-FO fatherNG send-VD.DT-3M.O
 ‘And the priest did not send him?’ COE/JH
  (12:84)aJam, jam, ji-te-te yoj-tsa’ m i’-we
 NG NG send-VD.DT-3M.O R-FR 3M-DR
@@ -2038,7 +2047,7 @@ disappears from its original position in the clause. I will now look at the
 interrogated element, as well as at further word-order tendencies in the
 different types of questions.
 ",80.34884643554688
-0.8372322103908368,1,3,0.7692714137498035,1,0.8013256389827972,3,0.8413088595507889,3,0.7720573321786006,1,0.7660869314786989,3,0.8142244526149893,1,0.843692630817902,4,0.7899382501210865,"374 Clause types
+0.8372322103908368,1,3,0.7692714137498035,1,0.8013256389827972,3,0.8413088595507889,1,0.7728317393210251,1,0.7660869314786989,3,0.8142244526149893,1,0.843692630817902,4,0.7899382501210865,"374 Clause types
 12.1.2. Word order in intransitive clauses
 In the present section on intransitive clauses, I will exclusively consider
 those clauses that appear with a full NP or a pronoun in subject position,
@@ -2100,22 +2109,13 @@ elements following the question marker is slightly different from word
 order in declarative clauses, where a pronominal subject usually follows
 the verb. In interrogative clauses, there is a tendency for pronominal
 subjects to appear before the verb in transitive and intransitive clauses.
-",71.47225952148438," With pronominal subjects, the two main types of relative clauses
-differ in their internal constituent order. In relative clauses marked by
- V-L, the pronominal subject usually appears after the verb, in the same
-way as in declarative clauses:
-(13:56) M i’yae tye-te kirjkajiri-ty soni’
-3M.SG ISG give-3M.O bookone-M man
-chhii-ye-te-tyi’mi.
-know-VY-3M.O-L.M 2SG
-‘I gave the book to a man, w hom you k n ow .’ ELE/DM
-In relative clauses marked by yodye ’, on the other hand, the pronominal
-subject usually precedes the verb:
-Relative clauses 427
-(13:57) M i’ yaetye-tekirjka jiri-ty soni’
- 3M.SG 1SGgive-3M.O bookone-M man
-yo-dye’-tyi’mi chhn-ye-te.
-",tensor([40.1081]),"NX-VI-F.S more thing
+",71.47225952148438," PS-EH-IRsay-F.S-3F.SG woman
+ ‘Then the woman said... ’ STE/VJ
+376 Clause types
+12.1.3. Word order in transitive clauses
+In the present section, on word order in transitive clauses, I will mainly
+discuss clauses that are not affected by pro-drop (12.1.1).
+",40.07632446289063,"NX-VI-F.S more thing
 ‘There do not exist more things.” STE/JH
 Finally looking at the word order with negative quantifiers, the negation
 always appears before the quantifier(s). These markers can be adjacent,
@@ -2123,7 +2123,7 @@ or other elements can appear in between. The elements that can appear
 in between are often adverbials, such as aj ‘yet’, though also other the
 subject of the clause may appear between the negator and the negative
 quantifier, as in example (10:28) above.
-",tensor([42.4979])," When replacing
+",42.7640380859375," When replacing
 optional elements, the core elements of the clause appear after the
  Interrogative clauses 393
 interrogative pronoun and the question marker. In the following
@@ -2266,7 +2266,7 @@ an underscore, verbs are bold and objects are regular:
 like 3M.SG one-M manhunt-VI-AN.M.S EH so-DR
 katyi ’ chhijn-a-ki tsikin’-we ojni’.
 ",80.3121109008789
-0.8201689799499858,1,3,0.7770844397669852,3,0.80805323167862,4,0.85796999407785,4,0.7910634903279264,3,0.7740077917406083,3,0.8205152603933602,3,0.8489855750600718,2,0.7857639772043177," PS-EH-IRsay-F.S-3F.SG woman
+0.8201689799499858,1,3,0.7770844397669852,3,0.80805323167862,4,0.85796999407785,4,0.7918116741780837,3,0.7740077917406083,3,0.8205152603933602,3,0.8489855750600718,2,0.7857639772043177," PS-EH-IRsay-F.S-3F.SG woman
  ‘Then the woman said... ’ STE/VJ
 376 Clause types
 12.1.3. Word order in transitive clauses
@@ -2456,7 +2456,7 @@ constructions, the word order in the relative clause can be changed, so
 that the relative clause appears before its head, often leading to another
 constituent order inside the relative clause as well, where the verb then
 appears before the subject.
-",tensor([38.3460]),"DE.M-FO fatherNG send-VD.DT-3M.O
+",38.55647277832031,"DE.M-FO fatherNG send-VD.DT-3M.O
 ‘And the priest did not send him?’ COE/JH
  (12:84)aJam, jam, ji-te-te yoj-tsa’ m i’-we
 NG NG send-VD.DT-3M.O R-FR 3M-DR
@@ -2480,7 +2480,7 @@ sure-QY
  markers (11.2. and 11.3.), appear at the beginning of the clause, while
  adverbials, such as ‘in the house’ or ‘yesterday’, can be placed in
  different positions in the clause.
-",tensor([42.2333])," With pronominal subjects, the two main types of relative clauses
+",42.642696380615234," With pronominal subjects, the two main types of relative clauses
 differ in their internal constituent order. In relative clauses marked by
  V-L, the pronominal subject usually appears after the verb, in the same
 way as in declarative clauses:
@@ -3130,7 +3130,7 @@ A /Vs/Vs
 tv
 A .
 ",80.30596923828125
-0.8259137730489693,3,4,0.7948540926566167,4,0.8248335708113239,1,0.841210209991208,3,0.7977380730476151,3,0.7812272273978799,1,0.8049519867615612,1,0.8325128027935115,4,0.8032563578705114,"Following an emphatic particle such as m e’, nash can be used to
+0.8259137730489693,3,4,0.7948540926566167,4,0.8248335708113239,1,0.841210209991208,3,0.798462355785395,3,0.7812272273978799,1,0.8049519867615612,1,0.8325128027935115,4,0.8032563578705114,"Following an emphatic particle such as m e’, nash can be used to
 introduce a story or a conversation, focusing on what will be said:
 (12:103)M e’ nash yae kha ra i’s-e-’dyaba
 soGF 1SG well want-VI-3F.0 peanut
@@ -3254,7 +3254,7 @@ elements following the question marker is slightly different from word
 order in declarative clauses, where a pronominal subject usually follows
 the verb. In interrogative clauses, there is a tendency for pronominal
 subjects to appear before the verb in transitive and intransitive clauses.
-",tensor([38.3234])," With pronominal subjects, the two main types of relative clauses
+",38.40385437011719," With pronominal subjects, the two main types of relative clauses
 differ in their internal constituent order. In relative clauses marked by
  V-L, the pronominal subject usually appears after the verb, in the same
 way as in declarative clauses:
@@ -3269,7 +3269,7 @@ Relative clauses 427
 (13:57) M i’ yaetye-tekirjka jiri-ty soni’
  3M.SG 1SGgive-3M.O bookone-M man
 yo-dye’-tyi’mi chhn-ye-te.
-",tensor([41.1423]),"NG think(PR) -2SG thingyear
+",41.53855895996094,"NG think(PR) -2SG thingyear
  ‘Don’t you remember what year it was?’ COE/JH
 These clauses can also be interpreted as direct question, marked by a
 question marker, such as -dyash:
@@ -3308,7 +3308,7 @@ yet-P rage-VI-3M.O-P kill-VI-3M.O want-VI-3F.O-P
 The complement clause aejate ‘kill him’ precedes the matrix verb
 ra i’s e ’ ‘want it’.
 ",80.07510375976562
-0.8110093729525769,1,1,0.7808894901366382,3,0.8301337214742117,1,0.825842973375428,3,0.8038580738444514,4,0.7979327431574452,1,0.7906818441881491,3,0.8375805967961113,2,0.7991234544041861," The internal constituent order of adverbial clauses does not differ
+0.8110093729525769,1,1,0.7808894901366382,3,0.8301337214742117,1,0.825842973375428,3,0.8045604413804969,4,0.7979327431574452,1,0.7906818441881491,3,0.8375805967961113,2,0.7991234544041861," The internal constituent order of adverbial clauses does not differ
 from declarative clauses (12.1. and 12.2.). When the marker of the
 adverbial clause is a particle, it appears at the beginning of the clause,
 without changing the word order in the rest of the clause.
@@ -3444,7 +3444,7 @@ sure-QY
  markers (11.2. and 11.3.), appear at the beginning of the clause, while
  adverbials, such as ‘in the house’ or ‘yesterday’, can be placed in
  different positions in the clause.
-",tensor([37.9601]),"The head can also be adjacent to the relative clause, for example,
+",38.04312515258789,"The head can also be adjacent to the relative clause, for example,
 when the word order is changed in the main clause:
 (13:54) M e’-ki ja e ’ma menbae’-e-dye’ aj-win m o’-tyaka ’
 so-CO DMmoment live-VI-NO yet-C 3F.SG-EM
@@ -3476,7 +3476,7 @@ constructions, the word order in the relative clause can be changed, so
 that the relative clause appears before its head, often leading to another
 constituent order inside the relative clause as well, where the verb then
 appears before the subject.
-",tensor([39.8182]),"In the following example, -ka’ is added to the general information
+",40.051204681396484,"In the following example, -ka’ is added to the general information
 question marker -dyash, changing the information question into a
 rhetorical question. In this question, the speaker does not directly ask
  for the answer to the question ‘what is it called’, but instead expresses
@@ -3623,7 +3623,7 @@ The notion o f ‘core’ elements is somewhat misleading, since this term inclu
 verbs, subjects and objects. The latter two are core elements, but can be “deleted”
 from the clause by pro-drop, as they occur in the verbal cross-reference ending.
 ",79.77239227294922
-0.8049888228259222,1,3,0.7948101023359905,1,0.8237429603220146,1,0.8195352729482641,1,0.7979759592714987,1,0.7921653317205409,4,0.8140919443630045,1,0.8310456782967037,1,0.7933329930614885," In word order, jam is either placed at the beginning of the negated
+0.8049888228259222,1,3,0.7948101023359905,1,0.8237429603220146,1,0.8195352729482641,1,0.7986647303074839,1,0.7921653317205409,4,0.8140919443630045,1,0.8310456782967037,1,0.7933329930614885," In word order, jam is either placed at the beginning of the negated
 clause (10:2) or alternatively (without a change in meaning) before the
 verb (10:3). Example (10:1) shows jam in combination with an
 affirmative clause:
@@ -3693,7 +3693,7 @@ relative clauses, structures marked by yoj ‘like’, have adverbial
  in relative clauses, and look both at the placement of the relative clause
  within the main clause, as well as at the constituent order in the relative
  clause.
-",tensor([37.8690]),"3F.SG child other-LF-L.M have-3M.O Elena
+",37.97089385986328,"3F.SG child other-LF-L.M have-3M.O Elena
 ‘She cares for the son of another woman, Elena.’ e l e / jh
 Possessive clauses have a separate negation marker daerae’ (10.3.).
 12.3. Interrogative clauses
@@ -3712,7 +3712,7 @@ Interrogative clauses 383
 applied to both verbal and predicate clauses. The majority of questions
 appear with a question marker, and only a few structures are not marked
 this way.
-",tensor([39.7781])," NX-VI.M. S-still-1SG
+",40.030555725097656," NX-VI.M. S-still-1SG
 ‘In 1962 my mother died, I wasn’t bom yet (sic!).’ COE/EC
 In the same way, this clitic frequently occurs together with the general
 negation jam, resulting in the meaning ‘not yet’:
@@ -3854,7 +3854,7 @@ relative clauses, structures marked by yoj ‘like’, have adverbial
  within the main clause, as well as at the constituent order in the relative
  clause.
 ",79.70329284667969
-0.8086203067560962,2,4,0.8172530607837923,1,0.8177142425072051,3,0.8322068375075237,1,0.7924270726725184,1,0.7867246502043734,1,0.8082429470640796,1,0.8248809697999447,2,0.7971815310041338," Notes 481
+0.8086203067560962,2,4,0.8172530607837923,1,0.8177142425072051,3,0.8322068375075237,1,0.7931030174644648,3,0.8053465773307976,1,0.8082429470640796,1,0.8248809697999447,2,0.7971815310041338," Notes 481
 242
 This marker has no gender agreement forms and is not related to the linker (4.8.).
 243
@@ -4090,39 +4090,43 @@ want-VI-3F.O-QY sleep-VI-F.S-2SG
 sleep-VI-F.S-QY want-VI-3F.O-2SG
 ‘Do you want to SLEEP?’ ELE/JH
  (12:73) Mi-dyajrai’s-e-’ khosh-'i-’?
-",70.21289825439453," DMsend-VD.DT-10 DM Germany.E-DR
- ‘So, when she came, she sent a postcard to me from Germany.’
- STE/JH
-Usually, the patient-‘secondary object’ appears after the primary object
-in word order.
-",tensor([36.5573]),"3F.SG housebig
-‘The house is big.’ ELE/CT
-The subject precedes the predicate in the unmarked constituent order. In
-focus constructions, the order of predicate and subject is reversed:
-(12:25) Daer katyi’ wo’ko-md’.
- big EH stomach-3F.SG
-‘Big was her stomach.’ WTE/CT
-Very frequent adjective predicate structures can be formed by cliticizing
-a 1st or 2nd person subject pronoun to the predicate.254 This is, for
-example, the case in the question ‘how are you’ (A) and the answer ‘I’m
-fine’ (B):
-(12:26) Nai-jo-’ ja em ’-dye-mi Ricardina nai-jo-’.
- moming-VJ-F.S good-QT-2SG Ricardina momingVJ-F.S
-‘Good morning Ricardina, how are you, good morning!’
-COE/JH
-(12:27) Nai-jo ’ jaem ’-yae.
-moming-VJ-F.S good-lSG
-‘Good morning, I’m fine.’ COE/RI
-380 Clause types
-12.2.3. Locative predicates
-Locative predicates express that someone or something is in a certain
-location by juxtaposing a subject noun phrase and a locative predicate.
-In Moseten, locations are expressed by a place adverb (6.4.1.) or by a
-noun phrase marked by a local nominal relation marker (4.1.5. - 4.1.8.).
-In the following example, the subject tsin ‘we’ is juxtaposed to the
-predicate dikhan otel ‘in this hotel’:
-(12:28) M e’ nash tsin di-khan otel.
-",tensor([39.6615])," 3F-P-B-L.F PS buy-VI.M.S 2SG book-P
+",70.21289825439453,"3F.SG child other-LF-L.M have-3M.O Elena
+‘She cares for the son of another woman, Elena.’ e l e / jh
+Possessive clauses have a separate negation marker daerae’ (10.3.).
+12.3. Interrogative clauses
+Depending on the type of question, interrogative clauses can contain
+interrogative pronouns and question markers. Interrogative pronouns
+have been treated in section 5.4. In the present section, I will look at the
+different types of question markers. Following this discussion, I will
+look at constituent order and general composition of questions.
+12.3.1. Question markers
+There are different types of questions, such as information questions
+and yes / no questions. Furthermore, information questions can vary
+according to the speaker’s judgement about the anticipated response to
+the question, marked by the choice of question marker. Questions can
+also be marked as rhetorical questions. All question markers can be
+Interrogative clauses 383
+applied to both verbal and predicate clauses. The majority of questions
+appear with a question marker, and only a few structures are not marked
+this way.
+",36.57763671875," When replacing
+optional elements, the core elements of the clause appear after the
+ Interrogative clauses 393
+interrogative pronoun and the question marker. In the following
+example, the interrogative pronoun jedyei ‘why’ queries an optional
+element of the clause, while not affecting the core parts ‘they suck the
+bibosi-tree’:
+(12:65) Jedye-i am m i’in tvim ’-tebiki?
+ thing-VI.M.S QN 2P suck-VD.3M.O bibosi.tree
+‘Why are you sucking the bibosi-tree?’ WTE/JH
+The constituent order in this question is as follows: the interrogative
+pronoun is in clause-initial position, and is followed by the question
+marker am and the rest of the clause. The constituent order of the
+elements following the question marker is slightly different from word
+order in declarative clauses, where a pronominal subject usually follows
+the verb. In interrogative clauses, there is a tendency for pronominal
+subjects to appear before the verb in transitive and intransitive clauses.
+",39.788848876953125," 3F-P-B-L.F PS buy-VI.M.S 2SG book-P
  ‘I met the women for whom you have bought the book(s).’
  ELE/JH
 424 Clause combinations
@@ -4237,7 +4241,7 @@ In these examples, I only mark in bold the elements in which -w i’- occurs.
 The construction ‘sit for a while’ is expressed by analytic progressive aspect
 marking (8.5.1.), consisting of two juxtaposed verbs: bae’i- and the content verb.
 ",79.61845397949219
-0.812055921178924,2,1,0.8115577899175882,4,0.8389384274324546,3,0.8441949423144479,1,0.7871774735563852,3,0.7995292431978542,1,0.8027094241666495,4,0.845976498903701,1,0.7918465806924795,"This formal deletion, however, does not change their status as core elements of the
+0.812055921178924,2,1,0.8115577899175882,4,0.8389384274324546,3,0.8441949423144479,1,0.7878412839069137,1,0.7998650495508265,1,0.8027094241666495,4,0.845976498903701,1,0.7918465806924795,"This formal deletion, however, does not change their status as core elements of the
 clause.
 262
 When the answer is positive, a marker such as anik ‘sure’ is used.
@@ -4475,43 +4479,39 @@ Relative clauses 427
 (13:57) M i’ yaetye-tekirjka jiri-ty soni’
  3M.SG 1SGgive-3M.O bookone-M man
 yo-dye’-tyi’mi chhn-ye-te.
-",70.05065155029297,"3F.SG child other-LF-L.M have-3M.O Elena
-‘She cares for the son of another woman, Elena.’ e l e / jh
-Possessive clauses have a separate negation marker daerae’ (10.3.).
-12.3. Interrogative clauses
-Depending on the type of question, interrogative clauses can contain
-interrogative pronouns and question markers. Interrogative pronouns
-have been treated in section 5.4. In the present section, I will look at the
-different types of question markers. Following this discussion, I will
-look at constituent order and general composition of questions.
-12.3.1. Question markers
-There are different types of questions, such as information questions
-and yes / no questions. Furthermore, information questions can vary
-according to the speaker’s judgement about the anticipated response to
-the question, marked by the choice of question marker. Questions can
-also be marked as rhetorical questions. All question markers can be
-Interrogative clauses 383
-applied to both verbal and predicate clauses. The majority of questions
-appear with a question marker, and only a few structures are not marked
-this way.
-",tensor([36.4897])," When replacing
-optional elements, the core elements of the clause appear after the
- Interrogative clauses 393
-interrogative pronoun and the question marker. In the following
-example, the interrogative pronoun jedyei ‘why’ queries an optional
-element of the clause, while not affecting the core parts ‘they suck the
-bibosi-tree’:
-(12:65) Jedye-i am m i’in tvim ’-tebiki?
- thing-VI.M.S QN 2P suck-VD.3M.O bibosi.tree
-‘Why are you sucking the bibosi-tree?’ WTE/JH
-The constituent order in this question is as follows: the interrogative
-pronoun is in clause-initial position, and is followed by the question
-marker am and the rest of the clause. The constituent order of the
-elements following the question marker is slightly different from word
-order in declarative clauses, where a pronominal subject usually follows
-the verb. In interrogative clauses, there is a tendency for pronominal
-subjects to appear before the verb in transitive and intransitive clauses.
-",tensor([39.5131]),"144 Adjectives and adverbs
+",70.05065155029297," DMsend-VD.DT-10 DM Germany.E-DR
+ ‘So, when she came, she sent a postcard to me from Germany.’
+ STE/JH
+Usually, the patient-‘secondary object’ appears after the primary object
+in word order.
+",36.552284240722656,"3F.SG housebig
+‘The house is big.’ ELE/CT
+The subject precedes the predicate in the unmarked constituent order. In
+focus constructions, the order of predicate and subject is reversed:
+(12:25) Daer katyi’ wo’ko-md’.
+ big EH stomach-3F.SG
+‘Big was her stomach.’ WTE/CT
+Very frequent adjective predicate structures can be formed by cliticizing
+a 1st or 2nd person subject pronoun to the predicate.254 This is, for
+example, the case in the question ‘how are you’ (A) and the answer ‘I’m
+fine’ (B):
+(12:26) Nai-jo-’ ja em ’-dye-mi Ricardina nai-jo-’.
+ moming-VJ-F.S good-QT-2SG Ricardina momingVJ-F.S
+‘Good morning Ricardina, how are you, good morning!’
+COE/JH
+(12:27) Nai-jo ’ jaem ’-yae.
+moming-VJ-F.S good-lSG
+‘Good morning, I’m fine.’ COE/RI
+380 Clause types
+12.2.3. Locative predicates
+Locative predicates express that someone or something is in a certain
+location by juxtaposing a subject noun phrase and a locative predicate.
+In Moseten, locations are expressed by a place adverb (6.4.1.) or by a
+noun phrase marked by a local nominal relation marker (4.1.5. - 4.1.8.).
+In the following example, the subject tsin ‘we’ is juxtaposed to the
+predicate dikhan otel ‘in this hotel’:
+(12:28) M e’ nash tsin di-khan otel.
+",39.71266174316406,"144 Adjectives and adverbs
  A number of other elements are marked by the linker when appearing
 in modifying position (see section 4.8. on the linker). The following
 examples show how different parts of speech can be used adjectivally.
@@ -4664,7 +4664,7 @@ derivational forms, but there are some exceptions to this as well
 (8.1.2.2.). Usually, the rightmost element has scope over all elements to
 the left.
 ",79.42481994628906
-0.8066453329593896,1,1,0.8061558385575123,1,0.8330617363070775,1,0.8382271109941055,2,0.7908675014529145,1,0.7943358490506458,5,0.8321379328776412,4,0.8659855598967058,1,0.786786392552352,"NX-VI-F.S more thing
+0.8066453329593896,1,1,0.8061558385575123,1,0.8330617363070775,1,0.8382271109941055,1,0.7828505416902023,1,0.7946658330180323,5,0.8321379328776412,4,0.8659855598967058,1,0.786786392552352,"NX-VI-F.S more thing
 ‘There do not exist more things.” STE/JH
 Finally looking at the word order with negative quantifiers, the negation
 always appears before the quantifier(s). These markers can be adjacent,
@@ -4776,75 +4776,16 @@ those clauses that appear with a full NP or a pronoun in subject position,
 i.e. where the subject does not undergo pro-drop.249 I will start with
 clauses, in which the subject is realized as a full noun phrase, and move
 on to those clauses, where the subject is a pronoun.
-",69.81755065917969,"This formal deletion, however, does not change their status as core elements of the
-clause.
-262
-When the answer is positive, a marker such as anik ‘sure’ is used.
-263
-See the transitive clauses below for occurrences of “objects” with verbs marked by
-the antipassive, similar to shara ‘gourd’ in this example.
-264
-Compare this with the fronting of objects in word order (12.1.3.).
-265
-According to Moseten mythology, people saying to an animal ‘if you were human,
-482 Notes
-... ’ will meet this animal in a human shape shortly after. The people are often
-astonished and wonder where this other “human” comes from. This example is the
-answer of a transformed animal, referring to what the person said right before (and
-to its consequences).
-266
-Compare this to example (12:95) above, where chhibin ‘three’ is fronted and
-focused by -na.
-267
-The coordination of fully inflected verbs is very different from participle
-constructions, in which only one main verb occurs (8.9.).
-268
-I have only one example of the marker jo ’dye’, which is used to relate a clause to
-the context. Mostly, the formj o ’dye’y a ’ is used.
-269
-Only the marker na appears in this combination, whereas naja ’ cannot appear
-before -ki.
-270
-Compare this example to (13:9) in section 13.2.1.
-271
-The marking of restrictive and non-restrictive relative clauses is usually very
-consistent.
-272
-These are the possible functions of the relativized element, according to the
-accessibility hierarchy, proposed by Keenan and Comrie (1977).
-273
-Apart from adverbial relative clauses, treated in 13.3.3. below.
-274
-The first translation is the one I first got from my informants.
-275
-The personal pronoun agrees in gender with the subject of the main clause.
-276
-I.e. whether a relativized element can be interpreted as having the role of a
-possessor is not marked on the element and depends largely on the context.
-277
-The noun daerae’ can both mean ‘tree’ and ‘mountain’, i.e. this example could also
-be understood as ‘on top of the mountains,... ’.
-278
-I mainly refer to text examples here. In elicitation examples, the relative clause
-usually appears directly after its antecedent, in different places within the main
-clause. In texts, however, the orders describes here are prevalent.
-279
-These restrictions can be removed, marking the complement clause by paj ‘for’.
-280
-Usually, only one noun phrase appears in this type of adverbial clauses, as the verb
-is always intransitive or intransitivized.
-281
-This particle can also be used in finite complement clauses (13.4.1.) to express that
-the subject of the matrix clause is not co-referent with the subject of the
-complement clause.
-282
-The meaning ‘let’ can also be expressed by a causative structure (9.4.2.).
-283
-In these examples, I only mark in bold the elements in which -w i’- occurs.
-284
-The construction ‘sit for a while’ is expressed by analytic progressive aspect
-marking (8.5.1.), consisting of two juxtaposed verbs: bae’i- and the content verb.
-",tensor([36.2167])," Relative clauses can be marked in two ways: 1. by addition of the
+",69.81755065917969,"1SG house-COM
+‘I have a house.’ ELE/CT
+When a noun phrase contains both determiner and modifier, nominal
+relation marking appears with the determiner:
+(4:115) Bae’-i-tsin di-khan aka’ maeV-sV.
+live-VI.M.S-lP DE.F-IN housenew-L.F
+‘We live in this new house.’ ELE/JH
+The order of elements inside the noun phrase is rather free, though there
+are some tendencies that I will elaborate on here.
+",36.44110107421875," Relative clauses can be marked in two ways: 1. by addition of the
 linker to the verb of the relative clause, marking a restrictive relative
 clause or 2. by starting the relative clause with the relative marker
 yodye’-L, marking a non-restrictive relative clause. The latter can mark
@@ -4860,7 +4801,7 @@ relative clauses, structures marked by yoj ‘like’, have adverbial
  in relative clauses, and look both at the placement of the relative clause
  within the main clause, as well as at the constituent order in the relative
  clause.
-",tensor([38.3596]),"A maximum of two arguments, subject and object, can be referred to
+",38.74668884277344,"A maximum of two arguments, subject and object, can be referred to
 by the verbal cross-reference ending. In this way, three-argument
 ditransitive clauses formally have two core arguments. The word order
 in intransitive clauses is usually S V. In transitive clauses, the basic
@@ -4890,7 +4831,7 @@ as relative clauses, appear after the head noun. Furthermore, the noun
 phrase can also be split up and a verb can appear between the different
 parts of the phrase.
 ",79.11386108398438
-0.7931142784797454,0,1,0.8010202341456146,4,0.8526365166662238,1,0.832553527724785,1,0.7859883509171045,1,0.7893985187939826,2,0.8349537314479561,2,0.8682335821885399,1,0.7819757004884561,"This grammar is primarily based on textual data. Some texts were
+0.7931142784797454,0,1,0.8010202341456146,4,0.8526365166662238,1,0.832553527724785,1,0.7781058714704346,1,0.7897229674525317,2,0.8349537314479561,2,0.8682335821885399,1,0.7819757004884561,"This grammar is primarily based on textual data. Some texts were
 recorded by me, while others were collected by Juan Huasna. His data
 are very good, since he had access to language varieties that were
 difficult for me to record. Furthermore, he was able to interview the
@@ -4926,21 +4867,39 @@ usually determiner-modifier-noun, though usually long modifiers, such
 as relative clauses, appear after the head noun. Furthermore, the noun
 phrase can also be split up and a verb can appear between the different
 parts of the phrase.
-",69.70329284667969,"1SG house-COM
-‘I have a house.’ ELE/CT
-When a noun phrase contains both determiner and modifier, nominal
-relation marking appears with the determiner:
-(4:115) Bae’-i-tsin di-khan aka’ maeV-sV.
-live-VI.M.S-lP DE.F-IN housenew-L.F
-‘We live in this new house.’ ELE/JH
-The order of elements inside the noun phrase is rather free, though there
-are some tendencies that I will elaborate on here.
-",tensor([36.1972])," DMsend-VD.DT-10 DM Germany.E-DR
+",69.70329284667969,"3F.SG housebig
+‘The house is big.’ ELE/CT
+The subject precedes the predicate in the unmarked constituent order. In
+focus constructions, the order of predicate and subject is reversed:
+(12:25) Daer katyi’ wo’ko-md’.
+ big EH stomach-3F.SG
+‘Big was her stomach.’ WTE/CT
+Very frequent adjective predicate structures can be formed by cliticizing
+a 1st or 2nd person subject pronoun to the predicate.254 This is, for
+example, the case in the question ‘how are you’ (A) and the answer ‘I’m
+fine’ (B):
+(12:26) Nai-jo-’ ja em ’-dye-mi Ricardina nai-jo-’.
+ moming-VJ-F.S good-QT-2SG Ricardina momingVJ-F.S
+‘Good morning Ricardina, how are you, good morning!’
+COE/JH
+(12:27) Nai-jo ’ jaem ’-yae.
+moming-VJ-F.S good-lSG
+‘Good morning, I’m fine.’ COE/RI
+380 Clause types
+12.2.3. Locative predicates
+Locative predicates express that someone or something is in a certain
+location by juxtaposing a subject noun phrase and a locative predicate.
+In Moseten, locations are expressed by a place adverb (6.4.1.) or by a
+noun phrase marked by a local nominal relation marker (4.1.5. - 4.1.8.).
+In the following example, the subject tsin ‘we’ is juxtaposed to the
+predicate dikhan otel ‘in this hotel’:
+(12:28) M e’ nash tsin di-khan otel.
+",36.1217041015625," DMsend-VD.DT-10 DM Germany.E-DR
  ‘So, when she came, she sent a postcard to me from Germany.’
  STE/JH
 Usually, the patient-‘secondary object’ appears after the primary object
 in word order.
-",tensor([37.7464])," Questions similar to those have a single word as their answer,
+",37.861289978027344," Questions similar to those have a single word as their answer,
 applying the question as the antecedent:
 396 Clause types
 (12:78)q Este hospital huerfano-dye-si ’ jaetaej-yi- ’-dyash
@@ -5280,7 +5239,7 @@ the Andes. Together with Chimane (Tsimane’), it forms the language
 family Mosetenan. This language family has not yet been proved to be
 related to other languages.
 ",78.56604766845703
-0.7948093607262869,1,1,0.8026505403167814,1,0.8538439137864893,2,0.8421187977414867,1,0.7877418182141601,2,0.7993173718851971,1,0.8363060093994006,1,0.8693131874599009,3,0.8001486975656461,"NG think(PR) -2SG thingyear
+0.7948093607262869,1,1,0.8026505403167814,1,0.8538439137864893,2,0.8421187977414867,2,0.7881172489072344,2,0.7996391622299825,1,0.8363060093994006,1,0.8693131874599009,3,0.8001486975656461,"NG think(PR) -2SG thingyear
  ‘Don’t you remember what year it was?’ COE/JH
 These clauses can also be interpreted as direct question, marked by a
 question marker, such as -dyash:
@@ -5405,34 +5364,7 @@ In these examples, I only mark in bold the elements in which -w i’- occurs.
 284
 The construction ‘sit for a while’ is expressed by analytic progressive aspect
 marking (8.5.1.), consisting of two juxtaposed verbs: bae’i- and the content verb.
-",69.34107971191406,"3F.SG housebig
-‘The house is big.’ ELE/CT
-The subject precedes the predicate in the unmarked constituent order. In
-focus constructions, the order of predicate and subject is reversed:
-(12:25) Daer katyi’ wo’ko-md’.
- big EH stomach-3F.SG
-‘Big was her stomach.’ WTE/CT
-Very frequent adjective predicate structures can be formed by cliticizing
-a 1st or 2nd person subject pronoun to the predicate.254 This is, for
-example, the case in the question ‘how are you’ (A) and the answer ‘I’m
-fine’ (B):
-(12:26) Nai-jo-’ ja em ’-dye-mi Ricardina nai-jo-’.
- moming-VJ-F.S good-QT-2SG Ricardina momingVJ-F.S
-‘Good morning Ricardina, how are you, good morning!’
-COE/JH
-(12:27) Nai-jo ’ jaem ’-yae.
-moming-VJ-F.S good-lSG
-‘Good morning, I’m fine.’ COE/RI
-380 Clause types
-12.2.3. Locative predicates
-Locative predicates express that someone or something is in a certain
-location by juxtaposing a subject noun phrase and a locative predicate.
-In Moseten, locations are expressed by a place adverb (6.4.1.) or by a
-noun phrase marked by a local nominal relation marker (4.1.5. - 4.1.8.).
-In the following example, the subject tsin ‘we’ is juxtaposed to the
-predicate dikhan otel ‘in this hotel’:
-(12:28) M e’ nash tsin di-khan otel.
-",tensor([36.1727]),"This formal deletion, however, does not change their status as core elements of the
+",69.34107971191406,"This formal deletion, however, does not change their status as core elements of the
 clause.
 262
 When the answer is positive, a marker such as anik ‘sure’ is used.
@@ -5500,7 +5432,229 @@ In these examples, I only mark in bold the elements in which -w i’- occurs.
 284
 The construction ‘sit for a while’ is expressed by analytic progressive aspect
 marking (8.5.1.), consisting of two juxtaposed verbs: bae’i- and the content verb.
-",tensor([37.5987])," Relative clauses can be marked in two ways: 1. by addition of the
+",36.049835205078125," Index
+adessive 57, 64, 69ff, 71, 76ff, 149, 154, 159, 171ff, 246, 405, 418ff, 437
+adjectives 106, 143ff, 379
+adverbs 149ff, 154ff
+adverbs, degree 163ff
+adverbs, manner 148, 162
+adverbs, place 154
+adverbs, temporal 160ff
+affixes 54ff
+affixation 241 ff
+agent 195,239, 298ff
+agreement, gender 14, 67ff, 74, 86ff
+alienable possession 90, 121
+alignment, neutral 63, 297
+animacy 75, 85, 102ff, 117ff, 298, 302, 417
+answers 384ff, 395ff
+aspect 56ff, 185, 188, 208, 218, 235, 242ff, 256, 258ff, 279ff, 315, 363ff
+assertion 72, 84, 352, 396ff
+associated motion markers 272ff
+associative 57, 64, 66, 76, 79, 138, 143, 147, 159, 283,419, 424
+attribution 145
+augmentation 99, lO lff
+basic constituent order 374ff, 46Iff
+benefactive 14, 64,67ff, 74ff, 88ff, 99, 105, 1lOff, 132, 137, 141, 319ff, 419, 423, 433,
+438
+case (see nominal relation marking) 63ff
+causee 313ff
+causer 313ff
+change of state 235, 259, 264ff
+classification, verbal (see verbal stem markers) 14, 217ff
+clause combinations 403ff
+clause types 37Iff
+clitics 60ff, 81, 117, 122, 342
+code switching 6
+comitative 64ff, 76, 79ff, 126, 171, 381ff, 418ff, 439ff
+comparison, adjectival 58, 150ff
+comparison, adverbial 58, 163ff
+complement clauses 429ff
+completive 75ff, 364ff
+ 500 Index
+ compounding 99
+ conditional clauses 440ff
+ constituent order, verbal clauses 374ff
+ constituent order, interrogative clauses 392ff
+ constituent order, adverbials and emphatics 397
+ constituent order, relative clauses 424ff
+ comstituent order, complement clauses433
+ constituent order, adverbial clauses 442
+ context 69, 82, 85, 91, 104, 120, 134ff, 155ff, 161, 308ff, 324ff, 339, 343, 348ff,
+ 354ff, 366ff, 373, 376, 388, 391, 405, 409, 426ff, 442
+ contrastive marking 406
+ control 217ff, 230, 233, 236, 239ff, 242
+ coordination 403 ff
+ copula 15, 66, 146, 265, 329, 331, 368, 378
+cross-reference 6, 13ff, 38, 45ff, 64, 136ff, 181ff, 371ff, 414ff
+decimal (base 10) number system 167ff
+definite 85, 120
+deictic center 154, 157ff, 164, 264ff, 272ff, 280ff, 445
+dependents (in the noun phrase) 64, 102
+determiners 14, 97, 102ff, 147, 167, 175
+detransitivization 297ff, 306, 308
+dialects 4, 8ff, 101
+diminution 99ff
+direct object (see primary object) 63, 185, 195, 313ff, 321, 412ff, 423, 429, 432
+directionals (see: associated motion markers) 272ff
+discourse markers 339ff, 360ff
+distributive (place, time) 79, 94, 113, 159, 178, 247, 282ff
+downriver relation 57, 64, 72ff, 128, 154, 159, 272, 418ff
+durative aspect 271
+emphasis marking 85, 201, 354ff
+epenthesis 50
+evidentials 339ff, 358
+exclamation 251, 383, 388, 398, 401
+exclusive 1st person plural 14, 38, 118, 181, 184, 190, 277
+existential constructions 332, 380
+feminine 14, 37ff, 46, 85ff, 90ff, 123, 154ff, 168, 305, 349, 430
+fieldwork 1 Iff
+focus 398ff
+frustrative 61, 409ff
+fusion 13, 289
+future 128ff, 342ff, 363
+ Index 501
+ gender 85ff
+ gender agreement 86ff, 189
+ genetic affiliation 2
+ genitive (see linker) 64, 106
+ grammaticalization 183
+ habitual aspect 263
+ head 14, 67, 81, 84ff, 97, 113ff, 144ff, 174, 412ff, 427
+ hearer 42, 194, 325, 383ff, 41 Iff, 426
+ hortative 198
+ identifiable referents 14, 372ff, 405
+ imperative 196ff
+ inalienable possession 90, 121
+ inanimate 75, 102ff, 117, 121, 302, 417
+ inceptive aspect 264ff
+ inclusive 1st person plural 14, 37ff, 45ff, 118, 181 ff, 198ff, 230, 278, 290
+ incorporation 249ff
+ indefinite 132ff
+ indirect object (see secondary object) 195, 412, 414ff, 432
+ indirect questions 433
+ indirect speech 442
+ infix 56, 269
+ information questions 383
+ interruption in movement 283
+ irrealis 342ff
+ iterative aspect 266ff
+juxtaposition 15, 150ff, 378ff, 403ff, 423
+linker 64, 96, 105ff, 121
+loans 6, 34
+location 69, 282, 380, 434, 436
+macrofunctionality 14, 88, 96, 105
+modality 339ff
+modifiers 14, 102ff, 138, 143ff, 169, 174ff, 294, 355, 380, 403, 411
+Mosetenan Iff
+motion verbs 272ff, 286, 292, 445
+motion 272ff
+nasal attack 50
+nasal harmony 40ff
+necessity 342ff, 345ff, 369
+502 Index
+negation, general 329ff
+negation, existential 322
+negation, ‘not have’ 333
+negation, lexical 334
+nominal relation marking 57, 61, 63ff, 76, 99, 102, 105, 110, 122, 138ff, 272, 380,
+411, 419ff, 434
+nominalization 92ff, 108, 243
+noun phrase 10Iff
+noun phrase, discontinuous 104ff
+number marking, with nouns 79, 8Iff, 113
+number marking, with adjectives 147
+number marking, with verbs 186ff, 190
+numerals, cardinal 167
+numerals, ordinal 169
+object, primary 63, 185, 195, 313ff, 321, 412ff, 423, 429, 432
+object, secondary 195, 412, 414ff, 432
+oblique 64, 137, 303, 41 Iff, 427
+onomatopoeic expressions 227, 358
+overlap (partial, of subject & object person) 194
+participles 108ff, 294ff, 299, 304
+particles 114, 342ff, 363ff
+parts of speech 7, 13ff, 53ff, 63, 76, 100, 144, 157, 217, 223, 230ff, 249, 362, 370
+past tense 363ff, 365
+person marking in the cross-reference system 187ff, 191, 305
+possession 106, 122ff
+possessor 64, 87ff, 106, 121ff, 135, 147, 321, 381, 412ff
+possessum 64, 66, 87ff, 106, 12Iff
+pragmatic statuses 14, 378
+pragmatically marked structures 371
+predicate 15, 143ff, 161, 299, 304, 331, 371, 378ff, 395ff
+predicate clauses 378
+prefixes 55, 317, 322ff
+primary object 63, 185, 195, 313ff, 321, 412ff, 423, 429, 432
+pro-drop 37Iff
+progressive aspect 259ff
+pronouns, personal 117ff, 154ff, 172
+pronouns, demonstrative 87, 89, 102, 119ff, 135
+pronouns, possessive 87, 102, 107, 113, 12Iff
+pronouns, interrogative 15, 86, 112, 115, 124ff, 132ff, 150, 174, 231, 335ff, 354,
+382ff, 390ff, 412, 418, 424, 429ff
+pronouns, indefinite 124ff, 132ff
+pronouns, reference tracking 112, 134ff
+ Index 503
+ pro-verbs 140ff
+ purpose 438
+ quantification 167ff
+ quantifiers (non-numeral, negative, etc.) 174ff, 335ff
+ questions, question markers 382ff, 433
+ questions, interrogative pronouns 124ff, 382ff
+ questions, word order 392ff
+ quinary (base 5) number system 167ff
+ realis 342
+ recipient 67, 195, 318ff, 423
+ reciprocals 137, 191, 193
+ reduplication 56ff, 79, 82, 266
+reference tracking 132, 134ff
+reflexives 136, 191 ff, 199ff, 215
+relation markers 63ff, 110, 419ff
+relative clauses 107, 111, 41 Iff
+resultative 304
+root 53, 82, 286
+scope 54, 61, 64, 243, 326ff, 343, 349ff, 366, 370, 387ff, 400
+secondary object 195, 412, 414ff, 432
+semantic roles 3 18ff, 414
+simultaneous actions 439
+Spanish (influence, loans, etc.) 6, 34, 237ff
+split-up noun phrases 104ff
+stative verbs 144, 149, 221,241,298,313,317
+stem 45ff, 53, 202ff, 217ff
+stress 42ff
+subject 186, 239ff, 305, 406
+suffixes 55
+superessive 57, 64, 71, 73, 76ff, 110, 127, 150, 154, 159, 418ff
+syllable structure 35
+synthesis 13
+tag questions 383, 388ff
+temporal relations 160ff, 363ff
+tense 363ff
+transitivity 217ff, 239, 242, 297ff
+valency 297ff
+verb agreement 18Iff
+verbal classification see: verbal stem markers 217ff
+504 Index
+verbalization see: verbal stem markers 217ff
+verbs, intransitive 181 ff
+verbs, transitive 185ff
+verbs, ditransitive 195
+verbal stem markers 217ff
+voice, passive 297ff
+voice, middle 306ff
+voice, antipassive 308ff
+voice, causative 313ff
+voice, applicative 318ff
+vowel assimilation 17, 36ff, 250, 276ff
+vowel harmony 17, 36ff, 250, 276ff
+vowel length 24
+word order,in verbal clauses 374ff
+word order,in predicate clauses 378ff
+word order,in questions 392ff
+word order,in relative clauses 424ff
+yes/no questions 387
+",37.74220275878906," Relative clauses can be marked in two ways: 1. by addition of the
 linker to the verb of the relative clause, marking a restrictive relative
 clause or 2. by starting the relative clause with the relative marker
 yodye’-L, marking a non-restrictive relative clause. The latter can mark
@@ -5597,7 +5751,7 @@ would run’:
 3F.SG-FO-CO one-F frog 3F-ADwait-VI-AN-F.S
  yo-dye’-si’-tom-ra’ phi-ki.
 ",78.22612762451172
-0.796453440884567,1,4,0.8282691495494402,1,0.855014982419084,2,0.8513962653541264,1,0.7894425267179296,2,0.80893778387018,1,0.8376175996499535,1,0.8703603092789398,1,0.8017499965435223," 3F-P-B-L.F PS buy-VI.M.S 2SG book-P
+0.796453440884567,1,4,0.8282691495494402,1,0.855014982419084,2,0.8513962653541264,1,0.7898149492905776,2,0.8092569958852578,1,0.8376175996499535,1,0.8703603092789398,1,0.8017499965435223," 3F-P-B-L.F PS buy-VI.M.S 2SG book-P
  ‘I met the women for whom you have bought the book(s).’
  ELE/JH
 424 Clause combinations
@@ -6327,229 +6481,75 @@ These examples show that different parts of speech can be used as
 modifiers in the noun phrase when marked by the linker (treated in
 section 4.8.). The order of adjectives (modifiers) and head nouns is
 discussed in section 4.7.
-",tensor([35.9633])," Index
-adessive 57, 64, 69ff, 71, 76ff, 149, 154, 159, 171ff, 246, 405, 418ff, 437
-adjectives 106, 143ff, 379
-adverbs 149ff, 154ff
-adverbs, degree 163ff
-adverbs, manner 148, 162
-adverbs, place 154
-adverbs, temporal 160ff
-affixes 54ff
-affixation 241 ff
-agent 195,239, 298ff
-agreement, gender 14, 67ff, 74, 86ff
-alienable possession 90, 121
-alignment, neutral 63, 297
-animacy 75, 85, 102ff, 117ff, 298, 302, 417
-answers 384ff, 395ff
-aspect 56ff, 185, 188, 208, 218, 235, 242ff, 256, 258ff, 279ff, 315, 363ff
-assertion 72, 84, 352, 396ff
-associated motion markers 272ff
-associative 57, 64, 66, 76, 79, 138, 143, 147, 159, 283,419, 424
-attribution 145
-augmentation 99, lO lff
-basic constituent order 374ff, 46Iff
-benefactive 14, 64,67ff, 74ff, 88ff, 99, 105, 1lOff, 132, 137, 141, 319ff, 419, 423, 433,
-438
-case (see nominal relation marking) 63ff
-causee 313ff
-causer 313ff
-change of state 235, 259, 264ff
-classification, verbal (see verbal stem markers) 14, 217ff
-clause combinations 403ff
-clause types 37Iff
-clitics 60ff, 81, 117, 122, 342
-code switching 6
-comitative 64ff, 76, 79ff, 126, 171, 381ff, 418ff, 439ff
-comparison, adjectival 58, 150ff
-comparison, adverbial 58, 163ff
-complement clauses 429ff
-completive 75ff, 364ff
- 500 Index
- compounding 99
- conditional clauses 440ff
- constituent order, verbal clauses 374ff
- constituent order, interrogative clauses 392ff
- constituent order, adverbials and emphatics 397
- constituent order, relative clauses 424ff
- comstituent order, complement clauses433
- constituent order, adverbial clauses 442
- context 69, 82, 85, 91, 104, 120, 134ff, 155ff, 161, 308ff, 324ff, 339, 343, 348ff,
- 354ff, 366ff, 373, 376, 388, 391, 405, 409, 426ff, 442
- contrastive marking 406
- control 217ff, 230, 233, 236, 239ff, 242
- coordination 403 ff
- copula 15, 66, 146, 265, 329, 331, 368, 378
-cross-reference 6, 13ff, 38, 45ff, 64, 136ff, 181ff, 371ff, 414ff
-decimal (base 10) number system 167ff
-definite 85, 120
-deictic center 154, 157ff, 164, 264ff, 272ff, 280ff, 445
-dependents (in the noun phrase) 64, 102
-determiners 14, 97, 102ff, 147, 167, 175
-detransitivization 297ff, 306, 308
-dialects 4, 8ff, 101
-diminution 99ff
-direct object (see primary object) 63, 185, 195, 313ff, 321, 412ff, 423, 429, 432
-directionals (see: associated motion markers) 272ff
-discourse markers 339ff, 360ff
-distributive (place, time) 79, 94, 113, 159, 178, 247, 282ff
-downriver relation 57, 64, 72ff, 128, 154, 159, 272, 418ff
-durative aspect 271
-emphasis marking 85, 201, 354ff
-epenthesis 50
-evidentials 339ff, 358
-exclamation 251, 383, 388, 398, 401
-exclusive 1st person plural 14, 38, 118, 181, 184, 190, 277
-existential constructions 332, 380
-feminine 14, 37ff, 46, 85ff, 90ff, 123, 154ff, 168, 305, 349, 430
-fieldwork 1 Iff
-focus 398ff
-frustrative 61, 409ff
-fusion 13, 289
-future 128ff, 342ff, 363
- Index 501
- gender 85ff
- gender agreement 86ff, 189
- genetic affiliation 2
- genitive (see linker) 64, 106
- grammaticalization 183
- habitual aspect 263
- head 14, 67, 81, 84ff, 97, 113ff, 144ff, 174, 412ff, 427
- hearer 42, 194, 325, 383ff, 41 Iff, 426
- hortative 198
- identifiable referents 14, 372ff, 405
- imperative 196ff
- inalienable possession 90, 121
- inanimate 75, 102ff, 117, 121, 302, 417
- inceptive aspect 264ff
- inclusive 1st person plural 14, 37ff, 45ff, 118, 181 ff, 198ff, 230, 278, 290
- incorporation 249ff
- indefinite 132ff
- indirect object (see secondary object) 195, 412, 414ff, 432
- indirect questions 433
- indirect speech 442
- infix 56, 269
- information questions 383
- interruption in movement 283
- irrealis 342ff
- iterative aspect 266ff
-juxtaposition 15, 150ff, 378ff, 403ff, 423
-linker 64, 96, 105ff, 121
-loans 6, 34
-location 69, 282, 380, 434, 436
-macrofunctionality 14, 88, 96, 105
-modality 339ff
-modifiers 14, 102ff, 138, 143ff, 169, 174ff, 294, 355, 380, 403, 411
-Mosetenan Iff
-motion verbs 272ff, 286, 292, 445
-motion 272ff
-nasal attack 50
-nasal harmony 40ff
-necessity 342ff, 345ff, 369
-502 Index
-negation, general 329ff
-negation, existential 322
-negation, ‘not have’ 333
-negation, lexical 334
-nominal relation marking 57, 61, 63ff, 76, 99, 102, 105, 110, 122, 138ff, 272, 380,
-411, 419ff, 434
-nominalization 92ff, 108, 243
-noun phrase 10Iff
-noun phrase, discontinuous 104ff
-number marking, with nouns 79, 8Iff, 113
-number marking, with adjectives 147
-number marking, with verbs 186ff, 190
-numerals, cardinal 167
-numerals, ordinal 169
-object, primary 63, 185, 195, 313ff, 321, 412ff, 423, 429, 432
-object, secondary 195, 412, 414ff, 432
-oblique 64, 137, 303, 41 Iff, 427
-onomatopoeic expressions 227, 358
-overlap (partial, of subject & object person) 194
-participles 108ff, 294ff, 299, 304
-particles 114, 342ff, 363ff
-parts of speech 7, 13ff, 53ff, 63, 76, 100, 144, 157, 217, 223, 230ff, 249, 362, 370
-past tense 363ff, 365
-person marking in the cross-reference system 187ff, 191, 305
-possession 106, 122ff
-possessor 64, 87ff, 106, 121ff, 135, 147, 321, 381, 412ff
-possessum 64, 66, 87ff, 106, 12Iff
-pragmatic statuses 14, 378
-pragmatically marked structures 371
-predicate 15, 143ff, 161, 299, 304, 331, 371, 378ff, 395ff
-predicate clauses 378
-prefixes 55, 317, 322ff
-primary object 63, 185, 195, 313ff, 321, 412ff, 423, 429, 432
-pro-drop 37Iff
-progressive aspect 259ff
-pronouns, personal 117ff, 154ff, 172
-pronouns, demonstrative 87, 89, 102, 119ff, 135
-pronouns, possessive 87, 102, 107, 113, 12Iff
-pronouns, interrogative 15, 86, 112, 115, 124ff, 132ff, 150, 174, 231, 335ff, 354,
-382ff, 390ff, 412, 418, 424, 429ff
-pronouns, indefinite 124ff, 132ff
-pronouns, reference tracking 112, 134ff
- Index 503
- pro-verbs 140ff
- purpose 438
- quantification 167ff
- quantifiers (non-numeral, negative, etc.) 174ff, 335ff
- questions, question markers 382ff, 433
- questions, interrogative pronouns 124ff, 382ff
- questions, word order 392ff
- quinary (base 5) number system 167ff
- realis 342
- recipient 67, 195, 318ff, 423
- reciprocals 137, 191, 193
- reduplication 56ff, 79, 82, 266
-reference tracking 132, 134ff
-reflexives 136, 191 ff, 199ff, 215
-relation markers 63ff, 110, 419ff
-relative clauses 107, 111, 41 Iff
-resultative 304
-root 53, 82, 286
-scope 54, 61, 64, 243, 326ff, 343, 349ff, 366, 370, 387ff, 400
-secondary object 195, 412, 414ff, 432
-semantic roles 3 18ff, 414
-simultaneous actions 439
-Spanish (influence, loans, etc.) 6, 34, 237ff
-split-up noun phrases 104ff
-stative verbs 144, 149, 221,241,298,313,317
-stem 45ff, 53, 202ff, 217ff
-stress 42ff
-subject 186, 239ff, 305, 406
-suffixes 55
-superessive 57, 64, 71, 73, 76ff, 110, 127, 150, 154, 159, 418ff
-syllable structure 35
-synthesis 13
-tag questions 383, 388ff
-temporal relations 160ff, 363ff
-tense 363ff
-transitivity 217ff, 239, 242, 297ff
-valency 297ff
-verb agreement 18Iff
-verbal classification see: verbal stem markers 217ff
-504 Index
-verbalization see: verbal stem markers 217ff
-verbs, intransitive 181 ff
-verbs, transitive 185ff
-verbs, ditransitive 195
-verbal stem markers 217ff
-voice, passive 297ff
-voice, middle 306ff
-voice, antipassive 308ff
-voice, causative 313ff
-voice, applicative 318ff
-vowel assimilation 17, 36ff, 250, 276ff
-vowel harmony 17, 36ff, 250, 276ff
-vowel length 24
-word order,in verbal clauses 374ff
-word order,in predicate clauses 378ff
-word order,in questions 392ff
-word order,in relative clauses 424ff
-yes/no questions 387
-",tensor([37.5975]),"1SG house-COM
+",36.04474639892578,"This formal deletion, however, does not change their status as core elements of the
+clause.
+262
+When the answer is positive, a marker such as anik ‘sure’ is used.
+263
+See the transitive clauses below for occurrences of “objects” with verbs marked by
+the antipassive, similar to shara ‘gourd’ in this example.
+264
+Compare this with the fronting of objects in word order (12.1.3.).
+265
+According to Moseten mythology, people saying to an animal ‘if you were human,
+482 Notes
+... ’ will meet this animal in a human shape shortly after. The people are often
+astonished and wonder where this other “human” comes from. This example is the
+answer of a transformed animal, referring to what the person said right before (and
+to its consequences).
+266
+Compare this to example (12:95) above, where chhibin ‘three’ is fronted and
+focused by -na.
+267
+The coordination of fully inflected verbs is very different from participle
+constructions, in which only one main verb occurs (8.9.).
+268
+I have only one example of the marker jo ’dye’, which is used to relate a clause to
+the context. Mostly, the formj o ’dye’y a ’ is used.
+269
+Only the marker na appears in this combination, whereas naja ’ cannot appear
+before -ki.
+270
+Compare this example to (13:9) in section 13.2.1.
+271
+The marking of restrictive and non-restrictive relative clauses is usually very
+consistent.
+272
+These are the possible functions of the relativized element, according to the
+accessibility hierarchy, proposed by Keenan and Comrie (1977).
+273
+Apart from adverbial relative clauses, treated in 13.3.3. below.
+274
+The first translation is the one I first got from my informants.
+275
+The personal pronoun agrees in gender with the subject of the main clause.
+276
+I.e. whether a relativized element can be interpreted as having the role of a
+possessor is not marked on the element and depends largely on the context.
+277
+The noun daerae’ can both mean ‘tree’ and ‘mountain’, i.e. this example could also
+be understood as ‘on top of the mountains,... ’.
+278
+I mainly refer to text examples here. In elicitation examples, the relative clause
+usually appears directly after its antecedent, in different places within the main
+clause. In texts, however, the orders describes here are prevalent.
+279
+These restrictions can be removed, marking the complement clause by paj ‘for’.
+280
+Usually, only one noun phrase appears in this type of adverbial clauses, as the verb
+is always intransitive or intransitivized.
+281
+This particle can also be used in finite complement clauses (13.4.1.) to express that
+the subject of the matrix clause is not co-referent with the subject of the
+complement clause.
+282
+The meaning ‘let’ can also be expressed by a causative structure (9.4.2.).
+283
+In these examples, I only mark in bold the elements in which -w i’- occurs.
+284
+The construction ‘sit for a while’ is expressed by analytic progressive aspect
+marking (8.5.1.), consisting of two juxtaposed verbs: bae’i- and the content verb.
+",37.73506164550781,"1SG house-COM
 ‘I have a house.’ ELE/CT
 When a noun phrase contains both determiner and modifier, nominal
 relation marking appears with the determiner:
@@ -6613,7 +6613,7 @@ modifiers in the noun phrase when marked by the linker (treated in
 section 4.8.). The order of adjectives (modifiers) and head nouns is
 discussed in section 4.7.
 ",77.81092071533203
-0.8215793378039485,4,1,0.8296160604079763,1,0.8561521216925019,1,0.8525617867691104,1,0.7910939606121046,3,0.8261226139859723,2,0.8467343394360495,3,0.887063393300686,4,0.8268343517811898," Usually, complement clauses appear in object position of the matrix
+0.8215793378039485,4,1,0.8296160604079763,1,0.8561521216925019,1,0.8525617867691104,1,0.7914634622185678,3,0.8264393223732618,2,0.8467343394360495,3,0.887063393300686,4,0.8268343517811898," Usually, complement clauses appear in object position of the matrix
 clause, i.e. after the matrix verb. This order can be changed to O A V
 when the object is focused, in the same way as in transitive declarative
 clauses (12.1.3.). This fronting of an object complement is found when
@@ -6656,7 +6656,7 @@ Generally, one can say that inflectional forms seem to follow
 derivational forms, but there are some exceptions to this as well
 (8.1.2.2.). Usually, the rightmost element has scope over all elements to
 the left.
-",tensor([35.9470])," When the interrogative pronoun replaces a core element in the
+",35.93598556518555," When the interrogative pronoun replaces a core element in the
 clause, this element is deleted from the clause. In the following
 example, the verb is replaced. The interrogative pronoun is verbalized
 and no verb appears after the question marker am:
@@ -6706,7 +6706,7 @@ want-VI-3F.O-QY sleep-VI-F.S-2SG
 sleep-VI-F.S-QY want-VI-3F.O-2SG
 ‘Do you want to SLEEP?’ ELE/JH
  (12:73) Mi-dyajrai’s-e-’ khosh-'i-’?
-",tensor([36.8083])," Index
+",37.16627502441406," Index
 adessive 57, 64, 69ff, 71, 76ff, 149, 154, 159, 171ff, 246, 405, 418ff, 437
 adjectives 106, 143ff, 379
 adverbs 149ff, 154ff
@@ -6971,7 +6971,7 @@ that the relative clause appears before its head, often leading to another
 constituent order inside the relative clause as well, where the verb then
 appears before the subject.
 ",77.65731811523438
-0.8229503541156988,1,2,0.8386095001387851,3,0.8726258326119304,3,0.8690630864648836,0,0.7850150529857304,1,0.8274587189501371,4,0.8709645973148412,1,0.8879312184061009,3,0.843533345693506,"In the following example, -ka’ is added to the general information
+0.8229503541156988,1,2,0.8386095001387851,3,0.8726258326119304,3,0.8690630864648836,0,0.785381715275696,1,0.827772993693477,4,0.8709645973148412,1,0.8879312184061009,3,0.843533345693506,"In the following example, -ka’ is added to the general information
 question marker -dyash, changing the information question into a
 rhetorical question. In this question, the speaker does not directly ask
  for the answer to the question ‘what is it called’, but instead expresses
@@ -7190,14 +7190,34 @@ treat these structures under the same heading. The verbs in complement
 clauses are finite and can be inflected both intransitively and
 transitively. The subject of such a verb is co-referential with the subject
 of the matrix clause.
-",tensor([35.1432])," As mentioned in 3.1. above, only verbs have inflectional forms.
-Derivation is found with all parts of speech, but it is most common with
-verbs. There is no definite and fixed order of affixes in Moseten.
-Generally, one can say that inflectional forms seem to follow
-derivational forms, but there are some exceptions to this as well
-(8.1.2.2.). Usually, the rightmost element has scope over all elements to
-the left.
-",tensor([36.7965])," Usually, complement clauses appear in object position of the matrix
+",34.88433837890625,"144 Adjectives and adverbs
+ A number of other elements are marked by the linker when appearing
+in modifying position (see section 4.8. on the linker). The following
+examples show how different parts of speech can be used adjectivally.
+Example (6:1) below shows a “real” adjective, example (6:2) a stative
+verb and example (6:3) a noun. All these forms are marked by the
+linker, as they stand in modifying position:
+(6:1) Tsin y a ’-iiits kasko di-dye-tyi’ nanasi’
+IP buy-VI.M.S DE.M canoe.E DE.F-B-L.M girl
+ jaetn ’-si’.
+good-L.F
+‘We buy this canoe for that good girl.’ ELE/CT
+(6:2) Tsin y a ’-iiits kasko di-dye-tyi’ nanasi’
+IP buy-VI.M.S DE.M canoe.E DE.F-B-L.M girl
+ichae-ke-sV
+little-VK-L.F
+‘We buy this canoe for that little girl.’ ELE/CT
+(6:3) M i’-si’ aw a’ chhibin phen-si’chhi-chhibin
+3M.SG-L.F childthreewoman-L.F also-three
+sohi’-tyi’.
+man-L.M
+‘He has three daughters and three sons.’ (lit.: ‘His children are
+three daughters and three sons.’) e l e /jh
+These examples show that different parts of speech can be used as
+modifiers in the noun phrase when marked by the linker (treated in
+section 4.8.). The order of adjectives (modifiers) and head nouns is
+discussed in section 4.7.
+",37.022212982177734," Usually, complement clauses appear in object position of the matrix
 clause, i.e. after the matrix verb. This order can be changed to O A V
 when the object is focused, in the same way as in transitive declarative
 clauses (12.1.3.). This fronting of an object complement is found when
@@ -7262,7 +7282,7 @@ order in declarative clauses, where a pronominal subject usually follows
 the verb. In interrogative clauses, there is a tendency for pronominal
 subjects to appear before the verb in transitive and intransitive clauses.
 ",77.55278778076172
-0.8468877652720136,4,3,0.8548944496458081,1,0.8735855304937092,3,0.8851185840909715,3,0.801703808684092,1,0.8287587274631544,3,0.8870057680489674,1,0.8887755981929498,3,0.8597811965937552," NX-VI.M. S-still-1SG
+0.8468877652720136,4,3,0.8548944496458081,1,0.8735855304937092,3,0.8851185840909715,3,0.8020677083650433,1,0.8290706343103057,3,0.8870057680489674,1,0.8887755981929498,3,0.8597811965937552," NX-VI.M. S-still-1SG
 ‘In 1962 my mother died, I wasn’t bom yet (sic!).’ COE/EC
 In the same way, this clitic frequently occurs together with the general
 negation jam, resulting in the meaning ‘not yet’:
@@ -7467,34 +7487,14 @@ j o ’dye’y d ’. Both coordinating devices can be used to combine clauses
  express succession in time, as well as actions happening at the same
  time, whereas jo ’dye ’y d ’ can only be used with actions happening at the
  same time.
-",tensor([34.8126]),"144 Adjectives and adverbs
- A number of other elements are marked by the linker when appearing
-in modifying position (see section 4.8. on the linker). The following
-examples show how different parts of speech can be used adjectivally.
-Example (6:1) below shows a “real” adjective, example (6:2) a stative
-verb and example (6:3) a noun. All these forms are marked by the
-linker, as they stand in modifying position:
-(6:1) Tsin y a ’-iiits kasko di-dye-tyi’ nanasi’
-IP buy-VI.M.S DE.M canoe.E DE.F-B-L.M girl
- jaetn ’-si’.
-good-L.F
-‘We buy this canoe for that good girl.’ ELE/CT
-(6:2) Tsin y a ’-iiits kasko di-dye-tyi’ nanasi’
-IP buy-VI.M.S DE.M canoe.E DE.F-B-L.M girl
-ichae-ke-sV
-little-VK-L.F
-‘We buy this canoe for that little girl.’ ELE/CT
-(6:3) M i’-si’ aw a’ chhibin phen-si’chhi-chhibin
-3M.SG-L.F childthreewoman-L.F also-three
-sohi’-tyi’.
-man-L.M
-‘He has three daughters and three sons.’ (lit.: ‘His children are
-three daughters and three sons.’) e l e /jh
-These examples show that different parts of speech can be used as
-modifiers in the noun phrase when marked by the linker (treated in
-section 4.8.). The order of adjectives (modifiers) and head nouns is
-discussed in section 4.7.
-",tensor([36.6881])," Often, word order in the main clause is not changed, even if a
+",34.84174728393555," As mentioned in 3.1. above, only verbs have inflectional forms.
+Derivation is found with all parts of speech, but it is most common with
+verbs. There is no definite and fixed order of affixes in Moseten.
+Generally, one can say that inflectional forms seem to follow
+derivational forms, but there are some exceptions to this as well
+(8.1.2.2.). Usually, the rightmost element has scope over all elements to
+the left.
+",36.646060943603516," Often, word order in the main clause is not changed, even if a
 relative clause follows. Since relative clauses usually are placed at the
 end of the main clause, they are often not adjacent to their head. This is
 shown in the following example, where the head of the relative clause,
@@ -7558,7 +7558,7 @@ j o ’dye’y d ’. Both coordinating devices can be used to combine clauses
  time, whereas jo ’dye ’y d ’ can only be used with actions happening at the
  same time.
 ",76.2022476196289
-0.8480197448413254,1,2,0.8633603706743215,2,0.8819132658201736,4,0.9081473259149137,2,0.8105629753533226,0,0.8226316015084997,1,0.8878411497690883,1,0.8895978953181807,0,0.8534247173068353,"3F.SG housebig
+0.8480197448413254,1,2,0.8633603706743215,2,0.8819132658201736,4,0.9081473259149137,2,0.8109241846744548,3,0.8451206102821492,1,0.8878411497690883,1,0.8895978953181807,0,0.8534247173068353,"3F.SG housebig
 ‘The house is big.’ ELE/CT
 The subject precedes the predicate in the unmarked constituent order. In
 focus constructions, the order of predicate and subject is reversed:
@@ -8075,50 +8075,17 @@ word order,in predicate clauses 378ff
 word order,in questions 392ff
 word order,in relative clauses 424ff
 yes/no questions 387
-",tensor([34.7050]),"R-RD begin-VI-RE.M.S DM
-‘So we started yesterday, now we also go on with the
-sentences, like w e started.’ STE/JH
-Complement clauses 429
-13.4. Complement clauses
-Complement clauses appear in subject or object position of a matrix
-clause, and are thus subordinated to this clause. There are three types of
-complement clauses in Moseten: finite complement clauses, non-finite
-complement clauses and indirect questions. In general, only object
-complement clauses are found in the language, whereas subject
-complements only very rarely occur. The latter can, however, be
-elicited:
-(13:64) Karij-tya-ki raej-dye-sV mayedye’
- hard-VD-AN.M.S all-B-F.Sday
- ij-a-n-yae.
- kill-VI-1SG.O-1SG
- ‘Working all day kills me.’ ELE/AT
-Since all my other examples of complement clauses are object
-complements, I will generally refer to them as “complement clauses” in
-the remainder of this section. The following table shows the different
-types of complement clauses, some of the matrix verbs they appear
-with, as well as restrictions on their form:
-Table 53: Complement clauses
- Meaning of matrix verb Restrictions
-Finite complementwant, must, seem, stop,co-referent subjects in matrix
-clausesfinish, begin, know (how clause and complement clause279
- to), etc.
-Non-finite beg, forbid, etc.primary object of matrix clause is
-complement clausesco-referent to subject of
-complement clause
-Indirect questions remember, etc. introduced by interrogative
-pronoun
-13.4.1. Finite complement clauses
-Finite complement clauses can appear in transitive and intransitive
-matrix clauses. Intransitive matrix clauses are often derived by the
-430 Clause combinations
-antipassive, as the demoted object complement is apparent in the clause
-without being inflected in the cross-reference ending. Due to the
-relatedness in form with object complements of transitive verbs, I will
-treat these structures under the same heading. The verbs in complement
-clauses are finite and can be inflected both intransitively and
-transitively. The subject of such a verb is co-referential with the subject
-of the matrix clause.
-",tensor([35.8221])," As mentioned in 3.1. above, only verbs have inflectional forms.
+",34.65110397338867," Often, word order in the main clause is not changed, even if a
+relative clause follows. Since relative clauses usually are placed at the
+end of the main clause, they are often not adjacent to their head. This is
+shown in the following example, where the head of the relative clause,
+tetei ‘frog’ appears before the verb of the main clause, and is not
+adjacent to the relative clause yodye’sitomra’ phiki ‘with whom he
+would run’:
+(13:53) M o’-na-ki jiri-s tetei md’-ya’ bis-a-ki-’
+3F.SG-FO-CO one-F frog 3F-ADwait-VI-AN-F.S
+ yo-dye’-si’-tom-ra’ phi-ki.
+",36.06509780883789," As mentioned in 3.1. above, only verbs have inflectional forms.
 Derivation is found with all parts of speech, but it is most common with
 verbs. There is no definite and fixed order of affixes in Moseten.
 Generally, one can say that inflectional forms seem to follow
@@ -8177,7 +8144,7 @@ clauses are finite and can be inflected both intransitively and
 transitively. The subject of such a verb is co-referential with the subject
 of the matrix clause.
 ",76.14669799804688
-0.8636417520693477,3,1,0.8643522874318489,2,0.890029864009698,2,0.916073481522338,1,0.8119381676029686,3,0.8384379105012342,2,0.8959147152933851,2,0.8976587079877056,3,0.869007487874242,"DE.M-FO fatherNG send-VD.DT-3M.O
+0.8636417520693477,3,1,0.8643522874318489,2,0.890029864009698,2,0.916073481522338,1,0.812296754774287,0,0.838985572448633,2,0.8959147152933851,2,0.8976587079877056,3,0.869007487874242,"DE.M-FO fatherNG send-VD.DT-3M.O
 ‘And the priest did not send him?’ COE/JH
  (12:84)aJam, jam, ji-te-te yoj-tsa’ m i’-we
 NG NG send-VD.DT-3M.O R-FR 3M-DR
@@ -8326,17 +8293,50 @@ interpretation, however, the clause in bold can also express the
 imitation of direct speech, citing another person who had said to a
 woman “your husband is beating you”. In this way, direct speech and
 indirect speech are formally not distinguished in the language.
-",tensor([34.3506])," Often, word order in the main clause is not changed, even if a
-relative clause follows. Since relative clauses usually are placed at the
-end of the main clause, they are often not adjacent to their head. This is
-shown in the following example, where the head of the relative clause,
-tetei ‘frog’ appears before the verb of the main clause, and is not
-adjacent to the relative clause yodye’sitomra’ phiki ‘with whom he
-would run’:
-(13:53) M o’-na-ki jiri-s tetei md’-ya’ bis-a-ki-’
-3F.SG-FO-CO one-F frog 3F-ADwait-VI-AN-F.S
- yo-dye’-si’-tom-ra’ phi-ki.
-",tensor([35.8037])," Notes 481
+",34.36628723144531,"R-RD begin-VI-RE.M.S DM
+‘So we started yesterday, now we also go on with the
+sentences, like w e started.’ STE/JH
+Complement clauses 429
+13.4. Complement clauses
+Complement clauses appear in subject or object position of a matrix
+clause, and are thus subordinated to this clause. There are three types of
+complement clauses in Moseten: finite complement clauses, non-finite
+complement clauses and indirect questions. In general, only object
+complement clauses are found in the language, whereas subject
+complements only very rarely occur. The latter can, however, be
+elicited:
+(13:64) Karij-tya-ki raej-dye-sV mayedye’
+ hard-VD-AN.M.S all-B-F.Sday
+ ij-a-n-yae.
+ kill-VI-1SG.O-1SG
+ ‘Working all day kills me.’ ELE/AT
+Since all my other examples of complement clauses are object
+complements, I will generally refer to them as “complement clauses” in
+the remainder of this section. The following table shows the different
+types of complement clauses, some of the matrix verbs they appear
+with, as well as restrictions on their form:
+Table 53: Complement clauses
+ Meaning of matrix verb Restrictions
+Finite complementwant, must, seem, stop,co-referent subjects in matrix
+clausesfinish, begin, know (how clause and complement clause279
+ to), etc.
+Non-finite beg, forbid, etc.primary object of matrix clause is
+complement clausesco-referent to subject of
+complement clause
+Indirect questions remember, etc. introduced by interrogative
+pronoun
+13.4.1. Finite complement clauses
+Finite complement clauses can appear in transitive and intransitive
+matrix clauses. Intransitive matrix clauses are often derived by the
+430 Clause combinations
+antipassive, as the demoted object complement is apparent in the clause
+without being inflected in the cross-reference ending. Due to the
+relatedness in form with object complements of transitive verbs, I will
+treat these structures under the same heading. The verbs in complement
+clauses are finite and can be inflected both intransitively and
+transitively. The subject of such a verb is co-referential with the subject
+of the matrix clause.
+",35.81532287597656," Notes 481
 242
 This marker has no gender agreement forms and is not related to the linker (4.8.).
 243
@@ -8482,7 +8482,7 @@ sleep-VI-F.S-QY want-VI-3F.O-2SG
 ‘Do you want to SLEEP?’ ELE/JH
  (12:73) Mi-dyajrai’s-e-’ khosh-'i-’?
 ",75.83174896240234
-0.8788792730032389,3,2,0.8724522658931133,3,0.9050791724055064,2,0.923804559880615,3,0.8275444630396505,1,0.8395902480004552,3,0.9109220501369044,0,0.8912561800560249,1,0.8699417886394027," Often, word order in the main clause is not changed, even if a
+0.8788792730032389,3,2,0.8724522658931133,3,0.9050791724055064,2,0.923804559880615,3,0.8279004925970787,1,0.8401340037629265,3,0.9109220501369044,0,0.8912561800560249,1,0.8699417886394027," Often, word order in the main clause is not changed, even if a
 relative clause follows. Since relative clauses usually are placed at the
 end of the main clause, they are often not adjacent to their head. This is
 shown in the following example, where the head of the relative clause,
@@ -8996,7 +8996,7 @@ would run’:
 (13:53) M o’-na-ki jiri-s tetei md’-ya’ bis-a-ki-’
 3F.SG-FO-CO one-F frog 3F-ADwait-VI-AN-F.S
  yo-dye’-si’-tom-ra’ phi-ki.
-",tensor([33.6083])," The internal constituent order of adverbial clauses does not differ
+",33.52667999267578," The internal constituent order of adverbial clauses does not differ
 from declarative clauses (12.1. and 12.2.). When the marker of the
 adverbial clause is a particle, it appears at the beginning of the clause,
 without changing the word order in the rest of the clause.
@@ -9018,7 +9018,7 @@ interpretation, however, the clause in bold can also express the
 imitation of direct speech, citing another person who had said to a
 woman “your husband is beating you”. In this way, direct speech and
 indirect speech are formally not distinguished in the language.
-",tensor([35.5469]),"Following an emphatic particle such as m e’, nash can be used to
+",35.62531661987305,"Following an emphatic particle such as m e’, nash can be used to
 introduce a story or a conversation, focusing on what will be said:
 (12:103)M e’ nash yae kha ra i’s-e-’dyaba
 soGF 1SG well want-VI-3F.0 peanut
@@ -9140,7 +9140,7 @@ leave-VK.M.S Roberto
 relative clause generally appears at the end of the main clause, often
 978
 independent of the place of its antecedent.",75.80990600585938
-0.8937522914211912,3,3,0.8873703496361575,0,0.8987328767752942,1,0.924338832244199,0,0.8217418305521118,0,0.8337031520595636,0,0.9045347850196626,3,0.906042413236244,1,0.8708537396416971," With pronominal subjects, the two main types of relative clauses
+0.8937522914211912,3,3,0.8873703496361575,0,0.8987328767752942,1,0.924338832244199,3,0.843130967490872,0,0.8342430950784379,0,0.9045347850196626,3,0.906042413236244,1,0.8708537396416971," With pronominal subjects, the two main types of relative clauses
 differ in their internal constituent order. In relative clauses marked by
  V-L, the pronominal subject usually appears after the verb, in the same
 way as in declarative clauses:
@@ -9288,7 +9288,57 @@ cross-reference marker for the 3rd person. This differs from the general
 order of affixes in verbs, where only clitics can appear after the verbal
 cross-reference ending. Derivational suffixes usually precede the
 inflectional marker in verbs.
-",68.1302490234375,"Given these facts about the 3rd person plural object marker -kse-, I
+",68.1302490234375," When the interrogative pronoun replaces a core element in the
+clause, this element is deleted from the clause. In the following
+example, the verb is replaced. The interrogative pronoun is verbalized
+and no verb appears after the question marker am:
+(12:66) Jaen’-ye-team-ra’ m i’ini
+ how-VY-3M.O QN-IR 2P
+‘What will you do to him?’ WTE/JH
+In yes/no questions, the interrogated element is fronted, followed by the
+markers -dyaj or -dyej. Again, I will differentiate between fronted core­
+elements and optional elements fronted. In case of the latter, the marker
+is followed by the clitic -dyaj, and the constituent order follows this
+question marker resembling the order in declarative clauses:
+(12:67) Jam-dyaj nai-tva-ksi-mi yae-si’ awa’-in?
+no-QY see-VD-3P.O.M.S-2SG 1SG-L.Fchild-P
+‘Haven’t you seen my children?’ WTE/JH
+In intransitive clauses, however, there is a tendency to place the verb
+before the subject:
+394 Clause types
+(12:68,) A-dyaj daer-i kaedaei-mi?
+ yet-QY big-VI.M.Sbaby-2SG
+‘Is your baby already growing?’ COE/JH
+When a core element of the clause is interrogated, this argument is
+fronted and appears in clause-initial position, followed by -dyaj. In the
+following example, the fronted element mi ’ ‘he’ appears again after that
+clause in an apposition, waemtyi’ m o’ ‘her husband’:
+(12:69) Mi ’-dvai-ka ’-ki jae-ki-kim i’-we jij-ka-i,
+ 3M.SG-QY-QR-CO back-VK.M.S-CO 3M-DR go-DK-M.S
+ waem ’tvi ’-mo ’ jaen ’-dyash-ka ’?
+ husband-3F.SG how-QI-QR
+‘Didn’t he follow after her (there), her husband, how was it?’
+ COE/JH
+When the action expressed by the verb is interrogated, the verb is
+fronted in the clause. In an analytic construction of two clauses, both
+verbs can be fronted, leading to different questions. In the following
+examples, the clause mi ra i’s e ’ khoshi’ ‘you want to sleep’ is
+questioned. This can be carried out in four different ways: with the
+general question, in which an optional particle appears in fronted
+position (12:70), with the question about the clause ‘want’ (12:71), with
+the question about the clause with the content verb ‘sleep’ (12:72), or
+with the question about the subject (12:73):
+(12:70) M e’-dyaj mi rai’s-e-’khosh-'i-’?
+so-QY 2SG want-VI-3F.0 sleep-VI-F.S
+‘Do you want to sleep?’ ELE/JH
+(12:71) R ai’s-e-’-dyaj khosh-'i-’-mi?
+want-VI-3F.O-QY sleep-VI-F.S-2SG
+‘Do you WANT to sleep?’ ELE/JH
+(12:72) Khosh-i-’-dyaj rai’s-e-’-mi?
+sleep-VI-F.S-QY want-VI-3F.O-2SG
+‘Do you want to SLEEP?’ ELE/JH
+ (12:73) Mi-dyajrai’s-e-’ khosh-'i-’?
+",33.05449676513672,"Given these facts about the 3rd person plural object marker -kse-, I
 assume that this marker acts as a derivational suffix instead of as an
 inflectional marker. It seems that this derivational marker has acquired
 inflectional uses. Furthermore, this suffix appears to be intransitive in
@@ -9335,54 +9385,7 @@ that can be applied to 3rd person singular or plural subjects, as well as 1st
 person singular and plural (exclusive) objects.153 Furthermore, 3rd
 person object forms are marked for number, while the corresponding
 subject forms do not show these distinctions.
-",tensor([33.0155]),"Given these facts about the 3rd person plural object marker -kse-, I
-assume that this marker acts as a derivational suffix instead of as an
-inflectional marker. It seems that this derivational marker has acquired
-inflectional uses. Furthermore, this suffix appears to be intransitive in
-nature, due to the fact that the intransitive 1st plural inclusive subject
-form - j a ’ is added to -ksi- instead of a transitive marker. Another
-argument for this claim is that 3rd person plural object forms generally
-agree with the gender of the subject, whereas 3rd person singular object
-forms agree with the gender of the object ( 8.1.2.3).
-8.1.2.3. The category of gender in the cross-reference paradigm
-The cross-reference system of transitive verbs contains some forms
-agreeing in gender with an argument, while other forms do not show
-such agreement. All 3rd person object forms show gender agreement
-with a number split with respect to their antecedent: singular 3rd person
-object forms inflect for the gender of the object, 3rd person plural object
-forms agree with the gender of the subject of the clause (see the
-previous section 8.1.2.2. for an explanation). Furthermore, 1st person
-inclusive plural subject forms (of transitive verbs) show gender
-190 The verbal system
-agreement with the object of the clause. Table 21 summarizes the forms
-of the cross-reference markers in the 3rd person object forms and the 1st
-person plural inclusive forms, in order to show the gender agreement
-structure in transitive cross-reference. Only forms which show gender
-agreement are shown in the table.
-Table 21: Transitive cross-reference markers that show gender agreement
-S|0 3SG m 3SG f3Pm 3Pf
-l SGm -te -(V)’-ksi-ksi
-lSGf-te -(V)’-ksi’ -ksi’
-2SG m -te -(V)’-ksi-ksi
-2SG f -te -(V)’-ksi’ -ksi’
-3SG m -te -(V)’-ksi-ksi
-3SG f -te -(V)’-ksi’ -ksi’
-IP.I m-ti -ti-kseja ’-kseja ’
-lP.If -ti’-ti’ -kseja ’-kseja ’
-lP.Em -te -(V)’-ksi-ksi
-l P.Ef-te -(V)’-ksi’ -ksi’
-2Pm -te -(V)’-ksi-ksi
-2Pf -te -(V)’-ksi’ -ksi’
-3Pm -te -(V)’-ksi-ksi
-3Pf -te -(V)’-ksi’ -ksi’
-8.1.2.4. The category of number in the cross-reference paradigm
-Most cross-reference markers in the paradigm involve number marking
-of the subject or object. An exception is the cross-reference marker -n
-that can be applied to 3rd person singular or plural subjects, as well as 1st
-person singular and plural (exclusive) objects.153 Furthermore, 3rd
-person object forms are marked for number, while the corresponding
-subject forms do not show these distinctions.
-",tensor([35.5266]),"Given these facts about the 3rd person plural object marker -kse-, I
+",35.42910385131836,"Given these facts about the 3rd person plural object marker -kse-, I
 assume that this marker acts as a derivational suffix instead of as an
 inflectional marker. It seems that this derivational marker has acquired
 inflectional uses. Furthermore, this suffix appears to be intransitive in
@@ -9502,7 +9505,7 @@ imitation of direct speech, citing another person who had said to a
 woman “your husband is beating you”. In this way, direct speech and
 indirect speech are formally not distinguished in the language.
 ",75.7339096069336
-0.8944850834747022,1,0,0.8812501429095119,2,0.9063283327854674,1,0.9248606684629038,3,0.8367653101021012,3,0.8486441341941507,1,0.9051932100516944,3,0.9204844703920604,1,0.8717444633532682," Relative clauses can be marked in two ways: 1. by addition of the
+0.8944850834747022,1,0,0.8812501429095119,2,0.9063283327854674,1,0.9248606684629038,0,0.8373158804521889,3,0.8491803532178549,1,0.9051932100516944,3,0.9204844703920604,1,0.8717444633532682," Relative clauses can be marked in two ways: 1. by addition of the
 linker to the verb of the relative clause, marking a restrictive relative
 clause or 2. by starting the relative clause with the relative marker
 yodye’-L, marking a non-restrictive relative clause. The latter can mark
@@ -9632,57 +9635,54 @@ or other elements can appear in between. The elements that can appear
 in between are often adverbials, such as aj ‘yet’, though also other the
 subject of the clause may appear between the negator and the negative
 quantifier, as in example (10:28) above.
-",67.31056213378906," When the interrogative pronoun replaces a core element in the
-clause, this element is deleted from the clause. In the following
-example, the verb is replaced. The interrogative pronoun is verbalized
-and no verb appears after the question marker am:
-(12:66) Jaen’-ye-team-ra’ m i’ini
- how-VY-3M.O QN-IR 2P
-‘What will you do to him?’ WTE/JH
-In yes/no questions, the interrogated element is fronted, followed by the
-markers -dyaj or -dyej. Again, I will differentiate between fronted core­
-elements and optional elements fronted. In case of the latter, the marker
-is followed by the clitic -dyaj, and the constituent order follows this
-question marker resembling the order in declarative clauses:
-(12:67) Jam-dyaj nai-tva-ksi-mi yae-si’ awa’-in?
-no-QY see-VD-3P.O.M.S-2SG 1SG-L.Fchild-P
-‘Haven’t you seen my children?’ WTE/JH
-In intransitive clauses, however, there is a tendency to place the verb
-before the subject:
-394 Clause types
-(12:68,) A-dyaj daer-i kaedaei-mi?
- yet-QY big-VI.M.Sbaby-2SG
-‘Is your baby already growing?’ COE/JH
-When a core element of the clause is interrogated, this argument is
-fronted and appears in clause-initial position, followed by -dyaj. In the
-following example, the fronted element mi ’ ‘he’ appears again after that
-clause in an apposition, waemtyi’ m o’ ‘her husband’:
-(12:69) Mi ’-dvai-ka ’-ki jae-ki-kim i’-we jij-ka-i,
- 3M.SG-QY-QR-CO back-VK.M.S-CO 3M-DR go-DK-M.S
- waem ’tvi ’-mo ’ jaen ’-dyash-ka ’?
- husband-3F.SG how-QI-QR
-‘Didn’t he follow after her (there), her husband, how was it?’
- COE/JH
-When the action expressed by the verb is interrogated, the verb is
-fronted in the clause. In an analytic construction of two clauses, both
-verbs can be fronted, leading to different questions. In the following
-examples, the clause mi ra i’s e ’ khoshi’ ‘you want to sleep’ is
-questioned. This can be carried out in four different ways: with the
-general question, in which an optional particle appears in fronted
-position (12:70), with the question about the clause ‘want’ (12:71), with
-the question about the clause with the content verb ‘sleep’ (12:72), or
-with the question about the subject (12:73):
-(12:70) M e’-dyaj mi rai’s-e-’khosh-'i-’?
-so-QY 2SG want-VI-3F.0 sleep-VI-F.S
-‘Do you want to sleep?’ ELE/JH
-(12:71) R ai’s-e-’-dyaj khosh-'i-’-mi?
-want-VI-3F.O-QY sleep-VI-F.S-2SG
-‘Do you WANT to sleep?’ ELE/JH
-(12:72) Khosh-i-’-dyaj rai’s-e-’-mi?
-sleep-VI-F.S-QY want-VI-3F.O-2SG
-‘Do you want to SLEEP?’ ELE/JH
- (12:73) Mi-dyajrai’s-e-’ khosh-'i-’?
-",tensor([33.0012]),"Following an emphatic particle such as m e’, nash can be used to
+",67.31056213378906,"Given these facts about the 3rd person plural object marker -kse-, I
+assume that this marker acts as a derivational suffix instead of as an
+inflectional marker. It seems that this derivational marker has acquired
+inflectional uses. Furthermore, this suffix appears to be intransitive in
+nature, due to the fact that the intransitive 1st plural inclusive subject
+form - j a ’ is added to -ksi- instead of a transitive marker. Another
+argument for this claim is that 3rd person plural object forms generally
+agree with the gender of the subject, whereas 3rd person singular object
+forms agree with the gender of the object ( 8.1.2.3).
+8.1.2.3. The category of gender in the cross-reference paradigm
+The cross-reference system of transitive verbs contains some forms
+agreeing in gender with an argument, while other forms do not show
+such agreement. All 3rd person object forms show gender agreement
+with a number split with respect to their antecedent: singular 3rd person
+object forms inflect for the gender of the object, 3rd person plural object
+forms agree with the gender of the subject of the clause (see the
+previous section 8.1.2.2. for an explanation). Furthermore, 1st person
+inclusive plural subject forms (of transitive verbs) show gender
+190 The verbal system
+agreement with the object of the clause. Table 21 summarizes the forms
+of the cross-reference markers in the 3rd person object forms and the 1st
+person plural inclusive forms, in order to show the gender agreement
+structure in transitive cross-reference. Only forms which show gender
+agreement are shown in the table.
+Table 21: Transitive cross-reference markers that show gender agreement
+S|0 3SG m 3SG f3Pm 3Pf
+l SGm -te -(V)’-ksi-ksi
+lSGf-te -(V)’-ksi’ -ksi’
+2SG m -te -(V)’-ksi-ksi
+2SG f -te -(V)’-ksi’ -ksi’
+3SG m -te -(V)’-ksi-ksi
+3SG f -te -(V)’-ksi’ -ksi’
+IP.I m-ti -ti-kseja ’-kseja ’
+lP.If -ti’-ti’ -kseja ’-kseja ’
+lP.Em -te -(V)’-ksi-ksi
+l P.Ef-te -(V)’-ksi’ -ksi’
+2Pm -te -(V)’-ksi-ksi
+2Pf -te -(V)’-ksi’ -ksi’
+3Pm -te -(V)’-ksi-ksi
+3Pf -te -(V)’-ksi’ -ksi’
+8.1.2.4. The category of number in the cross-reference paradigm
+Most cross-reference markers in the paradigm involve number marking
+of the subject or object. An exception is the cross-reference marker -n
+that can be applied to 3rd person singular or plural subjects, as well as 1st
+person singular and plural (exclusive) objects.153 Furthermore, 3rd
+person object forms are marked for number, while the corresponding
+subject forms do not show these distinctions.
+",32.8449821472168,"Following an emphatic particle such as m e’, nash can be used to
 introduce a story or a conversation, focusing on what will be said:
 (12:103)M e’ nash yae kha ra i’s-e-’dyaba
 soGF 1SG well want-VI-3F.0 peanut
@@ -9719,7 +9719,7 @@ j o ’dye’y d ’. Both coordinating devices can be used to combine clauses
  express succession in time, as well as actions happening at the same
  time, whereas jo ’dye ’y d ’ can only be used with actions happening at the
  same time.
-",tensor([35.1739]),"3F.SG housebig
+",35.32684326171875,"3F.SG housebig
 ‘The house is big.’ ELE/CT
 The subject precedes the predicate in the unmarked constituent order. In
 focus constructions, the order of predicate and subject is reversed:
@@ -9792,7 +9792,7 @@ in between are often adverbials, such as aj ‘yet’, though also other the
 subject of the clause may appear between the negator and the negative
 quantifier, as in example (10:28) above.
 ",75.66560363769531
-0.8952012605983283,1,1,0.8820561515183675,3,0.9205390226274448,1,0.9253706728499947,4,0.8582356045037668,4,0.8700338016821016,2,0.9126241553964076,1,0.9210241780007432,1,0.8726149912781304,"A^
+0.8952012605983283,1,1,0.8820561515183675,3,0.9205390226274448,1,0.9253706728499947,4,0.8587824378856356,4,0.8705663811464841,2,0.9126241553964076,1,0.9210241780007432,1,0.8726149912781304,"A^
 /Vs /Vs
 /V s /V•'Ss /W My \i
  /V s /s \ / ^ i
@@ -9974,7 +9974,7 @@ yet-P rage-VI-3M.O-P kill-VI-3M.O want-VI-3F.O-P
 ‘They were angry with him and wanted to kill him.’ STE/EC
 The complement clause aejate ‘kill him’ precedes the matrix verb
 ra i’s e ’ ‘want it’.
-",tensor([32.8368])," Usually, complement clauses appear in object position of the matrix
+",32.65321731567383," Usually, complement clauses appear in object position of the matrix
 clause, i.e. after the matrix verb. This order can be changed to O A V
 when the object is focused, in the same way as in transitive declarative
 clauses (12.1.3.). This fronting of an object complement is found when
@@ -9984,7 +9984,7 @@ yet-P rage-VI-3M.O-P kill-VI-3M.O want-VI-3F.O-P
 ‘They were angry with him and wanted to kill him.’ STE/EC
 The complement clause aejate ‘kill him’ precedes the matrix verb
 ra i’s e ’ ‘want it’.
-",tensor([35.1027]),"This formal deletion, however, does not change their status as core elements of the
+",35.168983459472656,"This formal deletion, however, does not change their status as core elements of the
 clause.
 262
 When the answer is positive, a marker such as anik ‘sure’ is used.
@@ -10124,7 +10124,7 @@ order of affixes in verbs, where only clitics can appear after the verbal
 cross-reference ending. Derivational suffixes usually precede the
 inflectional marker in verbs.
 ",75.60816955566406
-0.8959016049208713,1,2,0.889527096604883,1,0.9210700408885832,1,0.9258694023753984,1,0.8591829812574507,1,0.8709023339720329,1,0.9132080667778316,1,0.9215519540872792,1,0.8734662741098208,"The nominal morphology is rather simple, and most nominal
+0.8959016049208713,1,2,0.889527096604883,1,0.9210700408885832,1,0.9258694023753984,1,0.8597261602856836,1,0.8714313543382208,1,0.9132080667778316,1,0.9215519540872792,1,0.8734662741098208,"The nominal morphology is rather simple, and most nominal
  modification is carried out by clitics. The same is the case with
  adjectives, adverbs and particles. Exceptional in nominal and adjectival
 14Introduction
@@ -10261,7 +10261,7 @@ is; tell me about it now.’ STE/VC
 In the present section, I will discuss the position of the complement
 clause in relation to the matrix clause, as well as the word order inside
 complement clauses.
-",tensor([31.8049]),"NG think(PR) -2SG thingyear
+",31.888168334960938,"NG think(PR) -2SG thingyear
  ‘Don’t you remember what year it was?’ COE/JH
 These clauses can also be interpreted as direct question, marked by a
 question marker, such as -dyash:
@@ -10275,7 +10275,7 @@ is; tell me about it now.’ STE/VC
 In the present section, I will discuss the position of the complement
 clause in relation to the matrix clause, as well as the word order inside
 complement clauses.
-",tensor([33.2900])," The internal constituent order of adverbial clauses does not differ
+",33.45746612548828," The internal constituent order of adverbial clauses does not differ
 from declarative clauses (12.1. and 12.2.). When the marker of the
 adverbial clause is a particle, it appears at the beginning of the clause,
 without changing the word order in the rest of the clause.
@@ -10352,7 +10352,7 @@ In the following example, the subject tsin ‘we’ is juxtaposed to the
 predicate dikhan otel ‘in this hotel’:
 (12:28) M e’ nash tsin di-khan otel.
 ",75.32457733154297
-0.8900042752392018,0,1,0.890254291565394,1,0.9215896023985573,1,0.9263573717810678,1,0.8601099183002614,1,0.8717521276251743,1,0.9137793802358156,1,0.9220683433727644,1,0.8742991904628284,"Given these facts about the 3rd person plural object marker -kse-, I
+0.8900042752392018,0,1,0.890254291565394,1,0.9215896023985573,1,0.9263573717810678,1,0.8606495218177596,1,0.872277665680927,1,0.9137793802358156,1,0.9220683433727644,1,0.8742991904628284,"Given these facts about the 3rd person plural object marker -kse-, I
 assume that this marker acts as a derivational suffix instead of as an
 inflectional marker. It seems that this derivational marker has acquired
 inflectional uses. Furthermore, this suffix appears to be intransitive in
@@ -10599,12 +10599,12 @@ The language Moseten is spoken in Bolivia, in the eastern foothills of
 the Andes. Together with Chimane (Tsimane’), it forms the language
 family Mosetenan. This language family has not yet been proved to be
 related to other languages.
-",tensor([31.6647])," In word order, jam is either placed at the beginning of the negated
+",31.53608703613281," In word order, jam is either placed at the beginning of the negated
 clause (10:2) or alternatively (without a change in meaning) before the
 verb (10:3). Example (10:1) shows jam in combination with an
 affirmative clause:
 (10:1) Yae jaem -e-’ shokdye’.
-",tensor([33.1939]),"NX-VI-F.S more thing
+",33.39861297607422,"NX-VI-F.S more thing
 ‘There do not exist more things.” STE/JH
 Finally looking at the word order with negative quantifiers, the negation
 always appears before the quantifier(s). These markers can be adjacent,
@@ -10637,7 +10637,7 @@ verb (10:3). Example (10:1) shows jam in combination with an
 affirmative clause:
 (10:1) Yae jaem -e-’ shokdye’.
 ",75.24443054199219
-0.8842312224878521,0,1,0.8909661620379904,1,0.9220982149684076,1,0.9268350580004308,2,0.8675038665716044,1,0.8725840132161387,1,0.91433865416292,2,0.9290603955338468,1,0.875114554416165,"Such verbs are dyijchhi- ‘remember’ andyakchhiti- ‘begin’. In most cases, the path
+0.8842312224878521,0,1,0.8909661620379904,1,0.9220982149684076,1,0.9268350580004308,1,0.8615534249605346,1,0.8731061423456614,1,0.91433865416292,2,0.9290603955338468,1,0.875114554416165,"Such verbs are dyijchhi- ‘remember’ andyakchhiti- ‘begin’. In most cases, the path
 of lexicalization is synchronically unclear.
 202
 The form of the 1st person plural inclusive subject is -jija ': khoshe-ji-ja' ‘we go to
@@ -10702,66 +10702,12 @@ is; tell me about it now.’ STE/VC
 In the present section, I will discuss the position of the complement
 clause in relation to the matrix clause, as well as the word order inside
 complement clauses.
-",65.58660888671875," Notes 481
-242
-This marker has no gender agreement forms and is not related to the linker (4.8.).
-243
-Another form, realized with nasal vowels watyeke, means ‘suddenly’.
-244
-One purpose for the speaker using this marker could be to keep the interest of the
-hearer.
-245
-In verbalized forms, this marker is also used to express ‘accept’ja-yi-, even if ja
-itself does not have a positive or negative implication, and can appear in negated
-clauses as well.
-246
-With these parts of speech, it has the meaning ‘big’ (4.6.3.) and can be used in
-superlative constructions (6.3.2.).
-247
-This marker is not to be confused with chhome’ ‘also’.
-248
-This verb appears in combination with a temporal particle and an evidential that
-are optional elements in a clause.
-249
-See appendix II for statistics about the word order in written texts.
-250
-The context of this example can be seen in the text ‘The story of the Armadillo’ in
-the appendix.
-251
-See appendix II for statistics about the word order in written texts.
-252
-Furthermore, different topic markers such as -ki (13.2.1.) can then help to
-differentiate between the participants.
-253
-See also examples in section 5.1.
-254
-Compare this with cliticization with intransitive (12.1.2.) and transitive (12.1.3.)
-verbs above.
-255
-There are few examples which use mo ’we, such as jes mo ’we tyabedye ’ ‘there are
-many fish [in the river]’. Other place adverbs, such as dya’ or m oya’ (see 6.4.1.1.)
-are never used in this structure.
-256
-This resembles the use of abikio ’ above, expressing an accusation, rather than a
-question.
-257
-Another marker, -dye, appears with degree adverbs (6.4.4.).
-258
-The question marker abi ’ does not appear in combination with —ka ’, which may be
-caused by the closeness between questions marked by a b i’ and rhetorical
-questions: a b i’ expresses that the speaker does not expect the hearer to know an
-answer to his question.
-259
-Question markers show that the interrogative pronouns are used in questions and
-not as subordinations, or other functions ( see 5.4.1. for an example where jaen ’ is
-used as a subordinator).
-260
-Predicate clauses will be discussed below.
-261
-The notion o f ‘core’ elements is somewhat misleading, since this term includes
-verbs, subjects and objects. The latter two are core elements, but can be “deleted”
-from the clause by pro-drop, as they occur in the verbal cross-reference ending.
-",tensor([29.6646]),"A^
+",65.58660888671875," In word order, jam is either placed at the beginning of the negated
+clause (10:2) or alternatively (without a change in meaning) before the
+verb (10:3). Example (10:1) shows jam in combination with an
+affirmative clause:
+(10:1) Yae jaem -e-’ shokdye’.
+",29.829418182373047,"A^
 /Vs /Vs
 /V s /V•'Ss /W My \i
  /V s /s \ / ^ i
@@ -10842,7 +10788,7 @@ The language Moseten is spoken in Bolivia, in the eastern foothills of
 the Andes. Together with Chimane (Tsimane’), it forms the language
 family Mosetenan. This language family has not yet been proved to be
 related to other languages.
-",tensor([32.9902]),"There are two forms of the 1st person plural inclusive subject in the
+",32.9917106628418,"There are two forms of the 1st person plural inclusive subject in the
 transitive paradigm: those with a 3rd person singular object and those
 with a 3rd person plural object. The latter formally resemble reflexive
 forms (8.2.3.): -ti (1st person plural inclusive subject with a masculine
@@ -10956,7 +10902,7 @@ from the clause by pro-drop, as they occur in the verbal cross-reference ending.
 Usually, the patient-‘secondary object’ appears after the primary object
 in word order.
 ",74.84785461425781
-0.8849714944999232,1,3,0.904452170582826,1,0.922596350237593,0,0.9209085027755392,1,0.8683511000087406,2,0.8797931633765951,3,0.927675209615616,1,0.929514011827136,0,0.8695187208424511," As mentioned in 3.1. above, only verbs have inflectional forms.
+0.8849714944999232,1,3,0.904452170582826,1,0.922596350237593,0,0.9209085027755392,2,0.8688331091279812,2,0.8803119538029754,3,0.927675209615616,1,0.929514011827136,0,0.8695187208424511," As mentioned in 3.1. above, only verbs have inflectional forms.
 Derivation is found with all parts of speech, but it is most common with
 verbs. There is no definite and fixed order of affixes in Moseten.
 Generally, one can say that inflectional forms seem to follow
@@ -11031,12 +10977,7 @@ Below, I will discuss some instances where this is not the case.
 205
 One possible analysis of -min- and -j- is that -min- expresses the interruption of
 the movement in order to do the action, while -j- expresses an ongoing action.
-",65.48749542236328," In word order, jam is either placed at the beginning of the negated
-clause (10:2) or alternatively (without a change in meaning) before the
-verb (10:3). Example (10:1) shows jam in combination with an
-affirmative clause:
-(10:1) Yae jaem -e-’ shokdye’.
-",tensor([29.6277])," Notes 481
+",65.48749542236328," Notes 481
 242
 This marker has no gender agreement forms and is not related to the linker (4.8.).
 243
@@ -11095,7 +11036,66 @@ Predicate clauses will be discussed below.
 The notion o f ‘core’ elements is somewhat misleading, since this term includes
 verbs, subjects and objects. The latter two are core elements, but can be “deleted”
 from the clause by pro-drop, as they occur in the verbal cross-reference ending.
-",tensor([32.4708])," When the interrogative pronoun replaces a core element in the
+",29.760560989379883," Notes 481
+242
+This marker has no gender agreement forms and is not related to the linker (4.8.).
+243
+Another form, realized with nasal vowels watyeke, means ‘suddenly’.
+244
+One purpose for the speaker using this marker could be to keep the interest of the
+hearer.
+245
+In verbalized forms, this marker is also used to express ‘accept’ja-yi-, even if ja
+itself does not have a positive or negative implication, and can appear in negated
+clauses as well.
+246
+With these parts of speech, it has the meaning ‘big’ (4.6.3.) and can be used in
+superlative constructions (6.3.2.).
+247
+This marker is not to be confused with chhome’ ‘also’.
+248
+This verb appears in combination with a temporal particle and an evidential that
+are optional elements in a clause.
+249
+See appendix II for statistics about the word order in written texts.
+250
+The context of this example can be seen in the text ‘The story of the Armadillo’ in
+the appendix.
+251
+See appendix II for statistics about the word order in written texts.
+252
+Furthermore, different topic markers such as -ki (13.2.1.) can then help to
+differentiate between the participants.
+253
+See also examples in section 5.1.
+254
+Compare this with cliticization with intransitive (12.1.2.) and transitive (12.1.3.)
+verbs above.
+255
+There are few examples which use mo ’we, such as jes mo ’we tyabedye ’ ‘there are
+many fish [in the river]’. Other place adverbs, such as dya’ or m oya’ (see 6.4.1.1.)
+are never used in this structure.
+256
+This resembles the use of abikio ’ above, expressing an accusation, rather than a
+question.
+257
+Another marker, -dye, appears with degree adverbs (6.4.4.).
+258
+The question marker abi ’ does not appear in combination with —ka ’, which may be
+caused by the closeness between questions marked by a b i’ and rhetorical
+questions: a b i’ expresses that the speaker does not expect the hearer to know an
+answer to his question.
+259
+Question markers show that the interrogative pronouns are used in questions and
+not as subordinations, or other functions ( see 5.4.1. for an example where jaen ’ is
+used as a subordinator).
+260
+Predicate clauses will be discussed below.
+261
+The notion o f ‘core’ elements is somewhat misleading, since this term includes
+verbs, subjects and objects. The latter two are core elements, but can be “deleted”
+from the clause by pro-drop, as they occur in the verbal cross-reference ending.
+",32.70103454589844," When the interrogative pronoun replaces a core element in the
 clause, this element is deleted from the clause. In the following
 example, the verb is replaced. The interrogative pronoun is verbalized
 and no verb appears after the question marker am:
@@ -11242,7 +11242,7 @@ person singular and plural (exclusive) objects.153 Furthermore, 3rd
 person object forms are marked for number, while the corresponding
 subject forms do not show these distinctions.
 ",74.83453369140625
-0.8920027141895032,2,1,0.9050546823358268,1,0.9230844472356252,1,0.921407243112508,1,0.8691812602541192,1,0.880551171510306,1,0.9281312800099484,1,0.9299584869821976,1,0.8703415182279965,"Contents
+0.8920027141895032,2,1,0.9050546823358268,1,0.9230844472356252,1,0.921407243112508,1,0.869660229888725,1,0.8810666905140789,1,0.9281312800099484,1,0.9299584869821976,1,0.8703415182279965,"Contents
 AbbreviationsXX1
 Mapsxxvii
  Map I: Bolivia xxvii
@@ -11945,7 +11945,7 @@ leave-VK.M.S Roberto
  Relative clauses 425
 relative clause generally appears at the end of the main clause, often
 978
-independent of the place of its antecedent.",tensor([28.8284]),"In the following example, -ka’ is added to the general information
+independent of the place of its antecedent.",28.871631622314453,"In the following example, -ka’ is added to the general information
 question marker -dyash, changing the information question into a
 rhetorical question. In this question, the speaker does not directly ask
  for the answer to the question ‘what is it called’, but instead expresses
@@ -12015,7 +12015,7 @@ In the present section, I will look at word order in interrogative clauses.
 I will only take those interrogative clauses marked by a question marker
 into account, and not treat the comment-type of questions discussed in
 12.3.1.8. above.
-",tensor([30.0487]),"3F.SG child other-LF-L.M have-3M.O Elena
+",30.15928840637207,"3F.SG child other-LF-L.M have-3M.O Elena
 ‘She cares for the son of another woman, Elena.’ e l e / jh
 Possessive clauses have a separate negation marker daerae’ (10.3.).
 12.3. Interrogative clauses
@@ -12049,7 +12049,7 @@ live-VI.M.S-lP DE.F-IN housenew-L.F
 The order of elements inside the noun phrase is rather free, though there
 are some tendencies that I will elaborate on here.
 ",74.36512756347656
-0.8864538365478282,0,1,0.9056453082857122,1,0.9235629155006226,1,0.9218961447543452,0,0.8637743479377489,0,0.8750735304334132,1,0.9285783534629154,2,0.9366148898527245,1,0.8711480842160967,"1SG-L.Fname GF Jeanette
+0.8864538365478282,0,1,0.9056453082857122,1,0.9235629155006226,1,0.9218961447543452,0,0.8642503380479046,0,0.8755858425502245,1,0.9285783534629154,2,0.9366148898527245,1,0.8711480842160967,"1SG-L.Fname GF Jeanette
 ‘My name is Jeanette.’ (answer to the question ‘what is your
 name?’) ele /jh
 In the following example, it is applied in order to focus an adverbial
@@ -12178,7 +12178,7 @@ and not all voice structures can appear together. Thus, causative and
 applicative prefixes cannot be applied to the same verb. In the same
 way, two elements of the same voice structure cannot be combined.
 Still, it is possible to elicit a number of co-occurring voice structures.
-",tensor([28.8038])," With the applicative -tye- appearing before -ti- the meaning is a
+",28.833759307861328," With the applicative -tye- appearing before -ti- the meaning is a
 combination of ‘take from another person’ and ‘for a reason’:
 (9:67)Tsin y a ’-i-tye-ti-te jiri-s waka y a ’-i-dye-si’
 IP buy-VI-APD-REA-3M.O one-Fcow.E buy-VI-B-L.F
@@ -12196,7 +12196,7 @@ and not all voice structures can appear together. Thus, causative and
 applicative prefixes cannot be applied to the same verb. In the same
 way, two elements of the same voice structure cannot be combined.
 Still, it is possible to elicit a number of co-occurring voice structures.
-",tensor([29.8264])," DMsend-VD.DT-10 DM Germany.E-DR
+",29.8306941986084," DMsend-VD.DT-10 DM Germany.E-DR
  ‘So, when she came, she sent a postcard to me from Germany.’
  STE/JH
 Usually, the patient-‘secondary object’ appears after the primary object
@@ -12340,7 +12340,7 @@ I will only take those interrogative clauses marked by a question marker
 into account, and not treat the comment-type of questions discussed in
 12.3.1.8. above.
 ",74.30287170410156
-0.8871508593947668,1,0,0.90008584725325,2,0.9301708115173306,0,0.9162369251395046,1,0.8646105927648715,0,0.8697017395695125,0,0.92287811394924,1,0.9370039903611443,3,0.8842164114755686,"There are two forms of the 1st person plural inclusive subject in the
+0.8871508593947668,1,0,0.90008584725325,2,0.9301708115173306,0,0.9162369251395046,1,0.8650836609270581,0,0.8702109067694078,0,0.92287811394924,1,0.9370039903611443,3,0.8842164114755686,"There are two forms of the 1st person plural inclusive subject in the
 transitive paradigm: those with a 3rd person singular object and those
 with a 3rd person plural object. The latter formally resemble reflexive
 forms (8.2.3.): -ti (1st person plural inclusive subject with a masculine
@@ -12592,46 +12592,13 @@ In the present section, I will look at word order in interrogative clauses.
 I will only take those interrogative clauses marked by a question marker
 into account, and not treat the comment-type of questions discussed in
 12.3.1.8. above.
-",tensor([27.9067]),"PS-EH enter-VT.M.S-P night-VI-F.S say-DS-F.S-P
-‘And then they entered, “good night”, they said.’ STE/vc
-The distributive associated motion marker is not used with transitive
-cross-reference forms. An exception to this are 3rd person plural object
-forms, marked by -ksi-, as discussed before (8.1.2.2.). With the 3rd
-person plural object forms, the distributive marker follows the -ksi-:
-(8:311) Ya-kse-jij.
-say-3P.O-DS.M
-‘Go to them (individually) to tell them (something).’ ELE/JH
-8.6.6. The -min- interrupted movement marker
-With other parts of speech, the marker -min- has several functions, such
-as associative relation marking of nouns (4.1.3.) and plural marking of
-adjectives (6.1.3.). With verbs, this marker expresses the interruption of
-a movement in order to do an action. It appears in relation to the
-associated motion markers -jo- (8.6.3.) and -chhi- (8.6.4.), which
-express that an action is carried out while moving towards or away from
-the deictic center. The associated motion marker -kho- (8.6.3.) in
-relation to the marker -min- is realized as -jo-:
-284 The verbal system
-(8:312) Saeks-e-min-jo-’.
-eat-VI-ITR-DJ-F.S
-‘She went (there), ate and went away (after eating).’
-ELE/AT, LM
-In this example, the construction of the interrupted movement marker
-and the associated motion marker expresses a movement away from the
-deictic center with an action done on the way. This action is not carried
-out while moving, but the movement stopped for this action to be done.
-This is also the case in the following example, where the movement to
-the deictic center was interrupted in order to sleep:
-(8:313) Khdsh-m'in-chhi.
-sleep-VI.ITR-DC.M.S
-‘He came here (interrupting his movement here to sleep).’
-ELE/CT
-The following text example again illustrates the use of - min-:
-(8:314) M d’-na-ki-ra’m o’-khan jene-min-ra’-tsa’ aj
-3F.SG-FO-CO-IR 3F-IN like-AS-IR-FR yet
-weraej-ye-min-chhi-’ n a’ri j a e ’ma m o’-khan
-break.though-VY-ITR-DC-F.S doorframe DM 3F-IN
-mo ’phi-ke-wa ’-jo- ’phi-ke-wa ’-jo- ’.
-",tensor([29.2597]),"R-RD begin-VI-RE.M.S DM
+",27.98088264465332,"1SG-L.Fname GF Jeanette
+‘My name is Jeanette.’ (answer to the question ‘what is your
+name?’) ele /jh
+In the following example, it is applied in order to focus an adverbial
+phrase, expressing ‘up there is a lot!’:
+(12:91) M o-jd’-chhe’-ya ndja’khd ara-si’!
+",29.566648483276367,"R-RD begin-VI-RE.M.S DM
 ‘So we started yesterday, now we also go on with the
 sentences, like w e started.’ STE/JH
 Complement clauses 429
@@ -12704,7 +12671,7 @@ sure-QY
  adverbials, such as ‘in the house’ or ‘yesterday’, can be placed in
  different positions in the clause.
 ",73.14340209960938
-0.8999538793339099,3,0,0.8946316873570905,0,0.9245343487818728,0,0.910684896177238,0,0.8593713987088338,0,0.8644316952020162,0,0.917285842041504,0,0.9313261212974712,1,0.8849180136695044," When the interrogative pronoun replaces a core element in the
+0.8999538793339099,3,0,0.8946316873570905,0,0.9245343487818728,0,0.910684896177238,0,0.8598416002673447,1,0.8709973767149329,0,0.917285842041504,0,0.9313261212974712,1,0.8849180136695044," When the interrogative pronoun replaces a core element in the
 clause, this element is deleted from the clause. In the following
 example, the verb is replaced. The interrogative pronoun is verbalized
 and no verb appears after the question marker am:
@@ -12855,13 +12822,44 @@ name?’) ele /jh
 In the following example, it is applied in order to focus an adverbial
 phrase, expressing ‘up there is a lot!’:
 (12:91) M o-jd’-chhe’-ya ndja’khd ara-si’!
-",tensor([26.8039]),"1SG-L.Fname GF Jeanette
-‘My name is Jeanette.’ (answer to the question ‘what is your
-name?’) ele /jh
-In the following example, it is applied in order to focus an adverbial
-phrase, expressing ‘up there is a lot!’:
-(12:91) M o-jd’-chhe’-ya ndja’khd ara-si’!
-",tensor([29.1936])," With the applicative -tye- appearing before -ti- the meaning is a
+",27.130952835083008," 3F-P-B-L.F PS buy-VI.M.S 2SG book-P
+ ‘I met the women for whom you have bought the book(s).’
+ ELE/JH
+424 Clause combinations
+13.3.4.4. Relative clause markers and the associative
+My informants also accepted the associative in relation to the relative
+clause marker both in the long form yodye ’-L-min and the short form
+yo-min. I could not elicit any differences in meaning between these two
+forms. The associative relation (on its own) is very infrequent and there
+are no text examples of this form together with the relative clause
+marker.
+13.3.5. Other relative clause markers
+As alternatives to the types of relative clause marking discussed above,
+a couple of other elements can be used as relative clause markers: the
+interrogative pronouns j a e ’na’ (13:51) ‘where’ and tyitom (13:52) ‘with
+whom’, the latter consisting of tyi ‘who’ and the comitative relation
+marker -tom. The marker tyitom is exclusively used with human beings:
+(13:51) Dyiph m i’aj kinakdye’ ti-wen-ka-’
+then3M.SG yet jaguarAPT-move-DK-F.S
+daerae’-khan mochaj ka-i’ ja e ’n a’-ra’ m i’
+mountain-IN far yet bring-3F.O where-IR 3M.SG
+bae’-i.
+live-VI.M.S
+‘Then the jaguar brought her to the mountain, far he brought
+her, (to) where he lives.’ STE/EC
+(13:52) Yae nash chhii-ye-te m i’soni’ tyi-tom
+ 1SG GF know-VY-3M.O 3M.SG man person-COM
+shiph-ki Roberto.
+leave-VK.M.S Roberto
+‘I know the man with whom Roberto left.’ ELE/RC, FT
+ 13.3.6. Word order in relative clauses
+ What is the constituent order in the main clause and the internal
+ constituent order in the relative clause? The order of elements in the
+ main clause is independent of the type of relative clause involved. The
+ Relative clauses 425
+relative clause generally appears at the end of the main clause, often
+978
+independent of the place of its antecedent.",29.42335319519043," With the applicative -tye- appearing before -ti- the meaning is a
 combination of ‘take from another person’ and ‘for a reason’:
 (9:67)Tsin y a ’-i-tye-ti-te jiri-s waka y a ’-i-dye-si’
 IP buy-VI-APD-REA-3M.O one-Fcow.E buy-VI-B-L.F
@@ -12907,7 +12905,7 @@ In the present section, I will discuss the position of the complement
 clause in relation to the matrix clause, as well as the word order inside
 complement clauses.
 ",72.8382339477539
-0.8999538793339099,0,1,0.9006509949922518,0,0.9245343487818728,0,0.910684896177238,0,0.8593713987088338,1,0.8704510028371774,1,0.923305149676665,0,0.9313261212974712,0,0.8849180136695044,"The antipassive marker -ti- can furthermore appear with the verb yi-
+0.8999538793339099,0,1,0.9006509949922518,0,0.9245343487818728,0,0.910684896177238,0,0.8598416002673447,0,0.8709973767149329,1,0.923305149676665,0,0.9313261212974712,0,0.8849180136695044,"The antipassive marker -ti- can furthermore appear with the verb yi-
 ‘say’, expressing that a quotation is a request. In this way, the
 antipassive is similar to the imperative (8.1.5.) is used in direct speech
 to express requests. In the following example, a man asks another
@@ -13032,44 +13030,46 @@ The following text example again illustrates the use of - min-:
 weraej-ye-min-chhi-’ n a’ri j a e ’ma m o’-khan
 break.though-VY-ITR-DC-F.S doorframe DM 3F-IN
 mo ’phi-ke-wa ’-jo- ’phi-ke-wa ’-jo- ’.
-",tensor([26.7325])," 3F-P-B-L.F PS buy-VI.M.S 2SG book-P
- ‘I met the women for whom you have bought the book(s).’
- ELE/JH
-424 Clause combinations
-13.3.4.4. Relative clause markers and the associative
-My informants also accepted the associative in relation to the relative
-clause marker both in the long form yodye ’-L-min and the short form
-yo-min. I could not elicit any differences in meaning between these two
-forms. The associative relation (on its own) is very infrequent and there
-are no text examples of this form together with the relative clause
-marker.
-13.3.5. Other relative clause markers
-As alternatives to the types of relative clause marking discussed above,
-a couple of other elements can be used as relative clause markers: the
-interrogative pronouns j a e ’na’ (13:51) ‘where’ and tyitom (13:52) ‘with
-whom’, the latter consisting of tyi ‘who’ and the comitative relation
-marker -tom. The marker tyitom is exclusively used with human beings:
-(13:51) Dyiph m i’aj kinakdye’ ti-wen-ka-’
-then3M.SG yet jaguarAPT-move-DK-F.S
-daerae’-khan mochaj ka-i’ ja e ’n a’-ra’ m i’
-mountain-IN far yet bring-3F.O where-IR 3M.SG
-bae’-i.
-live-VI.M.S
-‘Then the jaguar brought her to the mountain, far he brought
-her, (to) where he lives.’ STE/EC
-(13:52) Yae nash chhii-ye-te m i’soni’ tyi-tom
- 1SG GF know-VY-3M.O 3M.SG man person-COM
-shiph-ki Roberto.
-leave-VK.M.S Roberto
-‘I know the man with whom Roberto left.’ ELE/RC, FT
- 13.3.6. Word order in relative clauses
- What is the constituent order in the main clause and the internal
- constituent order in the relative clause? The order of elements in the
- main clause is independent of the type of relative clause involved. The
- Relative clauses 425
-relative clause generally appears at the end of the main clause, often
-978
-independent of the place of its antecedent.",tensor([29.1713]),"A^
+",26.66502952575684,"PS-EH enter-VT.M.S-P night-VI-F.S say-DS-F.S-P
+‘And then they entered, “good night”, they said.’ STE/vc
+The distributive associated motion marker is not used with transitive
+cross-reference forms. An exception to this are 3rd person plural object
+forms, marked by -ksi-, as discussed before (8.1.2.2.). With the 3rd
+person plural object forms, the distributive marker follows the -ksi-:
+(8:311) Ya-kse-jij.
+say-3P.O-DS.M
+‘Go to them (individually) to tell them (something).’ ELE/JH
+8.6.6. The -min- interrupted movement marker
+With other parts of speech, the marker -min- has several functions, such
+as associative relation marking of nouns (4.1.3.) and plural marking of
+adjectives (6.1.3.). With verbs, this marker expresses the interruption of
+a movement in order to do an action. It appears in relation to the
+associated motion markers -jo- (8.6.3.) and -chhi- (8.6.4.), which
+express that an action is carried out while moving towards or away from
+the deictic center. The associated motion marker -kho- (8.6.3.) in
+relation to the marker -min- is realized as -jo-:
+284 The verbal system
+(8:312) Saeks-e-min-jo-’.
+eat-VI-ITR-DJ-F.S
+‘She went (there), ate and went away (after eating).’
+ELE/AT, LM
+In this example, the construction of the interrupted movement marker
+and the associated motion marker expresses a movement away from the
+deictic center with an action done on the way. This action is not carried
+out while moving, but the movement stopped for this action to be done.
+This is also the case in the following example, where the movement to
+the deictic center was interrupted in order to sleep:
+(8:313) Khdsh-m'in-chhi.
+sleep-VI.ITR-DC.M.S
+‘He came here (interrupting his movement here to sleep).’
+ELE/CT
+The following text example again illustrates the use of - min-:
+(8:314) M d’-na-ki-ra’m o’-khan jene-min-ra’-tsa’ aj
+3F.SG-FO-CO-IR 3F-IN like-AS-IR-FR yet
+weraej-ye-min-chhi-’ n a’ri j a e ’ma m o’-khan
+break.though-VY-ITR-DC-F.S doorframe DM 3F-IN
+mo ’phi-ke-wa ’-jo- ’phi-ke-wa ’-jo- ’.
+",29.350582122802734,"A^
 /Vs /Vs
 /V s /V•'Ss /W My \i
  /V s /s \ / ^ i
@@ -13182,7 +13182,7 @@ Below, I will discuss some instances where this is not the case.
 One possible analysis of -min- and -j- is that -min- expresses the interruption of
 the movement in order to do the action, while -j- expresses an ongoing action.
 ",72.49034118652344
-0.8999538793339099,0,0,0.9006509949922518,0,0.9245343487818728,1,0.9166653960548868,2,0.8713323984641312,2,0.8824120025924748,0,0.923305149676665,1,0.93730662117512,1,0.890898513547153,"R-RD begin-VI-RE.M.S DM
+0.8999538793339099,0,0,0.9006509949922518,0,0.9245343487818728,1,0.9166653960548868,2,0.871802600022642,2,0.8829583764702303,0,0.923305149676665,1,0.93730662117512,1,0.890898513547153,"R-RD begin-VI-RE.M.S DM
 ‘So we started yesterday, now we also go on with the
 sentences, like w e started.’ STE/JH
 Complement clauses 429
@@ -13398,7 +13398,7 @@ the answer. In this way, when the answer is negative, a negation is
 used:262
 Adverbials and emphatics in word order 397
  (12:83)qIits-na tata jam ji-te-te?
-",tensor([26.5353])," Questions similar to those have a single word as their answer,
+",26.55423355102539," Questions similar to those have a single word as their answer,
 applying the question as the antecedent:
 396 Clause types
 (12:78)q Este hospital huerfano-dye-si ’ jaetaej-yi- ’-dyash
@@ -13434,7 +13434,7 @@ the answer. In this way, when the answer is negative, a negation is
 used:262
 Adverbials and emphatics in word order 397
  (12:83)qIits-na tata jam ji-te-te?
-",tensor([28.2642]),"Such verbs are dyijchhi- ‘remember’ andyakchhiti- ‘begin’. In most cases, the path
+",28.615867614746094,"Such verbs are dyijchhi- ‘remember’ andyakchhiti- ‘begin’. In most cases, the path
 of lexicalization is synchronically unclear.
 202
 The form of the 1st person plural inclusive subject is -jija ': khoshe-ji-ja' ‘we go to
@@ -13548,7 +13548,7 @@ applied to both verbal and predicate clauses. The majority of questions
 appear with a question marker, and only a few structures are not marked
 this way.
 ",72.27001190185547
-0.8999538793339099,0,1,0.9065940801797606,1,0.9304774339693817,0,0.9166653960548868,1,0.87727548365164,0,0.8824120025924748,2,0.9351913200516826,0,0.93730662117512,0,0.890898513547153," Wayne Gill belongs to the North American protestant New Tribes
+0.8999538793339099,0,1,0.9065940801797606,1,0.9304774339693817,0,0.9166653960548868,1,0.8777456852101508,0,0.8829583764702303,2,0.9351913200516826,0,0.93730662117512,0,0.890898513547153," Wayne Gill belongs to the North American protestant New Tribes
 Mission and has been a missionary with the Chimane people since the
 early 1980s. Interested in languages, he learned Chimane and created a
 writing system for the language. He printed a Chimane-Spanish and
@@ -13791,7 +13791,7 @@ cross-reference marker for the 3rd person. This differs from the general
 order of affixes in verbs, where only clitics can appear after the verbal
 cross-reference ending. Derivational suffixes usually precede the
 inflectional marker in verbs.
-",tensor([26.4543]),"Such verbs are dyijchhi- ‘remember’ andyakchhiti- ‘begin’. In most cases, the path
+",26.33427047729492,"Such verbs are dyijchhi- ‘remember’ andyakchhiti- ‘begin’. In most cases, the path
 of lexicalization is synchronically unclear.
 202
 The form of the 1st person plural inclusive subject is -jija ': khoshe-ji-ja' ‘we go to
@@ -13804,7 +13804,7 @@ Below, I will discuss some instances where this is not the case.
 205
 One possible analysis of -min- and -j- is that -min- expresses the interruption of
 the movement in order to do the action, while -j- expresses an ongoing action.
-",tensor([27.7532]),"Contents
+",27.969301223754883,"Contents
 AbbreviationsXX1
 Mapsxxvii
  Map I: Bolivia xxvii
@@ -14490,7 +14490,7 @@ interrupted in order to do the action). Moseten has no marking for
 upriver or downriver in the associated motion system. Instead, these
 notions are found in the system of nominal relations (4.1.).
 ",72.21790313720703
-0.8999538793339099,0,2,0.9184080402913154,2,0.9422913940809364,0,0.9166653960548868,0,0.87727548365164,1,0.8883189826482522,1,0.94109830010746,2,0.9491205812866748,2,0.902712473658708,"PS-EH enter-VT.M.S-P night-VI-F.S say-DS-F.S-P
+0.8999538793339099,0,2,0.9184080402913154,2,0.9422913940809364,0,0.9166653960548868,0,0.8777456852101508,1,0.8888653565260077,1,0.94109830010746,2,0.9491205812866748,2,0.902712473658708,"PS-EH enter-VT.M.S-P night-VI-F.S say-DS-F.S-P
 ‘And then they entered, “good night”, they said.’ STE/vc
 The distributive associated motion marker is not used with transitive
 cross-reference forms. An exception to this are 3rd person plural object
@@ -15803,7 +15803,7 @@ Below, I will discuss some instances where this is not the case.
 205
 One possible analysis of -min- and -j- is that -min- expresses the interruption of
 the movement in order to do the action, while -j- expresses an ongoing action.
-",tensor([24.2030]),"There are two forms of the 1st person plural inclusive subject in the
+",24.318531036376957,"There are two forms of the 1st person plural inclusive subject in the
 transitive paradigm: those with a 3rd person singular object and those
 with a 3rd person plural object. The latter formally resemble reflexive
 forms (8.2.3.): -ti (1st person plural inclusive subject with a masculine
@@ -15852,7 +15852,7 @@ cross-reference marker for the 3rd person. This differs from the general
 order of affixes in verbs, where only clitics can appear after the verbal
 cross-reference ending. Derivational suffixes usually precede the
 inflectional marker in verbs.
-",tensor([27.4931])," In word order, jam is either placed at the beginning of the negated
+",27.35809326171875," In word order, jam is either placed at the beginning of the negated
 clause (10:2) or alternatively (without a change in meaning) before the
 verb (10:3). Example (10:1) shows jam in combination with an
 affirmative clause:
@@ -16513,7 +16513,7 @@ used:262
 Adverbials and emphatics in word order 397
  (12:83)qIits-na tata jam ji-te-te?
 ",71.3944320678711
-0.905825987185579,1,0,0.9184080402913154,0,0.9422913940809364,0,0.9166653960548868,4,0.9007639150583164,0,0.8883189826482522,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708,"3F.SG child other-LF-L.M have-3M.O Elena
+0.905825987185579,1,0,0.9184080402913154,0,0.9422913940809364,0,0.9166653960548868,4,0.9012341166168274,0,0.8888653565260077,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708,"3F.SG child other-LF-L.M have-3M.O Elena
 ‘She cares for the son of another woman, Elena.’ e l e / jh
 Possessive clauses have a separate negation marker daerae’ (10.3.).
 12.3. Interrogative clauses
@@ -16702,7 +16702,7 @@ an underscore, verbs are bold and objects are regular:
 (12:3)Jene m i’jiri-ty mintyi’ chhijtt-a-kikatyi’m e’-we
 like 3M.SG one-M manhunt-VI-AN.M.S EH so-DR
 katyi ’ chhijn-a-ki tsikin’-we ojni’.
-",tensor([24.1203])," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
+",24.271533966064453," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
 Mosetenes in Covendo from 1943 to 1947, with several interruptions.
 Interested in the stories and the language, he compiled a word list -
 containing roughly 1500 words - of the language in manuscript-form.25
@@ -16711,7 +16711,7 @@ language. He noticed both the significance of the glottal stop, which he
 usually transcribed -c-26, and of nasality. Furthermore, he has few pages
 of notes on pronouns and numerals, as well as on “prepositions”, i.e.
 postclitics (4.1.).
-",tensor([26.2513])," In the following example, the verbal root tsiwae- ‘be cold’ is
+",26.246082305908203," In the following example, the verbal root tsiwae- ‘be cold’ is
 partially reduplicated, with a change in the last vowel from -ae- to -a-:
 (8:281) Tranquilo wen-chhi-yae nitsiwa-wa-i’
 quiet.Emove-DC.M.S-lSG NG.Ecold-RD-VI-F.S
@@ -16776,7 +16776,7 @@ applicative prefixes cannot be applied to the same verb. In the same
 way, two elements of the same voice structure cannot be combined.
 Still, it is possible to elicit a number of co-occurring voice structures.
 ",70.41572570800781
-0.9116643852960243,1,0,0.9184080402913154,0,0.9422913940809364,0,0.9166653960548868,0,0.9007639150583164,0,0.8883189826482522,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708,"1SG house-COM
+0.9116643852960244,1,0,0.9184080402913154,0,0.9422913940809364,0,0.9166653960548868,0,0.9012341166168274,0,0.8888653565260077,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708,"1SG house-COM
 ‘I have a house.’ ELE/CT
 When a noun phrase contains both determiner and modifier, nominal
 relation marking appears with the determiner:
@@ -16883,16 +16883,30 @@ WTE/JH
 In the following example, the verb yi- ‘say’ is marked by the antipassive
 -ti- in order to mark the following quotation as a request:
 (9:36)Jike yi-ti-dyera’ kha-in “waila nigra!”
-",61.5733642578125," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
-Mosetenes in Covendo from 1943 to 1947, with several interruptions.
-Interested in the stories and the language, he compiled a word list -
-containing roughly 1500 words - of the language in manuscript-form.25
-Caspar also wrote a number of sections on the phonology of the
-language. He noticed both the significance of the glottal stop, which he
-usually transcribed -c-26, and of nasality. Furthermore, he has few pages
-of notes on pronouns and numerals, as well as on “prepositions”, i.e.
-postclitics (4.1.).
-",tensor([23.9958]),"The antipassive marker -ti- can furthermore appear with the verb yi-
+",61.5733642578125," In the following example, the verbal root tsiwae- ‘be cold’ is
+partially reduplicated, with a change in the last vowel from -ae- to -a-:
+(8:281) Tranquilo wen-chhi-yae nitsiwa-wa-i’
+quiet.Emove-DC.M.S-lSG NG.Ecold-RD-VI-F.S
+se 'w-e-
+feel-VI-3F.O
+‘I came here quietly, it did not even feel co ld .’ COE/MW
+Apart from verbal roots, also nominal forms can be partially
+reduplicated and followed by a verbal stem marker. These forms usually
+express carrying objects of the form described by the noun:
+(8:282) Saerae’-rae-i.
+long.object-RD-VI.M.S
+‘He carries a long object.’ ELE/JH
+8.6. Associated motion
+There are a number of different associated motion markers in Moseten:
+-ki- ‘go away to do an action’, -ti-l-sh- ‘come to do an action’, -kho- ‘to
+perform on the way there’, -chhi- ‘to perform on the way here’, -ji-
+‘perform an action in various places’ and finally the marker -min-
+‘interruption of the movement to do the action’ (which is used together
+with other associated motion markers to express that the movement was
+interrupted in order to do the action). Moseten has no marking for
+upriver or downriver in the associated motion system. Instead, these
+notions are found in the system of nominal relations (4.1.).
+",24.030986785888672,"The antipassive marker -ti- can furthermore appear with the verb yi-
 ‘say’, expressing that a quotation is a request. In this way, the
 antipassive is similar to the imperative (8.1.5.) is used in direct speech
 to express requests. In the following example, a man asks another
@@ -16912,7 +16926,7 @@ WTE/JH
 In the following example, the verb yi- ‘say’ is marked by the antipassive
 -ti- in order to mark the following quotation as a request:
 (9:36)Jike yi-ti-dyera’ kha-in “waila nigra!”
-",tensor([25.1933]),"PS-EH enter-VT.M.S-P night-VI-F.S say-DS-F.S-P
+",25.195512771606445,"PS-EH enter-VT.M.S-P night-VI-F.S say-DS-F.S-P
 ‘And then they entered, “good night”, they said.’ STE/vc
 The distributive associated motion marker is not used with transitive
 cross-reference forms. An exception to this are 3rd person plural object
@@ -17030,7 +17044,7 @@ weraej-ye-min-chhi-’ n a’ri j a e ’ma m o’-khan
 break.though-VY-ITR-DC-F.S doorframe DM 3F-IN
 mo ’phi-ke-wa ’-jo- ’phi-ke-wa ’-jo- ’.
 ",70.17961883544922
-0.9232759571146769,2,0,0.9184080402913154,0,0.9422913940809364,2,0.9282769678735392,0,0.9007639150583164,4,0.9115421262855572,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," Questions similar to those have a single word as their answer,
+0.9232759571146768,2,0,0.9184080402913154,0,0.9422913940809364,2,0.9282769678735392,0,0.9012341166168274,4,0.9120885001633129,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," Questions similar to those have a single word as their answer,
 applying the question as the antecedent:
 396 Clause types
 (12:78)q Este hospital huerfano-dye-si ’ jaetaej-yi- ’-dyash
@@ -17114,30 +17128,16 @@ the answer. In this way, when the answer is negative, a negation is
 used:262
 Adverbials and emphatics in word order 397
  (12:83)qIits-na tata jam ji-te-te?
-",60.15176010131836," In the following example, the verbal root tsiwae- ‘be cold’ is
-partially reduplicated, with a change in the last vowel from -ae- to -a-:
-(8:281) Tranquilo wen-chhi-yae nitsiwa-wa-i’
-quiet.Emove-DC.M.S-lSG NG.Ecold-RD-VI-F.S
-se 'w-e-
-feel-VI-3F.O
-‘I came here quietly, it did not even feel co ld .’ COE/MW
-Apart from verbal roots, also nominal forms can be partially
-reduplicated and followed by a verbal stem marker. These forms usually
-express carrying objects of the form described by the noun:
-(8:282) Saerae’-rae-i.
-long.object-RD-VI.M.S
-‘He carries a long object.’ ELE/JH
-8.6. Associated motion
-There are a number of different associated motion markers in Moseten:
--ki- ‘go away to do an action’, -ti-l-sh- ‘come to do an action’, -kho- ‘to
-perform on the way there’, -chhi- ‘to perform on the way here’, -ji-
-‘perform an action in various places’ and finally the marker -min-
-‘interruption of the movement to do the action’ (which is used together
-with other associated motion markers to express that the movement was
-interrupted in order to do the action). Moseten has no marking for
-upriver or downriver in the associated motion system. Instead, these
-notions are found in the system of nominal relations (4.1.).
-",tensor([23.9582])," NX-VI.M. S-still-1SG
+",60.15176010131836," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
+Mosetenes in Covendo from 1943 to 1947, with several interruptions.
+Interested in the stories and the language, he compiled a word list -
+containing roughly 1500 words - of the language in manuscript-form.25
+Caspar also wrote a number of sections on the phonology of the
+language. He noticed both the significance of the glottal stop, which he
+usually transcribed -c-26, and of nasality. Furthermore, he has few pages
+of notes on pronouns and numerals, as well as on “prepositions”, i.e.
+postclitics (4.1.).
+",23.863155364990234," NX-VI.M. S-still-1SG
 ‘In 1962 my mother died, I wasn’t bom yet (sic!).’ COE/EC
 In the same way, this clitic frequently occurs together with the general
 negation jam, resulting in the meaning ‘not yet’:
@@ -17255,7 +17255,7 @@ an underscore, verbs are bold and objects are regular:
 (12:3)Jene m i’jiri-ty mintyi’ chhijtt-a-kikatyi’m e’-we
 like 3M.SG one-M manhunt-VI-AN.M.S EH so-DR
 katyi ’ chhijn-a-ki tsikin’-we ojni’.
-",tensor([24.4294]),"1SG-L.Fname GF Jeanette
+",24.648122787475586,"1SG-L.Fname GF Jeanette
 ‘My name is Jeanette.’ (answer to the question ‘what is your
 name?’) ele /jh
 In the following example, it is applied in order to focus an adverbial
@@ -17277,7 +17277,7 @@ usually transcribed -c-26, and of nasality. Furthermore, he has few pages
 of notes on pronouns and numerals, as well as on “prepositions”, i.e.
 postclitics (4.1.).
 ",69.75225067138672
-0.9232759571146769,0,0,0.9184080402913154,0,0.9422913940809364,0,0.9282769678735392,0,0.9007639150583164,0,0.9115421262855572,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," With the applicative -tye- appearing before -ti- the meaning is a
+0.9232759571146768,0,0,0.9184080402913154,0,0.9422913940809364,0,0.9282769678735392,0,0.9012341166168274,0,0.9120885001633129,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," With the applicative -tye- appearing before -ti- the meaning is a
 combination of ‘take from another person’ and ‘for a reason’:
 (9:67)Tsin y a ’-i-tye-ti-te jiri-s waka y a ’-i-dye-si’
 IP buy-VI-APD-REA-3M.O one-Fcow.E buy-VI-B-L.F
@@ -17341,7 +17341,7 @@ WTE/JH
 In the following example, the verb yi- ‘say’ is marked by the antipassive
 -ti- in order to mark the following quotation as a request:
 (9:36)Jike yi-ti-dyera’ kha-in “waila nigra!”
-",tensor([22.9144])," In the following example, the verbal root tsiwae- ‘be cold’ is
+",22.92991828918457," In the following example, the verbal root tsiwae- ‘be cold’ is
 partially reduplicated, with a change in the last vowel from -ae- to -a-:
 (8:281) Tranquilo wen-chhi-yae nitsiwa-wa-i’
 quiet.Emove-DC.M.S-lSG NG.Ecold-RD-VI-F.S
@@ -17364,7 +17364,7 @@ with other associated motion markers to express that the movement was
 interrupted in order to do the action). Moseten has no marking for
 upriver or downriver in the associated motion system. Instead, these
 notions are found in the system of nominal relations (4.1.).
-",tensor([23.5474]),"The antipassive marker -ti- can furthermore appear with the verb yi-
+",23.581323623657227,"The antipassive marker -ti- can furthermore appear with the verb yi-
 ‘say’, expressing that a quotation is a request. In this way, the
 antipassive is similar to the imperative (8.1.5.) is used in direct speech
 to express requests. In the following example, a man asks another
@@ -17402,7 +17402,7 @@ examples in the grammar are based on elicitation data. They have all
 been checked with various different speakers, in order to guarantee the
 correctness of the data.
 ",67.67645263671875
-0.9232759571146769,0,0,0.9184080402913154,0,0.9422913940809364,1,0.9340205867928626,0,0.9007639150583164,0,0.9115421262855572,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," In the following example, the verbal root tsiwae- ‘be cold’ is
+0.9232759571146768,0,0,0.9184080402913154,0,0.9422913940809364,1,0.9340205867928626,0,0.9012341166168274,0,0.9120885001633129,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," In the following example, the verbal root tsiwae- ‘be cold’ is
 partially reduplicated, with a change in the last vowel from -ae- to -a-:
 (8:281) Tranquilo wen-chhi-yae nitsiwa-wa-i’
 quiet.Emove-DC.M.S-lSG NG.Ecold-RD-VI-F.S
@@ -17492,7 +17492,7 @@ speakers in Moseten and ask questions about uncommon words. Some
 examples in the grammar are based on elicitation data. They have all
 been checked with various different speakers, in order to guarantee the
 correctness of the data.
-",tensor([20.0001]),"This grammar is primarily based on textual data. Some texts were
+",19.93043327331543,"This grammar is primarily based on textual data. Some texts were
 recorded by me, while others were collected by Juan Huasna. His data
 are very good, since he had access to language varieties that were
 difficult for me to record. Furthermore, he was able to interview the
@@ -17500,7 +17500,7 @@ speakers in Moseten and ask questions about uncommon words. Some
 examples in the grammar are based on elicitation data. They have all
 been checked with various different speakers, in order to guarantee the
 correctness of the data.
-",tensor([22.4239])," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
+",22.204254150390625," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
 Mosetenes in Covendo from 1943 to 1947, with several interruptions.
 Interested in the stories and the language, he compiled a word list -
 containing roughly 1500 words - of the language in manuscript-form.25
@@ -17550,7 +17550,7 @@ In the following example, the verb yi- ‘say’ is marked by the antipassive
 -ti- in order to mark the following quotation as a request:
 (9:36)Jike yi-ti-dyera’ kha-in “waila nigra!”
 ",64.87613677978516
-0.9232759571146769,0,0,0.9184080402913154,0,0.9422913940809364,0,0.9340205867928626,0,0.9007639150583164,0,0.9115421262855572,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
+0.9232759571146768,0,0,0.9184080402913154,0,0.9422913940809364,0,0.9340205867928626,0,0.9012341166168274,0,0.9120885001633129,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708," Franz Caspar (1953)24, a Swiss anthropologist, lived with the
 Mosetenes in Covendo from 1943 to 1947, with several interruptions.
 Interested in the stories and the language, he compiled a word list -
 containing roughly 1500 words - of the language in manuscript-form.25
@@ -17598,7 +17598,7 @@ information is very good and reliable. He is continuously collecting
 words for a manuscript dictionary of Chimane-English, which in 1999
 consisted of more than 5000 words and derivations of words, - and
 example clauses for most entries.
-",tensor([19.6679])," Wayne Gill belongs to the North American protestant New Tribes
+",19.428024291992188," Wayne Gill belongs to the North American protestant New Tribes
 Mission and has been a missionary with the Chimane people since the
 early 1980s. Interested in languages, he learned Chimane and created a
 writing system for the language. He printed a Chimane-Spanish and
@@ -17612,7 +17612,7 @@ information is very good and reliable. He is continuously collecting
 words for a manuscript dictionary of Chimane-English, which in 1999
 consisted of more than 5000 words and derivations of words, - and
 example clauses for most entries.
-",tensor([21.7388]),"This grammar is primarily based on textual data. Some texts were
+",21.461790084838867,"This grammar is primarily based on textual data. Some texts were
 recorded by me, while others were collected by Juan Huasna. His data
 are very good, since he had access to language varieties that were
 difficult for me to record. Furthermore, he was able to interview the
@@ -17635,7 +17635,7 @@ In the following example, it is applied in order to focus an adverbial
 phrase, expressing ‘up there is a lot!’:
 (12:91) M o-jd’-chhe’-ya ndja’khd ara-si’!
 ",64.2771224975586
-0.9289611361594421,1,0,0.9184080402913154,0,0.9422913940809364,0,0.9340205867928626,2,0.9121342731478468,2,0.9229124843750875,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708,"144 Adjectives and adverbs
+0.928961136159442,1,0,0.9184080402913154,0,0.9422913940809364,0,0.9340205867928626,2,0.9126044747063576,2,0.9234588582528431,0,0.94109830010746,0,0.9491205812866748,0,0.902712473658708,"144 Adjectives and adverbs
  A number of other elements are marked by the linker when appearing
 in modifying position (see section 4.8. on the linker). The following
 examples show how different parts of speech can be used adjectivally.
@@ -18323,7 +18323,7 @@ A /Vs/Vs
 'Vs*A
 tv
 A .
-",tensor([16.5054]),"Contents
+",16.290571212768555,"Contents
 AbbreviationsXX1
 Mapsxxvii
  Map I: Bolivia xxvii
@@ -18942,7 +18942,7 @@ A /Vs/Vs
 'Vs*A
 tv
 A .
-",tensor([19.9508])," Wayne Gill belongs to the North American protestant New Tribes
+",19.79215431213379," Wayne Gill belongs to the North American protestant New Tribes
 Mission and has been a missionary with the Chimane people since the
 early 1980s. Interested in languages, he learned Chimane and created a
 writing system for the language. He printed a Chimane-Spanish and
