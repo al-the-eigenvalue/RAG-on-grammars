@@ -21,7 +21,7 @@ Toponyms. See Names (place)Roman script
 Transcription system, 3. See also OrthographyYoruba, 315, 457
 Transitive verbs, 631, 633, 640, 683, 722;
  applicative, 684; double object, 685-86 Zima, Petr, 2
-",tensor([39.1596])," Weak subject pronouns. See Pronouns (personal)
+",39.334957122802734," Weak subject pronouns. See Pronouns (personal)
 Topicalization, 187-88, 273, 333, 505, 529, 615~ Weak verbal nouns. See Verbal nouns
  21, 620; multiple topics, 617; of infinitiveWestermann, Diedrich, 2
  phrases, 289; of verbs, 619; with causatives, Wolff, H. Ekkehard, 3, 593
@@ -32,7 +32,7 @@ Toponyms. See Names (place)Roman script
 Transcription system, 3. See also OrthographyYoruba, 315, 457
 Transitive verbs, 631, 633, 640, 683, 722;
  applicative, 684; double object, 685-86 Zima, Petr, 2
-",tensor([40.7030]),"3.2. Attributive adjectives
+",41.020015716552734,"3.2. Attributive adjectives
  3.2.1. Alternative word orders.................
 ",76.29701232910156,"8. WORD ORDER
 The basic word order in sentences with i.o.’s is V + i.o.+ (d.o.),i.e., verb followedimmediately by the
@@ -52,7 +52,7 @@ Transcription system, 3. See also OrthographyYoruba, 315, 457
 Transitive verbs, 631, 633, 640, 683, 722;
  applicative, 684; double object, 685-86 Zima, Petr, 2
 ",81.52703857421875
-0.27676702515809004,1,0,0.1696989245257299,1,0.27676702515809,1,0.27676702515809,1,0.1070681006323601,1,0.1070681006323601,1,0.27676702515809,1,0.27676702515809,1,0.1070681006323601," ADN: In the Bauchi dialect, spoken in the far southeastern extent of the Hausa-speaking area, noun
+0.27676702515809,1,0,0.1696989245257299,1,0.27676702515809,1,0.27676702515809,1,0.1070681006323601,1,0.10706810063236014,1,0.27676702515809,1,0.27676702515809,1,0.1070681006323601," ADN: In the Bauchi dialect, spoken in the far southeastern extent of the Hausa-speaking area, noun
  indirect objects (marked by wa or ma) occur after the d.o. (Gital 1987), e.g., Zainab ta kai abinci
  sequences. In many
  wa/ma Misa ‘Zainab took food to Musa’; Bala ya aika wasiKa wa/ma Ladi ‘Bala sent a letter to
@@ -88,9 +88,9 @@ water! ’ (please,
  reversed, one would get ja + plurac > jajja + imp)“4 — **jajja, which is the wrong output.
 ",75.21881103515625,"3.2. Attributive adjectives
  3.2.1. Alternative word orders.................
-",tensor([38.0331]),"3.2. Attributive adjectives
+",38.03459548950195,"3.2. Attributive adjectives
  3.2.1. Alternative word orders.................
-",tensor([39.4467]),"8. WORD ORDER
+",39.567787170410156,"8. WORD ORDER
 The basic word order in sentences with i.o.’s is V + i.o.+ (d.o.),i.e., verb followedimmediately by the
 sh. indirect object followed by the direct object (if present). This word order is the same whether the i.0.is a
 noun or a pronoun, e.g.,
@@ -152,7 +152,7 @@ Misa ya kawo [wa tsohuwa];9, ruwaMusa brought the old woman water.
 ",74.72026062011719,"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
 the verb and the subject, but this is extremely rare. More common is number agreement or semantic
 even if the pronoun compatibility between the verb and the direct object (or other patient); see Newman (1990b).
-",tensor([36.7907])," I want [that we go to the store and buy all kinds of goods]. can
+",36.59971237182617," I want [that we go to the store and buy all kinds of goods]. can
 the
 Some verbs allow double direct objects, e.g., Ex.
 Gafba ya dauki Tankd mahaukaciGarba considers Tanko a fool.
@@ -161,7 +161,7 @@ Indirect objects, which syntactically make use of the markers ma- (before person
 (elsewhere), are allowed with intransitive as well as transitive verbs. They occur immediately after the
 verb and before other arguments in the VP. Thus, when a sentence has both direct and indirect objects,
 the order is necessarily i.o. + d.o., e.g.,
-tocilan ta macé [mini];9.",tensor([38.3020])," Weak subject pronouns. See Pronouns (personal)
+tocilan ta macé [mini];9.",38.49578094482422," Weak subject pronouns. See Pronouns (personal)
 Topicalization, 187-88, 273, 333, 505, 529, 615~ Weak verbal nouns. See Verbal nouns
  21, 620; multiple topics, 617; of infinitiveWestermann, Diedrich, 2
  phrases, 289; of verbs, 619; with causatives, Wolff, H. Ekkehard, 3, 593
@@ -270,7 +270,7 @@ falling, 307, 365, 407, 586, 597-98, 603, Verb subcatagorization, 683-93
  morphemes, 210, 603; transcription of, 3. prepausal, 401; word initial, 228, 400, 403
  See also Low-tone raising (LTR)
 Tone-integrating suffixes, 430, 600-602.",80.92035675048828
-0.49697771830505966,4,1,0.2489864725510653,1,0.2658716091926312,1,0.3303532727602272,1,0.1369082820574393,1,0.3948349363278231,1,0.2658716091926312,0,0.2103301273443537,2,0.3214130910409087," I want [that we go to the store and buy all kinds of goods]. can
+0.4969777183050596,4,1,0.2489864725510653,1,0.2658716091926312,1,0.3303532727602272,4,0.3035327276022717,1,0.3948349363278231,1,0.2658716091926312,0,0.2103301273443537,2,0.3214130910409087," I want [that we go to the store and buy all kinds of goods]. can
 the
 Some verbs allow double direct objects, e.g., Ex.
 Gafba ya dauki Tankd mahaukaciGarba considers Tanko a fool.
@@ -315,19 +315,22 @@ be placed after the full Y or it can be moved up after the head noun and before 
 sults in sentencesMati da Shéha yard nagartattd né = Mati da Shéhd yard né nagartatta
 2s the problem isMati and Shehu are well-behaved children.
  composed of theakuya dabba Résasshiya cé = Akuya dabba cé RésasshiyaA goat is a well-fed animal.
-",74.71746826171875,"8. WORD ORDER
+",74.71746826171875," I want [that we go to the store and buy all kinds of goods]. can
+the
+Some verbs allow double direct objects, e.g., Ex.
+Gafba ya dauki Tankd mahaukaciGarba considers Tanko a fool.
+ bai
+Indirect objects, which syntactically make use of the markers ma- (before personal pronouns) and wa
+(elsewhere), are allowed with intransitive as well as transitive verbs. They occur immediately after the
+verb and before other arguments in the VP. Thus, when a sentence has both direct and indirect objects,
+the order is necessarily i.o. + d.o., e.g.,
+tocilan ta macé [mini];9.",34.823448181152344,"8. WORD ORDER
 The basic word order in sentences with i.o.’s is V + i.o.+ (d.o.),i.e., verb followedimmediately by the
 sh. indirect object followed by the direct object (if present). This word order is the same whether the i.0.is a
 noun or a pronoun, e.g.,
 ura v3amigrate
 Misa ya kawo [wa tsohuwa];9, ruwaMusa brought the old woman water.
-",tensor([34.8028]),"8. WORD ORDER
-The basic word order in sentences with i.o.’s is V + i.o.+ (d.o.),i.e., verb followedimmediately by the
-sh. indirect object followed by the direct object (if present). This word order is the same whether the i.0.is a
-noun or a pronoun, e.g.,
-ura v3amigrate
-Misa ya kawo [wa tsohuwa];9, ruwaMusa brought the old woman water.
-",tensor([38.1436])," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
+",38.17440414428711," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
  focus slot and thus they are not deleted, e.g.,
  «sti (né)» [A] spy [24 sd]pac dawo They (i.e., it is they who) will return.
  «mi (né)» [O]spy [muka}pac san amsa We (i.e., it is we who) know the answer.
@@ -420,7 +423,7 @@ Names (personal), 73, 231, 334, 338-39, 342-Perfective. See Completive 499-500
  Index 759
 AO, 345; Permissives, 87-88 questions, 107-8, 256, 329, 496
 9; male vs.",80.3803939819336
-0.4972519206968307,1,1,0.2717601636032947,1,0.2871133633442571,1,0.3457448024257604,4,0.3059409059865339,1,0.4043762415072638,1,0.2871133633442571,1,0.2366109905872337,1,0.3376157361012805,"3.2. Attributive adjectives
+0.4972519206968307,1,1,0.2717601636032947,1,0.2871133633442571,1,0.3457448024257604,1,0.3213576034523205,1,0.40437624150726387,1,0.2871133633442571,1,0.2366109905872337,1,0.3376157361012805,"3.2. Attributive adjectives
  3.2.1. Alternative word orders.................
 "," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
  focus slot and thus they are not deleted, e.g.,
@@ -510,16 +513,13 @@ cribing the language.kafnuka hudu mahaukata four mad dogs (lit. dogs four mad)
  métdcl biyaf jajayéfive red cars
  *yammata uk masu ky4n gani three good-looking girls
 3’. Singular pronounsSimilarly, numerals precede relative clauses, which are postnominal, e.g.,
- daya itself.",74.37388610839844," I want [that we go to the store and buy all kinds of goods]. can
-the
-Some verbs allow double direct objects, e.g., Ex.
-Gafba ya dauki Tankd mahaukaciGarba considers Tanko a fool.
- bai
-Indirect objects, which syntactically make use of the markers ma- (before personal pronouns) and wa
-(elsewhere), are allowed with intransitive as well as transitive verbs. They occur immediately after the
-verb and before other arguments in the VP. Thus, when a sentence has both direct and indirect objects,
-the order is necessarily i.o. + d.o., e.g.,
-tocilan ta macé [mini];9.",tensor([34.7931]),"2.2. Adjectives
+ daya itself.",74.37388610839844,"8. WORD ORDER
+The basic word order in sentences with i.o.’s is V + i.o.+ (d.o.),i.e., verb followedimmediately by the
+sh. indirect object followed by the direct object (if present). This word order is the same whether the i.0.is a
+noun or a pronoun, e.g.,
+ura v3amigrate
+Misa ya kawo [wa tsohuwa];9, ruwaMusa brought the old woman water.
+",34.70991134643555,"2.2. Adjectives
 2. PRENOMINAL ELEMENTSThe prenominal modifie
 obligatorily agrees in
 There are two
@@ -558,7 +558,7 @@ Drderduk wadannan dalibai_—_all these students (all + det + N)
  person plural pronoun su used to form pseudoplurals indicating ‘et al.’ or ‘etc.’, e.g.,
  stnominalelements,
  [some new] [book] su TankdTanko and the others; su baréwagazelles and similar animals
- The second is the “isolator” daya, which is the numeral ‘one’ used in the sense of ‘the other’.",tensor([35.8521])," ADN: In the Bauchi dialect, spoken in the far southeastern extent of the Hausa-speaking area, noun
+ The second is the “isolator” daya, which is the numeral ‘one’ used in the sense of ‘the other’.",36.21372604370117," ADN: In the Bauchi dialect, spoken in the far southeastern extent of the Hausa-speaking area, noun
  indirect objects (marked by wa or ma) occur after the d.o. (Gital 1987), e.g., Zainab ta kai abinci
  sequences. In many
  wa/ma Misa ‘Zainab took food to Musa’; Bala ya aika wasiKa wa/ma Ladi ‘Bala sent a letter to
@@ -594,7 +594,7 @@ sults in sentencesMati da Shéha yard nagartattd né = Mati da Shéhd yard né n
 2s the problem isMati and Shehu are well-behaved children.
  composed of theakuya dabba Résasshiya cé = Akuya dabba cé RésasshiyaA goat is a well-fed animal.
 ",80.15159606933594
-0.5174096612281117,1,1,0.3009590213830679,1,0.3156966328613517,1,0.3719772378280461,1,0.333769283073307,0,0.3881627308268925,1,0.3156966328613517,1,0.2672191583946631,1,0.3641741073280402,"Non-count nouns lil
+0.5174096612281117,1,1,0.3009590213830679,1,0.3156966328613517,1,0.3719772378280461,1,0.3485678463280284,0,0.3881627308268925,1,0.3156966328613517,1,0.2672191583946631,1,0.3641741073280402,"Non-count nouns lil
 ta gaya musa sd hudu She told the four of them. (lit. she told them they four) modified directly by:
  like bahii ‘sack’, da
 1.6. Word order with attributive quantifiers One structure is nour
@@ -668,10 +668,10 @@ cribing the language.kafnuka hudu mahaukata four mad dogs (lit. dogs four mad)
  ive of the meaningis undoubtedly an innovation due to interference from Chadic languages in the region, where noun
  1.0. phrases typically occur after the d.o. (see Newman 1982). It is very unlikely that this represents
  a retention of an old Chadic word-order pattern.
- ala.",tensor([33.0602]),"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
+ ala.",33.07057571411133,"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
 the verb and the subject, but this is extremely rare. More common is number agreement or semantic
 even if the pronoun compatibility between the verb and the direct object (or other patient); see Newman (1990b).
-",tensor([35.2248]),"2.2. Adjectives
+",35.361122131347656,"2.2. Adjectives
 2. PRENOMINAL ELEMENTSThe prenominal modifie
 obligatorily agrees in
 There are two
@@ -752,7 +752,7 @@ Drderduk wadannan dalibai_—_all these students (all + det + N)
  The second is the “isolator” daya, which is the numeral ‘one’ used in the sense of ‘the other’.",71.07184600830078,"3.2. Attributive adjectives
  3.2.1. Alternative word orders.................
 ",79.51769256591797
-0.5348618328547993,1,1,0.3262388128599481,0,0.3042799272706747,1,0.3946887596931203,1,0.3578625395698314,1,0.4102889280822838,0,0.3042799272706747,1,0.2937191025190934,2,0.4233313509291908,"1. INTRODUCTION
+0.5348618328547993,1,1,0.3262388128599481,0,0.3042799272706747,1,0.3946887596931203,1,0.3721259344943972,1,0.4102889280822838,0,0.3042799272706747,1,0.2937191025190934,2,0.4233313509291908,"1. INTRODUCTION
  downdrift, if any,and
  OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
  prominence. They differ, however, in semantic characterization and in syntactic structure.","2.2. Adjectives
@@ -878,7 +878,7 @@ Drderduk wadannan dalibai_—_all these students (all + det + N)
  person plural pronoun su used to form pseudoplurals indicating ‘et al.’ or ‘etc.’, e.g.,
  stnominalelements,
  [some new] [book] su TankdTanko and the others; su baréwagazelles and similar animals
- The second is the “isolator” daya, which is the numeral ‘one’ used in the sense of ‘the other’.",tensor([32.7217])," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
+ The second is the “isolator” daya, which is the numeral ‘one’ used in the sense of ‘the other’.",32.78867721557617," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
  focus slot and thus they are not deleted, e.g.,
  «sti (né)» [A] spy [24 sd]pac dawo They (i.e., it is they who) will return.
  «mi (né)» [O]spy [muka}pac san amsa We (i.e., it is we who) know the answer.
@@ -888,7 +888,7 @@ f a simple tensed
 -complex (PAC),The person-aspect-complex (PAC) (which is comparable to INFL in general theoretical linguistic
  Examples: terminology) consists of two components: a weak subject pronoun (wsp), which agrees in number and
  gender with the underlying subject, and a marker of tense/aspect/mood (TAM), which in some cases is
- phonologicallyzero (see §70:1).",tensor([35.1413]),"Don’t play! (lit. don’t you do play) object
+ phonologicallyzero (see §70:1).",35.31383514404297,"Don’t play! (lit. don’t you do play) object
 z4 mi yi hifa We will have a chat. (lit. fut we do chatting) noun o
  verbs,
 In nonfinite constructions, as used, for example, in the continuous, the s.o.’, |
@@ -1098,7 +1098,7 @@ i
 7158 ~~ Index
 Jinju, Muhammadu Hambali. See Hambali, 47, 409-10, 728; day names, 340, 345;Permissives, 87—
 Muhammaduhypocoristics, 347-50, 408, 509; male vs.",78.37644958496094
-0.5833467525879954,2,1,0.3485351790391734,1,0.3273029653973662,0,0.3816275663787705,1,0.3791124011356517,1,0.4298038752926337,1,0.3273029653973662,0,0.2839992362094927,1,0.4424146932308442," Raising: subject to object, 82
+0.5833467525879954,2,1,0.3485351790391734,1,0.3273029653973662,0,0.3816275663787705,1,0.3929037862705962,1,0.42980387529263375,1,0.3273029653973662,0,0.2839992362094927,1,0.4424146932308442," Raising: subject to object, 82
  8; frozen, 429, 518-19; hyperpluractional, Rather sentences, 182
 -7, 438428; tone of, 425-26 Reciprocals, 270, 485, 529-31
 512-13, 519; Plurals, 237, 430-65; alternative, 461-62, Reduplicated nouns, 240, 509, 511-18, 519, 606,
@@ -1239,13 +1239,13 @@ f a simple tensed
 -complex (PAC),The person-aspect-complex (PAC) (which is comparable to INFL in general theoretical linguistic
  Examples: terminology) consists of two components: a weak subject pronoun (wsp), which agrees in number and
  gender with the underlying subject, and a marker of tense/aspect/mood (TAM), which in some cases is
- phonologicallyzero (see §70:1).",tensor([32.5362]),"Eat!
+ phonologicallyzero (see §70:1).",32.70748519897461,"Eat!
 imperative with
 water! ’ (please,
  °AN: The implication of this ordering is that inflection (i.e., imperative formation) applies before kwall! ‘Take the
  derivation (pluractional formation), i.e., //ja// + imp)-# — ja + plurac. > jajja. If the order were Other speakers fe
  reversed, one would get ja + plurac > jajja + imp)“4 — **jajja, which is the wrong output.
-",tensor([35.0344]),"9.2. Heavy predicate shift
+",34.97462463378906,"9.2. Heavy predicate shift
 If the Y is a simple adjective, or a single noun, with or withouta prenominalmodifier,or a simple
 genitive complex, then the basic word order is X Y STAB, e.g.,
 at the beginningshi Rat6 n@ He is very large. Belld mashahifin likita né Bello is a famous doctor. wad'ann4n zabi
@@ -1297,7 +1297,7 @@ before the Y. This is true also of structures that normally occur without the st
 pleonastic pronoun described above in §4 is commonly used along with focused NPs. Examples:
 9.1.2. Question'
 Auda né malamiIt is Audu who is a teacher.",78.31519317626953
-0.5961011366254416,1,0,0.3378659917674133,1,0.3478952357647902,0,0.3699453712414368,1,0.3981187065687473,1,0.4472584382808107,1,0.3478952357647902,1,0.3059170990107843,1,0.4594832200702348,"Sentences
+0.5961011366254416,1,0,0.3378659917674133,1,0.3478952357647902,0,0.3699453712414368,1,0.4114879166132251,1,0.4472584382808107,1,0.3478952357647902,1,0.3059170990107843,1,0.4594832200702348,"Sentences
  with the reverse order, however, are grammatical.","Don’t play! (lit. don’t you do play) object
 z4 mi yi hifa We will have a chat. (lit. fut we do chatting) noun o
  verbs,
@@ -1339,7 +1339,7 @@ water! ’ (please,
  °AN: The implication of this ordering is that inflection (i.e., imperative formation) applies before kwall! ‘Take the
  derivation (pluractional formation), i.e., //ja// + imp)-# — ja + plurac. > jajja. If the order were Other speakers fe
  reversed, one would get ja + plurac > jajja + imp)“4 — **jajja, which is the wrong output.
-",tensor([32.5256]),"If the possessive is notNouns allow a large n
+",32.56620788574219,"If the possessive is notNouns allow a large n
  attached to the head noun, it appears as a long form, i.e., na-/ta- plus pronoun or na/ta plus noun, e.g., subject to semantic @
 adjectives, (2) the we
 Noun Phrase: Structure and Word Order 373
@@ -1347,7 +1347,7 @@ hat one.pret steal)dokin nan nasa this his horse (i.e., this horse of his); rig&
  If the definite article (with di-) follows the possessive,it is generally interpreted as applying to the
 e, (2) demonstrative possessor rather than to the possessed head noun, e.g., rigaf Sulé din ‘the gown of the very Sule in
  question’.
-",tensor([34.7585]),"If the possessive is notNouns allow a large n
+",34.911720275878906,"If the possessive is notNouns allow a large n
  attached to the head noun, it appears as a long form, i.e., na-/ta- plus pronoun or na/ta plus noun, e.g., subject to semantic @
 adjectives, (2) the we
 Noun Phrase: Structure and Word Order 373
@@ -1390,7 +1390,7 @@ ted and deemed possibilities, all of which are considered to be fully grammatica
  marker wa and the particle da are “stacked” one after the other, followed by their respective objects,
  e.g., 24i fitat wa da Tankd akwati ‘He will take out the box for Tanko.’ This is the preferred option for
 th the verb in many SH speakers.",78.2215805053711
-0.6076346298690211,1,1,0.3567734926365425,1,0.3665163475688066,1,0.3879368326264964,0,0.3867502680096739,1,0.4630421941801728,1,0.3665163475688066,1,0.3257369132636892,1,0.4749178924465719,"If the possessive is notNouns allow a large n
+0.6076346298690211,1,1,0.3567734926365425,1,0.3665163475688066,1,0.3879368326264964,0,0.3997377149255513,1,0.4630421941801728,1,0.3665163475688066,1,0.3257369132636892,1,0.4749178924465719,"If the possessive is notNouns allow a large n
  attached to the head noun, it appears as a long form, i.e., na-/ta- plus pronoun or na/ta plus noun, e.g., subject to semantic @
 adjectives, (2) the we
 Noun Phrase: Structure and Word Order 373
@@ -1466,7 +1466,7 @@ verb normally requires that a third argument be expressed in addition to(not *
  the subject and the d.o. This third
 argument is commonly an indirect object, but it may also be a locative(b) al
  or a prepositional phrase.
-",tensor([32.4292])," ADN: In the Bauchi dialect, spoken in the far southeastern extent of the Hausa-speaking area, noun
+",32.36405944824219," ADN: In the Bauchi dialect, spoken in the far southeastern extent of the Hausa-speaking area, noun
  indirect objects (marked by wa or ma) occur after the d.o. (Gital 1987), e.g., Zainab ta kai abinci
  sequences. In many
  wa/ma Misa ‘Zainab took food to Musa’; Bala ya aika wasiKa wa/ma Ladi ‘Bala sent a letter to
@@ -1477,7 +1477,7 @@ argument is commonly an indirect object, but it may also be a locative(b) al
  ive of the meaningis undoubtedly an innovation due to interference from Chadic languages in the region, where noun
  1.0. phrases typically occur after the d.o. (see Newman 1982). It is very unlikely that this represents
  a retention of an old Chadic word-order pattern.
- ala.",tensor([34.5711])," 3.1.4. Numerals and other quantifiers
+ ala.",34.80502700805664," 3.1.4. Numerals and other quantifiers
 , for example, means Cardinal numbers and otherquantifiers (including ideophones) directly follow thehead noun, with
 eviously referred to optional use of various unit measure terms (see §53:1.7), e.g.,
  he form ‘n/*-f/ “n
@@ -1509,7 +1509,7 @@ selves are invariant its host), e.g., m6tocI shida din ‘the six cars (in quest
  a retention of an old Chadic word-order pattern.
  ala.",69.8358154296875,"Sentences
  with the reverse order, however, are grammatical.",77.51506805419922
-0.6181565196362195,1,0,0.3472060546128276,0,0.3566876396843472,1,0.4043502617105069,1,0.4031955166757635,0,0.450624995070325,0,0.3566876396843472,1,0.3438183302612243,1,0.4889987886596121," 3.1.4. Numerals and other quantifiers
+0.6181565196362195,1,0,0.3472060546128276,0,0.3566876396843472,1,0.4043502617105069,1,0.4158346849330003,0,0.45062499507032505,0,0.3566876396843472,1,0.3438183302612243,1,0.4889987886596121," 3.1.4. Numerals and other quantifiers
 , for example, means Cardinal numbers and otherquantifiers (including ideophones) directly follow thehead noun, with
 eviously referred to optional use of various unit measure terms (see §53:1.7), e.g.,
  he form ‘n/*-f/ “n
@@ -1645,7 +1645,7 @@ ured us’ (= sunsuna zubaf [mata];.), da mai They are pouring out the oil for h
 ted and deemed possibilities, all of which are considered to be fully grammatical: (1) In the first, the indirect object
  marker wa and the particle da are “stacked” one after the other, followed by their respective objects,
  e.g., 24i fitat wa da Tankd akwati ‘He will take out the box for Tanko.’ This is the preferred option for
-th the verb in many SH speakers.",tensor([31.7948]),"Don’t play! (lit. don’t you do play) object
+th the verb in many SH speakers.",31.71791648864746,"Don’t play! (lit. don’t you do play) object
 z4 mi yi hifa We will have a chat. (lit. fut we do chatting) noun o
  verbs,
 In nonfinite constructions, as used, for example, in the continuous, the s.o.’, |
@@ -1669,7 +1669,7 @@ verb normally requires that a third argument be expressed in addition to(not *
  the subject and the d.o. This third
 argument is commonly an indirect object, but it may also be a locative(b) al
  or a prepositional phrase.
-",tensor([33.7558]),"A few items occur only as repeated distributives rather than singly, e.g.,
+",33.85657501220703,"A few items occur only as repeated distributives rather than singly, e.g.,
 bint binirepeatedly, often
  Adverbs 43
  from time to time, here and there
@@ -1737,7 +1737,7 @@ the less marked of the two, i.e., postnominal simple adjectives tend to add a ce
 or contrastiveness. Significantly, in compounds consisting of an adjective and a noun, the adjectiv
 always occurs prenominally, e.g., baRin-cikt‘sadness; jealousy’ (lit. black.L belly), not **ciki-baRI.
 ",77.39112854003906
-0.6025036473600646,0,1,0.3637360109025484,1,0.372977504613085,2,0.4447550795155895,1,0.4183077156974747,1,0.4645361915241565,1,0.372977504613085,1,0.3604340700295593,1,0.5019382893200253," Hajiya woul
+0.6025036473600646,0,1,0.3637360109025484,1,0.372977504613085,2,0.4447550795155895,1,0.4306268367172841,1,0.4645361915241565,1,0.372977504613085,1,0.3604340700295593,1,0.5019382893200253," Hajiya woul
 The above examples illustrate surface proximity overriding constituency in concord assignment. When Instead of using a sub
 presented for inspection out of context, the first interpretation of the above sentences was invariably of don plus a dynamic
 that of a relative clause; but in producing ‘since’clauses,such“mistakes” with overtpronominalthe full-form démin.
@@ -1880,7 +1880,7 @@ ere adverbs meaningmotéci shida namoour six cars (lit. cars six ours)
 , to anoun plus the
 the other forms as Nouns with a numeral and a definite article occur in that order (with the d.a. requiring the connector di- as
 selves are invariant its host), e.g., m6tocI shida din ‘the six cars (in question)’.
-",tensor([31.4140]),"Non-count nouns lil
+",31.48850440979004,"Non-count nouns lil
 ta gaya musa sd hudu She told the four of them. (lit. she told them they four) modified directly by:
  like bahii ‘sack’, da
 1.6. Word order with attributive quantifiers One structure is nour
@@ -1919,7 +1919,7 @@ cribing the language.kafnuka hudu mahaukata four mad dogs (lit. dogs four mad)
  métdcl biyaf jajayéfive red cars
  *yammata uk masu ky4n gani three good-looking girls
 3’. Singular pronounsSimilarly, numerals precede relative clauses, which are postnominal, e.g.,
- daya itself.",tensor([33.4871]),"Non-count nouns lil
+ daya itself.",33.69566345214844,"Non-count nouns lil
 ta gaya musa sd hudu She told the four of them. (lit. she told them they four) modified directly by:
  like bahii ‘sack’, da
 1.6. Word order with attributive quantifiers One structure is nour
@@ -1989,7 +1989,7 @@ selves are invariant its host), e.g., m6tocI shida din ‘the six cars (in quest
  1.0. phrases typically occur after the d.o. (see Newman 1982). It is very unlikely that this represents
  a retention of an old Chadic word-order pattern.
  ala.",77.27847290039062
-0.5880317220407687,0,1,0.3790188477350247,1,0.3880383640228458,1,0.4580918668667983,1,0.4322797594089478,1,0.4773978435347329,1,0.3880383640228458,1,0.3757962183183762,1,0.5139015561200582," (As
+0.5880317220407687,0,1,0.3790188477350247,1,0.3880383640228458,1,0.4580918668667983,1,0.4443029794824655,1,0.47739784353473297,1,0.3880383640228458,1,0.3757962183183762,1,0.5139015561200582," (As
  with many contractionsin English,in everyday language, the short form don is more commonthanIn certain constructiol
  domin.) Examples: The purposive expres:
  deletion of yin or, if ¢
@@ -2030,15 +2030,26 @@ an ba ka dala nawa? (= dala nawa aka ba ka?",66.44792938232422," ADN: In the Bau
  ive of the meaningis undoubtedly an innovation due to interference from Chadic languages in the region, where noun
  1.0. phrases typically occur after the d.o. (see Newman 1982). It is very unlikely that this represents
  a retention of an old Chadic word-order pattern.
- ala.",68.51864624023438,"If the possessive is notNouns allow a large n
- attached to the head noun, it appears as a long form, i.e., na-/ta- plus pronoun or na/ta plus noun, e.g., subject to semantic @
-adjectives, (2) the we
-Noun Phrase: Structure and Word Order 373
-hat one.pret steal)dokin nan nasa this his horse (i.e., this horse of his); rig&f ta Suléthe gown of Sule’s
- If the definite article (with di-) follows the possessive,it is generally interpreted as applying to the
-e, (2) demonstrative possessor rather than to the possessed head noun, e.g., rigaf Sulé din ‘the gown of the very Sule in
- question’.
-",tensor([31.2284]),"Chapter 4
+ ala.",68.51864624023438," (This can have only a
+reason reading and not temporal one.) Examples:
+i nén zaune tun jiya /
+into the bank’; tun dada yaké kana nAn, z4n fita shan iska
+d go to the bank.’ The Seeing that you are here, I’m going to go out for some fresh air.
+s indicating reason are da yaké makaniké bai gam da saurt ba, sai md kwana a n4n
+ Since the mechanic didn’t finish quickly, we will spend the night here.
+da yaké yarinyaf santaléliya cé, 74 tA zama sarauniyai kyau
+ Since the girl is slim, she will become the beauty queen.
+ie fact that’, etc., areda yaké z4 ka kasuwa, don Allah ka sayo min man-ja
+n clause usually occursSince you are going to the market, please buy me some palm oil.
+ec and the main clause
+2.3. Subject fronting(topicalization)
+The normal word order in the adverbial phrase is tun da yaké ‘since’ followed by the embedded sentence,
+e.g., [tun da yakaj [yarinyaf tana barcl] ‘[since] {the girl is sleeping]’. One can, however, extract the
+subject from its regular position and move it to the front of the sentence as a topic or prementioned
+element. The topicalization is generally marked by a modal particle or by an intonational break
+(indicated in the examples by a comma), but it is also possible without. If the fronted item is the subject
+of an equational sentence, an independent pronoun is optionally left in its place, e.g.,
+[yarinyaf] (dai) [(tun) da yaka] tana barcl...",31.21479797363281,"Chapter 4
 [rigaf da na saya]y [rinanniya]y céThe gown that I bought was dyed.
 [fara]y cé It’s white. (referring to some feminine object)
 tsdgaggé]y néIt’s cracked . (referring to some masculine object)
@@ -2059,7 +2070,7 @@ and quite common, although it is probably true that in the everyday language the
 the less marked of the two, i.e., postnominal simple adjectives tend to add a certain degree of emphasi
 or contrastiveness. Significantly, in compounds consisting of an adjective and a noun, the adjectiv
 always occurs prenominally, e.g., baRin-cikt‘sadness; jealousy’ (lit. black.L belly), not **ciki-baRI.
-",tensor([33.2750]),"Eat!
+",33.57403564453125,"Eat!
 imperative with
 water! ’ (please,
  °AN: The implication of this ordering is that inflection (i.e., imperative formation) applies before kwall! ‘Take the
@@ -2113,7 +2124,7 @@ Drderduk wadannan dalibai_—_all these students (all + det + N)
  stnominalelements,
  [some new] [book] su TankdTanko and the others; su baréwagazelles and similar animals
  The second is the “isolator” daya, which is the numeral ‘one’ used in the sense of ‘the other’.",77.02291107177734
-0.6203267009777147,2,1,0.3932221223734772,1,0.4020353414709977,1,0.4704865587437228,1,0.4452648338601002,1,0.4893509630905362,1,0.4020353414709977,4,0.4586901378345961,1,0.5250197513737608,"Person-aspect-cot
+0.6203267009777147,2,1,0.3932221223734772,1,0.4020353414709977,1,0.4704865587437228,1,0.4570130550932829,1,0.4893509630905362,1,0.4020353414709977,4,0.4586901378345961,1,0.5250197513737608,"Person-aspect-cot
 Jungraithmayr, Herrmann, 2 female, 339-40; nicknames, 347; plurals of,Phonology, 392-«
  342; short forms, 341-42, 605; surnames, Phonotactic restr
 Kanakuru, 19, 24, 144, 146, 456, 479350 Play on words, 25
@@ -2196,7 +2207,15 @@ of an equational sentence, an independent pronoun is optionally left in its plac
 [yarinyaf] (dai) [(tun) da yaka] tana barcl...",66.42901611328125,"1. INTRODUCTION
  downdrift, if any,and
  OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
- prominence. They differ, however, in semantic characterization and in syntactic structure.",68.43710327148438," (This can have only a
+ prominence. They differ, however, in semantic characterization and in syntactic structure.",68.43710327148438,"If the possessive is notNouns allow a large n
+ attached to the head noun, it appears as a long form, i.e., na-/ta- plus pronoun or na/ta plus noun, e.g., subject to semantic @
+adjectives, (2) the we
+Noun Phrase: Structure and Word Order 373
+hat one.pret steal)dokin nan nasa this his horse (i.e., this horse of his); rig&f ta Suléthe gown of Sule’s
+ If the definite article (with di-) follows the possessive,it is generally interpreted as applying to the
+e, (2) demonstrative possessor rather than to the possessed head noun, e.g., rigaf Sulé din ‘the gown of the very Sule in
+ question’.
+",31.110185623168945," (This can have only a
 reason reading and not temporal one.) Examples:
 i nén zaune tun jiya /
 into the bank’; tun dada yaké kana nAn, z4n fita shan iska
@@ -2215,26 +2234,7 @@ subject from its regular position and move it to the front of the sentence as a 
 element. The topicalization is generally marked by a modal particle or by an intonational break
 (indicated in the examples by a comma), but it is also possible without. If the fronted item is the subject
 of an equational sentence, an independent pronoun is optionally left in its place, e.g.,
-[yarinyaf] (dai) [(tun) da yaka] tana barcl...",tensor([31.0352])," (This can have only a
-reason reading and not temporal one.) Examples:
-i nén zaune tun jiya /
-into the bank’; tun dada yaké kana nAn, z4n fita shan iska
-d go to the bank.’ The Seeing that you are here, I’m going to go out for some fresh air.
-s indicating reason are da yaké makaniké bai gam da saurt ba, sai md kwana a n4n
- Since the mechanic didn’t finish quickly, we will spend the night here.
-da yaké yarinyaf santaléliya cé, 74 tA zama sarauniyai kyau
- Since the girl is slim, she will become the beauty queen.
-ie fact that’, etc., areda yaké z4 ka kasuwa, don Allah ka sayo min man-ja
-n clause usually occursSince you are going to the market, please buy me some palm oil.
-ec and the main clause
-2.3. Subject fronting(topicalization)
-The normal word order in the adverbial phrase is tun da yaké ‘since’ followed by the embedded sentence,
-e.g., [tun da yakaj [yarinyaf tana barcl] ‘[since] {the girl is sleeping]’. One can, however, extract the
-subject from its regular position and move it to the front of the sentence as a topic or prementioned
-element. The topicalization is generally marked by a modal particle or by an intonational break
-(indicated in the examples by a comma), but it is also possible without. If the fronted item is the subject
-of an equational sentence, an independent pronoun is optionally left in its place, e.g.,
-[yarinyaf] (dai) [(tun) da yaka] tana barcl...",tensor([33.0757])," Verb Grades659
+[yarinyaf] (dai) [(tun) da yaka] tana barcl...",33.548011779785156," Verb Grades659
  vironments are°AN: The gender distinction between tsayaf-da injin (m.) and tsay4fwa (f.) is because infinitive
  anal pronoun or phrases are masculine whereas weak verbal nouns with *wa are feminine.
  ive a true direct OHN: Synchronically it seems evident that the preposition da and the gr5 particle da must be treated
@@ -2278,7 +2278,7 @@ f a simple tensed
  Examples: terminology) consists of two components: a weak subject pronoun (wsp), which agrees in number and
  gender with the underlying subject, and a marker of tense/aspect/mood (TAM), which in some cases is
  phonologicallyzero (see §70:1).",76.25299835205078
-0.6286232229439362,1,1,0.4064812743952534,1,0.4151019093262708,1,0.4820573484413529,1,0.4573867621157005,0,0.4786577933972046,0,0.3932501699819809,1,0.4705186998471279,1,0.5353988959604273," ADN: Some speakers are reported by Jaggar (1982) as also allowing an L-tone monosyllabic verb
+0.6286232229439362,1,1,0.4064812743952534,1,0.4151019093262708,1,0.4820573484413529,0,0.4470265249364469,0,0.4786577933972046,0,0.3932501699819809,1,0.4705186998471279,1,0.5353988959604273," ADN: Some speakers are reported by Jaggar (1982) as also allowing an L-tone monosyllabic verb
 imperative with a softening nuance before a noun object (or locative goal), e.g., sha ruwa! ‘Drink
  water! ’ (please, it will be good for you); ba® kudin! ‘Leave the money!’ (if you don’t mind); dau
 ion) applies before
@@ -2342,46 +2342,34 @@ efore and what goes
  Buba fa @ na (= yana) wanké mdotafsaBuba is indeed washing his car.
 aku dai @ na da hazaka The parrot indeed is clever. (lit. has cleverness)
  Misa né @ ké (= yaké) néman mataIt is Musa who is chasing women.
-",68.37881469726562,"Non-count nouns lil
-ta gaya musa sd hudu She told the four of them. (lit. she told them they four) modified directly by:
- like bahii ‘sack’, da
-1.6. Word order with attributive quantifiers One structure is nour
-The basic word order with quantifiers(apart from duk‘all’) is noun (with associated definite articleor four). Here are some
-demonstrative) + quantifier, e.g.,
- baha : dav
-naifa dubad 1,000 nairas; °yan-makafanta talatin 30 students; sojan gwamnati métan da hamsin damit :ger
-250 government soldiers; mutané nawa? how many people?; 6éra (= BeFayé) dA yawan gaske doré:kan
- gwangwanl :far:
- Numerals and Other Quantifiers383
- areal lot of rats; awakin gida goma sh4 biyu_ the 12 goats (cf. awakI sh4 biyu 12 goats);kuk6kin
- nan gida biyaf = wadanndn kUk6ki (gad) biyaf these five baobab trees
-,300 each
- The numeral d'aya ‘one’ can occur before the head noun (plus definite article), in which case it indicates
- ‘the other’, e.g.,
-juantifiers even when
- daya yaron the other boy, cf. yaré dayaone boy; daya yarinyafthe other girl
-f. pl. bamabamai); With normal postnominal possessives, the basic order is N + possessor + quantifier, e.g.,
-. naifdtt), [hula],
-pl. kadandani) matansa (gida) huduhis four wives (lit. wives.his (unit) four)
- yaran sarkI (gdda) gomathe chief’s ten followers (lit. children.of chief (unit) ten)
-ating unit term gada
-udu ‘four clerks’ =One can reverse the order and have the numeral before the possessive, in which case one has to use an
-rether this restrictionindependent possessive. This is less common and more highly marked than the order shown above, e.g.,
-low in §1.7, gida is
- mata hudu nasa his four wives (lit. wives four his)
- yara goma na sarki the chief’s ten followers (lit. children ten of chief)
-to use the plural with
-certain derived nounsWith prenominal adjectives, the word order is adj N + num, e.g.,
- mahaukatan karnuka hudufour mad dogs (lit. mad dogs four)
-3g. ADOKI); [birai]p|jajayen motoci biyat five red cars
-g. dan-sanda); kyawawan ’yammata gada ukad_three attractive girls
- With postnominal adjectives (or adjectival phrases), the order is N + num followed by the adjective, e.g.,
-nerals more than was
-cribing the language.kafnuka hudu mahaukata four mad dogs (lit. dogs four mad)
- métdcl biyaf jajayéfive red cars
- *yammata uk masu ky4n gani three good-looking girls
-3’. Singular pronounsSimilarly, numerals precede relative clauses, which are postnominal, e.g.,
- daya itself.",tensor([31.0106])," Hajiya woul
+",68.37881469726562,"A few items occur only as repeated distributives rather than singly, e.g.,
+bint binirepeatedly, often
+ Adverbs 43
+ from time to time, here and there
+ in order, item by item, evenly
+ They are lined up evenly.
+ clearly, in an orderly manner
+ dalla He told me the story step by step.
+ tinually’ (lit. at head at head), it is a prepositional phrase rather than
+.
+ isting of more than one word are formed by repeating the final word
+ from village market to village market
+ riverbank by riverbank
+ true compound requires repetition of the entire compound, e.g.,
+ front yard after front yard (Kofar-gida = front yard)
+‘X after X’ have the structure Noun -sp da ‘and’ Noun}-p],e.g.,
+ day after day, it’s been long since (lit. day and days)
+year after year (lit. year and years)
+month after month (lit. month and months)
+ollowing-and-following),withthe conjoinedverbal nouns,indicates
+ES
+rnal syntactic and semantic function is that of an adverb, whether
+ are structurally prepositional phrases. Most often, the object of the
+ NP (or even a pp); but, as indicated earlier, some prepositional phrases
+ally be an adverb; compare da hankall ‘carefully’ (lit. with care), with
+a is an adverb derived from the noun baki ‘mouth’).
+formed with “true prepositions”,“phrasal prepositions”,or “genitive
+ the distinction), serve as spatialadverbs.",31.04444122314453," Hajiya woul
 The above examples illustrate surface proximity overriding constituency in concord assignment. When Instead of using a sub
 presented for inspection out of context, the first interpretation of the above sentences was invariably of don plus a dynamic
 that of a relative clause; but in producing ‘since’clauses,such“mistakes” with overtpronominalthe full-form démin.
@@ -2389,7 +2377,7 @@ that of a relative clause; but in producing ‘since’clauses,such“mistakes�
  sun shiga don magan
  3. PURPOSE (‘IN ORDER TO’)ya hau bishiya don t
  He climbed
- Purpose clauses are indicated by démin/don) ‘(in order) to, so that’ plus a clause in the subjunctive.",tensor([32.9336])," Hajiya woul
+ Purpose clauses are indicated by démin/don) ‘(in order) to, so that’ plus a clause in the subjunctive.",33.4146842956543," Hajiya woul
 The above examples illustrate surface proximity overriding constituency in concord assignment. When Instead of using a sub
 presented for inspection out of context, the first interpretation of the above sentences was invariably of don plus a dynamic
 that of a relative clause; but in producing ‘since’clauses,such“mistakes” with overtpronominalthe full-form démin.
@@ -2430,7 +2418,7 @@ a Tamburawa (né) muké sayensdIt’s at Tamburawa we buy them.
 da Ryaf muka samaWith difficulty we got it.
 a kasuwaé take It’s at the market she is.
 ",76.17732238769531
-0.6363985346754968,1,1,0.4189074501692942,4,0.4901569528909807,1,0.4929012294369909,0,0.4478107065380471,1,0.4895728490107774,1,0.4059533581265354,0,0.4606677080973458,0,0.5241895431575264," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
+0.6363985346754968,1,1,0.4189074501692942,4,0.4901569528909807,1,0.4929012294369909,1,0.4586038270552985,1,0.48957284901077747,1,0.4059533581265354,0,0.4606677080973458,0,0.5241895431575264," Singleindependent pronounsthat translate into Englishas focusedsubjects syntactically occupy the
  focus slot and thus they are not deleted, e.g.,
  «sti (né)» [A] spy [24 sd]pac dawo They (i.e., it is they who) will return.
  «mi (né)» [O]spy [muka}pac san amsa We (i.e., it is we who) know the answer.
@@ -2485,34 +2473,46 @@ If the subject X of an equational sentence is focused, the STAB is placed immedi
 before the Y. This is true also of structures that normally occur without the stabilizer. Note that the cf. ita Madonna tau
 pleonastic pronoun described above in §4 is commonly used along with focused NPs. Examples:
 9.1.2. Question'
-Auda né malamiIt is Audu who is a teacher.",68.11672973632812,"A few items occur only as repeated distributives rather than singly, e.g.,
-bint binirepeatedly, often
- Adverbs 43
- from time to time, here and there
- in order, item by item, evenly
- They are lined up evenly.
- clearly, in an orderly manner
- dalla He told me the story step by step.
- tinually’ (lit. at head at head), it is a prepositional phrase rather than
-.
- isting of more than one word are formed by repeating the final word
- from village market to village market
- riverbank by riverbank
- true compound requires repetition of the entire compound, e.g.,
- front yard after front yard (Kofar-gida = front yard)
-‘X after X’ have the structure Noun -sp da ‘and’ Noun}-p],e.g.,
- day after day, it’s been long since (lit. day and days)
-year after year (lit. year and years)
-month after month (lit. month and months)
-ollowing-and-following),withthe conjoinedverbal nouns,indicates
-ES
-rnal syntactic and semantic function is that of an adverb, whether
- are structurally prepositional phrases. Most often, the object of the
- NP (or even a pp); but, as indicated earlier, some prepositional phrases
-ally be an adverb; compare da hankall ‘carefully’ (lit. with care), with
-a is an adverb derived from the noun baki ‘mouth’).
-formed with “true prepositions”,“phrasal prepositions”,or “genitive
- the distinction), serve as spatialadverbs.",tensor([30.8968])," Is there bread in the cupboard?
+Auda né malamiIt is Audu who is a teacher.",68.11672973632812,"Non-count nouns lil
+ta gaya musa sd hudu She told the four of them. (lit. she told them they four) modified directly by:
+ like bahii ‘sack’, da
+1.6. Word order with attributive quantifiers One structure is nour
+The basic word order with quantifiers(apart from duk‘all’) is noun (with associated definite articleor four). Here are some
+demonstrative) + quantifier, e.g.,
+ baha : dav
+naifa dubad 1,000 nairas; °yan-makafanta talatin 30 students; sojan gwamnati métan da hamsin damit :ger
+250 government soldiers; mutané nawa? how many people?; 6éra (= BeFayé) dA yawan gaske doré:kan
+ gwangwanl :far:
+ Numerals and Other Quantifiers383
+ areal lot of rats; awakin gida goma sh4 biyu_ the 12 goats (cf. awakI sh4 biyu 12 goats);kuk6kin
+ nan gida biyaf = wadanndn kUk6ki (gad) biyaf these five baobab trees
+,300 each
+ The numeral d'aya ‘one’ can occur before the head noun (plus definite article), in which case it indicates
+ ‘the other’, e.g.,
+juantifiers even when
+ daya yaron the other boy, cf. yaré dayaone boy; daya yarinyafthe other girl
+f. pl. bamabamai); With normal postnominal possessives, the basic order is N + possessor + quantifier, e.g.,
+. naifdtt), [hula],
+pl. kadandani) matansa (gida) huduhis four wives (lit. wives.his (unit) four)
+ yaran sarkI (gdda) gomathe chief’s ten followers (lit. children.of chief (unit) ten)
+ating unit term gada
+udu ‘four clerks’ =One can reverse the order and have the numeral before the possessive, in which case one has to use an
+rether this restrictionindependent possessive. This is less common and more highly marked than the order shown above, e.g.,
+low in §1.7, gida is
+ mata hudu nasa his four wives (lit. wives four his)
+ yara goma na sarki the chief’s ten followers (lit. children ten of chief)
+to use the plural with
+certain derived nounsWith prenominal adjectives, the word order is adj N + num, e.g.,
+ mahaukatan karnuka hudufour mad dogs (lit. mad dogs four)
+3g. ADOKI); [birai]p|jajayen motoci biyat five red cars
+g. dan-sanda); kyawawan ’yammata gada ukad_three attractive girls
+ With postnominal adjectives (or adjectival phrases), the order is N + num followed by the adjective, e.g.,
+nerals more than was
+cribing the language.kafnuka hudu mahaukata four mad dogs (lit. dogs four mad)
+ métdcl biyaf jajayéfive red cars
+ *yammata uk masu ky4n gani three good-looking girls
+3’. Singular pronounsSimilarly, numerals precede relative clauses, which are postnominal, e.g.,
+ daya itself.",30.994140625," Is there bread in the cupboard?
 It is possible to string a number of adverbs in a single sentence, the order of the various adverbs bei
 subject to some degree of flexibility, e.g.,
 gidan Belld yana bayan asibiti kusa da shagon kafinta
@@ -2528,7 +2528,7 @@ jiya da y4mma (né) suka daw6 It was yesterday afternoon they returned.
 a Tamburawa (né) muké sayensdIt’s at Tamburawa we buy them.
 da Ryaf muka samaWith difficulty we got it.
 a kasuwaé take It’s at the market she is.
-",tensor([32.8291])," (This can have only a
+",33.08208465576172," (This can have only a
 reason reading and not temporal one.) Examples:
 i nén zaune tun jiya /
 into the bank’; tun dada yaké kana nAn, z4n fita shan iska
@@ -2662,7 +2662,7 @@ nsisting of boiled grain (usually guinea corn or millet,less often rice)
  Viterranean Sea
 G.
 Gu. .",76.04212188720703
-0.6437104594340665,1,1,0.4305930603973374,1,0.5004097553537374,1,0.5030988452585078,1,0.4589150802860409,0,0.4797276746174053,4,0.4782286406277077,1,0.471513531105071,1,0.5337579596562548," Verb Grades659
+0.6437104594340665,1,1,0.4305930603973374,1,0.5004097553537374,1,0.5030988452585078,1,0.4694911541391325,0,0.4797276746174053,4,0.4782286406277077,1,0.471513531105071,1,0.5337579596562548," Verb Grades659
  vironments are°AN: The gender distinction between tsayaf-da injin (m.) and tsay4fwa (f.) is because infinitive
  anal pronoun or phrases are masculine whereas weak verbal nouns with *wa are feminine.
  ive a true direct OHN: Synchronically it seems evident that the preposition da and the gr5 particle da must be treated
@@ -2727,8 +2727,28 @@ jiya da y4mma (né) suka daw6 It was yesterday afternoon they returned.
 a Tamburawa (né) muké sayensdIt’s at Tamburawa we buy them.
 da Ryaf muka samaWith difficulty we got it.
 a kasuwaé take It’s at the market she is.
-",67.71186828613281,"Sentences
- with the reverse order, however, are grammatical.",tensor([30.7949]),"A few items occur only as repeated distributives rather than singly, e.g.,
+",67.71186828613281,"Chapter 4
+[rigaf da na saya]y [rinanniya]y céThe gown that I bought was dyed.
+[fara]y cé It’s white. (referring to some feminine object)
+tsdgaggé]y néIt’s cracked . (referring to some masculine object)
+3.2. Attributive adjectives
+3.2.1. Alternative word orders
+Simple, single-word adjectives occur both before and after the head noun. Prenominal adjective
+obligatorily connect to the head by means of a genitive linker (-n or -f, depending on number an
+gender); postnominal adjectives are immediately juxtaposed to the head noun, e.g.,
+farin gida (lit. white.L house)= gida fart (lit. house white)white house
+Kanjamammen fufsina =fuFsina Kanjamamméthin prisoner
+tsattsamaf fura =fura tsattsamasour fura
+makékén ditsé =diitsé makéké huge stone
+risassun ¢akuna =dakuna risassii razed rooms
+Generally speaking, noun phrases with the two orders have the same essential meanings, although ther
+are a few exceptions, e.g., gwamna ts6hd ‘old governor’ vs. tshon gwamna ‘former governor (or ol
+governor)’. Differences do exist, however, but at the pragmatic/stylistic level. Both orders are norma
+and quite common, although it is probably true that in the everyday language the prenominal adjective 
+the less marked of the two, i.e., postnominal simple adjectives tend to add a certain degree of emphasi
+or contrastiveness. Significantly, in compounds consisting of an adjective and a noun, the adjectiv
+always occurs prenominally, e.g., baRin-cikt‘sadness; jealousy’ (lit. black.L belly), not **ciki-baRI.
+",30.866945266723636,"A few items occur only as repeated distributives rather than singly, e.g.,
 bint binirepeatedly, often
  Adverbs 43
  from time to time, here and there
@@ -2755,7 +2775,7 @@ rnal syntactic and semantic function is that of an adverb, whether
 ally be an adverb; compare da hankall ‘carefully’ (lit. with care), with
 a is an adverb derived from the noun baki ‘mouth’).
 formed with “true prepositions”,“phrasal prepositions”,or “genitive
- the distinction), serve as spatialadverbs.",tensor([32.4109])," I want [that we go to the store and buy all kinds of goods]. can
+ the distinction), serve as spatialadverbs.",32.721290588378906," I want [that we go to the store and buy all kinds of goods]. can
 the
 Some verbs allow double direct objects, e.g., Ex.
 Gafba ya dauki Tankd mahaukaciGarba considers Tanko a fool.
@@ -2790,7 +2810,7 @@ element. The topicalization is generally marked by a modal particle or by an int
 (indicated in the examples by a comma), but it is also possible without. If the fronted item is the subject
 of an equational sentence, an independent pronoun is optionally left in its place, e.g.,
 [yarinyaf] (dai) [(tun) da yaka] tana barcl...",76.00434112548828
-0.689324258034602,3,0,0.422257503668161,1,0.5100809814105376,1,0.5127180150619387,1,0.4693895733942569,1,0.4897992709381757,2,0.5076875721840559,1,0.4817441394154111,1,0.5427836206207535,"The variant with the /a/
+0.689324258034602,3,0,0.422257503668161,1,0.5100809814105376,1,0.5127180150619387,1,0.4797609122627831,1,0.48979927093817577,2,0.5076875721840559,1,0.4817441394154111,1,0.5427836206207535,"The variant with the /a/
 n a VERB and there is
 vowel represents the historically original shape.
 re (X) Y STAB, where
@@ -2842,52 +2862,27 @@ full range of NPs as subjects (the X) and a full range of NPs and adjectivesas
  predicates (the Y), e.g., ba gidajé manyz
  It’s not
  yadin fari né The cloth is white. mataisa déguwa cé His wife is tall.
- motaisa Honda céHis car is a Honda. motocin Rénanni né?",67.69792175292969,"Chapter 4
-[rigaf da na saya]y [rinanniya]y céThe gown that I bought was dyed.
-[fara]y cé It’s white. (referring to some feminine object)
-tsdgaggé]y néIt’s cracked . (referring to some masculine object)
-3.2. Attributive adjectives
-3.2.1. Alternative word orders
-Simple, single-word adjectives occur both before and after the head noun. Prenominal adjective
-obligatorily connect to the head by means of a genitive linker (-n or -f, depending on number an
-gender); postnominal adjectives are immediately juxtaposed to the head noun, e.g.,
-farin gida (lit. white.L house)= gida fart (lit. house white)white house
-Kanjamammen fufsina =fuFsina Kanjamamméthin prisoner
-tsattsamaf fura =fura tsattsamasour fura
-makékén ditsé =diitsé makéké huge stone
-risassun ¢akuna =dakuna risassii razed rooms
-Generally speaking, noun phrases with the two orders have the same essential meanings, although ther
-are a few exceptions, e.g., gwamna ts6hd ‘old governor’ vs. tshon gwamna ‘former governor (or ol
-governor)’. Differences do exist, however, but at the pragmatic/stylistic level. Both orders are norma
-and quite common, although it is probably true that in the everyday language the prenominal adjective 
-the less marked of the two, i.e., postnominal simple adjectives tend to add a certain degree of emphasi
-or contrastiveness. Significantly, in compounds consisting of an adjective and a noun, the adjectiv
-always occurs prenominally, e.g., baRin-cikt‘sadness; jealousy’ (lit. black.L belly), not **ciki-baRI.
-",tensor([30.7657])," Verb Grades659
- vironments are°AN: The gender distinction between tsayaf-da injin (m.) and tsay4fwa (f.) is because infinitive
- anal pronoun or phrases are masculine whereas weak verbal nouns with *wa are feminine.
- ive a true direct OHN: Synchronically it seems evident that the preposition da and the gr5 particle da must be treated
- sarticle da. Theas distinct morphemes. What we don’t know is whether historically they represent two separate
- duns, this also morphemes that just happen to be phonologically homophonous, or whether they represent
- specialized uses of what originally was one and the same item—an alternative that I think is more
- reates a true B-
- likely.
-hyphenmarks
- 9.3.1. Grade 5 with indirect objects
- A peculiarity of gr5 verbs concerns the use and position of d& when the sentence contains an indirect
- object (i.0.). (For purposes of the exposition here, I shall refer to the thematic direct object as d.o. even
- when it syntactically consists of da and an obliqueobject.)Withpronoun i.o.’s, the situation is
- straightforward. The word order is V + i.o. + d.o.
-> strong direct
-fitaf ni ‘They 74i tsayat [mukd);9, da mota He will stop the car for you (pl.).
-. sun ciya¥ shisoja ya tséraf [mana];9. da ’ya’yanmoThe soldier rescued our children for us.
-ured us’ (= sunsuna zubaf [mata];.), da mai They are pouring out the oil for her.
- nant, i.e., the
-‘his variant isWith noun i.o.’s, on the other hand, the matter is much more complicated. Here one finds four different
-ted and deemed possibilities, all of which are considered to be fully grammatical: (1) In the first, the indirect object
- marker wa and the particle da are “stacked” one after the other, followed by their respective objects,
- e.g., 24i fitat wa da Tankd akwati ‘He will take out the box for Tanko.’ This is the preferred option for
-th the verb in many SH speakers.",tensor([32.3035]),"Person-aspect-cot
+ motaisa Honda céHis car is a Honda. motocin Rénanni né?",67.69792175292969,"Sentences
+ with the reverse order, however, are grammatical.",30.834352493286133," 3.1.4. Numerals and other quantifiers
+, for example, means Cardinal numbers and otherquantifiers (including ideophones) directly follow thehead noun, with
+eviously referred to optional use of various unit measure terms (see §53:1.7), e.g.,
+ he form ‘n/*-f/ “n
+ naifa dub 1,000 nairas; ’yan makafanta talatin thirty students; fensit (gdda) daya_one (unit)
+ pencil; sdjoji d& yawalots of soldiers; mangwafd nawa? how manymangoes?mutanétinjim
++ “F)oodles of people; *yammata dukaall the girls (= duk ’yammata)
+fi- + <n)
+ With possessed nouns, the typical order is N + possessor + numeral, e.g.,
+ matansa hudu_ his four wives (lit. wives.his four),m6técinmd shida our six cars (lit. cars.our six)
+ One can reverse the order and have the numeral before the possessive (in which case one has to use an
+ independent possessive). This is less common and is more highly marked than the possessive plus
+ numeral order. Examples:
+his/that/those, etc.’
+ namely, nan ‘this’, mata hudunasahis four wives (lit. wives four his)
+ere adverbs meaningmotéci shida namoour six cars (lit. cars six ours)
+, to anoun plus the
+the other forms as Nouns with a numeral and a definite article occur in that order (with the d.a. requiring the connector di- as
+selves are invariant its host), e.g., m6tocI shida din ‘the six cars (in question)’.
+",32.613773345947266,"Person-aspect-cot
 Jungraithmayr, Herrmann, 2 female, 339-40; nicknames, 347; plurals of,Phonology, 392-«
  342; short forms, 341-42, 605; surnames, Phonotactic restr
 Kanakuru, 19, 24, 144, 146, 456, 479350 Play on words, 25
@@ -2958,7 +2953,7 @@ aku dai @ na da hazaka The parrot indeed is clever. (lit. has cleverness)
  downdrift, if any,and
  OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
  prominence. They differ, however, in semantic characterization and in syntactic structure.",75.91593170166016
-0.6951250709320899,1,2,0.4517164790092606,0,0.500556953827917,1,0.5218163489230261,1,0.4792969185468727,1,0.4993255344009317,1,0.5168798324577479,1,0.4914208050644872,1,0.5513205815487852,"What did you remember?
+0.6951250709320899,1,2,0.4517164790092606,0,0.500556953827917,1,0.5218163489230261,1,0.4894746079341353,1,0.49932553440093175,1,0.5168798324577479,1,0.4914208050644872,1,0.5513205815487852,"What did you remember?
 but normally not **da mé ka tuna?
 Although fronting is the norm, adverbial Q-words can remain in regular declarative sentenc
 with only a slightly strengthened nuance. With normal word order, the general rather than t
@@ -3067,26 +3062,31 @@ jiya da y4mma (né) suka daw6 It was yesterday afternoon they returned.
 a Tamburawa (né) muké sayensdIt’s at Tamburawa we buy them.
 da Ryaf muka samaWith difficulty we got it.
 a kasuwaé take It’s at the market she is.
-",tensor([30.3800])," 3.1.4. Numerals and other quantifiers
-, for example, means Cardinal numbers and otherquantifiers (including ideophones) directly follow thehead noun, with
-eviously referred to optional use of various unit measure terms (see §53:1.7), e.g.,
- he form ‘n/*-f/ “n
- naifa dub 1,000 nairas; ’yan makafanta talatin thirty students; fensit (gdda) daya_one (unit)
- pencil; sdjoji d& yawalots of soldiers; mangwafd nawa? how manymangoes?mutanétinjim
-+ “F)oodles of people; *yammata dukaall the girls (= duk ’yammata)
-fi- + <n)
- With possessed nouns, the typical order is N + possessor + numeral, e.g.,
- matansa hudu_ his four wives (lit. wives.his four),m6técinmd shida our six cars (lit. cars.our six)
- One can reverse the order and have the numeral before the possessive (in which case one has to use an
- independent possessive). This is less common and is more highly marked than the possessive plus
- numeral order. Examples:
-his/that/those, etc.’
- namely, nan ‘this’, mata hudunasahis four wives (lit. wives four his)
-ere adverbs meaningmotéci shida namoour six cars (lit. cars six ours)
-, to anoun plus the
-the other forms as Nouns with a numeral and a definite article occur in that order (with the d.a. requiring the connector di- as
-selves are invariant its host), e.g., m6tocI shida din ‘the six cars (in question)’.
-",tensor([32.2863]),"1. INTRODUCTION
+",30.399890899658203," Verb Grades659
+ vironments are°AN: The gender distinction between tsayaf-da injin (m.) and tsay4fwa (f.) is because infinitive
+ anal pronoun or phrases are masculine whereas weak verbal nouns with *wa are feminine.
+ ive a true direct OHN: Synchronically it seems evident that the preposition da and the gr5 particle da must be treated
+ sarticle da. Theas distinct morphemes. What we don’t know is whether historically they represent two separate
+ duns, this also morphemes that just happen to be phonologically homophonous, or whether they represent
+ specialized uses of what originally was one and the same item—an alternative that I think is more
+ reates a true B-
+ likely.
+hyphenmarks
+ 9.3.1. Grade 5 with indirect objects
+ A peculiarity of gr5 verbs concerns the use and position of d& when the sentence contains an indirect
+ object (i.0.). (For purposes of the exposition here, I shall refer to the thematic direct object as d.o. even
+ when it syntactically consists of da and an obliqueobject.)Withpronoun i.o.’s, the situation is
+ straightforward. The word order is V + i.o. + d.o.
+> strong direct
+fitaf ni ‘They 74i tsayat [mukd);9, da mota He will stop the car for you (pl.).
+. sun ciya¥ shisoja ya tséraf [mana];9. da ’ya’yanmoThe soldier rescued our children for us.
+ured us’ (= sunsuna zubaf [mata];.), da mai They are pouring out the oil for her.
+ nant, i.e., the
+‘his variant isWith noun i.o.’s, on the other hand, the matter is much more complicated. Here one finds four different
+ted and deemed possibilities, all of which are considered to be fully grammatical: (1) In the first, the indirect object
+ marker wa and the particle da are “stacked” one after the other, followed by their respective objects,
+ e.g., 24i fitat wa da Tankd akwati ‘He will take out the box for Tanko.’ This is the preferred option for
+th the verb in many SH speakers.",32.48609161376953,"1. INTRODUCTION
  downdrift, if any,and
  OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
  prominence. They differ, however, in semantic characterization and in syntactic structure.",68.88481140136719,"Non-count nouns lil
@@ -3135,7 +3135,7 @@ water! ’ (please,
  derivation (pluractional formation), i.e., //ja// + imp)-# — ja + plurac. > jajja. If the order were Other speakers fe
  reversed, one would get ja + plurac > jajja + imp)“4 — **jajja, which is the wrong output.
 ",75.77355194091797
-0.6825843739397259,0,4,0.51573078426238,1,0.5095673667289922,2,0.5484841444642885,1,0.4886908820802809,1,0.5083581632434974,1,0.5255957655831687,1,0.5005960425102529,1,0.5594151718157738,"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
+0.6825843739397259,0,4,0.51573078426238,1,0.5095673667289922,2,0.5484841444642885,0,0.4806440348470113,1,0.5083581632434974,1,0.5255957655831687,1,0.5005960425102529,1,0.5594151718157738,"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
 the verb and the subject, but this is extremely rare. More common is number agreement or semantic
 even if the pronoun compatibility between the verb and the direct object (or other patient); see Newman (1990b).
 "," I want [that we go to the store and buy all kinds of goods]. can
@@ -3335,7 +3335,12 @@ ANA
 i
 7158 ~~ Index
 Jinju, Muhammadu Hambali. See Hambali, 47, 409-10, 728; day names, 340, 345;Permissives, 87—
-Muhammaduhypocoristics, 347-50, 408, 509; male vs.",67.10546875,"9.2. Heavy predicate shift
+Muhammaduhypocoristics, 347-50, 408, 509; male vs.",67.10546875," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
+ some cases). Monosyllabic Ci verbs lengthen the vowel in order to add weight to the syllable preceding
+ the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
+ determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
+ is reported with an L-H-L pattern in addition to all H.
+",30.002456665039062,"9.2. Heavy predicate shift
 If the Y is a simple adjective, or a single noun, with or withouta prenominalmodifier,or a simple
 genitive complex, then the basic word order is X Y STAB, e.g.,
 at the beginningshi Rat6 n@ He is very large. Belld mashahifin likita né Bello is a famous doctor. wad'ann4n zabi
@@ -3347,13 +3352,7 @@ be placed after the full Y or it can be moved up after the head noun and before 
 sults in sentencesMati da Shéha yard nagartattd né = Mati da Shéhd yard né nagartatta
 2s the problem isMati and Shehu are well-behaved children.
  composed of theakuya dabba Résasshiya cé = Akuya dabba cé RésasshiyaA goat is a well-fed animal.
-",tensor([29.9346])," The fourth restriction relates to vowel sequences. In trisyllabic words with a short high vowel in the
- unterparts cannotco-first syllable, a high vowel in the next syllable will necessarily be identical, ie., CiCiCV and CuCuCV
-tr order. On the other are possible, but **CiCuCV and **CuCiCV are not,e.g., binciké ‘investigate’, jimina ‘ostrich’,
-dad ‘pleasantness’,rigima ‘dispute’; duraml ‘fig tree’, gdndura ‘become fed up’, tikina ‘(not) yet’. The only exceptions
- ples of /s/ — /ts/ with are verbal nouns of gr7 verbs with the ending -uwa, e.g., nitsuwa ‘reflection’, niRuwa (sometimes
- pronounced [nikuwa]) ‘grindable’.
-",tensor([31.2864]),"Equational senten
+",31.346723556518555,"Equational senten
  The stabilizer takes the form né when agreeing with words that are masculine singular or plural and cé semantically have
 when agreeing with feminine words. The tone of both forms is polar to that of the preceding tone, ie. L the NP preceding
 if the preceding tone is H, and H if the preceding tone is L or falling (= HL), e.g., wannan jaki né / doki
@@ -3411,7 +3410,7 @@ ere adverbs meaningmotéci shida namoour six cars (lit. cars six ours)
 the other forms as Nouns with a numeral and a definite article occur in that order (with the d.a. requiring the connector di- as
 selves are invariant its host), e.g., m6tocI shida din ‘the six cars (in question)’.
 ",75.49044036865234
-0.6881261866194274,1,1,0.5241857217633277,1,0.5181299123709151,1,0.5563672355532537,0,0.4801587459646735,1,0.5169418205719853,1,0.5338784687198316,0,0.4918560522009387,1,0.5671074162639151," The fourth restriction relates to vowel sequences. In trisyllabic words with a short high vowel in the
+0.6881261866194274,1,1,0.5241857217633277,1,0.5181299123709151,1,0.5563672355532537,1,0.4897115577937765,1,0.5169418205719853,1,0.5338784687198316,0,0.4918560522009387,1,0.5671074162639151," The fourth restriction relates to vowel sequences. In trisyllabic words with a short high vowel in the
  unterparts cannotco-first syllable, a high vowel in the next syllable will necessarily be identical, ie., CiCiCV and CuCuCV
 tr order. On the other are possible, but **CiCuCV and **CuCiCV are not,e.g., binciké ‘investigate’, jimina ‘ostrich’,
 dad ‘pleasantness’,rigima ‘dispute’; duraml ‘fig tree’, gdndura ‘become fed up’, tikina ‘(not) yet’. The only exceptions
@@ -3466,12 +3465,7 @@ ion) applies before
 ja. If the order were
  Other speakers feel that only the H-tone imperative can be used in this context.
 ong output.
-",66.7918472290039," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
- some cases). Monosyllabic Ci verbs lengthen the vowel in order to add weight to the syllable preceding
- the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
- determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
- is reported with an L-H-L pattern in addition to all H.
-",tensor([29.8882]),"9.2. Heavy predicate shift
+",66.7918472290039,"9.2. Heavy predicate shift
 If the Y is a simple adjective, or a single noun, with or withouta prenominalmodifier,or a simple
 genitive complex, then the basic word order is X Y STAB, e.g.,
 at the beginningshi Rat6 n@ He is very large. Belld mashahifin likita né Bello is a famous doctor. wad'ann4n zabi
@@ -3483,7 +3477,13 @@ be placed after the full Y or it can be moved up after the head noun and before 
 sults in sentencesMati da Shéha yard nagartattd né = Mati da Shéhd yard né nagartatta
 2s the problem isMati and Shehu are well-behaved children.
  composed of theakuya dabba Résasshiya cé = Akuya dabba cé RésasshiyaA goat is a well-fed animal.
-",tensor([31.0281])," ADN: Some speakers are reported by Jaggar (1982) as also allowing an L-tone monosyllabic verb
+",29.912303924560547," The fourth restriction relates to vowel sequences. In trisyllabic words with a short high vowel in the
+ unterparts cannotco-first syllable, a high vowel in the next syllable will necessarily be identical, ie., CiCiCV and CuCuCV
+tr order. On the other are possible, but **CiCuCV and **CuCiCV are not,e.g., binciké ‘investigate’, jimina ‘ostrich’,
+dad ‘pleasantness’,rigima ‘dispute’; duraml ‘fig tree’, gdndura ‘become fed up’, tikina ‘(not) yet’. The only exceptions
+ ples of /s/ — /ts/ with are verbal nouns of gr7 verbs with the ending -uwa, e.g., nitsuwa ‘reflection’, niRuwa (sometimes
+ pronounced [nikuwa]) ‘grindable’.
+",31.336732864379883," ADN: Some speakers are reported by Jaggar (1982) as also allowing an L-tone monosyllabic verb
 imperative with a softening nuance before a noun object (or locative goal), e.g., sha ruwa! ‘Drink
  water! ’ (please, it will be good for you); ba® kudin! ‘Leave the money!’ (if you don’t mind); dau
 ion) applies before
@@ -3501,7 +3501,7 @@ dad ‘pleasantness’,rigima ‘dispute’; duraml ‘fig tree’, gdndura ‘b
  ples of /s/ — /ts/ with are verbal nouns of gr7 verbs with the ending -uwa, e.g., nitsuwa ‘reflection’, niRuwa (sometimes
  pronounced [nikuwa]) ‘grindable’.
 ",75.38993072509766
-0.6934032230229501,1,1,0.5322366999469522,0,0.5093629358181294,0,0.5469532673719651,2,0.5058751007242605,2,0.5420357902020474,1,0.5417654415386415,2,0.5173744836076066,1,0.5744321412814745,"2.2. Adjectives
+0.6934032230229501,1,1,0.5322366999469522,0,0.5093629358181294,0,0.5469532673719651,0,0.48142543178117,0,0.5081949470333185,1,0.5417654415386415,2,0.5173744836076066,1,0.5744321412814745,"2.2. Adjectives
 2. PRENOMINAL ELEMENTSThe prenominal modifie
 obligatorily agrees in
 There are two
@@ -3562,179 +3562,20 @@ containingthe same (lit. he saved moneyhe will buy a plane ticket)
 vell cooked. simply enumerated,e.g.,
 on’. [It occurs either [na]comp hau kaka sai [na]pret 84 Rauyé I climbed the baobab tree and then I saw the village.
 lex) of the second [an]comp Yi wata gafdama [aka]pret cé wa ya fi wayo cikin mutanen nan?
-",66.6535873413086," Raising: subject to object, 82
- 8; frozen, 429, 518-19; hyperpluractional, Rather sentences, 182
--7, 438428; tone of, 425-26 Reciprocals, 270, 485, 529-31
-512-13, 519; Plurals, 237, 430-65; alternative, 461-62, Reduplicated nouns, 240, 509, 511-18, 519, 606,
-final, 412—associative with 3rd person plural pronoun,724
- 460; erstwhile, 463; homophonous, 461; ofReduplicated verbs, 509, 518-21. See also
-fences, 163— demonstratives, 147; of plurals, 462; pseudo Pluractionals
-51; of HAVEplurals of diversity (See Frequentatives)Reduplication, 41-43, 430; full, 457, 458, 509-
-25 as a whole, Plurals of majesty, 24 10, 516; function of, 508-9; internal
-tensed Possessive pronouns, 300-301 (infixal), 427-28, 445, 446, 447, 450, 451,
-ves, 84-85;Possessives, 223, 279, 286, 309, 372, 373; 453; partial, 510-11; productivity of, 508—
-with prenominal, 62-639; pseudo, 511; tone in, 243. See also Law of
-us, 194, 364 Potential (TAM), 582, 586-88, 589Codas in Reduplication
- Prayer times: gender of, 204 Reflexives, 62, 274, 485, 522-27; emphatic, 527-
- Pre-dative suffix (pds), 283-84, 640, 641, 643,29
- 655, 665 Relative clauses, 274, 333, 376, 389, 502, 532-
- Prepositional phrases, 375, 466; gender of, 205; 34; modifying infinitives, 289; restrictive vs.
-, 677instrumental, 45; manner, 44—45; spatial,nonrestrictive, 541-42; with causatives, 85 -
- 43-44; temporal, 4486
- Prepositions, 276, 466-69, 626; basic, 580;Relative completive. See Preterite
- complex, 470; genitive, 310, 470-71, 579;Relative continuous1 (TAM), 578-79
- stranding, 471-72Relative continuous2 (TAM), 579-81
- Presentational sentences, 180-82, 333Relative pronouns/adverbs, 153, 534-35, 542
-r, 370 Preterite (TAM), 571-74Relativizer, 221
-155; as pro- Previous reference marker. See Definite articleRel forms, 188
-31; gender Pro-drop, 718Reported speech, 596
- 386;Professions. See Ethnonyms Rhetorical (TAM), 588-90
-ined nouns,Prohibitives, 88, 263, 364-65, 591, 592, 598 Rhotacism, 233, 235, 413
-rd order,Pronouns (non-personal), 217-18, 476, 487, 618;Right dislocation. See Afterthought
- relative, 598Robinson, Charles H., 2
- Pronouns (personal), 217, 476-77; boundRoman script, 726-29
- genitive, 482-85; direct object (strong),
--15; 478-79, 658; direct object (weak), 479-80; sai (‘except, (not) until’), 133, 190, 327, 468-69,
- free possessive, 481—82; independent, 477— 559
- 78, 718; indirect object, 480-81; weak Schmaling, Constanze, 334
-; diagraphs, subject (wsp), 485-86, 564-67, 590;Schon, James Frederick, 2
-d divisions, resumptive, 223, 489, 494-95, 618. See alsoSchuh, Russell G., 2, 306, 400
- Reflexives, ReciprocalsSchwa-verbs, 647, 678, 679, 680
-41, 336Pro-verb yi, 193, 194, 473-74, 576-77, 619,Semitic, 171
- 683-84, 719; deletion of, 67-68, 278, 280, Semivowels. See Glides
-36, 451, 281, 474-75; with ideophones, 252, 253;Since, 504-5
- with indirect objects, 287 Skinner, A. Neil, 2
-)
-)Proverbs, 131, 165, 587, 625 Sociatives, 637, 645, 658, 670, 689-92
- Pseudo-cleft constructions, 106-7, 194-95Sokoto, 144, 180, 209, 278, 378, 445, 480, 512,
-7, 420,Purpose clauses, 506-7, 592, 593: negative, 507609, 610, 648, 670
-Specifier, 155, 370
-28, 326, Qualitative sentences, 182 Stabilizer, 160, 165, 188, 216, 500; omission of,
- Questions, 488; indirect questions, 501-2; q- 164-66; position of, 166-67
- morpheme, 257, 488-92, 488, 493, 496,Standard Hausa, 1, 4
- 497, 613; Q-word questions, 85, 104; Statives, 41, 95, 196, 375, 579
- sentence-initial markers, 500--501; tags,Subject, 718
- 499-500; word order, 493-96, 496; Yes/No Subject possessor, 559
-160 = Index
-Subjunctive (TAM), 262, 263, 591-93, 595, 596 Tuareg, 315
-Sudan (Blue Nile Area), 1 Tuller, Laurice, 194, 289
-Superlative, 94 Twins: names for, 346
- Syllables, 395, 409; closed, 399; structure, 403
- Syllable weight, 407-8, 476, 643, 652, 680, 705; Umaru, Ibrahim, 2
-and tone, 408, 597; rhythmic polarity, 447, Unit measures, 63, 383-84
-517, 519-20 Universals, 530, 622-24; negative counterparts,
- Systems/eras, 368623-24; phrasal nature of, 625-26
- Taylor, F. W., 2 Verbalizer -TA, 52, 196, 656, 698, 722-25
- Temporal clauses, 556-63 Verbal nouns, 196, 207, 288, 291, 576, 637, 640,
- Tense/aspect/mood (TAM), 564; continuous, 568; 641, 673
-general, 567; negative, 568; noncontinuous, Verbal sentences, 576, 718
-569; relative, 567Verb extensions, 670-72, 678, 680; hidden, 681
- Tera, 359, 678 Verb grades, 627~28, 681; the A/B/C/D forms,
- Titles, 350-52 627; combinations of, 663~64, 678, 693;
- Tone, 403, 431, 476, 597, 728; and syllableirregular verbs, 629; primary, 628-29;
-weight, 408; cannonical patterns, 605-7;secondary, 629, 680. See individually
-contour simplification, 582, 593, 598, 609— numbered grades
-11, 648, 706; default, 479, 591, 595, 603;Verb phrase, 719
-falling, 307, 365, 407, 586, 597-98, 603, Verb subcatagorization, 683-93
-606-7; features of western dialects, 607-11;Verb suffixes: historical remnants, 694-98
- final low-low, 153, 240, 466, 243, 320-21,Vowel class extension system (VCE), 679, 681
- 483, 606; floating, 144, 493, 587, 603-4, Vowel length, 4, 400-401, 727; before linker,
- 705; function, 599-600; influence on306; “half-long”, 401-2, 483, 662; in
- vowels, 611; in language games, 298; low-language games, 298; short final, 40, 115-
- high to high rule, 265, 599; melodies, 600;16, 320, 343, 466, 516, 578, 606;
- of loanwords, 318-19; polar, 160, 471, 478- transcription of, 3; word final, 240, 338,
- 79, 595, 598, 602-3; rising, 279-80, 597, 409-10
- 599, 603; tone-bearing unit, 600; toneVowels: deletion of, 512; epenthetic, 603; high,
- bending, 239, 598, 605; toneless411; inventory, 398; latent, 307, 447;
- morphemes, 210, 603; transcription of, 3. prepausal, 401; word initial, 228, 400, 403
- See also Low-tone raising (LTR)
-Tone-integrating suffixes, 430, 600-602.",tensor([29.2028])," Raising: subject to object, 82
- 8; frozen, 429, 518-19; hyperpluractional, Rather sentences, 182
--7, 438428; tone of, 425-26 Reciprocals, 270, 485, 529-31
-512-13, 519; Plurals, 237, 430-65; alternative, 461-62, Reduplicated nouns, 240, 509, 511-18, 519, 606,
-final, 412—associative with 3rd person plural pronoun,724
- 460; erstwhile, 463; homophonous, 461; ofReduplicated verbs, 509, 518-21. See also
-fences, 163— demonstratives, 147; of plurals, 462; pseudo Pluractionals
-51; of HAVEplurals of diversity (See Frequentatives)Reduplication, 41-43, 430; full, 457, 458, 509-
-25 as a whole, Plurals of majesty, 24 10, 516; function of, 508-9; internal
-tensed Possessive pronouns, 300-301 (infixal), 427-28, 445, 446, 447, 450, 451,
-ves, 84-85;Possessives, 223, 279, 286, 309, 372, 373; 453; partial, 510-11; productivity of, 508—
-with prenominal, 62-639; pseudo, 511; tone in, 243. See also Law of
-us, 194, 364 Potential (TAM), 582, 586-88, 589Codas in Reduplication
- Prayer times: gender of, 204 Reflexives, 62, 274, 485, 522-27; emphatic, 527-
- Pre-dative suffix (pds), 283-84, 640, 641, 643,29
- 655, 665 Relative clauses, 274, 333, 376, 389, 502, 532-
- Prepositional phrases, 375, 466; gender of, 205; 34; modifying infinitives, 289; restrictive vs.
-, 677instrumental, 45; manner, 44—45; spatial,nonrestrictive, 541-42; with causatives, 85 -
- 43-44; temporal, 4486
- Prepositions, 276, 466-69, 626; basic, 580;Relative completive. See Preterite
- complex, 470; genitive, 310, 470-71, 579;Relative continuous1 (TAM), 578-79
- stranding, 471-72Relative continuous2 (TAM), 579-81
- Presentational sentences, 180-82, 333Relative pronouns/adverbs, 153, 534-35, 542
-r, 370 Preterite (TAM), 571-74Relativizer, 221
-155; as pro- Previous reference marker. See Definite articleRel forms, 188
-31; gender Pro-drop, 718Reported speech, 596
- 386;Professions. See Ethnonyms Rhetorical (TAM), 588-90
-ined nouns,Prohibitives, 88, 263, 364-65, 591, 592, 598 Rhotacism, 233, 235, 413
-rd order,Pronouns (non-personal), 217-18, 476, 487, 618;Right dislocation. See Afterthought
- relative, 598Robinson, Charles H., 2
- Pronouns (personal), 217, 476-77; boundRoman script, 726-29
- genitive, 482-85; direct object (strong),
--15; 478-79, 658; direct object (weak), 479-80; sai (‘except, (not) until’), 133, 190, 327, 468-69,
- free possessive, 481—82; independent, 477— 559
- 78, 718; indirect object, 480-81; weak Schmaling, Constanze, 334
-; diagraphs, subject (wsp), 485-86, 564-67, 590;Schon, James Frederick, 2
-d divisions, resumptive, 223, 489, 494-95, 618. See alsoSchuh, Russell G., 2, 306, 400
- Reflexives, ReciprocalsSchwa-verbs, 647, 678, 679, 680
-41, 336Pro-verb yi, 193, 194, 473-74, 576-77, 619,Semitic, 171
- 683-84, 719; deletion of, 67-68, 278, 280, Semivowels. See Glides
-36, 451, 281, 474-75; with ideophones, 252, 253;Since, 504-5
- with indirect objects, 287 Skinner, A. Neil, 2
-)
-)Proverbs, 131, 165, 587, 625 Sociatives, 637, 645, 658, 670, 689-92
- Pseudo-cleft constructions, 106-7, 194-95Sokoto, 144, 180, 209, 278, 378, 445, 480, 512,
-7, 420,Purpose clauses, 506-7, 592, 593: negative, 507609, 610, 648, 670
-Specifier, 155, 370
-28, 326, Qualitative sentences, 182 Stabilizer, 160, 165, 188, 216, 500; omission of,
- Questions, 488; indirect questions, 501-2; q- 164-66; position of, 166-67
- morpheme, 257, 488-92, 488, 493, 496,Standard Hausa, 1, 4
- 497, 613; Q-word questions, 85, 104; Statives, 41, 95, 196, 375, 579
- sentence-initial markers, 500--501; tags,Subject, 718
- 499-500; word order, 493-96, 496; Yes/No Subject possessor, 559
-160 = Index
-Subjunctive (TAM), 262, 263, 591-93, 595, 596 Tuareg, 315
-Sudan (Blue Nile Area), 1 Tuller, Laurice, 194, 289
-Superlative, 94 Twins: names for, 346
- Syllables, 395, 409; closed, 399; structure, 403
- Syllable weight, 407-8, 476, 643, 652, 680, 705; Umaru, Ibrahim, 2
-and tone, 408, 597; rhythmic polarity, 447, Unit measures, 63, 383-84
-517, 519-20 Universals, 530, 622-24; negative counterparts,
- Systems/eras, 368623-24; phrasal nature of, 625-26
- Taylor, F. W., 2 Verbalizer -TA, 52, 196, 656, 698, 722-25
- Temporal clauses, 556-63 Verbal nouns, 196, 207, 288, 291, 576, 637, 640,
- Tense/aspect/mood (TAM), 564; continuous, 568; 641, 673
-general, 567; negative, 568; noncontinuous, Verbal sentences, 576, 718
-569; relative, 567Verb extensions, 670-72, 678, 680; hidden, 681
- Tera, 359, 678 Verb grades, 627~28, 681; the A/B/C/D forms,
- Titles, 350-52 627; combinations of, 663~64, 678, 693;
- Tone, 403, 431, 476, 597, 728; and syllableirregular verbs, 629; primary, 628-29;
-weight, 408; cannonical patterns, 605-7;secondary, 629, 680. See individually
-contour simplification, 582, 593, 598, 609— numbered grades
-11, 648, 706; default, 479, 591, 595, 603;Verb phrase, 719
-falling, 307, 365, 407, 586, 597-98, 603, Verb subcatagorization, 683-93
-606-7; features of western dialects, 607-11;Verb suffixes: historical remnants, 694-98
- final low-low, 153, 240, 466, 243, 320-21,Vowel class extension system (VCE), 679, 681
- 483, 606; floating, 144, 493, 587, 603-4, Vowel length, 4, 400-401, 727; before linker,
- 705; function, 599-600; influence on306; “half-long”, 401-2, 483, 662; in
- vowels, 611; in language games, 298; low-language games, 298; short final, 40, 115-
- high to high rule, 265, 599; melodies, 600;16, 320, 343, 466, 516, 578, 606;
- of loanwords, 318-19; polar, 160, 471, 478- transcription of, 3; word final, 240, 338,
- 79, 595, 598, 602-3; rising, 279-80, 597, 409-10
- 599, 603; tone-bearing unit, 600; toneVowels: deletion of, 512; epenthetic, 603; high,
- bending, 239, 598, 605; toneless411; inventory, 398; latent, 307, 447;
- morphemes, 210, 603; transcription of, 3. prepausal, 401; word initial, 228, 400, 403
- See also Low-tone raising (LTR)
-Tone-integrating suffixes, 430, 600-602.",tensor([30.6271]),"What did you remember?
+",66.6535873413086," Hajiya woul
+The above examples illustrate surface proximity overriding constituency in concord assignment. When Instead of using a sub
+presented for inspection out of context, the first interpretation of the above sentences was invariably of don plus a dynamic
+that of a relative clause; but in producing ‘since’clauses,such“mistakes” with overtpronominalthe full-form démin.
+ agreement were in fact made.
+ sun shiga don magan
+ 3. PURPOSE (‘IN ORDER TO’)ya hau bishiya don t
+ He climbed
+ Purpose clauses are indicated by démin/don) ‘(in order) to, so that’ plus a clause in the subjunctive.",29.468017578125," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
+ some cases). Monosyllabic Ci verbs lengthen the vowel in order to add weight to the syllable preceding
+ the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
+ determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
+ is reported with an L-H-L pattern in addition to all H.
+",30.842294692993164,"What did you remember?
 but normally not **da mé ka tuna?
 Although fronting is the norm, adverbial Q-words can remain in regular declarative sentenc
 with only a slightly strengthened nuance. With normal word order, the general rather than t
@@ -3868,7 +3709,7 @@ cribing the language.kafnuka hudu mahaukata four mad dogs (lit. dogs four mad)
  *yammata uk masu ky4n gani three good-looking girls
 3’. Singular pronounsSimilarly, numerals precede relative clauses, which are postnominal, e.g.,
  daya itself.",75.34785461425781
-0.6984374562584917,1,0,0.523497522351982,1,0.5174190590411006,3,0.5872316079060448,0,0.497568773207681,0,0.5331357142886843,2,0.5657092447051407,1,0.5252990594589859,0,0.5650001263538713,"Eat!
+0.6984374562584917,1,0,0.523497522351982,1,0.5174190590411006,3,0.5872316079060448,2,0.5063600010136045,2,0.5326899683203686,2,0.5657092447051407,1,0.5252990594589859,0,0.5650001263538713,"Eat!
 imperative with
 water! ’ (please,
  °AN: The implication of this ordering is that inflection (i.e., imperative formation) applies before kwall! ‘Take the
@@ -3909,20 +3750,179 @@ gent’; ba jirgl ba né
  >
  tébdfine = tébdf néIt’s a table.
  ’ (or other equivalentAudi ba yaré ba né = Audi ba yaré né baAudu is not a lad.
-e.g., akwai kudi?",66.60529327392578," Hajiya woul
-The above examples illustrate surface proximity overriding constituency in concord assignment. When Instead of using a sub
-presented for inspection out of context, the first interpretation of the above sentences was invariably of don plus a dynamic
-that of a relative clause; but in producing ‘since’clauses,such“mistakes” with overtpronominalthe full-form démin.
- agreement were in fact made.
- sun shiga don magan
- 3. PURPOSE (‘IN ORDER TO’)ya hau bishiya don t
- He climbed
- Purpose clauses are indicated by démin/don) ‘(in order) to, so that’ plus a clause in the subjunctive.",tensor([29.1574])," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
- some cases). Monosyllabic Ci verbs lengthen the vowel in order to add weight to the syllable preceding
- the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
- determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
- is reported with an L-H-L pattern in addition to all H.
-",tensor([30.5699])," Raising: subject to object, 82
+e.g., akwai kudi?",66.60529327392578," Raising: subject to object, 82
+ 8; frozen, 429, 518-19; hyperpluractional, Rather sentences, 182
+-7, 438428; tone of, 425-26 Reciprocals, 270, 485, 529-31
+512-13, 519; Plurals, 237, 430-65; alternative, 461-62, Reduplicated nouns, 240, 509, 511-18, 519, 606,
+final, 412—associative with 3rd person plural pronoun,724
+ 460; erstwhile, 463; homophonous, 461; ofReduplicated verbs, 509, 518-21. See also
+fences, 163— demonstratives, 147; of plurals, 462; pseudo Pluractionals
+51; of HAVEplurals of diversity (See Frequentatives)Reduplication, 41-43, 430; full, 457, 458, 509-
+25 as a whole, Plurals of majesty, 24 10, 516; function of, 508-9; internal
+tensed Possessive pronouns, 300-301 (infixal), 427-28, 445, 446, 447, 450, 451,
+ves, 84-85;Possessives, 223, 279, 286, 309, 372, 373; 453; partial, 510-11; productivity of, 508—
+with prenominal, 62-639; pseudo, 511; tone in, 243. See also Law of
+us, 194, 364 Potential (TAM), 582, 586-88, 589Codas in Reduplication
+ Prayer times: gender of, 204 Reflexives, 62, 274, 485, 522-27; emphatic, 527-
+ Pre-dative suffix (pds), 283-84, 640, 641, 643,29
+ 655, 665 Relative clauses, 274, 333, 376, 389, 502, 532-
+ Prepositional phrases, 375, 466; gender of, 205; 34; modifying infinitives, 289; restrictive vs.
+, 677instrumental, 45; manner, 44—45; spatial,nonrestrictive, 541-42; with causatives, 85 -
+ 43-44; temporal, 4486
+ Prepositions, 276, 466-69, 626; basic, 580;Relative completive. See Preterite
+ complex, 470; genitive, 310, 470-71, 579;Relative continuous1 (TAM), 578-79
+ stranding, 471-72Relative continuous2 (TAM), 579-81
+ Presentational sentences, 180-82, 333Relative pronouns/adverbs, 153, 534-35, 542
+r, 370 Preterite (TAM), 571-74Relativizer, 221
+155; as pro- Previous reference marker. See Definite articleRel forms, 188
+31; gender Pro-drop, 718Reported speech, 596
+ 386;Professions. See Ethnonyms Rhetorical (TAM), 588-90
+ined nouns,Prohibitives, 88, 263, 364-65, 591, 592, 598 Rhotacism, 233, 235, 413
+rd order,Pronouns (non-personal), 217-18, 476, 487, 618;Right dislocation. See Afterthought
+ relative, 598Robinson, Charles H., 2
+ Pronouns (personal), 217, 476-77; boundRoman script, 726-29
+ genitive, 482-85; direct object (strong),
+-15; 478-79, 658; direct object (weak), 479-80; sai (‘except, (not) until’), 133, 190, 327, 468-69,
+ free possessive, 481—82; independent, 477— 559
+ 78, 718; indirect object, 480-81; weak Schmaling, Constanze, 334
+; diagraphs, subject (wsp), 485-86, 564-67, 590;Schon, James Frederick, 2
+d divisions, resumptive, 223, 489, 494-95, 618. See alsoSchuh, Russell G., 2, 306, 400
+ Reflexives, ReciprocalsSchwa-verbs, 647, 678, 679, 680
+41, 336Pro-verb yi, 193, 194, 473-74, 576-77, 619,Semitic, 171
+ 683-84, 719; deletion of, 67-68, 278, 280, Semivowels. See Glides
+36, 451, 281, 474-75; with ideophones, 252, 253;Since, 504-5
+ with indirect objects, 287 Skinner, A. Neil, 2
+)
+)Proverbs, 131, 165, 587, 625 Sociatives, 637, 645, 658, 670, 689-92
+ Pseudo-cleft constructions, 106-7, 194-95Sokoto, 144, 180, 209, 278, 378, 445, 480, 512,
+7, 420,Purpose clauses, 506-7, 592, 593: negative, 507609, 610, 648, 670
+Specifier, 155, 370
+28, 326, Qualitative sentences, 182 Stabilizer, 160, 165, 188, 216, 500; omission of,
+ Questions, 488; indirect questions, 501-2; q- 164-66; position of, 166-67
+ morpheme, 257, 488-92, 488, 493, 496,Standard Hausa, 1, 4
+ 497, 613; Q-word questions, 85, 104; Statives, 41, 95, 196, 375, 579
+ sentence-initial markers, 500--501; tags,Subject, 718
+ 499-500; word order, 493-96, 496; Yes/No Subject possessor, 559
+160 = Index
+Subjunctive (TAM), 262, 263, 591-93, 595, 596 Tuareg, 315
+Sudan (Blue Nile Area), 1 Tuller, Laurice, 194, 289
+Superlative, 94 Twins: names for, 346
+ Syllables, 395, 409; closed, 399; structure, 403
+ Syllable weight, 407-8, 476, 643, 652, 680, 705; Umaru, Ibrahim, 2
+and tone, 408, 597; rhythmic polarity, 447, Unit measures, 63, 383-84
+517, 519-20 Universals, 530, 622-24; negative counterparts,
+ Systems/eras, 368623-24; phrasal nature of, 625-26
+ Taylor, F. W., 2 Verbalizer -TA, 52, 196, 656, 698, 722-25
+ Temporal clauses, 556-63 Verbal nouns, 196, 207, 288, 291, 576, 637, 640,
+ Tense/aspect/mood (TAM), 564; continuous, 568; 641, 673
+general, 567; negative, 568; noncontinuous, Verbal sentences, 576, 718
+569; relative, 567Verb extensions, 670-72, 678, 680; hidden, 681
+ Tera, 359, 678 Verb grades, 627~28, 681; the A/B/C/D forms,
+ Titles, 350-52 627; combinations of, 663~64, 678, 693;
+ Tone, 403, 431, 476, 597, 728; and syllableirregular verbs, 629; primary, 628-29;
+weight, 408; cannonical patterns, 605-7;secondary, 629, 680. See individually
+contour simplification, 582, 593, 598, 609— numbered grades
+11, 648, 706; default, 479, 591, 595, 603;Verb phrase, 719
+falling, 307, 365, 407, 586, 597-98, 603, Verb subcatagorization, 683-93
+606-7; features of western dialects, 607-11;Verb suffixes: historical remnants, 694-98
+ final low-low, 153, 240, 466, 243, 320-21,Vowel class extension system (VCE), 679, 681
+ 483, 606; floating, 144, 493, 587, 603-4, Vowel length, 4, 400-401, 727; before linker,
+ 705; function, 599-600; influence on306; “half-long”, 401-2, 483, 662; in
+ vowels, 611; in language games, 298; low-language games, 298; short final, 40, 115-
+ high to high rule, 265, 599; melodies, 600;16, 320, 343, 466, 516, 578, 606;
+ of loanwords, 318-19; polar, 160, 471, 478- transcription of, 3; word final, 240, 338,
+ 79, 595, 598, 602-3; rising, 279-80, 597, 409-10
+ 599, 603; tone-bearing unit, 600; toneVowels: deletion of, 512; epenthetic, 603; high,
+ bending, 239, 598, 605; toneless411; inventory, 398; latent, 307, 447;
+ morphemes, 210, 603; transcription of, 3. prepausal, 401; word initial, 228, 400, 403
+ See also Low-tone raising (LTR)
+Tone-integrating suffixes, 430, 600-602.",29.08831214904785," Raising: subject to object, 82
+ 8; frozen, 429, 518-19; hyperpluractional, Rather sentences, 182
+-7, 438428; tone of, 425-26 Reciprocals, 270, 485, 529-31
+512-13, 519; Plurals, 237, 430-65; alternative, 461-62, Reduplicated nouns, 240, 509, 511-18, 519, 606,
+final, 412—associative with 3rd person plural pronoun,724
+ 460; erstwhile, 463; homophonous, 461; ofReduplicated verbs, 509, 518-21. See also
+fences, 163— demonstratives, 147; of plurals, 462; pseudo Pluractionals
+51; of HAVEplurals of diversity (See Frequentatives)Reduplication, 41-43, 430; full, 457, 458, 509-
+25 as a whole, Plurals of majesty, 24 10, 516; function of, 508-9; internal
+tensed Possessive pronouns, 300-301 (infixal), 427-28, 445, 446, 447, 450, 451,
+ves, 84-85;Possessives, 223, 279, 286, 309, 372, 373; 453; partial, 510-11; productivity of, 508—
+with prenominal, 62-639; pseudo, 511; tone in, 243. See also Law of
+us, 194, 364 Potential (TAM), 582, 586-88, 589Codas in Reduplication
+ Prayer times: gender of, 204 Reflexives, 62, 274, 485, 522-27; emphatic, 527-
+ Pre-dative suffix (pds), 283-84, 640, 641, 643,29
+ 655, 665 Relative clauses, 274, 333, 376, 389, 502, 532-
+ Prepositional phrases, 375, 466; gender of, 205; 34; modifying infinitives, 289; restrictive vs.
+, 677instrumental, 45; manner, 44—45; spatial,nonrestrictive, 541-42; with causatives, 85 -
+ 43-44; temporal, 4486
+ Prepositions, 276, 466-69, 626; basic, 580;Relative completive. See Preterite
+ complex, 470; genitive, 310, 470-71, 579;Relative continuous1 (TAM), 578-79
+ stranding, 471-72Relative continuous2 (TAM), 579-81
+ Presentational sentences, 180-82, 333Relative pronouns/adverbs, 153, 534-35, 542
+r, 370 Preterite (TAM), 571-74Relativizer, 221
+155; as pro- Previous reference marker. See Definite articleRel forms, 188
+31; gender Pro-drop, 718Reported speech, 596
+ 386;Professions. See Ethnonyms Rhetorical (TAM), 588-90
+ined nouns,Prohibitives, 88, 263, 364-65, 591, 592, 598 Rhotacism, 233, 235, 413
+rd order,Pronouns (non-personal), 217-18, 476, 487, 618;Right dislocation. See Afterthought
+ relative, 598Robinson, Charles H., 2
+ Pronouns (personal), 217, 476-77; boundRoman script, 726-29
+ genitive, 482-85; direct object (strong),
+-15; 478-79, 658; direct object (weak), 479-80; sai (‘except, (not) until’), 133, 190, 327, 468-69,
+ free possessive, 481—82; independent, 477— 559
+ 78, 718; indirect object, 480-81; weak Schmaling, Constanze, 334
+; diagraphs, subject (wsp), 485-86, 564-67, 590;Schon, James Frederick, 2
+d divisions, resumptive, 223, 489, 494-95, 618. See alsoSchuh, Russell G., 2, 306, 400
+ Reflexives, ReciprocalsSchwa-verbs, 647, 678, 679, 680
+41, 336Pro-verb yi, 193, 194, 473-74, 576-77, 619,Semitic, 171
+ 683-84, 719; deletion of, 67-68, 278, 280, Semivowels. See Glides
+36, 451, 281, 474-75; with ideophones, 252, 253;Since, 504-5
+ with indirect objects, 287 Skinner, A. Neil, 2
+)
+)Proverbs, 131, 165, 587, 625 Sociatives, 637, 645, 658, 670, 689-92
+ Pseudo-cleft constructions, 106-7, 194-95Sokoto, 144, 180, 209, 278, 378, 445, 480, 512,
+7, 420,Purpose clauses, 506-7, 592, 593: negative, 507609, 610, 648, 670
+Specifier, 155, 370
+28, 326, Qualitative sentences, 182 Stabilizer, 160, 165, 188, 216, 500; omission of,
+ Questions, 488; indirect questions, 501-2; q- 164-66; position of, 166-67
+ morpheme, 257, 488-92, 488, 493, 496,Standard Hausa, 1, 4
+ 497, 613; Q-word questions, 85, 104; Statives, 41, 95, 196, 375, 579
+ sentence-initial markers, 500--501; tags,Subject, 718
+ 499-500; word order, 493-96, 496; Yes/No Subject possessor, 559
+160 = Index
+Subjunctive (TAM), 262, 263, 591-93, 595, 596 Tuareg, 315
+Sudan (Blue Nile Area), 1 Tuller, Laurice, 194, 289
+Superlative, 94 Twins: names for, 346
+ Syllables, 395, 409; closed, 399; structure, 403
+ Syllable weight, 407-8, 476, 643, 652, 680, 705; Umaru, Ibrahim, 2
+and tone, 408, 597; rhythmic polarity, 447, Unit measures, 63, 383-84
+517, 519-20 Universals, 530, 622-24; negative counterparts,
+ Systems/eras, 368623-24; phrasal nature of, 625-26
+ Taylor, F. W., 2 Verbalizer -TA, 52, 196, 656, 698, 722-25
+ Temporal clauses, 556-63 Verbal nouns, 196, 207, 288, 291, 576, 637, 640,
+ Tense/aspect/mood (TAM), 564; continuous, 568; 641, 673
+general, 567; negative, 568; noncontinuous, Verbal sentences, 576, 718
+569; relative, 567Verb extensions, 670-72, 678, 680; hidden, 681
+ Tera, 359, 678 Verb grades, 627~28, 681; the A/B/C/D forms,
+ Titles, 350-52 627; combinations of, 663~64, 678, 693;
+ Tone, 403, 431, 476, 597, 728; and syllableirregular verbs, 629; primary, 628-29;
+weight, 408; cannonical patterns, 605-7;secondary, 629, 680. See individually
+contour simplification, 582, 593, 598, 609— numbered grades
+11, 648, 706; default, 479, 591, 595, 603;Verb phrase, 719
+falling, 307, 365, 407, 586, 597-98, 603, Verb subcatagorization, 683-93
+606-7; features of western dialects, 607-11;Verb suffixes: historical remnants, 694-98
+ final low-low, 153, 240, 466, 243, 320-21,Vowel class extension system (VCE), 679, 681
+ 483, 606; floating, 144, 493, 587, 603-4, Vowel length, 4, 400-401, 727; before linker,
+ 705; function, 599-600; influence on306; “half-long”, 401-2, 483, 662; in
+ vowels, 611; in language games, 298; low-language games, 298; short final, 40, 115-
+ high to high rule, 265, 599; melodies, 600;16, 320, 343, 466, 516, 578, 606;
+ of loanwords, 318-19; polar, 160, 471, 478- transcription of, 3; word final, 240, 338,
+ 79, 595, 598, 602-3; rising, 279-80, 597, 409-10
+ 599, 603; tone-bearing unit, 600; toneVowels: deletion of, 512; epenthetic, 603; high,
+ bending, 239, 598, 605; toneless411; inventory, 398; latent, 307, 447;
+ morphemes, 210, 603; transcription of, 3. prepausal, 401; word initial, 228, 400, 403
+ See also Low-tone raising (LTR)
+Tone-integrating suffixes, 430, 600-602.",30.53818130493164," Raising: subject to object, 82
  8; frozen, 429, 518-19; hyperpluractional, Rather sentences, 182
 -7, 438428; tone of, 425-26 Reciprocals, 270, 485, 529-31
 512-13, 519; Plurals, 237, 430-65; alternative, 461-62, Reduplicated nouns, 240, 509, 511-18, 519, 606,
@@ -4044,7 +4044,7 @@ ally be an adverb; compare da hankall ‘carefully’ (lit. with care), with
 a is an adverb derived from the noun baki ‘mouth’).
 formed with “true prepositions”,“phrasal prepositions”,or “genitive
  the distinction), serve as spatialadverbs.",74.70272827148438
-0.6872953781984845,0,1,0.531099101783564,1,0.525117607373889,0,0.5778635816698184,1,0.5055839904594793,1,0.5405835369508466,1,0.5726374262522139,1,0.532871899213315,0,0.555986755929163," Thephonemiclength
+0.6872953781984845,0,1,0.531099101783564,1,0.525117607373889,0,0.5778635816698184,1,0.5142349729999475,1,0.5401449019075385,1,0.5726374262522139,1,0.532871899213315,0,0.555986755929163," Thephonemiclength
 ncluding distinction is not noted, e.g., farl ‘white’ and fari ‘beginning’ are both written fari. The pronunciation
 hout the of short /e/ and /o/ in closed syllables as [a] is usually not indicated, e.g., [saban gari] ‘new town’ is
 » 1930s. usually written sabon gari, similarly, [zoObansa] ‘his ring’ is written zobensa. (There are a few
@@ -4096,7 +4096,7 @@ Bes preferred order):
 sun ciicé si
 Kande da Jummai sun san (céwa) Bala da Tankd
  ];know (that)[BalaandTanko];cheated them; (i.e., Kande and Jummai).
-",tensor([28.1761])," Tankd] j sun ciici jana;
+",28.299409866333008," Tankd] j sun ciici jana;
 whereas the jana[Kande da Jummai]; sun san (céwa) (Bala da
  each other.
 help each other’,Kande and Jummai know (that) Bala and Tanko cheated
@@ -4107,7 +4107,7 @@ Bes preferred order):
 sun ciicé si
 Kande da Jummai sun san (céwa) Bala da Tankd
  ];know (that)[BalaandTanko];cheated them; (i.e., Kande and Jummai).
-",tensor([29.9150]),"Chapter 4
+",30.26659393310547,"Chapter 4
 [rigaf da na saya]y [rinanniya]y céThe gown that I bought was dyed.
 [fara]y cé It’s white. (referring to some feminine object)
 tsdgaggé]y néIt’s cracked . (referring to some masculine object)
@@ -4140,7 +4140,7 @@ ong output.
 the verb and the subject, but this is extremely rare. More common is number agreement or semantic
 even if the pronoun compatibility between the verb and the direct object (or other patient); see Newman (1990b).
 ",74.68633270263672
-0.6766311135622937,0,1,0.5383746974376986,1,0.5324860135449105,1,0.5844135667569388,1,0.513255485617689,0,0.5321956937048717,1,0.5792685018081066,1,0.5401199876536126,0,0.5473599120894922," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
+0.6766311135622937,0,1,0.5383746974376986,1,0.5324860135449105,1,0.5844135667569388,1,0.521772237127219,0,0.531763864643866,1,0.5792685018081066,1,0.5401199876536126,0,0.5473599120894922," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
 trying.one often gets an ‘in order to’ reading, e.g.,
 in go.
  si uk Abékan jana[suka] tashi daga garinsd {z4 su] wani garl néman auré
@@ -4207,7 +4207,7 @@ tr order. On the other are possible, but **CiCuCV and **CuCiCV are not,e.g., bin
 dad ‘pleasantness’,rigima ‘dispute’; duraml ‘fig tree’, gdndura ‘become fed up’, tikina ‘(not) yet’. The only exceptions
  ples of /s/ — /ts/ with are verbal nouns of gr7 verbs with the ending -uwa, e.g., nitsuwa ‘reflection’, niRuwa (sometimes
  pronounced [nikuwa]) ‘grindable’.
-",tensor([28.0034])," Zainabu is ce
+",27.834056854248047," Zainabu is ce
 1.1. Basic reflexivesIn addition to the eig]
 In its basic function, a reflexive pronoun indicates an NP that is coreferential with the subject or other subject pronouns hav
 appropriate argument in the sentence. The reflexive can appear in most positions in which an ordinarykaw6 ruwa ‘One brot
@@ -4218,7 +4218,7 @@ Examples: cf. mutané sukan ciic
 ya kamata a taimaki
 mun; cuci kanmi;We harmed ourselves.a nemi abin kai
 Bala; ya zargi kAnsa; Bala accused himself.
-cf. Bala; ya zargé shi; Bala accused him (s.o. else).",tensor([29.9146])," Is there bread in the cupboard?
+cf. Bala; ya zargé shi; Bala accused him (s.o. else).",30.237140655517578," Is there bread in the cupboard?
 It is possible to string a number of adverbs in a single sentence, the order of the various adverbs bei
 subject to some degree of flexibility, e.g.,
 gidan Belld yana bayan asibiti kusa da shagon kafinta
@@ -4260,7 +4260,7 @@ that of a relative clause; but in producing ‘since’clauses,such“mistakes�
  3. PURPOSE (‘IN ORDER TO’)ya hau bishiya don t
  He climbed
  Purpose clauses are indicated by démin/don) ‘(in order) to, so that’ plus a clause in the subjunctive.",74.5428466796875
-0.6815162091407568,1,2,0.5604552982696912,2,0.5546555740290346,0,0.5755849000215317,1,0.5206086775133114,1,0.5392627581137063,1,0.5856244428640911,1,0.5470673406896002,1,0.5541978924420415," Is there bread in the cupboard?
+0.6815162091407568,1,2,0.5604552982696912,2,0.5546555740290346,0,0.5755849000215317,1,0.5289967674635913,1,0.5388374526433274,1,0.5856244428640911,1,0.5470673406896002,1,0.5541978924420415," Is there bread in the cupboard?
 It is possible to string a number of adverbs in a single sentence, the order of the various adverbs bei
 subject to some degree of flexibility, e.g.,
 gidan Belld yana bayan asibiti kusa da shagon kafinta
@@ -4447,7 +4447,7 @@ suffix is attached to a stem that is already a derivative gr4 rather than to a s
  janyike ‘pull all here’ clearly comes from janyé gr4, not ja gr0, and ficcike ‘escape out here’ is
 derived from the secondary grade ficcé gr4, with irregular gemination, not from the basic verb fita
 gr3, which has a single medial consonant.
-",tensor([27.1842])," I want (that) I borrow
+",27.201438903808597," I want (that) I borrow
 (lit. house.of.my it falls short of yours size)
  with a finite verb. The
 ba ta gaza ki hakuri ba She is not less patient than you.
@@ -4466,7 +4466,7 @@ presentation, the VP c
 gara mi koma gida da md sha irin wannan wahala
 1.1. ‘That’ comple
 We would rather go back home than experience this kind of difficulty.
-",tensor([29.5094])," The fourth rest
+",29.898351669311523," The fourth rest
  (b) Generally speaking, glottalized consonants and their nonglottalized counterparts cannot co-rst syllable, a hig!
 occur in the same word, i.e., sequences of /b/ — /6/ or /k/ - /R/ do not occur in either order. On the other© possible, but 4
 hand, whereas the sequence /d/-— /d/ does not occur, /d/—/d/ is quite normal, e.g., dadT ‘pleasantness’, mai ‘dispute’; di
@@ -4525,7 +4525,7 @@ full range of NPs as subjects (the X) and a full range of NPs and adjectivesas
  It’s not
  yadin fari né The cloth is white. mataisa déguwa cé His wife is tall.
  motaisa Honda céHis car is a Honda. motocin Rénanni né?",73.59089660644531
-0.6714829078014383,0,1,0.566926288079488,0,0.5464899186284355,2,0.5965551803151995,1,0.5276662904261835,0,0.531323716194148,1,0.591724891799318,2,0.5684574573164344,0,0.5460389750430016," (These are transcribed with a hyphen.) Most, however, have become fused into simple monomorphemic
+0.6714829078014383,0,1,0.566926288079488,0,0.5464899186284355,2,0.5965551803151995,1,0.5359308906736453,0,0.5309046720832032,1,0.591724891799318,2,0.5684574573164344,0,0.5460389750430016," (These are transcribed with a hyphen.) Most, however, have become fused into simple monomorphemic
  words. Selected examples:
 122Chapter 16
 atOm-bém atom bomb; aténé-janafattorney-general; bifkila bricklayer; bizayé bull’s-eye; these compounds i:
@@ -4651,21 +4651,16 @@ falling, 307, 365, 407, 586, 597-98, 603, Verb subcatagorization, 683-93
  bending, 239, 598, 605; toneless411; inventory, 398; latent, 307, 447;
  morphemes, 210, 603; transcription of, 3. prepausal, 401; word initial, 228, 400, 403
  See also Low-tone raising (LTR)
-Tone-integrating suffixes, 430, 600-602.",66.04806518554688,"What did you remember?
-but normally not **da mé ka tuna?
-Although fronting is the norm, adverbial Q-words can remain in regular declarative sentenc
-with only a slightly strengthened nuance. With normal word order, the general rather than t
-is used). Examples:
-yana ina? (= ind yaké?)Where is he?
-suna fit6wa daga ina? (= daga ina suké fit6wa?)They are coming out from where?
-ya tafi yaushé? (= yaushé ya tafi?)When did he go?
-an ba ka dala nawa? (= dala nawa aka ba ka?",tensor([26.8999])," HIS chapter de
+Tone-integrating suffixes, 430, 600-602.",66.04806518554688,"1. INTRODUCTION
+ downdrift, if any,and
+ OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
+ prominence. They differ, however, in semantic characterization and in syntactic structure.",27.172771453857425," HIS chapter de
  domin (= don)because, in order that, e.g., an dauré shi don kada ya gud’They tied him up so thatphrases, and fu
  he wouldn’t run away.
  idan (= in) if, when (in future), e.g., }dan ka ciicé md 24 md rama_ If you cheat us, we'll get back at 1. NP COORDIN
  you.
  kafin = kafin (= kamin = kamin) before, ¢.g., kafin md hita sai md kammala aikin Before we rest,1.1. ‘And
- we should finish the work.",tensor([29.4616])," :;-venti'
+ we should finish the work.",29.818117141723633," :;-venti'
 appears as a single consonant, in others (e.g., Sokoto) it is normally a geminate. Monoverbs insert an F:
 epenthetic /y/ before the suffix, e.g., jayiké ‘draw up this way’ < ja ‘pull, draw’. As with simplesemal
 polysyllabic gr4 verbs, there are two variants for the pre-noun C-form, one with a long final vowel andhave
@@ -4756,7 +4751,7 @@ vell cooked. simply enumerated,e.g.,
 on’. [It occurs either [na]comp hau kaka sai [na]pret 84 Rauyé I climbed the baobab tree and then I saw the village.
 lex) of the second [an]comp Yi wata gafdama [aka]pret cé wa ya fi wayo cikin mutanen nan?
 ",72.89105987548828
-0.6618408088538775,0,1,0.5731449714345076,2,0.5673614670521312,1,0.6023484102337664,0,0.5200893133736476,0,0.52369422066238,0,0.5832280709716002,0,0.5602947431397325,1,0.5525575879073306," Zainabu is ce
+0.6618408088538775,0,1,0.5731449714345076,2,0.5673614670521312,1,0.6023484102337664,1,0.5425946496742754,1,0.537640604621563,0,0.5832280709716002,0,0.5602947431397325,1,0.5525575879073306," Zainabu is ce
 1.1. Basic reflexivesIn addition to the eig]
 In its basic function, a reflexive pronoun indicates an NP that is coreferential with the subject or other subject pronouns hav
 appropriate argument in the sentence. The reflexive can appear in most positions in which an ordinarykaw6 ruwa ‘One brot
@@ -4872,29 +4867,23 @@ is used). Examples:
 yana ina? (= ind yaké?)Where is he?
 suna fit6wa daga ina? (= daga ina suké fit6wa?)They are coming out from where?
 ya tafi yaushé? (= yaushé ya tafi?)When did he go?
-an ba ka dala nawa? (= dala nawa aka ba ka?",65.79363250732422,"My God give us patience! kada ka yi masa tsiw:
-nufinsa ya kéré sd His intention was to chase them away. kada si saké shi
-gara 4 Kara kudin albashin One ought to increase the salary. kada Kande ta daw6d
-dolé ma’aikata sd koma aikin The workers must return to work.kada fa ka manta ka |
- (lit. prohibit now you |
-Subjunctive sentences commonly occur in purposive ‘in order to’ clauses (often following the
-conjunction démin/don ‘in order to’), or as embedded objects or complements of sentences expressingThe kada construction
-volition or opinion (where the subjunctive often corresponds to an infinitive in English), e.g., express ‘lest’ and in o
-bai k6 tsaya ba ya ji ké ldbafin ya Raré He didn’t even stop to hear if the story was finished.an dauré shi tam (do
-kada fa ka manta ka dawo da kwalabar Don’t forget to return the bottle.ba sd kuld da k6 sa ci
-ina sé ki y4ra ka taimaké ni I want you children to help me. sai mi zuba bakin-m
-ya kamata ka s4 yaronka 4 makafantaIt behooves you to put your child in school.",tensor([26.8163]),"My God give us patience! kada ka yi masa tsiw:
-nufinsa ya kéré sd His intention was to chase them away. kada si saké shi
-gara 4 Kara kudin albashin One ought to increase the salary. kada Kande ta daw6d
-dolé ma’aikata sd koma aikin The workers must return to work.kada fa ka manta ka |
- (lit. prohibit now you |
-Subjunctive sentences commonly occur in purposive ‘in order to’ clauses (often following the
-conjunction démin/don ‘in order to’), or as embedded objects or complements of sentences expressingThe kada construction
-volition or opinion (where the subjunctive often corresponds to an infinitive in English), e.g., express ‘lest’ and in o
-bai k6 tsaya ba ya ji ké ldbafin ya Raré He didn’t even stop to hear if the story was finished.an dauré shi tam (do
-kada fa ka manta ka dawo da kwalabar Don’t forget to return the bottle.ba sd kuld da k6 sa ci
-ina sé ki y4ra ka taimaké ni I want you children to help me. sai mi zuba bakin-m
-ya kamata ka s4 yaronka 4 makafantaIt behooves you to put your child in school.",tensor([28.9197])," Who caught the thief?[finite verb]
+an ba ka dala nawa? (= dala nawa aka ba ka?",65.79363250732422,"What did you remember?
+but normally not **da mé ka tuna?
+Although fronting is the norm, adverbial Q-words can remain in regular declarative sentenc
+with only a slightly strengthened nuance. With normal word order, the general rather than t
+is used). Examples:
+yana ina? (= ind yaké?)Where is he?
+suna fit6wa daga ina? (= daga ina suké fit6wa?)They are coming out from where?
+ya tafi yaushé? (= yaushé ya tafi?)When did he go?
+an ba ka dala nawa? (= dala nawa aka ba ka?",26.98369026184082,"Although the matter malamai sun s6 yari
+remains to be studied carefully, it appears that in some cases the jiiman + pronoun variantsare more The teachers
+specific, i.e., they refer to identifiable groups or individuals, often limited to two, whereas the jana [Kande da Jummai];
+variant is more general. Thus kd taimaki jainankd might mean ‘You (two) should help each other’,Kande and Jr
+whereas kt taimaki juna might mean ‘You people (number unspecified) should help one another.’
+In all but the most simple sentences, the bare jiina is either required or strongly preferred over the Contrast the followin
+form with the possessive pronouns, which is considered clumsy if not unacceptable, e.g., preferred order):
+Amirka da Rasha sun yi wa jana léKen-asifI haf na tsawon wajen shékaru hamsinKande da Jummai st
+ America and Russia spied on each other for some fifty years.",29.225093841552734," Who caught the thief?[finite verb]
  cf, muna s6 mi kama barawonWe want to catch the thief.
  (lit. we.cont want we.sub catch thief.the)[finite verb in subjunctive]
  ba ta iya [gaya mana] ba She wasn’t able to tell us. [IP]
@@ -4924,7 +4913,7 @@ efore and what goes
 aku dai @ na da hazaka The parrot indeed is clever. (lit. has cleverness)
  Misa né @ ké (= yaké) néman mataIt is Musa who is chasing women.
 ",72.7131576538086
-0.666580790665733,1,3,0.607162230159377,1,0.5734257670356102,4,0.6499733370734879,0,0.5127992146554193,1,0.530370605010503,0,0.5750529554610645,1,0.5664580974848589,1,0.5588293940586988,"Agana ‘talking’, wasa
+0.666580790665733,1,3,0.607162230159377,1,0.5734257670356102,4,0.6499733370734879,1,0.5490061064613612,0,0.5301044892240078,0,0.5750529554610645,1,0.5664580974848589,1,0.5588293940586988,"Agana ‘talking’, wasa
  saya‘buy’), gaisuwa The numbers eighteen and nineteen have an alternative expression built on twenty (Ashifin) less two and
  one, respectively. The ‘less’ phrase, which makes use of the negative existential marker baba / ba, has
 ing’ (< gyara ‘repair’),
@@ -4974,13 +4963,7 @@ Indirect objects, which syntactically make use of the markers ma- (before person
 (elsewhere), are allowed with intransitive as well as transitive verbs. They occur immediately after the
 verb and before other arguments in the VP. Thus, when a sentence has both direct and indirect objects,
 the order is necessarily i.o. + d.o., e.g.,
-tocilan ta macé [mini];9.",65.307373046875," HIS chapter de
- domin (= don)because, in order that, e.g., an dauré shi don kada ya gud’They tied him up so thatphrases, and fu
- he wouldn’t run away.
- idan (= in) if, when (in future), e.g., }dan ka ciicé md 24 md rama_ If you cheat us, we'll get back at 1. NP COORDIN
- you.
- kafin = kafin (= kamin = kamin) before, ¢.g., kafin md hita sai md kammala aikin Before we rest,1.1. ‘And
- we should finish the work.",tensor([26.8017]),"Although the matter malamai sun s6 yari
+tocilan ta macé [mini];9.",65.307373046875,"Although the matter malamai sun s6 yari
 remains to be studied carefully, it appears that in some cases the jiiman + pronoun variantsare more The teachers
 specific, i.e., they refer to identifiable groups or individuals, often limited to two, whereas the jana [Kande da Jummai];
 variant is more general. Thus kd taimaki jainankd might mean ‘You (two) should help each other’,Kande and Jr
@@ -4988,7 +4971,18 @@ whereas kt taimaki juna might mean ‘You people (number unspecified) should hel
 In all but the most simple sentences, the bare jiina is either required or strongly preferred over the Contrast the followin
 form with the possessive pronouns, which is considered clumsy if not unacceptable, e.g., preferred order):
 Amirka da Rasha sun yi wa jana léKen-asifI haf na tsawon wajen shékaru hamsinKande da Jummai st
- America and Russia spied on each other for some fifty years.",tensor([28.8484]),"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
+ America and Russia spied on each other for some fifty years.",26.96600341796875,"My God give us patience! kada ka yi masa tsiw:
+nufinsa ya kéré sd His intention was to chase them away. kada si saké shi
+gara 4 Kara kudin albashin One ought to increase the salary. kada Kande ta daw6d
+dolé ma’aikata sd koma aikin The workers must return to work.kada fa ka manta ka |
+ (lit. prohibit now you |
+Subjunctive sentences commonly occur in purposive ‘in order to’ clauses (often following the
+conjunction démin/don ‘in order to’), or as embedded objects or complements of sentences expressingThe kada construction
+volition or opinion (where the subjunctive often corresponds to an infinitive in English), e.g., express ‘lest’ and in o
+bai k6 tsaya ba ya ji ké ldbafin ya Raré He didn’t even stop to hear if the story was finished.an dauré shi tam (do
+kada fa ka manta ka dawo da kwalabar Don’t forget to return the bottle.ba sd kuld da k6 sa ci
+ina sé ki y4ra ka taimaké ni I want you children to help me. sai mi zuba bakin-m
+ya kamata ka s4 yaronka 4 makafantaIt behooves you to put your child in school.",29.088464736938477,"OHN: In some Chadic languages (e.g., Bole), one does get three-way m./f./pl. agreement between
 the verb and the subject, but this is extremely rare. More common is number agreement or semantic
 even if the pronoun compatibility between the verb and the direct object (or other patient); see Newman (1990b).
 ",67.89276885986328," I want (that) I borrow
@@ -5028,7 +5022,7 @@ mmon nouns, the finalfrom an ejective */t’/ or from a non-ejective affricate *
 | is Wada m., cf. wada
  ’, where the name has a Words do occur that contain both /R/ and /k/ when the /k/ is part of a suffix, e.g., Rauyuka ‘villages’ (<
 el.",72.5865249633789
-0.6711463221907514,1,0,0.598848317148402,1,0.5792668765273161,0,0.6410732087132907,1,0.5194704875822124,1,0.5368012717143832,1,0.5808717837528709,1,0.5723946157415648,0,0.5511773058038673," Tankd] j sun ciici jana;
+0.6711463221907514,1,0,0.598848317148402,1,0.5792668765273161,0,0.6410732087132907,0,0.5414885291403614,0,0.5228457330115556,1,0.5808717837528709,1,0.5723946157415648,0,0.5511773058038673," Tankd] j sun ciici jana;
 whereas the jana[Kande da Jummai]; sun san (céwa) (Bala da
  each other.
 help each other’,Kande and Jummai know (that) Bala and Tanko cheated
@@ -5076,23 +5070,23 @@ na ZO gaishé ka
 {References: Bagari (
  mun baza kay4 4 inuwa (don) md yi ciniki
  We spread our wares in the shade (in order) to do business.
-",64.98370361328125,"Although the matter malamai sun s6 yari
-remains to be studied carefully, it appears that in some cases the jiiman + pronoun variantsare more The teachers
-specific, i.e., they refer to identifiable groups or individuals, often limited to two, whereas the jana [Kande da Jummai];
-variant is more general. Thus kd taimaki jainankd might mean ‘You (two) should help each other’,Kande and Jr
-whereas kt taimaki juna might mean ‘You people (number unspecified) should help one another.’
-In all but the most simple sentences, the bare jiina is either required or strongly preferred over the Contrast the followin
-form with the possessive pronouns, which is considered clumsy if not unacceptable, e.g., preferred order):
-Amirka da Rasha sun yi wa jana léKen-asifI haf na tsawon wajen shékaru hamsinKande da Jummai st
- America and Russia spied on each other for some fifty years.",tensor([26.7888])," ADN: Some speakers are reported by Jaggar (1982) as also allowing an L-tone monosyllabic verb
-imperative with a softening nuance before a noun object (or locative goal), e.g., sha ruwa! ‘Drink
- water! ’ (please, it will be good for you); ba® kudin! ‘Leave the money!’ (if you don’t mind); dau
-ion) applies before
- kwali! ‘Take the carton!’ (if you want); z6 wurin nan! ‘Come to this place!’ (if/when it suits you).
-ja. If the order were
- Other speakers feel that only the H-tone imperative can be used in this context.
-ong output.
-",tensor([28.6923])," I want (that) I borrow
+",64.98370361328125," HIS chapter de
+ domin (= don)because, in order that, e.g., an dauré shi don kada ya gud’They tied him up so thatphrases, and fu
+ he wouldn’t run away.
+ idan (= in) if, when (in future), e.g., }dan ka ciicé md 24 md rama_ If you cheat us, we'll get back at 1. NP COORDIN
+ you.
+ kafin = kafin (= kamin = kamin) before, ¢.g., kafin md hita sai md kammala aikin Before we rest,1.1. ‘And
+ we should finish the work.",26.964019775390625," Who caught the thief?[finite verb]
+ cf, muna s6 mi kama barawonWe want to catch the thief.
+ (lit. we.cont want we.sub catch thief.the)[finite verb in subjunctive]
+ ba ta iya [gaya mana] ba She wasn’t able to tell us. [IP]
+ cf. ba ta gaya mana ba She didn’t tell us. [finite verb]
+ ya sayi AlKalami don [Fubuta wasika] He bought a pen in order to write a letter. [IP]
+ cf. ya Fubuta wasika He wrote a letter. [finite verb]
+ ([zubaf da ruwa 4 k4n hanya] yana da ban haushi
+Pouring water on the road is annoying. [IP]
+ sun fara [badKofa] ba tare da izini ba
+They began to open the door without permission.",28.99366569519043," I want (that) I borrow
 (lit. house.of.my it falls short of yours size)
  with a finite verb. The
 ba ta gaza ki hakuri ba She is not less patient than you.
@@ -5137,7 +5131,7 @@ street *yar-Bahafi hun
 5. PRODUCTIVITYnaira bill (‘yaf-M
  shirt (yar-sweepi
 Compounds of most types are lexically restricted in terms of their membership and meaning.",72.54972839355469
-0.6755483614117084,1,1,0.6042181383200232,1,0.5848988150947076,1,0.6458778069869727,1,0.5259028613193168,0,0.5296156435417315,1,0.5864822390131577,2,0.5915045583014902,4,0.5973432871823209,"166Chapter 23
+0.6755483614117084,1,1,0.6042181383200232,1,0.5848988150947076,1,0.6458778069869727,0,0.5342401572843629,1,0.5292329256734192,1,0.5864822390131577,2,0.5915045583014902,4,0.5973432871823209,"166Chapter 23
 9. POSITION OF THE STABILIZER motaf, ita ba fara
 dalibin, shi ba da
 According to the general formula X Y STAB, the stabilizer occurs at the end of the sentence after the
@@ -5183,20 +5177,26 @@ f a simple tensed
 -complex (PAC),The person-aspect-complex (PAC) (which is comparable to INFL in general theoretical linguistic
  Examples: terminology) consists of two components: a weak subject pronoun (wsp), which agrees in number and
  gender with the underlying subject, and a marker of tense/aspect/mood (TAM), which in some cases is
- phonologicallyzero (see §70:1).",64.71446990966797,"1. INTRODUCTION
- downdrift, if any,and
- OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
- prominence. They differ, however, in semantic characterization and in syntactic structure.",tensor([26.7767])," Who caught the thief?[finite verb]
- cf, muna s6 mi kama barawonWe want to catch the thief.
- (lit. we.cont want we.sub catch thief.the)[finite verb in subjunctive]
- ba ta iya [gaya mana] ba She wasn’t able to tell us. [IP]
- cf. ba ta gaya mana ba She didn’t tell us. [finite verb]
- ya sayi AlKalami don [Fubuta wasika] He bought a pen in order to write a letter. [IP]
- cf. ya Fubuta wasika He wrote a letter. [finite verb]
- ([zubaf da ruwa 4 k4n hanya] yana da ban haushi
-Pouring water on the road is annoying. [IP]
- sun fara [badKofa] ba tare da izini ba
-They began to open the door without permission.",tensor([28.6901])," The fourth restriction relates to vowel sequences. In trisyllabic words with a short high vowel in the
+ phonologicallyzero (see §70:1).",64.71446990966797,"My God give us patience! kada ka yi masa tsiw:
+nufinsa ya kéré sd His intention was to chase them away. kada si saké shi
+gara 4 Kara kudin albashin One ought to increase the salary. kada Kande ta daw6d
+dolé ma’aikata sd koma aikin The workers must return to work.kada fa ka manta ka |
+ (lit. prohibit now you |
+Subjunctive sentences commonly occur in purposive ‘in order to’ clauses (often following the
+conjunction démin/don ‘in order to’), or as embedded objects or complements of sentences expressingThe kada construction
+volition or opinion (where the subjunctive often corresponds to an infinitive in English), e.g., express ‘lest’ and in o
+bai k6 tsaya ba ya ji ké ldbafin ya Raré He didn’t even stop to hear if the story was finished.an dauré shi tam (do
+kada fa ka manta ka dawo da kwalabar Don’t forget to return the bottle.ba sd kuld da k6 sa ci
+ina sé ki y4ra ka taimaké ni I want you children to help me. sai mi zuba bakin-m
+ya kamata ka s4 yaronka 4 makafantaIt behooves you to put your child in school.",26.79153633117676," ADN: Some speakers are reported by Jaggar (1982) as also allowing an L-tone monosyllabic verb
+imperative with a softening nuance before a noun object (or locative goal), e.g., sha ruwa! ‘Drink
+ water! ’ (please, it will be good for you); ba® kudin! ‘Leave the money!’ (if you don’t mind); dau
+ion) applies before
+ kwali! ‘Take the carton!’ (if you want); z6 wurin nan! ‘Come to this place!’ (if/when it suits you).
+ja. If the order were
+ Other speakers feel that only the H-tone imperative can be used in this context.
+ong output.
+",28.931110382080078," The fourth restriction relates to vowel sequences. In trisyllabic words with a short high vowel in the
  unterparts cannotco-first syllable, a high vowel in the next syllable will necessarily be identical, ie., CiCiCV and CuCuCV
 tr order. On the other are possible, but **CiCuCV and **CuCiCV are not,e.g., binciké ‘investigate’, jimina ‘ostrich’,
 dad ‘pleasantness’,rigima ‘dispute’; duraml ‘fig tree’, gdndura ‘become fed up’, tikina ‘(not) yet’. The only exceptions
@@ -5391,7 +5391,7 @@ Indirect objects, which syntactically make use of the markers ma- (before person
 verb and before other arguments in the VP. Thus, when a sentence has both direct and indirect objects,
 the order is necessarily i.o. + d.o., e.g.,
 tocilan ta macé [mini];9.",72.451171875
-0.6797968822648217,1,1,0.6094006903328523,3,0.6165232747247887,0,0.637420382196373,0,0.5190164443397364,1,0.5357750753636407,2,0.6049914988520924,1,0.5968535878518082,1,0.6026158616975718," The fourth rest
+0.6797968822648217,1,1,0.6094006903328523,3,0.6165232747247887,0,0.637420382196373,0,0.5272445678687294,1,0.5353973689813281,2,0.6049914988520924,1,0.5968535878518082,1,0.6026158616975718," The fourth rest
  (b) Generally speaking, glottalized consonants and their nonglottalized counterparts cannot co-rst syllable, a hig!
 occur in the same word, i.e., sequences of /b/ — /6/ or /k/ - /R/ do not occur in either order. On the other© possible, but 4
 hand, whereas the sequence /d/-— /d/ does not occur, /d/—/d/ is quite normal, e.g., dadT ‘pleasantness’, mai ‘dispute’; di
@@ -5442,8 +5442,19 @@ Examples: cf. mutané sukan ciic
 ya kamata a taimaki
 mun; cuci kanmi;We harmed ourselves.a nemi abin kai
 Bala; ya zargi kAnsa; Bala accused himself.
-cf. Bala; ya zargé shi; Bala accused him (s.o. else).",tensor([26.6862]),"Sentences
- with the reverse order, however, are grammatical.",tensor([28.5965]),"Index
+cf. Bala; ya zargé shi; Bala accused him (s.o. else).",26.773530960083008,"166Chapter 23
+9. POSITION OF THE STABILIZER motaf, ita ba fara
+dalibin, shi ba da
+According to the general formula X Y STAB, the stabilizer occurs at the end of the sentence after the
+predicate constituting the Y. Deviations from this order result from two independent factors: focus and Another strategy w
+heavy predicates. (consisting of a not
+(see chap. 6), e.g., |
+9.1. Focus
+If the subject X of an equational sentence is focused, the STAB is placed immediately after the X and taurardwa cé, [ita I
+before the Y. This is true also of structures that normally occur without the stabilizer. Note that the cf. ita Madonna tau
+pleonastic pronoun described above in §4 is commonly used along with focused NPs. Examples:
+9.1.2. Question'
+Auda né malamiIt is Audu who is a teacher.",28.787254333496094,"Index
 Abdoulaye, MahamaneL., 271, 616, 667, 671380, 381, 397, 432, 434, 468, 520
 Ablaut, 236, 645; plurals, 453—56; verbal nouns,Arabic script, 407, 726, 729-34; texts in, 735-36>
  714-15738-39
@@ -5650,7 +5661,7 @@ yana ina? (= ind yaké?)Where is he?
 suna fit6wa daga ina? (= daga ina suké fit6wa?)They are coming out from where?
 ya tafi yaushé? (= yaushé ya tafi?)When did he go?
 an ba ka dala nawa? (= dala nawa aka ba ka?",71.98994445800781
-0.6710837904225501,0,1,0.6144070793697057,1,0.6214383721809064,1,0.642067637269879,1,0.5251813062336714,1,0.5417251385506803,1,0.6100544013730824,1,0.602020795596608,1,0.6077092132324531,"My God give us patience! kada ka yi masa tsiw:
+0.6710837904225501,0,1,0.6144070793697057,1,0.6214383721809064,1,0.642067637269879,1,0.5333039682669323,1,0.5413522733061904,1,0.6100544013730824,1,0.602020795596608,1,0.6077092132324531,"My God give us patience! kada ka yi masa tsiw:
 nufinsa ya kéré sd His intention was to chase them away. kada si saké shi
 gara 4 Kara kudin albashin One ought to increase the salary. kada Kande ta daw6d
 dolé ma’aikata sd koma aikin The workers must return to work.kada fa ka manta ka |
@@ -5692,19 +5703,8 @@ ion) applies before
 ja. If the order were
  Other speakers feel that only the H-tone imperative can be used in this context.
 ong output.
-",tensor([26.0832]),"166Chapter 23
-9. POSITION OF THE STABILIZER motaf, ita ba fara
-dalibin, shi ba da
-According to the general formula X Y STAB, the stabilizer occurs at the end of the sentence after the
-predicate constituting the Y. Deviations from this order result from two independent factors: focus and Another strategy w
-heavy predicates. (consisting of a not
-(see chap. 6), e.g., |
-9.1. Focus
-If the subject X of an equational sentence is focused, the STAB is placed immediately after the X and taurardwa cé, [ita I
-before the Y. This is true also of structures that normally occur without the stabilizer. Note that the cf. ita Madonna tau
-pleonastic pronoun described above in §4 is commonly used along with focused NPs. Examples:
-9.1.2. Question'
-Auda né malamiIt is Audu who is a teacher.",tensor([28.4185])," Tankd] j sun ciici jana;
+",26.231225967407227,"Sentences
+ with the reverse order, however, are grammatical.",28.728660583496094," Tankd] j sun ciici jana;
 whereas the jana[Kande da Jummai]; sun san (céwa) (Bala da
  each other.
 help each other’,Kande and Jummai know (that) Bala and Tanko cheated
@@ -5741,7 +5741,7 @@ ja. If the order were
  Other speakers feel that only the H-tone imperative can be used in this context.
 ong output.
 ",71.94709014892578
-0.6752127129343852,1,2,0.6318005845714697,2,0.6387436127659378,1,0.6465608028456631,1,0.5311417591899139,1,0.5474779149020711,3,0.6400556597388807,3,0.6321229007275574,0,0.6000805705018664," Buba (ya)na can rimfa Balki (ta)nd masa aski
+0.6752127129343852,1,2,0.6318005845714697,2,0.6387436127659378,1,0.6465608028456631,1,0.5391624565247239,1,0.5471097302773167,3,0.6400556597388807,3,0.6321229007275574,0,0.6000805705018664," Buba (ya)na can rimfa Balki (ta)nd masa aski
  Buba is there in the shed and Balki is cutting his hair.
 tt ran Lahadi The subject needs to be overtly presentin order to permit wsp drop, but it does not have to occur
 immediately before the PAC. It can, for example, be separated from the PAC by phonologically small
@@ -6126,7 +6126,7 @@ If the subject X of an equational sentence is focused, the STAB is placed immedi
 before the Y. This is true also of structures that normally occur without the stabilizer. Note that the cf. ita Madonna tau
 pleonastic pronoun described above in §4 is commonly used along with focused NPs. Examples:
 9.1.2. Question'
-Auda né malamiIt is Audu who is a teacher.",tensor([26.0154])," :;-venti'
+Auda né malamiIt is Audu who is a teacher.",26.1776065826416," :;-venti'
 appears as a single consonant, in others (e.g., Sokoto) it is normally a geminate. Monoverbs insert an F:
 epenthetic /y/ before the suffix, e.g., jayiké ‘draw up this way’ < ja ‘pull, draw’. As with simplesemal
 polysyllabic gr4 verbs, there are two variants for the pre-noun C-form, one with a long final vowel andhave
@@ -6145,7 +6145,7 @@ suffix is attached to a stem that is already a derivative gr4 rather than to a s
  janyike ‘pull all here’ clearly comes from janyé gr4, not ja gr0, and ficcike ‘escape out here’ is
 derived from the secondary grade ficcé gr4, with irregular gemination, not from the basic verb fita
 gr3, which has a single medial consonant.
-",tensor([28.1851]),"The variant with the /a/
+",28.503158569335938,"The variant with the /a/
 n a VERB and there is
 vowel represents the historically original shape.
 re (X) Y STAB, where
@@ -6173,7 +6173,7 @@ hout the of short /e/ and /o/ in closed syllables as [a] is usually not indicate
 » 1930s. usually written sabon gari, similarly, [zoObansa] ‘his ring’ is written zobensa. (There are a few
  strophe,exceptions, e.g., the function word don ‘in order to’, which in Niger is spelled dan.)
 / 1934).",71.65766906738281
-0.6792079946869212,1,1,0.6363298887171052,1,0.6431875091540736,1,0.65090853821357,1,0.5369092902745164,1,0.5530444912466865,1,0.6444834163409526,1,0.6366482399893805,1,0.6050000697026946," I want (that) I borrow
+0.6792079946869212,1,1,0.6363298887171052,1,0.6431875091540736,1,0.65090853821357,1,0.5448313232004024,1,0.5526808357441344,1,0.6444834163409526,1,0.6366482399893805,1,0.6050000697026946," I want (that) I borrow
 (lit. house.of.my it falls short of yours size)
  with a finite verb. The
 ba ta gaza ki hakuri ba She is not less patient than you.
@@ -6288,7 +6288,7 @@ Table 29: UniversalsJ will
 yana da kydu k
 Gloss Universal FormsQuestion WordsIt is ge
  everyone, whoeverkowa wa who?
- everything, whatever komé mé what?",tensor([25.9884]),"What did you remember?
+ everything, whatever komé mé what?",26.08710479736328,"What did you remember?
 but normally not **da mé ka tuna?
 Although fronting is the norm, adverbial Q-words can remain in regular declarative sentenc
 with only a slightly strengthened nuance. With normal word order, the general rather than t
@@ -6296,7 +6296,7 @@ is used). Examples:
 yana ina? (= ind yaké?)Where is he?
 suna fit6wa daga ina? (= daga ina suké fit6wa?)They are coming out from where?
 ya tafi yaushé? (= yaushé ya tafi?)When did he go?
-an ba ka dala nawa? (= dala nawa aka ba ka?",tensor([28.1567])," Buba (ya)na can rimfa Balki (ta)nd masa aski
+an ba ka dala nawa? (= dala nawa aka ba ka?",28.396642684936523," Buba (ya)na can rimfa Balki (ta)nd masa aski
  Buba is there in the shed and Balki is cutting his hair.
 tt ran Lahadi The subject needs to be overtly presentin order to permit wsp drop, but it does not have to occur
 immediately before the PAC. It can, for example, be separated from the PAC by phonologically small
@@ -6328,7 +6328,7 @@ suffix is attached to a stem that is already a derivative gr4 rather than to a s
 derived from the secondary grade ficcé gr4, with irregular gemination, not from the basic verb fita
 gr3, which has a single medial consonant.
 ",71.6353759765625
-0.7036237674394247,2,1,0.6485377750933571,0,0.6431875091540736,1,0.6631164245898218,0,0.5369092902745164,1,0.5652523776229383,0,0.6444834163409526,1,0.6488561263656324,1,0.6172079560789464,"Index
+0.7036237674394247,2,1,0.6485377750933571,0,0.6431875091540736,1,0.6631164245898218,1,0.5570392095766542,1,0.5648887221203862,0,0.6444834163409526,1,0.6488561263656324,1,0.6172079560789464,"Index
 Abdoulaye, MahamaneL., 271, 616, 667, 671380, 381, 397, 432, 434, 468, 520
 Ablaut, 236, 645; plurals, 453—56; verbal nouns,Arabic script, 407, 726, 729-34; texts in, 735-36>
  714-15738-39
@@ -6559,17 +6559,26 @@ modal particle, e.g., z4 k6 sd daw6 ‘They however will return.” (lit. fut ho
 this is not possible with other PACs, e.g., **yaushé su k6é ka dawé (lit. when they however pret
 [zAn]fyt gyara fust
 return). The future uses the same PAC paradigm in the affirmative and in the negative.
-",62.91643905639648," Who caught the thief?[finite verb]
- cf, muna s6 mi kama barawonWe want to catch the thief.
- (lit. we.cont want we.sub catch thief.the)[finite verb in subjunctive]
- ba ta iya [gaya mana] ba She wasn’t able to tell us. [IP]
- cf. ba ta gaya mana ba She didn’t tell us. [finite verb]
- ya sayi AlKalami don [Fubuta wasika] He bought a pen in order to write a letter. [IP]
- cf. ya Fubuta wasika He wrote a letter. [finite verb]
- ([zubaf da ruwa 4 k4n hanya] yana da ban haushi
-Pouring water on the road is annoying. [IP]
- sun fara [badKofa] ba tare da izini ba
-They began to open the door without permission.",tensor([25.6795])," Buba (ya)na can rimfa Balki (ta)nd masa aski
+",62.91643905639648," I want (that) I borrow
+(lit. house.of.my it falls short of yours size)
+ with a finite verb. The
+ba ta gaza ki hakuri ba She is not less patient than you.
+ in (a)) and propositio
+(lit. neg she fall short of you patience neg)
+ (a) mun ji labari (wai
+4. CLAUSAL COMPARISON
+‘(b) ya kamata ka kd
+Comparison at a clausal level is indicated by connectingtwo clauses bymeans of the subordinating
+conjunction da ‘than (that)’. (The clause following da appears with a bare L-tone weak subject pronoun
+ 1. vP COMPLEME
+(wsp), which I interpret to be the neutral TAM although it could also be the subjunctive.) The two clauses
+VP complements are fu
+can sometimes occur in either order. Examples:
+presentation, the VP c
+gara mi koma gida da md sha irin wannan wahala
+1.1. ‘That’ comple
+We would rather go back home than experience this kind of difficulty.
+",25.81429481506348," Buba (ya)na can rimfa Balki (ta)nd masa aski
  Buba is there in the shed and Balki is cutting his hair.
 tt ran Lahadi The subject needs to be overtly presentin order to permit wsp drop, but it does not have to occur
 immediately before the PAC. It can, for example, be separated from the PAC by phonologically small
@@ -6578,7 +6587,7 @@ efore and what goes
  Buba fa @ na (= yana) wanké mdotafsaBuba is indeed washing his car.
 aku dai @ na da hazaka The parrot indeed is clever. (lit. has cleverness)
  Misa né @ ké (= yaké) néman mataIt is Musa who is chasing women.
-",tensor([28.1294]),"Finally, I cannot begin to express the extent of my obligation to Dr. Philip Jaggar of the 
+",28.368431091308594,"Finally, I cannot begin to express the extent of my obligation to Dr. Philip Jaggar of the 
 Oriental and African Studies, University of London. During his sabbatical year in Blooming
 spent endless hours discussing the intricacies of Hausa phonology, morphology, and
 discussions that often forced me to rethink analyses that I had been comfortable with or to consi
@@ -6726,7 +6735,7 @@ yana da kydu k
 Gloss Universal FormsQuestion WordsIt is ge
  everyone, whoeverkowa wa who?
  everything, whatever komé mé what?",71.5703125
-0.7036237674394247,0,1,0.6606561617530557,1,0.6553058958137723,1,0.6752348112495205,1,0.5490276769342152,1,0.577370764282637,0,0.6444834163409526,0,0.6488561263656324,1,0.6293263427386451," Weak subject pronouns. See Pronouns (personal)
+0.7036237674394247,0,1,0.6606561617530557,1,0.6553058958137723,1,0.6752348112495205,0,0.5570392095766542,1,0.5770071087800849,0,0.6444834163409526,0,0.6488561263656324,1,0.6293263427386451," Weak subject pronouns. See Pronouns (personal)
 Topicalization, 187-88, 273, 333, 505, 529, 615~ Weak verbal nouns. See Verbal nouns
  21, 620; multiple topics, 617; of infinitiveWestermann, Diedrich, 2
  phrases, 289; of verbs, 619; with causatives, Wolff, H. Ekkehard, 3, 593
@@ -6781,26 +6790,17 @@ ured us’ (= sunsuna zubaf [mata];.), da mai They are pouring out the oil for h
 ted and deemed possibilities, all of which are considered to be fully grammatical: (1) In the first, the indirect object
  marker wa and the particle da are “stacked” one after the other, followed by their respective objects,
  e.g., 24i fitat wa da Tankd akwati ‘He will take out the box for Tanko.’ This is the preferred option for
-th the verb in many SH speakers.",62.89945983886719," I want (that) I borrow
-(lit. house.of.my it falls short of yours size)
- with a finite verb. The
-ba ta gaza ki hakuri ba She is not less patient than you.
- in (a)) and propositio
-(lit. neg she fall short of you patience neg)
- (a) mun ji labari (wai
-4. CLAUSAL COMPARISON
-‘(b) ya kamata ka kd
-Comparison at a clausal level is indicated by connectingtwo clauses bymeans of the subordinating
-conjunction da ‘than (that)’. (The clause following da appears with a bare L-tone weak subject pronoun
- 1. vP COMPLEME
-(wsp), which I interpret to be the neutral TAM although it could also be the subjunctive.) The two clauses
-VP complements are fu
-can sometimes occur in either order. Examples:
-presentation, the VP c
-gara mi koma gida da md sha irin wannan wahala
-1.1. ‘That’ comple
-We would rather go back home than experience this kind of difficulty.
-",tensor([25.6081]),"Equational senten
+th the verb in many SH speakers.",62.89945983886719," Who caught the thief?[finite verb]
+ cf, muna s6 mi kama barawonWe want to catch the thief.
+ (lit. we.cont want we.sub catch thief.the)[finite verb in subjunctive]
+ ba ta iya [gaya mana] ba She wasn’t able to tell us. [IP]
+ cf. ba ta gaya mana ba She didn’t tell us. [finite verb]
+ ya sayi AlKalami don [Fubuta wasika] He bought a pen in order to write a letter. [IP]
+ cf. ya Fubuta wasika He wrote a letter. [finite verb]
+ ([zubaf da ruwa 4 k4n hanya] yana da ban haushi
+Pouring water on the road is annoying. [IP]
+ sun fara [badKofa] ba tare da izini ba
+They began to open the door without permission.",25.800020217895508,"Equational senten
  The stabilizer takes the form né when agreeing with words that are masculine singular or plural and cé semantically have
 when agreeing with feminine words. The tone of both forms is polar to that of the preceding tone, ie. L the NP preceding
 if the preceding tone is H, and H if the preceding tone is L or falling (= HL), e.g., wannan jaki né / doki
@@ -6817,7 +6817,7 @@ full range of NPs as subjects (the X) and a full range of NPs and adjectivesas
  predicates (the Y), e.g., ba gidajé manyz
  It’s not
  yadin fari né The cloth is white. mataisa déguwa cé His wife is tall.
- motaisa Honda céHis car is a Honda. motocin Rénanni né?",tensor([27.6778])," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
+ motaisa Honda céHis car is a Honda. motocin Rénanni né?",27.94405746459961," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
 trying.one often gets an ‘in order to’ reading, e.g.,
 in go.
  si uk Abékan jana[suka] tashi daga garinsd {z4 su] wani garl néman auré
@@ -6852,7 +6852,7 @@ hat one.pret steal)dokin nan nasa this his horse (i.e., this horse of his); rig&
 e, (2) demonstrative possessor rather than to the possessed head noun, e.g., rigaf Sulé din ‘the gown of the very Sule in
  question’.
 ",71.55603790283203
-0.7036237674394247,0,0,0.6606561617530557,1,0.6673383603522366,1,0.6872672757879847,1,0.5610601414726795,1,0.5894032288211013,1,0.6565158808794169,0,0.6488561263656324,3,0.6654237363540381," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
+0.7036237674394247,0,0,0.6606561617530557,1,0.6673383603522366,1,0.6872672757879847,1,0.5690716741151185,1,0.5890395733185492,1,0.6565158808794169,0,0.6488561263656324,3,0.6654237363540381," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
  some cases). Monosyllabic Ci verbs lengthen the vowel in order to add weight to the syllable preceding
  the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
  determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
@@ -6999,7 +6999,7 @@ mples of some concrete
  19 ashifin b4 daya = ashifin daya babi (= (g6ma) sha tafa)
 see chap. 22): gutsuré
 taded ball’(< mulmala
-ké ‘wash, launder’).",tensor([24.6678])," [References: Jaggar (1976, 1978); Junaidu (1987)]
+ké ‘wash, launder’).",24.885847091674805," [References: Jaggar (1976, 1978); Junaidu (1987)]
 , money.
 noun) followed by da
 ction in the form Nda
@@ -7028,7 +7028,7 @@ Table 29: UniversalsJ will
 yana da kydu k
 Gloss Universal FormsQuestion WordsIt is ge
  everyone, whoeverkowa wa who?
- everything, whatever komé mé what?",tensor([27.3890]),"166Chapter 23
+ everything, whatever komé mé what?",27.53046417236328,"166Chapter 23
 9. POSITION OF THE STABILIZER motaf, ita ba fara
 dalibin, shi ba da
 According to the general formula X Y STAB, the stabilizer occurs at the end of the sentence after the
@@ -7057,7 +7057,7 @@ gent’; ba jirgl ba né
  tébdfine = tébdf néIt’s a table.
  ’ (or other equivalentAudi ba yaré ba né = Audi ba yaré né baAudu is not a lad.
 e.g., akwai kudi?",71.52273559570312
-0.7155736498196613,1,0,0.6606561617530557,0,0.6673383603522366,0,0.6872672757879847,1,0.5730100238529161,0,0.5894032288211013,0,0.6565158808794169,0,0.6488561263656324,1,0.6773736187342748," (This can have only a
+0.7155736498196613,1,0,0.6606561617530557,0,0.6673383603522366,0,0.6872672757879847,1,0.5810215564953551,0,0.5890395733185492,0,0.6565158808794169,0,0.6488561263656324,1,0.6773736187342748," (This can have only a
 reason reading and not temporal one.) Examples:
 i nén zaune tun jiya /
 into the bank’; tun dada yaké kana nAn, z4n fita shan iska
@@ -7107,24 +7107,16 @@ lex) of the second [an]comp Yi wata gafdama [aka]pret cé wa ya fi wayo cikin mu
  the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
  determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
  is reported with an L-H-L pattern in addition to all H.
-",62.58375549316406," The fourth rest
- (b) Generally speaking, glottalized consonants and their nonglottalized counterparts cannot co-rst syllable, a hig!
-occur in the same word, i.e., sequences of /b/ — /6/ or /k/ - /R/ do not occur in either order. On the other© possible, but 4
-hand, whereas the sequence /d/-— /d/ does not occur, /d/—/d/ is quite normal, e.g., dadT ‘pleasantness’, mai ‘dispute’; di
-dadé ‘last long’. Similarly, /ts/— /s/ does not occur, although there are a few examples of /s/ — /ts/ withverbal nouns 0
-an intervening consonant,e.g., santsI,‘slipperiness’, sartsé ‘splinter’. pronounced {ndkuv |
-Phonology411
-‘ception. Short forms of °ANAHN: It is not entirely clear what qualifies as the true counterpart of /ts/. Synchronically,
-ets a long vowel (unless reasons of pattern symmetry suggest that /ts/ is the glottalized member of the /s, /z/, /ts/ fricative
-le, e.g., Jibd short for triad (voiceless, voiced, glottalized). Historically, however, /ts/ could just as likely be viewed as
-rt for Adamu m., Balathe ejective counterpart of the palatal /e/. (This would avoid having to postulate a contrast between
-e short for Hannataf., an implosive (d) and an ejective (ts) at the same position of articulation, something that is
-na f., Madde short for uncommon in the languages of the world.) Alternatively, /ts/ could be viewed as having developed
-mmon nouns, the finalfrom an ejective */t’/ or from a non-ejective affricate */ts/, neither of which has been preserved in
- cf. sabé /sabuwa ‘new’the modern language.
-| is Wada m., cf. wada
- ’, where the name has a Words do occur that contain both /R/ and /k/ when the /k/ is part of a suffix, e.g., Rauyuka ‘villages’ (<
-el.",tensor([24.5256])," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
+",62.58375549316406," Buba (ya)na can rimfa Balki (ta)nd masa aski
+ Buba is there in the shed and Balki is cutting his hair.
+tt ran Lahadi The subject needs to be overtly presentin order to permit wsp drop, but it does not have to occur
+immediately before the PAC. It can, for example, be separated from the PAC by phonologically small
+elements like modal particles or the stabilizer, e.g.,
+efore and what goes
+ Buba fa @ na (= yana) wanké mdotafsaBuba is indeed washing his car.
+aku dai @ na da hazaka The parrot indeed is clever. (lit. has cleverness)
+ Misa né @ ké (= yaké) néman mataIt is Musa who is chasing women.
+",24.34580993652344," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
 trying.one often gets an ‘in order to’ reading, e.g.,
 in go.
  si uk Abékan jana[suka] tashi daga garinsd {z4 su] wani garl néman auré
@@ -7137,7 +7129,7 @@ containingthe same (lit. he saved moneyhe will buy a plane ticket)
 vell cooked. simply enumerated,e.g.,
 on’. [It occurs either [na]comp hau kaka sai [na]pret 84 Rauyé I climbed the baobab tree and then I saw the village.
 lex) of the second [an]comp Yi wata gafdama [aka]pret cé wa ya fi wayo cikin mutanen nan?
-",tensor([26.7871])," (These are transcribed with a hyphen.) Most, however, have become fused into simple monomorphemic
+",26.979747772216797," (These are transcribed with a hyphen.) Most, however, have become fused into simple monomorphemic
  words. Selected examples:
 122Chapter 16
 atOm-bém atom bomb; aténé-janafattorney-general; bifkila bricklayer; bizayé bull’s-eye; these compounds i:
@@ -7277,7 +7269,7 @@ gara mi koma gida da md sha irin wannan wahala
 1.1. ‘That’ comple
 We would rather go back home than experience this kind of difficulty.
 ",71.49317169189453
-0.7155736498196613,0,0,0.6606561617530557,0,0.6673383603522366,1,0.6991376999509537,1,0.584880448015885,1,0.6012736529840702,0,0.6565158808794169,1,0.6607265505286012,0,0.6773736187342748,"A few items occur only as repeated distributives rather than singly, e.g.,
+0.7155736498196613,0,0,0.6606561617530557,0,0.6673383603522366,1,0.6991376999509537,1,0.592891980658324,1,0.6009099974815181,0,0.6565158808794169,1,0.6607265505286012,0,0.6773736187342748,"A few items occur only as repeated distributives rather than singly, e.g.,
 bint binirepeatedly, often
  Adverbs 43
  from time to time, here and there
@@ -7426,16 +7418,24 @@ mples of some concrete
  19 ashifin b4 daya = ashifin daya babi (= (g6ma) sha tafa)
 see chap. 22): gutsuré
 taded ball’(< mulmala
-ké ‘wash, launder’).",62.42852783203125," Buba (ya)na can rimfa Balki (ta)nd masa aski
- Buba is there in the shed and Balki is cutting his hair.
-tt ran Lahadi The subject needs to be overtly presentin order to permit wsp drop, but it does not have to occur
-immediately before the PAC. It can, for example, be separated from the PAC by phonologically small
-elements like modal particles or the stabilizer, e.g.,
-efore and what goes
- Buba fa @ na (= yana) wanké mdotafsaBuba is indeed washing his car.
-aku dai @ na da hazaka The parrot indeed is clever. (lit. has cleverness)
- Misa né @ ké (= yaké) néman mataIt is Musa who is chasing women.
-",tensor([24.3032]),"Agana ‘talking’, wasa
+ké ‘wash, launder’).",62.42852783203125," The fourth rest
+ (b) Generally speaking, glottalized consonants and their nonglottalized counterparts cannot co-rst syllable, a hig!
+occur in the same word, i.e., sequences of /b/ — /6/ or /k/ - /R/ do not occur in either order. On the other© possible, but 4
+hand, whereas the sequence /d/-— /d/ does not occur, /d/—/d/ is quite normal, e.g., dadT ‘pleasantness’, mai ‘dispute’; di
+dadé ‘last long’. Similarly, /ts/— /s/ does not occur, although there are a few examples of /s/ — /ts/ withverbal nouns 0
+an intervening consonant,e.g., santsI,‘slipperiness’, sartsé ‘splinter’. pronounced {ndkuv |
+Phonology411
+‘ception. Short forms of °ANAHN: It is not entirely clear what qualifies as the true counterpart of /ts/. Synchronically,
+ets a long vowel (unless reasons of pattern symmetry suggest that /ts/ is the glottalized member of the /s, /z/, /ts/ fricative
+le, e.g., Jibd short for triad (voiceless, voiced, glottalized). Historically, however, /ts/ could just as likely be viewed as
+rt for Adamu m., Balathe ejective counterpart of the palatal /e/. (This would avoid having to postulate a contrast between
+e short for Hannataf., an implosive (d) and an ejective (ts) at the same position of articulation, something that is
+na f., Madde short for uncommon in the languages of the world.) Alternatively, /ts/ could be viewed as having developed
+mmon nouns, the finalfrom an ejective */t’/ or from a non-ejective affricate */ts/, neither of which has been preserved in
+ cf. sabé /sabuwa ‘new’the modern language.
+| is Wada m., cf. wada
+ ’, where the name has a Words do occur that contain both /R/ and /k/ when the /k/ is part of a suffix, e.g., Rauyuka ‘villages’ (<
+el.",24.306550979614254,"Agana ‘talking’, wasa
  saya‘buy’), gaisuwa The numbers eighteen and nineteen have an alternative expression built on twenty (Ashifin) less two and
  one, respectively. The ‘less’ phrase, which makes use of the negative existential marker baba / ba, has
 ing’ (< gyara ‘repair’),
@@ -7446,7 +7446,7 @@ mples of some concrete
  19 ashifin b4 daya = ashifin daya babi (= (g6ma) sha tafa)
 see chap. 22): gutsuré
 taded ball’(< mulmala
-ké ‘wash, launder’).",tensor([26.5466])," (As
+ké ‘wash, launder’).",26.799190521240234," (As
  with many contractionsin English,in everyday language, the short form don is more commonthanIn certain constructiol
  domin.) Examples: The purposive expres:
  deletion of yin or, if ¢
@@ -7482,7 +7482,7 @@ bai k6 tsaya ba ya ji ké ldbafin ya Raré He didn’t even stop to hear if the 
 kada fa ka manta ka dawo da kwalabar Don’t forget to return the bottle.ba sd kuld da k6 sa ci
 ina sé ki y4ra ka taimaké ni I want you children to help me. sai mi zuba bakin-m
 ya kamata ka s4 yaronka 4 makafantaIt behooves you to put your child in school.",71.00228881835938
-0.7273675428314731,1,0,0.6606561617530557,0,0.6673383603522366,0,0.6991376999509537,2,0.6084682340395083,1,0.6130675459958819,0,0.6565158808794169,0,0.6607265505286012,1,0.6891675117460865,"9.2. Heavy predicate shift
+0.7273675428314731,1,0,0.6606561617530557,0,0.6673383603522366,0,0.6991376999509537,2,0.6164797666819474,1,0.6127038904933297,0,0.6565158808794169,0,0.6607265505286012,1,0.6891675117460865,"9.2. Heavy predicate shift
 If the Y is a simple adjective, or a single noun, with or withouta prenominalmodifier,or a simple
 genitive complex, then the basic word order is X Y STAB, e.g.,
 at the beginningshi Rat6 n@ He is very large. Belld mashahifin likita né Bello is a famous doctor. wad'ann4n zabi
@@ -7722,7 +7722,7 @@ ANA
 i
 7158 ~~ Index
 Jinju, Muhammadu Hambali. See Hambali, 47, 409-10, 728; day names, 340, 345;Permissives, 87—
-Muhammaduhypocoristics, 347-50, 408, 509; male vs.",tensor([24.2744])," The fourth rest
+Muhammaduhypocoristics, 347-50, 408, 509; male vs.",24.204099655151367," The fourth rest
  (b) Generally speaking, glottalized consonants and their nonglottalized counterparts cannot co-rst syllable, a hig!
 occur in the same word, i.e., sequences of /b/ — /6/ or /k/ - /R/ do not occur in either order. On the other© possible, but 4
 hand, whereas the sequence /d/-— /d/ does not occur, /d/—/d/ is quite normal, e.g., dadT ‘pleasantness’, mai ‘dispute’; di
@@ -7739,7 +7739,7 @@ mmon nouns, the finalfrom an ejective */t’/ or from a non-ejective affricate *
  cf. sabé /sabuwa ‘new’the modern language.
 | is Wada m., cf. wada
  ’, where the name has a Words do occur that contain both /R/ and /k/ when the /k/ is part of a suffix, e.g., Rauyuka ‘villages’ (<
-el.",tensor([26.3850]),"My God give us patience! kada ka yi masa tsiw:
+el.",26.46799659729004,"My God give us patience! kada ka yi masa tsiw:
 nufinsa ya kéré sd His intention was to chase them away. kada si saké shi
 gara 4 Kara kudin albashin One ought to increase the salary. kada Kande ta daw6d
 dolé ma’aikata sd koma aikin The workers must return to work.kada fa ka manta ka |
@@ -7764,7 +7764,7 @@ In all but the most simple sentences, the bare jiina is either required or stron
 form with the possessive pronouns, which is considered clumsy if not unacceptable, e.g., preferred order):
 Amirka da Rasha sun yi wa jana léKen-asifI haf na tsawon wajen shékaru hamsinKande da Jummai st
  America and Russia spied on each other for some fifty years.",70.89765167236328
-0.739087651901874,1,0,0.6606561617530557,1,0.6790584694226375,1,0.7108578090213545,0,0.6084682340395083,1,0.6247876550662828,1,0.6682359899498178,0,0.6607265505286012,0,0.6891675117460865," [References: Jaggar (1976, 1978); Junaidu (1987)]
+0.739087651901874,1,0,0.6606561617530557,1,0.6790584694226375,1,0.7108578090213545,0,0.6164797666819474,1,0.6244239995637306,1,0.6682359899498178,0,0.6607265505286012,0,0.6891675117460865," [References: Jaggar (1976, 1978); Junaidu (1987)]
 , money.
 noun) followed by da
 ction in the form Nda
@@ -7848,7 +7848,7 @@ street *yar-Bahafi hun
  gown (’yaf'-inside
 5. PRODUCTIVITYnaira bill (‘yaf-M
  shirt (yar-sweepi
-Compounds of most types are lexically restricted in terms of their membership and meaning.",tensor([24.0741]),"The
+Compounds of most types are lexically restricted in terms of their membership and meaning.",24.124311447143555,"The
 [ba yalNeg-cont da fensif = ba shi da fensifHe doesn’t have a pencil.
 VE, which serves in
 Talata [ba ta]Neg cont da zobé = Talata ba ta da zobé Talatu doesn’t have a ring.
@@ -7878,7 +7878,7 @@ modal particle, e.g., z4 k6 sd daw6 ‘They however will return.” (lit. fut ho
 this is not possible with other PACs, e.g., **yaushé su k6é ka dawé (lit. when they however pret
 [zAn]fyt gyara fust
 return). The future uses the same PAC paradigm in the affirmative and in the negative.
-",tensor([26.1691]),"Although the matter malamai sun s6 yari
+",26.37151527404785,"Although the matter malamai sun s6 yari
 remains to be studied carefully, it appears that in some cases the jiiman + pronoun variantsare more The teachers
 specific, i.e., they refer to identifiable groups or individuals, often limited to two, whereas the jana [Kande da Jummai];
 variant is more general. Thus kd taimaki jainankd might mean ‘You (two) should help each other’,Kande and Jr
@@ -7914,7 +7914,7 @@ na ZO gaishé ka
  mun baza kay4 4 inuwa (don) md yi ciniki
  We spread our wares in the shade (in order) to do business.
 ",70.7149887084961
-0.7507365595560841,1,0,0.6606561617530557,0,0.6790584694226375,0,0.7108578090213545,1,0.6201171416937185,2,0.648085470374703,0,0.6682359899498178,0,0.6607265505286012,0,0.6891675117460865," :;-venti'
+0.7507365595560841,1,0,0.6606561617530557,0,0.6790584694226375,0,0.7108578090213545,1,0.6281286743361575,2,0.6477218148721509,0,0.6682359899498178,0,0.6607265505286012,0,0.6891675117460865," :;-venti'
 appears as a single consonant, in others (e.g., Sokoto) it is normally a geminate. Monoverbs insert an F:
 epenthetic /y/ before the suffix, e.g., jayiké ‘draw up this way’ < ja ‘pull, draw’. As with simplesemal
 polysyllabic gr4 verbs, there are two variants for the pre-noun C-form, one with a long final vowel andhave
@@ -7991,7 +7991,7 @@ full range of NPs as subjects (the X) and a full range of NPs and adjectivesas
  predicates (the Y), e.g., ba gidajé manyz
  It’s not
  yadin fari né The cloth is white. mataisa déguwa cé His wife is tall.
- motaisa Honda céHis car is a Honda. motocin Rénanni né?",tensor([23.9802]),"Index
+ motaisa Honda céHis car is a Honda. motocin Rénanni né?",24.052780151367188,"Index
 Abdoulaye, MahamaneL., 271, 616, 667, 671380, 381, 397, 432, 434, 468, 520
 Ablaut, 236, 645; plurals, 453—56; verbal nouns,Arabic script, 407, 726, 729-34; texts in, 735-36>
  714-15738-39
@@ -8170,7 +8170,7 @@ ANA
 i
 7158 ~~ Index
 Jinju, Muhammadu Hambali. See Hambali, 47, 409-10, 728; day names, 340, 345;Permissives, 87—
-Muhammaduhypocoristics, 347-50, 408, 509; male vs.",tensor([25.8312])," Thephonemiclength
+Muhammaduhypocoristics, 347-50, 408, 509; male vs.",25.890722274780273," Thephonemiclength
 ncluding distinction is not noted, e.g., farl ‘white’ and fari ‘beginning’ are both written fari. The pronunciation
 hout the of short /e/ and /o/ in closed syllables as [a] is usually not indicated, e.g., [saban gari] ‘new town’ is
 » 1930s. usually written sabon gari, similarly, [zoObansa] ‘his ring’ is written zobensa. (There are a few
@@ -8216,7 +8216,7 @@ verb normally requires that a third argument be expressed in addition to(not *
 argument is commonly an indirect object, but it may also be a locative(b) al
  or a prepositional phrase.
 ",70.36344909667969
-0.7623166971989652,1,1,0.6722362993959369,0,0.6790584694226375,0,0.7108578090213545,0,0.6201171416937185,3,0.6828258833033466,1,0.6798161275926989,1,0.6723066881714824,0,0.6891675117460865,"Equational senten
+0.7623166971989652,1,1,0.6722362993959369,0,0.6790584694226375,0,0.7108578090213545,3,0.6628690872648011,3,0.6824622278007945,1,0.6798161275926989,1,0.6723066881714824,0,0.6891675117460865,"Equational senten
  The stabilizer takes the form né when agreeing with words that are masculine singular or plural and cé semantically have
 when agreeing with feminine words. The tone of both forms is polar to that of the preceding tone, ie. L the NP preceding
 if the preceding tone is H, and H if the preceding tone is L or falling (= HL), e.g., wannan jaki né / doki
@@ -8253,20 +8253,7 @@ Amirka da Rasha sun yi wa jana léKen-asifI haf na tsawon wajen shékaru hamsinK
  idan (= in) if, when (in future), e.g., }dan ka ciicé md 24 md rama_ If you cheat us, we'll get back at 1. NP COORDIN
  you.
  kafin = kafin (= kamin = kamin) before, ¢.g., kafin md hita sai md kammala aikin Before we rest,1.1. ‘And
- we should finish the work.",60.30036163330078," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
-trying.one often gets an ‘in order to’ reading, e.g.,
-in go.
- si uk Abékan jana[suka] tashi daga garinsd {z4 su] wani garl néman auré
- These threefriends left their town to go to another town for marriage.
- [ya] ajiye kudi [z4i] sayi tikitin jirgi He saved money in order to buy a plane ticket.
-containingthe same (lit. he saved moneyhe will buy a plane ticket)
-28:
- The use of the preterite (optionally preceded by the conjunction sai) in a clause after the completive
- denotes consecutive action as opposed to a comp + comp sequence, where the different actions are
-vell cooked. simply enumerated,e.g.,
-on’. [It occurs either [na]comp hau kaka sai [na]pret 84 Rauyé I climbed the baobab tree and then I saw the village.
-lex) of the second [an]comp Yi wata gafdama [aka]pret cé wa ya fi wayo cikin mutanen nan?
-",tensor([23.0672]),"The variant with the /a/
+ we should finish the work.",60.30036163330078,"The variant with the /a/
 n a VERB and there is
 vowel represents the historically original shape.
 re (X) Y STAB, where
@@ -8277,7 +8264,18 @@ gent’; ba jirgl ba né
  >
  tébdfine = tébdf néIt’s a table.
  ’ (or other equivalentAudi ba yaré ba né = Audi ba yaré né baAudu is not a lad.
-e.g., akwai kudi?",tensor([25.4531])," [References: Jaggar (1976, 1978); Junaidu (1987)]
+e.g., akwai kudi?",23.07686233520508,"The variant with the /a/
+n a VERB and there is
+vowel represents the historically original shape.
+re (X) Y STAB, where
+ The tonal polarity shows up clearly with words that have alternativeformsor with structures that have
+é ‘Musa is a teacher’;
+ alternative word orders, e.g.,
+gent’; ba jirgl ba né
+ >
+ tébdfine = tébdf néIt’s a table.
+ ’ (or other equivalentAudi ba yaré ba né = Audi ba yaré né baAudu is not a lad.
+e.g., akwai kudi?",25.62471580505371," [References: Jaggar (1976, 1978); Junaidu (1987)]
 , money.
 noun) followed by da
 ction in the form Nda
@@ -8342,7 +8340,7 @@ return). The future uses the same PAC paradigm in the affirmative and in the neg
  determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
  is reported with an L-H-L pattern in addition to all H.
 ",70.3612060546875
-0.7738303572748231,1,0,0.6722362993959369,0,0.6790584694226375,0,0.7108578090213545,3,0.6546581219212919,1,0.6943395433792043,1,0.6913297876685568,0,0.6723066881714824,1,0.7006811718219443,"The
+0.7738303572748231,1,0,0.6722362993959369,0,0.6790584694226375,0,0.7108578090213545,0,0.6628690872648011,1,0.6939758878766522,1,0.6913297876685568,0,0.6723066881714824,1,0.7006811718219443,"The
 [ba yalNeg-cont da fensif = ba shi da fensifHe doesn’t have a pencil.
 VE, which serves in
 Talata [ba ta]Neg cont da zobé = Talata ba ta da zobé Talatu doesn’t have a ring.
@@ -8488,21 +8486,23 @@ nsisting of boiled grain (usually guinea corn or millet,less often rice)
  (<) e
  Viterranean Sea
 G.
-Gu. .",59.42826843261719,"The variant with the /a/
-n a VERB and there is
-vowel represents the historically original shape.
-re (X) Y STAB, where
- The tonal polarity shows up clearly with words that have alternativeformsor with structures that have
-é ‘Musa is a teacher’;
- alternative word orders, e.g.,
-gent’; ba jirgl ba né
- >
- tébdfine = tébdf néIt’s a table.
- ’ (or other equivalentAudi ba yaré ba né = Audi ba yaré né baAudu is not a lad.
-e.g., akwai kudi?",tensor([22.9819]),"1. INTRODUCTION
+Gu. .",59.42826843261719," When a sentence in the past (preterite or completive) is conjoined with one in the allative or the future,
+trying.one often gets an ‘in order to’ reading, e.g.,
+in go.
+ si uk Abékan jana[suka] tashi daga garinsd {z4 su] wani garl néman auré
+ These threefriends left their town to go to another town for marriage.
+ [ya] ajiye kudi [z4i] sayi tikitin jirgi He saved money in order to buy a plane ticket.
+containingthe same (lit. he saved moneyhe will buy a plane ticket)
+28:
+ The use of the preterite (optionally preceded by the conjunction sai) in a clause after the completive
+ denotes consecutive action as opposed to a comp + comp sequence, where the different actions are
+vell cooked. simply enumerated,e.g.,
+on’. [It occurs either [na]comp hau kaka sai [na]pret 84 Rauyé I climbed the baobab tree and then I saw the village.
+lex) of the second [an]comp Yi wata gafdama [aka]pret cé wa ya fi wayo cikin mutanen nan?
+",23.03253173828125,"1. INTRODUCTION
  downdrift, if any,and
  OPICALIZATION and focus (see chap. 28) both involve frontinga constituent in order to give it
- prominence. They differ, however, in semantic characterization and in syntactic structure.",tensor([25.3886]),"The
+ prominence. They differ, however, in semantic characterization and in syntactic structure.",25.59593391418457,"The
 [ba yalNeg-cont da fensif = ba shi da fensifHe doesn’t have a pencil.
 VE, which serves in
 Talata [ba ta]Neg cont da zobé = Talata ba ta da zobé Talatu doesn’t have a ring.
@@ -8577,7 +8577,7 @@ this is not possible with other PACs, e.g., **yaushé su k6é ka dawé (lit. whe
 [zAn]fyt gyara fust
 return). The future uses the same PAC paradigm in the affirmative and in the negative.
 ",70.09008026123047
-0.7738303572748231,0,1,0.6836856463175858,1,0.6905078163442864,0,0.7108578090213545,1,0.6661074688429408,2,0.7172382372225021,0,0.6913297876685568,0,0.6723066881714824,1,0.7121305187435932,"Finally, I cannot begin to express the extent of my obligation to Dr. Philip Jaggar of the 
+0.7738303572748231,0,1,0.6836856463175858,1,0.6905078163442864,0,0.7108578090213545,1,0.67431843418645,2,0.71687458171995,0,0.6913297876685568,0,0.6723066881714824,1,0.7121305187435932,"Finally, I cannot begin to express the extent of my obligation to Dr. Philip Jaggar of the 
 Oriental and African Studies, University of London. During his sabbatical year in Blooming
 spent endless hours discussing the intricacies of Hausa phonology, morphology, and
 discussions that often forced me to rethink analyses that I had been comfortable with or to consi
@@ -8782,7 +8782,7 @@ modal particle, e.g., z4 k6 sd daw6 ‘They however will return.” (lit. fut ho
 this is not possible with other PACs, e.g., **yaushé su k6é ka dawé (lit. when they however pret
 [zAn]fyt gyara fust
 return). The future uses the same PAC paradigm in the affirmative and in the negative.
-",tensor([22.5726]),"Person-aspect-cot
+",22.51417732238769,"Person-aspect-cot
 Jungraithmayr, Herrmann, 2 female, 339-40; nicknames, 347; plurals of,Phonology, 392-«
  342; short forms, 341-42, 605; surnames, Phonotactic restr
 Kanakuru, 19, 24, 144, 146, 456, 479350 Play on words, 25
@@ -8840,7 +8840,7 @@ Pedagogical works, 2 sentence-
 Names (personal), 73, 231, 334, 338-39, 342-Perfective. See Completive 499-500
  Index 759
 AO, 345; Permissives, 87-88 questions, 107-8, 256, 329, 496
-9; male vs.",tensor([24.6436])," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
+9; male vs.",24.747488021850586," Some eleven nouns end in -k6. The suffix is added to the simple verbal base (with reduplication in
  some cases). Monosyllabic Ci verbs lengthen the vowel in order to add weight to the syllable preceding
  the suffix. Four of the derived nouns have all H tone; the others have H-L tone: the choice is lexically
  determined and cannot be accounted for by general rule. One example (rare, but listed in the dictionaries)
@@ -8863,7 +8863,7 @@ mples of some concrete
 see chap. 22): gutsuré
 taded ball’(< mulmala
 ké ‘wash, launder’).",69.32945251464844
-0.7738303572748231,0,0,0.6836856463175858,0,0.6905078163442864,0,0.7108578090213545,2,0.6888816288348006,0,0.7172382372225021,1,0.7027168676644867,1,0.6836937681674123,0,0.7121305187435932," HIS chapter de
+0.7738303572748231,0,0,0.6836856463175858,0,0.6905078163442864,0,0.7108578090213545,2,0.6970925941783098,0,0.71687458171995,1,0.7027168676644867,1,0.6836937681674123,0,0.7121305187435932," HIS chapter de
  domin (= don)because, in order that, e.g., an dauré shi don kada ya gud’They tied him up so thatphrases, and fu
  he wouldn’t run away.
  idan (= in) if, when (in future), e.g., }dan ka ciicé md 24 md rama_ If you cheat us, we'll get back at 1. NP COORDIN
@@ -8958,12 +8958,12 @@ Pedagogical works, 2 sentence-
 Names (personal), 73, 231, 334, 338-39, 342-Perfective. See Completive 499-500
  Index 759
 AO, 345; Permissives, 87-88 questions, 107-8, 256, 329, 496
-9; male vs.",tensor([22.2094])," Thephonemiclength
+9; male vs.",22.18774032592773," Thephonemiclength
 ncluding distinction is not noted, e.g., farl ‘white’ and fari ‘beginning’ are both written fari. The pronunciation
 hout the of short /e/ and /o/ in closed syllables as [a] is usually not indicated, e.g., [saban gari] ‘new town’ is
 » 1930s. usually written sabon gari, similarly, [zoObansa] ‘his ring’ is written zobensa. (There are a few
  strophe,exceptions, e.g., the function word don ‘in order to’, which in Niger is spelled dan.)
-/ 1934).",tensor([24.3791]),"Sentences
+/ 1934).",24.543180465698242,"Sentences
  with the reverse order, however, are grammatical.",63.84713745117188,"Sentences
  with the reverse order, however, are grammatical.",63.880558013916016," HIS chapter de
  domin (= don)because, in order that, e.g., an dauré shi don kada ya gud’They tied him up so thatphrases, and fu
@@ -8972,7 +8972,7 @@ hout the of short /e/ and /o/ in closed syllables as [a] is usually not indicate
  you.
  kafin = kafin (= kamin = kamin) before, ¢.g., kafin md hita sai md kammala aikin Before we rest,1.1. ‘And
  we should finish the work.",67.59571075439453
-0.7738303572748231,0,1,0.6950123963252708,0,0.6905078163442864,0,0.7108578090213545,0,0.6888816288348006,0,0.7172382372225021,0,0.7027168676644867,0,0.6836937681674123,0,0.7121305187435932,"Don’t play! (lit. don’t you do play) object
+0.7738303572748231,0,1,0.6950123963252708,0,0.6905078163442864,0,0.7108578090213545,0,0.6970925941783098,0,0.71687458171995,0,0.7027168676644867,0,0.6836937681674123,0,0.7121305187435932,"Don’t play! (lit. don’t you do play) object
 z4 mi yi hifa We will have a chat. (lit. fut we do chatting) noun o
  verbs,
 In nonfinite constructions, as used, for example, in the continuous, the s.o.’, |
@@ -9058,7 +9058,7 @@ na ZO gaishé ka
 {References: Bagari (
  mun baza kay4 4 inuwa (don) md yi ciniki
  We spread our wares in the shade (in order) to do business.
-",tensor([21.9151])," (As
+",22.07379531860352," (As
  with many contractionsin English,in everyday language, the short form don is more commonthanIn certain constructiol
  domin.) Examples: The purposive expres:
  deletion of yin or, if ¢
@@ -9074,7 +9074,7 @@ na ZO gaishé ka
 {References: Bagari (
  mun baza kay4 4 inuwa (don) md yi ciniki
  We spread our wares in the shade (in order) to do business.
-",tensor([23.9987])," Zainabu is ce
+",24.253097534179688," Zainabu is ce
 1.1. Basic reflexivesIn addition to the eig]
 In its basic function, a reflexive pronoun indicates an NP that is coreferential with the subject or other subject pronouns hav
 appropriate argument in the sentence. The reflexive can appear in most positions in which an ordinarykaw6 ruwa ‘One brot
@@ -9107,7 +9107,7 @@ cf. Bala; ya zargé shi; Bala accused him (s.o. else).",63.744117736816406," Who
 Pouring water on the road is annoying. [IP]
  sun fara [badKofa] ba tare da izini ba
 They began to open the door without permission.",66.91584014892578
-0.7738303572748231,0,0,0.6950123963252708,1,0.701776072060157,1,0.7221260647372251,0,0.6888816288348006,0,0.7172382372225021,0,0.7027168676644867,1,0.6949620238832829,1,0.7233987744594638," Who caught the thief?[finite verb]
+0.7738303572748231,0,0,0.6950123963252708,1,0.701776072060157,1,0.7221260647372251,0,0.6970925941783098,0,0.71687458171995,0,0.7027168676644867,1,0.6949620238832829,1,0.7233987744594638," Who caught the thief?[finite verb]
  cf, muna s6 mi kama barawonWe want to catch the thief.
  (lit. we.cont want we.sub catch thief.the)[finite verb in subjunctive]
  ba ta iya [gaya mana] ba She wasn’t able to tell us. [IP]
@@ -9163,7 +9163,7 @@ ncluding distinction is not noted, e.g., farl ‘white’ and fari ‘beginning�
 hout the of short /e/ and /o/ in closed syllables as [a] is usually not indicated, e.g., [saban gari] ‘new town’ is
 » 1930s. usually written sabon gari, similarly, [zoObansa] ‘his ring’ is written zobensa. (There are a few
  strophe,exceptions, e.g., the function word don ‘in order to’, which in Niger is spelled dan.)
-/ 1934).",tensor([21.8334])," (These are transcribed with a hyphen.) Most, however, have become fused into simple monomorphemic
+/ 1934).",21.87158966064453," (These are transcribed with a hyphen.) Most, however, have become fused into simple monomorphemic
  words. Selected examples:
 122Chapter 16
 atOm-bém atom bomb; aténé-janafattorney-general; bifkila bricklayer; bizayé bull’s-eye; these compounds i:
@@ -9177,7 +9177,7 @@ street *yar-Bahafi hun
  gown (’yaf'-inside
 5. PRODUCTIVITYnaira bill (‘yaf-M
  shirt (yar-sweepi
-Compounds of most types are lexically restricted in terms of their membership and meaning.",tensor([22.9166])," HIS chapter de
+Compounds of most types are lexically restricted in terms of their membership and meaning.",22.98861312866211," HIS chapter de
  domin (= don)because, in order that, e.g., an dauré shi don kada ya gud’They tied him up so thatphrases, and fu
  he wouldn’t run away.
  idan (= in) if, when (in future), e.g., }dan ka ciicé md 24 md rama_ If you cheat us, we'll get back at 1. NP COORDIN
@@ -9206,7 +9206,7 @@ sun ciicé si
 Kande da Jummai sun san (céwa) Bala da Tankd
  ];know (that)[BalaandTanko];cheated them; (i.e., Kande and Jummai).
 ",66.6274642944336
-0.7850418604566132,1,1,0.7062238995070609,1,0.7129875752419471,1,0.7333375679190153,0,0.6888816288348006,0,0.7172382372225021,1,0.7139283708462769,1,0.7061735270650731,0,0.7233987744594638,"Although the matter malamai sun s6 yari
+0.7850418604566132,1,1,0.7062238995070609,1,0.7129875752419471,1,0.7333375679190153,0,0.6970925941783098,0,0.71687458171995,1,0.7139283708462769,1,0.7061735270650731,0,0.7233987744594638,"Although the matter malamai sun s6 yari
 remains to be studied carefully, it appears that in some cases the jiiman + pronoun variantsare more The teachers
 specific, i.e., they refer to identifiable groups or individuals, often limited to two, whereas the jana [Kande da Jummai];
 variant is more general. Thus kd taimaki jainankd might mean ‘You (two) should help each other’,Kande and Jr
@@ -9368,7 +9368,7 @@ nsisting of boiled grain (usually guinea corn or millet,less often rice)
  (<) e
  Viterranean Sea
 G.
-Gu. .",tensor([21.2125]),"Finally, I cannot begin to express the extent of my obligation to Dr. Philip Jaggar of the 
+Gu. .",21.209138870239254,"Finally, I cannot begin to express the extent of my obligation to Dr. Philip Jaggar of the 
 Oriental and African Studies, University of London. During his sabbatical year in Blooming
 spent endless hours discussing the intricacies of Hausa phonology, morphology, and
 discussions that often forced me to rethink analyses that I had been comfortable with or to consi
@@ -9474,7 +9474,7 @@ nsisting of boiled grain (usually guinea corn or millet,less often rice)
  (<) e
  Viterranean Sea
 G.
-Gu. .",tensor([22.2221]),"Agana ‘talking’, wasa
+Gu. .",22.351459503173828,"Agana ‘talking’, wasa
  saya‘buy’), gaisuwa The numbers eighteen and nineteen have an alternative expression built on twenty (Ashifin) less two and
  one, respectively. The ‘less’ phrase, which makes use of the negative existential marker baba / ba, has
 ing’ (< gyara ‘repair’),
