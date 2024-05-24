@@ -1,0 +1,1237 @@
+Paragraph,Page number
+"132Valency and basic clausal syntax5.3.1 Word order constraints
+Ngkolmpu is largely a verb inal language, though in practice word order can vary in
+numerous ways. As discussed in Section 4.3, word order is highly sensitive to pragmatic constraints such as topicality, including animacy and argument saliency, as well
+as new versus old information. However, in pragmatically neutral circumstances, if
+such a thing exists, there is a strong tendency to order the constituents AOV (5.2).
+(5.2) Markus pr pi storui
+Markus-w
+Markus-pr pi
+tree 3.s\toru/i
+>3.
+.\cut.","[159, 160]"
+"Markus-wa
+Markus-’The garden got smashed up by Markus.’5.4.2 Bivalent constructions
+Bivalent constructions are de ined as requiring two core arguments. These include the
+cognate-object construction (5.4.2.1), the re lexive/reciprocal construction (5.4.2.2),
+the experiencer-object construction (5.4.2.4) and the transitive construction (5.4.2.3).
+These are ordered in terms of increased semantic transitivity (Hopper & Thompson,
+1980).",[171]
+"‘The school house would’ve been erected here (for them).’ [20131005-KCDJG-MapStory 054]
+In order to have more than a single modi ier of the head nominal a relative clause
+strategy is employed. These are discussed in Section 8.4.4.",[146]
+"8.4. Distribution in the syntax321Matrix clause
+Table 8.20: Relative correference over grammatical termsFigure 8.15: Relative correference grammatical shape8.4.5 Distribution of grammatical relations
+We have seen that the four morphosyntactic systems display a number of different
+alignments of grammatical relations. Both case marking and relative clauses display a
+clear ergative alignment. The agreement system is a two term system which is organised around a split of the S argument. Finally, the subordinate coreferential constructions, used to indicate simultaneous actions, are accusatively aligned. If we consider
+these four systems side by side as per Figure 8.16, it is clear that in order to provide
+an accurate description of the entire grammatical relations system of the language we
+require a four term system: A, O, SO and SA . In this way, we can say that the expression
+of grammatical relations is distributed across the four systems, each of which only ever
+displays a sub-set of the total possibilities.","[348, 349]"
+"Root(OPINOI) = pino
+Root(OMERKNTNAI) = merba
+Root(OBSUKAI) = bsu
+Root(OKROI) = kr
+Root(ONTKAI) = ont
+Root(IRIRTR) = ritrStem(L[pan]) = Root(L)Stem(L[3]) = Root(L)B.3. Corr function401Stem(L[3]:dur) = k(Root(L))
+Stem(L[3]:ex) = ntn(Root(L))Stem(L[2]) = Root(L)
+Stem(L[2]:ex) = k(Root(L))Stem(L[1]:ex) = Root(L)Stem(L[pre]) = Root(L)
+Stem(L[pre]:pl) = kan(Root(L))Morphophonological operations = {
+ntn(Pba) = Pkntn
+k(Pba)= Pkkan(P)= Pkan}This model assumes that unde ined stems are not generated. In the PFME, it assumes that the root will be used as a default stem even if this not de ined in the model.
+As such, in order to use this model with the particular engine, the following two lines
+will need to be added in order to overwrite the assumed defaults built into the parser.","[428, 429]"
+"‘Which dog bit Markus?’
+There is also the sentence interrogative moro which is mostly translated as ‘how’.
+Typically it is uttered alone as simply moro in order to ask how something was achieved.
+It is also frequently used in narrative texts in which it always occurs directly before the
+verb. In these cases it appears to serve a backgrounding function. This is largely a
+stylistic choice as omitting the element does not alter the semantics and it does not
+appear to be playing a role in information structure, occurring on both old and new
+information. The following is from a story about the process of cassowary hunting
+(3.57). This involves a series of statements: ‘I go cassowary hunting’, ‘I see a tree’ and
+‘I build a hide’. However, each of the previous statements are repeated with moro in
+order to background these before the newly introduced event.
+(3.57)a. ngko mpowr parat krantngki
+ngko
+1 .mpowr
+para-t
+cassowary hunt-kr\a/nt=ngki
+.
+. .
+\go=.",[123]
+"9.1.2 Rule-based morphology
+In order to provide a suf iciently explicit account of the morphomic structures at each
+level, a number of in lectional mechanisms must be introduced here. As stated, the
+analysis will largely be presented in natural language but a few mechanisms need to
+be established here in order to make the description explicit. Common to realisational
+models of morphology is the realisation of exponents through the application of rules.
+These rules state that morphological form is introduced in an appropriate morphosyntactic / semantic context; in our model this is only once mediated through a level
+of morphological organisation. The contexts are represented by features. The forms
+may be any phonological operation. Anderson (1992) describes a number of nonconcatenative operations used by morphological systems of the world, however for
+the discussion in this chapter we will only discuss af ixation. An example of such a rule
+of exponence is in (9.1). This is a rule of nominal morphology that states that in the
+context of the feature values of ergative and singular append the underspeci ied /W/
+to the input X, which in this case would be the nominal stem. Note that in a fully articulated theory, rules of this type need to be indexed for more than this, including but not
+limited to word class, in lection class and position in the word. However, the purpose330(Sub)paradigmatic autonomyof this section is not to provide a full model of the entire in lectional system but rather
+to make explicit certain types of organisation within the paradigm.
+(9.1) X, ergative singular → XW
+The bulk of mechanisms that we require to account for the Ngkolmpu paradigms
+are to provide explicit accounts for different types of syncretism, i.e. when multiple
+features are realised by the same form. The simplest examples of these come from
+underspeci ication or defaults. A default is simply the application of the elsewhere distribution of a rule, i.e. a rule that applies to all remaining cases after all other rules have
+been applied. For instance, in order to capture the paradigm structure in Table 9.2, we
+can specify the rules in (9.2). The irst rule applies to the irst person value, marking
+it with the suf ix -y, whilst the other rule simply states that for all other contexts, i.e.
+non- irst person, append an e.
+123yeeTable 9.2: Non-singular actor agreement paradigm(9.2)a. X, irst person → Xy
+b. X, else → XeRelated to a default is the notion of underspeci ication which involves omitting certain features so that natural classes may be captured. For instance, in the paradigm in
+Table 9.3, the featureis only relevant in the non-singular, so for the realisationof the singular agreement no reference to person is required. This would be formalised
+as the rules in (9.3).
+123øøøyeeTable 9.3: Deafult actor agreement paradigm9.1. A model of in lection
+(9.3)331a. X, singular → Xø
+b. X, irst person non-singular → Xy
+c. X, non-singular → XeInherent to the concepts of default and underspeci ication is the notion that rules
+are applied disjunctively, arranged into groups based on shared distribution. So that
+in a group of rules only, each rule implies the non-application of other rules in that
+group. One common approach to determining between competing rules is through the
+application of a principle which applies the narrowest or most speci ic rule for a given
+context. This is known as the Elsewhere Principle (Kiparsky, 1973), the Subset Principle (Halle, 1997) and Pā ṇ ini’s Principle (Stump, 2001). Alternatively, rules may simply
+be applied in a stipulated order, or some combination of the two (Anderson, 1992). For
+the purposes of our discussion, it is not signi icant which approach is chosen except to
+note that under any approach there needs to be a mechanism for determining between
+competing rules.
+Another type of shared exponence involves cases of simple homophony, in which
+two distinct in lectional exponents happen to be phonologically rather than systemically identical. These are typically uninteresting from a morphological viewpoint and
+we will not be considering any examples of these in this chapter. For a discussion of
+determining between simple homophony and systematic shared identity of exponence
+see Stump (2014).
+The inal mechanism that will be introduced is to capture directional syncretisms.
+A directional syncretism involves one context copying its form from another context,
+i.e. another cell in the paradigm. The directionality of these must be established beyond the mere sharing of identity of exponence. Directional relations of this type are
+handled through the application of rules of referral. Rules of referral were introduced
+by (Zwicky, 1985) and more fully articulated in (Stump, 1993). These have been included in most realisational-inferential theories. Rules of referral take the form of a
+rule which involves the in lectional context in the form of a feature value pair which
+speci ies another feature for which the element should be in lected instead. This is
+exempli ied in (9.4): this rule simply states that in order to in lect for second person332(Sub)paradigmatic autonomynon-singular, instead in lect like the third person, unspeci ied for number.
+(9.4) X, second non-singular → third9.2Morphological autonomy and in lectionIn his seminal work Morphology by itself, Aronoff (1994) argues for an autonomous
+level of morphology which he calls the morphome. In our model this involves the linking
+of morphosyntactic and semantic features to phonological strings mitigated through
+purely morphological categories. This contribution has been signi icant to our understanding of how in lectional systems may be organised. Since Aronoff (1994), considerable work has explored the extent of speci ic autonomous morphological phenomena
+with notable works including Maiden and Goldbach (2011), Cruschina, Maiden, and
+Smith (2013) and Round (2015).
+It is the contention of this chapter that morphomic categories/structures can operate at any and all levels of morphological structure, including localised structure that
+is not found elsewhere in the morphology. In the Ngkolmpu case, there is clear evidence that the various in lectional sites of verbs, particularly the agreement sites, are
+organised along independent and autonomous lines, both from each other and from
+the other paradigms in the language, speci ically pronouns. We have seen this from
+an impressionistic perspective in the previous chapter, where we explored the extent
+of distributed exponence. In the following section we explore the explicit morphomic
+structures localised to the three in lection sites of verbs. In doing so, we can explore
+the limits of localised autonomous morphological organisation in order to provide a
+more ine-grained understanding of the domains of morphomic structure. The analysis should also go some way to understanding the structural properties driving this
+particular case of distributed exponence.
+Much of the morphomic structure in the paradigm involves instances of shared exponence or syncretism. In these cases we have two or more identical exponents with
+distinct morphosyntactic and semantic contexts. The contexts are not reducible to a
+single dimension of the paradigm, i.e. they cannot be handled through underspeci ica-9.2. Morphological autonomy and in lection333tion. In addition, they are not simply the result of the application of defaults. As such,
+these are morphomic since they cannot be reduced to syntax, semantics or phonology.
+There are two distinct types of morphological syncretism that can be attributed to a
+morphomic level of organisation. These include the directional syncretisms that are
+handled through rules of referral as discussed in the previous section. These involve
+the mapping of morphosyntactic-semantic features into a new organisation that is not
+syntactically or semantically motivated and must be thought of as a type of morphological structure.
+More commonly exponents will share a form without there being any evidence of
+directionality involved. That is, two different sets of feature values systematically display an identical exponent without there being any non-morphological motivation for
+this. These are handled through disjunctive exponence (Stump, 2014). A rule of disjunctive exponence simply has multiple possible sets of features which can satisfy the
+rule of exponence. This is exempli ied in (9.5) which states that in order to in lect a
+verb that is future durative or recent imperfective append the suf ix nt. Another alternative for formalising what is essentially the same relationship is using a meromorphome (Round, 2015). This is a purely morphological feature value onto which
+multiple morphosyntactic-semantic features are mapped. The term was introduced by
+Round (2015) to account for the extensive and consistent disjunctive exponence in Kayardild in which large sets of complex feature sets are realised with just a small set of
+forms. Arguably the distinction between these two approaches, i.e. rules of disjunctive
+exponence or meromorphomes, is a matter of notation rather than substance. It seems
+to me that arguments for determining a distinction between these two mechanisms appears, in practice, to be one of extent rather than quality. Meromorphomes are typically
+only invoked when the evidence that the shared identity exponence is systematic and
+extends suf iciently throughout the system. More theoretically, such categories potentially could be reserved for a category that displays evidence for a level of psychological
+reality, evidenced by historical consistency or being applied to loan words (Maiden &
+Goldbach, 2011). At the levels we are concerned with in Ngkolmpu and at our current
+stage of understanding the Yam languages it is very dif icult to propose any more than
+disjunctive exponence. However, I will note that the two both account for very similar334(Sub)paradigmatic autonomytypes of relationships.
+(9.5) future durative OR recent perfective → Xnt
+The inal means we will explore for the structure of paradigms pertains to the internal structure of features. Since morphological features may, in theory, display anisomorphic organisation from morphosyntactic-semantic features then any evidence of
+contrasting types of internal structure to the features contributes to evidence of autonomous morphological structure. For our discussion of Ngkolmpu we will only be
+concerned with ordered feature values. However any type of distinct feature geometry
+could constitute evidence for morphomic organisation.
+In Network Morphology features are treated as ordered attribute paths, in which
+features are ordered with respect to each other. The arguments for treating particular features as being ordered after another feature can be found in Brown and Hippisley (2012). To summarise here, these revolve around the fact that a certain feature
+may determine the number of distinctions made in another feature. For instance, if we
+consider the Ngkolmpu absolutive paradigm in Table 9.4 it appears that the feature of
+person determines the distribution of number, as number is only marked within the
+feature value of irst person. Thus, for the purposes of this paradigm we would order
+the feature of person before number in order to maximise this generalisation.
+123ngko mpupinipimpuTable 9.4: Absolutive pronoun paradigm
+Whilst it would be tempting to assume a universal ordering of features cross linguistically, one cannot assume this would be the case until demonstrated with a suficiently large sample of languages. Brown and Hippisley (2012, p. 63) acknowledge
+that it is most likely that certain feature values will be ordered differently according to
+their semantic relevance to the part of speech being in lected. For instance, we would
+expect to see TAM de ining a verbal paradigm at a higher level than person and number features. In Ngkolmpu, we see evidence of differently ordered features beyond just9.3. Subparadigmatic structures335semantic relevance. For instance, the absolutive pronoun paradigm we have seen is deined as having person ordered before number, however the actor agreement paradigm
+is organised in the opposite dimension. We have already seen that person distinction
+is only ever made in the non-singular for actor agreement as per Table 9.3. This is
+discussed in more detail later, however, data like that suggests a level of arbitrariness
+to the ordering of feature values. The argument that the verb will have different orderings from nominals was presented in Brown and Hippisley (2012), however that
+was with regards to the combinations of agreement and TAM categories. There is no
+a-priori reason that person and number should be ordered differently when in lected
+on a verb or a pronoun. In addition, the actor suf ix often refers to the same referent as
+an absolutive argument, so if there is a semantic motivation here, it is minimal. Thus,
+whilst potentially motivated by semantics, it is clear that there is some arbitrariness to
+the ordering of features in this way, i.e. an element of morphomic structure. And as we
+shall see in the following sections, this is something which can be entirely localised to
+a given in lectional site.
+At this point one might consider that the ordering of features appears to be an artefact of the rule-based modelling mechanism. However, it is important to understand
+that the ordering of features is a way of representing prominence in the structure of
+a paradigm. For example, in the absolutive paradigm person is more prominent than
+number. Thus, when we are discussing this notion of feature ordering, we are talking about a relationship of prominence and ordered dominance in the structure of the
+paradigm.","[357, 358, 359, 360, 361, 362, 363]"
+"5.3Encoding grammatical relationsGrammatical relations are indicated through the morphological shape of both nominal
+and verbal elements of the clause. Arguments are lagged with morphological case and130Valency and basic clausal syntaxConstructionFlaggingIndexingIntransitiveNPU-VMiddleNPMID-DIA-V-AMonovalentBivalent
+MIDiddle re lexive/reciprocalNP+ PRO /MID-DIA-V-ACognate-objectNP, NPMID-DIA-V-ATransitiveNP, NPU-V-ATransitive experiencer-objectNP, NPUDitransitive recipient indexNP, NP, NPU -V-ADitransitive theme indexingNP, NP, NPU -V-ABenefactive applicativeNP, NP, NPU -DIA-V-A-V-ATrivalentTable 5.1: Overview of valency constructions
+are indexed with in lectional agreement on the verb. Word order also plays a role but
+is too lexible to be a reliable diagnostic.
+This chapter takes as basic a set of a grammatical relations derived from the numerical valence of a verb in a construction, following Bickel (2010), which itself is based
+on a long tradition in the typological literature. This has one argument for monovalent
+constructions (S), two arguments for bivalent constructions (A & O) and three distinctions required for trivalent constructions (A, O & R), as per table 5.2.
+123SAAOO
+RTable 5.2: Marcoroles de ined by valence
+These grammatical roles are cross-cut based on a hierarchy of semantic roles of
+‘most agent like’ and ‘most goal like’. These are indicated as in Table 5.3. This distinction allows us to account for the full range of morphosyntactic behaviour of valence
+related constructions. This terminology was established in Comrie (1978) and Dixon5.3. Encoding grammatical relations131(1979). For a discussion of a hierarchy of semantic roles see Fillmore (1968) for the
+classic exposition and Levin and Rappaport Hovav (2005) for a more modern discussion.
+Ssingle argument of a monovalent clauseAmost agent-like argument of a bivalent/trivalent clauseOnon-agent-like argument of a bivalent/trivalent clauseRmost goal-like argument of a trivalent clause
+Table 5.3: Macroroles de ined by semanticsOne of the interesting typological features of the language, and a pervasive characteristic of the entire language family (Evans, 2012; Evans et al., 2017) , is the tendency
+for complementary systems which encode the same set of features to be organised
+along contrasting lines. The two systems relevant for our discussion of grammatical
+relations in this chapter are the case system and the verbal agreement system. These
+systems both make use of numerical valency and the same hierarchy of semantic roles
+yet align differently. As we shall see in the rest of this section, nouns are lagged on an
+ergative-absolutive alignment whilst the verbal agreement is aligned to a split-S system. Since agreement has a split-S system we shall also add the additional roles of SA
+and SO representing the split.
+This chapter does not propose any larger abstract syntactic units like subject or
+object beyond the roles above. Whilst there are other syntactic consequences of grammatical relations beyond basic clausal syntax they do not show any evidence for larger
+units. Instead, a ine grained system of roles derived from those above with the two additional S elements is distributed across a number of semi-independent systems, each
+of which divides the full set of roles into a smaller set of larger abstract units, and thus
+the complexity is only apparent once the systems are seen juxtaposed. Chapter 8 examines the nature of grammatical relations once all morphosyntactic operations have
+been considered.","[157, 158, 159]"
+"/‘I went (in order to ind) for ish.’ [20130820-KCD-JG-YonasFishing 002]
+b. nongkai-nongkait pi ye
+nongkai-nongkai-t pi
+food-food-ye
+3.",[111]
+"‘”I’ll hit it.”’
+(A.1.38) moro abse: ”ou naempr, yuow, yemkpoka”
+moro \abse/
+. .ou
+.\countnaempr yuow yemkpoka
+one
+three two‘He starts counting: ”ok, 1, 3, 2”’ (mistake with order)
+(A.1.39) pi ngkoro moro tayengk...
+pi
+3.ngkoro moro ta\ye/ngk
+thus
+. .
+.\say.",[395]
+"90
+91
+92
+974 Nominal syntax
+101
+4.1 Word classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+4.1.1 Nouns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+4.1.2 Adjectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+4.1.3 Numerals and the quanti ier . . . . . . . . . . . . . . . . . . . . . . 105
+4.1.4 Determiners . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+4.1.4.1 Demonstratives . . . . . . . . . . . . . . . . . . . . . . . 107
+4.1.4.2 Pronouns . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+4.1.4.3 Discourse demonstratives . . . . . . . . . . . . . . . . . 110
+4.2 Nominal Constructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+4.2.1 Determiner phrases . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+4.2.2 Nominal Heads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+4.2.3 Numeral/quanti ied position . . . . . . . . . . . . . . . . . . . . . 116
+4.2.4 Modi ier position . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+4.3 Information structure and nominal syntax . . . . . . . . . . . . . . . . . . 118
+4.3.1 Topic constructions . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+4.3.2 Focus constructions . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+4.3.3 Donohue (2011) and con igurationality in Kanum/Ngkolmpu . . 124
+5 Valency and basic clausal syntax
+127
+5.1 A note on glossing conventions. . . . . . . . . . . . . . . . . . . . . . . . . 127
+5.2 Overview of valency constructions . . . . . . . . . . . . . . . . . . . . . . 129
+5.3 Encoding grammatical relations . . . . . . . . . . . . . . . . . . . . . . . . 129
+5.3.1 Word order constraints . . . . . . . . . . . . . . . . . . . . . . . . 132
+5.3.2 Case marking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+5.3.3 Verb Morphology . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+5.3.4 Diathetic pre ix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+5.4 Valency constructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+5.4.1 Monovalent constructions . . . . . . . . . . . . . . . . . . . . . . . 139
+5.4.1.1 The intransitive construction . . . . . . . . . . . . . . . 139
+5.4.1.2 Middle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+5.4.2 Bivalent constructions . . . . . . . . . . . . . . . . . . . . . . . . . 143
+5.4.2.1 Cognate-object . . . . . . . . . . . . . . . . . . . . . . . . 143
+5.4.2.2 Middle: re lexive/reciprocal . . . . . . . . . . . . . . . . 145
+5.4.2.3 Basic Transitive . . . . . . . . . . . . . . . . . . . . . . . 147xContents
+5.4.2.4 Experiencer-object . . . . . . . . . . . . . . . . . . . . . 148
+5.4.3 Trivalent constructions . . . . . . . . . . . . . . . . . . . . . . . . . 148
+5.4.3.1 Ditransitive, recipient indexing . . . . . . . . . . . . . . 148
+5.4.3.2 Ditransitive Theme Indexed . . . . . . . . . . . . . . . . 149
+5.4.3.3 Benefactive applicative . . . . . . . . . . . . . . . . . . . 150
+5.5 Valence alternations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+5.5.1 Transitive ↔ patientive middle . . . . . . . . . . . . . . . . . . . . 151
+5.5.2 Transitive ↔ agentive middle . . . . . . . . . . . . . . . . . . . . . 152
+5.5.3 Transitive ↔ cognate-object . . . . . . . . . . . . . . . . . . . . . . 153
+5.5.4 Transitive ↔ intransitive . . . . . . . . . . . . . . . . . . . . . . . . 155
+5.5.5 Transitive ↔ benefactive applicative . . . . . . . . . . . . . . . . . 157
+5.6 Alternation classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+5.6.1 Class 1 - Pre ixing monovalent . . . . . . . . . . . . . . . . . . . . 159
+5.6.2 Class 2 - Ambi ixing monovalent . . . . . . . . . . . . . . . . . . . 159
+5.6.3 Class 3 - Omnivalent . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+5.6.4 Class 4 - Transitive ambivalent . . . . . . . . . . . . . . . . . . . . 160
+5.6.5 Class 5 - Ditransitive ambivalent . . . . . . . . . . . . . . . . . . . 161
+5.6.6 Class 6 - Pre ixing ambivalent with middle . . . . . . . . . . . . . 162
+5.6.7 Class 7 - Pre ixing ambivalent without middle . . . . . . . . . . . 162
+5.6.8 Class 8 - Positionals . . . . . . . . . . . . . . . . . . . . . . . . . . . 1636 Verb morphology
+171
+6.1 How to read this chapter . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+6.2 Overview of morphological classes . . . . . . . . . . . . . . . . . . . . . . 173
+6.2.1 Ambi ixing verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+6.2.2 Pre ixing verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+6.3 Overview of verbal categories . . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.3.1 Tense, aspect and mood . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.3.1.1 Aspect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+6.3.1.2 Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+6.3.1.3 Mood . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 186
+6.3.2 Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189
+6.3.3 Diathesis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.3.4 Direction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.4 Structure of the Ngkolmpu verb . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.5 Stems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+6.6 The lexical pre ixes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+6.6.1 Diathetic pre ix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+6.6.2 Directional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+6.7 The in lectional pre ixes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200Contentsxi6.7.1The undergoer pre ix . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+6.7.1.1 TAM pre ix . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+6.7.1.2 The undergoer pre ix . . . . . . . . . . . . . . . . . . . . 204
+6.7.2 Cross-indexing agreement . . . . . . . . . . . . . . . . . . . . . . . 223
+6.8 The in lectional suf ixes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+6.8.1 The TAM suf ixes . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+6.8.1.1 en : Recent past imperfective . . . . . . . . . . . . . . . 230
+6.8.1.2 rnt : Remote past imperfective . . . . . . . . . . . . . . 231
+6.8.1.3 nt : Future-irrealis/Recent past perfective . . . . . . . 231
+6.8.1.4 ro : Recent past perfective . . . . . . . . . . . . . . . . . 232
+6.8.1.5 ngk : Past-potential/remote past perfective . . . . . . . 233
+6.8.1.6 omo : Future potential . . . . . . . . . . . . . . . . . . . 233
+6.8.2 The actor suf ix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 234
+6.9 The copula . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
+7 Verb stems, aspect classes and (plur)actionality
+247
+7.1 Stem alternation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 247
+7.1.1 Formal patterns of stem alternations . . . . . . . . . . . . . . . . 251
+7.1.2 Verbs of basic motion . . . . . . . . . . . . . . . . . . . . . . . . . . 253
+7.1.3 Positional verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+7.1.4 Summary of stem patterns . . . . . . . . . . . . . . . . . . . . . . . 256
+7.2 (Plur)actionality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257
+7.2.1 Pluractionality in typological context . . . . . . . . . . . . . . . . 258
+7.2.2 Pluractionality in Ngkolmpu . . . . . . . . . . . . . . . . . . . . . . 261
+7.2.3 Pluractionality and argument number . . . . . . . . . . . . . . . . 261
+7.2.3.1 Different locations . . . . . . . . . . . . . . . . . . . . . . 262
+7.2.3.2 Different alignment . . . . . . . . . . . . . . . . . . . . . 263
+7.2.3.3 Different values . . . . . . . . . . . . . . . . . . . . . . . 264
+7.2.4 Pluractionality and aspect . . . . . . . . . . . . . . . . . . . . . . . 266
+7.2.4.1 Aspect and stems . . . . . . . . . . . . . . . . . . . . . . 267
+7.2.4.2 Pluractionality and perfectivity . . . . . . . . . . . . . . 268
+7.2.4.3 Distinguishing pluractionality from aspect . . . . . . . 270
+7.3 Grammatical status of stem alternation . . . . . . . . . . . . . . . . . . . . 273II Distribution2778 Distributed exponence and parallel structures
+279
+8.1 Distributed exponence in typological context . . . . . . . . . . . . . . . . 280
+8.1.1 Typology of exponence . . . . . . . . . . . . . . . . . . . . . . . . . 280
+8.1.2 Distributed exponence . . . . . . . . . . . . . . . . . . . . . . . . . 285xiiContents8.28.38.48.58.1.3 Distributed exponence in the literature . . . . . . . . . . . . . . . 288
+8.1.4 Distributed exponence and morphological complexity . . . . . . 290
+Distributed exponence in Ngkolmpu verbal in lection . . . . . . . . . . . 290
+8.2.1 Interactions of sub-paradigms . . . . . . . . . . . . . . . . . . . . 292
+8.2.2 Distribution of tense, aspect and mood . . . . . . . . . . . . . . . 295
+8.2.2.1 Aspect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 297
+8.2.2.2 Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+8.2.2.3 Mood . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 303
+8.2.2.4 Aggregated tense, aspect and mood values . . . . . . . 304
+Distribution across domains . . . . . . . . . . . . . . . . . . . . . . . . . . 304
+8.3.1 Free nominals and agreement . . . . . . . . . . . . . . . . . . . . . 305
+8.3.2 Argument number and pluractionality . . . . . . . . . . . . . . . . 308
+Distribution in the syntax . . . . . . . . . . . . . . . . . . . . . . . . . . . . 312
+8.4.1 Case marking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313
+8.4.2 Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
+8.4.3 Subordinate coreference . . . . . . . . . . . . . . . . . . . . . . . . 315
+8.4.4 Relative coreference . . . . . . . . . . . . . . . . . . . . . . . . . . 317
+8.4.5 Distribution of grammatical relations . . . . . . . . . . . . . . . . 321
+Parallels between domains of distribution . . . . . . . . . . . . . . . . . . 3229 (Sub)paradigmatic autonomy
+323
+9.1 A model of in lection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324
+9.1.1 Status of features . . . . . . . . . . . . . . . . . . . . . . . . . . . . 328
+9.1.2 Rule-based morphology . . . . . . . . . . . . . . . . . . . . . . . . 329
+9.2 Morphological autonomy and in lection . . . . . . . . . . . . . . . . . . . 332
+9.3 Subparadigmatic structures . . . . . . . . . . . . . . . . . . . . . . . . . . 335
+9.3.1 In lectional pre ixes . . . . . . . . . . . . . . . . . . . . . . . . . . . 336
+9.3.2 The TAM suf ix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 341
+9.3.3 Actor suf ix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 341
+9.4 Subparadigmatic autonomy . . . . . . . . . . . . . . . . . . . . . . . . . . 344
+References347III357AppendicesA Sample texts
+359
+A.1 Cassowary story - mpowrwa eibentei . . . . . . . . . . . . . . . . . . . . . 359
+A.2 Coconut story - saklawa po . . . . . . . . . . . . . . . . . . . . . . . . . . . 375
+A.3 Gardening story - brar paya . . . . . . . . . . . . . . . . . . . . . . . . . . 383ContentsxiiiB Formal model of in lection
+397
+B.1 Content paradigm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 398
+B.2 Stems and lexical entries . . . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+B.3 Corr function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 401
+B.4 Paradigm function and realisational rules . . . . . . . . . . . . . . . . . . 402List of Figures
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8Map of the Yam family languages . . . . . . . . . . . . . . . . . . . . . . .
+Map of villages and languages spoken in the Wasur region . . . . . . . .
+Ntmtr: kampung lama of the Ntikbwan clan . . . . . . . . . . . . . . . . .
+A typical yam garden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Yams and bananas being counted after a feast . . . . . . . . . . . . . . . .
+Light melaleuca forest in the dry season . . . . . . . . . . . . . . . . . . .
+Light melaleuca forest in the wet season . . . . . . . . . . . . . . . . . . .
+Typical house in Yanggandur . . . . . . . . . . . . . . . . . . . . . . . . . .","[13, 14, 15, 16, 17, 18, 19]"
+"‘He fed the pig.’
+In addition to this, for most classes the morphologically simplest form is the transitive. This suggests that the transitive form is the basic form and the middle and the
+applicative are derived forms. This seems a reasonable claim but it has some unusual
+consequences in Ngkolmpu since the majority of semantically one-place predicates are
+of this class. Under such a derivational treatment, this would suggest that the causative
+form of a verb like ‘fall’ is the morphologically basic form and yet the basic semantics
+of the monovalent alternate correspond to a morphological derived form. For these
+reasons, I label the relationship between verbs asinstead of. In addi-5.6. Alternation classes159tion, we will discuss the relationship in terms classes of related lexemes in order to not
+privilege any particular morphological form as more basic.","[186, 187]"
+"92Nominal morphologyAnimates
+Inanimate
+AbsolutiveororamiErgativeraurayemiDativeranrayenmenPossessivemenemencenePurposive
+Comitativemnt
+ratAssociativerawi*LocativemoiAblativemmpaAllativemngke
+Table 3.4: Ngkolmpu relative pronouns3.3.3 Interrogatives
+Interrogatives are used to form content questions. They are related to the distinct subclasses of nominals yet are syntactically equivalent to determiners. The largest set of
+interrogatives are the interrogative pronouns which in lect for case and number in animates; these cover the words for ‘what’ nor, ‘who’ ra and ‘why, for what’ norwa. There
+are also individual interrogative words: the quanti ier, i.e. mntai ‘how many’ , a temporal adverb, i.e. mno ‘when’, a demonstrative, i.e. mne ‘which’ and the sentence interrogative moro ‘how’.
+Interrogatives display the same syntactic distribution as determiners, i.e. pronouns
+and demonstratives. For the full analysis of the distribution of determiners see Section
+4.2.1. For this section it is suf icient to note that they can occur in place of the entire
+nominal construction (5.16) or alongside it (3.52b), if they occur with a nominal phrase
+they typically occur preceding the nominal phrase. Note the two absolutive arguments
+in (5.16); this is a cognate-object verb in which takes two absolutive arguments see
+Section 5.4.2.1 for more details.","[119, 120]"
+"1.1. The language and its speakers3The other variety, Baedi, is reportedly only spoken by a handful of elderly speakers
+who no longer use it as a language of communication.
+The full name of the language is Ngkontar Ngkolmpu Kiki, the word kiki meaning
+‘speak’, ‘talk’, ‘word’ or ‘language’. Ngkontar refers to the Ngkolmpu people living in
+Yanggandur and the variety of the language they speak. The language is also known
+by a number of other names. As this is a traditionally multilingual environment with
+a large number of closely related languages spoken over a relatively small area, people
+commonly need to make reference to the different languages of the area. In these instances, a shibboleth term is used consisting of the word meaning ‘this type’ optionally
+along with the word for ‘speak’ or ‘language’ in that language. Such terms are primarily used when one is comparing the languages, in which case Ngkontar Ngkolmpu is
+known as Ngkntra Kiki, [ŋ kə̆ ˈn tra]. These terms are discussed in more detail in the following section.
+Much previously published work has referred to the language as ‘Kanum’. This
+was the term used in Boelaars (1950) and in the works published by Mark Donohue,
+discussed in Section 1.4. The variety described in these two sources is the same as
+that described in this thesis, although naturally due to the time the ieldwork was conducted there are many differences between the three sources. Donohue also uses the
+name Ngkolmpu in his work along side the name Kanum, although in the orthography
+adopted in those papers Ngkolmpu is written as Ngkâ lmpw. More details on the orthography used in this thesis can be found in Section 2.6. Outside of these sources, the
+term ‘Kanum’ is used to refer to all the Tonda subgroup family speakers living within
+Indonesia. This term is used self-identifyingly in the form [kə̆ ˈnumɛ]. This same term,
+in the form of [ˈkanum], is the word typically given when non-Kanum people ask for the
+name of the people or the languages spoken in the villages in the region. The term has
+also been used by ethnographers, namely Nevermann (1939) and van Baal (1966), to
+refer to the people living in this area. Boelaars (1950) suggests the term comes from
+Marind referring to people living east of the Maro river although he provides no evidence to support the claim.","[30, 31]"
+"5.4.2.1
+NP-Cognate-object
+i + NP-+ M-DI-V-AiCognate-object constructions involve two absolutive realised arguments and the
+middle form of the verb. These are rather unusual since semantically, these may be either one or two place predicates. In the broadest sense these are syntactically bivalent
+since they occur with two arguments. Morphologically, the verb is indexed for just a
+single argument and the second argument does not trigger case marking. In addition,
+the second argument has a more restricted semantics and it is not available for syntactic constructions such as focus or topic constructions. The single full argument is
+A and is indexed via the actor suf ix. The cognate-object nominal the in initive of the
+verb; sometimes this is the productive morphological in initive (5.23a) but for some
+verbs this is a lexically speci ied syncronically unrelated form (5.23b). This constructions are still labelled cognate-object despite this fact that not all cognate-objects are144Valency and basic clausal syntaxcognate with the verb stem although most are. In initives and nominalisation is discussed in Section 3.1.1.
+(5.23)a. ngko aeibentai teibentai
+ngko
+1 .aeibentai t-eibenta-y
+tell.
+.
+-tell- .A.","[171, 172]"
+"Chapter 9(Sub)paradigmatic autonomy
+In the previous chapter we saw that distributed exponence and parallel structures in
+the domains of syntax and semantics are the result of the interaction between apposed
+and contrastingly organised systems. In this chapter we explore the organisational
+structure of the in lectional sites of verbs in this light and show evidence for a level
+of autonomous organisation speci ic to each in lectional site. The analysis in this chapter borrows from recent advances in realisational approaches to morphological theory
+but is not embedded in any particular formalism. This is to ensure that the chapter is
+accessible and in line with the descriptive goals of the thesis. An explicit model of morphology and its interfaces is presented in Section 9.1 and the formal mechanisms used
+in the description are introduced in Section 9.1.2. Section 9.2 sets out the argumentation for morphomic organisation. Section 9.3 provides an explicit account of each
+in lectional site.
+The contention of this chapter is that feature distribution can be seen as a result of
+sets of intermediary morphological and/or morphosyntactic structures. This chapter
+will largely focus on the paradigmatic organisation of verbs, yet the arguments would
+be parallel for the other relevant domains of grammar. These structures are the result
+of common morphosyntactic structures such as underspeci ication, natural categories
+or the application of defaults. However, the stronger evidence comes from more complex, purely morphological, structures such as referrals or morphomic categories. This
+chapter provides an explicit analysis of each of the in lectional sites in order to capture
+323324(Sub)paradigmatic autonomythese phenomena and to show that different types of organisational structure are at
+work for each site. This is taken as evidence that each of these sites displays a level of
+autonomy.
+The unique contribution of this chapter is the articulation between morphomic organisation at levels lower than the word. The implications of this beyond the current
+study is a more ine-grained understanding of paradigmatic in lectional structure, and
+an articulation of morphological categories existing below the paradigm level. This is
+also framed within a broader discussion of the nature of language-wide categories and
+the expectation that systems should be uniformly aligned within a language.","[350, 351, 352]"
+"‘Then, it’s cleaned from that (the burning).’
+(A.3.30) kar krakorant, mpon mpiae, mpon mpiae... sumpl oroit pnt pop
+kar kra\kora/nt
+share
+.
+.
+sumpl oroi-t
+yam plant. -mpon
+.
+\divide.
+2 .
+pnt
+pop
+.
+truempiae mpon
+thing 2 .mpiae
+thing‘It’ll be divided into share plots, one for you, one for you... in order to plant
+yams.’
+(A.3.31) smpo kai kreye
+smpo kai kr\eye/
+again feast
+. .",[416]
+"100Nominal morphology(3.64) kwr wiskar ngki ominngki
+kwr wiskar pi
+pig cassava.o-minngk-i
+-eat. .A‘The pig ate this cassava root / these cassava roots.’Chapter 4Nominal syntax
+This chapter establishes the word classes of nominals and determiners in Ngkolmpu
+and describes the syntactic constructions they may occur in. Nominals and determiners are morphologically characterised as words which may be marked for case. Nominals consist of nouns, adjectives, numerals/quanti iers and determiners. Adjectives are
+a small closed class of words and the majority of words which semantically correspond
+to adjectives cross-linguistically are nouns in Ngkolmpu. Determiners, consisting of
+pronouns and demonstratives, head their own phrases and as such are syntactically
+distinct from nominals.
+Nominal syntax is organised around a determiner phrase, which is headed by either
+a demonstrative or a pronoun. When headed by a demonstrative, the demonstrative
+may take a nominal phrase complement, however bare nominal phrases are also common. Nominal phrases may be headed by any nominal word. The language is typically
+head inal and as such, determiners are in inal position and the head nominal typically
+immediately precedes it. This is the default ordering, however demonstratives are lexible whether they occur before or after the nominal phrase with no apparent change of
+scope or reading. In addition to this, there are numerous discourse-related constructions which involve a clause-external nominal phrase situated within the left periphery. These also involve an anaphoric demonstrative or pronoun in close proximity to
+the verb. These structures often appear as if determiners and noun phrase elements
+are discontinuous since nominal elements in the periphery do not occur with a deter101102Nominal syntaxminer. Donohue (2011) has described case marked nominal elements being able to be
+fully discontinuous in Kanum (Ngkolmpu). However, the data I have collected does not
+align with this analysis. Instead nominal phrases topicalised in the left periphery only
+appear discontinuous. This is discussed in more detail in Section 4.3.3.","[127, 128, 129, 130]"
+"‘He ate the food.’
+Verbs which are semantic two-place predicates and belong to this class, i.e. ‘to eat’,
+‘to drink’ or ‘to carry’, may take a full nominal constituent in the cognate object position (5.25). The constituent has all the referential features associated with these as discussed in Chapter 4. However, this DP still has a reduced syntactic function in that they
+must occur directly before the verb and they cannot be the target of the topicalisation5.4. Valency constructions145construction. These contrast with verbs of this class that are semantically one-place
+predicates. These take a empty nominal which is typically cognate to the verb stem
+with the verb stem as per example (5.23a). This element may be either an in initive
+form or a lexicalised nominal form which is likely historically related to the verb. This
+type is not able to occur with a full nominal constituent. For both of these constructions
+the non-agentive nominal must occur directly before the verb.
+(5.25) pi nongkai bl pi ominngki
+pi
+3 .nongkai bl pi
+food
+egg 3.ø-o-minngk-y
+- -eat- .A.","[172, 173]"
+"‘Mother dressed John.’5.5.3 Transitive ↔ cognate-object
+The transitive-cognate-object alternation is an alternation between an underlying event
+encoded in the cognate-object construction with a middle verb and the corresponding
+external causative in the transitive construction. The cognate-object may be either a
+semantically single or a two-place predicate, which is instantiated in the grammar as a
+cognate-object construction.
+In the transitive construction there is an external agentive argument which causes
+a secondary actor to perform the action. The external agent is lagged as ergative and154Valency and basic clausal syntaxindexed with the actor suf ix. This is as we would expect since this argument is the
+most agentive, i.e. A. The caused actor is then marked in absolutive case and indexed
+as an undergoer. In the corresponding cognate-object construction the agent is treated
+like an S and the construction includes a reduced argument element, this may either be
+the semantic patient or an empty cognate-object type element (5.4.2.1). Both nominal
+elements are realised in the absolutive. The agent is indexed with the actor suf ix and
+the semi-argument is not indexed at all. The undergoer slot is illed by the middle pre ix
+and the diathetic vowel is present for the appropriate verbs.
+All cognate-object verbs participate in the alternation. These are characterised
+as either one-place predicates with higher semantic transitivity and two-place predicates with low semantic transitivity. Generally one-place predicates are highly agentive in their lexical semantics (5.38) whilst the two place predicates display highly
+salient or expected patientive arguments (5.39). The transitive construction on these
+verbs involves an external causer argument who is outside the basic lexical semantic
+of the verb. The O argument of this construction corresponds to the S argument of the
+cognate-object construction as evidenced in the examples below.
+(5.38)a. Jon warko toiwoanti
+Jon warko t-o-ywoant-y
+John run
+.
+- -run- .A.
+‘John ran.’
+b. Markusu Jon siewoanti
+Markus-w
+Markus-jon s-ywoant-y
+John 3U.
+-run- .A.","[181, 182]"
+"4.1.1 Nouns
+Nouns are de ined negatively, as nominals which are not a part of any other nominal
+word class, i.e. not adjectives, demonstratives or numerals. As with all nominals, their
+positive de inition is the ability to be marked for case and to serve as head of the noun
+phrase. They also cannot serve in attributive constructions without the adjectivising4.1. Word classes103marker -wa, discussed in the previous chapter in Section 3.1.2. Nouns are the largest
+word class in Ngkolmpu, making up just over 50% of lexical items in the corpus. This
+is the only class which accepts borrowings, largely from Indonesian but there are also
+many lexical items from neighbouring languages Marori and Marind.
+Nouns are typically entities, such as krar ‘dog’ in (4.1a). However, they may also
+display other semantics like events such as para ‘hunting’ in (4.1b). They are the most
+common noun phrase heads and as such are typically marked for case. They may also
+be marked for number in the ergative case (§ 3.2).
+(4.1)a. krarya mo poi suruontne
+krar-ya
+dog.mo
+poi sw\ruontn/e
+wallaby there
+>3
+.
+\hunt.","[130, 131]"
+"148
+5.4.2.4
+NP-Valency and basic clausal syntax
+Experiencer-object
+i , NP-j , Uj -V-AiExperiencer-object constructions are a sub-type of the basic transitive construction with a largely idiomatic alignment of semantic roles. In these constructions the
+stimulus aligns with A, and is thus assigned ergative case and indexed with the actor
+suf ix. The experiencer aligns with O and is assigned absolutive case and is indexed
+with the undergoer pre ix. The verb used is otorui ‘to cut’ (5.29a). This verb is formally
+identical to the standard dynamic verb ‘to cut’ although with a different alignment to
+semantic roles.
+(5.29)a. yaru ngko btorunt
+yar-w
+sleep-ngko
+1 .b-toru-nt-ø
+1 U.
+-cut.","[175, 176]"
+"8.1.3 Distributed exponence in the literature
+The term exponence comes from Matthews (1972, 1974) in which it is used to refer
+to the relationship between in lectional content and in lectional material. The term
+is used to refer to any relationship between these elements in order to distance itself8.1. Distributed exponence in typological context289from the purely incremental relationship inherent to the concept of a morpheme. The
+term has been used in the post-Matthews tradition of word-and-paradigm models and
+in what has more recently become known as realisational approaches to morphology
+(Stump, 2001). Matthews (1974) introduced three types of complex exponence relationships: cumulative exponence, extended exponence and multiple exponence, all of
+which we discussed above.
+The term distributed exponence is not in common use but has been used in a few
+different, although related, ways. The way it is used in this thesis is the same as Caballero
+and Harris (2012). Their work is a typology of multiple exponence and whilst they
+recognise that distributed exponence is best treated as a speci ic subtype of multiple
+exponence, they exclude it from their typology, although they do provide an example
+of distributed exponence from Georgian. Schreiner and Stone (2015) use the term
+in their discussion of the exponence of a particular future modal form in Cherokee.
+Arka (2012) also uses the term in his discussion of the expression of dual in Marori, an
+unrelated but neighbouring language to Ngkolmpu. Dö hler (2016) in his grammar of
+Komnzo, a language related to Ngkolmpu, describes the same phenomenon under the
+term ‘distributed morphology’, note that he uses the term to describe what I am calling
+distributed exponence and not the theory of morphology with the same name. Evans
+(2015a) working on the more distantly related Nen, describes distributed exponence
+as ‘cross-paradigm uni ication’. Essentially, these are all the same phenomenon.
+Other authors have identi ied a number of other phenomena that are clearly related
+to but not identical to distributed exponence. Cable (2010), in an unpublished seminar paper, discussed a topic he calls radically discontinuous exponence in Na-Dene
+languages. Despite this paper being unpublished it has had some impact on the discussion of distributed exponence and is worth mentioning here. Cable de ines radically
+discontinuous exponence as a single feature expressed via a discontinuous sequence
+of units, none of which are individually the realisation of any identi iable in lectional
+feature. Functionally, this de inition would describe the set of phenomena that we are
+investigating under distributed exponence. The major point of departure is that Cable
+sees this as a subtype of discontinuous exponence, a phenomenon which is strictly embedded in a generative model of morphosyntax, in which syntactic heads, or rather the290Distributed exponence and parallel structuresfeatures associated with them, are expressed by discontinuous realisations counter to
+cross-linguistic expectations encoded within the generative framework.","[316, 317, 318]"
+"9.3.3 Actor suf ix
+The actor suf ix displays a level of complexity similar to the in lectional pre ixes, yet is
+organised along entirely different lines. The structure of the agreement features here
+are the complete opposite of what we have seen for the undergoer, both in terms of342(Sub)paradigmatic autonomyøDefaultntFuture durative and recent perfective V- inalroRecent perfective C- inalomoFuture-potentialngkPast-potential and remote perfective V- inalenRecent imperfectiverntRemote imperfective
+Table 9.8: TAM suf ixes
+SG1NSG2NSG3NSGdefaultøyeefutureøeieimefuture-potentialøyyyimperfectiveøeeerecent perfectiveøransransranspost-potential, remote perfectiveøaiaiaihodiernal past perfectiveymememehodiernal past durativeynsnsnsremote pastwaiaiaiTable 9.9: Full paradigm of actor suf ix forms.
+agreement and TAM. The agreement system in the actor suf ix is driven by number
+rather than person, as we saw for the undergoer. The TAM categories are very different, with a different set of disjunctive sets. In addition, TAM categories determine the
+agreement markers rather than the reverse we ind in undergoer pre ix. The complete
+set of forms, aligned into series, is presented in Table 9.9.
+Regarding the structure of the person and number feature of agreement for the actor suf ix there are two notable aspects. The irst is that for the majority of TAM features
+only number is marked. That is, actors typically only mark agreement for singular vs.
+non-singular and often to nor mark person. However, person may be marked in certain
+TAM values, in which case it is only marked in the non-singular. This is a rather unusual
+typological fact and has been discussed in previous chapters. For the TAM values which
+do mark person, there are two primary patterns of person agreement. The default se-9.3. Subparadigmatic structures343ries, as shown in Table 9.9, groups the second non-singular with the third non-singular.
+This is reminiscent of the structure we saw in the undergoer paradigm, except that in
+this case there is a number distinction in the third person. In addition to this, there
+are the future agreement markers. These are used for both future-irrealis and future
+potential. For this series the second non-singular is marked like the irst non-singular.
+There is no evidence for directionality in either of these; in the future TAM the second
+non-singular, which shares its exponent with the irst non-singular for this TAM value,
+is marked as per second person values on the cross-index marker. These appear to be
+cases of either underspeci ication or disjunctive exponence. Either way, the fact that
+they display distinct patterns for different TAM values makes the pattern markedly different from the undergoer pre ix structure.
+Important to note regarding the structure of agreement features in this site is that
+person here is dependent on number. This is the opposite pattern to what we saw
+in the undergoer, where number values are largely dependent on person and undergoer exponence can be reduced to a person system. Under an analysis which entails
+ordering constraints, in this in lectional site person should follow number. This is the
+opposite structure to what we would propose for both absolutive pronouns and the
+undergoer pre ix. Absolutive pronouns mark three persons and only make a number
+distinction in the irst person. Thus, any ordering constraints on person and number
+for the pronouns are the exact opposite to the actor suf ix, despite these frequently
+referring to the same referents. These three distinct types of organisation all show a
+level of morphological organisation, i.e. the feature structures of these paradigms, that
+is organised along autonomous lines.
+The TAM marking of the actor suf ixes is considerably more complex. There are a
+number of distinct categories, many of which indicate natural categories and others of
+which represent disjunctive exponents. I will not go through all the categories indicated by the actor suf ix as this was discussed at length in both Chapters 6 and 8. Instead, I will point out a few interesting notes about the architecture of the subparadigm
+regarding TAM. It is clear that person distinctions are only ever made in certain TAM
+values. This seems to suggest that person is dependent on TAM categories, and if modelled through ordered attribute paths, this would involve ordering person after TAM.","[369, 370, 371]"
+"8.1Distributed exponence in typological contextIn this section, I provide an explicit de inition of distributed exponence and place it
+within a more general typology of exponence. The notion of exponence, and thus distributed exponence, is strictly related to the domain of in lectional morphology (Stump,
+2001). However, I also take a more abstract de inition of distributed exponence in
+order to identify a number of analogous structures in other levels of the grammar in
+Ngkolmpu, speci ically in the syntax and semantics. The parameters of typological variation de ined in this section will be used to characterise the empirical discussion in the
+following sections. Before we de ine distributed exponence, it is necessary to establish
+a typology of exponence relationships.",[308]
+"9.1.1 Status of features
+It is common for morphosyntactic-semantic features to be constrained in various ways.
+These constraints might be semantic or at least semantically driven, such as the fact
+that perfective aspect in Ngkolmpu is incompatible with present tense as discussed in
+Section 6.3. Others may be arbitrary, i.e. speci ied in the grammar at some level, such
+as the fact that imperfective forms do not co-occur with non-past tenses.
+These particular constraints may provide evidence for a level of organisation within
+the features themselves. Various proposals abound in theoretical linguistics for the
+structure of features. However, it is the contention of this section that any such structure should be argued on empirical grounds. In (Stump, 2001) and (Stump, 2016), features are assumed to be lat structures and constraints on orthogonal features are handled through co-occurance restrictions, which simply stipulate any unavailable combinations. This will be assumed to the default case unless there is suf icient evidence for
+other types of feature structures. For an overview of other types of feature structures
+see Corbett (2012). These may involve hierarchies of feature structure or describing
+features in terms of types as in HPSG (Sag, Wasow, & Bender, 2003). In (Brown & Hip-9.1. A model of in lection329pisley, 2012) features are described as ordered attribute paths in which certain features are dependent on other features. The empirical motivations for such a structure
+are discussed in Section 9.2; it is important to note here that these involve a sort of
+inherent typing, since features are dependent on other features.
+A logical consequence of having a level of morphological organisation that is distinct from the syntax-semantics is that feature organisation may also be distinct. Thus,
+even if there is evidence for a certain type of feature structure in the syntax or semantics this might not necessarily be re lected in the morphology. Largely we would assume that these would display similar types of organisation, however this would be an
+interesting avenue of investigation to con irm this empirically. Ngkolmpu does display
+some evidence for distinct feature structures in the syntax-semantics and morphology
+in which the features of person and number in agreement and pronouns each show
+different ordering restrictions between them.","[356, 357]"
+"1.1. The language and its speakersLanguageVarietyShibboleth NameVillageEst. No. SpeakersNgkolmpuNgkontarNgkntra KikiYanggandur150BaediNgkanter KikiOnggaya~10SmerkyNggernca TunaiRawa Biru150TomerauunknownTomerunknownSmerkyNgarnaTaemrNggontia KikiYanggandur100BarkariunknownRawa Biru/Yakiwunknown ~50NgarnaNgarna KikiSota807Table 1.1: The Kanum languages
+the word for ‘this type’ and the word for ‘speak’, ‘word’ or ‘language’. The Ngarna variety is only known by its shibboleth form, although it is also referred to as Sota Kanum,
+after the village name. I did not collect data regarding the Barkari shibboleth name.
+The speaker estimates are based on conversations with village administrators, for the
+villages of Yanggandur and Rawa Biru. The numbers marked with a tilde (~) are estimates based on reports from speakers. I have not visited nor have accurate reports to
+assess the language situation in Tomer and Tomerau.","[34, 35]"
+"‘The bag is inside the house.’
+There are few verbs for which this derivation are not synchronically systematic and
+must be memorised (5.55).
+(5.55)a. piengku pr iko
+piengku pr y-ko-ø
+3 .
+tree 3U-stand- .A
+‘He stands the log up.’
+b. pi ikn
+pr y-kn
+tree 3U-be.standing.
+‘The log is standing.’166Valency and basic clausal syntaxLemmaTranslationLemmaTranslationoamnagkai‘to request’orei‘to rip’oblnei‘to smash’oreyai‘to bury (dead)’obsukai‘to lift’oriai‘to unwrap
+ceremonial food’oitbrei‘to separate’oriarai‘to funerate’okai‘to ask’orikoi‘to lay out’okai‘to cry’orirai‘to weave’okakoi‘to tie’orkoi‘to unfasten’okemkai‘to close’orkoi‘to pick fruit’okerei‘to return’ormangkei‘to dry ’okewai‘to break’ormingkai‘to wear a weapon’okonai‘to stand’ormiturai‘to pull’okorai‘to divide’orncrai‘to chew’okrai‘to pile’orntoi‘to peel off’okrkai‘to steal’oroi‘to hide’olaknai‘to break apart’orpakui‘to scatter, spread’olapinai‘to hug’orpenai‘to ready’olengkai‘to roll over’orpitui‘to untie’olewei‘to scrub’orpongkai‘to cover’olibungkai‘to wash’orpunai‘to cut into two’olilmongkai‘to loosen’ortai‘to destroy’olimplai‘to pour’ortai‘to pound’olkusikai‘to glimmer’ortinngkai‘to clean’5.6. Alternation classesolmplaei‘to fetch water’orui‘to plant’olmputokai‘to sink’oruntnai‘to hunt’olmulai‘to get down’oruskoi‘to admit’olngkolai‘to stab’osamingkei‘to school’olokai‘to make ire’osiprai‘to undress’olpukai‘to grow’osoi‘to mince’olusi‘to arrange’osoi‘to slice’olusy‘to blow’osui‘to fold’omakrai‘to burn, cook’otarai‘to cut’omangkai‘to hold’otimpitrai‘to cover’omarentnai‘to circumnavigate’otnmngkai‘to tie’omarngkai‘to marry’otnongkai‘to writework’ombtibai‘to stop’otrbrai‘to share’omei‘to put out’otripinai‘to scratch’omerkntnai‘to follow’otroi‘to dig’omibnai‘to roll up’otrrai‘to tear’ominsrai‘to extend’otryai‘to scatch itch’omirintei‘to peel’otukoi‘to move’omkui‘to gather’otwarai‘to rub’omonsai‘to assemble’owaki‘to plant’ompangkai‘to push out’owakinai‘to build’ompaturai‘to ly, jump’owaloi‘to do, make’omplaei‘to hit’owamprai‘to fall’omtrai‘to sleep’owanai‘to think’167168Valency and basic clausal syntaxomulantnai‘to stir’owantokoi‘to enter’onaempunai‘to grate’oweikai‘to fear’onakyai‘to lift up’owertao‘to burn’oncrekai‘to wake’oworai‘to fell tree’onekutrai‘to kick’owortnai‘to prepare festival’ongkinai‘to slip’owowongkai‘to nest’onongkui‘to heap’owowturai‘to get’onowai‘to distribute’owrei‘to ish w/net’onowai‘to shoot’owrekai‘to lift from water’onsiurai‘to enter water’owsenai‘to ascend’onsuknai‘to pack up’owurai‘to bite’operai‘to put together’oyanai‘to eat meat’opinoi‘to touch’oyapongkai‘to encircle’oprmangkai‘to repair’oyerai‘to say’opsai‘to count’oylmpawulai‘to open’opuknai‘to wrap’oyopoi‘to rub up’orai‘to work’oyrai‘to chew betel’orampukai‘to inish fasting’oyrwai‘to heat up’okaingkai‘to block’Table 5.6: Table of omnivalent lemmas (class 2)5.6. Alternation classesLemmaTranslationLemmaTranslationatunaengk‘to agree’arnaro‘to know (or
+person or fact)’ontongk‘to bring’akr‘to mention’arwar‘to call’ure‘to remove’iko‘to close up’onimpatr‘to shine’ayakntn‘to crawl’oysentn‘to run’eruk‘to desire’owko‘to see’antoko‘to dress’anwantk‘to smell’owne‘to drink’ula‘to so’ominngk‘to eat’eyekntn‘to stalk ’aintakn‘to latter’aleka‘to start’artib‘to inish’oyer‘to talk’omr‘to hear’okre‘to throw out’awo‘to make’ibent‘to tell’aemura‘to nod’owal‘to unite’armpa‘to prevent’anto‘to wait’aempl‘to play, laugh at’anto‘to watch’aetnangk‘to order’Table 5.7: Table of ambivalent lemmas (class 3)169Chapter 6Verb morphology
+This chapter is a description of the morphological structure of verbs in Ngkolmpu, including both lexical and in lectional morphology. It sets out the internal structure of
+all verbs in the language and lists all the af ixal material for each in lectional site. It establishes all the morphological structure of verbs except for stems which are handled
+in Chapter 7. The morphological material discussed in this chapter serves to establish
+verbs as a word class on morphological grounds.
+Verbs are by far the most morphological complex elements in the language with
+paradigms characterised by an extensive tendency to distribute the exponence of tense,
+aspect and mood categories across multiple in lectional sites on the verb including
+fused with agreement markers. Verbal paradigms are large and verbs are marked for
+agreement with up to two arguments, direction, diathesis and verbal number.
+Verbs are classi ied into morphological classes based on their indexing, as either
+pre ixing or ambi ixing (5.6). The set of morphosyntactic and morphosyntactic features relevant for describing verbs are listed in Section 6.3. These features serve as the
+basis for the more theoretical discussion in later chapters and are expanded upon in
+Chapter 9. The bulk of this chapter is dedicated to describing the distribution of the
+various morphological forms at each given morphological locus (6.4). These morphological loci comprise three primary in lectional sites and two lexical pre ixes. Verbs
+are also characterised by a complex system of stem alternation that interacts with the
+in lection; this topic is held off until Chapter 7.
+171172Verb morphologyThe examples in this chapter are taken from both elicitation and naturalistic data
+in order to make the particular relevant forms as explicit as possible. Naturalistic data
+is primarily used in establishing the semantics of the categories. However, when discussing structural and paradigmatic aspects of the verb much of the data comes from
+paradigm elicitation. Thus, for the bulk of this chapter elicited data is used.","[193, 194, 195, 196, 197, 198, 199, 200]"
+"4.1Word classesBoth nominals and demonstratives may be morphologically categorised as any word
+which may be marked for case. Syntactically, nominals are any elements which head
+a nominal phrase, either nominal phrases or determiner phrases. The primary distinction is between determiners, which only head determiner phrases, and all other
+nominals, which may head the nominal phrase. The full list of relevant word classes is
+as follows:
+• Nominals
+– Nouns
+– Adjectives
+– Numerals/Quanti iers
+• Determiners
+– Demonstratives
+– Pronouns
+Demonstratives and pronouns are treated as subclasses of the larger group of determiners since they have the same syntactic distribution. A discussion of the distinction between pronouns and demonstratives is in Section 4.1.4. There are no articles in
+Ngkolmpu.",[130]
+"Content paradigm schema(V) = {
+TENSE:{fut/pres/hod/rct/rmt}
+ASP:{dur/ipfv/pfv}
+MOD:{real/irr/pot/imp}
+AGR(A):{1/2/3 sg/nsg}
+AGR(U):{((1/2 sg/nsg)/(3 sg fem/masc)/(3 nsg))}
+PLUR:{npl/pl}
+}Content paradigm schema(V pre) = {
+TENSE:{fut/pres/hod/rct/rmt}
+ASP:{dur/ipfv}
+MOD:{real/irr/pot/imp}
+AGR(U):{((1/2 sg/nsg)/(3 sg fem/masc)/(3 nsg))}
+PLUR:{npl/pl}
+}Disallow = {
+(ASP:{ipfv} TENSE:{fut/pres/hod})/(ASP:{pfv} TENSE:{pres}) /
+(MOD:{imp/irr} TENSE:{pres/hod/rct/rmt} ) /B.2. Stems and lexical entries399(MOD:{real} TENSE:{fut}) /
+(MOD:{pot} TENSE:{prs/hod/rct}) /
+(MOD:{pot} TENSE:{rmt} ASP:{pfv/ipfv}) /
+(AGR(A):{1} AGR(U):{1}) /
+(AGR(A):{2} AGR(U):{2}) /
+(PLUR:{pl} ASP:{pfv})
+}B.2Stems and lexical entriesThe following are the set of lexical entries which serve as exemplar; these include both
+ambi ixing verbs and pre ixing verbs. In the ambi ixing verbs, we have a verb with a
+single pan-aspectual stem along with verbs which display one, two and three stems
+as discussed in Section 7.1. There is a single pre ixing verb from the positional class.
+Verbs have been selected in order to have stems ending in both vowels and consonants
+as discussed in Section 6.8.
+Lexical entries contain four lines: the label, represented here by the in initive in
+CAPS, the semantics, the syntactic category and the in lectional class. The meaning is
+provided only for the sake of clarity and memory but it is not used by the model.","[426, 427]"
+".eser
+four116Nominal syntax4.2.3 Numeral/quanti ied position
+Nominal phrases may contain a single numeral, such as naempr ‘one’ or yempoka ‘two’
+(4.22a), or the quanti ier (4.22b) which modi ies the head of the nominal phrase. These
+cannot co-occur. The order of the numeral/quanti ier element is ixed within the nominal phrase.
+(4.22)a. otroit mito ye pi, naempr konsopor, yempoka konsoper yow yerar
+ortoi-t
+mi=to
+ye
+dig. =
+3.
+konsopor yow yrar
+day
+3.
+.
+.pi,naempr konsopor, yempoka
+, one
+day,
+two‘That digging is for one day only, not two days.’ [20140205-KCD-JGGardening 050]
+b. yimpurmpurt potar kara ngkei omansi payat
+yimpurmpurt potar kara
+ngkei o\mans/i
+all
+village community here
+.
+.
+paya-t
+work-\gather.","[143, 144]"
+"6.1How to read this chapterThis chapter provides the descriptive backbone of the remainder of the thesis. Primarily, the chapter concerns itself with establishing the set of relevant information required to in lect a verb, i.e, in lectional classes, features, the in lectional template and
+the set of forms that populate each of the in lectional sites.
+As mentioned in Chapter 1, Ngkolmpu is notable for the way feature values are distributed across the in lectional sites of verbs. This means that the realisation of individual feature values is typically complex involving multiple af ixal elements, each of
+which is required to provide a precise interpretation of the in lected verb; This phenomenon is known as distributed exponence (Caballero & Harris, 2012, p. 170). Consider the paradigm in Table 6.1. These are the forms of second singular acting on third
+person across TAM for the verb opinoi ‘to touch’. Given this paradigm, it is dif icult to
+precisely state what the realisation of any given category is. To illustrate, in order to
+state what the realisation of future-irrealis, one is resorted to saying that this category
+realised by the combination of the s-, i.e. β, pre ix and either two zero suf ixes or a nt
+suf ix and the zero suf ix. Note that the complexity of this description increases once
+agreement features are considered as well.
+Given these facts, it is often dif icult to provide a inventory of realisations for each
+category as one might often ind in a typical descriptive grammar. Instead, this chapter
+will focus on providing the reader with the set of information required to in lect a verb
+and a discussion of the semantics of each category. However, the reader will have to
+wait until Chapter 8 for a more synthetic approach in which the particular realisations
+of features combinations are presented.
+In order to properly in lect a verb in Ngkolmpu, one needs to know both its in lec-6.2. Overview of morphological classesPerfectiveDurativeFuture Potentials-pino-ø-omo-øs-pino-nt-omo-øImperative-Hortatives-pino-ø-øs-pino-nt-øFuture-Irrealiss-pino-ø-øs-pino-nt-øPresent173Imperfectivey-pino-ø-øHodiernal Pasts-pino-ø-yy-pino-ø-yRecent Pasts-pino-nt(ro)-øsw-pino-ø-øRemote Pasts-pino-ngk-øy-pino-ø-wPast-Potentialy-pino-en-ø
+sw-pino-rnt-øy-pino-ngk-øTable 6.1: Paradigm of 2 >3 forms of opinoi ‘to touch’
+tional class and the set of features that the verb will in lect form. In lectional classes
+are established Section 6.2. In lectional features are introduced in Section 6.3. In these
+sections, the reader will not be assumed to understand the precise realisation of these
+features; instead examples are provided to illustrate facts regarding the semantics and
+distribution of the various relevant categories.
+The remainder of the chapter involves cataloguing the forms that populate each of
+the in lectional sites in Ngkolmpu. Each in lectional site is introduced and listed. Then,
+each of the individual elements are discussed for each in lectional site. This will then be
+supplemented by the information provided on stems in the Chapter ?? and synthesised
+in a theory-informed description in Part II of this thesis.","[200, 201]"
+".\write.work.brar
+paya
+garden work‘We could make anything, with garden work’ [20120930-KCD-KD-BeforeStory 057]70Nominal morphology3.2CaseThere are 12 cases in total including the absolutive which has no overt marking. On
+nouns, number is only marked in the ergative. On pronouns and demonstratives number is marked more extensively. The cases are exempli ied for the word krar ‘dog’ in
+Table 3.1. Nominal morphology in Ngkolmpu displays little allomorphy beyond the
+general morphophonological alternations discussed in Section 2.5.
+The cases forms are presented for the word krar ‘dog’ in Table 3.1. There are some
+interesting syncretisms that occur within this paradigm. These include the possessive
+and the dative sharing the form /-en/ and the comitative and the purposive sharing
+the form /-t/. This syncretism is further complicated by the fact that these cases share
+a form with distinct meanings across semantic domains. Both the possessive and the
+comitative are strictly adnominal cases whilst the dative and the purposive are relational. One tempting analysis would be to treat these as just two cases: the possessive/dative and the comitative/purposive. However, these are separate forms in the
+pronoun and demonstrative paradigms. As such I treat them here as distinct cases.
+CaseEndingExampleAbsolutiveØkrarErgative SG-wkrar-wErgative NSG-yakrar-yaDative-enkrar-enPossessive-enkrar-enInstrumental-nmkrar-nmCausal-wakrar-waComitative-tkrar-tPurposive-tkrar-tAssociative-wikrar-wiLocative-nikrar-niAblative-mpakrar-mpaAllative-ngkekrar-ngkeTable 3.1: Cases exempli ied for krar ‘dog’3.2. Case713.2.1 The case functions
+Cases in Ngkolmpu may be classi ied as either grammatical or semantic, following Blake
+(2001). Grammatical cases are de ined by being assigned to syntactic roles rather than
+simply projecting semantic roles. Syntactic roles are de ined according to numerical
+valence as either S, A or O1 as per Bickel (2010) (5.3.2). Semantic cases are realised
+based on their alignment to purely semantic roles. Semantic roles are always encoded
+through the appropriate case, regardless of their syntactic role. For example, the dative case which marks semantic recipients regardless of whether the syntactic context
+treats the nominal constituent as an argument in a given construction. For a discussion
+of the semantic role of the dative see Section 3.2.3.1.
+The semantic cases in Ngkolmpu are classi ied as serving adnominal, relational or
+subordinating functions. The analysis here is similar to what has been argued for Australian languages in Dench and Evans (1988).2 The adnominal function is used to relate nominal constituents at the level of the noun phrase, i.e. marking a single noun
+phrase as adjoined to another noun phrase forming a single constituent. For example,
+the comitative cause marks one nominal as being related to another nominal element
+as in (3.11)
+(3.11) krar pi kwrt teimeri mwampa
+krar pi
+dog
+.kwr-t
+pig-t\eimer/i
+. .
+.mwa-mpa
+\exit/ house-‘The dog and the pig left the house. (The dog left the house with the pig).’
+The relational function marks constituents as related at the level of the clause. The
+relational role represents the prototypical function of case and covers what are often
+known as core and oblique roles (Andrews, 2007a) although such a distinction is not
+made in this thesis. In (3.12), the instrumental case serves to indicate that the noun,
+mpaeswm ‘axe’, is related the entire clause with the semantics of ‘instrument.’
+1Only S, A and O are required for describing case marking. S, A, O and R are required for describing
+verbal agreement as discussed in Chapter 5.
+2
+I have used the term subordinating instead of complementising as I feel it is more accurate.","[97, 98, 99]"
+"3.1.1 In initive
+In initive constructions are very common in Ngkolmpu. In these constructions the ininitive form of the verb functions as a noun. As such, it in lects for case as relevant
+for that construction. In initives may participate in all the standard constructions that
+nouns may, as discussed in Chapter 4, however they display a slightly larger distribution than basic nouns as they also occur in cognate-object constructions (§ 5.4.2.1).
+In initives also serve as citation forms of verbs. In initives are a common feature of
+Yam languages and discussed for Nen in Evans (2015a).
+The in initive is formed from the extended stem of the verb (§ 7.1) and the in initive
+af ixation. The in initive morphology consists of a circum ix which entails a suf ix /-ai/
+(3.1a) or /-i/ if the verb stem ends with a vowel. If the verb stem starts with a consonant, a pre ix also occurs. This pre ix is orthographically represented as <o> (3.1b) and
+phonetically varies between [ɐ] and [ɔ] in harmony with the backness and roundness3.1. Nominal formation, derivation and other nominal morphology65of the irst vowel of the verb stem. It is typically quite short and always unstressed.
+(3.1)a. esemingkai mwa ksetnont ngkeye
+esemingk-ai mwa k=s\tnont/
+learnhouse
+=3. .\ ine.work.ngke=ye
+=3.","[92, 93]"
+"-..give.naempr-w naempr-en
+one. one-se
+‘One gives and one receives.’ [20141108-KCD-YG-CassowaryStory 031]4.1.4 Determiners
+The determiner is the head of the determiner phrase. It is phrase inal in the default
+ordering of elements determiner phrases. Determiners and pronouns are marked for4.1. Word classes107case along with the head of the nominal phrase. It is always marked for the same case
+as the nominal head it occurs with. Many of the distal forms of demonstratives and
+third person pronouns are similar or identical and at times it is dif icult to determine
+whether an element is a demonstrative or a pronoun. Demonstratives may also indicate
+information structure. Topic or given information may be indicated on the demonstrative through a proclitic e= which attaches to the standard demonstrative. There is also
+a focus demonstrative which displays different syntactic behaviour from the standard
+demonstrative. Section 3.3.4 in the previous chapter contains a detailed discussion of
+the form and function of demonstratives and pronouns. In this section, I focus only on
+their syntactic behaviour.","[134, 135]"
+"‘I went from here on my bike.’ [20130820-KCD-JG-YonasFishing 003]
+The instrumental case is also used when talking about expressing concepts in different languages. In this way the particular language is the instrument used to express
+something. The example in (3.26) has the speaker commenting on the fact that the
+cassava crackers are called ‘tape’ in Javanese.
+(3.26) jawa kikinm ye pi tape
+jawa kiki-nm
+java speak-ye
+3.pi
+.tape
+crackerIn Javanese it is (called) ’tape’ (cassava crackers). [20120928-KCD-ML-CookingVideo
+005]
+The second most common use of the instrumental is to mark temporal adjuncts.
+These may be a simple noun (3.27a) optionally followed by the word kongko ‘sun, time,
+day’ (3.27b).
+(3.27)a. yekinm kaewit moro kwan
+yeki-nm
+morning-kaewi-t
+hunting-moro kw\an/
+.
+.",[107]
+"‘Matt, those are our customs.’ [20131009-KCD-KD-AdatVideoVoiceover
+127]
+The remaining deictic category is used when the location of the object is unknown.
+Usually, the nominal referent is out of sight and not experienced, in this way the ignorative demonstrative also represents a sort of modality marking and speakers typically
+translate it with the Indonesian word mungkin meaning ‘maybe’. In the examples in
+(4.13), the modality only has scope over the entity and not the action. In my corpus,
+I have no examples of this form having scope of over the event, although I have only a
+limited number of examples of this form.
+(4.13)a. mpito mpoi yerar
+mpito mpoi
+rat
+.yrar
+3.
+.",[136]
+"1.5Outline of thesisThis thesis is divided into two distinct sections which will naturally appeal to different
+readers. However, the typological and theoretical discussions of the second section are
+presented in such a way to be general interest to all linguists.
+The irst section contains a description of the language’s phonology, morphology
+and nominal and clausal syntax. Complex clause structure is not a particularly prominent feature of the language generally however some aspects are discussed Chapters 3
+and 8.
+Chapter 2 contains the description of the phonology. It sets out the phonemic inventory of the language and lists their distribution and phonetic realisations. It establishes a set of phonotactic constraints and describes the system of epenthesis and
+morphophonological process. It also contains a discussion of the orthography.
+Chapter 3 is a description of the nominal morphology of the language. It largely
+focuses both on noun formation, which is rather scarce, and the elaborate in lectional
+case system including two grammatical cases and ten semantic cases. This chapter also
+lists the forms of the various pronoun and demonstrative elements.
+Chapter 4 establishes the word class of nominals and its subclasses. It also lists all
+nominal constructions. Nominal constructions display a number of interesting features
+including discontiguity in response to various information structure contexts.
+Chapter 5 sets out the various valency-related constructions in the language. These
+are the most prominent element of clause-level syntax in the language and many verbs24Introductionhave corresponding alternates between a number of constructions. The chapter also
+organises the set of lemmas into classes based on the distribution of lexemes over valency constructions. In addition, it describes the syntax and semantics of valence alternations.
+Chapter 6 describes the morphological structure of verbs, both lexical and in lectional, although it leaves stems until Chapter 7. Verbs are classi ied into classes based
+on their in lection locus, as either pre ixing or ambi ixing. Each of these classes is broken down into a number of in lectional sites based on the distribution of in lectional
+material and each of these sites is listed in turn.
+Chapter 7 describes the distribution of verb stems. Verbs may have up to three
+stems which alternate according to a complex interaction of aspect and verbal number. This chapter sets out each of these categories and demonstrates the categorical
+independence of aspect, verbal number and nominal number. It also examines the status of these features as either lexical or in lectional.
+The second section is an exploration of the phenomena of distributed exponence
+and its related structures in other levels of the grammar.
+Chapter 8 provides an explicit description of the distributed exponence of the locality and extent that in lectional, syntactic and semantic features are distributed across
+systems in Ngkolmpu. The chapter also frames this discussion within the existing literature on morphological complexity.
+Chapter 9 is an explicit description of the in lectional morphology of verbs, with
+distributed exponence in mind. Most signi icantly, this description is completed in line
+with the theoretical tradition of realisational morphology. Its goal is to explore the
+impact this phenomena has on current thinking about the structure of morphology
+and it argues for a level of morphological autonomy at each point of in lection, i.e. the
+subparadigm.","[51, 52]"
+"‘From there I cut it (pointing at the spine).’ [20121002-KCD-JG-CassowaryStory 028]
+The ablative can also be used for sources (3.43). In this example the speaker recalls
+eating meat from the tail of the animal. The irst verb kwominngk is the generic verb
+for ‘to eat’ but this is then clari ied with the speci ic word for eating meat, swan.
+(3.43) kwominngk pekumpa, swan
+kw\ominngk/
+peku-mpa sw\an/
+. .
+.
+\eat tail>3.
+.\eat.meat‘I ate the meat from the tail.’ [20120924-KCD-KD-FishingStory 007]
+The ablative can also be used for non-location sources (3.44). In this example the
+speaker is discussing a type of arrow with a round head designed for hunting birds.
+The ablative is used to clarify that the object was made from stone and would be hung
+(on the belt) for a hunting trip.
+(3.44) mlaempa surarrnt pi, ktormiru
+mlae-mpa sw\rar/rnt
+stone3.
+.
+\.pi
+3.k=to\mir/u
+=
+. .",[115]
+"350ReferencesDixon, R. (1977). Where have all the adjectives gone? Studies in Language, 1(1),
+19-80.
+Dixon, R. (1979). Ergativity. Language, 55, 59-138.
+Donohue, M. (2008a). Complexities with restricted numeral systems. Language Typology(12), 423-429.
+Donohue, M. (2008b). Semantic alignment systems: what’s what, and what’s not. In
+M. Donohue & S. Wichman (Eds.), The typology of semantic alignment. Oxford: Oxford
+University Press.
+Donohue, M. (2009). Syllables, morae and vowels in Kanum. In Seminar, department
+of linguistics, research school of paci ic and asian studies, australian national university.
+Donohue, M. (2011). Case and con igurationality: scambling or mappying? Morphology(21), 499-513.
+Donohue, M. (2015). Morphological opacity: Rules of referral in Kanum verbs. In
+M. Baerman, D. Brown, & Cor (Eds.), Understanding and measuring morphological
+complexity. Oxford: Oxford University Press.
+Donohue, M., Hetherington, R., McElvenny, J., & Dawson, V. (n.d.). World phonotactics database.","[377, 378]"
+"‘The dogs hunted wallaby’ [20130820-KCD-JG-YonasFishing 006]
+The ergative case is not restricted to human sentient agents but rather the ‘most
+agentive argument’ of the clause or the affector. It can be used to mark the stimulus
+arguments of experiencer-object constructions (3.18). See Section 5.4.2.4 for more information.
+(3.18) yaru ngko btorunt
+yar-w
+sleep- .ngko
+1 .b\toru/nt
+>1 .
+.\cut.",[103]
+"Ngkolmpu
+Ngkolmpu‘Long ago, the Ngkolmpu community lived simply.’ (lit. lived not excessively) [20120930-KCD-KD-BeforeStory 006]
+This class is common to Yam family languages. In other Yam languages it has been
+characterised as displaying predominantly stative semantics (Evans, 2015a). This is
+less predominant in Ngkolmpu and represents only about half of the words in this class
+(See Chapter 5 for a more detailed discussion of this). The verbs of this morphological
+class include positional verbs, which are a closed set of 10 verbs, many of which are
+derived from active verbs of placement, and the copula, all of which are stative. But this
+class also consists of a number of dynamic verbs including the verbs for walk, stand up,
+ly, jump, search, die and arrive. The copula has some particularly irregular forms and
+is discussed in Section 6.9.
+These verbs occur with a more restricted set of the in lectional markings discussed
+in Section 6.4. They do not occur with middle marking nor may they occur with the
+diathetic pre ix. These verbs do occur with actor suf ixes for most tense, aspect and
+mood values, except for those actor suf ixes which indicate TAM in the singular. In
+these cases the actor suf ix indicates TAM features only.",[204]
+"‘Markus felled the tree for me.’
+The single diathetic pre ix for all non-canonically transitive verbs is a common feature of the Tonda subgroup languages. This is contrasted with the Nambu languages
+in which there are distinct valency increasing and decreasing markers (Evans, 2015b)
+(Siegel, 2015). Arguably, this was a distinction made in the protolanguage that has
+been lost in Tonda.
+As stated, ambi ixing verbs which have stems which commence with a vowel may
+not occur with the diathetic pre ix. Interestingly, the majority of vowels in this position similarly harmonise with the following vowel in the stem. This suggests that these
+vowels are fossilised diathetic pre ixes inherent to the stem. Another point of interest is that these verbs cannot participate in the benefactive applicative construction.
+This would potentially suggest that they lack a true transitive form and have a inherent benefactive reading as a transitive verb. This is a tempting argument when you
+consider examples like (6.29).
+(6.29)a. Markus eibentei teibenti
+Markus eibent-ei t-eibent-y
+Markus tell.β-tell- .A.
+‘Markus told a story.’ (earlier today)
+b. Markus Jon yeibenti
+Markus Jon y-eibent-y
+Markus Jon 3.α.U-tell- .A.
+‘Markus told John.’ (earlier today)Example (6.29a) shows the verb eibentei ‘to tell’ as a middle verb. In this example,
+the middle verb participates in the cognate object construction (§ 5.4.2.1), whilst in
+example (6.29b) the verb is transitive. One possible analysis would suggest that vowel
+initial verb stems have an inherent benefactive or recipient reading to them. So that198Verb morphologyhaving a vowel initial stem and undergoer agreement as in (6.29b) aligns the undergoer with a recipient. These verbs would then simply lack any corresponding consonant initial transitive form. This would unify the structure in (6.29b) with the applicative constructions. However, this analysis is less convincing when you consider other
+verbs with an inherent vowel that are closer to prototypical transitive verbs, i.e. ‘to put’,
+’to put out’. These same verbs do not have recipient undergoers in their corresponding
+bivalent construction (6.30) rather their undergoers are themes. Thus, a simpler analysis suggests that these forms simply have an embedded vowel that ills the diathetic
+slot but which no longer serves to indicate diathesis. Middle verbs are possible since
+they take a different pre ix in the undergoer slot and are still distinguishable, however
+applicatives would be formally indistinguishable from the transitive form since they
+take the same undergoer marker and therefore are not possible.
+(6.30) mpai sento pi teimer mwampa
+mpai
+2 .sento pi
+bird.t-eimer-ø
+.β.U-put.out.
+3 .","[225, 226]"
+".\split.pne
+.kiki
+language‘At that time, the language split up.’ [20120930-KCD-KD-BeforeStory
+042]4.3.3 Donohue (2011) and con igurationality in Kanum/Ngkolmpu
+Donohue (2011) described Kanum, i.e. Ngkolmpu, as displaying non-con igurational
+noun phrases. In that paper, he describes a system in which noun phrases that are4.3. Information structure and nominal syntax125marked for morphological case, i.e. non-absolutive cases, may be scrambled so that
+each element may occur discontiguous from all other elements of the phrase. When
+scrambled, each element of the noun phrase is marked for case as seen in (4.35) taken
+directly from Donohue (2011). This example has been transliterated into the orthography used in this chapter.
+(4.35) ntopu mo piengku sreyerknt iryew
+ntop-w
+big- .mo
+piengku sr\eyerk/nt
+wallaby 3 .
+>3.
+.
+\stalk.irye-w
+man-‘The big man will stalk a wallaby.’ (Donohue, 2011)
+This is quite different from the description presented above and when I presented
+this sentence to speakers of the language, they unanimously rejected it. However, if the
+word iryew is removed, then the sentence is grammatical. I will not go into the details
+of Donohue’s analysis here since the distinction between the two descriptions is one
+of data rather than analysis; rather I will only point out some key differences in the
+two data sets. It is important to note, however, that Donohue’s paper, whilst published
+recently, is based on data taken from ieldwork conducted in 1996. So this could be
+viewed as a change in progress.
+As we have seen in this chapter, nominal constructions only appear to be discontiguous from their demonstrative under distinct constructions and nominal phrase elements may not be discontiguous with other elements of the nominal phrase. In my
+entire corpus, including both naturalistic texts and targeted elicitation sessions, there
+are no examples of the type of discontiguous nominal construction as in (4.35). However, it is worth noting that example (4.35) would be perfectly acceptable if the element
+ireyew, ‘man.’, was removed from the utterance. The other distinguishing aspectrelevant here is that I have no examples of case being marked on multiple elements of
+the nominal phrase besides the head and the determiner; we only ever see case marking on the demonstrative and the head nominal.","[152, 153]"
+"344(Sub)paradigmatic autonomyThis is in direct contrast to what has been discussed for the undergoer pre ix. However,
+we should also see that most TAM distinctions are only made in the non-singular. This
+suggests that TAM distinctions are also dependent on number. This would place an
+ordered attribute path as per (9.9). This is a rather unusual ordering for features however it is supported by the data. Overall, we have a very different type of organisation
+in the actor suf ix than we have seen in any other part of the grammar.
+(9.9) number » TAM2 » person9.4Subparadigmatic autonomyWe have seen that each in lectional site is characterised by a different pattern of morphological organisation. The in lectional pre ixes and the actor suf ix each are governed by a series of complex morphomic structures whilst the TAM suf ix is largely a
+matter of direct in lection. However, the pre ixes and the actor suf ix differ from each
+other drastically. The in lectional pre ixes are governed by high-level directional syncretisms that rearrange non-singular forms to derive a system which marks both person and number out of a system that otherwise only marks person values. The actor
+suf ix, on the other hand, is primarily organised around number distinction with person values being less prominent than both number and person features of the suf ix.
+The implication of this beyond the current study suggests that autonomous morphological structures may be uniquely localised to any single point in the in lection of
+a system. The important clari ication is that this morphological structure will not be
+replicated in other parts of the morphology of the language. Considering our model of
+morphology presented in Section 9.1, what this suggests is that the morphosyntacticsemantic features may be mapped to morphological structure uniquely for different
+lexemes and, crucially to our point, in lectional sites. This suggests that there are multiple points in the morphology which interface directly with the syntax-semantics.
+In Paradigm-Function Morphology the mapping of morphosyntactic / semantic features to morphological structure is handled through property mappings within the
+2I am not going into the ordering of TAM features at this point since it is not necessary for the argumentation.","[371, 372]"
+"- .A‘Markus was stumbling.’ (yesterday)6.7.2 Cross-indexing agreement
+Immediately following the undergoer agreement is another agreement marker, the
+cross-index agreement marker. This marker is distinct from the undergoer group. This224Verb morphologyis an unusual element of the Ngkolmpu verb that is sensitive to combinations of both
+arguments simultaneously when occurring in bivalent or trivalent constructions. This
+fact motivates the name cross-indexing marker since it marks both arguments. It can
+also occur in monovalent clauses in which it is only sensitive to a single argument. It
+takes the form r and occurs with future tenses when the actor is not second person and
+the undergoer is neither second person singular nor irst person non-singular.
+In Chapter 9, I argue that the syncretisms in the agreement forms in the undergoer
+paradigm are the result of directional rules of referral. In these rules, the irst nonsingular undergoer refers to the second person and the second person non-singular in
+fact refers to the third person. Under such an analysis the cross-indexer is actually a
+non-second person marker, or a 1/3 person marker, and makes no reference to number.
+However, the goal of this chapter is a pre-theoretical analysis and as such I will not
+assume the directional analysis in the description for this chapter in order to retain
+the surface detail of the data in the presentation.
+As stated, the cross-index marker marks all future tenses in durative and perfective
+aspects in addition to its cross-indexing function. Example (6.71) shows it occurring
+in future-irrealis.
+(6.71)a. Markusu Jon srmerknt
+Markus-w
+Markus- .","[251, 252]"
+"CaseAgreementSubordinateRelativeFigure 8.16: Comparison of grammatical shapesIntegrated322Distributed exponence and parallel structures8.5Parallels between domains of distributionWe have shown that there are common elements to the morphosyntactic1 domains of
+distribution discussed in this chapter. In each case, there is a single set of categories,
+either features or grammatical relations, which make reference to a number of morphosyntactic resources. In the case of TAM, it is the subparadigms of the undergoer preix and the two suf ixes. In the case of person and number, it is pronouns and agreement markers. In the case of syntactic roles, it is case marking, agreement alignment
+and interclausal syntactic constructions. Common to each example, any given resource
+collapses the set of categories/features into smaller, more abstract units. These units
+may be motivated in some regards, i.e. semantically or through feature structure, or
+they may not. Regardless, it is clear that each site reduces the number of formal distinctions to be made, which are contrast against the other subsystems.
+Notions of distributed exponence and syntactically split systems are common in
+languages of the world. However, Ngkolmpu is signi icant in this regard in the extent
+to which morphosyntactic resources do not align. From a broad perspective this shows
+us, as linguists, that we cannot assume any systems in any given language to necessarily align at any given level. We frequently ind reference to languages as being ergative
+languages (Farrell, 2005, p. 152), however even in those languages it is admitted that
+the language does not have ergative alignment for the entire system. The lesson in
+Ngkolmpu is that typologies of this type must be considered to be largely gradient or
+display inconsistent or mixed traits. In addition, we have seen that syntactic units, although typically considered to have some functional motivation, still involve a level of
+arbitrary structure that is similar to types of structure we see in the subparadigmatic
+elements of the Ngkolmpu verbal in lection. In the following chapter, we explore the
+various types of arbitrary structures in Ngkolmpu and propose a number of morphological structures to account for these.","[349, 350]"
+"49.tell.tellUnderspeci ied phonemes never trigger epenthesis and so the association of these
+phones with either the vowel nucleus or the onset/coda is ordered before the epenthetic
+step in the algorithm.
+There is clear evidence of distinct high vowels and glides in some environments,
+visible in the morphological boundaries within stems. As we have seen in the previous
+section, vowel + vowel sequences are not possible in Ngkolmpu. As a consequence,
+stems which end in high vowels and are then followed by a fully speci ied vowel, such
+as /ɛ/ from the recent past imperfective marker /ɛn/, are broken up by the inserted
+glide [j]. We would expect then any fully speci ied high vowels to trigger this insertion
+whilst glides would instead be analysed as syllabic and incorporated into the onset.
+This is best exempli ied in the minimal pair /ɔlusi/ ‘to arrange’ and /ɔlusy/ ‘to blow’.
+In (2.7b) we see that the sequence of /i/ followed by /ɛ/ is broken up by the inserted
+glide, which demonstrates that this is underlyingly a vowel, whereas in (2.7d) the glide
+is associated with the onset, proving that it must be underlyingly syllabic.
+(2.7)a. /ɔ-lusi/ → [ɔ.ˈlu.si] ‘arrange.",[77]
+"312Distributed exponence and parallel structures
+A
+SASO
+O
+RTable 8.15: Possibility space of grammatical terms8.4Distribution in the syntaxIn this section we apply the notion of distributed expression to the syntactic categories
+of grammatical relations. In Chapter 5, we introduced a set of grammatical relations, S,
+A, O and R. We saw that S is split between the S of pre ixing verbs and the S of ambi ixing
+verbs. We have also seen that the alignment of the case marking system is different
+from the alignment of the agreement system. In this section, I introduce two syntactic
+constructions, simultaneous action clauses and relative clauses, and show that these
+also display different alignment systems. From an analytical perspective, we can see
+that to describe the grammatical relations system for Ngkolmpu we must have four
+distinct terms. However in practice, any given morphosyntactic system which makes
+reference to grammatical relations only makes reference to a sub-set of those terms.
+This is parallel to the notion of distributed exponence discussed for TAM marking, in
+which there are 16 distinct TAM values in total but any given in lectional site makes a
+reduced distinction between these values.
+In total, there are four distinct morphosyntactic systems which make reference to
+grammatical relations in Ngkolmpu. These are case-marking, the agreement system of
+verbs up to two arguments, and two systems of interclausal syntax, the irst of which
+are the simultaneous action clauses which were introduced in Chapter 3, and the second of which are relative clauses which have not been discussed elsewhere in the grammar.
+We could stylise the total possibility space as the set of terms as presented in Table
+8.15. This represents the total possibility space of grammatical relations in Ngkolmpu
+as previously established.","[339, 340]"
+"2.4.1 Phonotactic algorithm and epenthesis
+One notable element of the language is the extent to which vowels are not speci ied
+at the level of phonology in the language. Instead, a process of epenthesis inserts a
+short schwa [ə̆ ] to conform to the syllable structure presented above. As stated, similar
+systems have been described for other Yam languages, in particular Nen and Komnzo,
+as well as other Papuan languages with the most famous example being Kalam. In this
+section, we shall see the explicit process by which the phonotactic constraints above
+are conformed to.
+As stated, the epenthetic vowels are inserted to produce the phonotactic structure
+described in 2.8. This process may be formulated as an informal algorithm as follows:
+1. Associate each speci ied vowel with a syllable nucleus, V.
+2. In word- inal position associate the last consonant with the coda position, C4 .
+3. If word commences with a vowel, insert [ʔ] in word initial position.
+4. Associate every other obstruent consonant with C1 .",[79]
