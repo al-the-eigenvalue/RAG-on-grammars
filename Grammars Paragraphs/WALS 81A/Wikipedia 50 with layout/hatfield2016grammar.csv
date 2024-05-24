@@ -1,0 +1,565 @@
+Paragraph,Page number
+"Examples (49) and (50) illustrate the possibility of variant word order in third personimperatives. In (50), the object of the imperative is expressed after the verb.    (49) or           muwku           a     6065
+         3SG.M.IMP milk               eat
+         Let him have milk.    (50) or           a     muwku=m           6065
+         3SG.M.IMP eat milk=PL
+         Let him have milk.",[134]
+"    Languages of Papua New Guinea have some broad features in common, many ofwhich Mehek shares. These shared features include: a relatively simple phonologicalsystem; verb-final word order, typically SOV; complex, agglutinative verbal morphology
+                                                2
+(though Mehek verbal morphology is not overly complex); and the morphology of otherword classes is usually simpler. Beyond these generalizations, it is difficult to otherwisegroup all (or even most) languages of Papua New Guinea based on any specific criteria.","[18, 19]"
+"5.14 Noun Phrase Structure       The most frequent order of constituents within simple noun phrases is schematizedin (345).8      (345)    Noun Phrase = (Det/Dem/Poss/Num/PossNP) + (noun) + (AdjP) + (Poss/Det)                + (noun phrase clitic) + (Dem/[Num + noun phrase clitic])The formula in (345) does not include relative clauses (see §5.9), which always precedethe noun, or relational noun phrase modifiers of nouns, which either precede or followthe noun (see below) or adnominal interrogative words; it is not clear how these areordered with respect to other modifiers of nouns. All of the constituents in (345) areoptional since one can have noun phrases consisting only of nouns and noun phraseslacking nouns. Where possibilities are indicated as alternatives, namely with
+8
+    The formula in (345) and the labels on examples below use the following abbreviation:
+         Det        determiner
+         Dem        demonstrative
+         Poss       possessive pronoun
+         PossNP nominal possessor plus optional possessive pronoun
+         Num        numeral
+         Adjp       adjective phrase                                                         200
+'(Det/Dem/Poss/Num/PossNP)', '(Dem/Num)' and '(Poss/Det)', it is not clear whetherthere is a preferred order.","[216, 217]"
+"     Proper names (including those for people, plants and animals) are glossed in Englishwith the same word used in Mehek where an English or Tok Pisin equivalent does notexist.
+                                                xv
+Abstract    This is a grammar which provides a detailed linguistic description of the phonology,morphology, syntax, discourse, lexicon and cultural environment of the Mehek languageand its speakers. Mehek is a language spoken in Papua New Guinea by approximately6300 people. It belongs to the Sepik language family, Tama branch. The theoreticalbackground employed is Basic Linguistic Theory. Mehek shares general features withmany non-Austronesian Papuan languages, including: a relatively simple phonologicalsystem; verb-final word order, typically SOV; agglutinative verbal morphology; and themorphology of other word classes is relatively simple.
+                                              xvi
+Chapter 1: Introduction1.0 Overview    Mehek (ISO code nux) is a language of the Tama branch of the Sepik family spokenin Sandaun Province of Papua New Guinea. There are approximately 6300 speakers(Gordon 2005) spread out over an area of roughly 65 square miles. The data for thisstudy were gathered in three field trips during the summers of 2010, 2012 and 2014.","[15, 16, 17]"
+"    Nominal subjects and objects are distinguished when both occur before the verb, inthat the subject normally comes first. While the default order is for the verb to occur atthe end of clauses, it is possible for various elements to follow the verb. Subjectsoccasionally follow the verb as in (5) to (8), though this may be a type of afterthoughtconstruction.      (5) yen=t       ka      rete=ka      sukna-m-s              maure=s    6058
+          child=DIM REAL put=REAL sleep-PAST2-3SG.F               ancestor=F
+          She put the child to sleep, the spirit did.      (6) ru      aku-m-r                    afa=r        6072
+          3SG.M go.back-PAST2-3SG.M          father=M
+          He went back, father did.",[262]
+"On the other hand, if there is little risk of ambiguity, the object will occasionally precedethe subject. For example, (15) is a text example employing OSV word order, where thereis little chance of ambiguity since it is not likely that the crab took the men.    (15) walingi num-go=t=u                 ka       tama   di=r
+         crab    1PL-POSS=DIM=DISC          REAL     person DET=M            ka      nemen      ra      towi-wa-r        4081
+            REAL    1PL.OBJ    take    stack-PAST1-3SG.M           Some man took our crab and stacked [them] up for us.",[264]
+"
+9.12.2 Code Switching    In addition to the single lexical items that frequently make their way into speech,there are many instances where grammatical particles from Mehek make their way intospeech that is primarily Tok Pisin, or where Mehek verbs head phrases which areotherwise completely Tok Pisin. Most of the time, a given conversation will take placemostly in Mehek, with occasional Tok Pisin lexical items sprinkled throughout. Thereverse is less common, but does occur, particularly with cultural items or practiceswhich Tok Pisin does not have a word for or has a cumbersome phrase rather than asingle lexical item. Code switching, by distinction, is when grammatical elements fromone language interact with the other. This mostly happens with verbs and alsosometimes discourse particles, such as klei. In the case of verbs, if the utterance isprimarily Mehek, the Tok Pisin verb will occur at the end of the clause as required byMehek grammar, despite the fact that Tok Pisin constituent order is usually SVO.",[428]
+"    Note that the order of the two verbs in these compound verb constructions is notalways fixed. Example (159) has the same meaning as (157) above, but with the verbs inreverse order But again, the verbal inflections still occur only on the second verb.   (159) ru      ka       afa=r        [kuna rusu]-ya-r      ELIC
+         3SG.M REAL father=M           [wait sit]-PRES-3SG.M
+         He waits for [his] father.",[302]
+"It is also possible for object noun phrases to follow the verb, as in (10) and (11), thoughthis order also seems to be very uncommon.    (10) ru       ka      ni-ya-r  afa=r    ELIC
+         3SG.M REAL see-PRES-3SG.M father=M
+         He sees [his] father.    (11) re          fu-m-r        ongo                yen=r      4100
+         3SG.M.OBJ hit-PAST2-3SG.M 1SG.POSS            child=M
+         He killed my child.",[263]
+"
+                                               272
+              Symbol       Meaning
+                 C        consonant change
+                 R        complete reduplication
+                 V        vowel change (lowering)
+                 V*       vowel change (back but not lower)
+                 ()       type change of variant form (when extant)
+              multiples   multiple changes, order of symbols shows order                       Table 43: Key to Ideophonic Adverb Types    Except in cases of complete reduplication (R), there can be a change of consonantfrom the first word to the second (C) or of vowel (V and V*). In the case of a vowelchange, in most cases, the second word has a lower vowel than in the first word (V). In afew instances, the second vowel has the same height, but is further back (V*). Thecommonality between these is that the vowel which changes is always a high or mid-front vowel in the first word and is either lowered or backed in the second. There arealso a few forms which have a common variant form which may have a different type ofchange. These are listed in parenthesis.","[288, 289]"
+"
+I.1 Place Names    The numbering system here corresponds to the maps in §2.1.2. The generalprincipal behind the numbering is ordering from north to south. The main villages arelisted in this order and the numbers within each village increase generally from north tosouth. The physical layout of each village precludes a strictly north-to-south ordering;however, when walking along a particular path, the villages will occur in the order listed.",[621]
+"    Before discussing subjects and objects, it is necessary to briefly discuss theterminology. Subjects are those constituents with which the main, finite verb showsagreement (see §6.1 - §6.4). Objecst are those constituents which are (or could be)represented by an object pronominal form (see §5.4.2). The terms direct object andindirect object are used primarily as semantic labels; there are no clear grammaticaldifferences between the two types of object. I refer to the recipient-like constituents in
+                                                245
+a ditransitive clause as indirect objects and I refer to objects that are not indirect objectsas direct objects.","[261, 262]"
+"7.3.3 Word Order Position of Adjuncts and Adverbs    As mentioned above, adjuncts and adverbs normally precede the verb, as illustratedby most of the examples in the preceding sections (and throughout this grammar). Themajority of examples in my data of adjuncts or adverbs following the verb are locativeones. Examples of locative demonstrative adverbs following the verb are given in (119)to (121).   (119) weke ru          lisi=ka         o-kwra     4091
+         clay    3SG.M cook=REAL          DIST-ADV
+         He cooked the clay there.   (120) naka      su     siri=ka        ke-kwra       4033
+         and       3SG.F die=REAL        PROX-ADV
+         And she died here.",[293]
+"Whether this is the normal order if there is both a demonstrative and a numeral is notclear. It is also possible that the numeral is a separate noun phrase, since it often bearsits own noun phrase clitic in addition to the one preceding it.",[218]
+"      There are six different types of sequential relationships that two clauses can have to each other. These relationship types are summarized in Table 47, and are listed roughly in the order of least restrictive to most restrictive in terms of the relationship the two clauses must have with one another.",[357]
+"8.5.2 Perception Complements    Perceptual complement statements consist of two clauses in juxtaposition, eachheaded by a final, fully inflected verb. The verb of perception (typically ni 'see' or mesu'hear') is in its own clause while the event or state that was perceived is in a separateclause. The two clauses can occur in either order with no difference in meaning.",[390]
+These are listed in simple alphabetical order.,[621]
+"    All but the last verb in serial verb constructions is uninflected, though they can hostthe realis clitic, as in wi=ka 'go.up=REAL' in (99). The tense/mood/aspect suffixes on thelast verb in the serial verb construction are interpreted as applying to all verbs in theconstruction. What this means is that they will all share the same subject. They may,however, each combine with other clausal constituents, like object noun phrases andadverbs. For example, the verb talma 'start' in (153) is preceded by an object nounphrase kiri 'fire', which is object of just this verb, no other verb in the serial verbconstruction. When there is a sequence of events that have different subjects, however,
+                                                   284
+it is not possible to use a serial construction. Separate finite verbs must be used, as in(154).   (154) lako     gaima=k      re            ni-m-r
+         eye      left=INS     3SG.M.OBJ     see-PAST2-3SG.M            fi=r         mu    re            fu-m-m        6050
+            spear=M      3PL   3SG.M.OBJ     hit-PAST2-3PL           He looked him in the eye and then they hit him with a spear.","[300, 301]"
+"While I have no explanation for the order in won gulma, many instances of animal orplant names in which the head comes second are ones where the modifer is adescription of where the animal or plant can be found rather than simply a word for theparticular species. Example of this include aka samdo 'house spider' and wuwr gulma'cane grass grasshopper'. In aka samdo 'house spider', the modifier is the noun for'house' while in wuwr gulma 'cane grass grasshopper', the modifier is the name for atype of cane grass.",[207]
+"    The next set of examples illustrate multiple modifiers preceding a noun. The part ofthe formula in (345) that describes the prenominal modifiers as'(Det/Dem/Poss/Num/PossNP)' is so formulated because I do not have much data onwhich prenominal modifiers can co-coccur if they can, what their relative order is. Theonly thing that is clear is that the determiner and possessive pronoun can co-occur andwhen they do, the determiner precedes the possessive pronoun. Both (354) and (355)illustrate this, differing only in that (348) also includes a postnominal adjective.",[220]
+"                                                         Depen-
+Type           Marker       Temporal Order               dency      Other Requirements
+conjunction    na-, =ben    any or none                  no         -
+subordinate    -k           any                          no         -
+simultaneous   yombo        simultaneous                 no         -
+dependent      yungu        (nearly) simultaneous        yes        typically different
+                                                                    subjects
+causal         rokor        yes (did/will occur)         yes        one common argument
+conditional    -na          yes (but may not occur)      yes        FUT1/2 on second clause
+                        Table 47: Summary of Clausal Relationships
+                                                 341
+    These restrictions include the temporal sequencing of the two clauses, and thedependency status of the second clause to the first. (This is real-world, rather thangrammatical dependency.) The first type listed, conjunction, merely requires thejuxtaposition of the two clauses and no further ordering or dependency is implied(though these may both be implied by context). Going down the list, the different clausetypes impose restrictions, first on the temporal relationship, then on the dependencystatus of the second clause. The final type listed, conditional, requires not only atemporal sequence and a dependency relationship, but the further requirement that thefirst clause itself may not actually occur.","[357, 358]"
+"
+10.1 Kinship System    The kinship system in Mehek is somewhat complicated, as many terms are basednot only on the gender of the referent, but also on the gender of ego. Table 60 lists allthe kin terms in alphabetical order along with summaries of their meanings. Thoseterms marked with an asterisk are not kin terms per se, but are commonly used to referto deceased relatives.",[430]
+"
+                                                73
+                 Phonemic                  Orthographic              Sample
+               Representation Allophone(s)  Symbol(s)               Word(s)
+                     /i/          [ɪ], [ɨ]      i                   fi, fik, fir
+                    /e/             [ɛ]         e                    fle, fler
+                    /a/              -          a                        sa
+                    /o/             [ɔ]         o                     os, or
+                    /u/             [ʊ]         u                     fu, fur
+                    /u̦/             -         uw                      nuw
+                    /iu/                -              iu             diule
+                    /ei/                -              ei              klei
+                    /eu/                -              eu              bleu
+                    /ai/                -              ai               sai
+                    /au/                -              au              kau
+                    /oi/                -              oi             toina
+                    /ou/                -              ou              bou                      Table 15: Orthographic Vowels and Diphthongs    In Table 15, only the vowels with allophones have a symbol listed in the 'Allophone'column. Because the proposed writing system is phonemic, different allophones are notrendered with different symbols. See §3.4 for more on the different environments forallophones. In the 'Sample Word(s)' column, when multiple words are listed, words witheach allophone are listed in the order they are shown from left to right in their row.","[89, 90]"
+" Primary Consultants                                    Secondary Consultants
+  Mehek         Tok Pisin     Village                    Mehek       Tok Pisin          Village
+  Name          Name          Home                       Name        Name               Home
+  Wafukaha      Pius          Wilwil                     Afkoi       Judah              Kafle 3
+  Yakwaro       Vero          Sibilanga (Yiminum)        Koule       Sara               Wilwil
+  Nurkuminga Rosalyn          Sibilanga (Wilwil)         Kumbun      Peter              Mansuku
+  Komtalmbu     Michael       Wilwil                     Manbo       Florian            Nuku
+  Yimansamba Leo              Wilwil                     Sokoni      Titus              Kafle 3
+                                                         Wolsauwo    Paul               Wilwil
+ Dissertation Committee                                  Yala        Abel               Yifkindu
+ Matthew Dryer (major professor), Karin Michelson, Jeff Good
+                                                 ii
+Table of ContentsAcknowledgements..............................................................................................................ii
+Table of Contents ................................................................................................................iii
+List of Tables ...................................................................................................................... xii
+Abbreviations .................................................................................................................... xiv
+   Citation Convention for Glossed Examples.................................................................... xv
+Abstract ............................................................................................................................. xvi
+Chapter 1: Introduction ...................................................................................................... 1
+   1.0 Overview ................................................................................................................... 1
+   1.1 The Linguistic Scene and Language Vitality .............................................................. 2
+   1.2 Genetic Classification of Mehek ............................................................................... 4
+   1.3 Previous Research ..................................................................................................... 5
+   1.4 Dialects ...................................................................................................................... 6
+   1.5 Fieldwork................................................................................................................... 8
+   1.6 Theoretical Background .......................................................................................... 10
+Chapter 2: People and Culture.......................................................................................... 11
+   2.0 Introduction ............................................................................................................ 11
+   2.1 Geography ............................................................................................................... 11
+       2.1.1 Regional Maps.................................................................................................. 13
+       2.1.2 Village Maps ..................................................................................................... 15
+       2.1.3 Map Attributions .............................................................................................. 20
+   2.2 History ..................................................................................................................... 20
+   2.3 People and Traditional Culture ............................................................................... 22
+       2.3.1 Food ................................................................................................................. 23
+       2.3.2 The Village and Land ........................................................................................ 25
+       2.3.3 Family and Clan Structure ................................................................................ 28
+       2.3.4 Marriage and Death ......................................................................................... 30                                                                         iii
+       2.3.5 Celebrations ..................................................................................................... 33
+       2.3.6 Magic and the Spirit World .............................................................................. 35
+   2.4 Modern Adaptations ............................................................................................... 40
+       2.4.1 Economy and Western Influence ..................................................................... 42
+       2.4.2 Christianity ....................................................................................................... 46
+       2.4.3 Education ......................................................................................................... 48
+       2.4.4 Local Government and Representation ........................................................... 50
+Chapter 3: Phonology ....................................................................................................... 54
+   3.0 Introduction ............................................................................................................ 54
+   3.1 Consonant Phonemes ............................................................................................. 55
+   3.2 Vowel Phonemes .................................................................................................... 55
+       3.2.1 Diphthongs ....................................................................................................... 56
+   3.3 Additional Phones ................................................................................................... 57
+       3.3.1 Voiceless Glottal Fricative [h] .......................................................................... 57
+       3.3.2 Glottal Stop [Ɂ] ................................................................................................. 58
+       3.3.3 Voiceless Bilabial Stop [p] ................................................................................ 59
+   3.4 Allophones .............................................................................................................. 60
+       3.4.1 Consonants ...................................................................................................... 61
+       3.4.2 Vowels .............................................................................................................. 62
+   3.5 Minimal Pairs .......................................................................................................... 63
+       3.5.1 Consonants ...................................................................................................... 63
+       3.5.2 Vowels .............................................................................................................. 65
+   3.6 Syllabification .......................................................................................................... 66
+   3.7 Phonotactics............................................................................................................ 68
+       3.7.1 Onset Combinations ........................................................................................ 68
+       3.7.2 Coda Combinations .......................................................................................... 69
+       3.7.3 Vowel Coalescence .......................................................................................... 70
+   3.8 Stress ....................................................................................................................... 72
+                                                                        iv
+   3.9 Orthography ............................................................................................................ 73
+   3.10 Onomatopoeia and Sound Symbolism ................................................................. 77
+Chapter 4: Brief Grammatical Overview ........................................................................... 79
+   4.0 Introduction ............................................................................................................ 79
+   4.1. Overview of Morphology ....................................................................................... 79
+   4.2. Nominal and Predicate Clitics ................................................................................ 81
+      4.2.1 Noun Phrase Clitics .......................................................................................... 81
+      4.2.2 Predicate Clitics ................................................................................................ 92
+Chapter 5: Nouns and Noun Phrases ................................................................................ 97
+   5.0 Introduction ............................................................................................................ 97
+   5.1 Gender .................................................................................................................... 98
+   5.2 Diminutive ............................................................................................................. 102
+   5.3 Number ................................................................................................................. 109
+   5.4 Pronouns ............................................................................................................... 110
+      5.4.1 Subject Pronouns ........................................................................................... 111
+      5.4.2 Object Pronouns ............................................................................................ 113
+      5.4.3 Imperative Pronouns ..................................................................................... 116
+      5.4.4 Possessive Pronouns ...................................................................................... 119
+      5.4.5 Emphatic Pronouns ........................................................................................ 122
+      5.4.6 Demonstrative Pronouns ............................................................................... 126
+      5.4.7 Interrogative/Indefinite Pronouns ................................................................. 136
+      5.4.8 Reflexive kuna ................................................................................................ 140
+      5.4.9 Use of Pronouns ............................................................................................. 143
+   5.5 The Determiner di ................................................................................................. 144
+   5.6 Adjectives and Adjective Phrases ......................................................................... 149
+   5.7 Numerals ............................................................................................................... 153
+   5.8 Possession ............................................................................................................. 157
+   5.9 Relative Clauses .................................................................................................... 162
+                                                                      v
+   5.10 Relational Nouns and the Locative/Instrumental Clitic ...................................... 165
+       5.10.1 Locative and Instrumental =k ...................................................................... 165
+       5.10.2 Relational Nouns .......................................................................................... 173
+   5.11 Compounds ......................................................................................................... 186
+       5.11.1 Asymmetrical Compounds ........................................................................... 186
+       5.11.2 Symmetrical Compounds ............................................................................. 188
+       5.11.3 Animals and Plant Names ............................................................................ 189
+       5.11.4 Series Compounds ....................................................................................... 192
+       5.11.5 Hierarchical Compounds .............................................................................. 192
+   5.12 Place Names ........................................................................................................ 195
+   5.13 Conjoined Noun Phrases ..................................................................................... 197
+   5.14 Noun Phrase Structure........................................................................................ 200
+Chapter 6: Verbs ............................................................................................................. 209
+   6.0 Introduction .......................................................................................................... 209
+   6.1 Subject Suffixes ..................................................................................................... 210
+       6.1.1 First Person Marking without Present Tense ................................................ 213
+   6.2 Tense Marking....................................................................................................... 216
+       6.2.1 Present Tense −ya .......................................................................................... 217
+       6.2.2 Past Tenses −wa and −m................................................................................ 219
+       6.2.3 Future Tenses −kya and −ka .......................................................................... 220
+   6.3 Mood Suffixes ....................................................................................................... 222
+       6.3.1 Desiderative −kwa ......................................................................................... 223
+       6.3.2 Conditional −na .............................................................................................. 225
+   6.4 Aspect Suffixes ...................................................................................................... 229
+       6.4.1 Repetitive −yu ................................................................................................ 230
+       6.4.2 Continual −kla ................................................................................................ 231
+   6.5 Imperative −ta and −tn ......................................................................................... 233
+   6.6 Negative -nak ........................................................................................................ 236
+                                                                     vi
+   6.7 Subordinating Suffixes .......................................................................................... 237
+   6.8 Combinations of Verbal Suffixes ........................................................................... 238
+   6.9 Dialect Variation in the Verbal Paradigm ............................................................. 242
+Chapter 7: Clause Structure ............................................................................................ 245
+   7.0 Introduction .......................................................................................................... 245
+   7.1 Subjects and Objects ............................................................................................. 246
+   7.2 Mood Particles ...................................................................................................... 250
+      7.2.1 Realis ka ......................................................................................................... 251
+      7.2.2 Irrealis wa....................................................................................................... 253
+      7.2.3 Omission of the Mood Particle ...................................................................... 257
+   7.3 Adjuncts and Adverbs ........................................................................................... 263
+      7.3.1 Adjuncts ......................................................................................................... 263
+      7.3.2 Adverbs .......................................................................................................... 263
+         7.3.2.1 Manner Adverbs .................................................................................................. 265
+         7.3.2.2 Locative Adverbs ................................................................................................. 266
+         7.3.2.3 Temporal Adverbs ............................................................................................... 270
+         7.3.2.4 Interrogative Adverbs .......................................................................................... 271
+         7.3.2.5 Ideophonic Adverbs............................................................................................. 272
+      7.3.3 Word Order Position of Adjuncts and Adverbs ............................................. 277
+   7.4 Serial-Verb Constructions ..................................................................................... 284
+   7.5 Clauses with Nonverbal Predicates....................................................................... 289
+      7.5.1 Clauses with the Verb na ............................................................................... 289
+      7.5.2 Nonverbal Clauses ......................................................................................... 293
+   7.6 Passive Clauses...................................................................................................... 296
+   7.7 Interrogative Sentences ........................................................................................ 299
+      7.7.1 Interrogative Clitic =ka ................................................................................... 299
+      7.7.2 Interrogative Clitic =a..................................................................................... 305
+      7.7.3 Use of kamben or =ben in Polar Questions ................................................... 307                                                                      vii
+      7.7.4 Interrogative Words in Content Questions ................................................... 307
+         7.7.4.1 em 'who' .............................................................................................................. 308
+         7.7.4.2 bu 'what' .............................................................................................................. 310
+         7.7.4.3 o- i- and iroko ~ oriko ‘where’ ............................................................................. 312
+         7.7.4.4 biki 'which' ........................................................................................................... 314
+         7.7.4.5 biki ~ biki biki 'how' ............................................................................................. 315
+         7.7.4.6 biki rokok 'when'.................................................................................................. 316
+         7.7.4.7 biki naka 'why' ..................................................................................................... 317
+         7.7.4.8 biki saima 'how much/many' .............................................................................. 318
+   7.8 Negation ................................................................................................................ 319
+      7.8.1 iki 'not' and the negative verbal suffix -nak ................................................... 319
+      7.8.2 mehek 'no' ...................................................................................................... 326
+      7.8.3 Negative Imperative mana ............................................................................ 327
+      7.8.4 Other Words with Negative Meaning ............................................................ 327
+   7.9 erka 'want'............................................................................................................. 330
+   7.10 Light Verbs .......................................................................................................... 332
+      7.10.1 eku 'do' ......................................................................................................... 332
+      7.10.2 rete 'put' ....................................................................................................... 334
+   7.11 Repetition............................................................................................................ 336
+Chapter 8: Complex Sentences ....................................................................................... 341
+   8.0 Introduction .......................................................................................................... 341
+   8.1 Conjoined clauses ................................................................................................. 343
+      8.1.1 naka ~ na ‘and’ .............................................................................................. 344
+      8.1.2 na 'but' ........................................................................................................... 347
+      8.1.3 kamben ~ =ben 'either/or' ............................................................................. 350
+   8.2 Subordinators yombo, yungu and roko ............................................................... 352
+      8.2.1 yombo ............................................................................................................ 352
+      8.2.2 yungu ............................................................................................................. 354
+      8.2.3 rokor ............................................................................................................... 357
+                                                                         viii
+   8.3 Subordinating Suffixes .......................................................................................... 361
+      8.3.1 Subordinate Suffix –k ..................................................................................... 362
+      8.3.2 The Infinitival Suffix –r ................................................................................... 367
+      8.3.3 Gerundial Suffix –m........................................................................................ 370
+   8.4 Conditional Clauses ............................................................................................... 371
+   8.5 Other Clause Relationships ................................................................................... 374
+      8.5.1 Comparative Constructions ........................................................................... 374
+      8.5.2 Perception Complements .............................................................................. 374
+      8.5.3 Reported Speech ............................................................................................ 376
+Chapter 9: Discourse and Paralanguage ......................................................................... 378
+   9.0 Introduction .......................................................................................................... 378
+   9.1 Interjections .......................................................................................................... 378
+   9.2 Greetings ............................................................................................................... 380
+   9.3 Expressions of Anger and Pain .............................................................................. 382
+   9.4 The Discourse Clitic =yu / =u ................................................................................. 385
+   9.5 Discourse Techniques ........................................................................................... 387
+   9.6 Gesture.................................................................................................................. 389
+   9.7 Personal Names .................................................................................................... 389
+      9.7.1 Given Name sir ............................................................................................... 390
+      9.7.2 Bad Name sir kaha ......................................................................................... 392
+      9.7.3 Good Name sir nalingi ................................................................................... 394
+      9.7.4 Name Whistle isi ............................................................................................ 394
+      9.7.5 The Name Song hokwa .................................................................................. 395
+   9.8 Whistled Speech and Other Sounds ..................................................................... 396
+   9.9 Songs ..................................................................................................................... 398
+   9.10 Garamut Drum Communication ......................................................................... 398
+   9.11 Sign Language ..................................................................................................... 400
+   9.12 Tok Pisin .............................................................................................................. 404
+                                                                       ix
+       9.12.1 Borrowings and Translations ....................................................................... 406
+       9.12.2 Code Switching............................................................................................. 412
+Chapter 10: Lexical Fields................................................................................................ 414
+   10.0 Introduction ........................................................................................................ 414
+   10.1 Kinship System .................................................................................................... 414
+   10.2 Colors .................................................................................................................. 420
+   10.3 Lexical Patterns ................................................................................................... 421
+       10.3.1 kaiembo versus kanda 'small' ...................................................................... 421
+       10.3.2 Words relating to 'everybody' ..................................................................... 423
+   10.4 Postural Verbs ..................................................................................................... 424
+   10.5 Dialect Variation ................................................................................................. 428
+Appendix A: Sample Texts............................................................................................... 430
+   A.1 Mombu Ketelu Story ............................................................................................. 430
+   A.2 Songs ..................................................................................................................... 443
+       A.2.1 Safungrow ...................................................................................................... 443
+       A.2.2 Wulmba ......................................................................................................... 443
+       A.2.3 Kafle ............................................................................................................... 444
+       A.2.4 Kitalako Story................................................................................................. 444
+       A.2.5 Felnde Afu Story............................................................................................. 445
+       A.2.6 Personal Songs (Gasiwatimba and her Children) .......................................... 445
+   A.3 Garden and First Harvest Description .................................................................. 446
+Appendix B: Mehek-English-Tok Pisin Dictionary ........................................................... 454
+Appendix C: English-Mehek Dictionary........................................................................... 498
+Appendix D: Tok Pisin-Mehek Dictionary ....................................................................... 528
+Appendix E: Animal and Plant Species ............................................................................ 557
+   E.1 Animals .................................................................................................................. 557
+   E.2 Plants ..................................................................................................................... 564
+Appendix F: Thematic Vocabulary .................................................................................. 571
+                                                                        x
+Appendix G: Personal Name Index ................................................................................. 582
+Appendix H: Names, Songs and Whistles ....................................................................... 593
+Appendix I: Place and Clan Names.................................................................................. 605
+   I.1 Place Names ........................................................................................................... 605
+   I.2 Clan Names ............................................................................................................ 610
+Appendix J: Garamut Drum Beats ................................................................................... 611
+   J.1 Clan Beats .............................................................................................................. 612
+   J.2 Message Beats ....................................................................................................... 617
+References ...................................................................................................................... 627
+                                                                      xi
+List of Tables#    Table Title                                                                                            Location
+1    Consonant Phonemes........................................................................... §3.1
+2    Vowel Phonemes .................................................................................. §3.2
+3    Diphthongs ........................................................................................... §3.2.1
+4    Mehek Words with /p/ ......................................................................... §3.3.3
+5    Stop Allophones.................................................................................... §3.4.1
+6    Other Consonant Allophones ............................................................... §3.4.1
+7    Vowel Allophones ................................................................................. §3.4.2
+8    Consonant Minimal Pairs...................................................................... §3.5.1
+9    Vowel Minimal Pairs ............................................................................. §3.5.2
+10   Some Monophthong and Diphthong Minimal Pairs ............................ §3.5.2
+11   Possible Syllables .................................................................................. §3.6
+12   Onset Consonant Clusters .................................................................... §3.7.1
+13   Coda Consonant Clusters ..................................................................... §3.7.2
+14   Vowel Coalescence ............................................................................... §3.7.3
+15   Orthographic Vowels and Diphthongs ................................................. §3.9
+16   Orthographic Consonants .................................................................... §3.9
+17   Animal Names with an Onomatopoeic Component ............................ §3.10
+18   Third Person Noun Phrase Clitics ......................................................... §4.2.1
+19   First and Second Person Predicate Clitics ............................................ §4.2.2
+20   Third Person Noun Phrase Clitics ......................................................... §5.1
+21   Exclusively Feminine Nouns ................................................................. §5.1
+22   Homophonous Feminine and Masculine Nouns .................................. §5.1
+23   Subject Pronouns.................................................................................. §5.4.1
+24   Object Pronouns ................................................................................... §5.4.2
+25   Imperative Pronouns ............................................................................ §5.4.3
+26   Possessive Pronouns ............................................................................ §5.4.4
+27   Emphatic Subject Pronouns ................................................................. §5.4.5
+28   Emphatic Object Pronouns ................................................................... §5.4.5
+29   Emphatic Predicate Pronouns for First Person .................................... §5.4.5
+30   Demonstrative Pronouns ..................................................................... §5.4.6
+31   Emphatic Demonstrative Pronouns ..................................................... §5.4.6
+32   Interrogative/Indefinite Pronouns ....................................................... §5.4.7
+33   Numerals 1-4 ........................................................................................ §5.7
+                                                               xii
+34   Numerals for 'five' and Above .............................................................. §5.7
+35   Relational Nouns .................................................................................. §5.10.2
+36   Animal and Plant Category Terms ........................................................ §5.11.3
+37   Sample Place Names ............................................................................ §5.12
+38   Subject Suffixes..................................................................................... §6.1
+39   Tense Suffixes ....................................................................................... §6.2
+40   Mood Suffixes ....................................................................................... §6.3
+41   Aspectual Suffixes................................................................................. §6.4
+42   Temporal Adverbs ................................................................................ §7.3.2
+43   Key to Ideophonic Adverb Types .......................................................... §7.3.2
+44   Ideophonic Adverbs ............................................................................. §7.3.2
+45   Passive Derivation from the Active Clause ........................................... §7.6
+46   Question Words.................................................................................... §7.7.4
+47   Summary of Clausal Relationships ....................................................... §8.0
+48   Syntax of Linked Clauses ...................................................................... §8.0
+49   Interjections.......................................................................................... §9.1
+50   Mehek Gestures ................................................................................... §9.6
+51   Conventionalized Speech Sounds......................................................... §9.8
+52   Garamut Beats ...................................................................................... §9.10
+53   Mehek Deaf Signs ................................................................................. §9.11
+54   Common Tok Pisin Words with no Mehek Equivalent ......................... §9.12.1
+55   Mehek Equivalent Which Makes a More Complex Distinction ............ §9.12.1
+56   Mehek Equivalent Which Makes a Similar Distinction ......................... §9.12.1
+57   Comparison of Mehek and Tok Pisin Personal Pronouns .................... §9.12.1
+58   Non-Lexical Borrowings ........................................................................ §9.12.1
+59   Mehek Equivalent Developed .............................................................. §9.12.1
+60   Summary of Kin Terms ......................................................................... §10.1
+61   Male-Centric Kin Terms ........................................................................ §10.1
+62   Female-Centric Kin Terms .................................................................... §10.1
+63   Mehek Color Terms .............................................................................. §10.2
+64   Kafle Dialect Variants ........................................................................... §10.5
+                                                              xiii
+Abbreviations
+    Each abbreviation of a linguistic feature used in the glosses of this grammar is listedin the table below. They are alphabetical by abbreviation, along with the full name ofthe feature and a typical example for which that abbreviation would be used.","[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]"
+"    There are exceptions to the normal compound order. In duwan nawa 'a large typeof basket' in (316), the head of the compound is the first noun duwan 'basket' while thesecond word nawa 'mother' specifies a sub-type, the larger basket used by adults.   (316) au sul=r       mu sa sa=ka         duwan nawa mu tukta=ka                6075
+         pot dirt=M 3PL dig dig=REAL basket mother 3PL carry.on.head=REAL
+         They dug dirt for a pot and carried it in a mother [large-sized] basket.",[203]
+"    As noted above, both subject and object normally precede the verb and only rarelydoes the object precede the subject. Sentences where both subject and object arenominal (as opposed to pronominal) and where they are the same in number andgender are considered unambiguous. For example, (14), where both subject and objectare masculine singular, is judged to allow only one interpretation, one where the firstnoun phrase is subject and the second one object.    (14) nanda=r             gana=r                 re               eloko-m-r       1622
+         older.brother=M younger.brother=M 3SG.M.OBJ                 tell-PAST2-3SG.M
+         The big brother told the little brother.
+         not The little brother told the big brother.",[264]
+"    Typically, the protasis clause will be the first clause and the apodosis clause will bethe second one. However, it is possible to reverse this order, as in (114).   (114) iki       ne            manda-ka-t      su      ne        ta-na     5101
+           NEG 2SG.OBJ           hurt-FUT2-3D 3SG.F 2SG.OBJ        bite-COND
+           It will not hurt if it (she) does not bite you.",[389]
+"    The word timba is a negative word that expresses the meaning 'not have'. It occursin a construction with the possessor as subject and thing possessed a noun phrasebefore the verb, possibly an object, as in (372) and (373). It behaves like an adjective inthat it occurs with person/number/gender clitics in predicate position, but apparentlydoes not occur with verb morphology.   (372) dun yen      timba=dun              1614
+         1DU child not.have=1DU
+         We have no children.",[344]
+"When locative adjuncts precede the verb, they often precede both subject and object,as in (137). They can also occur between subject and object, though, as in (138).",[296]
+"                   Table 45: Passive Derivation from the Active Clause    There a number of peculiarities of the Mehek passive. One is that the P (the subjectof the passive) cannot be a pronoun. Another is that the A (which is not subject as far asverb agreement is concerned) not only has to be a pronoun but occurs in subject form,despite the fact that it does not control subject agreement on the verb. However, thefact that the pronoun A occurs in what I have been calling subject form might bebecause this form is actually the default form, occurring in all contexts where thepronoun is not an object of the verb or a possessor. For example, as noted in §5.10.2,the subject form is also used for “objects” of relational nouns.",[313]
+"
+                                                111
+                                   Singular    Dual      Plural
+                              1       on       dun       num
+                              2       nu        fun      kum
+                            3M        ru
+                             3F       su        fu        mu
+                             3D       tu                                  Table 23: Subject Pronouns    The examples in (26) to (28) exemplify the use of the subject pronouns. Subjectpronouns are usually the first word in a clause, and object pronouns immediatelyprecede the verb. Examples (26) and (28) also contain object pronouns.    (26) on        ka me            eloko-wa-yun      ELIC
+         1SG       REAL 3PL.OBJ     tell-PAST1-1SG
+         I told them.    (27) kum o-kwra             rusu-ya-kum       3133
+         2PL     DIST-ADV       sit-PRES-2PL
+         You [all] are sitting there.    (28) mu ka       tama      nemen           [numba noko]-m-m     1126
+         3PL REAL person 1PL.OBJ               [poison]-PAST2-3PL
+         They poisoned us men.","[127, 128]"
+"SOV. This must be obeyed as there are not any grammatical signs to connect each signto its grammatical role. Often, there is a preparatory clause which sets the stage for thespecific clause which is to follow. For example, to express the concept: “a man andwoman fought”, there would be an introductory clause showing the relative heights ofthe participants. A flat hand parallel to the ground would be held low, then higher toshow the heights of the participants. This is a standardized way to indicate a woman anda man. Following that, the signs for man, woman, and fight in that order would be givento give the specifics of the encounter. The very same introductory clause could alsoserve to precede “a child and her mother went to the garden”. In that case, the signsthat would follow would be: child, mother, garden, go. No sign for possession is used.",[420]
+"
+                                             318
+7.8 Negation        Negation is expressed in a number of different ways. The primary negativemorpheme is an invariant word iki.15 Most negative non-imperative clauses contain thisword, though it occasionally co-occurs with a suffix -nak on the verb or a clause-finalnegative word mehek. There is a prohibitive word mana that is used in negativeimperative sentences (§7.8.3).
+7.8.1 iki 'not' and the negative verbal suffix -nak        The default non-imperative negative clause involves just the negative word iki. Italways precedes the final (finite) verb, though not necessarily immediately before theverb. It typically precedes material other than a subject that is not a pronoun. Example(321) illustrates iki preceding the adverbial word anganambu 'fast'.      (321) iki       anganambu wi             ambe-ka-num                     4120
+               NEG    fast            go.up finish−FUT2-1PL
+               We will not [be able to] go up quickly.","[334, 335]"
+"    An alternative way to express feelings of affection is by means of the word kaha,which otherwise means 'bad'. When used this way, it conveys a sense of closeness andintimacy. It is often accompanied by a kin term plus a first person singular possessivepronoun in the order possessed noun plus kaha plus possessive pronoun, as in examples(19) to (21).    (19) yau            nandasi           kaha      go=f
+         brother’s.wife brother           bad       1SG.POSS=DU            kiri    di=t        wa      ene          nuwa-ka-fun          6047
+            fire    DET=DIM     IRR     1SG.OBJ      give-FUT2-3DU           My brother and wife, [please] give me some fire.    (20) re        er-m-r                     e       nan          kaha     go=r
+         3SG.M.OBJ say-PAST2-3SG.M            INJ     grandson     bad      1SG.POSS=M            biki biki       kulu=k         ya-wa=ø          6062
+            how how         road=LOC       come-PAST1=2SG.INT           He said to him, “Hey, my grandson! How did you come here?”    (21) re        er-m-r                     gana                   kaha     go=n
+         3SG.M.OBJ say-PAST2-3SG.M            younger.brother        bad      1SG.POSS=2SG
+            fer     ka      fu-wa-n       6070
+            pig     REAL    hit-PAST1-2SG
+           He said to him, “My younger brother, you killed a pig.”",[124]
+"In all other clauses, the verb agrees with the subject noun phrase. In the passive,however, it appears either that it is the object which triggers agreement marking on theverb. However, we can account for this if we analyze such clauses as passive clauses. Todescribe the structure of passive clauses and how they differ from corresponding active                                               296
+clauses, it is useful to use the labels 'A' and 'P' for the arguments that are subject andobject respectively in an active clause. A passive clause is constructed from thecorresponding active clause by three changes: (1) placing the P before the A; (2) usingthe subject form for the A, which will always be a pronoun (See §5.4); and (3) changingthe agreement on the verb so that it agrees with the P. The difference between passiveand active clauses is schematized in Table 45.","[312, 313]"
+"    The goal of the present grammar is to provide a detailed linguistic description of thephonology, morphology, syntax, discourse, lexicon and cultural environment of Mehekand its speakers. In the present chapter, information on the language and speakers isgiven and the following areas will be discussed: linguistic scene and language vitality(§1.1), genetic classification of Mehek (§1.2), previous research (§1.3), dialects (§1.4),fieldwork (§1.5) and theoretical background (§1.6). Chapter 2 will discuss topics relevantto culture and environment. After that, chapter 3 will provide a brief grammatical sketchof the language and its primary features. Chapters 4-11 will discuss linguistic topics ofthe language, specifically: phonology (chapter 4), word classes (chapter 5), nouns and
+                                                 1
+noun phrases (chapter 6), verbs and verb phrases (chapter 7), clause types (chapter 8),clausal relations (chapter 9), discourse and paralanguage (chapter 10), and lexical fields(chapter 11). Following these chapters are several appendices of additional informationand reference. These include sample texts (Appendix A); multi-lingual dictionaries:Mehek-English-Tok Pisin (Appendix B), English-Mehek (Appendix C), and Tok Pisin-Mehek (Appendix D); lists of animal and plant Species (Appendix E); thematic vocabulary(Appendix F); personal name index (Appendix G); names, songs and whistles (AppendixH); place and clan names (Appendix I); and garamut drum beats (Appendix J).","[17, 18]"
+"5
+ In the case of (125) and perhaps (124), it is actually not clear whether kuna is indicating coreference
+between the subject and possessor rather than the subject and object. In other words, the correct
+analysis of (125) might be something like 'I cut myself on the hand'. However, this is not a possible
+analysis for (127).",[157]
+"    Each family has multiple plots of land in different locations that they improve asthey see fit. It is in each family’s interest to maintain these divergent plots in order toprotect against possible calamity (Diamond 2011). Though the weather is quitepredictable from year to year, other events outside the norm (such as interlopers,invaders, or wild animals) can adversely affect each plot’s food production. By havingdifferent foods grown in different areas, these problems are mitigated. If one plot ofland is ravaged by wild pigs and the yam harvest is lost, there will be other yams in otherplots that can still be harvested. The same is true for different food types. Sago onlygrows under swampy conditions, but not every plot that a family holds will be suitable
+                                                  27
+for growing sago. Therefore, it is necessary to localize sago in two or three gardens thatare suitable for it, and to grow food that requires more sunlight in other plots.","[43, 44]"
+"
+                                                 244
+Chapter 7: Clause Structure7.0 Introduction    This chapter discusses the fundamentals of clause structure. It begins withdiscussion of subjects and objects (§7.1), and then discusses the mood particles (§7.2),adjuncts and adverbs (§7.3), serial-verb constructions (§7.4), clauses with nonverbalpredicates (§7.5), passive clauses (§7.6), interrogative sentences (§7.7), negation (§7.8),clauses with the word erka 'want' (§7.9), light verbs (§7.10), and repetition (§7.11). Forinformation on additional clause types which only occur in complex sentences, seeChapter 8. The general structure of clauses is given in (1).","[260, 261]"
+"Like subjects and objects, adjuncts normally precede the verb, though they occasionallyfollow. See §7.3.3 below for more discussion about the position of adjuncts.",[279]
+"
+                                                  358
+    It is similar in usage to the subordinate affix –k in that it indicates that there is aconnection between the clause containing rokor and the one or ones following. Thedifference here, however, is that the subordinate clitic applies only to the verb of theclause it attaches to and does not imply any syntactic connection to the followingclause(s). It only indicates that another action (often left unstated as it is often madeclear through context, implication, or speaker world knowledge) will follow or isdependent on the clause it is in (see §8.2). The causal marker rokor, on the other hand,has a syntactic requirement that another clause follow it (although the second clausemay be implicit, as in (54) to (56) above) and that there be some dependencyrelationship between the two. The dependency requirement is that the followingclause(s) must occur after and as a result of the first clause. It may also indicate thepurpose of undertaking the succeeding action(s). That is, the rokor clause is a precursoror prerequisite for the succeeding clause(s). Example (57) illustrates it being usedmultiple times in a sequence of connected events that the subject is undertaking.    (57) su    oku          si        ra=ka             ka        wuya-m-s
+         3SG.F water        get.water get=REAL          REAL      come.up-PAST2-3SG.F            su       wuya-m              rokor     klei      [di ningi]=k
+            3SG.F    come.up-GER         CAUS      then      [sometimes]=INS            ekra     su    oku=m su               ra-m         rokor     au=m
+            thus     3SG.F water=PL 3SG.F         get-GER      CAUS      pot=PL            su    ra-m           rokor    oku       ama=m su               tisi
+            3SG.F get-GER        CAUS     water     bamboo=PL 3SG.F        carry                                                  359
+            ra-m    rokor ka         war-m-s            su    war=ka
+            get-GER CAUS REAL        go.down-PAST2-3SG.F 3SG.F go.down=REAL            ekra        re              eloko-m-s        re              er-m-s
+            in.that.way 3SG.M.OBJ       tell-PAST2-3SG.F 3SG.M.OBJ       say-PAST2-3SG.F            ekra        nawe                2803
+            in.that.way only          She goes up to get water and keeps going up. She goes up to
+          do this. And sometimes, in order to get water, she brings a pot or a
+          bamboo water [carrier]. She carries these things [back] down. She
+          goes down and tells him [about it]. She tells him [about it] just like that.","[374, 375, 376]"
+"    There was an official sheet on which three choices for each office would be writtenin ranked order. Candidates regularly urged people to mark their number “either one or
+                                                51
+two.” A witness (of the voter’s choice) was allowed to accompany each voter into thevoting area to assist them if they were completely illiterate; this only happenedsporadically. After voting, the voter placed their ballot in a locked container (one ofwhich had an official seal, the other of which was missing its seal and had been lockedby one of the security people’s own locks), and their left pinkie nail was painted withindelible ink. The tally of votes is done in the national capital and the results arereported a few months later.","[67, 68]"
+"In careful speech, it is sometimes pronounced with both, [mɛhɛɁɛk]. The people, for themost part, adhere to this practice and call their own language Mehek or Mehek Suma'Mehek Language'. According to Ethnologue (Gordon 2005), it is also known asIndinogosima, Driafleisuma and Nuku. The former two names have been attested fromsome speakers. Suma is a word meaning 'voice' and the words indi numgo are ademonstrative and possessive pronoun meaning 'our'. The term driaflei is an erroneousrendition of dinafle, 'one'. Naming the language Nuku, after the most prominent villagewhere it is spoken, is another common naming practice in the area, though typical oflanguages that are only spoken in one village (Laycock 1968). This is an exonym ratherthan a term the speakers use for their own language.",[19]
+"It is not possible for both a subject pronoun and an object to follow the verb, as shownin (12) and (13).    (12) *ka      ni-ya-r        ru           afa=r    ELIC
+           REAL see-PRES-3SG.M 3SG.M          father=M
+           He sees [his] father.",[263]
+"    Subject pronouns are optional, but are in fact often present. In the first thirtysentences in the text given in story A.1 in Appendix A, there are twelve clauses with                                                   248
+personal pronouns as subject, one clause with a demonstrative pronoun as subject andtwelve clauses where there is no overt noun phrase functioning as subject. However,whether a pronoun occurs or not in these thirty sentences is almost entirely predictablefrom whether the next verb is finite or not: in most of the examples where the verb isfinite (where the verb codes the person, number and gender of the subject), a subjectpronoun is not used, while in most of the sentences where the verb is nonfinite (theverb does not bear a subject suffix), the pronoun is used. The examples in (16) and (17)illustrate the two possibilities. In (16), the verb bears a 3DU subject suffix and there is nosubject pronoun, while in (17), the verb occurs with only the realis clitic and there is a3DU subject pronoun fu.
+    (16) ka       mombu kete-r           i-m-f      4029
+           REAL mombu cut-INF            go-PAST2-3DU
+           They [dual] go to cut the mombu tree.    (17) fu  ka i=ka                tawa  mus=u                 yen
+         3DU REAL go=REAL           woman first.wife=DISC       child            wau=k            kana=s ...        4029
+            stomach=LOC      with=F           They [dual] go and the first wife, the pregnant one ...","[264, 265]"
+"
+7.1 Subjects and Objects    Subjects and objects are not marked for their role in the clause, except for personalpronouns §5.4.1 and §5.4.2; compare the subject form on of the first singular pronounin (3) with the object form ene in (4).      (3) on      ka      rusu=ka a-ya-yun              6092
+          1SG     REAL sit=REAL eat-PRES-1SG
+          I am sitting and eating.      (4) wa     ene      raya ni-kwa-m   2727
+           IRR 1SG.OBJ bring see-DESD-3PL
+           They should come see me.",[262]
+"
+                                                402
+Word/Concept    Accompanying Gesture
+airplane       flat hand moves around and body follows behind
+angry          scrunch up face and point at eyes
+bathe          2 hands scoop water and rub on body
+bird           hold arms out and flap hands
+child/boy      hold hand down low to ground
+climb          mimic holding a rope in front of self
+come           wave hand in towards self
+die            hands at ears move outward then close eyes and tilt head
+drink          scoop hand below and pour into mouth
+eat            thumb to fingers and towards mouth
+fight          slap own face
+garden         pluck grass from the ground
+girl           child and then sign for woman
+go             flick pointer finger or hand in direction
+greens/leaf    pointer and thumb together twist at head height
+hungry         pat stomach and then sign for no
+kina           (currency) fists go together (1), touch fists with feet (2+)
+make bilum     open hand held upright twists
+mami           rub one pointer finger across the other
+man            pat shoulder
+no             palms facing away from body at chest height
+pig/meat       draw finger down each side of mouth
+pronouns       point
+rain           wave hands at sky and pat at head
+sago           spin fingers around each other
+sleep          two palms together and lay ear on top
+store/buy      draw circle in open palm and count fingers
+time           touch one finger per day (start with pinkie for today)
+toea           hold together fingers one for each 10t (currency)
+vehicle        turn invisible wheel gregariously
+white man      pat skin and sign for no
+woman          pat head or make breasts with fists                     Table 53: Mehek Deaf Signs
+                                      403
+    The basic word order of Mehek sign language follows that of spoken Mehek, i.e.","[418, 419, 420]"
+"    Verbs bear suffixes for the person, number, and gender of the subject, with anadditional possibility of diminutive inflection; they do not inflect for the object. Thereare a variety of suffixes which precede the subject suffixes, coding tense, aspect, andmood. There are two past tenses and two future tenses, roughly past today versus pastbefore today and future today versus future after today. Examples (1) and (2) illustrateverbs with tense suffixes followed by subject suffixes.",[95]
+"Example (128) is similar, though here the expression marked with the locative clitic is adurational temporal expression.   (128) ka     nambul wre-m-k                [lisifu lisifu]    ningi=k 2162
+          REAL sun       shine-PAST2-SUB [four]                  day=LOC
+          while the sun was shining for four daysHowever, temporal expressions identifying time as opposed to duration seem always toprecede the verb, sometimes preceding the subject. For example, in (129), yale'yesterday' occurs in initial position, preceding the negative word iki, the subjectpronoun nu, and the object kaku 'mami'.   (129) yale       iki nu       kaku           a-na=ka        ELIC
+         yesterday NEG 2SG       mami           eat-COND=2SG.INT
+         Would you not eat mami?",[295]
+"    The subject form of personal pronouns are used for pronouns serving as “object” ofrelational nouns (see §5.10), as in (31), where the “object” of kana 'with' is the subjectform su.    (31) su       kana su         kom       sukna-m-s  7054
+         3SG.F    with 3SG.F village sleep-PAST2-3SG.F
+         She slept in the village with her.",[129]

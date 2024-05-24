@@ -1,0 +1,1601 @@
+Paragraph,Page number
+"
+16.1. Grammatical relations: the notion of subject
+16.1.1. Subject propertiesNotions such as subject, direct object, indirect object, etc. (i.e. grammatical
+relations, or syntactic functions) are generally used sparingly in this book.
+The reason is that their use is not as straightforward in role-dominated lan-
+guages like Lezgian as it is in reference-dominated languages like English.
+There are very few generalizations that need to be stated over grammatical
+relations.
+   The subject is the most important grammatical relation, and I will mostly
+be concerned with this notion in this section. There is some evidence, albeit
+rather slight, that a notion of subject is needed in Lezgian grammar. The ar-
+guments that have subject status are the Absolutive argument of intransi-
+tive verbs, the Ergative argument of transitive verbs, and the Dative argu-
+ment in the Affective Construction.
+   However, most of the properties that often serve to identify subjects in
+other languages do not uniquely identify subjects in Lezgian. Following
+Keenan (1976), we can divide subject properties into coding properties and
+behavioral properties. Coding properties are case marking, subject-verb
+agreement, word order and the like. Case marking would of course identify
+the Absolutive argument both of intransitive and of transitive sentences as
+the subject. However, case marking is not normally considered sufficient
+evidence for grammatical relations in languages with ergative case marking.
+Subject-verb agreement is lacking in Lezgian. There is some weak evidence
+from word order that Ergative agents and Dative experiencers are both sub-
+jects, because both precede the Absolutive argument in the unmarked order:(799) Alfija.di     maqala       kxe-na.
+      Alfija(ERG)   article     write      'Alfija wrote an article.'
+(800) MuTminat.a-z        Ibrahim        aku-na.
+      Mu'minat-DAT        Ibrahim       see-AOR      'Mu'minat saw Ibrahim.'
+                                                            16.1. Grammatical relations   295However, since word order is very flexible (especially the order of argu-
+ments and clausal adjuncts, cf. 16.2.), this is very weak evidence. It is just as
+possible that the true word order generalization is a strong tendency for
+topics to precede non-topics, and for agents and experiencers to be topics.
+   Behavioral properties have to do with behavior in valence-changing (or
+relation-changing) operations and with behavior in various types of coref-
+erential constructions. Valence-changing operations do not yield any criteria
+in Lezgian, because the only valence-changing verbal categories, the
+Causative and the Anticausative (cf. 10.1.-2.), affect only one type of argu-
+ment (Causatives are formed only from intransitive verbs, Anticausatives
+only from transitive verbs). It is only in coreferential constructions that we
+begin to get some clearer evidence for a notion of subject in Lezgian, as dis-
+cussed in the following two sections.","[314, 315]"
+"16.2. Word order at the clause levelLike noun-phrase-internal and adjective-phrase-internal word order,
+clause-level word order is generally head-final, i.e. verb-final. However,
+whereas head-final word order is obligatory in noun phrases and adjective
+phrases, verb-final order is only the preferred word order in independent
+sentences. Alternative orders are possible, especially in the colloquial lan-
+guage. The order of the other major constituents of the clause (arguments
+and adjuncts) is quite free, although there is a strong tendency for the sub-
+ject to precede the other arguments.
+                                                         16.2. Word order at the clause level               29916.2.1. Position of the verbThe finite verb is in the sentence-final position in the overwhelming ma-
+jority of cases, at least in the written standard language. This is illustrated by
+(810) and by many other examples in this grammar.","[318, 319]"
+"14.4. Word order in the noun phraseNoun phrases are strictly head-final. All types of modifiers precede their
+head: quantifiers (see 14.2.), appositions (see 14.3.), demonstratives (cf. 683),
+adjective phrases (cf. 684), Genitive NPs (cf. 685), and relative clauses (see
+19.1.).(683) a       insan-ar     (J89:21)
+      t h a t human-PL
+      'those people'
+260    14. The noun phrase and the adjective phrase(684) ask'an      k'wal-er (Q81:69)
+      low         house-PL
+      'a low house'(685) Dagustan.di-n            Seher-r-a (HQ89:94)
+      Daghestan-GEN            city-PL-INESS
+      'in the cities of Daghestan'   The order of noun modifiers with respect to each other is relatively free,
+and the generalizations below reflect only the orders that are used most
+commonly. Native speakers tend to accept most possible orders. In many
+cases there may be semantic differences between different orders (e.g. reflect-
+ing different scope relations), but they are too subtle to be described here.","[279, 280]"
+"While word order in Lezgian is generally rather free, there is a very strong
+tendency for the elements of a constituent to be adjacent. Discontinuous
+noun phrases, as can be found in languages like Latin or Warlpiri, are pro-
+hibited in Lezgian.
+    However, sometimes subordinate clauses appear to exhibit discontinu-
+ities. An example is (823) (cf. also (457a), (568a), (1156), (1163b)).",[323]
+"
+1.2.3. SyntaxWord order patterns in Lezgian are overwhelmingly head-final. This order
+is obligatory in noun phrases (Genitive-noun, adjective-noun, numeral-
+noun, demonstrative-noun, etc.), adjective phrases, and postpositional
+phrases, and it is preferred for clauses. However, alongside SOV order other
+orders are also possible, especially in the spoken language.
+   The case-marking patterns in clauses is uniformly ergative, as shown in
+(2) (for notational conventions used in example sentences, see 1.3.4.-5.).(2) a. Stxa         k'wal.i-z        xta-na.
+       brother(ABS) house-DAT       return-AOR
+       The brother came back home.'
+6      1. Introduction       b. Wax.a           stxa            k'wal.i-z            raqur-na.
+          sister(ERG) brother(ABS) house-DAT send-AOR          T h e sister sent the brother home.'","[25, 26]"
+"   Besides information structure, another important factor is clearly heavi-
+ness, which leads to the predominantly clause-initial position of adverbial
+clauses (cf. Ch. 21).
+                                        16.2. Word order at the clause level   30316.2.4. Discontinuous constituents?","[322, 323]"
+"(798) Dide.di-waj       perde.di        c'aj       q'u-na.
+      mother-ADEL       curtain(ERG)    fire     catch-AOR
+       'Mother accidentally caused the curtain to catch fire.'
+Thus, the Adelative NP in (793) is not at all parallel syntactically to the
+Ergative NP in (794). The verb xun Areale' is transitive in (794), but intransi-
+tive in (793). While the Ergative NP behaves like an English subject in most
+respects, the Adelative NP can be likened to English ora-phrases ('The cur-
+tain caught fire on mother;' 'The flowers wilted on Maisa.') or to the
+German dativus incommodi ('Die Blumen sind ihr verwelkt.').
+                                  Chapter 16
+                              Syntax of the clauseThe preceding chapter on verbal valence contains the central information
+on clause-internal syntax. This chapter deals with some further issues: the
+problem of grammatical relations (especially the subject, 16.1.), word order at
+the clause level (16.2.), and clausal adjuncts (16.3.).","[313, 314]"
+"
+21.6.1. The postposition patal 'in order to'Patal 'in order to/for' is identical to the postposition patal 'for' (cf. 12.2.2.4.).
+It takes a Masdar clause in the Absolutive case. ΡαίαΖ-clauses may have a
+subject of their own, as in (1091), but their subject is most often controlled by
+a salient argument in the superordinate clause, as in (1090).
+392   21. Adverbial clauses(1090) Hilrmet      k'wal-äj        qecel        eqeö'-un     patal      rak'-ar.i-qh          fe-na.
+       Hürmet        [house-INEL out             go.out-MSD for]         door-PL-POESS        go-AOR
+       ΉÜΓmet went to the door to go out of the house.' (R66:26)(1091) Ada-z       Ali   amuq'-un        patal        wui      iji-da-t'a         öi-zwa-6-ir.       (J89:24)
+       he-DAT      [[Ali stay-MSD           for]      what     do-FUT-CND] know-IMPF-NEG-PST
+       H e didn't know what to do in order for Ali to stay.'","[411, 412]"
+"(1138) Za       (zuw) Dagustan.di-z         xkwe-da    luhu-z       umud-zawa.
+        I:ERG [(self)    Daghestan-DAT      return-FUT say-IMC]   hope-IMPF       1 hope that I will return to Daghestan.'
+   Complement clauses can roughly be divided into subject-controlled and
+object-controlled clauses. Some complement-taking verbs that take subject-
+controlled complements are k'an- 'want', d- 'know how to', werdiS Aun 'get
+used to' (with infinitival complements, 20.2.1.-3.); dawamarun        'continue',
+aqwazarun     'stop', q'et'un 'decide' (with Masdar complements, 20.3.3-4.).
+Some complement-taking verbs that take object-controlled complements
+are tun 'make, cause', öirun 'teach' (with Infinitival complements, 20.2.4.);
+t'alabun 'ask', bujrugun 'order', qadaga awun 'forbid' (with Masdar com-
+plements, 20.3.2.).
+   Besides controllers that are subjects in the sense of 16.1., there are also
+other salient arguments that are typically animate and that can act as con-
+trollers of omitted complement clause subjects, e.g. the Adelative argument
+of fun 'be able', the Superelative argument of alaq'un 'be able to' (cf. 20.2.2.),
+the Genitive argument of rik'elaj alatun (cf. 20.2.3.).
+   Finally, there are complement clause constructions which never show
+coreferential omission because the complement clause is the only argument
+of the complement-taking verb, e.g. baUamiSun           'begin' (20.2.5.), lazim
+'necessary' (20.3.1.).",[428]
+"(813) — Lam?            Ja-t'a      zun-ni         qwe-da, — laha-na                        zanawur.di.
+           [donkey      COP-CND      I:ABS-also come-FUT]                 say-AOR      woIf(ERG)      — Sa                  man, — razi                 xa-na      abur. (K90,12:3)
+           [come:IMPV       ΡΓ]            agreed be-AOR            they      '— The donkey? Then I'll come, too, — said the wolf.
+      — Come along, then, — agreed they.'
+300   16. Syntax of the clause  Another condition under which non-verb-final word order is usual is in
+the formulaic beginning of a fairy tale:(814) £a-na     q'wan, £a-na-ö                q'wan Abas luhu-da-j                    sa    gada.
+      be-AOR    FT         be-AOR-NEG         ΡΓ           [Abas       say-FUT-PTP]   one boy      Once upon a time there was a boy called Abas/ (Lit. There was, there
+      was not, a boy called Abas.') (X89:125)  Outside of these literary conventions, non-verb-final order is not un-
+common in direct speech in narrative prose, especially in questions (cf. 815)
+and in emphatic or emotional speech (cf. 816).(815) a. Amma        pul      gwa-ni        wa-w? (K86,2:5)
+         but         money be.at-Q          you-ADESS         'But do you have money?'      b. Wa-z        äi-da-ni       zun       jif.i-z            wuciz eliiq'-zawa-t'a?         (A90:23)
+         you-DAT know-FUT-Q         [I:ABS night-DAT             why       bark-IMPF-CND]         'Do you know why I bark at night?'      c. Sad     tuS-ni           wun        zi         teklif.da-l?      (S88:162)
+         glad    COP:NEG-Q        you:ABS I:CEN          invitation-SRESS         'Aren't you glad about about my invitation?'(816) a. Paka        hat-da       kün              öi            gl-e! (H77:8)
+         tomorrow get-FUT         you.all:ABS      we:GEN         hand-INESS         'Tomorrow you-all will fall into our hands!'      b. Akwa-n       abur.u        zun       hik' q'abul-da-t'a.             (083:71)
+         see-HORT     [they(ERG) I:ABS how              receive-FUT-CND]         'Let's see how they will receive me.'      c. A:     Im          wuö ja?           Β: Ci-da-6                   ζα-ζ! Isätda         kilig-da!
+                this:ABS      w h a t COP          know-FUT-NEG            I-DAT      row     look-FUT         Ά : What's this? Β: No idea! I'll check right away!' (M83:57)16.2.2. Position of the argumentsThe most common position is for the subject to precede the other argu-
+ments, as shown in (817) and in many other sentences in this grammar.(817) a. Gada.di       wiöi-n      £ibin.da-j           c'akul     aqud-na.        (AM87:7)
+         boy(ERG)      self-GEN    pocket-INEL          feather    take.out-AOR         'The boy took a feather out of his pocket.'
+                                                             16.2. Word order at the clause level            301     b. Za-z      am           sa     hina         jat'ani     aku-na.     (K90,3:2)
+        I-DAT     it:ABS       one where           INDEF       see-AOR         Ί have seen it somewhere.'     c. Zun        tadi-z            xilr.ü-z           qhfi-da.       (J89:27)
+        I:ABS      quick-ADV village-DAT                retum-FUT         Ί will quickly return to the village.'
+However, the order of the arguments with respect to each other seems to be
+determined by information structure rather than by grammatical relations.
+Given information tends to precede new information, and the subject sim-
+ply is most often given information. In those relatively infrequent cases
+where another argument is given and the subject is new, the subject follows
+that argument:(818) a. Mizafer       sifte        6'exi xci-n          k'wal.i-z       fe-na-j.             Wad
+         Mizafer       first        big      son-GEN house-DAT            go-AOR-PST         five         lahaj     merteba.di-z              xkaz      xa-na.           Rak         6'exi     xci-n
+         ORD       floor-DAT                 raise     ANTIC-AOR        door        big       son-GEN        swas      Ajnise.di           aqhaj-na.         (§83:61)
+         bride    Ajnise(ERG) open-AOR         'Mizafer first went to his older son's house. He went up to the fifth
+         floor. The door was opened by his older son's wife Ajnise.'      b. Cna        wa-z            xazina          hina       öüniix-nawa-t'a               luhu-da,   wuna
+         we:ERG     you-DAT [treasury               where      hide-PRF-CND]                 say-FUT    you:ERG        paöah.di-z          a             xazina      zin-err.i         öünüx-na            lah. (Du85,3:116)
+         king-DAT           [ t h a t treasury        jinn-PL(ERG) hide-AOR]                say:IMPV         We'll tell you where the treasury is hidden, and you tell the king
+         that that treasury was hidden by jinns.'","[319, 320, 321]"
+"                                           Berlin, August 1992
+                             Table of Contents
+                                   PreliminariesAbbreviations                                                    xix
+1. Introduction                                                    1
+   1.1. The Lezgian language and its genetic affiliation           1
+   1.2. An overview of Lezgian grammar                             2
+        1.2.1. Phonology and morphophonemics                       2
+        1.2.2. Morphology                                          4
+        1.2.3. Syntax                                              5
+   1.3. A user's guide to this grammar                             8
+        1.3.1. User-friendly features                              8
+        1.3.2. Structure of the grammar                            9
+        1.3.3. Grammatical terminology                            10
+        1.3.4. Example sentences                                  11
+        1.3.5. Notational conventions for morphemic glosses       132. Lezgian and its speakers                                      16
+   2.1. The Lezgians                                             16
+        2.1.1. Population figures                                16
+        2.1.2. Geographical location                             17
+        2.1.3. Some remarks on Lezgian history                   17
+        2.1.4. The ethnonym Lezgian                              19
+   2.2. Lezgian dialects                                         20
+        2.2.1. Dialect division                                  20
+        2.2.2. Some salient divergent features of the dialects   21
+   2.3. The status of Lezgian and the standard language          23
+   2.4. The effect of language contact on Lezgian                25                                     Phonology3. Segmental phonological units                                  28
+   3.1. Orthography and transliteration                          28
+        3.1.1. Comments on Table 2                               29
+        3.1.2. Deviations from phonemic spelling                 30
+   3.2. Vowels                                                   31
+        3.2.1. Vowel inventory                                   31
+        3.2.2. Allophonic variation                              32
+   3.3. Consonants                                               33
+        3.3.1. Consonant inventory                               33
+        3.3.2. Allophonic variation                              35
+χ   Contents4. Phonotactics                                                   36
+   4.1. Vowel syncope                                             36
+        4.1.1. Pretonic High Vowel Syncope                        36
+        4.1.2. Post-tonic Vowel Syncope                           38
+   4.2. Syllable structure                                        40
+        4.2.1. Pre-syncope CV-structure                           40
+        4.2.2. Pre-syncope morpheme-internal consonant clusters   41
+        4.2.3. Post-syncope syllable structure                    46
+   4.3. Restrictions on the cooccurrence of consonants            47
+   4.4. Vowel harmony                                             48
+        4.4.1. Palatal Vowel Harmony                              48
+        4.4.2. Labial Vowel Harmony                               49
+   4.5. Labial Obstruent-Vowel Harmony                            50
+   4.6. Neutralization of Obstruent Labialization                 505. Phonological and morphophonemic alternations                   52
+   5.1. Pre-ejective Ejective Aspiration                          52
+   5.2. Word-final Unaspirated Voicing                            53
+   5.3. Post-obstruent Aspirated Deaspiration                     55
+   5.4. Pre-obstruent Unaspirated Aspiration                      55
+   5.5. Vowel harmony alternations                                56
+   5.6. High Vowel Loss                                           58
+   5.7. Labial Obstruent-Vowel Harmony alternations               59
+   5.8. Metathesis of Labialization                               59
+   5.9. Word-final Ejective Aspiration                            60
+   5.10. Word-final Ejective Voicing                              61
+   5.11. Unstressed Vowel Heightening                             61
+   5.12. Loss of Μ                                                62
+   5.13. Affricate Assimilation                                   63
+   5.14. Dissimilatory loss of /r/                                636. Word stress                                                    64
+   6.1. Stress of roots                                           64
+        6.1.1. Verbal roots                                       64
+        6.1.2. Non-verbal roots                                   65
+   6.2. Stress properties of suffixes                             67
+        6.2.1. Stress-attracting suffixes                         67
+        6.2.2. Stress-neutral suffixes                            68
+   6.3. Stress in post-syncope Lezgian                            70                                        Morphology7. Noun morphology                                                71
+   7.1. Nominal inflection                                        71
+        7.1.1. Plural formation                                   71
+        7.1.2. Case formation                                     74
+        7.1.3. Alternations                                       79
+        7.1.4. Irregularities                                     80
+        7.1.5. Illustrative paradigms                             80
+                                                                    Contents    xi  7.2. Functions of nominal inflectional categories                             81
+       7.2.1. Functions of the plural                                           81
+       7.2.2. Functions of the cases                                            83
+  7.3. Nominal derivation                                                      105
+       7.3.1. Derivational suffixes                                            105
+       7.3.2. Nominal compounding                                              107
+       7.3.3. Conversion from adjectives                                       109
+       7.3.4. Echo compounds                                                   1098. Adjective morphology                                                        110
+   8.1. Adjectival inflection                                                  110
+        8.1.1. Substantivization                                               110
+        8.1.2. Adjectival adverbs                                              113
+        8.1.3. Predicative suffixes on adjectives                              116
+        8.1.4. Nationality words                                               118
+   8.2. Adjectival derivation                                                  120
+        8.2.1. Derivational suffixes                                           120
+        8.2.2. Derivational prefix                                             1219. Verbal inflection                                                           122
+   9.1. Introduction                                                           122
+   9.2. The three stems of strong verbs                                        122
+   9.3. Verbal inflectional categories                                         127
+        9.3.1. Forms derived from the Masdar stem                              128
+        9.3.2. Forms derived from the Imperfective stem                        130
+        9.3.3. Forms derived from the Aorist stem                              131
+        9.3.4. Secondary verbal categories                                     132
+        9.3.5. Prefixal negation and the Periphrasis forms                     133
+   9.4. Illustrative partial paradigms                                         135
+   9.5. Irregular verbs                                                        136
+        9.5.1. The copulas                                                     136
+        9.5.2. Verbs lacking a Masdar and Aorist stem                          137
+        9.5.3. Verbs with a root in -ä(g)-                                     139
+   9.6. Functions of basic tense-aspect categories                             140
+        9.6.1. Imperfective                                                    140
+        9.6.2. Future                                                          141
+        9.6.3. Aorist                                                          142
+        9.6.4. Perfect                                                         143
+        9.6.5. Continuative Imperfective and Continuative Perfect              145
+        9.6.6. Past                                                            146
+   9.7. Periphrastic tense-aspect categories                                   146
+        9.7.1. Periphrastic Habitual                                           146
+        9.7.2. Periphrastic Future                                             147
+        9.7.3. Hearsay Evidential                                              148
+   9.8. Functions of non-indicative finite verb forms                          149
+        9.8.1. Imperative                                                      149
+        9.8.2. Prohibitive                                                     149
+        9.8.3. Hortative                                                       150
+        9.8.4. Optative                                                        151
+        9.8.5. Conditional                                                     152
+        9.8.6. Interrogative                                                   153
+xii     Contents      9.9. Functions of non-finite verb forms                      153
+           9.9.1. Masdar                                           153
+          9.9.2. Participle                                        155
+          9.9.3. Infinitive (Imperfective converb)                 156
+           9.9.4. Aorist converb                                   157
+          9.9.5. Specialized converbs                              158
+      9.10. Archaic verb forms                                     158
+           9.10.1. Archaic Preterit                                158
+           9.10.2. Archaic Future                                  159
+           9.10.3. Archaic Past Future                             160
+           9.10.4. Archaic Imperfective participle                 16110. Verbal derivation                                              163
+   10.1. The causative                                             163
+   10.2. The anticausative                                         165
+   10.3. Preverbs                                                  167
+       10.3.1. The forms of the preverbs                           167
+       10.3.2. The syntax of verbs with preverbs                   168
+       10.3.3. A list of preverb verbs                             170
+   10.4. The Repetitive                                            174
+       10.4.1. Forms of the Repetitive                             174
+       10.4.2. Meaning of the Repetitive                           176
+   10.5. The -lamiS-form                                           177
+   10.6. Verbal compounds                                          178
+       10.6.1. Full and reduced awun-compounds                     178
+       10.6.2. Types of noun-verb compounds                        180
+       10.6.3. Adjective-verb compounds                            18311. Pronouns                                                       184
+   11.1. Personal pronouns                                         184
+   11.2. Reflexive pronouns                                        184
+   11.3. Correlations between demonstratives, interrogatives and
+         indefinites                                               187
+   11.4. Demonstratives                                            190
+   11.5. Interrogative pronouns                                    192
+   11.6. Indefinite pronouns                                       194
+       11.6.1. Ordinary indefinite pronouns                        194
+       11.6.2. Free-choice indefinite pronouns                     195
+       11.6.3. Specific indefinite pronouns                        197
+       11.6.4. Negative indefinite pronouns                        197
+   11.7. Other determiners                                         200
+       11.7.1. The universal quantifier wiri 'all'                 200
+       11.7.2. The universal quantifier har 'every'                202
+       11.7.3. 'Other'                                             20412. Adverbs and postpositions                                      205
+   12.1. Adverbs                                                   205
+       12.1.1. Spatial adverbs                                     205
+       12.1.2. Temporal adverbs                                    207
+       12.1.3. Causal adverbs                                      211
+       12.1.4. Degree adverbs                                      211
+                                                                    Contents   xiii      12.1.5. Other adverbs                                                    212
+  12.2. Postpositions                                                          213
+      12.2.1. Postpositions that are identical to spatial adverbs              213
+      12.2.2. Postpositions based on spatial nouns                             219
+      12.2.3. Postpositions derived from converbs                              224
+      12.2.4. Synchronically non-derived postpositions                         22713. Numerals and particles                                                     230
+   13.1. Numerals                                                              230
+       13.1.1. Cardinal numbers                                                230
+       13.1.2. Substantivized cardinal numbers                                 232
+       13.1.3. Ordinal numbers                                                 233
+       13.1.4. Fractions                                                       234
+       13.1.5. Inclusive numerals                                              234
+       13.1.6. Multiplicative numerals                                         234
+       13.1.7. Distributive numerals                                           235
+       13.1.8. Approximate numeral expressions                                 235
+   13.2. Focus particles                                                       237
+       13.2.1. Additive focus particles                                        237
+       13.2.2. Restrictive focus particles                                     238
+       13.2.3. The particles mad 'still' and hele 'already                     239
+   13.3. Discourse particles                                                   241
+   13.4. The negative particle wa?.                                            245
+   13.5. Other particles                                                       246
+   13.6. Interjections                                                         249                                       Syntax14. The noun phrase and the adjective phrase                                251
+   14.1. General properties of the noun phrase                              251
+   14.2. Quantifiers                                                        253
+       14.2.1. Scalar quantifiers                                           253
+       14.2.2. Partitive phrases                                            254
+       14.2.3. Quantifier float in exitential sentences                     255
+   14.3. Apposition                                                         256
+   14.4. Word order in the noun phrase                                      259
+       14.4.1. The position of the Genitive noun phrase                     260
+       14.4.2. The position of the relative clause                          261
+       14.4.3. The position of demonstratives, adjectives, and numerals.... 262
+   14.5. The adjective phrase                                               264
+       14.5.1. Adjectival valence                                           264
+       14.5.2. Adjuncts in the adjective phrase                             266
+       14.5.3. Predicative-only adjectives                                  266
+       14.5.4. Different-subject adjectives                                 267
+xiv   Contents15. Verbal valence                                                    268
+   15.1. Valence patterns: introduction                               268
+   15.2. General characteristics of verbal valence patterns           268
+   15.3. Standard valence patterns                                    271
+       15.3.1. Valence patterns with only an Absolutive argument      271
+       15.3.2. Valence patterns with a Dative argument                271
+       15.3.3. Valence patterns with an Adessive argument             272
+       15.3.4. Valence patterns with an Adelative argument            273
+       15.3.5. Valence patterns with a Postessive argument            274
+       15.3.6. Valence patterns with a Postelative argument           275
+       15.3.7. Valence patterns with a Subessive argument             275
+       15.3.8. Valence patterns with a Subelative argument            276
+       15.3.9. Valence patterns with a Superessive argument           277
+       15.3.10. Valence patterns with a Superelative argument         277
+       15.3.11. Valence patterns with a Superdirective argument       278
+       15.3.12. Valence patterns with an Inessive argument            278
+       15.3.13. Valence patterns with an Inelative argument           279
+       15.3.14. Valence patterns with an adverbial argument           279
+       15.3.15. ""Genitive arguments"" in verbal idioms                 279
+   15.4. Non-standard valence patterns                                280
+       15.4.1. Valence patterns with a Dative subject argument        280
+       15.4.2. Valence patterns of noun + awunl£un compounds          284
+   15.5. Free omission of arguments                                   287
+   15.6. Labile verbs                                                 289
+       15.6.1. The argument from the scope of negation                290
+       15.6.2. The argument from Imperatives                          290
+       15.6.3. The argument from the Involuntary Agent Construction   29116. Syntax of the clause                                              294
+   16.1. Grammatical relations: the notion of subject                 294
+       16.1.1. Subject properties                                     294
+       16.1.2. Evidence from preferential constructions               295
+       16.1.3. Evidence from switch-reference with 'want'             297
+   16.2. Word order at the clause level                               298
+       16.2.1. Position of the verb                                   299
+       16.2.2. Position of the arguments                              300
+       16.2.3. Position of the adjuncts                               302
+       16.2.4. Discontinuous constituents?                            303
+   16.3. Clausal adjuncts                                             303
+       16.3.1. Spatial adverbials                                     303
+       16.3.2. Temporal adverbials                                    304
+       16.3.3. Other predication adverbials                           306
+       16.3.4. Sentence adverbials                                    307
+       16.3.5. Conjunctional adverbials                               30917. Copular clauses                                                   311
+   17.1. Copular clauses with a predicative noun phrase               311
+   17.2. Copular clauses with a predicative adjective phrase          312
+   17.3. Subjectless copular clauses                                  314
+   17.4. 'Become' and 'remain'                                        315
+   17.5. Transitive copular clauses                                   316
+                                                                   Contents    xv  17.6. Local copular clauses                                                 317
+      17.6.1. The local copula awa 'be in'                                    317
+      17.6.2. The local copula gwa lie at'                                    318
+      17.6.3. The local copula gala 'be behind'                               319
+      17.6.4. The local copula kwa 'be under'                                 320
+      17.6.5. The local copula ala 'be on'                                    321
+      17.6.6. Continuative forms of the local copulas                         322
+  17.7. Predicative adverbial phrases with the standard copula                325
+  17.8. A copular construction for indicating age                             32518. Coordination                                                              327
+   18.1. Conjunction                                                          327
+       18.1.1. The conjoining coordinator -ni                                 327
+       18.1.2. -ni as a focus marker                                          328
+       18.1.3. Conjunction with wa 'and'                                      329
+       18.1.4. Minor types of conjunction                                     330
+   18.2. Disjunction                                                          331
+       18.2.1. Disjunction with ja 'or'                                       331
+       18.2.2. Disjunction with taitajt'a 'if it is nof                       332
+       18.2.3. Disjunction with gah...gah 'now...now'                         333
+       18.2.4. Negative disjunction ja., .ja 'neither...nor'                  334
+       18.2.5. A minor type of disjunction                                    335
+   18.3. Clause coordination                                                  335
+       18.3.1. Coordinators                                                   335
+       18.3.2. Coreferential omission in coordination                         33719. Relative clauses                                                          340
+   19.1. Non-finite (participial) relative clauses                            340
+       19.1.1. Attributive relative clauses                                   340
+       19.1.2. Headless relative clauses                                      342
+       19.1.3. Non-restrictive relative clauses                               343
+       19.1.4. Relativization into subordinate clauses                        344
+   19.2. Finite (correlative) relative clauses                                345
+   19.3. Predicative relative clauses                                         347
+       19.3.1. The nominal predicative substantivized participle              348
+       19.3.2. The verbal predicative substantivized participle               349
+   19.4. Cleft sentences                                                      35220. Complement clauses                                                        354
+   20.1. The zero strategy: direct speech                                     354
+   20.2. The Infinitive                                                       355
+       20.2.1. Subject-controlled irrealis-prospective complements            356
+       20.2.2. Subject-controlled irrealis-potential complements              357
+       20.2.3. Subject-controlled realis complements                          358
+       20.2.4. Object-controlled complements                                  358
+       20.2.5. Non-controlled complements                                     359
+   20.3. The Masdar                                                           359
+       20.3.1. Complements to modal predicates                                360
+       20.3.2. Complements to manipulative verbs                              360
+       20.3.3. Complements to phasal verbs                                    361
+       20.3.4. The Absolutive Masdar with other verbs                         362
+xvi   Contents      20.3.5. The oblique Masdar in situation complements            362
+      20.3.6. The oblique Masdar in factive complements              364
+  20.4. The substantivized participle                                365
+  20.5. The luhun strategy                                           367
+      20.5.1. Direct and indirect speech                             367
+      20.5.2. Verbs of thinking                                      368
+      20.5.3. Emotional complement-taking predicates                 368
+      20.5.4. Other complement-taking predicates                     369
+  20.6. The converb strategy                                         369
+      20.6.1. Different-subject complements to k'an-                 369
+      20.6.2. Situation complements to akun                          370
+  20.7. The £i strategy                                              370
+      20.7.1. Cognitive complement-taking predicates                 371
+      20.7.2. Verbs of thinking                                      371
+      20.7.3. Verbs of saying                                        372
+      20.7.4. Evaluative predicates                                  372
+  20.8. Minor strategies                                             372
+      20.8.1. The -wal form                                          372
+      20.8.2. The ö'al strategy                                      373
+  20.9. Complement clauses in noun phrases                           37321. Adverbial clauses                                                375
+   21.1. Adverbial clauses with the Aorist converb                   376
+   21.2. Adverbial clauses with the Imperfective converb             378
+   21.3. Adverbial clauses with the Secondary Imperf. converbs       381
+       21.3.1. The secondary Imperfective converb of the Perfect     381
+       21.3.2. The secondary Imperfective converb of the Imperfect   382
+   21.4. Temporal clauses                                            382
+       21.4.1. The Temporal converb                                  382
+       21.4.2. The Posterior converbs                                384
+       21.4.3. The Immediate-Anterior converbs                       385
+       21.4.4. The Graduative converb                                387
+       21.4.5. The postpositions                                     387
+       21.4.6. The relative clause heads ö'awuz, waxtunda, arada     388
+       21.4.7. The relative clause head q'wan                        388
+   21.5. Causal clauses                                              389
+       21.5.1. The postposition kiligna because of'                  389
+       21.5.2. The Causal converb                                    390
+       21.5.3. Causal clauses marked by luhuz/lahana                 390
+       21.5.4. Other causal clauses                                  391
+   21.6. Purpose clauses                                             391
+       21.6.1. The postposition patal 'in order to'                  391
+       21.6.2. The Infinitive                                        392
+       21.6.3. The Purpose/Manner converb                            392
+       21.6.4. Purpose clauses with luhuz/lahana    + Optative       393
+   21.7. Conditional clauses                                         394
+       21.7.1. Ordinary conditionals                                 394
+       21.7.2. Counterfactual conditionals                           395
+   21.8. Concessive clauses                                          396
+       21.8.1. Concessive clauses proper                             396
+       21.8.2. Concessive conditional clauses                        397
+                                                               Contents   xvii      21.8.3. Alternative concessive conditional clauses                  398
+      21.8.4. Parametric concessive-conditional clauses                   398
+  21.9. 'As' clauses                                                      400
+      21.9.1. Purpose/Manner clauses as epistemic qualifications          400
+      21.9.2. Purpose/Manner clauses expressing conformity of action      400
+      21.9.3. Purpose/Manner clauses expressing comparison                40022. Coreference                                                           401
+   22.1. Pronominal anaphora and pronoun dropping                         401
+   22.2. Controller and target of omission in adverbial clauses           404
+   22.3. Controller and target of omission in complement clauses          407
+   22.4. Reflexivization                                                  408
+       22.4.1. Syntactic function of the antecedent                       408
+       22.4.2. Position of the reflexive pronoun                          412
+       22.4.3. Special uses of the reflexive pronouns                     414
+   22.5. Reciprocalization                                                41523. Questions                                                             417
+   23.1. Polar questions                                                  417
+       23.1.1. Ordinary polar questions                                   417
+       23.1.2. Polar questions with a focused constituent                 418
+       23.1.3. Alternative questions                                      418
+       23.1.4. Tag questions                                              419
+       23.1.5. Answers to polar questions                                 420
+   23.2. Parametric questions                                             421
+       23.2.1. Questioning constituents of the clause                     421
+       23.2.2. Questioning constituents of the noun phrase                423
+       23.2.3. Questioning constituents of subordinate clauses            423
+       23.2.4. Cleft parametric questions                                 424
+       23.2.5. Multiple parametric questions                              425
+   23.3. Indirect questions                                               425
+       23.3.1. Ordinary indirect questions                                425
+       23.3.2. ""Indirect questions"" used as independent sentences         427
+   23.4. Echo questions                                                   428
+   23.5. Question particles                                               428
+   23.6. Question-like exclamations                                       431
+   23.7. Non-indicative questions                                         43124. Comparison                                                            432
+   24.1. Comparison of inequality                                         432
+       24.1.1. The comparative degree                                     432
+       24.1.2. The comparative clause                                     433
+       24.1.3. Expressing degrees of inequality                           434
+       24.1.4. The superlative                                            436
+   24.2. Comparison of equality                                           436
+       24.2.1.xiz 'like'                                                  436
+       24.2.2. Jctin 'like'                                               439
+       24.2.3. q'wan 'as much as'                                         439
+   24.3. Excessive degree                                                 441
+xviii   Contents
+                                     Appendices25. Texts                                         442
+   25.1. The Nightingale                          443
+   25.2. Who is Stealing the Melons?              445
+   25.3. The Magpie and the Wolf                  452
+   25.4. The Flower from Russia                   457
+   25.5. Congress in Beli2                        470
+   25.6. An early text in the Latin script        47726. Lezgian-English vocabulary                    47927. English-Lezgian vocabulary                    515Cross-references to additional examples           530
+References                                        539
+Index of affixes                                  557
+Subject Index                                     560
+                         Abbreviations
+Abbreviated category labels used in morpheme-by-morpheme glosses
+(see 1.3.5. for further notational conventions in glosses):ABS        Absolutive case
+ABST       Abstract noun
+ADDIR      Addirective case
+ADEL       Adelative case
+ADESS      Adessive case
+ADV        adverbializer
+AFUT       Archaic Future
+AIMPP      Archaic Imperfective participle
+ANTIC      anticausative
+AOC        Aorist converb
+AOP        Aorist participle
+AOR        Aorist
+APRET      Archaic Preterit
+CAUS       Causal converb
+CND        Conditional
+CONT       Continuative
+COP        copula
+DAT        Dative case
+EVID       Hearsay Evidential
+FUT        Future
+GEN        Genitive case
+GRAD       Graduative converb
+ERG        Ergative case
+HORT       Hortative
+IMC        Imperfective converb
+IMMANT     Immediate-Anterior converb
+IMPF       Imperfective
+IMPV       Imperative
+INDEF      indefiniteness marker (on indefinite pronouns)
+INESS      Inessive case
+INEL       Inelative case
+INF        Infinitive
+INTJ       Interjection
+MAN        Purpose/Manner converb
+MSD        Masdar
+NEG        negation
+OPT        Optative
+ORD        marker of ordinal numerals
+PER        Periphrasis form
+PL         plural
+PODIR      Postdirective case
+POEL       Postelative case
+POESS      Postessive case
+POSTR      Posterior converb
+PRED       predicative suffix
+xx      AbbreviationsPRF             Perfect
+PROHIB          Prohibitive
+PST             Past
+PT              particle
+PTP             participle
+PURP            Purpose/Manner converb
+Q               question marker
+REPET           Repetitive
+SBDIR           Subdirective case
+SBEL            Subelative case
+SBESS           Subessive case
+SBST            substantivizer
+SRDIR           Superdirective case
+SREL            Superelative case
+SRESS           Superessive case
+TEMP            Temporal converb
+Other abbreviations that are used occasionally:A.              Arabic
+Ch.             chapter
+intr.           intransitive
+IPA             International Phonetic Alphabet
+lit.            literally
+Ν               noun
+NP              noun phrase
+obi.            oblique stem
+P.              Persian
+T.              Turkic
+tr.             transitive
+V               verb
+A and U also represent archiphonemes:
+A stands for a low vowel, U stands for a high vowel.","[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]"
+"(925) LeSa.di        i        kar.da-l           tazubwal           iji-zwa-j          wa         am
+      LeÄa(ERG)      this     thing-SRESS        surprise           do-IMPF-PST        and    he:ABS      weq'.e-laj zigir.da-l              eqec'          qhiji-zwa-j. (K57:8)
+      grass-SREL     path-SRESS          go.out(PER)    REPET-IMPF-PST      'LeSa was surprised at this and he returned to the path from the grass.'
+338    18. CoordinationHowever, GadZiev (1954:191) admits that this ideal rule is not always ob-
+served. In fact, it is quite rarely observed in the modern standard language.
+Perhaps the rule reflects an earlier state of the language (and GadZiev's own
+intuitions) and has disappeared under the influence of Russian. Thus, ex-
+amples as in (926), where GadZiev's rule is violated, are quite normal nowa-
+days. In (926a), an intransitive and a transitive verb are conjoined, (926b)
+shows the opposite order, and (926c) shows an experiencer verb and a transi-
+tive verb.(926) a. Gada       dide.di-n            pataw        qhfe-na        wa        ada-z
+            boy      mother-GEN          to           return-AOR and        she-DAT           paöah.di-n         bujrug.di-kaj           sühbet-na.       (AM87:23)
+            king-GEN          order-SBEL              tell-AOR            'The boy returned to his mother and told her about the king's
+            order.'      b. Selim.a             rak      aq'al-na        wa stol.di-qh              acuq'-na.
+            Selim(ERG)       door     close-AOR       and table-POESS          sit-AOR            'Selim closed the door and sat down at the table.'      c. C'ulaw          niik'.re-z       kiö'e      xa-na            wa         minet-iz
+            black       bird-DAT          afraid     become-AOR       and      [beg-INF]            baSlamiS-na.            (K87,2:9)
+            begin-AOR            T h e black bird became afraid and began to beg.'","[357, 358]"
+"(716) Abur q'wed-ni          elqwej 6in         ala-j-bur,                  rc'am-ar
+      they     two-also     round       face     be.on-PTP-SBST.PL       eyebrow-PL
+      härq'ü-bur        tir. (J89:27)
+      wide-SBST.PL COP:PST      'They both had a round face and wide eyebrows (lit. were wide-
+      eyebrowed).'
+                                Chapter 15
+                              Verbal valence15.1. Verbal valence patterns: introductionVerbal valence patterns are represented here in the following format:      V (ACASEI/ BCASE2/···)where V stands for the verb, and A and Β stand for arguments in the case
+indicated by the subscript (the order of the arguments is arbitrary). The let-
+ters used as variables for arguments are arbitrary and serve only to distin-
+guish different arguments. However, I will often use letters that can be
+thought of as mnemonic for particular semantic roles (A: ""agent"", T:
+""theme"", L: ""location"", E: ""experiencer"", R: ""recipient""). Otherwise no at-
+tempt is made to systematically describe the semantic roles expressed by the
+arguments; this information is left implicit in the translations of the indi-
+vidual verbs.
+   Let us take a concrete example: The verb ilisun has the valence pattern:      V (AERG/ TABS/ LSRESS)and means Ά presses L by putting Τ in contact with L (= A presses L with
+T)'. This means that it has an (""agent"") argument in the Ergative case which
+corresponds to the subject of 'press' in the translation, a (""theme"") argument
+in the Absolutive case which corresponds to the object of 'put in contact
+with', and a (""location"") argument in the Superessive case corresponding to
+the object of 'press'. This is all the information contained in a valence
+frame, and it is sufficient, for example, to obtain the correct translation of
+the following sentence:(717) Ada      knopka.da-l     t'ub   ilis-na. (R66:9)
+     he(ERG)   button-SRESS    finger press-AOR     'He pressed the button by putting his finger in contact with it.'
+     (= 'He pressed the button with his finger.'
+     Lit. 'He pressed his finger on the button.')15.2. General characteristics of verbal valence patternsThere are very tight restrictions on possible verbal valence patterns, espe-
+cially the following:
+   (i) There are no verbs that take fewer than one argument. Weather situa-
+tions (rain, snow, etc.), which are expressed by zero-argument verbs in many
+                             15.2. General characteristics of verbal valence patterns     269
+languages, are expressed as 'rain is falling' (marf qwazwa),  etc. (However,
+predicative adjectives may be subjectless, cf. 17.3.)
+   (ii) There are no verbs that take more than three arguments.
+   (iii) Most of the valence patterns contain an Absolutive argument. There
+are a few exceptions which belong to the ""non-standard valence patterns""
+and are discussed in 15.4. below.
+   (iv) For each intransitive valence pattern with an Absolutive argument
+there is a corresponding transitive valence pattern which contains the same
+arguments plus an Ergative argument.
+   (v) Except for the purely adnominal Genitive case and the rare Directive
+cases, all cases occur in at least one valence pattern together with an
+Absolutive argument (but see 15.3.15. for ""Genitive arguments"").
+   Thus, the valence patterns in (718) are the most typical, and they are
+therefore called ""standard valence patterns"" here. Each of them is exempli-
+fied in one subsection of 15.3.","[287, 288, 289]"
+"
+14.4.1. The position of the Genitive NPThe Genitive NP generally precedes all other modifiers because otherwise
+those modifiers could be taken as modifying the Genitive noun rather than
+its head. In example (686), the Genitive NP precedes an adjective (a), a
+demonstrative (b), a quantifier (c), a numeral (d), and even a relative clause
+(e) (but see 14.4.2. for the order of relative clauses).(686) a. gatfar.i-n         öimi jug (A90:5)
+            spring-GEN      warm   day
+            'a warm day of spring'      b. Sa xwa Seher.di-n               i      q'il-e,          mükü-di-ni
+         one son           town-CEN this        end-INESS   other-SBST.SG-and
+         a        q'il-e        jaSamiS       ze-zwa. (§83:55)
+         t h a t end-INESS living             be-IMPF
+            One son lives at this end of town, the other at the other end.'      c. lezgi      pisatel-r.i-n-ni          äair-r.i-n    sa     Sumud      ktab
+         Lezgain writer-PL-GEN-and            poet-PL-GEN one how.many book
+            'a couple of books by Lezgian writers and poets' (Du85,3:127)      d. külil     qu&-ar.i-n pud            mug (M83:43)
+         little    bird-PL-GEN     three nest
+            'three nests of little birds'
+      e. Giildeste.di-n         wiöi-n       juldakdi-n     t'war ala-j         xtul (583:21)
+         Guideste-GEN           [self-GEN husband-GEN       name     be.on-PTP] grandson
+            'Giildeste's grandson, who bears her husband' name'However, two types of Genitive NPs prefer a position closer to the head
+noun: short pronominal Genitives (cf. 687) and non-referential Genitive
+modifiers that correspond to English first compound members and to
+Russian relational adjectives (cf. 688).
+                                                        14.4. Word order in the noun phrase   261(687) a. rahmetlu          zi       wax (583:22)
+         deceased           I:GEN   sister         'my deceased sister' (not: sister of deceased I)      b. i       zi         kic' (K85,4:7)
+         this    I-.GEN dog         'this my dog' (not: dog of this I)(688) a. jeke rik'.i-n            t'arwal (583:63)
+         big     heart-GEN        pain         'a big heart pain' (not: pain of big heart)      b. i      jeke gatu-n                   xali-jar
+         this    big       summer-GEN        melon-PL         'these big muskmelons (lit. summer melons)' (not: melons of this
+         big summer)All these examples are syntactically ambiguous, but since the other reading
+is extremely unlikely in (687) (personal pronouns are hardly ever modified),
+and non-referential Genitives form fixed expressions with their head nouns
+in (688), the danger of confusion is small.
+   When a plausible meaning results, two Genitive NPs may modify the
+same head noun:(689) a. öi            a        6'aw.a-n predsedatel'             (R66:12)
+         we:GEN t h a t         time-GEN      chairperson         'our chair of that time'      b. zi       gat.u-n            kanikul-ar          (M83:64)
+         I:GEN    summer-GEN         vacation-PL         'my summer vacations'
+14.4.2. The position of the relative clauseThe participial relative clause is generally the first constituent of its NP be-
+cause of its heaviness. If other modifiers preceded the relative clause, these
+would be relatively far away from their head nouns. E.g.(690) wa-l             tapSurmiS-da-j           sa c'iji kar (E56:14)
+      [you-SRESS entrust-FUT-PTP]               one new     job      'a new job that will be entrusted to you'When this preference is in conflict with the preference that the Genitive NP
+should be the first constituent of the NP (14.4.1.), both orders are possible,
+and the order which causes least ambiguity in the context wins out.
+262    14. The noun phrase and the adjective phrase(691) a. k'wal.i-z       xta-j         Farid.a-n           wax
+         home-DAT retum-PTP Farid-GEN                      sister
+         'Farid's sister, who returned home' (or: 'the sister of [Farid, who
+         returned home]')      b. Farid.a-n         k'wal.i-z     xta-j              wax
+         Farid-GEN          home-DAT     return-ΡΓΡ sister
+         'Farid's sister, who returned home' (or: 'the sister who returned to
+         Farid's house')When the relative clause is short or when it forms a fixed expression, modi-
+fiers other than Genitives may precede it:(692) a. i     darwal         ala-j         ajal-ar    (M83:30)
+         this [poverty        be.on-PTP] child-PL
+         'these poor children (lit. these children on whom there is poverty)'      b. wiri aöux          tuS-ir            fonema-jar            (H82:12)
+         all     [open      COP:NEC-PTP] phoneme-PL
+         'all the consonant phonemes (lit. all the phonemes which are not
+         open)'In such cases a head noun may be modified by two stacked relative clauses:(693) bomba.di       jeke     zijan      ga-ji         c.i-n        k'anikaj   fi-da-j     gimi
+      [bomb(ERG)     big      damage give-AOP] [water below                    go-FUT-PTP] boat
+      'the submarine which was heavily damaged by a bomb (lit. the boat
+      [that goes below the water] [that a bomb damaged heavily])' (K87,2:15)
+14.4.3. The position of demonstratives, adjectives, and numeralsThe position of demonstratives, adjectives, and numerals with respect to
+each other seems to be quite free, except that the demonstrative may not fol-
+low the numeral. The demonstrative may precede or follow the adjective:(694) a. i     güzel             ciikw-er
+         this beautiful flower-PL
+         'these beautiful flowers'      b. a       baxtlu deq'iq'a-jar             (J84:5)
+         t h a t happy       minute-PL
+         'those happy minutes'(695) güzel      i          ciikw-er
+      beautiful this flower-PL
+      'these beautiful flowers'
+                                                        14.4. Word order in the noun phrase
+(696) öetin       i           Sart'-ar-a       (DD71,2:10)
+      difficult t h i s       condition-PL-INESS      'under these difficult circumstances'But the demonstrative precedes the numeral:(697) a. i        wad          ciik           (*wad i ciik)
+          this    five         flower          'these five flowers'      b. i        q'we govor (H63:52)
+          t h i s two          subdialect          'these two subdialects'The numeral or quantifier may precede or follow the adjective:(698) a. wad          giizel           ciik
+          five        beautiful flower          'five beautiful flowers'      b. pud          ö'exi     q'ügür (M83:44)
+          t h r e e big         hedgehog          'three big hedgehogs'      c. hiq'wan              c'iji §kola-jar      (DD85,2:21)
+          how.many new                school-PL
+          'how many new schools'(699) a. giizel           wad         ciik
+          beautiful five              flower          'five beautiful flowers'
+      b. lap      q'iizii sa            itim (X89:28)
+          very old              one     man          'a very old man'      c. wiöe-laj             gweö'i xejlin        diSehli-jar   (S83:6)
+          self-SREL           small      many      woman-PL          'many women who were younger than she'(700) is an example of two stacked adjectives modifying one head noun:(700) jaxun       ragul         sa     tula (K85,4:6)
+      lean        gray          one     pointer       'a lean gray pointer (dog)'
+264    14. The noun phrase and the adjective phrase
+14.5. The adjective phrase14.5.1. Adjectival valenceThere are a substantial number of adjectives that have an oblique argument
+(in addition to their subject argument, i.e. the argument toward which they
+are oriented and which they modify). What follows is a list of the most
+common adjectives that take an oblique argument, accompanied by a few
+examples for their use. Oblique adjectival arguments always precede the ad-
+jective.
+   For zero-argument adjectives in subjectless copular clauses, see!7.3.","[280, 281, 282, 283, 284]"
+"Such conclusions sometimes occur in the form of questions expecting a pos-
+itive answer:(626) Ak' ita-ji-la,          gila kwe-qh                   blektrik.di-n          ekw       ze-da    man?
+      so     be-AOP-TEMP      now      you.all-POESS        electricity-GEN l i g h t be-FUT         PT
+      'So now you-all will have electric light?' (J89:22)
+In other contexts, man means 'after all'.(627) a. Gzaf      öka-jar      aku-n-al               zi           rik'       ala-j.
+           [many   place-PL     see-MSD]-SRESS         I:GEN        heart     be.on-PST
+           Zehil   tir          man...
+           young   COP :PST    PT
+           Ί liked seeing many places. After all, I was young...' (HQ89:16)
+242   13. Numerals and particles      b. Bujrug      bujrug ja             man! (S88:156)
+         order       order         COP PT
+         'After all, orders are orders!'","[261, 262]"
+"
+21.6.4. Purpose clauses with luhuz/lahana + OptativeIn this type of purpose clause, the verb is in the Optative form. The purpose
+meaning arises in the following way: Ά does B, saying: May C do D!' gives
+rise to 'A does Β in order for C to do D'. Such purpose clauses always have a
+subject that is not identical to any of the arguments of the superordinate
+clause. As in the case of luhuz/lahana      in causal clauses (cf. 21.5.3.), such
+purpose clauses express a highly subjective motivation. A literal translation
+with 'saying' is often not very far from the correct sense, cf. (1094).",[413]
+"   However, there are certain conditions under which non-verb-final order
+in independent sentences is possible or even required. One such condition
+is in reporting clauses where the object argument represents direct speech.
+This appears to be something of a literary convention (much like in
+English), but in narrative prose writing it is practically exceptionless. The
+reporting verb follows the direct speech immediately, followed by other
+constituents of the clause.(812) a. Bedel,      sa    mani       lah, —            teklif-na          Abil.a. (Q81:114)
+          [Bedel     one song         say:IMPV]         propose-AOR        Abil(ERG)          'Bedel, sing a song, — proposed Abil.'
+      b. Dax,      im             qunUi      xiir-äj               ata-nwa-j         zi       dust   ja,
+          [dad     this:ABS [neighbor village-INEL                 come-PRF-PTP] I:gen friend        COP]          — laha-na          Rahman.a            Ali.di-n          qiin.e-l           gil       ecig-na.
+              say-AOR        Rahman(ERG)         [Ali-GEN        shoulder-SRESS h a n d put-AOC]          'Dad, this is my friend who has come from the neighboring village,
+          — said Rahman, putting his arm on Ali's shoulder.' (J89:27)This convention is so strong that it is followed even when the reporting
+verb is not strictly speaking a speech act verb.",[319]
+"Since Lezgian prefers verb-final word order, background-first constructions
+as in (975) are more common. They cannot always be translated by English
+wh-cleft sentences. For example, when the focus is a focus of a focus particle
+or the focus of a parametric question, as in (977), a wh-cleft is impossible in
+English.(977) a. Ana         k'walax-aj-di        sa zun ja-ni? (HQ89:13)
+         [there      work-AOP-SBST]       one I:ABS COP-Q         'Did only I work there?'      b. Ci            dagwi          ajal-r.i-kaj pahliwan-r.a-l               hejranwal
+        we:CEN         mountaineer child-PL-SBEL [artist-PL-SRESS              amazement        t-iji-da-j-di                  wuz ze-da? (J89:5)
+        NEG-do-FUT-PTP-SBST]           who     be-FUT         O f our mountain children, who will not look in amazement at the
+         tightrope walkers?'",[372]
+"   Another reason for reversing the normal subject-first order may be the
+heaviness of an argument. Heavy arguments tend to be placed at the margin
+of the clause, i.e. clause-initially in verb-final clauses.
+302   16. Syntax of the clause(820) a. Abur muq'uf.da-ldi                k'el-un     wa ezber-un          ζa        kwe-z
+         [they      skill-SRDIR            read-MSD and        cram-MSD]    I:ERG    you.all-DAT         k'ewelaj        meslät     qalur-zawa.        (K89,4:2)
+         strongly        advice     show-IMPF         1 advise you strongly to read and study them carefully.'      b. Xzan.di-n         t'iln.i-z     xari-zawa-j-d.a-laj                 pud       sefer.d-a
+         [family-CEN       food-DAT spend-IMPF-PTP-SBST.SG-SREL]             five    time-INESS        gzaf pul           za       i6ki.di-qh       gu-zwa. (Q81:110)
+         much money I:ERG           booze-POESS      give-IMPF         1 spend three times as much money on booze than I spend for
+         feeding my family.'","[321, 322]"
+"   The reflexive pronoun is not clause-bound. It may occur in a subordinate
+clause when the antecedent is in the superordinate clause. The examples be-
+low also show that linear order is irrelevant: The reflexive pronoun may
+precede or follow its antecedent.",[432]
+"Complement-taking predicate                 bujrugun A E R G M D A T        [0SUBJ-VMSD]
+                                            Ά orders Μ to V'Verbs that have the same syntax are teklifun 'propose' and qadaga                             awun
+'forbid'. (See 20.5.4. for a less common alternative strategy.)(1003) a. Paöah.di        abur.u-z     Q           dewe     zagur-un       bujrug-na.
+         king(ERG)        they-DAT     [0(ERG) camel         find-MSD]    order-AOR
+          'The king ordered them to find the camel.' (Du85,3:115)       b. Professor Giilmehamedov.a                 za-z      Dagustan.di-z        atu-n
+         Professor        Gjul'magomedov(ERG)       I-DAT [Daghestan-DAT          come-MSD]
+         teklif-na. (Ko90,2,7:4)
+         offer-AOR
+          'Professor Gjul'magomedov offered me to come to Daghestan.'       c. Zehil     polkovnik.di-z         ereq'    qhu-n,        p'ap'rus       6'ugu-n
+         young       colonel-DAT           [vodka drink-MSD        cigarette    draw-MSD]
+         duxtur-r.i           qadaga       awu-nwa.          (§83:58)
+         doctor-PL(ERG) forbidding         do-PRF
+         T h e doctors have forbidden the young colonel to drink vodka and
+         to smoke cigarettes.'",[381]
+"(1027) Wiri ha         ik' q^san-diz             kütäh       xa-na            luhu-z      am             Sad
+       [all     t h a t so     good-ADV          end         ANTIC-AOR        say-IMC]    she:ABS glad       tir. (DD75,3:7)
+       COP:PST       'She was glad that everything ended so well.'
+                                                                 20.5. The luhun strategy 36920.5.4. Other complement-taking predicatesThe luhun-strategy is rarely used with other complement-taking predicates,
+but (1028) is an example of its use with a manipulative verb. Note that the
+verb of the subordinate clause is in the Imperative. (Cf. also ex. (985a-b).)(1028) Za-z dekoracija-r          klub.di-n        sehne.di-z     twax           laha-na,
+       I-DAT   [decoration-PL     club-GEN         stage-DAT      carry:IMPV    say-AOC]       bujrug-na. (S88:156)
+       order-AOR       Ί was ordered to carry the decorations to the stage of the club.'","[388, 389]"
+"
+1.3.2. Structure of the grammarThe structure of this grammar follows the well-established traditional order:
+phonology — morphology — syntax — texts. This ensures that the amount
+of information that is presupposed in a given section but comes later in the
+book is minimized.
+   The morphological chapters deal with the form and the meaning of the
+grammatical items of the language. For inflectional categories, the inflection
+as a whole is first described, followed by a description of the meanings of the
+individual inflectional categories. For derivational categories, form and
+meaning are treated together.
+   While the morphology takes the analytical perspective (from form to
+function), the syntax takes the synthetic perspective (from function to form),
+with chapter topics such as coordination, relative clauses, complement
+clauses, adverbial clauses, coreference, questions, and comparison. All these
+are taken as functional notions. For example, participial relative clauses and
+correlative relative clauses show no formal similarities, but they are treated
+together in Ch. 19 because of their similar function.
+   Thus, this grammar to some extent fulfills the theoretical requirement to
+present the grammatical information both from an analytical and from a
+synthetic perspective (von der Gabelentz 1901, Lehmann 1980). For example,
+the functions of the Dative case are described twice: First from an analytical
+perspective in the chapter on nominal inflection (7.2.2.4.); and then from a
+synthetic perspective in the sections on verbal valence (15.3.2., 15.4.1.), on
+adjectival valence (14.5.1.1.), and on spatial and temporal adverbials
+(16.3.1.1., 16.3.2.1.). Similarly, the functions of the Aorist converb are de-
+scribed twice: First in the chapter on verbal inflection (9.9.4.), and then in
+the sections on adverbial clauses (21.1.) and on complement clauses (20.6.1.-
+2.). Sometimes only cross-references are made to avoid unnecessary repeti-
+tions.
+   However, this grammar, too, has an analytical bias. Not everything is de-
+scribed from a synthetic point of view. For example, there is no function-to-
+form treatment of tense meanings, or of number meanings. For such phe-
+nomena, the form-to-function description must suffice.
+10   1. Introduction1.3.3. Grammatical terminologyAnother feature that contributes to the user-friendliness of this grammar is
+the avoidence of opaque grammatical category labels such as ""5th Elative
+case"" or ""3rd Past tense"". Instead, grammatical labels with some mnemonic
+descriptive content have been chosen, such as ""Superelative case"" and ""Past
+Perfect"". This meant that traditional Lezgian terminology had to be aban-
+doned in several cases. However, the traditional terminology itself is by no
+means uniform. For example, Gajdarov's (1987a) textbook differs substan-
+tially from the earlier standard accounts of Talibov & GadZiev (1966) and
+Mejlanova (1967). Other works such as Zirkov (1941) and Moor (1985) use
+still different terms.
+   The following table is a comparative list of the most important terms that
+are most widespread in Russian-language studies of Lezgian and of the ter-
+minology used in this grammar (my terminology is closest to Mel'iuk's
+1988a).","[29, 30]"
+"   The oblique Masdar may have factive meaning also in argument posi-
+tions which are not typically occupied by clausal arguments.(1009) a. Bes      wuna         urus.di-n        ru& qaöu-n           abur.u            qhsan
+          ΡΓ       [you:ERG     Russian-GEN      girl    take-MSD]    they(ERG)    good          kar       jaz     hisab-da-ni?         (S88:171)
+          thing      as      consider-FUT-Q          'Will they consider the fact that you have taken a Russian girl a
+          good thing?'       b. I        inanmiSwal          Safiga pud           juq.u-z         Skola.di-z
+          this     belief              [Safiga     three     day-DAT       school-DAT          t-atu-n.i                     testiq'ar-zawa-j.         (N88:88)
+          NEG-come-MSCKERG)]            confirm-IMPF-PST          'This belief was confirmed by the fact that Safiga did not come to
+          school for three days.'       c. Cun           texnika        qajda.d-a         ta-xu-n.i              k'ew-e          twa-zuia.
+          we:ABS [technology           order-INESS       NEG-be-MSD(ERG)]       spot-INESS put-IMPF          'The fact that the technology is not in order puts us on the spot.'
+          (Ko89,10,13:l)
+                                                          20.4. The substantivized participle 365
+20.4. The substantivized participle
+Besides forming free relative clauses (see 19.1.2.), the substantivized partici-
+ple is used in complement clauses to verbs of cognition with factive mean-
+ing, like 'know', 'see(that)', 'notice', etc.","[384, 385]"
+"When combined with a Masdar, patal                        means 'in order to' (cf. also 21.6. on
+purpose clauses).",[242]
+"7.3.1. Derivational suffixesThe following derivational suffixes will be treated here. Only the first three
+are native, the others were borrowed and have not become truly productive.  -wal                     abstract nouns (from adjectives and nouns)
+  -wi                      nouns of origin (from place names)
+  -qhan                    profession (from nouns)
+  -hi                      profession (from nouns)       (Turkic)
+  -lux                     object (from nouns)           (Turkic)
+  -gan                     object (from nouns)           (Turkic)
+  -xana                    house (from nouns)            (Persian)
+  -ban                     profession                    (Persian)7.3.1.1. -wal. This suffix (oblique stem -wili, plural -wiler) is extremely pro-
+ductive. It forms abstract nouns from qualitative adjectives (cf. 227) and
+from nouns (cf. 228), and in a few cases from adverbs (cf. 229).(227)    qacu-wal           greenness             qacu              green
+      takabur-wal          'pride'                takabur          'proud'
+      sad-wal              'unity'                sad              'one'
+      tajinsuz-wal         'indefiniteness'       tajinsuz         'indefinite'
+(228) stxa-wal             'brotherhood'          stxa             'brother'
+      taraSöi-wal          'robbery'              taraSöi          'robber'
+      dust-wal             'friendship'           dust             'friend'
+(229)   aguz-wal           'lowness, lowland'     aguz             'low (adv.)'   The suffix -wal on nouns denoting a profession or function is also so
+regular and common that it could perhaps be regarded as an inflectional suf-
+fix. In order to express 'work as an X', one has to use it: X-wal awun (lit. 'do
+X-hood'), or X-wile k'walaxun (lit. 'work in X-hood'), e.g.          muallimwal
+awun 'work as a teacher', regiixbanwile k'walaxun 'work as a miller'. That
+-wile in such constructions is a sort of ""functive case"" suffix can be seen in
+examples like (230), where -wile is added to a plural noun.",[125]
+"
+23.3.2. ""Indirect questions"" used as independent sentencesSentences whose main verb is in the Conditional mood can also be used as
+independent sentences and express hesitating questions, self-addressed ques-
+tions (Ί wonder...'), and statements with low probability. They can perhaps
+be regarded as ""indirect questions used as independent sentences"".
+(However, such ""independent indirect questions"" of the alternative type dif-
+fer from indirect alternative questions, where the Conditional mood is not
+used, cf. 23.3.1.3. above.)  ""Polar questions"":(1202) a. Ewer-α         kwan     ada-z, —            bujrug     ga-na            pafah.di,
+         call-IMPV PT             he-DAT              order      give-AOR       king(ERG)
+            belki    hada-waj          ugri     zagur-iz       ±a-ji-t'a. (Du85,3:116)
+         maybe he-ADEL                 [thief   find-INF]      can-AOP-CND
+            'Just call him, ordered the king, maybe he can find the thief.'      b. Hajaman             ada-n       q'il.e-l        mad sa          bala
+            PT               he-GEN      head-SRESS still        one misfortune
+         ata-na-t'a              ha.
+         come-AOR -C Ν D         PT            'Who knows, something bad might have happened to him...'
+            (TG66:101)  ""Alternative questions"":(1203) Im           öi          lif        tir-t'a,           ta&ajt'a ada-n          §arag
+       this:ABS we:GEN          pigeon COP:PST-CND or                    it-GEN     young
+       tir-t'a? (H77:5)
+       COP:PST-CND       '(I wonder) was this our pigeon or its young?'",[447]
+"(552) I        öariar.di-laj          eläö'-un patal          balug-ar         wineldi
+      [this waterfall-SREL            pass-MSD] for           fish-PL       up
+      gadar         ze-zwa. (M83:31)
+      throw         ANTIC-IMPF
+      'The fish jump upward in order to get across these falls.'",[242]
+"
+22.4.1. Syntactic function of the antecedentThe antecedent of the reflexive pronoun must occupy a prominent syntactic
+position. For instance, it cannot be the direct object or a possessor when the
+reflexive pronoun is the subject:(1139) a. *Wi6i         Ali   gata-zwa.
+            self(ERG) A l i beat-IMPF            'Himself is beating Ali.'
+       b. *Wiöi-z       Ali.di-n   ruS-ar         aku-na.
+            self-DAT    Ali-GEN    daughter-PL   see-AOR            'Himself saw Ali's daughters.'
+                                                                                22.4. Reflexivization          409Most commonly, the antecedent is the subject and the reflexive pronoun is
+a non-subject argument or a noun modifier. Example (1140) shows an
+Absolutive subject antecedent, and (1141) shows Ergative subject an-
+tecedents.","[428, 429]"
+"
+11.6.1. Ordinary indefinite pronounsThis series of indefinites generally corresponds to the English so/ne-series.
+(Note that the sa is occasionally omitted, as in (455f).)(455) a. Cilkwer.a        sa wuö jat'ani          cwa-zwa-j.      (S88:10)
+         Cükwer(ERG) one what INDEF               sew-IMPF-PST
+         'Cükwer was sewing something.'
+                                                                       11.6. Indefinite pronouns           195      b. DuSman          sa hina        jat'ani      öi           pataw     gwa.      (Sejxov 1983b:54)
+         enemy           one where      INDEF        we:GEN to              be.at         The enemy is somewhere close to us.'      c. Ha     i       klass.d-a         sa mus jat'ani            za-ni           k'el-na-j. (N88:70)
+         t h a t this   class-INESS       one when        INDEF     I:ERG-also      study-AOR-PST         'At one time I, too, was a student in this classroom.'      d. K'eret'.d-a         sa hixtin           jat'ani      alamat.di-n           nizam        awa-j.
+         group-INESS         one what.kind INDEF              amazement-GEN         order      be.in-PST         There was some kind of amazing order in the group.' (K86,3:16)      e. Sa     ni-z         jat'ani      ewer       ce!
+         one    who-DAT INDEF             call      give:IMPV          'Call someone!'      f. Isabek.a-k,         wu£iz jat'ani,          tadi      kwa-j. (S88:28)
+         Isabek-SBESS        why        INDEF        quick     be.under-PST         'For some reason, Isabek was in a hurry.'
+  However, is also used in some contexts where English would use the
+any-series, in particular in conditional and interrogative clauses.(456) a. Wa-z           sa    wuö          jat'ani        aku-r-t'a,        za-z       lah!
+          [you-DAT one what:ABS INDEF                      see-AOP-CND]     I-DAT    say:IMPV          'If you see anything, tell me.'      b. Sa     wui           jat'ani        ata-nwa-ni?
+          one   who:ABS INDEF             come-PRF-Q          'Has anyone come?'","[214, 215]"
+"
+1.3.1. User-friendly featuresAn attempt has been made to make this grammar maximally user-friendly
+even for readers who need a particular piece of information (e.g. for a cross-
+linguistic investigation) and have no time to wade through the whole
+grammar. This grammar has the following features that make it easy to use
+as a reference work:
+   (A) Morpheme-by-morpheme glosses with brackets marking subordinate
+clauses for better readability (cf. 1.3.5.).
+   (B) A detailed subject index which, in addition to normal entries referring
+to places in the book, contains entries that do not occur elsewhere in the
+book. Such entries are names of grammatical phenomena that do not occur
+in the language. Thus, looking up the subject index suffices to find out that
+Lezgian has no passive, no dual, no tones. There are of course no negative
+statements about these categories in the grammar, and since the mere ab-
+sence of a category in the index proves nothing, the negative information in
+the index might be useful.
+   (C) An index to the example sentences. Since the examples (most of
+which were taken from original Lezgian texts) usually show other interest-
+ing phenomena in addition to the point which they illustrate in the particu-
+lar place in the text, such an index makes a lot of additional information
+available. By looking up the number of an example in the index, the reader
+                                          1.3. A user's guide to this grammar   9can find up to twenty more examples elsewhere in the grammar that illus-
+trate the same point.
+   (D) A more or less complete bibliography of scholarly works on Lezgian.
+Most of these are not mentioned in the text, but a reader who is interested
+in further information or different points of view is given the chance to
+look them up. The subject index simultaneously serves as an index to the
+bibliography. This step was taken so as not to clutter the text with references
+that few readers will find useful because most of the publications are diffi-
+cult to get outside of Daghestan.
+   (E) An index to the grammatical morphemes of Lezgian.","[28, 29]"
+"     V (TABS, L A D V)                   V (A E R G , TABS, L a d v )        (15.3.14.)   In addition, there are two groups of ""non-standard valence patterns"". In
+the first group, there is a Dative argument with subject properties (15.4.1.),
+and in the second group, the Absolutive argument has been incorporated
+into the verb so that there is no Absolutive argument in the valence pattern
+(""Absolutive absorption"", 15.4.2.1.).
+   The valence patterns of verbs that take clausal arguments (=complement
+clauses) have not been taken into account here. For such complement-tak-
+ing verbs, see Ch. 20.
+   The general principles to which Lezgian valence patterns conform
+(especially (i)-(v) above) are not particularly exotic or exceptional. Aside
+from Ergativity, there are only two features that set Lezgian off from the fa-
+miliar European languages: Dative experiencers and consistent Absolutive
+270   15. Verbal valence
+themes. Thus, in an experiential verb like akun 'see' and other experiential
+expressions (cf. 15.4.1.), the experiencer is expressed in the Dative case:(719) Zamira.di-z      Diana        aku-na.
+      Zamita-DAT       Diana       see-AOR
+      'Zamira saw Diana, (lit. Diana was visible to Zamira.)'And themes are consistently in the Absolutive case, even where a patient
+argument is also present and would be the direct object in the familiar
+European languages. In Lezgian, this patient is expressed in one of the local
+cases. For example, the patient arguments of the verbs 'stroke' and 'sweep'
+appear in the Adelative and Superelative cases, respectively, in the follow-
+ing examples (an analogous example is (717) above).","[289, 290]"
+"(720) Emirmet.a       qhilqw.e-waj      gil     giic'-na. (Q81:113)
+      Emirmet(ERG)    cheek-ADEL         hand   stroke-AOR
+      'Emirmet stroked her cheek with his hand.' (Lit. 'Emirmet stroked his
+      hand along her cheek.')(721) Aminat.a       k'wal.e-laj      kkul    elä-na. (Talibov 1958:241)
+      Aminat(ERG)    room-SREL        broom   sweep-AOR
+      'Aminat swept the room with a broom.' (Lit. 'Aminat swept the
+      broom through the room.')In the familiar European languages, the Lezgian local patients have to be
+rendered as direct objects, and the Lezgian Absolutive themes correspond to
+instrumental phrases. These instrumental phrases sound somewhat redun-
+dant in the translations of (720M721) because the verbal actions ('stroke',
+'sweep') are such that they are exclusively or typically carried out with these
+instruments. But this is not the case in Lezgian because quite generally verb
+meaning is more general than in the familiar European languages. For ex-
+ample, gilc'un not only means 'stroke', but also 'wipe' (stoldiwaj pek giic'un
+'wipe a table with a cloth') or 'rub', and elägun not only means 'sweep', but
+also 'wave (with a cap)' and 'nod (one's head)'.
+   These characteristics of Lezgian valence patterns can be generalized and
+we can say that Lezgian shows a tendency toward a closer correspondence
+between semantic roles and case-marking: Agents are always in the Ergative
+case, themes are always in the Absolutive, recipients and experiencers are
+always in the Dative, patients are always in one of the local cases. This is in
+marked contrast to the familiar European languages, where nominative
+subjects can be agents, themes, experiencers, and sometimes even patients,
+accusative direct objects can be themes, patients, or experiencers, etc. It is
+true that there are exceptions in Lezgian as well; for instance, the Absolutive
+argument of kiligun (CABS/ DDAT) ' C looks at D' would appear to be an agent
+rather than a theme, and Lezgian also has metaphorical expressions like i
+banka.di pud litr q'ada (Talibov & Gad2iev 1966:207) 'this can holds three
+liters'. But it cannot be denied that there is a tendency toward a closer link
+between semantic roles and case-marking, so that we can call Lezgian a
+""role-dominated language"" (cf. Foley & Van Valin 1984, A. E. Kibrik 1980b).
+                                                                  15.3. Standard valence patterns   27115.3. Standard valence patterns15.3.1. Valence patterns with only an Absolutive argument1 5 . 3 . 1 . 1 . I n t r a n s i t i v e : V (TABS)This is the most common pattern for single-argument verbs.","[290, 291]"
+"This is thus a sort of syntactic switch-reference system in which the
+Infinitive is the same subject form and the Aorist converb is the different
+subject form. This criterion clearly shows that the 'direct object' Absolutive
+behaves differently from the Ergative and and Absolutive subject:(807) *Musa.di-z       dide.di           seher.di-z      raqur-iz       k'an-zawa.
+      Musa-DAT         [mother(ERG)      town-DAT        send-INF]    want-IMPF      'Musa wants to be sent to town by his mother.'",[317]
+"Such constructions need to be studied in more detail.
+                           Chapter 20
+                        Complement clauses
+There are quite a few different morphosyntactic strategies for forming com-
+plement clauses, each of which is described in one of the sections of this
+chapter. In principle, the complement-taking verb determines which com-
+plement-forming strategy is chosen, and the strategy has to be given in the
+dictionary. However, the choice of complement-forming strategies is to a
+large extent predictable from the meaning of the verb and the complement
+clause. Roughly, the zero strategy (20.1.) is used for direct speech, the
+Infinitive (20.2.) is used for irrealis complements, the Masdar (20.3.) is used
+for complements with action meaning, the substantivized participle (20.4.)
+is used for factive complements, the luhunCsay') strategy (20.5.) is used for
+non-factive propositional-attitude verbs, the converb strategy (20.6.) is used
+for verbs of perception, and the ii-strategy (20.7.) is used to extrapose com-
+plements of several different types.
+   The subject of complement clauses is often omitted under identity with
+an argument of the main clause (i.e. it is controlled by one of the main
+clause arguments). To facilitate the recognition of the control relations, each
+of the relevant sections in this chapter contains at least one example where
+the relations are made explicit notationally. The omitted target is repre-
+sented by a 0 (zero), and both the target and its controller are underlined.
+See also 22.3. for some discussion of control in complement clauses.
+   The use of the terms ""subject"" and ""object"" for controllers and targets in
+this chapter is not unproblematic; see 16.1. for some discussion.","[373, 374]"
+"22.2. Controller and target of omission in adverbial clauses
+In the overwhelming majority of cases, the target of coreferential omission
+is the subject, i.e. the Ergative, intransitive Absolutive, or Dative experi-
+encer argument. This is illustrated in (1126-1135) below. In exceptional cases,
+the transitive Absolutive argument (the direct object) may be omitted under
+coreference, as in (1124). This seems to be possible only when the Ergative
+argument is inanimate and therefore is not a typical subject.",[424]
+"
+20.2.4. Object-controlled complementsThe Infinitive subject is controlled by the main-clause Adelative argument
+with the verb tun 'make, cause'. This verb is the standard way to express
+causative situations. It is sometimes treated as a ""causative auxiliary"" (e.g.
+Uslar 1896, Moor 1985), but there is no reason not to regard it as an ordinary
+complement-taking verb.",[378]
+"  Girls — (14) Mother has come!
+    Mother has come, the houses have filled up!
+    In mother's face there's the sun!
+    In her heart there's a flower garden!
+    Happy is the house of the wedding.
+    Happy is the house to which the bride comes....
+    In mother's face there's the sun!
+    In her heart there's a flower garden!
+468   25. Texts   (15) Under the impression of the song's sound, AZaj joins the dance; she
+calls Waris into her dance, as if giving an order. (16) They dance, and the
+boys and girls clap loudly and amuse themselves.","[487, 488]"
+"  Aorist converbs also allow a special construction where both the subject
+and the direct object of a verb are omitted under coreference.(1133) a. Gada-jr.i            6'exi-bur.u           ±iz    gil-er q'u-na                 öüq'we-na.
+             boy-PL(ERG) big-SBST.PL(ERG) like [hand hold-AOC] press-AOC
+              'The boys held and shook their hands like adults.' (J89:22)
+       b. Gül.ü                  telegramma          k'el-na        sekin-dakaz           sa
+              husband(ERG) [telegram                 read-AOC] quiet-ADV                  one
+             pat.a-qh         ecig-na.   (DD77,4:10)
+              side-POESS put-AOR
+              'The husband read the telegram and put it quietly aside.'       c. Muallim.di             ada          aq'al-aj     tetrad'          qaöu-na             aqhaj-na.
+              teacher(ERG)        [[he(ERC) close-AOP] notebook take-AOC]                 open-AOR
+              'The teacherj took the notebook that hej had closed and opened it.'
+              (DD77,1:11)   In such sentences it is not quite clear whether the direct object belongs to
+the first or to the second verb, i.e. whether an analysis as in (1134a) or an
+analysis as in (1134b) is correct.(1134) a. Gadajri [gileri        q'una]     0t      öüq'wena.
+          Lit. T h e boys, holding (each other's) hands, shook [them].'       b. Gadajri gileri / 0 ;   q'una]       öüq'wena.
+          Lit. T h e boys, holding [them], shook (each other's) hands.'
+                                                   22.2. Omission in adverbial clauses              407
+I know of one argument in favor of analysis (1134b): The converbal clause
+can also be placed in front of the direct object, as in (1135).","[426, 427]"
+"3.2.1.1. The status of the phoneme /»/. In the standard language /ae/ is
+comparatively rare in stems and occurs only in one suffix (-äj, the Inelative
+of front-vowel stems). In many dialects it is more frequent and is
+pharyngealized to a greater or lesser degree (Kodzasov 1986:33-34,
+Mejlanova 1964). Most roots in which it occurs are loans of Arabic origin
+with an Arabic pharyngeal consonant (Ϊ or h)), e.g.:(24) sät               'hour; clock'      Arabic:         saaiat
+     t'äm              'taste'                         ίαΐτη
+     mahle             'streef                           'mahalla(t)
+     länet             'curse, damnation'                lainat
+     däwe              'war'                            daSwat
+     bäzi              'some'                            baidu
+     menfät            'profif                             manfaiat/ae/ does not occur at the beginning of words in the standard language. This
+may be due to the spelling system (/ae/ is represented by the Cyrillic letter
+<H>, which at the beginning of a word has the value /ja/, see 3.1.1.3.). All
+words that begin with /ae/ in the Güne dialect begin with /e/ in the standard
+language (Mejlanova 1970:22), e.g.:(25) elqiln         /el'qyn/        'turn'      Güne dialect:           /ael'qyn/
+     exun           /'εχιιη/        'suffer'                            /'εεχιιη/However, even in the standard language /ae/ occurs in a couple of words that
+seem to be native, e.g.:(26)   näni         /'naeni/        'evening'
+       härq'ü       /hasr'q'y/      'wide'
+32    3. Segmental phonological units/as/ also occurs in a group of verbs ending 'm.-äg'un (combinations of
+different preverbs with the verb jagun 'hif, cf. 10.3.):
+(27) kägun        /'khaeKun/     'touch'
+     elägun       /e'laeKun/     'take off'
+     gelägu η     /ge'lacKun/    'take off, hit'
+     xkägun       /^kasKun/      'choose; elect'
+     ek'ägun      /e'k'acKun/    'pour'3.2.1.2. The long vowels fan/ and /as/. These two phonemes have a rather
+marginal status. They occur in those forms of the verbs jagun 'hit' and the
+verbs in -ägun in (27) which lose the /κ/ before suffixes beginning with a
+consonant (see below 5.12.). The long vowels are thus the result of
+compensatory lengthening.(28) jagun        /'jaKun/       'hit'
+     ja-zawa      /'jaizawa/     'is hitting'            (< VjaKzawa/)
+     ja-nawa      /'jainawa/     'has hit'               (< VjaKnawa/)
+     xkägun       /'xkffiKun/    'choose'
+     xkä-zawa     /^kasizawa/    'is choosing'           (< */'%kasKzawa/)
+     xkä-nawa     /^kae:nawa/    'has chosen'            (< */'%kasKnawa/)Furthermore, -a/ and -φ' in suffixes are often pronounced as /a'J and /aε:/
+respectively (Gajdarov 1960:249, Mejlanova 1964), e.g.(29) fizwaj      /'fizwatf       'was goingf
+     kardikaj    /'khardikhaV    'about the matter'
+     atajla      /a'ta:la/       'when...came'
+     rik'äj      /ri'k'ae:/      'out of the heart'However, this pronunciation is not obligatory, and a pronunciation closer
+to the spelling is also possible, especially in careful speech.","[51, 52]"
+"   However, since the information conveyed by the personal pronoun is
+very often recoverable from the context, the anaphoric pronoun can also be
+omitted. This type of pronoun dropping is particularly frequent in dialogs
+and in informal narratives. It occurs much more rarely in more formal
+styles such as newspaper articles or technical texts. In the following exam-
+ples, pronoun dropping is indicated by square brackets in the translations.(1118) a. Sa      ara.di-laj      Safiga        rak'-ar.i-qΛ      fe-na.       Amma             rak'-ar-a
+          one while-SREL           Safiga       door-PL-POESS go-AOR           but             door-PL-INESS
+          aqwaz       5ta-na,              q'uluqh        kilig-na. (N88:87)
+          [stop          become-AOC] back                 look-AOR
+          'After a while Safiga went to the door. But [she] stopped at the
+          door and looked back.'       b. Zahir.a           wiöi-n          fikir         subutar-un        patal      tätin
+          Zahir(ERG) [self-GEN thought prove-MSD                            for]       [such
+          sa      teiriba         q'il-e            tuxu-n        q'et'-na.          Wiöi-n
+          one experiment head-INESS lead-MSD] decide-AOR                             self-GEN    f
+          dust-ar.i-waj           gurc'ul-ni äenp'i             qaöu-na.       (A90:20)
+          riend-PL-ADEL           puppy-and          kitten      take-AOR
+          'Zahir decided to do the following experiment in order to prove
+          his hypothesis: [He] took a puppy and a kitten from his friends...'",[422]
+"
+10.6.2. Types of noun-verb compoundsMost aumn-compounds are combinations of awun with a noun denoting
+an action or the result of an action. The meaning in such compounds is
+quite straightforward: 'perform the action denoted by the base noun', as in
+(408). Many of these action nouns are loanwords of Arabic origin. This is the
+only way of borrowing verbal notions from Arabic.(408) silhbet awun    'converse'       sühbet         'conversation'
+      ikram awun      'greef           ikram          'greeting'
+      teklif awun     'invite'         teklif         'invitation'
+      hiss awun       'feel'           hiss           'feeling'Russian verbs are also borrowed in this way. Awun is added to the Russian
+infinitive form:(409) klassificirovat' awun            'classify'
+      mobilizovat' awun                'mobilize'
+      likvidirovat' awun               'liquidate'However, often a Russian verbal noun is chosen as a base for a Lezgian
+aumn-compound:(410) zakaz awun              'order'           (Ru. zakaz          'order')
+      registracija awun       'register'        (Ru. registracija   'registration')
+      otkaz awun              'refuse, deny'    (Ru. otkaz          'denial')
+      perevod awun            'translate'       (Ru. perevod        'translation')
+                                                   10.6. Verbal compounds        181  Awun-compounds may also be based on a reduplicated noun. Such verbs
+have the meanings 'cover with Xs', 'turn (tr.) into Xs' (the corresponding
+fun-compound means 'be covered with Xs', 'turn (intr.) into Xs').(411) leke-leke awun     'cover with spots""          leke     'spof
+      pad-pad    awun    ""break into pieces'         pad      'parf
+      c'arx-c'arx awun   'cover with scratches'      c'arx    'scratch'
+      biZger-bizger awun 'tear to shreds'            biZger   'piece of cloth'
+      t'ekw-t'ekw awun 'riddle with holes'           t'ekw    'hole'   Another very common base for awun-compounds are ideophones, espe-
+cially reduplicated onomatopoetic expressions, e.g.(412) a. C!V(r)C2
+         murr-murr awun             purr
+         ö'arx-ö'arx awun          'crunch'
+         zirt'-iirt' awun          'squelch'
+         ziw-ziw awun              'clink'
+         tax-tax awun              'knock, rumble'        C1V1C2rV1C2
+        t'aq'raq' awun             'crunch'
+        wiSriS awun                'rustle'
+        bagrag awun                'rumble'
+        leSreS awun                'splash'
+        6'wäq'räq' awun            'snap, crack'  In some cases the base does not occur on its own, but only in combination
+with awun a n d / o r £un, e.g.(413) zelb awun     'concentrate (tr.)'
+      zelb Stun     'concentrate (intr.)'
+      *2elb
+      terg awun     'destroy7
+      terg 5tu η    'perish'
+      *tergSuch pairs of verbs look much like transitive/anticausative pairs (cf. 10.2.),
+e.g. xkaiun 'raise' / xkai Zun 'rise'. They crucially differ from them in that
+the transitive member may occur in the full form, e.g. ielb awun (besides
+zelbun), whereas there is no full form in transitive members of transi-
+tive/anticausative pairs (*xkai awun).
+   In many cases both an au;un-compound and a f u n - c o m p o u n d can be
+formed from the same noun. The meaning of the fun-compound is often,
+but not always, 'undergo the action denoted by the base noun'. The forma-
+tion of fun-compounds from nouns denoting actions is not as common as
+the formation of awun-compounds. It is not clear what semantic properties
+of the base noun make the derivation of a fun-compound possible.
+182   10. Verbal derivation
+      meslät awun          'advise'         meslät          'advice'
+      meslät £un           'consult'
+      ikrah awun           'detesf          ikrah           'aversion'
+      ikrah ±un            'be disgusting'
+      paj awun             'divide'         paj             'parf
+      paj £u η             ^ e divided'
+      temäh awun           'display greed' temäh            'greed'
+      temäh 5tun           'be greedy7
+      tabdil awun          'change (tr.)'   tabdil          'change'
+      tabdil £un           'change (intr.)'Instances where a iun-compound is possible but the corresponding awun-
+compound does not exist are very rare.
+   A wu η -compounds can also be formed from plural forms of nouns. The
+meaning of such verbs emphasizes the duration or frequency of the action.(415) ixtilatar awun          'converse a lot'   ixtilat      'conversation'
+      (ixtilatarun)
+      zarafatar     awun      'joke a lof         zarafat     'joke'
+      (zarafatarun)
+      q'iiler awun            'dance a lot'      q'ill        'dance'
+      (q'illerun)Such a wu η-compounds can also be formed from the plural form of the
+nominal Masdar (cf. 9.9.1.). The resulting verb is then something like a du-
+rative or frequentative version of the simple verb. However, such cases are
+not frequent.","[200, 201, 202]"
+"(562) Zul.u-n       jif.e-n           meq'i       hawa.di-z-ni           kilig        tawuna
+      autumn-GEN night-GEN cold                   weather-DAT-even despite
+      äadwil-er     ge&daldi          da wain        jta-na. (R66:5)
+      joy-PL           until.late     continuing be-AOR
+      'Despite the cool weather of the autumn night, the merrymaking
+      continued until late.'12.2.3.2. kwaciz 'except' is the negated con verb of the locative copula kwa ""be
+under' (cf. 17.6.4.). It takes an Absolutive argument.(563) a. Bujrug, oficial'nyj           stil'   kwaäz,      wiri     stil-r-a,
+         bujrug official               style except        all      style-PL-INESS
+         prikaz oficial'nyj            stil.d-a        iSlamiä-zawa.             (G82:17)
+         prikaz official               style-INESS use-IMPF
+         'Bujrug is used in all styles except the official style, prikaz                       is used in
+         the official style.' (bujrug, prikaz: 'order')      b. Sa     bäzi       gweö'i       millet-ar      kwaäz,         ama-j
+         one    several little          nation-PL      except       [remain-PTP]
+         wiri-bur.u-qh              öpi-n           literatura-ni     awa. (AM87:2)
+         all-SBST.PL-POESS          selves-GEN literature-also        be
+         'Except for some small nations, all the others also have have their
+         literature.'",[245]
+"Not only the Ergative subject of transitive verbs can be freely omitted with
+the same interpretation, but also the Absolutive subject of intransitive
+verbs. This shows that the omissibility of the Ergative argument in sen-
+tences like (778) cannot be due to a special peripheral status of Ergative ar-
+guments (as claimed by Mel'iuk 1988). Languages that lack a subjectless pas-
+288   15. Verbal valencesive, like English, must resort to expressions like 'one' in translating such
+Lezgian sentences.(779) a. Za-z      öil.e-l              hawajda       jaSamiS       te-ze-zwa-j-di                öi-da.
+          I-DAT    [earth-SRESS         in.vain        living       NEC-be-IMPF-PTP-SBST]        know-FUT          1 know that one does not live in vain on earth.' (DD85,5:5)      b. Dagustan.di-n             6'al-ar-a               lak'ab-r.i-n             gawur.d-a
+          Daghestan-GEN            language-PL-INESS nickname-PL-GEN              understanding-INESS          asant-diz          aq'a-da.     (L87,2:74)
+          easy-ADV           get-FUT          'Nicknames are understood easily in Daghestanian languages.'","[307, 308]"
+"In prose, such cases are very rare, but cf. (407b) (where kesibwal cannot be a
+first compund member because it is modified by a Genitive NP).(407) b. Ama-j-bur.u                 sekinwil.e-ldi     öpi-n         kesibwal-da.
+         be.still-PTP-SBST.PL(ERG) quietness-SRDIR      selves-GEN poverty-do:FUT
+         The others will quietly eke out their miserable existence.' (X89:6)   A comparison of the full and reduced forms above shows that the reduc-
+tion of the function verb awun in each case results in exactly the same suf-
+fix that also occurs in the inflection of non-compound weak verbs. This
+surprising fact can be explained in different ways. Three explanations are
+considered here.
+   (A) The hypothesis that is most widespread among Lezgian linguists is
+that all weak verbs were originally compounds of noun + awun. The differ-
+ence between non-compound weak verbs and a w u n - c o m p o u n d s would
+then be that non-compound verbs now only occur in the reduced form.
+However, there is no evidence that nouns like *ha£ 'entering (?)', *jag
+'hitting (?)', *kilig 'looking (?)', which one would have to postulate for an
+earlier period, ever existed (cf. häZun 'enter', jägun 'hif, kiligun 'look').
+Three further more specific points argue against this view:
+   (i) Aumn-compounds always preserve the Ergative marking of their sub-
+ject (cf. 15.4.2.1.), even if they have no direct object, whereas simple verbs
+take an Absolutive subject when they are intransitive.
+   (ii) Not in all cases can the reduced form be obtained by simple phonolog-
+ical reduction of the relevant form of awun. In particular, the Aorist par-
+ticiple form is puzzling for this hypothesis. It should be something like
+*k'walax-ur (< k'walax awur), not k'walax-aj.
+    (iii) In a few cases, the addition of a prefix leads to a change from strong
+verb to weak verb, e.g. αί'ύη 'cut' (strong), but xk-ät'un 'cut (out)' (weak);
+aq'ün 'hit upon' (strong), but ag-äq'un 'reach' (weak); wehin            'throw'
+(strong), but q^iwihun 'throw again' (see 10.4.1., (A)). Such cases show that
+180   10. Verbal derivationthe strong/weak distinction has a lot to do with stress: Verbs whose root has
+more than one syllable can only be weak because stress cannot be on the
+third syllable.
+   (B) Another possible explanation would be that zero-affixation or conver-
+sion is a productive process in Lezgian that has more or less the same func-
+tion as compounding with awun. According to this hypothesis, the
+""reduced au>un-compounds"" would not be az/mn-compounds at all; they
+would be synonymous parallel formations. This explanation (which has not
+to my knowledge been advocated) cannot account for the fact that the func-
+tions and the domain of the two hypothesized word-formation rules are
+virtually the same, nor does it capture native speakers' intutions (reflected
+in poetic examples like (407a) above) that the reduced form is in fact an ab-
+breviated variant of the full form.
+   (C) I opt for an explanation in terms of convergence: The inflectional pat-
+tern of the reduced form of awun-compounds turned out to be so similar to
+the existing pattern of weak verbs that it was subsequently completely as-
+similated to it (i.e., the Aorist participle *k'walax auiur > *k'walax-ur be-
+came *k'walax-aj by analogy with hä£-aj etc.).","[199, 200]"
+"2.3. The status of Lezgian and the standard language
+Until the second half of the 19th century, Lezgian was only used in speech
+and oral literature. The language of religion, bureaucracy, jurisdiction
+(shariah), and inscriptions (especially on houses and gravestones) was
+Arabic, as in all of Daghestan. When Daghestan and Azerbaijan became part
+of the Russian empire, Russian replaced Arabic as the language of govern-
+ment.
+   In the second half of the 19th century, poets such as Jetim Emin (a classic
+whose poetry is still widely read), Jetim Melik, Said Koöxürskij began to
+write down their poetry, using the Arabic script.
+   In the 1860s and 1870s, the Russian general staff officer Baron Petr
+Karlovif Uslar, in what is perhaps the greatest military achievement in his-
+tory, laid the foundations of Nakho-Daghestanian and Abkhazo-Adyghean
+linguistics by producing excellent descriptions of seven languages of the
+northern Caucasus, among them Lezgian (Uslar 1896). Uslar created an al-
+phabet for Lezgian on the basis of the Russian Cyrillic alphabet. His Lezgian
+informant, Kazanfar-beg, tried to spread the knowledge of this alphabet
+among the Lezgians. A textbook was produced (Kazanfar-Beg 1871, reedited
+by A. Mamedov 1911), but these attempts at establishing a written language
+were not successful.
+   After the Bolsheviks took power in the early 1920s, the official language
+policy at first favored the use of Turkic (Azerbaijani) in Daghestan. But in
+the second half of the 1920s, it was decided to provide several Daghestanian
+languages with written standards, among them Lezgian. The Lezgian alpha-
+bet, which was officially introduced in 1928, was based on the Latin alphabet,
+24   2. Lezgian and its speakerslike the alphabets of the other newly written languages of the Soviet Union.
+Particularly active in this early phase of the standard language were
+Gadiibek Gadiibekov (or HeZibegen HeZibeg; cf. GadZibekov 1932, haiibegof
+1928, Haiibegov 1934, heZibegen 1931, he2ibegov 1931; the spelling variants
+of Gad2ibekov's name show the lack of standardization at that time) and
+Abdulkadir Alkadarskij (cf. Alq'adarskij 1934,1939-41, Alkadarskij 1932).
+   The new standard language was based on the Küre dialect (or, more
+specifically, on the Güne dialect of the Küre dialect group). According to
+Gajdarov (1962), there were three reasons for choosing this dialect: First, this
+dialect is spoken by the largest number of speakers; second, it was well-
+known through the work of the famous poets Jetim Emin and St'al
+Sulejman (Sulejman Stal'skij), who were speakers of that dialect; and third,
+the only linguistic description of Lezgian available at that time, Uslar's
+(1896) grammar, was based on a dialect of the Küre dialect group. One might
+add that the Küre dialect is spoken in the geographically more accessible
+lowlands and was therefore more likely to be known by speakers from the
+high-mountain areas than vice versa.
+   In 1938, the official alphabet was replaced by a new alphabet based on the
+Cyrillic alphabet, in line with a decision taken in Moscow for all the new
+written languages of the Soviet Union. Rules for Lezgian spelling were pub-
+lished for the first time in 1938 (GadZiev & Alkadarskij 1938), and the first
+orthographic dictionary was published in 1941 (GadZiev 1941). Magomed
+Gadiiev's comprehensive Russian-Lezgian dictionary (Gadiiev 1950) had an
+enormous influence on the development of the written language.
+   Since the Lezgian standard language was officially introduced, Lezgian
+has been taught at several levels of education, including higher education
+(at the Chair of Daghestanian Languages of the Daghestanian State
+University in Maxaikala). Publications in Lezgian include textbooks on
+Lezgian grammar and literature, children's literature, poetry, fiction, several
+journals and newspapers. There is also some radio broadcasting in Lezgian,
+and there is a Lezgian-language theater in Derbent.
+   Despite these relatively favorable conditions, there are clear signs of the
+decline of Lezgian (cf. also the retention figures in 2.1.1.). Where parents
+have the possibility to choose between Lezgian-language instruction in
+school and Russian-language instruction, many have been choosing
+Russian as the language that opens up greater possibilities for their children.
+The medium of instruction in the city schools is exclusively Russian, and
+the Daghestanian languages are not even taught as a subject. In Maxaikala,
+Russian is the dominating language outside of the home, and it is increas-
+ingly used even at home by the younger generation, not only in families
+with linguistically mixed marriages.
+   The resurgence of national self-awareness in the wake of the liberation
+from the totalitarian regime in the late 1980s has recently created some new
+interest in the native languages (as well as Arabic), but it remains to be seen
+whether it will lead to a reversal of the pattern of slow decline of Lezgian.
+However, there is no threat whatever in the rural areas of Lezgistan, where
+until today quite a few speakers (mainly women) are monolingual. As long
+as the Lezgians remain in their traditional settlement areas, Lezgian is not
+an endangered language.
+                               2.4. The effect of language contact on Lezgian   25
+2.4. The effect of language contact on Lezgian
+The most important contact languages in the historical period have been
+Turkic (in particular, Azerbaijani), Arabic, Persian, and Russian. Only
+Russian and Azerbaijani contacts are still in effect today. Contact with
+Arabic and Persian came to a halt in the 1920s with the Sovietization of
+Daghestan and Azerbaijan.
+   As in many languages of traditionally Muslim populations, Arabic loan-
+words play an eminent role in the Lezgian vocabulary. Not only most reli-
+gious terms, but also many abstract and intellectual words are of Arabic ori-
+gm, e.g.","[43, 44, 45]"
+"   Adverbial clauses show several kinds of formal marking:
+   (A) Special verbal affixes, called converbs: -(i)z, -na, -la, -waldi, -nmazdi,
+-rdawaj,    -daldi.
+   (B) Postpositions governing noun clauses of the substantivized participle
+type (20.4.) or the Masdar type (20.3.): q'uluqh 'after', iniqh 'since', patal 'in
+order to'. When used in this way, the postpositions could also be regarded as
+subordinating conjunctions.
+   (C) Nouns with very general meaning which are the heads of participial
+relative clauses: ö'awuz 'at the time (when)'.
+   (D) The Conditional mood marker -t'a (9.3.4.3., 9.8.5.), suffixed to a finite
+verb or to an Aorist participle.
+   (E) Subordinating conjunctions that introduce the clause. These are loans
+from Persian, and only eger 'if is widely used.
+   (F) luhuz llahana, converbs of luhun 'say'.
+   The subject of adverbial clauses is often omitted under co-reference with
+a noun phrase of the superordinate clause. See 22.2. for details.
+376   21. Adverbial clauses
+21.1. Adverbial clauses with the Aorist converbThe Aorist converb is used to express chains of actions carried out by the
+same subject. Such sentences often have to be translated by means of coor-
+dinate clauses in English because the action of the converb clause is often
+not backgrounded to the same extent as the English participle would sug-
+gest.(1049) a. Nabal'nik.di,         sehne.di-z        eqei'-na         öa-z         wiri-da-z
+           director(ERG)        [stage-DAT        go.out-AOC] we-DAT all-SBST-DAT
+          öuxsagul        laha-na.     (S88:155)
+           thanks         say-AOR
+           T h e director came onto the stage and thanked all of us.'        b. Kamal.a         ruza       qaöu-na         tar.a-z      aq'ax-iz           baSlami§-na.
+           [Kamal(ERG)     [rifle     take-AOC]       tree-DAT     climb-INF] begin-AOR
+           'Kamal took a rifle and started climbing up a tree.' (M83:57)        c. Ada          werö        qaragar-na           kaka-jar          hisab-iz        baSlamiS-na.
+           [she(ERG)    [chicken make.rise-AOC] egg-PL                     count-INF]    start-AOR
+           'She made the chicken get up and started counting the eggs.'
+           (DD71,3:21)  Such chains are usually not long — examples involving more than one
+converb, as in (1050), are not frequent, even in typical narrative texts.(1050) a. Stul.di-laj      xkadar-na         tadi-z             Ali.di-n      pataw          fe-na
+           [[chair-SREL    jump-AOC]         quick-ADV          Ali-GEN       to            go-AOC]
+          Rahman.a           ada-n       gil-äj          q'en-erar         qaiu-na.      (J89:22)
+           Rahman(ERG)       he-GEN      hand-INEL      bridle-PL          take-AOR
+          'Rahman jumped from the chair, went up to Ali, and took the
+          bridles out of his hand.'       b. Zahir.a,        ek.ii-n          jar-ar      jag-aj-waldi,                    mes.e-laj
+          Zahir(ERG)      [[[light-GEN     dawn-PL hit-AOP-IMMANT]                    bed-SREL
+          qarag-na,        perem-ar       aluk'-na,              gurc'ul.di-n-ni
+          get.up-AOC]      shirt-PL       put.on-AOC]           puppy-GEN-and
+          Senp'i.di-n      pataw         zwer-na. (A90:20)
+          kitten-GEN       to            run-AOR
+           'As soon as it had dawned, Zahir got out of his bed, put on his
+           clothes, and ran to the puppy and the kitten.'","[395, 396]"
+"(677) Q'wed lahaj            wax      Kristina       xudoznik       ja. (Ko90,2,7:4)
+      two           ORD      sister   Christine      artist         COP      'My second sister Christine is an artist.'
+258    14. The noun phrase and the adjective phrase
+In such cases the proper name is the head noun that inflects for case, and
+the additional information becomes the appositional Absolutive NP:(678) a. Ajnise.di      wiöi-n      juldaS       Sabir.a-z   zeng ja-na. (583:61)
+         Ajnise(ERG)    self-GEN husband Sabir-DAT           ring     hit-AOR
+         'Ajnise phoned her husband Sabir.'
+      b. kühne bagmanti Alaquli (M83:43)
+         old        gardener        Alaquli
+         'the old gardener Alaquli'      c. Isaq'.a-n      xala    Güldeste (583:40)
+         Isaq'-GEN      aunt    Güldeste
+         'Isaq's aunt Güldeste'      d. zi        wax.a-n     gada     Isaq' (583:21)
+         I-.GEN sister-GEN boy           Isaq'
+        'my sister's son Isaq'.'
+An appositional proper name (as in (673-676)) may itself be modified by a
+preceding apposition:(679) Zühre.di-n       buba Rustam           xan (K87,l:5)
+      Zühre-GEN        father Rustam         khan
+      'Zühre's father Khan Rustam'   In more traditional Lezgian, a Lezgian surname is treated as an apposi-
+tion of the given name and therefore precedes it:(680) a. Mühüdinova            Alfija Meharamdxür.ü-n                     Skola.di-n
+         Miihiidinova          Alfija   Meharamdxiir-GEN             school-GEN
+         uöenica ja. (K86,3:l)
+         student      COP
+         'Alfija Mühüdinova is a student of the Meharamdxür
+         (Magaramkent) school.'      b. Slovar'       Mehamed.a-n            uöenik Talibov Bukar.a                   kütäh-na.
+         dictionary Mehamed-GEN               student   Talibov     Bukar(ERG) finish-AOR
+         The dictionary was completed by Mehamed's student Bukar
+         Talibov.' (Du68,2:27)      c. Maksim        Gor'kij.di       St'al Sulejman.a-z          «XX       esir.di-n
+         Maksim        Gor'kij(ERG) St'al        Sulejman-DAT       [20      century-GEN
+         Gomer» laha-j            t'war ga-na. (Du83,l:125)
+         Homer         say-AOP] name       give-AOR
+         'Maksim Gor'kij gave Sulejman St'al (Stal'skij) the name ""Homer
+         of the 20th century"".'
+                                                                         14.3. Apposition   259  However, the Russian order ""given name - surname"" is also common.
+When this order is chosen, the given name is in apposition and the sur-
+name inflects for case (cf. the examples in the newspaper text, 25.5.).
+  Appositions where no proper name is involved are much rarer. Some
+examples:(681) a. zi        dust-ar     niik'-er.i-z (M83:44)
+          I:GEN friend-PL      bird-PL-DAT
+          'to my friends the birds'      b. Dide       q'iigür.di          sa gweö'i        murmur      awu-na.    (M83:45)
+          mother hedgehog(ERG) one l i t t l e           murmur      do-AOR
+          'The mother hedgehog made a little murmur.'      c. Isabeg.a-n          qullugöi    ru$ (S88:17)
+          Isabeg-GEN         servant      girl
+          'Isabeg's maid (lit. servant girl)'   In connection with pronouns of the 1st and 2nd person, postposed appo-
+sitions occur:(682) a. Ca-z       tuban-r.i-z,        wun        har     näni-qh       k'wali-z
+          we-DAT shepherd-DAT           [you:ABS every night-POESS house-DAT
+          qhifi-zwa-j-di               q^san      öi-zwa. (R66:23)
+          retum-IMPF-PTP-SBST]         good       know-lMPF
+          'We shepherds know well that you go home every night.'      b. Cun,       oficer-r.i-n        ajal-ar     gala-j           pap-ar,   äeher.d-a
+          we: ABS officer-PL-GEN [child-PL          be.behind-PTP] wife-PL     town-INESS
+          ama-j.     (DD85,2:20)
+          be.still-PST
+          'We, the officers' wives with children, were still in the city.'","[277, 278, 279]"
+"(981) Gada.di    dide.di-z    laha-na:     «Zun     Seher.di-z    fi-da.   »
+      boy(ERG)   mother-DAT say-AOR        I:ABS    town-DAT      go-FUT      'The boy said to his mother: ""I will go to town.""'This type of direct speech is possible with any kind of speech act verb, cf.
+(982) Gada.di    haraj-na:     «Zun      k'uial-e        amuq'-da!»
+      boy(ERG)   scream-AOR    I:ABS     house-INESS   stay-FUT      'The boy screamed: ""I will stay at home!""'When the direct speech is not extraposed but is in its canonical preverbal di-
+rect object position, the zero strategy is possible only with the verb luhun
+                                                                        20. The zero strategy        355'say' (983a). All other speech act verbs have to use the luhun-strategy                       in such
+contexts (983c).(983) a. Gadadi didediz, — Zun Seherdiz fida, — lahana.
+         The boy said to his mother: ""I will go to town.""'      b. *Gadadi, — Zun k'wale amuq'da!, — harajna.
+         The boy screamed: ""I will stay at home!""'      c. Gada.di, — Zun             k'wal-e         amuq'-da!,          — laha-na           haraj-na.
+         boy(ERG)         I:ABS     house-INESS stay-FUT                    say-AOC       scream-AOR
+         The boy screamed: ""I will stay at home!""'The same is true for indirect speech: The zero strategy is possible only with
+luhun itself, whereas other verbs must use the Zuftu/i-strategy. In (984), the
+use of the reflexive pronoun shows that we are dealing with indirect speech.(984) a. Gada.di       dide.di-z,       wie     Seher.di-z      fi-da          laha-na.
+         boy(ERG)      mother-DAT       [self   town-DAT        go-FUT]     say-AOR
+         'The boy said to his mother that he would go to town.'      b. *Gada.di       wid k'wal-e             amuq'-da          haraj-na.
+          boy(ERG)      [self house-INESS stay-FUT]             scream-AOR
+         'The boy screamed that he would stay at home!""'   Even the Imperative may be used in indirect speech. Examples such as
+the following show that the direct-indirect speech division is not as sharp in
+Lezgian as in the familiar languages.(985) a. Belki     nilk'.re    wiöi-z        sa k'us       fu    ce                luhu-zwa-t'a?
+         maybe bird(ERG) [self-DAT one piece               bread give:IMPV] say-IMPF-CND
+         'Maybe the bird asks for a piece of bread? (lit. says, give itself a
+         piece of bread)' (A90:28)      b. Wa-z       Isabeg.a        isätda      wiöi-n     k'wal.i-z      Sa               luhu-zwa.
+         you-DAT Isabeg(ERG) [now               self-GEN   house-DAT come:IMPV]           say-IMPF
+         'Isabeg tells you to come to his house right now.' (S88:15)
+20.2. The InfinitiveThe infinitive is used mainly in complement clauses with irrealis modality,
+i.e. complement clauses whose complement modality does not imply the
+realization of the complement situation. The irrealis modality can be either
+PROSPECTIVE (i.e. the realization of the situation is expected for the future)
+or POTENTIAL (i.e. the realization is not expected for a particular moment in
+the future but is possible anytime).
+    The subject of the Infinitival complement clause is generally omitted
+under referential identity with the subject of the main clause ( S U B J E C T
+356   20. C o m p l e m e n t c l a u s e s
+CONTROL) or in one case {tun, the causative verb) with the Adelative object
+of the main clause (OBJECT CONTROL). An exception are complements to the
+one-place verb baSlamiSun 'begin' (20.2.5.), which have their own subject.
+The following sections consist of lists of valence patterns with Infinitival
+complements and illustrative examples that instantiate the various types.","[374, 375, 376]"
+"   Since Lezgian participles are not inherently oriented, the Absolutive sub-
+ject of the predicative substantivized participle construction does not have
+to correspond to the participle's subject. Example (966) shows sentences
+where the subject corresponds to the participle's Absolutive direct object.
+Such sentences are best translated by passive sentences, but the Lezgian con-
+struction is not passive at all.
+                                                   19.3. Predicative substantivized participles              349(966) a. I       skul'ptura-jar               insan.di-n      gil.i               tiik'iir-nawa-j-bur
+         t h i s sculpture-PL                 [human-GEN      hand(ERG)        create-PRF-PTP-SBST.PL]         tuä. (DD77,1:11)
+         COPrNEG         These sculptures are not [ones] made by a human being's hand.'      b. Belki          lapag-ar             bazar.d-a      masa       ga-nwa-j-bur               ja-t'a?!
+         perhaps        sheep-PL             [bazar-INESS sell         give-PRF-PTP-SBST.PL]    COP-CND         'Perhaps the sheep were sold at the bazar.' (R66:30)Examples (967)-(969) show sentences where the subject corresponds to the
+participle's Adelative argument (cf. 967), Superessive argument (cf. 968), and
+Dative argument (cf. 969).","[368, 369]"
