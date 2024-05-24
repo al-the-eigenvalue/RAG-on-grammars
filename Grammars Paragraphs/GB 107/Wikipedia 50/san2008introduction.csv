@@ -1,0 +1,2314 @@
+Paragraph,Page number
+"1SG letter.lw hold come.PFV=Q‘Did Kipu bring my letter?’ (ED/VIII:155)
+(1027)ayu, kaita ndu kei=peruri-tia.now 2SG.CS pig one be/stand.STAT=Q say.PFV say-PFV.VIS . P‘Now, do you have a pig? he said it was said.’ (T/KP:070104iii)
+(1028)ko na-nda=pe.
+2SG eat-INT=Q‘Will you eat?’ (LC/XIV:21)
+(1029)hinia=pe.
+this=Q‘Is [it] this (that you want)?’ (LC, OH)
+11.1.3.4Alternative interrogativesInterrogatives in Duna that do not contain an interrogative pro-form are commonly
+structured as ‘alternative’ interrogatives which “provide a list from which, the speaker
+suggests, the right answer might be drawn” (Sadock and Zwicky 1985:179). Two
+(or more) alternative scenarios are presented in the sentence. =Pe indicates there
+is a choice to be made between these scenarios, and is felicitously represented in
+English translation as ‘or’. Examples (1030) - (1032) show interrogatives in which
+two alternatives of differing polarity are suggested. In (1030) - (1032) the positive
+iteration of the predicate is placed first, inflected and further marked with =pe. The
+negative iteration that follows is derived with the negative circumfix na- -ya (§8.3),
+and is not marked with =pe. This is typical of ‘alternative polarity’ interrogatives
+in Duna (see also Giles MSa:L5). An appropriate answer (as shown in the b lines
+of (1031) and (1032)) usually repeats part of the original question.",[445]
+"7.3. Verb serialisation227clause. The serialised verbs prototypically have at least one argument in common,
+and share tense, aspect and polarity values (Foley and Olson 1985; Givón 1990;
+Durie 1997; Pawley and Lane 1998; Kratochvil 2007).
+For Duna, I use the term ‘verb series’ (and related terms) to refer to sequences of
+verb roots for which the final verb in the sequence (Vlast ) is inflected, bearing medial
+or final verb morphology, and the other verbs in the sequence (Vn ) are uninflected.7
+Regular Vn verbs are in bare root form, consonantal Vn verbs in their i-base form,
+and wa-class Vn verbs may occur in either a-base or i-base form (§8.1.2).8 A basic
+template for an SVC is represented in Figure 7.2. The ‘x’ designation is here used
+to mean ‘number of subcategorised arguments’. That is, the template indicates that
+the verbs together determine the argument structure of the clause, because the number of possible argument NPs matches the number of arguments that the complex
+predicate (surrounded by angled brackets) specifies. The presence of the plus sign
+indicates that the elements of the predicate are treated as comprising a single root,
+for example in negation with the negative circumfix (§7.3.2.3).
+———————————————————————–
+(NPargument )x hVerbn +Verblast ipredicate:x
+———————————————————————–
+Figure 7.2 Clause headed by a two-verb seriesSome examples of two-verb serialisations are shown in text excerpt (482), the
+relevant verbs shown in bold type. I have found series of up to three verb roots in
+the textual data (§7.3.2.1). There is continuity of at least one argument (usually the
+subject) across serialised verbs, and in all examples noted in natural text, serialised
+verbs are immediately contiguous (§7.3.2.2). Serialised verbs can be negated with
+the negative circumfix as a single unit, and circumfixal negation of only one verb in
+the series is strongly dispreferred (§7.3.2.3).
+(482)a. heka pi
+birdkorokuwa-rua.","[255, 256]"
+"Chapter 8Final verb morphology: time, event
+modality, and negation
+8.1IntroductionThis chapter and the three that follow treat final predicate morphology in Duna,
+looking in detail at certain bound morphemes that attach to the predicate element of
+an independent clause.
+This introductory section includes a general overview of final predicate morphology that is discussed in this thesis, with a particular focus on bound forms that
+occur as inflections on verbal predicates. Section 8.1.2 lists the form variations of
+the consonantal and wa-class verbs (introduced in §3.3.1) that are relevant to partially suppletive verbal inflection and stem formation.
+The remainder of this chapter treats TAM markers that encode features of time
+and event modality (§8.2), and indicators of negative polarity (§8.3).
+8.1.1
+8.1.1.1Overview of final predicate morphology
+The basic morphological templateMy approach to the broad topic of final predicate morphology in Duna assumes the
+general template shown in Figure 8.1.1 Two positions are specified, the primary
+inflectional position (which is only relevant to verbal clauses), and the ancillary
+position (which is relevant to both verbal and non-verbal clauses).
+A primary inflection is an obligatory component of a final verbal predicate, and
+establishes certain features of the predicated event in regard to its actualisation and
+temporal status, for example, whether it is potential, completed, or ongoing. This
+and the following chapter are concerned with morphemes that are used as primary
+inflections.
+1‘Adjv ’ refers to those adjectival roots that typically show distributional properties of verbs, and
+can occur with TAM markers and the negative circumfix (§3.5). ‘Adjn ’ refers to those adjectival roots
+that are more nominal in nature, and do not occur with TAM markers or the negative circumfix.","[295, 296]"
+"WARN(constructional)SuggestionHORTPROHIBIMPABILPROMPROPHHABSTATDESINTProhibitive
+Hortative
+WarningHabitual
+Prophetic
+Promissive
+Abilitative
+ImperativePFVPerfective
+Imperfective
+Intentive
+Desiderative
+Stative
+IPFVGlossLabelHORT / INT+ kone-wei
+-wae
+-wayeni-na
+-na
+-wei
+-nopo
+-paRegular form
+(RF)
+-o∼ -u
+-nda
+-no
+-i
+o-base
+stem change
+a-base + RF
+a-base + RF
+i-base/other
+(see §8.2.3.1)
+a-base +RF
+a-base + RF
+o-base + RF
+a-base + RF
+a-base/suppletion
+(see §8.2.4.1)
+o-base + RF
+c-base + RF
+o-base + RF
+or IPFV stem + RF
+or a-base + -yeniConsonantalor a-base + -yeniu-base + RF
+u-base + RF
+i-base + RFa-base + RF
+a-base + RF
+u-base + RF
+a-base + RF
+a-baseu-base
+a-base
+a-base + RF
+a-base +RF
+i-baseWa-classTable 8.14 Segmental forms of the TAM markerso-base + RF
+a-base + RF
+(unattested)a-base + RF
+a-base + RF
+o-base + RF
+a-base + RF
+a-base + RFa-base + RF
+a-base + RF
+a-base + RF
+i-basera- ‘be/sit’300
+Chapter 8. Final verb morphology: time, event modality, and negation8.3. The negative circumfix8.3301The negative circumfixThe negative circumfix na- -ya (NEG - - NEG) expresses negation on verbal predicates. It is added to the a-base of consonantal verbs and the i-base of wa-class verbs.
+Some uses of the negative circumfix were discussed in the previous chapter, which
+describes how it is used differently in different kinds of complex predication. This
+section describes this morpheme as it occurs both quasi-independently and in combination with some of the TAM markers described in §8.2.
+8.3.1Quasi-independent useThe negative circumfix can occur as the only marker on a final verb. In such instances, I do not regard the circumfix as a true final primary inflection, but rather as
+forming a derived stem that can function as the predicate of a final clause if there is
+sufficient contextual support.34 The time reference of the predicate event is understood to be current with the ‘now’ of either the speech event or the narrated world.
+Examples are shown in (721) and (722). See also §11.1.3.4 concerning the use of
+negated verbs in alternative interrogatives.
+(721)ho=pi-nainurindi-ta na-ra-ya.here=OPIN-SPEC 1/2PL land-LOC NEG-be/sit-NEG‘This one does not exist on our land.’ (T/HS:080305ia)
+(722)antia-na-kana-si-ya.mother-SPEC-CS NEG-hold-NEG‘The mother didn’t have [any small change].’ (T/PK:080605ii)
+8.3.2With other verbal inflectionThe negative circumfix also occurs in combination with TAM inflections, in which
+case it is added before the inflectional suffix. A verb root plus na- -ya forms a
+negative stem that takes the same inflections as a regular verb (regardless of whether
+or not the base root is regular or otherwise).
+Examples (723) to (726) show negative stems occurring with some of the final
+TAM markers described in this chapter.
+(723)ima-yatia rekuma, no na-ke-ya-o.woman -SNS.GP face1SG NEG-see-NEG-PFV‘These women’s faces, I didn’t see.’ (T/KP:120205i)
+(724)no phuya na-na-ya-na.
+1SG snakeNEG -eat- NEG - HAB‘I don’t eat snake.’ (ED/V:62)
+34Verbs that are inflected with medial rather than final morphemes can sometimes be used in a
+similar way. For example in conversation it can be acceptable to use a medial form such as hoa-ya
+(come-DEP), ‘...coming...’, as a complete utterance, as long as more typically ‘finite’ values such as
+time reference can be easily understood from context.","[328, 329, 330]"
+"2SG.CS 1SG wood NEG-chop-NEG-IMP‘Don’t chop my wood.’ (Giles MSa:L5)
+(728)na-hoa-ya-wei.
+NEG -come- NEG - PROHIB‘Don’t not come.’ (Giles MSa:L5)
+See also (754), (761), (768), (783), (791), (796), (806), (826) and (836) in
+Chapter 9 for examples of the negative circumfix occurring in combination with
+evidential and information status markers.
+8.3.3Negation with neyaAn alternative negating form to the negative circumfix is the lexical negator neya
+(‘NOT’).35 The lexical negator is not a verbal inflection, and functions like a complementtaking predicate rather than a bound inflectional form. I include a brief description
+of neya here because it is functionally related to the negative circumfix, and to aid
+understanding of example sentences in which it occurs.36
+Unlike the negative circumfix, neya can occur as a negator in non-verbal clauses
+expressing equation or proper inclusion, and can occur independently as a complete utterance. As intimated by (Giles MSa:L5, L22), neya has features of a verbal
+predicate, for example, it occurs in clause-final position and can take verbal inflections. It is unlike ordinary verbs in that it does not REQUIRE inflection and does not
+subcategorise for NP arguments.
+The sequence [nj3@] is also used as a negator. As it does not appear to differ from neya in
+either meaning or distribution, and as there are obvious phonetic similarities, I assume that this is a
+contracted form.
+36
+It seems likely that neya is also historically related to the negative circumfix. For example, one
+possibility is that the lexical negator derives from an (unknown) verb negated with na- -ya, which
+coalesced as a new word neya.
+358.3. The negative circumfix303In a simple verbal clause negated with neya the final verb occurs in its root form
+(regular verbs), imperfective stem form (consonantal verbs) or i-base form (wa-class
+verbs). The verb ra- ‘be/sit’ occurs in its o-base form rao-.
+Neya can occur clause-finally without any predicate morphology, as in (729) (731).
+(729)no waki neya.
+1SG hear NOT‘I didn’t hear.’ (ED/V:62)
+(730)no pikono koneri neya.","[331, 332]"
+"11.1. Overview of sentence types417(1030) Yerepi Pake kei=pe
+PNiiina-ka-ya.be/stand.STAT=Q NEG-be/stand-NEG‘Is Yerepi Pake there or not?’ (P/AM:NH03T12B)
+(1031)a. mbaluta ho=pe,
+planena-hoa-ya.come.PFV=Q NEG-come-NEG‘Did the plane come, or not?’
+b. na-hoa-ya.
+NEG -come- NEG‘It didn’t come.’ (ED/III:42)
+(1032)a. ko ame-ka pikono ruwa-na=pe, na-ri-ya-na.
+2SG father-CS pikono say-HAB=QNEG -say- NEG - HAB‘Would your father tell pikono stories, or not?’
+b. no ame-ka pikono ruwa-na wa-ta.
+1SG father-CS pikono say-HAB do-SEQ‘My father would tell pikono.’ (IV/KK-KY:KG05V3(2).7)
+Alternative polarity interrogatives such as those shown in (1030) - (1032) are
+functionally akin to ‘yes/no questions’ in that they ask, is something the case? However, the scenario of this something not being the case is made lexically explicit in
+the utterance; these examples are thus similar to ‘disjunctive-negative’ structures
+(König and Siemund 2007:297) that occur in languages such as Mandarin.
+Examples (1033) - (1035) show some further alternative interrogatives. These
+do not offer two alternatives of differing polarity, but detail possible propositions
+that ‘sketch’ (either more or less exhaustively) the semantic domain of the required
+information. Answers are shown in the ‘b’ lines.
+(1033)a. kei=pe,ngoya?be/stand.STAT=Q go.IPFV‘Is [he] standing there, or going?’
+b. ngoya-na.
+go.IMPV-SPEC‘He is going.’ (ED/VIII:23)
+(1034)a. imane=pe, nane?
+girl=Qboy‘Is [that person] a girl, or boy?’
+b. imane=pi-na.
+girl=OPIN-SPEC‘A girl {I opine}.’ (OH)418Chapter 11. Final morphology and sentence type(1035)a. ayu ko khã-takei-na,khao-yaro-na=pe,now 2SG desire-SEQ be/stand.STAT-SPEC redskin-BEN be/put.PFV-SPEC=Qmindu-ya ro-na.
+black-BEN be/put.PFV-SPEC‘Now, the things you like, are they the things of white people, or the
+things of black people?’
+b. ee, no no ame-ya ro.
+hes. 1SG 1SG father-BEN be/put.PFV‘Ah, I have the things of my own ancestors.’ (IV/KK-KY:KG05V3(2).7)
+Example (1036) shows an interrogative with more complex alternative propositions. The form =pe is repeated as a semi-independent form in between the alternatives, functioning like a coordinating conjunction. This repeated semi-independent
+use of =pe is common if the alternatives are contrasted but not really ‘parallel’ propositions (that is, they differ according to several parameters, as in (1036)), or if
+more than two alternatives are listed. See also (603) in §7.5.5.2.
+(1036)oke, imanoa mbatia or say Kristian mbatia-ka, ha-me-ka
+okay people someor say Christian some-CSruwa-me-ka ri-tia=pe,
+say-MNR-?pe, kete konokathere-MNR-? 2SGangara-angara-tia.say-PFV.VIS . P=Q Q little thought gather-gather-PFV.VIS . P‘Okay so some people or for example some Christian churchgoers, did they
+read it like so in the way that you read it [i.e., without hesitation], or, did
+they gather their thoughts a little?’ (IV/PK-HY:150605i)
+11.1.3.5Question word interrogativesInterrogatives may alternatively be ‘question word’ interrogatives (Payne 1997) that
+contain an interrogative pro-form (§3.9). The pro-form stands for information that is
+missing from the speaker’s knowledge of the proposition, and which the addressee
+is asked to supply (Sadock and Zwicky 1985:185). Some examples are shown in
+(1037) - (1041). Interrogatives that contain pro-forms may be marked with =pe,
+as in (1038) and (1039), or not, as in (1037), (1040), and (1041). I do not know
+what factors motivate this alternation, but the presence of an interrogative pro-form
+means the sentences are formally interrogative and inherently question-like in either
+case.6
+(1037)ko ai.
+2SG who‘Who are you?’ (T/IH:NH03T6A)
+6König and Siemund (2007:300) note that, although the application of an interrogative particle
+would seem to be superfluous in constituent (question-word) interrogatives, it was nevertheless the
+case that in approximately half of the languages they sampled, interrogative particles could optionally be added to constituent interrogatives.","[445, 446, 447]"
+"1SG urine first be/put go-INT‘First I will go and urinate.’
+b. * no puri reiala nga-nda1SG urine be/put first go-INT* I will go first and urinate (CD/VIII:147)
+(487)a. hanei nga-nda.rapid eat go-INT‘Straight away [I] will go and eat.’
+b. * nei hanga-ndaeat rapid go-INT* [I] will go straight away and eat (CD/VIII:155)
+7.3.2.3NegationIt is a feature of serialised verbs (as opposed to most other complex predicate constructions) that they are typically negated as a single constituent, the negative circumfix na- -ya (NEG–NEG, §8.3) surrounding the verb roots as in (488).9 Example
+(489) shows a three-verb serialisation that is negated in this way. Example (490)
+shows a negated purposive serialisation and (491) a negated ‘integrated activity’
+serialisation. (See also §8.3.3 concerning an alternative negation strategy that can
+be used with serialised verbs.)
+(488)nana-singa-ya.",[258]
+"1/2PL NEG-hear-NEG-HORT‘Let’s not listen.’ (Giles MSa:L9)
+As described in §8.2.4, there are some directive verbal inflections that have inbuilt negative meaning and express prohibition. According to Giles’ data it is also
+possible to express prohibition using the negative stem and the imperative suffix, as
+in (727), and similarly to express prohibitions on negative action using the negative
+stem and prohibitive suffix, as in (728).
+(727)kano rowa na-khou-ya-pa.",[331]
+"Uhuh, just stories, uhuh.33
+(31)R: ame-tia =khunu sori ruwa-na.
+father-GP =3PLstory say-HAB‘Our ancestors would tell stories.’
+(32)L: malu, ene kone.
+malu true INTENSMalu, [it’s] really true.
+33I have an odd habit (when trying to speak Duna and otherwise) of using a drawn out a sound
+as an affirmative kind of feedback noise. I don’t know where I got this from. It is not a Duna
+convention.",[512]
+"[Affirmative/polite noises]
+(40) P:Pastaim mekim long en, em laik stori, kain olsem.",[513]
+"7.4Verb adjuncts7.4.1IntroductionA verb adjunct construction (VAC) in Duna is a clause in which the predicate is
+composed of a verb adjunct (§3.4) preceding a verb. The composition of a VAC
+is represented in Figure 7.3. As in Figure 7.2, the ‘x’ symbol is used to mean
+‘number of arguments’. Its placement here indicates that the argument structure of
+the predicate is determined by the verb and verb adjunct in combination. The verb
+adjunct and verb can be treated as a single root for the purposes of negation, or not,
+as indicated by the fact that the plus sign in between the two is in brackets.
+———————————————————————–
+(NPargument )x hVA(+)Verbipredicate:x
+———————————————————————–
+Figure 7.3 A verb adjunct constructionVerbs in Duna VACs are drawn from the consonantal and wa-class verb sets.15
+The verb adjunct adds semantic content and may contribute to the argument structure of the clause, for example, forming a bivalent predicate with a monovalent
+‘host’ verb (see for example §7.4.3.1). Typically the verb adjunct immediately precedes the host verb and the construction can be negated as a unit with the negative
+circumfix na- -ya (§7.4.2.2). Most verb adjuncts occur with only one host verb, but
+some may occur with several different verbs, contributing recognisably constant
+semantics in each case (§7.4.2.3).
+15See Pawley (forthcoming.b) concerning the use of a limited set of verbs in verb adjunct constructions in Kalam.",[265]
+"1SG 2SG.CS suppress-SEQ leave-PROHIB‘Do not suppress and then abandon me.’ (T/SN:101203i)
+The prohibitive suffix attaches to the o-base of consonantal verbs as shown
+in (697) and (698).27 The semi-consonantal ra- ‘sit’ also uses the o-base for this
+inflection, as shown in (699).
+25Comrie (2003) discusses the fact that full or partial suppletion of a verb ‘give’ with respect to
+the person of the recipient is quite a widespread phenomenon in the world’s languages, even in those
+languages that (like Duna) do not generally show any object or indirect object agreement on verb.
+26
+König and Siemund (2007:308-311) note that the presence of a prohibitive marker, that is, a
+morpheme that is specific to negative directives and occurs on sentences that are not otherwise
+marked as negative, is a comparatively infrequent phenomena cross-linguistically. Out of their
+sample of 70 languages only four had special prohibitive morphology of this kind.
+27
+There is probably a phonological basis for this: Several inflections outlined in this section are
+marked on regular verbs by suffixes that are not consonant-intial but start with a labialised and/or
+rounded glide or vowel, probably derived from the initial bilabial of the verb wa- ‘do’. These suffixes
+attach to the o-base of consonantal verbs, or alternatively appear in the surface form to be directly
+affixed to the base consonant. The exception to this is the suffix wayeni, see §8.2.4.4, for which the
+base form varies.",[322]
+"1.4Thesis overviewThis thesis describes certain structures of Duna grammar that are used in building
+simple sentences, and looks in detail at some semantic themes that are encoded in
+the bound morphemes of the language, particularly those that are to do with expressing attitudes to knowledge. It is an introduction to the language, and does not
+present a comprehensive inventory of Duna grammatical morphemes and operations, or deal with complex sentence structures (for example, those involving clause
+embedding or coordination).
+Chapter 2 provides an overview of Duna phonology, including a description of
+the phonemic inventory and the major allophones of these phonemes, and a preliminary statement concerning lexical tone in monomorphemic words. In Chapter 3, I
+define Duna word classes as referred to in this thesis, and list the known members
+of small closed classes. Chapter 4 presents an overview of major clause types and
+features of basic clause structure.
+In Chapters 5 and 6, I examine the structure of nouns, nominal phrases (NPs),
+place phrases (PlcPs), and postpositional phrases (PP), constituents that typically
+occur to represent participants in the clause. This includes an account of morpholo-1.4. Thesis overview27gically complex nouns and the lexical structure of NPs (Ch. 5), and itemisation and
+illustration of bound morphemes that indicate the epistemic positioning, number,
+definiteness, grammatical function, semantic role, and/or prominence of the phrase
+to which they are added (Ch. 6).
+In Chapters 7 to 11, I look in more detail at predicating constituents. Chapter
+7 provides examples and discussion of certain complex predicate constructions, including complex verbs, serialised verbs, and predicates that are composed of a verb
+in combination with a free lexeme such as a noun or adjective.
+Chapter 8 begins my exploration of bound forms that occur on ‘final’ predicates.
+Final predicates head an independent clause that constitutes a complete sentence
+in itself, or occurs last in a chain of dependent clauses. Chapter 8 is concerned
+with inflectional forms that occur on verbs, and indicate time, event modality, and
+polarity features of the predicated activity, for example whether it is complete or
+ongoing, or whether the speaker desires it to occur.
+In Chapter 9 I describe two groups of bound forms (evidential and information
+status markers) that a speaker can use as final verb inflections to supply an epistemic
+assessment of the proposition that is encoded in the utterance, as well as to supply
+temporal information. Evidential markers typically indicate a source of information
+(for example, whether the predicated activity was seen to occur), and information
+status markers encode other kinds of attitudes towards the proposition (for example
+as knowledge that is new or familiar).
+In Chapter 10, I illustrate complex final morphology constructions in which
+evidential and information status markers are added following inflected verb forms
+rather than bare roots, discuss the use of these forms in non-verbal clauses, and
+introduce some further bound forms and constructions that are concerned in the
+expression of epistemic assessment.
+Chapter 11 examines final predicate markers as described in Chapters 8 to 10
+with respect to the sentence types of Duna, focussing on the way that certain forms
+make different predictions about the relationship of the speaker to the proposition
+in interrogative as opposed to non-interrogative sentences. In this last chapter I also
+provide an overview of epistemic assessment and the final predicate in Duna.","[55, 56]"
+"Chapter 7Some complex predicate structures
+7.1IntroductionPredicates of verbal clauses in Duna often consist of a verb only, in the sense that
+a single inflected verb root occurs clause-finally, and denotes ‘what’s going on’,
+determining the argument structure of the clause and the semantic roles of the participants. Predicates of verbal clauses may also be complex, being “composed of
+more than one grammatical morpheme (either morphemes or words) each of which
+contributes part of the information ordinarily associated with a head” (Alsina et al.
+1997).
+This chapter identifies five major complex predication structures in Duna, summarised in Table 7.1.
+Table 7.1 Complex predicate typesLabel
+Complex verb:Composition
+Verb-Modifier(s)-See:
+§7.2Verb serialisation:(Verb-) Verb- Verb§7.3Verb adjunct (Va):Va Verb§7.4Adjunct nominal:N Verb§7.5.2Object-verb predication:NPobject Verb§7.5.3An individual complex predicate expression will map broadly to the one of
+structures laid out in Table 7.1. However, many also show particular non-predictable
+characteristics, relating for example to morphological composition, argument structure, or degree of lexicalisation. Some complex predications (particularly examples
+of those structures that include a nominal) are idiomatic, comprising a conventialised expression the meaning of which cannot be predicted from knowledge of the
+2187.1. Introduction219constiutents as they occur in isolation from each other (Nunberg et al. 1994:492).
+In the first four sections of this chapter I proceed from complex predicates in
+which the morphemic components are highly bound (for example, as a unitary stem
+that cannot be separated) to those more idiomatic constructions in which the components are free lexemes or phrases that are semantically rather than formally interdependent.
+Section 7.2 describes the derivation of complex verbs through the addition of
+a directional demonstrative root, bound aspectual/adverbial form, or participantadding morpheme. Sections 7.3 - 7.5 define three major types of complex predicate
+construction with reference to the word class of the constituent that occurs in addition to a clause-final verb.
+In §7.3, I examine predicates that are composed of two or three verbs in series,
+with an uninflected verb (or verbs) preceding an inflected verb. Typically verbs in
+series must be contiguous, and the preferred method of negation with the negative
+circumfix (§8.3) is ‘unitary’, that is, with the circumfix surrounding the whole series
+as a single stem. Some verbs in series describe distinct activities; some are lexicalised to refer to a single activity that is not necessarily predictable from the meaning of the individual verb roots; and some occur in ‘asymmetrical’ constructions
+(Aikhenvald 2006) in which the last verb in the series aspectually or directionally
+modifies the preceding verb.
+Section 7.4 concerns predicates that are composed of a verb in combination
+with a ‘verb adjunct’ (§3.4). Both constituents can contribute to the meaning and
+argument structure of the predicate. A verb adjunct typically immediately precedes
+its host verb, and interposed constituents are generally dispreferred. The negative
+circumfix can be applied either to the verb only, or to the verb adjunct + verb combination as a whole.
+Complex predicates where a verb combines with a noun or NP are examined in
+§7.5. The negative circumfix is not applied to the expression as a whole, but occurs
+on the verb root only. The nominal element may be introduced into a clause in which
+there is no argument slot for it to occupy (occurring as an ‘adjunct noun’), or occur
+with a multivalent verb for which it can be posited as an object NP in what I term
+an ‘object-verb predication’. Typically the nominal element is a non-referential and
+unmodified common noun, and subject to an ordering restriction that it must follow
+other NPs, PPs, or PlcPs in the clause, but some variation in regard to these features
+is allowable.
+Section 7.5 describes some further families of minor constructions that consist
+of an NP or adjective in combination with the existential verb ka- ‘be/stand’. It also
+discusses some special predicating structures that include existential verbs and are220Chapter 7. Some complex predicate structuresconcerned with the expression of possession and proper inclusion.
+Section 7.6 looks at complex predicates that describe involuntary experience.
+These represent a variety of construction types that are related but not identical
+to some of those described in §7.3 - §7.5, and are grouped together on a largely
+semantic basis.","[246, 247, 248, 249]"
+"2SG.CS query-PLC kill.PFV‘Where did you kill [it]?’
+b. anda khou-ranaphuya-na so.house cavity-CNCL 1SG.CS snake-SPEC kill.PFVInside the house I killed the snake.’ (CED)
+Fronting may also mark contrast in which, broadly, one participant is ‘substituted’ for another (Vallduvı́ 1992:71-2).28 In (94), the object NPs of a negative and
+a positive clause are fronted and contrasted. The hypothetical context is that two
+people are talking over who went to the market that day.
+(94) ko no na-ke-ya,Manari no ke-o.",[151]
+"57
+58
+59
+59
+60
+61
+61
+62
+62
+63
+64
+65
+65
+66
+66
+673.1
+3.2Ordering of verbal morphology . . . . . . . . . . . . . . . . . . . . 75
+Demonstrative subclasses . . . . . . . . . . . . . . . . . . . . . . . 854.1
+4.2Typical ordering of subject and object NPs . . . . . . . . . . . . . . 107
+Typical word order of a verbal clause . . . . . . . . . . . . . . . . . 1095.1Ordering of words in a nominal phrase . . . . . . . . . . . . . . . . 1286.1
+6.2
+6.3Order of co-occurring phrase-final morphemes . . . . . . . . . . . . 166
+Ordering of co-occurring NP markers . . . . . . . . . . . . . . . . 178
+General structure of a place phrase . . . . . . . . . . . . . . . . . . 1927.1
+7.2
+7.3
+7.4
+7.5Morphological template of a complex verb . . . . . . . . . . . . . . 220
+Clause headed by a two-verb series . . . . . . . . . . . . . . . . . . 227
+A verb adjunct construction . . . . . . . . . . . . . . . . . . . . . . 236
+Typical ‘adjunct noun’ construction . . . . . . . . . . . . . . . . . 245
+Template of an ‘object-verb predication’ . . . . . . . . . . . . . . . 247
+xxLIST OF FIGURESxxi7.6 Adunct noun type construction with ka- ‘be/stand’ . . . . . . . . . . 251
+7.7 Object-verb type predication with ka- as ‘make’ . . . . . . . . . . . 252
+7.8 Adjective + ka- ‘be/stand’ . . . . . . . . . . . . . . . . . . . . . . . 253
+7.9 Existential and expanded existential (possessive) clauses . . . . . . 254
+7.10 Possible structure of expanded existential clauses . . . . . . . . . . 256
+7.11 Clause with existential verb in copular function . . . . . . . . . . . 257
+8.1
+8.2
+8.3Final predicate morphology . . . . . . . . . . . . . . . . . . . . . . 268
+Classification of aspectual oppositions (Comrie 1976:25) . . . . . . 290
+Duna TAM markers (actualised events) as per Comrie (1976) . . . . 2919.1Inflectional array: present time event . . . . . . . . . . . . . . . . . 348Abbreviations
+1
+2
+3
+ABIL
+ASSERT
+BEN
+BNF
+C
+CAUS
+CNCL
+COM
+CMPL
+CS
+CTFACT
+DEP
+DES
+DL
+ENCLexcl.
+EXCV
+EXPCT
+GP
+GPN
+HABhes.
+HORT
+HYP
+IMP
+IMPL
+INDV
+INSTR
+INT
+INTENS
+IPFV
+ITER
+LNK
+LOC
+MNRfirst person
+second person
+third person
+abilitative
+assertion
+beneficiary/possessor
+benefactive
+current (evidence)
+causative
+concealing/inner location
+comitative
+completive/emphatic
+contrasted subject
+counterfactual
+dependent (verb)
+desiderative
+dual
+enclosure
+exclamation
+exclusive identification
+expective
+group
+social grouping name
+habitual
+hesitation/filler
+hortative
+hypothetical
+imperative
+impersonal
+individual (knowledge)
+instrument
+intentive
+intensifier
+imperfective
+iterative
+link
+locative
+mannerxxiiMULTI
+NEG
+NOT
+NTN
+OCC
+ORD
+OPIN
+P
+PFV
+PL
+PLC
+PLN
+POT. OBS
+PR
+PRES
+PROB
+PROHIB
+PROM
+PROPH
+PSN
+PURP
+Q
+RSLT
+SEQ
+SG
+SHRD
+SIM
+SPEC
+SNS
+STAT
+SUB
+SW
+TERR
+UNC
+VISvoc.
+WARNmultiple times
+negative
+lexical negator
+notional (evidence)
+occurrence
+ordinal
+opinion
+previous (evidence)
+perfective
+plural
+place
+place name
+potential observation
+pair
+present
+probable
+prohibitive
+promissive
+prophetic
+personal name
+purposive
+interrogative marker
+results (evidence)
+sequential
+singular
+shared (knowledge)
+simultaneous
+specificity
+non-visual sensory
+stative
+subordinator
+switch
+territory
+uncertainty
+visual (evidence)
+vocable
+warning againstOther glossing conventions
+In example sentences I use a hyphen (-) to represent ligature between two morphemes where
+(at least one) of the morphemes does not occur as a freestanding form. I use the equals sign
+(=) to represent ligature for: bound morphemes that attach to the final predicate, but do not
+occur in a primary inflectional capacity (§8.1.1.1), that is, epistemic particles (§10.4) and
+the sentence-final markers =nia ASSERT and =pe ‘Q’ (§11.1); and dependent third person
+pronouns (§6.6.3). I do not use ‘-’ versus ‘=’ to represent an overall distinction between
+affixes and a clitics. A large number of the bound forms that I describe in this thesis are
+arguably clitics on the basis of their distributional flexibility. However, a more developed
+understanding of Duna phonology is necessary to explore the validity and applicability of
+a clear clitic/affix distinction, and I use ‘=’ for morphemes which are anomalous in other
+ways.
+Where a single Duna morpheme requires glossing with more than one English word,
+these are separated by a full stop. In certain cases where a given morpheme encodes more
+than one category or meaning I use a forward slash (/) to separate these two meanings.
+Words in example sentences that are clearly related to Tok Pisin and/or English words
+are annotated ‘lw’ (for ‘loan word’) in the gloss. Some of the examples in this thesis include Duna words that belong to a “special esoteric vocabulary” (Haley 2002:132) called
+kẽyaka. Kẽyaka terms are used extensively in song, but are not typically used in everyday
+conversation or spoken narratives. Kẽyaka terms are indicated in example sentence glosses
+with ‘k.’ preceding the approximate import of the word.
+In Chapters 9 to 11 approximations of perception events that are entailed by evidential
+markers (§9.2) are shown in curly brackets in the English translation.","[25, 26, 27, 28]"
+"2968.2.4.4Chapter 8. Final verb morphology: time, event modality, and negationWarning againstOn regular verbs, the form wayeni (WARN) occurs following the root to express
+a warning against the predicate activity, intimating that there will be bad consequences if the event occurs. As pointed out by Giles (MSa:L4), this functions
+like a negative command for non-immediate actions (see §8.2.4.6). Two examples
+are shown in (709) and (710).
+(709)hiwa-na=nia,ko ke-wayeni ruri-na.socialise-PROPH=ASSERT 2SG see-WARN say.PFV say-SPEC‘[People] will gather here, you mustn’t look [she] told [him] it is said. ’
+(T/YS:270205)
+(710)ha-naanguruka-wayeni.there-SPEC RESTRICT dig.out-WARN‘That one only, you must not dig out.’ (T/JK:KG05V5.27)
+For consonantal verbs, there is variation as to whether: -yeni follows the abase, as in (711) and (712b); -wayeni occurs following the imperfective stem, as in
+(712a); or -wayeni is added to the o-base, as in (712c). In some cases wayeni is
+reduced to [waj ni] or [waE ni]. Further data and analysis are needed to determine the
+contrastive structural relationships, semantics, and/or functions of these possibilities.
+(711)para ka-yeni.
+miss be/stand-WARN‘Don’t fall.’ (CD/XIV:144)
+(712)a. nane-na-ka ri-ya,rowa ho-rairingoya-wayeni.boy-SPEC-CS say-DEP wood here-CNCL fetch go-WARN‘The boy said, you must not fetch firewood in this one.
+b. mbou wa-ranga-yeni.garden near-CNCL go-WARNYou must not go into that garden.
+c. mbou-ta,hatia ho-rango-wayeni.garden-LOC path here-CNCL go-WARNTo the garden, you must not go on that path.’ (T/PK:180205)
+With wa-class verbs -yeni can be added to the a-base or wayeni can be added to
+the i-base, as in (713).
+(713)ayu mbitini-kari-ya,rama eke si-wayeni.now mission.lw-CS say-DEP spirit stone hold-WARN‘Now the missionaries said, you must not have the spirit stones.’
+(T/RS:270405b)8.2. Tense, aspect and event modality (TAM)297The WARN marker can also used as a more polite alternative to the prohibitive
+inflection.
+Wayeni can be used to mark a sentence in a (paratactically) coordinate structure
+that expresses negative purpose.31 The activity described by the one sentence is
+performed so that the situation described by the wayeni sentence does not arise, as
+in (714) - (716). In such cases the subject of the wayeni clause may be third person.
+(714)ko wei-takhene-wayeni, ke-ta2SG fight-LOC die-WARNka-no.see-SEQ be/stand-DES‘Lest you die at the battle, keep a look out.’ (CED/XIV:144)
+(715)Monika hoa-yeni
+PSNkeno rakua-nda ngoae.come-WARN 1DL hide.self hide-PURP go.HORT‘Lest Monica comes let’s go and hide.’ (ED/VIII:118)
+(716)peli kiri suwa-no, khene-wayeni.
+well tend hold-DES die-WARN‘Look after [the pig] well, lest it should die.’ (ED/XIV:144)
+8.2.4.5Suggestions with koneThe form kone occurs on final predications following verbs that are marked with the
+intentive or hortative inflections. This construction (V-INT / HORT + KONE) marks
+utterances that suggest what can, should, or may be done.32 The intentive is used
+with inclusive or addressee subjects, and the hortative with third person subjects.
+The morpheme kone is as yet poorly understood (for example, its precise distribution is not known), and it seems to be a lone player rather than belonging to a set
+of contrastive forms. This construction is included here on functional grounds even
+though it is not strictly inflectional. Some examples are shown in (717)-(719).
+(717)inusopa Tomas kei-ta1/2PL below PSNMamsa-nda nga-nda kone.be/stand.STAT-LOC GPN-3ENCL go-INTKONE‘We should go to where Tomas lives at Banz.’ (T/KP:120205i)
+(718)ho-raua-nda kone.here-CNCL sleep-INT KONE‘You should sleep in here.’ (OH/XIV:108)
+(719)itane kota ngoae kone.
+later pick go.HORT KONE‘He should go to pick [them] later’ (ED/III:37))
+31This was brought to my attention by Giles (MSa:L30)
+I have used ‘should’ in translating all of the examples here for the sake of consistency but as far
+as I know ‘can’, ‘could’, ‘shall’, ‘may’ etc would be equally appropriate.
+32298Chapter 8. Final verb morphology: time, event modality, and negationGiles (MSa) observes that kone also occurs with -nda and -wae in purpose
+clauses. An example is shown in (720). I found only a few occurrences of this
+structure in the 2003-7 data (one example can be seen in (362)).
+(720)Yetu-ka ri-ya,inuanguhaka-nda kone khariPSN - CS say- DEP 1/2 PL RESTRICT talk- INTndu-ta ngoaeKONE mountain one- LOC go. HORTru.
+say.PFV‘Jesus said, let’s go to a mountain so that we can talk alone.’ (Giles MSa:L22)
+8.2.4.6A paradigm of immediate and deferred directivesGiles (MSa:L4) describes the desiderative inflection (§8.2.2.4) and TAM markers
+presented in §8.2.4.1 - 8.2.4.5 in terms of whether they are ‘immediate’ or ‘deferred’
+command forms. It is worth pointing out that there is a functional paradigm in
+this respect, as represented in Table 8.13 (showing regular inflections only). The
+table illustrates the way that formally diverse morphemes and constructions can
+be arranged in opposition to each other with respect to a semantic or functional
+variable. This is a fairly pervasive feature of Duna, as there are few systematically
+contrastive inflections or morphemes that comprise discrete formal paradigms.
+Table 8.13 Forms for immediate and deferred directivesDirective type
+Positive
+Negative
+InclusiveImmediate
+Imperative -pa
+Prohibitive -wei
+Hortative -waeDeferred
+Desiderative -no
+Warning -wayeni
+-nda koneAs noted by Loughnane and San Roque (forthcoming), the existence of a (typically constructionally diverse but semantically coherent) system of immediate versus
+deferred directives is well-attested in languages of the wider region. See: Franklin
+(1971:39) on Kewa; Lang (1973:xxxvi) on Enga; May and Loeweke (1980:72) on
+Fasu; Madden (MS:16) on Angal (Mendi); Rule (1977:55-8) on Huli, Foe, and Pole;
+and Schieffelin (1986:567) on Kaluli.33 Pairs of immediate (‘strong’) and deferred
+(‘weak’) command forms are found in Nambikuara (Mamainde), Brazil (Kroeker
+2001:30-2), a language which is discussed in §9.2.2.2 in regard to its evidential system. See also Shapiro (1989:88-90) concerning the deferred imperative in Hindi and
+Bybee (1985:17-3) concerning languages with inflectional ‘delayed’ imperatives.
+33Interestingly this feature appears to coincide with evidential verbal morphology, and in at least
+one case (Fasu) is analysed by the describers as representing an ‘in sight’ versus ‘out of sight’
+distinction (May and Loeweke 1980:72). Time appears to be a more important feature than visibility
+in the Duna case, but this issue warrants further investigation.","[324, 325, 326, 327]"
+"11.1. Overview of sentence types415sentences that are marked with the uncertainty maker -rape (§9.3.3.2), or the epistemic particles =koae and =nokoae (§10.4.3). In these cases the marker =pe also
+occurs, but is not really productively applied, as in the case of -rape it is represented
+as a frozen component of the morpheme, and in the case of (no)koae is basically a
+required element of independent use of these forms (unless an interrogative word
+is present in the sentence). Speculative sentences are like interrogative sentences
+in that the speaker expresses ignorance of the proposition, and encourages the addressee to have a look at what they know about it. However, unlike typical contexts
+of interrogative sentences there is little expectation that the addressee knows the
+answer and will be able to respond definitively.
+11.1.3.2Question marker =peThe question marker =pe follows a final predicate in an utterance that is nonassertive and typically elicits information from an addressee, that is, has a question
+function. The question marker may occur on verbal clauses as in (1023), and on
+non-verbal clauses as in (1024). These are examples of a question word interrogative and a yes-no interrogative, respectively.
+(1023) Kipu pa-na
+PSNngo=pe.query-SPEC go.PFV=Q‘Where has Kipu gone?’ (ED/VIII:134)
+(1024) ko-ya=pe.
+2Sg-BEN=Q‘Is [that] yours?’ (LC/III:60)
+The assertion marker =nia (§11.1.2.1) and question marker do not co-occur, as
+shown by (1025).
+(1025) * ko na-nda=nia=pe
+2SG eat-INT=ASSERT=Q* Will you eat? (CD/XIV:21)
+The question marker may also occur as a phonologically free form, see (1036),
+and can constitute an entire utterance. In the latter case, the interrogative marker
+refers back to what has just been said, typically expressing the speaker’s interest in
+and/or wonder at what the addressee is telling them.5
+König and Siemund (2007:294-5) comment that, where interrogative sentences
+are derived from the application of an interrogative particle or clitic to a declarative
+sentence, this marker is typically positioned sentence finally (especially in verb-final
+5I observed this ‘feedback interrogative’ in conversation, but unfortunately have not found any
+occurrence of it in the transcribed data so am unable to provide a suitable example.","[443, 444]"
+"74Chapter 3. Word classesnot modified by postposed constituents such as quantifiers and demonstratives, and
+unlike both common nouns and proper names they do not occur as nominal specifiers. Personal pronouns (excluding special contrasted subject (CS) forms, see
+Table 3.3) can be doubled to emphasise the solitary nature of a participant (§5.4.2.3).
+They may also be marked with the ‘exclusive identity’ marker -nga (§6.6.2). This
+morpheme does not occur on other nominals (although it is applicable to locational
+demonstrative roots, see §6.4.4.1).
+The ‘unmarked’ set of personal pronouns (that is, as opposed to CS forms) distinguishes first (1), second (2), and third (3) person and singular (SG), dual (DL),
+and plural (PL) number as shown in Table 3.2. Within the plural pronouns, there
+is a conflation of the first and second person reference forms. Third person pronouns can be encliticised to NPs, and are typically only used in denoting subject
+arguments and possessors (§5.3.1.1, §6.6.3).
+Table 3.2 Personal pronouns1
+2
+3SGDLPLno
+ko
+khokeno
+nako
+khenoinu
+inu
+khunuSingular and dual personal pronouns are unique in having special ‘contrasted
+subject’ forms or stems, rather than applying the regular contrasted subject marker
+-ka to the unmarked pronoun (which is the pattern for plural pronouns). These
+special forms are shown in in Table 3.3, and discussed in more detail in §6.6.1.
+Table 3.3 Personal pronouns: singular and dual contrasted subject forms1
+2
+33.3SGDLna
+ka
+khakena(-ka)
+naka
+khena(-ka)VerbsWords that are members of a ‘verb’ class typically express actions, processes, and
+states (Schachter and Shopen 2007:9; Evans 2000:712). A Duna verb typically
+functions as the head of a clausal predicate, in which case the verb root must be
+inflected (either medially or finally). The ordering of bound verbal morphology is
+represented in Figure 3.1. Derivational affixes and directional demonstrative roots3.3. Verbs75occur in the ‘modifier’ position following the verb root (§7.2). The negative circumfix (§8.3) is applied to the (modified) stem, deriving a negative stem that can be
+used as a medial or final verb or have inflectional morphology added to it (that is,
+once the negative circumfix has been applied to a verb, further inflectional marking is possible but not strictly obligatory). With respect to final verbs, ‘inflectional
+morphology’ includes tense, aspect, and event modality markers (§8.2), evidential
+markers (§9.2), and information status markers (§9.3). Duna also has a range of
+medial inflectional morphemes (not described in this thesis) that typically indicate a
+time or aspect value with respect the following clause (for example if the predicated
+activity is completed before the activity predicated in the following clause begins)
+as well as signaling features concerning ‘cohesion’ (for example, if the identity of
+the controlling argument changes from one clause to the next). In complex predications up to three verb roots can occur in series, with only the last verb of the series
+bearing inflectional morphology (§7.3).
+—————————————————————————————
+NEG - Verb root - Modifier - NEG - Inflectional morphology
+—————————————————————————————
+Figure 3.1 Ordering of verbal morphologyPredicating verbs determine the argument structure of a clause (although see
+also Chapter 7 concerning complex predication). I describe verbal roots in Duna
+as monovalent (taking one argument), bivalent (taking two arguments) or trivalent
+(taking three arguments). Monovalent, bivalent, and trivalent clause types are described and exemplified in §4.1. Some verbal roots can take either one argument or
+two arguments and I refer to these as ambivalent verbs (§4.2.3.4).
+There are three (partly cross-cutting) closed verb classes within the class of
+verbs. Two of these are defined on the basis of shared morphological and distributional characteristics. The third group, existential verbs, is defined through a
+combination of formal and functional features.
+3.3.1Morphologically distinct verb classesThere are two groups of Duna verbs that have distinct morphological and functional
+properties. I refer to these as the ‘consonantal verbs’ and the ‘wa-class verbs’.6
+Consonantal and wa-class verbs are high frequency7 and have quite general lexical
+meaning. They are the only verbs that occur in combination with verb adjuncts
+(§7.4). These two groups are listed here and described in more detail in Chapter
+6Giles (MSa) identifies these two verb groups and refers to them as the irregular verbs and waclass verbs, respectively.
+7
+For example, a count of verbs in a short text (excluding immediately adjacent repetitions)
+showed that of 60 tokens, 40 were either consonantal or wa-class verbs.","[102, 103, 104]"
+"1SG.CS first finish be/put.PFV‘First I finished [it].’
+b. * naitaala ro1SG.CS finish first be/put.PFV* First I finished it (CD/XIV:76)
+However, the pre-verbal modifier ha ‘already, quickly’ was generally judged
+acceptable preceding either the verb adjunct or the host verbs as illustrated in (520)
+and (521). This contrasts with verb serialisation, in which ha should precede the
+first predicating element.
+(520)a. hairima.rapid fetch go.IMPb. irihama.fetch rapid go.IMP‘Go fetch [it] straight away.’ (CD/XIV:76)
+(521)a. haitara-nda.rapid finish be/put-INTb. itahara-nda.finish rapid be/put-INT‘[I] will finish [it] straight away.’ (CD/VIII:155)238Chapter 7. Some complex predicate structures7.4.2.2NegationVerb adjunct constructions can be negated by applying the negative circumfix naya to the verb adjunct + verb as a single constituent, as in (522) and (523b), or
+applying the negative circumfix to the verb only, as in (523a) (see also (531)).
+(522)...Monika mo-roko,
+PSNnu-rana-ngora ki-ya-na.like-SW. SIM netbag-CNCL NEG-bear carry-NEG-HAB‘...when [the child] is Monica’s size, we do not carry it in a netbag.’
+(T/HS:061103i)
+(523)a. ko ala ko=pe,ala na-ka-ya.","[266, 267]"
+"2SG letter go.CAUS-INDV=Q NEG-go.CAUS-NEGAre you sending the letter or not? (Giles MSa:L5, my translation)
+Compare this with (726), in which the hortative inflection follows the negative.
+The applicative form -iwa ‘BNF’ is used to indicate that the predicate
+activity is carried out to help another person. It introduces an additional beneficiary
+and/or possessor participant (typically encoded as an NP-internal possessor or a PP
+marked with -ya BEN, §6.5.4). Examples are shown in (478) - (480).
+Benefactive(478)nako haka waya sei-iwa-nda.",[254]
+"69
+69
+70
+70
+71
+72
+73
+73
+73
+74
+75
+76
+76
+77
+78
+79
+802.22.3
+3CONTENTSix3.681
+82
+83
+84
+84
+86
+86
+87
+88
+88
+90
+90
+90
+91
+91
+93
+93
+93
+94Quantifiers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.1 Numbers . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.2 Non-numerical quantifiers . . . . . . . . . . . . . . . . . .
+3.6.3 The quantifier ndu . . . . . . . . . . . . . . . . . . . . . .
+3.7 Demonstratives . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.1 Proximal . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.2 Locational . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.3 Directional . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.8 Talking about time and manner . . . . . . . . . . . . . . . . . . . .
+3.8.1 Day terms . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.8.2 Time and manner adverbials . . . . . . . . . . . . . . . . .
+3.8.2.1 Time-of-day terms . . . . . . . . . . . . . . . . .
+3.8.2.2 Time/manner words . . . . . . . . . . . . . . . .
+3.8.2.3 Manner adverbs . . . . . . . . . . . . . . . . . .
+3.9 Interrogatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.10 Dependent modifiers and linkers . . . . . . . . . . . . . . . . . . .
+3.10.1 Dependent postpositional modifiers . . . . . . . . . . . . .
+3.10.2 Linking forms . . . . . . . . . . . . . . . . . . . . . . . .
+3.11 Interjections and conventionalised sound gestures . . . . . . . . . .
+4Basic clause structure
+96
+4.1 Clause types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+4.1.1 Non-verbal clauses . . . . . . . . . . . . . . . . . . . . . . 96
+4.1.1.1 Nominal predicates . . . . . . . . . . . . . . . . 96
+4.1.1.2 Adjectival predicates . . . . . . . . . . . . . . . 97
+4.1.1.3 Other non-verb predicates . . . . . . . . . . . . . 98
+4.1.2 Monovalent clauses . . . . . . . . . . . . . . . . . . . . . . 99
+4.1.2.1 Introduction . . . . . . . . . . . . . . . . . . . . 99
+4.1.2.2 Monovalent verbs (non-existential) . . . . . . . . 99
+4.1.2.3 Existential verbs . . . . . . . . . . . . . . . . . . 99
+4.1.2.4 Non-verbal roots as monovalent predicates . . . . 102
+4.1.3 Bivalent clauses . . . . . . . . . . . . . . . . . . . . . . . . 102
+4.1.4 Trivalent clauses . . . . . . . . . . . . . . . . . . . . . . . 104
+4.2 Participant reference in verbal clauses . . . . . . . . . . . . . . . . 105
+4.2.1 Arguments and adjuncts . . . . . . . . . . . . . . . . . . . 105
+4.2.2 Overview of typical word order . . . . . . . . . . . . . . . 107
+4.2.2.1 Subject and object NPs . . . . . . . . . . . . . . 107
+4.2.2.2 Obliques . . . . . . . . . . . . . . . . . . . . . . 107
+4.2.2.3 Summary . . . . . . . . . . . . . . . . . . . . . . 109
+4.2.3 Issues in argument identification and realisation . . . . . . . 109
+4.2.3.1 Reflexive clauses . . . . . . . . . . . . . . . . . 109
+4.2.3.2 Reciprocal clauses . . . . . . . . . . . . . . . . . 110
+4.2.3.3 Argument elision . . . . . . . . . . . . . . . . . 112
+4.2.3.4 Note on ambivalent verbs . . . . . . . . . . . . . 119
+4.2.3.5 Note on subject/possessor indeterminacy . . . . . 119
+4.2.4 Some marked word order/intonation patterns . . . . . . . . 120
+4.2.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 120xCONTENTS4.2.4.2
+4.2.4.3
+4.2.4.4
+5Fronting . . . . . . . . . . . . . . . . . . . . . . 121
+Left dislocation . . . . . . . . . . . . . . . . . . 123
+Right dislocation . . . . . . . . . . . . . . . . . . 125Constituents of nominal phrases
+127
+5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+5.2 Constituents of noun NPs . . . . . . . . . . . . . . . . . . . . . . . 129
+5.2.1 Nouns and complex nouns . . . . . . . . . . . . . . . . . . 129
+5.2.1.1 Nominaliser -ne . . . . . . . . . . . . . . . . . . 129
+5.2.1.2 Free lexeme + ‘word-like’ dependent form . . . . 131
+5.2.1.3 Noun + noun compounds . . . . . . . . . . . . . 133
+5.2.1.4 Noun repetition . . . . . . . . . . . . . . . . . . 134
+5.2.1.5 Postposed ‘specifying’ nominals . . . . . . . . . 134
+5.2.2 Adjectives in NPs . . . . . . . . . . . . . . . . . . . . . . . 135
+5.2.3 Quantifiers in NPs . . . . . . . . . . . . . . . . . . . . . . 137
+5.2.3.1 Numbers . . . . . . . . . . . . . . . . . . . . . . 137
+5.2.3.2 Non-numerical quantifiers . . . . . . . . . . . . . 138
+5.2.3.3 The quantifier ndu ‘one’ . . . . . . . . . . . . . . 139
+5.2.4 Demonstratives in NPs . . . . . . . . . . . . . . . . . . . . 139
+5.2.4.1 Proximal . . . . . . . . . . . . . . . . . . . . . . 139
+5.2.4.2 Locational . . . . . . . . . . . . . . . . . . . . . 140
+5.2.4.3 Directional . . . . . . . . . . . . . . . . . . . . . 143
+5.2.5 Co-occurring adjectives, quantifiers, and demonstratives . . 144
+5.2.6 Preposed possessor constituents . . . . . . . . . . . . . . . 146
+5.2.6.1 NP Possessors . . . . . . . . . . . . . . . . . . . 146
+5.2.6.2 PP possessors . . . . . . . . . . . . . . . . . . . 147
+5.3 Personal pronoun, PN, and interrogative NPs . . . . . . . . . . . . 148
+5.3.1 Personal pronouns . . . . . . . . . . . . . . . . . . . . . . 148
+5.3.1.1 Special features of third person pronoun use . . . 151
+5.3.2 Proper names . . . . . . . . . . . . . . . . . . . . . . . . . 154
+5.3.3 Interrogatives (non-derived) and apoko . . . . . . . . . . . 154
+5.3.3.1 ai ‘who?’ . . . . . . . . . . . . . . . . . . . . . . 155
+5.3.3.2 aki ‘what?’ . . . . . . . . . . . . . . . . . . . . . 155
+5.3.3.3 akita, ‘how many?’ . . . . . . . . . . . . . . . . 157
+5.3.3.4 pania ‘which?’ . . . . . . . . . . . . . . . . . . . 157
+5.3.3.5 Hesitation proform apoko(ne) . . . . . . . . . . . 158
+5.4 Participant reference with multiple NPs . . . . . . . . . . . . . . . 159
+5.4.1 Collocation: detailing pair and group members . . . . . . . 159
+5.4.1.1 Pair compound NPs (tight collocation) . . . . . . 160
+5.4.1.2 Listing construction (loose collocation) . . . . . . 160
+5.4.1.3 Mixed-feature collocation . . . . . . . . . . . . . 161
+5.4.2 Other complex nominal phrases . . . . . . . . . . . . . . . 162
+5.4.2.1 Two phrase ‘whole-part’ construction . . . . . . . 162
+5.4.2.2 Inclusory pronominal construction . . . . . . . . 163
+5.4.2.3 Double personal pronouns . . . . . . . . . . . . . 163
+5.4.2.4 Note on appositional explanatory NPs . . . . . . 165CONTENTSxi6NP, PP, and PlcP morphology
+166
+6.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+6.2 Bound ‘epistemic demonstratives’ . . . . . . . . . . . . . . . . . . 167
+6.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+6.2.2 Non-visual sensorily perceived items . . . . . . . . . . . . 168
+6.2.3 Speaker’s knowledge . . . . . . . . . . . . . . . . . . . . . 172
+6.2.4 Shared knowledge . . . . . . . . . . . . . . . . . . . . . . 174
+6.2.5 A demonstrative for visually perceived items? . . . . . . . . 175
+6.3 NP markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.3.2 Specificity and grouphood . . . . . . . . . . . . . . . . . . 178
+6.3.2.1 Specific individual -na . . . . . . . . . . . . . . . 178
+6.3.2.2 Group marker -tia . . . . . . . . . . . . . . . . . 182
+6.3.3 Pair markers -ne and -yane . . . . . . . . . . . . . . . . . . 183
+6.3.4 Locative marker and concealing/inner place marker . . . . . 184
+6.3.4.1 Overview of location reference strategies . . . . . 184
+6.3.4.2 Locative marker -ta . . . . . . . . . . . . . . . . 185
+6.3.4.3 Concealing/inner place -ra . . . . . . . . . . . . 189
+6.4 Place phrase markers . . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.4.2 Single area -ka . . . . . . . . . . . . . . . . . . . . . . . . 192
+6.4.3 Multiple areas -kuru . . . . . . . . . . . . . . . . . . . . . 195
+6.4.4 Other ways of denoting locations . . . . . . . . . . . . . . 196
+6.4.4.1 Locational demonstratives and -nga ‘EXCV’ . . . 197
+6.4.4.2 Time marker -ngi . . . . . . . . . . . . . . . . . 197
+6.4.4.3 Territory marker -li . . . . . . . . . . . . . . . . 199
+6.4.4.4 Morphologically unmarked oblique NPs . . . . . 199
+6.5 Role-marking postpositions . . . . . . . . . . . . . . . . . . . . . . 201
+6.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 201
+6.5.2 Instrument -ka . . . . . . . . . . . . . . . . . . . . . . . . 202
+6.5.3 Accompanier -aka . . . . . . . . . . . . . . . . . . . . . . 202
+6.5.4 Beneficiary/possessor -ya . . . . . . . . . . . . . . . . . . . 203
+6.6 NP marking: grammatical relation and prominence . . . . . . . . . 205
+6.6.1 Contrasted subject (CS) marking . . . . . . . . . . . . . . . 205
+6.6.2 Personal pronouns and -nga ‘EXCV’ . . . . . . . . . . . . . 210
+6.6.3 Dependent third person pronouns . . . . . . . . . . . . . . 2117Some complex predicate structures
+218
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+7.2 Complex verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+7.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+7.2.2 Verb root + directional demonstrative . . . . . . . . . . . . 220
+7.2.3 Bound verbal modifiers . . . . . . . . . . . . . . . . . . . . 221
+7.2.4 Participant-adding morphology . . . . . . . . . . . . . . . 225
+7.2.5 Note on reduplication + vowel alternation . . . . . . . . . . 226
+7.3 Verb serialisation . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+7.3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 226xiiCONTENTS7.3.27.47.57.68Some general features of verb serialisation . . . . . . . . . 228
+7.3.2.1 Number of verbs in series . . . . . . . . . . . . . 228
+7.3.2.2 Contiguity . . . . . . . . . . . . . . . . . . . . . 228
+7.3.2.3 Negation . . . . . . . . . . . . . . . . . . . . . . 229
+7.3.3 Relationships between verbs in series . . . . . . . . . . . . 230
+7.3.3.1 Sequential and overlapping activities . . . . . . . 230
+7.3.3.2 Purposive serialisation . . . . . . . . . . . . . . . 231
+7.3.3.3 Integrated activities and lexicalisation . . . . . . . 232
+7.3.3.4 Aspect, direction, and other modifications . . . . 234
+Verb adjuncts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+7.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+7.4.2 General features of verb adjunct constructions . . . . . . . . 237
+7.4.2.1 Contiguity . . . . . . . . . . . . . . . . . . . . . 237
+7.4.2.2 Negation . . . . . . . . . . . . . . . . . . . . . . 238
+7.4.2.3 Use with different host verbs . . . . . . . . . . . 238
+7.4.3 Verb adjuncts according to host verb . . . . . . . . . . . . . 239
+7.4.3.1 Motion verbs . . . . . . . . . . . . . . . . . . . . 239
+7.4.3.2 Existential verbs . . . . . . . . . . . . . . . . . . 240
+7.4.3.3 Bivalent verbs . . . . . . . . . . . . . . . . . . . 242
+Complex predicates with nouns and adjectives . . . . . . . . . . . . 243
+7.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+7.5.2 Adjunct noun constructions . . . . . . . . . . . . . . . . . 245
+7.5.3 Object-verb predications . . . . . . . . . . . . . . . . . . . 247
+7.5.4 Inceptive/factitive uses of ka- ‘be/stand’ . . . . . . . . . . . 251
+7.5.4.1 Adjunct noun type . . . . . . . . . . . . . . . . . 251
+7.5.4.2 Object-verb predication type . . . . . . . . . . . 252
+7.5.4.3 Adjective + ka- . . . . . . . . . . . . . . . . . . 253
+7.5.5 Special constructions with existential verbs . . . . . . . . . 254
+7.5.5.1 Expressing possession . . . . . . . . . . . . . . . 254
+7.5.5.2 Existential verb as copula . . . . . . . . . . . . . 256
+Complex predicates that describe involuntary experience . . . . . . 258
+7.6.1 Noun + verb . . . . . . . . . . . . . . . . . . . . . . . . . 258
+7.6.1.1 Bodily substance + verb of motion . . . . . . . . 258
+7.6.1.2 Ailment noun+ bivalent verb . . . . . . . . . . . 259
+7.6.2 Other involuntary experience predicates . . . . . . . . . . . 262
+7.6.2.1 Involuntary perception expressions . . . . . . . . 262
+7.6.2.2 Emotion and discomfort predicates . . . . . . . . 264Final verb morphology: time, event modality, and negation
+267
+8.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+8.1.1 Overview of final predicate morphology . . . . . . . . . . . 267
+8.1.1.1 The basic morphological template . . . . . . . . . 267
+8.1.1.2 Primary inflections and the final verb . . . . . . . 269
+8.1.2 Base forms of consonantal and wa-class verbs . . . . . . . . 272
+8.1.2.1 Consonantal verbs . . . . . . . . . . . . . . . . . 273
+8.1.2.2 wa-class verbs . . . . . . . . . . . . . . . . . . . 274CONTENTSxiii8.1.2.38.28.39Partial members of the consonantal and wa-class
+verb groups . . . . . . . . . . . . . . . . . . . . 276
+Tense, aspect and event modality (TAM) . . . . . . . . . . . . . . . 276
+8.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+8.2.2 Semi-finite inflections . . . . . . . . . . . . . . . . . . . . 280
+8.2.2.1 Perfective . . . . . . . . . . . . . . . . . . . . . 280
+8.2.2.2 Imperfective . . . . . . . . . . . . . . . . . . . . 282
+8.2.2.3 Intentive . . . . . . . . . . . . . . . . . . . . . . 283
+8.2.2.4 Desiderative . . . . . . . . . . . . . . . . . . . . 284
+8.2.3 Finite inflections (declarative) . . . . . . . . . . . . . . . . 285
+8.2.3.1 Stative . . . . . . . . . . . . . . . . . . . . . . . 285
+8.2.3.2 Habitual . . . . . . . . . . . . . . . . . . . . . . 286
+8.2.3.3 Prophetic future . . . . . . . . . . . . . . . . . . 287
+8.2.3.4 Abilitative . . . . . . . . . . . . . . . . . . . . . 288
+8.2.3.5 Promissive . . . . . . . . . . . . . . . . . . . . . 288
+8.2.3.6 Special present form of nga- ‘go’ . . . . . . . . . 289
+8.2.3.7 Comment on aspectual oppositions . . . . . . . . 290
+8.2.4 Finite inflections (non-declarative) . . . . . . . . . . . . . . 290
+8.2.4.1 Imperative . . . . . . . . . . . . . . . . . . . . . 290
+8.2.4.2 Prohibitive . . . . . . . . . . . . . . . . . . . . . 293
+8.2.4.3 Hortative . . . . . . . . . . . . . . . . . . . . . . 294
+8.2.4.4 Warning against . . . . . . . . . . . . . . . . . . 296
+8.2.4.5 Suggestions with kone . . . . . . . . . . . . . . . 297
+8.2.4.6 A paradigm of immediate and deferred directives 298
+8.2.5 Summary of TAM markers . . . . . . . . . . . . . . . . . . 299
+The negative circumfix . . . . . . . . . . . . . . . . . . . . . . . . 301
+8.3.1 Quasi-independent use . . . . . . . . . . . . . . . . . . . . 301
+8.3.2 With other verbal inflection . . . . . . . . . . . . . . . . . 301
+8.3.3 Negation with neya . . . . . . . . . . . . . . . . . . . . . . 302Evidential and information status markers
+305
+9.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 305
+9.2 Evidential markers . . . . . . . . . . . . . . . . . . . . . . . . . . 307
+9.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 307
+9.2.2 Contrasts within the evidential paradigm . . . . . . . . . . 309
+9.2.2.1 Information source and the evidential categories . 309
+9.2.2.2 Personal or impersonal viewpoint . . . . . . . . . 309
+9.2.2.3 Current or previous time . . . . . . . . . . . . . . 311
+9.2.3 Visual evidential markers . . . . . . . . . . . . . . . . . . . 313
+9.2.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 313
+9.2.3.2 Visual (perfective previous) . . . . . . . . . . . . 314
+9.2.3.3 Visual (stative previous) . . . . . . . . . . . . . . 317
+9.2.4 Sensory evidential markers . . . . . . . . . . . . . . . . . . 318
+9.2.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 318
+9.2.4.2 Sensory (current) . . . . . . . . . . . . . . . . . 319
+9.2.4.3 Sensory (perfective previous) . . . . . . . . . . . 320
+9.2.4.4 Sensory (imperfective previous) . . . . . . . . . . 321xivCONTENTS9.2.59.3Results evidential markers . . . . . . . . . . . . . . . . . . 322
+9.2.5.1 Introduction . . . . . . . . . . . . . . . . . . . . 322
+9.2.5.2 Results (current) . . . . . . . . . . . . . . . . . . 323
+9.2.5.3 Results (previous) . . . . . . . . . . . . . . . . . 324
+9.2.6 Notional evidential markers . . . . . . . . . . . . . . . . . 325
+9.2.6.1 Introduction . . . . . . . . . . . . . . . . . . . . 325
+9.2.6.2 Notional (current) . . . . . . . . . . . . . . . . . 326
+9.2.6.3 Notional (previous) . . . . . . . . . . . . . . . . 328
+9.2.7 Marking evidence as impersonal . . . . . . . . . . . . . . . 331
+9.2.8 Summary of the evidential morphemes . . . . . . . . . . . 334
+9.2.9 The perfective TAM marker revisited . . . . . . . . . . . . 336
+Information status markers . . . . . . . . . . . . . . . . . . . . . . 339
+9.3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 339
+9.3.2 Present time events . . . . . . . . . . . . . . . . . . . . . . 340
+9.3.2.1 Individual standpoint -pa . . . . . . . . . . . . . 340
+9.3.2.2 Specificity marking on final verbs . . . . . . . . . 342
+9.3.2.3 Overview of the expression of present time events 346
+9.3.3 Past time events . . . . . . . . . . . . . . . . . . . . . . . . 349
+9.3.3.1 Recent past, shared standpoint . . . . . . . . . . 349
+9.3.3.2 Uncertainty marker . . . . . . . . . . . . . . . . 352
+9.3.3.3 Dramatic markers . . . . . . . . . . . . . . . . . 353
+9.3.4 Potential events (‘provocative’ inflections) . . . . . . . . . . 355
+9.3.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 355
+9.3.4.2 Expective marker . . . . . . . . . . . . . . . . . 356
+9.3.4.3 Potential observation . . . . . . . . . . . . . . . 358
+9.3.5 Summary of the information status markers . . . . . . . . . 36010 Ancillary final predicate morphology
+361
+10.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 361
+10.2 Verbal predicates . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+10.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+10.2.2 Examples of complex final inflection . . . . . . . . . . . . 365
+10.2.2.1 Introduction . . . . . . . . . . . . . . . . . . . . 365
+10.2.2.2 Intentive stem . . . . . . . . . . . . . . . . . . . 367
+10.2.2.3 Desiderative stem . . . . . . . . . . . . . . . . . 374
+10.2.2.4 Imperfective stem . . . . . . . . . . . . . . . . . 375
+10.2.2.5 Perfective stem . . . . . . . . . . . . . . . . . . 379
+10.2.3 Examples of extra evidence . . . . . . . . . . . . . . . . . 382
+10.2.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 382
+10.2.3.2 Extra evidence following -rape ‘UNC’ . . . . . . 382
+10.2.3.3 Extended uses of sensory and notional evidentials 383
+10.2.3.4 Comment on -rape as an ‘extra’ form . . . . . . . 384
+10.2.4 Specificity marking on finite verbs . . . . . . . . . . . . . . 385
+10.2.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 385
+10.2.4.2 Stative inflection and -na . . . . . . . . . . . . . 385
+10.2.4.3 Evidential markers and -na . . . . . . . . . . . . 386
+10.2.4.4 Epistemic standpoint markers and -na . . . . . . 388CONTENTSxv10.3 Non-verbal predicates . . . . . . . . . . . . . . . . . . . . . . . . . 389
+10.4 Epistemic particles . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+10.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+10.4.2 Indicating ‘opinion’ with =pi . . . . . . . . . . . . . . . . 392
+10.4.3 ‘Hypothetical’ and ‘probable’ markers . . . . . . . . . . . . 397
+10.5 Examples of complex information source description . . . . . . . . 399
+10.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+10.5.2 ‘Reported’ information source with ruwa- ‘say’ . . . . . . . 399
+10.5.3 Some constructions with ke- ‘see’ . . . . . . . . . . . . . . 402
+10.5.4 Comments on the forms and derivation of the evidential
+markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+11 Final morphology and sentence type
+409
+11.1 Overview of sentence types . . . . . . . . . . . . . . . . . . . . . . 409
+11.1.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 409
+11.1.2 Declarative . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+11.1.2.1 Assertion marker =nia . . . . . . . . . . . . . . . 412
+11.1.3 Interrogative and speculative . . . . . . . . . . . . . . . . . 414
+11.1.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 414
+11.1.3.2 Question marker =pe . . . . . . . . . . . . . . . 415
+11.1.3.3 Yes-no interrogatives . . . . . . . . . . . . . . . 416
+11.1.3.4 Alternative interrogatives . . . . . . . . . . . . . 416
+11.1.3.5 Question word interrogatives . . . . . . . . . . . 418
+11.1.3.6 Speculative sentences . . . . . . . . . . . . . . . 419
+11.1.4 Imperative and optative . . . . . . . . . . . . . . . . . . . . 420
+11.1.5 Assumptive . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+11.2 Predicate morphology, sentence type, and subject identity . . . . . . 423
+11.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 423
+11.2.1.1 Conjunct/disjunct systems . . . . . . . . . . . . . 423
+11.2.1.2 Relevance to Duna . . . . . . . . . . . . . . . . . 425
+11.2.2 Evidential markers . . . . . . . . . . . . . . . . . . . . . . 426
+11.2.2.1 ‘Viewpoint shift’ and evidential markers . . . . . 426
+11.2.2.2 Typical distribution . . . . . . . . . . . . . . . . 428
+11.2.2.3 Non-volitional subjects . . . . . . . . . . . . . . 430
+11.2.2.4 Dreaming . . . . . . . . . . . . . . . . . . . . . 433
+11.2.2.5 Declaratives with addressee as perceiver . . . . . 433
+11.2.2.6 Extended disassociation . . . . . . . . . . . . . . 435
+11.2.2.7 Summary . . . . . . . . . . . . . . . . . . . . . . 438
+11.2.3 Intentive and prophetic inflections . . . . . . . . . . . . . . 438
+11.2.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 438
+11.2.3.2 Declarative distribution . . . . . . . . . . . . . . 439
+11.2.3.3 Interrogative distribution . . . . . . . . . . . . . 441
+11.2.3.4 ‘Impossible proposition’ interrogatives . . . . . . 444
+11.2.3.5 Further comments on intentive declaratives . . . . 445
+11.2.3.6 Summary . . . . . . . . . . . . . . . . . . . . . . 447
+11.2.4 Deontic modality inflections . . . . . . . . . . . . . . . . . 447
+11.2.4.1 Promissive . . . . . . . . . . . . . . . . . . . . . 447xviCONTENTS11.2.4.2 Prohibitive, hortative, and desiderative . . . . . . 448
+11.3 Epistemic assessment and the final predicate: an overview . . . . . 451
+Appendix 1: List of recorded texts457Appendix 2: Sample texts462Bibliography487List of Tables1.1
+1.2
+1.3Some significant events and processes in recent Duna history . . . . 11
+Speakers who contributed textual data . . . . . . . . . . . . . . . . 21
+Data types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262.1 Consonant phonemes . . . . . . . . . . . . . . . . . . . . . . . . . 29
+2.2 Vowel phonemes . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+2.3 Typical underlying syllable structures . . . . . . . . . . . . . . . . 29
+2.4 Features as employed in phonological rules (consonants) . . . . . . 30
+2.5 Some varying realisations of word-initial voiceless aspirated stops . 31
+2.6 Some varying realisations of word-initial voiceless unaspirated stops 32
+2.7 Consonant contrast: word-initial bilabial stops . . . . . . . . . . . . 33
+2.8 Consonant contrast: word-initial (dento-)alveolar stops . . . . . . . 33
+2.9 Consonant contrast: word-initial velar stops . . . . . . . . . . . . . 34
+2.10 Some varying realisations of word-medial voiceless stops . . . . . . 34
+2.11 Typical realisation of word initial prenasalised and nasal stops . . . 35
+2.12 Word-initial prenasalised stop/nasal stop alternation . . . . . . . . . 35
+2.13 Consonant contrast: word-medial bilabial stops . . . . . . . . . . . 36
+2.14 Consonant contrast: word-medial (dento-)alveolar stops . . . . . . . 37
+2.15 Consonant contrast: word-medial velar stops . . . . . . . . . . . . . 37
+2.16 Consonant contrast: word-initial (dento-)alveolars . . . . . . . . . . 38
+2.17 Consonant contrast: word-medial alveolar tap and lateral flap . . . . 38
+2.18 Examples of word-initial and word-medial glide phonemes . . . . . 39
+2.19 Features employed in phonological rules (vowels) . . . . . . . . . . 40
+2.20 Vowel contrast . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+2.21 Words showing contrastive vocalic nasalisation . . . . . . . . . . . 42
+2.22 Attested underlying heterogeneous VV sequences . . . . . . . . . . 42
+2.23 Realisation of common VV sequences where V1 is non-high . . . . 43
+2.24 Examples of disyllables containing final /ua/ sequences . . . . . . . 45
+2.25 Examples of disyllables containing final /ia/ sequences . . . . . . . 45
+2.26 Examples of word-initial /ia/ and /ua/ sequences . . . . . . . . . . . 46
+2.27 Contrastive /ua/ in monosyllabic words . . . . . . . . . . . . . . . . 46
+2.28 V+V juncture: perfective inflection . . . . . . . . . . . . . . . . . . 47
+2.29 V+V juncture: stative inflection -i . . . . . . . . . . . . . . . . . . 47
+2.30 Conditioned palatalisation in the environment /i a/ . . . . . . . . . . 49
+2.31 Conditioned palatalisation of dento-alveolar stop in environment /u a/ 50
+2.32 Conditioned labialisation of velar and alveolar consonants . . . . . 51
+2.33 Posited labialised consonant phonemes . . . . . . . . . . . . . . . . 52
+2.34 Contrastive word-initial labialised consonants . . . . . . . . . . . . 52
+xviixviiiLIST OF TABLES2.35 Surface form [Cw] preceding e and i . . . . . . . . . . . . . . . . .
+2.36 Some Duna words derived from English and/or Tok Pisin . . . . . .
+2.37 Lexical pitch contours in citation . . . . . . . . . . . . . . . . . . .
+2.38 Pitch contrast: monosyllables . . . . . . . . . . . . . . . . . . . . .
+2.39 Pitch contrast: disyllables . . . . . . . . . . . . . . . . . . . . . . .
+2.40 Pitch contrast: trisyllables . . . . . . . . . . . . . . . . . . . . . . .
+2.41 Phoneme to grapheme correspondence . . . . . . . . . . . . . . . .","[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]"
+"The way these features typically play out with respect to sentence types is shown
+in Table 11.1.
+Excepting interrogatives, Duna sentence types are here defined largely in terms
+of the final inflectional or ancillary marker that occurs on the final predicate. The
+presence of a certain morpheme in this position is regarded as a function/determinant
+of the kind of sentence that it is. The correspondence between predicate morphology and sentence type is summarised in Table 11.2.
+11.1.2DeclarativeSadock and Zwicky describe declarative sentences as being “subject to judgments
+of truth and falsehood” and outline the general function of this sentence type as11.1. Overview of sentence types411Table 11.1 Typical features of sentence typesType
+declarative
+interrogative
+speculative
+imperative
+optative
+assumptivei
+(=pe etc.)
+no
+yesii
+(-na/nia)
+yes
+noiii
+(2S)
+no
+nononoyesnononoiv
+(‘twin’)
+yes
+yes
+no
+no
+yes
+noTypical
+function
+statement
+questionsee:
+§11.1.2
+§11.1.3directive§11.1.4(statement?)§11.1.5Table 11.2 Associations of final predicate morphology and sentence typeSentence type
+DeclarativeSpeculative
+Imperative
+Optative
+AssumptiveAssociated predicate morphology
+P er F ecti V e, I m P er F ecti V e, INTentive, STAT ive, HAB itual,
+PROPH etic,
+ABIL itative,
+PROM issive,
+go.PRESent,
+IND i V idual standpoint, SPEC ificity marker, all evidential markers, OPINion marker, PROBable marker.
+UNC ertainty marker, HYPothetical markers
+IMP erative
+DES iderative, PROHIB itive, HORT ative
+SH a R e D standpoint, DRAMA tic markers, EXP e CT ive,
+POT ential OBServation412Chapter 11. Final morphology and sentence type“making announcements, stating conclusions, making claims, relating stories, and
+so on” (1985:160). The declarative sentence type is most typically associated with
+utterances that are statements, having propositional content that the speaker communicates to the addressee.
+As shown in Table 11.2, final predicate markers that I define as occurring in
+declarative sentences1 include: TAM markers as described in §8.2.2.1 to 8.2.2.3,
+§8.2.3 and §8.3; evidential markers (§9.2); the individual standpoint marker -pa;
+specificity marker -na; and the epistemic particles =pi and =pakapi. Most of the
+examples shown in the sections that introduce the relevant morphemes are declarative sentences. Sentences headed by non-verbal predicates (either unmarked or
+marked with one of the morphemes listed) are also declaratives.
+It is a core property of Duna declarative sentences that they can be derived as
+interrogatives, for example, through the addition of the interrogative marker =pe;
+sentences which typically function to communicate substantive content can be transformed into sentences that seek (part of) the same content from somebody else.
+A further typical (but not universal) property of predicate morphemes that occur
+in declarative sentences is that in situations of emphasis they are compatible with
+either the SPEC marker -na (§10.2.2, §10.2.4) or the assertion marker =nia. This is
+true of all of the relevant TAM markers, the personal evidential markers, and the
+relevant epistemic particles.2
+11.1.2.1Assertion marker =niaThe bound form =nia (ASSERT) occurs finally on declarative sentences and marks
+an utterance as an assertion.
+Examples (1016) and (1017) show the assertion marker occurring on non-verbal
+predicates.
+(1016)no ima=nia.
+1SG woman=ASSERT‘I am a woman.’ (T/YS:270205)
+1Note that with regard to complex predicate morphology, it is the last morpheme in the sequence
+that is relevant to this definition.
+2
+In the case of the individual standpoint marker -pa the situation in regard to this feature is not
+clear (§10.2.4.4). Concerning the quasi-inflectional occurrence of the SPEC marker on independent
+verbal clauses (§9.3.2.2), such verb forms are not further marked with =nia, and the question of
+whether they are ‘compatible with SPEC’ is problematic; this would amount to asking if a morpheme
+can be applied twice, something which has not been observed as allowable in any other area of the
+grammar. Finally, the impersonal evidentials: these forms have something of a semantic/functional
+incompatibility with either -na or =nia. The SPEC marker implies that the predicate refers to a highly
+specific and individuated occasion, which clashes somewhat with the generalised and unanchored
+perception denoted by the personal evidentials. Similarly, the assertion marker =nia basically marks
+the speaker as an epistemic authority, and this is also at odds with the non-specific perceiver evoked
+by the impersonal markers.","[439, 440, 441]"
+"Chapter 4Basic clause structure
+4.1Clause typesI define four basic clause types in Duna with reference to the word class and valency
+of the predicate. Section 4.1.1 describes non-verbal clauses, that is, those that are
+headed by a non-verb (for example, a nominal or adjective) and are not marked
+with inflectional TAM or polarity morphology (Chapter 8). Non-verbal clauses
+typically describe timeless relationships of equation and attribution rather than temporally specified events or states. Sections 4.1.2 - 4.1.4 describe verbal clauses,
+which are headed by an inflected verb. Verbal clauses can be monovalent (§4.1.2),
+bivalent (§4.1.3), or trivalent (§4.1.4). Some adjectival roots can also head monovalent verbal clauses (§4.1.2.4).
+4.1.1
+4.1.1.1Non-verbal clauses
+Nominal predicatesA relationship of (a degree of) identity between two things can be by expressed
+through the juxtaposition of two nominal phrases, the second being the predicate.
+These clauses express two kinds of identity relationship (as per Payne (1997)): those
+of ‘equation’, where the two phrases refer to one and the same entity, as in (22); and
+those of ‘proper inclusion’, where one of the phrases describes a feature or attribute
+of the other, referencing a ‘set’ to which it belongs, as in (23).1
+(22) no rindi Paka.
+1SG ground PLN‘My homeland is Paka.’ (T/JK:KG05V5.27)
+(23) kho iwani Mbara ima.
+3SG wifeGPNwoman‘His wife was a Mbara woman.’ (T/HY:201003iii)
+1Full stops and commas in the Duna lines of examples are intended to give some indication of
+(actual or usual) intonation units. Commas indicate anticipatory intonation (typically rising) and full
+stops indicate closing intonation (typically falling).","[124, 125]"
+"INTENS one take. PFV‘One time before I got a very serious illness.’ (T/HS:180605i)
+As for nominal elements in object-verb predications, there is some evidence that
+in some expressions the ailment noun (or NP) occupies the P participant slot that is
+subcategorised for by the bivalent verb that it occurs with, and is an object NP.
+Firstly, it can be seen that although one can view the ailment as affecting the
+experiencer, it is not the subject of the bivalent verb in the construction. Examples
+(614) and (615) show different uses of the noun malaria. In (614), malaria heads a
+subject NP in an ordinary bivalent clause headed by the verb kole- ‘break, split’. The
+NP is marked as a contrasted subject with the morpheme -ka. Example (615a) shows
+the noun malaria occurring with the verb sa- ‘take, get’ as part of an ailment+verb
+predication. It is not the subject of the clause and cannot be CS-marked, as shown
+in (615b).
+(614)Koro nane ndu-na, malaria-ka kole khi-tia-na.
+GPNboy one-SPEC malaria-CS split leave-PFV.VIS . P-SPEC‘The other Oksapmin boy, malaria had broken him completely.’
+(T/PK:201003ii)
+(615)a. no malaria sa-ya.
+1SG malaria take-DEP‘I have malaria’
+b. * no malaria-ka sa-ya
+1SG malaria-CS take-DEP* I have malaria (CD)
+Examples (616) and (617) illustrate that a clause headed by the phrase papu
+na- has structural features of an ordinary bivalent clause, with the experiencer being realised as a subject NP, and the ailment being realised as an object NP. It is262Chapter 7. Some complex predicate structurespossible for the NP that references the experiencer of the ailment to be CS-marked,
+identifying it as the subject of the clause (616) . Example (617) shows that for this
+phrase flexibility of word order is allowable, as in typical bivalent clauses.
+(616)Keni-ka papu
+PSN - CSkoneneya-na.anguish INTENS eat.IPFV-SPEC‘Kenny is suffering true anguish.’
+(617)papukone, Keni-ka neya-na.anguish INTENS PSN-CS eat.IPFV-SPEC‘True anguish, Kenny is suffering [it].’ (ED/XV:60)
+Ailment + verb constructions usually undergo verb-only rather than unitary negation with the negative circumfix, as shown in (618). This is characteristic of other
+noun + verb constructions.
+(618)ko mboko khira-o=pe, na-khira-ya.
+2SG vomit burn-PFV=Q NEG-burn-NEG‘Did you vomit, or not?’
+a. mboko na-khira-ya.
+vomitNEG -burn- NEG‘[I] didn’t vomit.’
+b. * na-mboko khira-ya
+NEG -vomit burn- NEG* I didn’t vomit (CD/XIV:113)
+7.6.2Other involuntary experience predicates7.6.2.1Involuntary perception expressionsI have recorded four forms that are typically used in combination with the verb ke‘see’ to describe certain involuntary experiences. I refer to predicates that include
+these forms, shown in Table 7.13, as involuntary perception expressions.
+Table 7.13 Forms used in involuntary perception expressionsRoot form
+hinde
+ita
+mba
+uatiMeaning with ke- ‘see’
+‘dream’
+‘fear’
+‘hunger for, want to eat (something)’
+‘be sleepy’It is not clear that involuntary perception expressions are productive complex
+predications, but some features suggest that the non-verb element in the phrase is
+comparable to either a noun or verb adjunct. For example, the form hinde can occur7.6. Complex predicates that describe involuntary experience263in an NP as in (619), and in combination with the verb ke- ‘see’ in an apparent
+complex predication as in (620). The form uati ‘sleepy’25 typically occurs with
+the verb ke-, as in (621), but can also be used in combination with the verb ka(supplying inceptive/factitive meaning) as in (622).
+(619)...akura hinde ndu hoa-ya
+nightka-tari-ya-odream one come-DEP be/stand-SEQ say-DEP-voc.‘...one night a dream came and spoke.’ (P/AM:NH03T12B)
+(620)no hinde ke-ya-roko,e, Mbarape ka-ya...","[290, 291, 292]"
+"[Affirmative noises]
+(16) P: sori aki, ndu pikono sori, ndu ri-na-ni.
+story what one pikono story one say-SPEC-CMPL‘So what story, one is pikono stories, one [?we] have already spoken of.’
+(17) R: pikono sori, [P: pikono.] epikono ho ri-tia-na,kho soripikono story [P: pikono] hes. pikono here say-PFV.VIS . P-SPEC 3SG storykho ho ri-tia-na.
+3SG here say-PFV.VIS . P-SPEC‘Pikono stories [P: pikono.] ah the pikono stories that have been told here,
+it is its own story told here’
+(18) P: [inaud.] pikono kone.
+?pikono INTENS‘[inaud.] true pikono.’
+(19) R: pikono angu.
+pikono RESTRICT‘Pikono alone.’
+(20) P: malu-tia pimalu /angumalu-GP LNK malu RESTRICT‘Malu ones too are malu alone.’
+(21) R: malu-tia pi, rindi hina-ta malu ho-mekori-ya.malu-GP LNK found this-SEQ malu here-MNR be/stand.PFV say-DEP‘Malu ones too, malu is in this land like so [?they/I] say.’483(22)P: ha-napipikono ruwamo kaka.there-SPEC LNK pikono say.IPFV LIKE ?same‘That one too is told like pikono.’
+(23)R: kho ruwamo kaka.","[511, 512]"
+"9.2. Evidential markers337evidential category.33
+The kinds of evidential systems outlined above thus suggest a particular question concerning the Duna perfective inflection, namely, whether it is a semantically complex form that specifies both time and information source, and represents
+a participatory and/or factual evidential category.34 If it were, this would allow an
+analysis that evidentiality is an obligatorily marked category within a certain area of
+Duna grammar (declarative sentences that denote past time events). However, while
+it seems very likely that the perfective inflection at least implies participatory/factual
+semantics as a consequence of contrast with other possible primary inflections, at
+this stage there is insufficient evidence to claim that it actively encodes information
+source and is itself an evidential marker.
+In languages in which participatory and/or factual evidential markers occur, they
+are members of a closed set of mutually exclusive morphemes that have information
+source as a primary meaning. That is, there are compelling categorical reasons, as
+well as semantic and functional motivations, to treat the markers in question as
+evidential.
+This is not so in the Duna case, as there are clear indications that while the perfective inflection contrasts with each evidential marker, it is not part of the same
+formal set. As has already been mentioned, the perfective inflection has much more
+restricted distribution than evidential markers, as it only occurs as a primary inflection on verbal predicates, whereas evidentials can occur as ancillary markers
+with verbs (§10.2.3), and most can mark nominal predicates (§10.3). The evidential
+markers as identified in §9.2 comprise a mutually exclusive set of forms that cannot
+co-occur; however, many of them are attested occurring in combination with the perfective inflection (§10.2.2.5). Verbs that are inflected as perfective are commonly
+further marked with epistemic particles (§10.4), whereas verbs that are inflected
+with evidential markers typically are not, and in some cases are barred from doing
+so (§10.4.2). A further significant point concerns the application of the assertion
+33In the Oksapmin case, as described by Loughnane (2007), the participatory/factual evidential
+is zero-marked in some person/aspect categories, and is also the inflection that can be most widely
+used in more complex morphological structures. For example, a preverbal particle that encodes
+inference can be used with a verb that bears a participatory/factual inflection, in which case the
+information source meaning of this inflection is bleached. Thus, the participatory/factual forms are
+the functionally unmarked way of expressing past tense in the grammar. Nevertheless, as argued by
+Loughnane (2007), in view of the paradigmatic formal opposition displayed and contexts in which
+the independent inflection is appropriate, the most sensible interpretation is that verbal markers
+comprise a distinct evidential category—the participatory/factual—in these languages.
+34
+One alternative analysis would be to posit a ‘zero’ participatory/factual evidential marker. However this would not add anything to the present discussion, which is concerned with markers that can
+occur as primary inflections. Such a morpheme would have to be defined as a marker that can only
+occur in an ancillary capacity (Chapter 10), as it is not the case that a verb can occur as a final predicate in (apparent) bare root form, inflected with the postulated ‘zero’ participatory/factual evidential
+only.","[365, 366]"
+"11.2. Predicate morphology, sentence type, and subject identity425role is similar to the ‘epistemic authority’ or ‘epistemic source’ as defined by Hargreaves (1991 2005) concerning Newar(i). In regard to Duna I use the term informant to refer to the speaker of a declarative sentence and addressee of an interrogative
+sentence. That is, I use it as a label which is defined through reference to sentence
+type, rather than through reference to what a speaker supposes or claims about participants in the speech act situation. This supports discussion of knowledge-related
+features that are typically vested in the informant person, but can be manipulated to
+semantic or pragmatic effect (see, for example, §11.2.2.5).
+11.2.1.2Relevance to DunaAs mentioned previously, standard implications concerning subject identity that are
+generated by predicate markers in Duna typically follow a conjunct/disjunct pattern.14 In particular, these implications show an alternation in declaratives and interrogatives as to whether the speaker or addressee is targeted as the most or least likely
+candidate for the subject slot, and are sensitive to whether or not a subject is volitional. Evidential markers (§9.2) and the prophetic inflection (§8.2.3.3) align with
+the disjunct category. The intentive (§8.2.2.3) and promissive inflections (§8.2.3.5)
+align with the conjunct category. Other declarative inflections are (as far as the
+current data indicate) basically neutral forms.15
+The conjunct/disjunct distribution of forms is not strongly grammaticised as
+subject agreement in Duna: it is not true to say that the morphemes under discussion encode informant (and non-informant) as person categories, and index the
+coidentity of instantiations of these categories and clausal arguments. Rather, this
+distinctive distribution is largely a consequence of the individual semantics of the
+morphemes, the way an informant is typically linked to the perceiver entailed by
+certain morphemes, and logical and/or conventionalised expectations of how people
+experience events. This is discussed as relevant throughout the following sections.
+14As regards the evidential markers (§11.2.2), certain morphemes tend not to be used with predicates that have informant P arguments. For example, it would sound strange under normal circumstances for someone to describe something that had been done to them using the notional evidential
+category. We can generally regard deployment of Duna results and notional evidential markers with
+predicates that have an informant as one of the core arguments as unexpected, and potentially unacceptable on logical grounds. Nevertheless, P argument identity does not impose any such restrictions
+on the use of the visual or sensory evidential markers in the way that subject identity does, and cannot be regarded as a clear predictive factor in predicate morphology except in a negative sense for
+a small number of morphemes, and in a correlative sense as a function of subject identity implications. With respect to alternation between the intentive and prophetic inflections (§11.2.3), and the
+applicability of certain deontic modality inflections (§11.2.4) the identity of the P argument has no
+direct bearing on what forms are used.
+15
+However, the fact that verbs with informant subjects draw their inflections from a smaller pool of
+morphemes, coupled with the semantic contrasts expressed in the inflectional system, also means that
+there is a markedly increased likelihood for certain morphemes to occur in clauses with informant
+subjects. This is a tendency rather than a clearly predictive relationship, but is nevertheless notable.","[453, 454]"
+"EPA - SPEC - CS shoot- CAUS - IMP‘Allow the man over there to shoot.’ (ED/V:49)
+(475)haka wae-no.
+talk come.CAUS-DES‘Send [me] word.’ (ED/V:49)
+(476)no kuni hini uka-wae-nda.
+1SG head hair long-CAUS-INT‘I will leave/grow my hair long.’ (CED/VIII:79)
+The causative occurs prior to the negative circumfix, as shown in (477).
+(477)ko pepa ngoae-pa=pena-ngoae-ya.",[254]
+"11.1Overview of sentence types11.1.1IntroductionSadock and Zwicky (1985:155) define the term ‘sentence type’ as referring to “a
+coincidence of grammatical structure and conventional conversational use”. Definitions of sentence types are based on a correlation between typical functions (for
+example asking a question or making an assertion) and the contrasting structures
+of utterances that achieve (or are intended to achieve) these functions. König and
+Siemund (2007:277) remind us that the illocutionary force (function) of a particular utterance is something that is negotiated between speech act participants in a
+409410Chapter 11. Final morphology and sentence typeparticular context, and cannot be precisely determined through reference to formal
+properties only. However, structures that index sentence type do provide one kind of
+signal of what the speaker wants the addressee to ‘do’ with the proposition encoded
+in the utterance (cf. Weber 1986), for example, understand it as information that the
+speaker has and is communicating to them (a statement), assess the proposition in
+terms of his or her own knowledge and respond accordingly (a question), or bring
+the denoted situation about (a directive).
+I define Duna sentences as being one of six types: declarative (§11.1.2), interrogative, speculative, imperative, optative, or assumptive. Interrogatives are grouped
+with speculatives (§11.1.3) and imperatives are grouped with optatives (§11.1.4), as
+these sentence types have some formal and functional similarities and it is useful to
+be able to discuss them together. The positive identification of assumptive sentences
+as a unitary discrete type is somewhat problematic, and this is discussed in §11.1.5.
+Four diagnostics that are used in defining the six sentence types are:
+i whether the sentence includes an interrogative word (§3.9) and/or the question marker
+=pe (§11.1.3.2). This is a feature of interrogative and speculative sentences.
+ii whether the final marker on the predicate can be followed by either -na ‘SPEC’ or
+=nia ‘ASSERT’ (§11.1.2.1). This is a feature that is typically associated with declaratives.
+iii whether there is an assumption that the sentence has an addressee subject. This is a
+feature of optative and imperative sentences.
+iv whether the sentence can be (notionally) reframed as a sensible ‘twin’ counterpart
+that has a different value with respect to being interrogative. For example, a declarative sentence can usually have the marker =pe attached to it, resulting in a corresponding interrogative sentence. This feature is characteristic of declarative, optative,
+and interrogative sentences.","[438, 439]"
+"Table 8.9 Functions of wa-class verb base forms illustrated in this workBase form
+a-basei-baseu-baseCommon functions
+- root form for TAM markers that are notionally irrealis, including: -nda
+INT ; -no DES ; -na PROPH ; -nopo ABIL; and also the habitual ( HAB )
+inflection -na.
+- segmental template of the imperfective inflection
+- segmental template of the imperative inflection
+- used in formation of complex verbs; some variation with i-base
+- root form for application of ‘provocative’ markers; some variation with
+u-base
+- root form to which the negative circumfix is applied
+- root form for application of evidential markers and for SHRD and
+DRAMA information status markers; some variation with u-base
+- segmental template of stative inflection
+- used in serialisation as Vn ; some variation with a-base
+- used in neya negation
+- segmental template of perfective inflection
+- root form to which w-initial inflections are applied, e.g. -wei PROHIB276Chapter 8. Final verb morphology: time, event modality, and negation8.1.2.3Partial members of the consonantal and wa-class verb groupsThere are some further high-frequency verbs that show mixed characteristics, being
+treated as regular verbs in some inflectional categories but not in others. In this
+section I identify these verbs and their base forms.
+The stance/existential verb ‘sit’ is partially irregular, and has
+three base forms. These are shown in Table 8.10.
+The verb ra- ‘sit’5Table 8.10 Base forms of the part-consonantal ‘sit, be’consonant
+ra-base i-base o-base
+ra
+rei
+raoWhilst the base forms of this verb can still be distinguished on the basis of the
+final vowel, the way they are used in inflectional operations differs from the full
+consonantal verbs and will be addressed separately as the need arises.
+There are three known partial members of
+the wa-class group, iwa- (level pitch contour)‘plant’, iwa- (fall pitch contour) ‘drop,
+fall’ and kua- ‘hide’. The segmental base forms of these verbs are shown in Table
+8.11. I have no examples of kua ‘hide’ occurring in an i-base form, so suggest the
+form /ki/ based on the usual patterning of wa-class verbs.","[304, 305]"
+"3.2NominalsA prototypical semantic property of members of a ‘nominal’ word class is that
+they refer to ‘time stable’ concepts (Schachter 1985:6) and designate objects (Evans
+2000:710), for example persons and places.
+Duna nominal roots can constitute complete nominal phrases (NPs) by themselves, and typically occur in NPs that denote participants in a described event or
+relationship (Chapter 5). NPs can also occur as predicates (§4.1.1.1), but unlike
+predicating verbs, nominals cannot be marked with TAM markers (§8.2) or the negative circumfix (§8.3). Nominal predicates can however be marked with (a restricted
+range of) epistemic assessment markers (§10.3).
+I divide Duna nominals into three subclasses: common nouns (§3.2.1), proper
+names (§3.2.2), and personal pronouns (§3.2.3). The former two groups are open
+classes, to which new members may be added. Personal pronouns comprise a small
+closed class. See also §3.9 concerning quasi-nominal interrogative forms.
+3.2.1Common nounsCommon nouns typically occur in nominal phrases, where they may be modified by
+postposed adjectives, quantifiers, and/or demonstratives (§5.2). A nominal phrase
+that includes a common noun may be referential and denote a particular individual
+(or group of individuals, etc.), or non-referential, denoting a generic class of items.
+Some examples of common nouns are shown in Table 3.1. These are simple root
+forms. Common nouns can also be morphologically complex (§5.2.1.1 - 5.2.1.3).
+Common nouns such as hatia, ‘accessway’, denote a fairly general semantic
+field. When used alone, hatia typically means ‘path, road’, but it can alternatively be
+preceded by a nominal (in possessor position, see §5.2.6) to form a phrase with more
+specific meaning, for example: anda hatia (house accessway) ‘door, doorway’;
+ambu hatia (lips accessway) ‘mouth opening’; or khia hatia (faeces accessway)
+‘anus’.
+Words for describing plants and animals include generic terms such as heka
+‘bird’ or rowa ‘tree’, and terms that describe particular varieties of generic types,
+such as wawa ‘egret’ and yawale ‘casuarina’. Words that denote individual kinds of
+flora and fauna are likely to occur in complex nouns as nominal specifiers following
+generic terms (§5.2.1.5).",[99]
+"416Chapter 11. Final morphology and sentence typelanguages). This is basically the case in Duna, albeit somewhat complicated by the
+alternative interrogative pattern, in which the interrogative marker links alternate
+propositions and is not necessarily reiterated sentence-finally.
+11.1.3.3Yes-no interrogatives‘Yes-no’ interrogatives “seek a comment on the degree of truth of the questioned
+proposition” (Sadock and Zwicky 1985:178). Examples of Duna yes-no interrogatives are shown in (1026) - (1029), in which the interrogative marker =pe occur
+on an otherwise declarative sentences. In Duna yes-no interrogatives typically have
+a ‘positive bias’ effect, that is, anticipate a ‘yes’ answer that confirms the proposition. This is in contrast to alternative interrogatives (§11.1.3.4) which are typically
+‘unbiased’.
+(1026)Kipu-ka no leta
+PSN - CSsiho=pe.","[444, 445]"
+"500BIBLIOGRAPHYVollrath, P. (1983). Hewa phonemes: a tentative statement. In J. M. Clifton (Ed.),
+Five phonological studies, Number 31 in Workpapers in Papua New Guinea Languages, pp. 51–83. Ukarumpa: Summer Institute of Linguistics.
+Voorhoeve, C. L. (1975). Central and Western Trans-New Guinea phylum languages. In S. A. Wurm (Ed.), New Guinea area languages and language study 1:
+Papuan languages and the New Guinea linguistic scene, pp. 345–459. Canberra:
+Pacific Linguistics, Australian National University.
+Weber, D. J. (1986). Information perspective, profile, and patterns in Quechua. In
+W. Chafe and J. Nichols (Eds.), Evidentiality: the linguistic coding of epistemology, pp. 137–55. Norwood NJ: Ablex Publishing Corporation.
+Welmers, W. (1959). Tonemics, morphotonemics and tonal morphemes. General
+Linguistics 4, 1–9.
+Welmers, W. (1973). African language structures. Berkeley: University of California Press.
+White, J. P. and C. J. N. Modjeska (1978). Acquirers, users, finders, losers: the use
+axe blades make of the Duna. Mankind 11(3), 276–87.
+Wilkins, D. (1986). Particle/clitics for criticism and complaint in Mparntwe Arrernte (Aranda). Journal of Pragmatics 10, 575–596.
+Willett, T. (1988). A cross-linguistic survey of the grammaticalization of evidentiality. Studies in Language 12, 51–97.
+Woodbury, A. (1985). Noun phrase, nominal sentence, and clause in Central
+Alaskan Yupik Eskimo. In J. Nichols and A. C. Woodbury (Eds.), Grammar inside and outside the clause, pp. 61–88. Cambridge: Cambridge University Press.
+Woodbury, A. (1986). Interactions of tense and evidentiality: a study of Sherpa and
+English. In W. Chafe and J. Nichols (Eds.), Evidentiality: the linguistic coding
+of epistemology, pp. 188–202. Norwood NJ: Ablex Publishing Corporation.
+Wurm, S. A. (Ed.) (1975). Papuan languages and the New Guinea linguistic scene.
+Canberra: Pacific Linguistics, Australian National University.","[528, 529]"
+"1SG PSN house-LOC go-DEP
+‘I went to Yuwi’s house...’ [i.e, went to live with him as his wife] (T/KP:061103)7.5. Complex predicates with nouns and adjectives(553)247* anoa no nga-nda
+man 1SG go-INT* I will marry (CD/XIV:162)
+(554)ko ndulu anoa paye ndu-ne anoa nga-na=nia.
+2SG once man good one-PR man go-PROPH=ASSERT‘One day you will marry with a good man.’ (CED/XIV:135)
+Unlike serialised verbs and predicates that include verb adjuncts, adjunct noun
+constructions such as those shown in (547a) to (552) are not usually negated as a
+unit, as shown by the unacceptability of (555a). Negation can be expressed through
+applying the negative circumfix to the verb only, as shown in (555b). Example
+(555b) shows that in an alternative interrogative (§11.1.3.4) the nominal may be
+omitted at the second iteration of the predicate.
+(555)a. * Juli anoa ngo=pe na-anoa nga-ya
+PSN mango.PFV=Q NEG-man go-NEGb. Juli anoa ngo=pe, (anoa) na-nga-ya.
+PSN mango.PFV=Q manNEG -go- NEG‘Did Julie marry, or not marry?’ (CD/XIV:113)
+7.5.3Object-verb predicationsThe general template of an object-verb predication is represented in Figure 7.5.
+——————————————————————
+(NPsubject ) h NPobject Verb ipredicate
+——————————————————————
+Figure 7.5 Template of an ‘object-verb predication’Object-verb predications are predications that involve an NP and a verb. They
+do not really represent a single formally distinct construction type, as the major
+defining criterion is semantic and gradient rather than structural and categorically
+discrete. Clauses that include object-verb predications show some characteristics
+of ordinary bivalent clauses with subject and object NPs. They also share similarities with adjunct noun constructions in that word order is typically restricted, and
+the meaning of the predication is substantially derived from a nominal constituent.
+Object-verb predications are similar to ‘restricted collocations’ (Cowie 1998), combinations of words where the meaning of one element is “governed by its association
+with another word or phrase” (Pawley 2007:7), for example, the expression ‘meet
+demands’ in English. They are also idiomatic under Nunberg et al.’s (1994) definition in that the meaning cannot be predicted from the sum of its parts, and a literal248Chapter 7. Some complex predicate structuresTable 7.10 Some ‘object-verb predication’ expressionsNoun or semantic field
+apa
+‘egg’Verb
+era‘be/put’Meaning
+‘lay eggs’puri
+‘urine’era-‘urinate’khia
+‘faeces’era-‘defecate’khiau
+‘fire-making kit ’suwa
+‘hold’‘use fire-making kit to make fire’vehicle
+e.g. kharo ‘car’suwa-‘drive/board a vehicle’mali
+‘dance’suwa-‘hold a mali dance’creature
+e.g. heka ‘bird ’suwa-‘transform (oneself) into a creature’eya
+‘cord, fibre ’na‘eat’‘hang oneself’interpretation of the phrase is cases possible, albeit rather odd. Some examples of
+object-verb predications are shown in Table 7.10.
+It can be seen in Table 7.10 that some object-verb predications are part of a
+family of expressions which follow a generalised semantic structure, rather than
+being one-off expressions. For example, the existential verb (e)ra- ‘be/put’ occurs
+in construction with nouns that denote bodily substances in clauses that describe
+extrusion or excretion. The more members there are of the family, the more tenable
+it becomes to say that what we are dealing with here is (constructional) polysemy
+of the verb (see also §7.5.4.2).
+Examples (556) - (560) illustrate some of the expressions shown in Table 7.10.
+The apparent ‘object’ noun is unmodified and immediately precedes the verb.
+(556)khia ra-ndamaru.faeces be/put-INT go.IMP say.PFV‘Go to shit [he] said.’ (T/PK:201003i) (lit. ‘put shit’)
+(557)anoa hunia-kaayu khiau suwa-na.man this.EMPH-CS now fire.kit hold-SPEC‘Now this man of ours is making fire.’ (lit. hold fire-kit) (WD)7.5. Complex predicates with nouns and adjectives(558)nane-na =kho resisi-nawini-rane,249kho mbalutaboy-SPEC =3SG competition.lw-SPEC win.lw-SW. SEQ 3SG planesi-ya-tangori-tia.hold-DEP-SEQ go.PFV say-PFV.VIS . P‘The boy won the competition, and having boarded the plane [lit. hold
+plane] he went off, it was said.’ (T/Josepin)
+(559)khunu heka suwa-ta phaka-ya...
+3PLbird hold-SEQ fly-DEP‘They transformed into birds [lit: hold bird] and flew...’ (T/YS:270205)
+(560)no eya na-nda.
+1SG rope eat-INT‘I will hang myself.’ (lit. eat rope) (ED)
+As with adjunct nominal constructions, placing the ‘object’ noun before the subject argument usually doesn’t work; see (561) and (562). This kind of inflexibility
+argues against treating the expression as a typical bivalent clause (as subject and
+object NPs can normally appear in either SO or OS order, the latter being pragmatically marked).
+(561)* heka imane su
+bird girlhold.PFV* A woman transformed into a bird (CD/XIV:76)
+(Could mean: ‘A woman held a bird.’)
+(562)* eya no nanda
+cord 1SG eat-INT* I will hang myself (CD/XIV:156)
+(Could mean: ‘I will eat cord’)
+However, for at least some expressions, the nominal appears to be the head of a
+full NP that references a P argument. In (563) the noun is modified by an adjective.
+In (564) the noun is marked as specific (that is, is clearly referential) and does not
+occur in the same clause as its host verb but in the preceding clause, that is, the
+item is referenced through zero anaphora. In (564), there is no reason to analyse
+mbalutana ‘the plane’ as anything other than an object NP, beyond the fact that it
+collocates with a particular specialised meaning of the verb suwa- ‘hold’. This is
+not in itself sufficient grounds to propose a distinct structural relationship.
+(563)ho-nanane kete si-tiari-na.there-SPEC boy little hold-PFV.VIS . P say.STAT-SPEC‘This one transformed into a little boy, it is said. ’(T/JS:KG05V5.40)250(564)Chapter 7. Some complex predicate structuresmbaluta-na sa-tasi-ya-takho ngori-tia.plane-SPEC take-SEQ hold-DEP-SEQ 3SG go.PFV say-PFV.VIS . P‘[He] got the plane and boarded [it] and he went off, it was said.’
+(T/JP:KG05V7.11)
+Individual object-verb predications show some differences concerning whether
+or not the nominal element and the verb in the construction must be immediately
+contiguous. For example, for the phrase khiau suwa- ‘use fire-making kit’, it is
+possible for the time/manner word ala to occur in between the constituents (565),
+and a locative NP can occur between hapa ‘egg’ and era- ‘put’ in the expression
+‘lay eggs’ (566). See also the phrase mali suwa- ‘hold a mali dance’ in (549), in
+which an (interrogative) temporal occurs in between the noun and the verb.
+(565)no hawa na-ndakhiau ala suwa-nda...","[275, 276, 277, 278, 279]"
+"1SG tobacco consume-INT fire.kit first hold-INT‘I want to smoke and will first work the fire-making kit...’ (T/IH:NH03T6A)
+(566)ayu heka kango =kho hapa rowa-ta era-na
+now bird bird.var =3SG eggri-tia.tree-LOC be/put-HAB say-PFV.VIS . P‘Now the kango bird lays its eggs in trees [they] say.’ (T/HS:080305ib)
+However, RA and KK judged that the phrase heka suwa- ‘transform into a bird’
+does not allow a temporal to be interposed, as shown in (567) and (568). The expression is fixed, and the special meaning it has cannot be maintained if arrangement of
+its elements is disrupted.
+(567)imane ndu (ala) heka (*ala) su.
+girlone first bird firsthold.PFV‘A young woman (first) turned into (*first) a bird.’ (CD/XIV:76)
+(568)imane ndu (hata)
+girlheka (*hata) su.one yesterday bird yesterday hold.PFV‘A young woman (yesterday) turned into (*yesterday) a bird.’ (CD/XIV:76)
+Like adjunct noun constructions, object-verb predications do not undergo unitary negation. If the negative circumfix is used it will be applied to the verb only. An
+example is shown in (569). However, the lexical negator neya (§8.3.3) is preferred
+for object-verb predications.
+(569)imane-na heka su=pe, na-si-ya.
+girl-SPEC bird hold=Q NEG-hold-NEG‘Did the young woman transform into a bird, or not?’ (CD/XIV:76)7.5. Complex predicates with nouns and adjectives7.5.4
+7.5.4.1251Inceptive/factitive uses of ka- ‘be/stand’
+Adjunct noun typeThe verb ka- ‘be/stand’ can occurs in construction with a noun that cannot be identified as denoting an argument, is unmodified, and immediately precedes the verb,
+that is, resembles an adjunct noun. However, the derived predication may be either
+ambivalent or bivalent. This goes against the usual pattern of adjunct noun constructions, in that the argument structure of the complex predication is different
+from that of the verb when it occurs alone as a simple predicate. A general template
+for constructions that use employ ka- in this way is shown in Figure 7.6.
+——————————————————————
+(NPargument )x h Nadjunct ka- ipredicate:x
+——————————————————————
+Figure 7.6 Adunct noun type construction with ka- ‘be/stand’Examples (570) and (571) show the expression se ka- ‘origin be/stand’, which
+means ‘begin’. This can head a monovalent clause, as in (570), or a bivalent clause
+as in (571).
+(570)hataka-taarenesekutia.yesterday be/stand-SEQ diarrhoea origin be/stand.PFV.VIS . P‘The diarrhoea started yesterday.’ (ED/VIII:149)
+(571)ko nane khete no ingini -ra
+2SG boy little 1SG sonmo-tia ka-ta pikono se-SHRD like-GP be-SEQ pikono originko=pe.
+be/stand.PFV=Q‘Were you a little boy like my sons when you began (performing) pikono?’
+(IV/KK-KY:KG05)
+Nominals that denote liquids or transferrable substances such as dirt or mud
+occur like adjunct nouns with ka- ‘be/stand’ to describe saturation or staining, as
+shown in (572) and (573). Example (573) shows that adverbial modifiers such as
+peli ‘well, thoroughly’ can either precede the nominal or be interposed between the
+nominal and the verb (but not both at the same time).
+(572)no slipas iwa-tanga-yaroko, khiapo ndola-ya, haka khiapo1SG thongs put.on-SEQ go-SW. SIMmudsplatter-DEP cloth mudka-na.
+be/stand-HAB‘When I wear thongs walking, the mud splatters, and my clothes get muddy.’
+(ED/VIII:152)252(573)Chapter 7. Some complex predicate structureshakana(peli) yu(peli) ka.cloth-SPEC well water well be/stand.IMP‘Wet the cloth thoroughly.’ (CD/XIV:76)
+(574)ko waye hataso-na-kareto peli na-ka-ya.","[279, 280, 281]"
+"=3SG tomorrow PLNgo-INTsay-PFV.VIS . P‘Kenny will go to Mt. Hagen tomorrow, [Kenny or someone] said.’ (CD)
+(1009)Lepani Mospi nga-nda ri-tia-na,
+PSNPLNgo-INTkão=koae=pe, ene=koae, kosay-PFV.VIS . P-SPEC lie=HYP=Qtrue=HYP2SGwaki po=pe.
+hear do.PFV=Q‘Lepani is going to Moresby [people] said, I wonder could it be false or
+true, have you heard?’(CED/XIV:85)
+Examples such as (1008) and (1009) suggest that in at least some circumstances
+ritia can have the grammatical status of an epistemic particle, rather than being
+part of a construction that has comparable semantics to epistemic marking, but is
+structurally distinct from it. However as described in regard to (1005) this not the
+case for all speakers, and more data are required to examine the viability of this
+structure in natural language.
+10.5.3Some constructions with ke- ‘see’The verb ke- ‘see’ can also be used in constructions that expand the evidencemarking repertoire. In these cases, the perception event (the experience of information source) that is entailed by evidential markers is in a sense overtly expressed as
+a complement-taking verb.",[431]
+"PSN - SPEC - CS one stretch go. MULTI - INDV‘The young woman Julie is stretching each bit [of her body].’ (LC/VIII:86)
+(821)a. ko aki peya=pe.
+2SG waht do.IPFV=QWhat are you doing?
+b. no ipa khora-pa.
+1SG water draw.water-INDV‘I am drawing water.’ (LC/VIII:23)
+(822)kuni khou-pa.
+head pain-INDV‘[My] head is hurting.’ (OH/VIII:32)
+The sentences shown in (823) illustrate a contrast between inflectional use of
+the specificity marker -na (§9.3.2.2) and individual standpoint marker -pa. These
+sentences were spoken to me in succession while I was sitting on the verandah
+(under cover), and the speaker was passing by outside. Speaking sentence (823a),
+the speaker pointed to where light rainfall could be seen sparkling in sunshine.
+Speaking (823b), the speaker brushed the tiny drops of water alighting on her arms.
+In the first instance, the speaker was pointing something out to me that I could
+observe for myself. In the second instance, the speaker adds additional information
+from her own individual standpoint, as someone who feels and assesses the rain.
+(823)a. ipa ralua mia-mia-na.
+water raindrizzle-drizzle-SPEC‘The rain is drizzling.’ (pointing out to me)
+b. ketele yiaomia-mia-pa.little nothing drizzle-drizzle-INDV‘[It is] drizzling just a little bit.’ (brushing arms) (LC/VIII:32)
+In (823), the differential use of -pa and -na shows a similarity to the contrast
+expressed by certain ‘engagement markers’ in Andoke (Colombia) as described by342Chapter 9. Evidential and information status markersEvans (2005), citing Landaburu (2007). Use of the individual standpoint marker
+-pa is comparable to use of the Andoke engagement marker kẽ-, which “directs the
+interlocutor to an experience that is hidden from them” (Landaburu 2007, Evans’
+translation). The Andoke engagement marker b- contrasts with kẽ- and is comparable in function to the Duna marker -na, as it directs the interlocutor “to an
+experience that is in principle tangible” (Landaburu 2007, Evans’ translation).
+In making statements about present events -pa is a probably the functionally
+unmarked inflection for regular verbs, as it is quite a neutral way to present a proposition in contrast to other options (for example, specificity marking or sensory
+evidential marking, §9.2.4.2; see also §9.3.2.3). The information is offered without
+making an assertive claim about evidence or noteworthiness. In elicited sentences
+that described hypothetical present activities (as opposed to things that were actually happening at the time), speakers I worked with would commonly choose -pa as
+a verbal inflection, as in (824) and (825).42 Example (826) shows -pa following the
+negative circumfix na–ya (§8.3).
+(824)imanoa-ka malikuru-pa.people-CS mali.dance dance-INDV‘People are dancing the mali.’ (ED/2003)
+(825)no eya wanga-pa.
+1SG yarn wind-INDV‘I am winding yarn.’ (ED/III:28)
+(826)nane ndu na-hoa-ya-pa.
+boy one NEG-come-NEG-INDV‘One boy isn’t coming.’ (Giles MSa:L5)
+9.3.2.2Specificity marking on final verbsIn this section I introduce a Duna structure which is arguably quite distinct from
+final verb inflection, but is in a relationship of functional contrast with all of the inflectional operations described in this and the preceding chapter, and is thus highly
+pertinent to a description of verbal morphology. This comprises the use of the
+specificity marker -na (§6.3.2.1) on verbs in lieu of final verbal inflection in main
+clauses. As noted in §6.3.2.1, Haspelmath (1997:38) defines an expression as specific where “the speaker presupposes the existence and unique identifiability of its
+referents”. In this Duna construction, the referent of the expression that is formally
+marked as specific is an existing and uniquely identifiable situation (rather than, for
+example, a concrete object). I first present examples that illustrate this structure,
+42This is particularly true of elicitation conducted early in my fieldwork, when I was focussing on
+basic vocabulary collection without any accompanying ‘scenario’.","[370, 371]"
+"NOT- INT= OPIN - SPEC say- SEQ‘You have no wings, you will not fly {I opine} [she] said...’ (T/YS:270205)
+21Fasu (Namo Me) has a post-verbal particle with the form /pi/ that has similar meaning to the
+Duna =pi (May and Loeweke 1980). In both cases it seems plausible that the particle is related to
+the Engan subgroup word /pi(i)/ ‘language’ (Lang 1973; Rule 1977; Lomas 1988), building on the
+idea of thought as internal utterance.",[422]
+"3.5AdjectivesI refer to a group of Duna words that have formal features of both nominal and
+verbal roots and generally describe properties of things as adjectives. Like nominals and unlike verbs, adjectives can occur as clausal predicates in bare root form
+(§4.1.1.2). They may also occur as modifiers in nominal phrases (§5.2.2). Adjectival
+roots can be inflected with some morphology that is not available to nominal roots,
+for example the habitual inflection -na (see, for example, (50)). Certain adjectives
+can occur in a complex predicate construction with the verb ka- ‘be/stand’, describing the inception or achievement of a change of state (§7.5.4.3).15
+Some examples of Duna adjectives are shown in Table 3.7. I have grouped together adjectives that have some semantic features in common (for example, dealing
+with dimension), but I do not propose that each group represents a distinct category.
+The forms in Table 3.7 represent the four ‘core semantic types’ that are typically associated with the word class adjective (dimension, age, value and colour), as well as
+the ‘peripheral semantic types’ of physical property and human propensity (Dixon
+2004).
+As can be seen in Table 3.7, many adjectival words finish with a sequence Vo. In
+Duna as spoken in the Kopiago area, the final o is subject to deletion in some lexical
+items with no clear change in meaning or function.16 It is highly likely that this
+final o is a semi-fossilised reflex of the perfective verbal inflection, -o (§8.2.2.1).17
+13Note that I designate these forms as members of a particular word class rather than as constituents that are occupying a particular structural/functional position in construction with a verb.
+This Duna word class could also be termed that of ‘coverbs’, following the use of this term in the
+Australianist literature.
+14
+As a general rule, if the root is not attested occurring with final verb morphology (or has been
+judged unacceptable in combination with it), typically occurs in bare root form, and immediately
+precedes a consonantal or wa-class verb in all known examples, I interpret it as a verb adjunct, not a
+verb.
+15
+The root kete ‘small’ can additionally be used in adverbial expressions (see, for example, (425)).
+However this is not a general characteristic of adjectival roots.
+16
+Results of the orthography survey carried out with Duna speakers from the Kelabo area suggest
+that deletion of the o is not acceptable for speakers of the south-west Duna variety.
+17
+Cf. Givón’s (1970) contention that adjectives in English are typically derived rather than simple3.6. Quantifiers81Table 3.7 Some adjectival rootsphuka(o)
+kete
+kolo(ma)
+uka
+paya
+nguni
+ambua(o)
+phẽo
+mindu
+yetao
+kera
+kango
+mbapoka
+rakare
+roro
+mangene
+koani
+phao
+saku
+epo
+ndeo‘big’
+‘small’
+‘short, low’
+‘tall, long’
+‘good’
+‘bad’
+‘yellow’
+‘white’
+‘dark (black, grey, blue)’
+‘red’ (cf. yeta ‘blood’)
+‘old (of a person)’
+‘wise, of good standing (of a man)’
+‘nubile (male or female)’
+‘cold’
+‘hot’
+‘important’
+‘new, unready’
+‘ripe’
+‘rotten, falling apart’
+‘tasty’
+‘hard’ (GG)This analysis would suggest that the roots in question originally had a more clearly
+inceptive or progressive meaning (e.g., ‘become big’, ‘become yellow’) and that the
+perfective inflection was added to indicate complete achievement of the specified
+change. This can also be argued for those adjectival roots that end in u, as the
+perfective inflection has an allomorph -u.
+Some adjectival roots, such as kete ‘small’, typically occur in nominal phrases
+whereas others such as rakare ‘cold’ typically occur as predicates of verbal clauses.
+The latter term can be negated with the negative circumfix na- -ya (§8.3), whereas
+the former cannot. The behaviour of all adjectival roots with respect to this property
+is not known. However, it is likely that further study will provide formal evidence
+for the existence of different noun-like and verb-like classes within the proposed
+group of adjectival roots, primarily relating to a distinction between properties that
+are more time-stable, and those that are more dynamic.","[109, 110]"
+"SNS . CSNS . IMPLPersonal ImpersonalHH
+
+HNon-visual sensory
+(Non-firsthand)Other (Firsthand)VIS . IMPLSTAT . VIS . PFigure 9.1 Inflectional array: present time eventImpersonalSTATH
+ HH
+
+HPersonalOther (Part/Fact)VisualH
+ HH
+HH
+
+H
+StativeNon-stative
+wa/c-class V
+IPFVregular VHH
+INDV SPECHH
+HH
+HHH
+H
+
+HH
+
+
+H
+
+HH
+
+HHH
+H
+
+HH
+
+
+H
+
+HH
+
+
+H
+
+HH
+
+H
+
+H
+Present time event348
+Chapter 9. Evidential and information status markers9.3. Information status markers349In addressing the status of the ‘other’ designations within Figure 9.1, the possibility of treating information source as an obligatorily expressed domain in verbal
+inflection becomes relevant, as discussed with respect to past time events in §9.2.9.
+The choice between SNS markers and other forms can be expressed as a selection between two kinds of information source: that which is ‘firsthand’, comprising visuo-perceptive, participatory, and factual information source; and that which
+is ‘non-firsthand’, comprising non-visuo-perception, and being extended to certain
+kinds of inference concerning ongoing events (as illustrated in (769) in §9.2.4.2).47
+Under the ‘stative’ node the distinction can again be characterised as one that is
+entirely to do with information source, ‘visual’ versus ‘participatory/factual’.
+Under this reading, inflectional options that relate to present-time situations
+comprise a functional paradigm within which evidentiality is an obligatory grammatical category: a speaker has a finite set of morphological options, all of which
+encode information source. As for the perfective inflection, whether or not TAM
+markers such as a the stative and imperfective inflections do indeed encode information source is something of a moot point, and further data are needed to examine
+this issue. There is some evidence to support the view that these forms are ‘positively’ evidential (for example, the fact that they can, like evidential markers, be
+followed by -na SPEC, see §10.2) and some evidence against it (for example, the
+fact that IPFV can occur in combination with evidential markers, and that the stative
+inflection can be followed by epistemic particles).
+Regardless of whether or not these forms are identified as necessarily evidential
+morphemes, it can be seen that the parameter of information source (like that of
+aspect as outlined in §8.2.3.7) has quite a profound effect concerning the possible
+articulation of possible primary inflections as a system or group of subsystems, and
+is a particularly important factor within the inflectional inventory.
+9.3.3
+9.3.3.1Past time events
+Recent past, shared standpointThe bound form -ra (SHRD) occurs as a verbal inflection on predications that represent very recent activities, and indicates that the speaker assesses the proposition as
+representing collective knowledge that is shared by both speaker and hearer.48 The
+47This kind of firsthand/non-firsthand semantic split is not uncommon in evidential systems of the
+world (see Aikhenvald 2004; Johansen and Utas 2000), and there is some indication that it is the
+way the (relatively) nearby Angal system operates in the denotation of present time events (Madden
+MS, Reithofer pers. comm.).
+48
+As for the individual standpoint marker -pa (§9.3.2.1), -ra occurs very rarely as a final inflection
+in monologic narrative text, and my analysis of this form is provisional. Looking on the bright side,
+the low frequency of the ‘standpoint’ markers -pa and -ra in narrative data is itself interesting, as
+it contrasts markedly with the distribution of most other verbal inflections. TAM inflections and
+evidential markers are readily deployed in narrative to index features of the narrative-internal world,350Chapter 9. Evidential and information status markerspredicated activity is typically something that the speaker and hearer did and/or
+witnessed in each other’s company, and/or something they have conversed about,
+each having contributed to the other’s understanding of the event. This morpheme
+is similar to the ‘referential’ marker in Pole (Engan Family), as described by Rule
+(1977).
+The shared standpoint marker -ra is added to the o-base of consonantal verbs
+(including the semi-irregular verb ra- ‘sit’), the i-base of wa-class verbs, and the
+i-base or a-base of partial wa-class verbs. Giles (MSa) describes -ra as the ‘perfect’
+or ‘general perfect’ past tense.
+Some examples of -ra are shown in (834) - (837). These illustrate that -ra
+is commonly used in describing events that have just happened in the immediate
+sphere of the speech situation. The predicated activity is something that the speaker
+assumes has already been introduced into the ‘knowledge store’ (Vallduvı́ 1992) of
+the speaker and hearer, either through the fact of it happening, or through reference
+to it in conversation, or both. KK suggested that the sentence shown in (835) would
+be suitable as a response if Person A had just thrown something over to Person B
+and then asked them if they had caught it. In (836) ra occurs following the negative
+circumfix na- -ya (§8.3).
+(834)ayu ho-ra.
+now come-SHRD‘I just arrived.’ (CD/VIII:70)
+(835)B: si-ra.
+hold-SHRD‘Got it.’ (CD/XIV:3)
+(836)anoa ha-nakonane kharu-ta na-waki-ya-ra.man there-SPEC earblock-SEQ NEG-hear-NEG-SHRD‘That man is deaf and didn’t hear.’ (Giles MSa:L27)
+Example (837) is from a conversation in which the speaker and I were taking
+turns looking through binoculars. The speaker was using the binoculars and I asked
+her something about what she could see. She was surprised at my question, as I had
+just had a turn a few moments previously; her response is something of a rebuke.
+(837)ko ke-ra.
+2SG see-SHRD‘You just looked!’ (LC)
+either through the adoption of a main character’s viewpoint, or within reported speech (that may
+or may not be overtly marked as such). This difference in distribution suggests that as inflectional
+forms the standpoint markers are very closely tied to the actual speech situation and the identities of
+speaker and hearer, and that this reference is not readily transferable to the narrated world.","[376, 377, 378, 379]"
+"196Chapter 6. NP, PP, and PlcP morphologyThere are no examples in my data of -kuru combining with the interrogative pa‘query’ to form an interrogative meaning ‘what places?’ (or similar). However,
+the form pa-kuru does occur in the textual data in a specialised construction that
+is used to describe mysterious or extraordinary places, typically those that are the
+realm of pikono narrative (§1.3.3.1) and can never be known by people in ordinary,
+everyday way. Pakuru follows a verbal clause (predication ‘X’) in a phrase that
+means something like ‘places where X happens’. Two examples are shown in (369)
+and (370).28 In (369), the speaker describes how a woman in a story (who has
+wandered off, flouting the express orders of her brother) is charmed by a water spirit
+and led down into his mysterious world of underground rivers (see Haley 2002). In
+(370), the hero of a pikono story takes leave of his beautiful female companion,
+going off on a journey of his own into distant regions of the pikono world.
+(369)siri ndu kho hoa-taho-nasaloka-tasi-ya-taipaspirit one 3SG come-SEQ here-SPEC bewitch be/stand-SEQ hold-DEP-SEQ waterhu- pa-kurusekiti-norua.roar- query-PLC.GP travel descend-NTN . P‘A water spirit he came and bewitched her and held her and went down to
+where the waters roar.’ (T/PK:180205)
+(370)ho-ngaare neya=niakiniyapare- pa-kurungui-na.here-EXCV near NOT=ASSERT water.creature play- query-PLC.GP go.PRES-SPEC‘Not near to here, I am going to wherever the kiniya water creatures play.’
+(P/KY:KG05)
+6.4.4Other ways of denoting locationsIn this section I describe some further kinds of referring expressions that denote
+times and places, in order to give a fuller picture of how description of spatial and
+temporal locations can be included in a clause.
+28I find this construction difficult to analyse, and to do so would require a more comprehensive
+analysis of Duna (including further examination of complex sentences) than is attempted in this
+thesis. However, I believe it is suggestive of a relationship between the interrogative root pa and
+the ‘individual standpoint’ marker pa that occurs as a verbal inflection (§9.3.2.1). Briefly, it makes
+sense to interpret the interrogative root ‘query’ and the predicate marker ‘INDV’ as (deriving from)
+a single form pa which is concerned with not knowing. This is commensurate with the occurrence
+of forms such as -ra ‘SHRD’ as both an epistemic demonstrative and a predicate marker. The interrogative function of pa (‘query’) relates to the epistemic demonstrative function of forms such as
+-ra, and indicates that the referent of a phrase is not known (specifically, not known to the speaker
+but assumed to be known to the addressee). When it marks a final predicate, pa (INDV) indicates
+that the speaker knows about the predicated activity, but assumes that this is individual knowledge,
+not necessarily shared by the addressee. Examples such as (369) and (370) give a window into a
+situation where pa is exploited as: a form that is demonstrative-like, as it is followed by the place
+phrase marker -kuru in a referring expression; and a marker that affixes to a verb root in a clause that
+describes an ‘unknown’ situation.","[224, 225]"
+"1/2PL hand/arm-INSTR NEG-cradle hold-NEG-HAB do-SEQ‘Because we do not carry [babies] in our arms...’ (T/HS:061103i)
+Example (492) shows a constructed sentence in which only Vlast is negated.
+This sentence was considered interpretable but odd, and I have not found any textual examples that follow this pattern so it is clearly dispreferred. The meaning is
+apparently the same as for unitary negation, that is, negation still applies to both
+verbs.
+(492)? Keni =kho iwake
+PSNsina-nga-ya=3SG pandanus hold NEG-go-NEG? Kenny isn’t carrying the pandanus away (CD/VII:3)
+7.3.3Relationships between verbs in seriesIn this section I describe some different semantically defined relationships between
+verbs that occur in series.
+7.3.3.1Sequential and overlapping activitiesSome verb series describe a series of distinct activities time iconically. The activity
+described by the first verb in the series is completed before the activity described
+by the next verb begins. Vn is typically telic. An example is shown in (493) (see
+also example 482). The verb roots are bivalent, and the identity of the A and P
+participants is the same for both verbs.
+(493)ita sei si-yarindi ho-takiti-pa.pig hit hold-DEP ground here-LOC descend-IMP‘Kill pigs and take them down to the ground there’ (T/YS:270205)
+Some verbs in series describe activities that are more-or-less discernible as distinct activities, but there is a significant amount of overlap between them. The
+activity of the first verb continues throughout the activity of the second verb and
+the meaning of the SVC is typically related to relocating something. Two examples
+are shown in (494) and (495). Vn is a bivalent verb of ‘retaining’ and Vlast is a
+monovalent verb of motion. The subject is the same for both verbs in series.
+(494)kaanda ho-ngandu yaki hoa-tairi-na.",[259]
+"8.2. Tense, aspect and event modality (TAM)279and are thus ‘terminal’ inflections.
+TAM markers can be grouped together in a number of alternative ways which
+cut across the three groups as presented in §8.2.2 - §8.2.4. Different semantic, functional, and formal features of the morphemes compel different articulations of how
+they relate to each other. For example, it makes sense to identify TAM markers
+that are used in the description of actualised rather than potential events as a discrete group that encodes aspect as the primary organisational parameter, and this is
+outlined in §8.2.3.7.
+Duna verbs are not marked with pronominal agreement affixes,11 and TAM
+markers do not mark person as such (that is, they do not alternate strictly according
+to the number and person of certain clausal arguments). However, certain (declarative) TAM markers have a distributional pattern that correlates with subject identity,
+and this pattern generally follows ‘conjunct/disjunct’ alignment (§11.2.1.1). The
+Duna intentive inflection (§8.2.2.3), promissive inflection (§8.2.3.5), and the special
+present inflection of the verb nga- ‘go’ (§8.2.3.6) typically occur with speaker subjects in declarative sentences and addressee subjects in questions (show conjunct
+distribution). The prophetic inflection (§8.2.3.3) typically occurs with non-speaker
+subjects in declarative sentences and non-addressee subjects in interrogative sentences (shows disjunct distribution).
+The conjunct/disjunct pattern is generally concerned with the relationship between
+a participant (most commonly S or A) of a verbal clause and the person in the utterance situation who is the epistemic source (Hargreaves 2005) with regard to the
+proposition. For example, it is typically sensitive to whether the person in the speech
+situation who has (best access to) knowledge of the described event also figures as
+an agentive participant in it. The nature and implications of this distributional pattern in Duna are discussed in more detail in Chapter 11. For the time-being I focus
+in the main on the basic meanings of these TAM markers in declarative sentences,
+although a few interrogative examples are also introduced.
+Because of the significance of the conjunct/disjunct distributional pattern to
+Duna grammar, it is useful to have a quasi-‘person’ term (additional to and cutting across the grammatical categories of first, second, and third person encoded in
+the Duna personal pronouns) that refers to the speaker of a declarative sentence, and
+the addressee of an interrogative sentence. I use the term ‘informant’ for this kind
+of person, following Bickel (2001) (as reported in Bickel and Nichols 2007). Note,
+however, that my use of the term informant is not identical to that of Bickel, who
+defines informant functionally as “the person whom the speaker supposes or claims
+11Foley (2000:377) notes that a lack of such affixes is “relatively uncommon” in languages of
+New Guinea.","[307, 308]"
+"RESTRICT hear- INDV go- SNS . C‘I hear only faint engine noise. [The plane] is going away {I hear/infer}.’
+(ED/VIII:130)
+Examples (765) - (767) show the sensory current morpheme being used in predications that describe physical and/or emotional sensations. In (768) the negative
+circumfix (§8.3) is also present, applied prior to the evidential marker.
+(765)imandu-ka no yaka ri-rape, no khonane õ-yarua.woman one-CS 1SG name say-UNC 1SG eartingle-SNS . C‘Perhaps a woman said my name, my ears are tingling {I feel}.’
+(ED/VIII:67)
+(766)no rakare-yarua.
+1SG cold-SNS . C‘I am cold {I feel}.’ (ED/III:60)
+(767)no lembo-yarua.
+1SG anger-SNS . C‘I am angry {I feel}.’(ED/VIII:71)
+(768)no na-rakare-ya-yarua.
+1SG NEG-cold-NEG-SNS . C‘I am not cold {I feel}.’ (ED/VIII:104)
+18Note that in (763) the speaker uses auditory evidence (the faintness of sound of the plane’s
+engine) to make an inference — that the plane is flying past rather than coming in to land.",[348]
+"267268Chapter 8. Final verb morphology: time, event modality, and negation
+——————————————————————————–
+(
+)
+Verb/Adjv + Primary inflection
++ Ancillary marker(s)
+NP/Adjn
+——————————————————————————–
+Figure 8.1 Final predicate morphologyAncillary markers follow inflected verbs or non-verbal predicates, and provide
+further information concerning someone’s (typically the speaker’s) assessment of
+the proposition encoded in the clause to which it attaches, for example, as something that is certainly the case, or as something that has been learnt thought a certain kind of evidence. In certain cases with verbal predicates the ancillary marker
+combines with the primary inflection to form what I term a complex finite inflection. Otherwise, ancillary markers are optional extra forms that can be removed
+with no consequences as to the grammatically independent status of the clause. The
+occurrence of ancillary markers on final predicates is described in Chapter 10.
+I identify four groups of bound forms that can be employed as primary inflections and/or ancillary markers on final predicates. These are: TAM markers, evidential markers, information status markers and epistemic particles. These groups are
+primarily identified on a formal basis, with some input from semantic features. The
+possible functions of TAM markers, evidential markers, information status markers
+and epistemic particles with respect to the primary inflection vs ancillary marker
+distinction are shown in Table 8.1.
+Table 8.1 Primary inflections and ancillary markersTAM marker
+Evidential
+Information
+status
+Epistemic
+particleMajor semantic domain(s)
+time, actualisation,
+deontic/dynamic attitude
+information source
+kind of knowledge,
+attitude to knowledge
+hypotheticality, opinionFunction(s)
+primary inflections only
+all can be primary inflections, most
+can also be ancillary markers
+all can be primary inflections, some
+can also be ancillary markers
+ancillary markers onlyTAM markers (described in this chapter) encode features of time and ‘event
+modality’ (intention, ability, obligation) as primary meanings. TAM markers are
+contrastive, mutually exclusive, and only occur in the primary inflectional position,
+that is, directly attached to the verb with no intervening inflectional morphology.
+Evidential markers (§9.2) are a set of mutually exclusive forms that specify cer-8.1. Introduction269tain features of information source as primary meanings, indicating for example
+that a situation was visually observed. Information status markers (§9.3) encode
+features concerning (the speaker’s judgement of) what kind of knowledge the information represents, for example, whether it is surprising or self-evident. I refer
+to the broad semantic domain encoded by these forms as ‘epistemic assessment’
+(§9.1). Evidential and information status markers can occur as primary inflections
+on verbal predicates, in which case they establish features of the verbal event’s actualisation and temporal status, as well as specifying meanings that relate to epistemic
+assessment. The majority of evidential markers, and some information status markers, can also occur as ancillary markers, in which case they do not independently
+determine time features of the denoted situation, but take scope over a proposition
+that is already marked for temporal and modality features.
+Epistemic particles (§10.4) only occur as ancillary markers. Like evidential and
+information status markers, the primary meanings of these forms are to do with
+epistemic assessment, relating to the presentation of a proposition as representing a
+certain kind of knowledge, for example, a personal opinion held by the speaker.
+8.1.1.2Primary inflections and the final verbBound morphemes that can occur as primary inflections on final verbs are listed in
+Tables 8.2 - 8.5. A short description is included that outlines the typical import of
+each morpheme when it is used in a non-interrogative sentence (roughly, a directive
+or statement) as a primary inflection, and is not further followed by an ancillary
+form.
+The morphemes have been divided into separate tables according to the kind of
+reference situation that they are typically used in. These divisions do not map exactly to the way that the morphemes are presented in this and the following chapter,
+as the overall organisation of these chapters follows the TAM vs evidential vs information status marker distinction. Rather, the tables are provided here to give
+an overview of the semantic range of markers that are in broad functional contrast
+within parameters regarding the illocutionary force of the utterance, and the actuality and time of the event in question. Some issues concerning how these parameters
+build functional paradigms of verbal inflection in Duna that cut across different
+formal classes of morphemes are discussed at various points in this and the following chapter.
+Tables 8.2 - 8.5 show those forms that are typically used as primary inflections
+in statements, where a speaker tries to communicate the proposition of the utterance as something that can be treated as ‘information’. These are further divided
+according to the relative time and actuality of the event in question, being classified270Chapter 8. Final verb morphology: time, event modality, and negationas generally referring to past (Table 8.2), present/habitual2 (Table 8.3), or potential time (Table 8.4). Table 8.5 shows those morphemes that are typically used in
+directive utterances where the speaker tries to get other people to perform (or not
+perform) the denoted action.
+The inflections shown in Table 8.2 and Table 8.3 are drawn from the TAM
+marker, evidential marker, and information status marker groups (shown in the table
+in that order, divided by horizontal lines). Inflections that relate to potential time are
+all TAM markers except for one information status marker, included in the bottom
+row. Directive inflections are all classified as TAM markers.","[296, 297, 298, 299]"
+"9.3. Information status markers(850)a. ngoae-ya-roko355ke-tarowa-naiwa ko-rakuru.go.CAUS-DEP-SW. SIM see-SEQ wood-SPEC drop be/stand-DRAMA‘As [the man] put his hand into the split in the wood he saw [the little
+boy] suddenly let go.
+b. iwa ko-rane
+ke-ta, ki
+ho-ra
+pasi-ta,
+drop be/stand-SW. SEQ see-SEQ hand/arm here-CNCL stuck.lw-SEQho-rapasingo-raka.here-CNCL stuck.lw go-DRAMAHe saw him let go, and [the man’s] hand was stuck in here, it was stuck
+fast!’ (T/JS:KG05V5.40)
+9.3.4
+9.3.4.1Potential events (‘provocative’ inflections)
+IntroductionThe ‘expective’ (§9.3.4.2) and ‘potential observation’ (§9.3.4.3) markers occur with
+inflectional function only. These forms are rare in the textual data; I first became
+aware of their existence from Giles (MSa).52 I collectively term these inflections the
+‘provocative’ markers because they are used when the speaker wishes to provoke the
+addressee’s attention towards the predicated activity in a particular way.
+The expective and potential observation inflections both allude to potential events.
+In the case of the expective inflection, a clause that is so marked describes a potential
+event that the speaker thinks the addressee should think about before taking a course
+of action. In the case of the potential observation inflection, the potential event is
+not the activity denoted by the verb itself, but the addressee’s potential witnessing
+of this activity. I find it illuminating to think of these forms as being to do with a
+kind of event modality (§8.2.1) that is oriented toward the addressee’s awareness of
+the predicate event. The speaker expresses a modal attitude towards the addressee’s
+knowledge store, indicating that the addressee either should know or could have
+seen something, thus showing some commonality with impersonal evidentials.53 In
+using these markers the speaker urges the addressee to take epistemic responsibility
+for the predicated activity by either recognising it as a pertinent piece of information that should inform their actions (expective), or considering the evidence of the
+predicated activity that could be available to them (potential observation).54
+52Giles (MSa) terms the forms I label expective and potential observation as ‘general experience’
+and ‘past known to speaker’, respectively. The latter term is transparent. She defines the use of the
+‘general experience’ forms as being used “when a statement is based on the speaker’s knowledge
+from his general experience of what has or will happen in a certain situation” (MSa:37).
+53
+Molochieva’s (2006) Chechen data, as presented in Bickel (2007), intimates that the special
+addressee-directed construction evidential/mirative in this language has overtones of a (deontic)
+modal attitude to the addressee’s knowledge, and expresses the speaker’s opinion that the addressee
+‘must know’ or ‘must have noticed’ the predicated event.
+54
+A possibility remains that the provocative inflections evoke an impersonal viewpoint, rather
+than specifically targeting epistemic features in regard to the addressee. That is, they may be more
+appropriately paraphrased as something like ‘it could have been seen’ rather than ‘you could have356Chapter 9. Evidential and information status markersThe provocative inflections are commonly associated with two kinds of speech
+acts, giving directives and eliciting information (see also §11.1). A verb inflected
+as expective or potential observation rarely occurs utterance-finally in my data, as
+in most cases the provocative clause is immediately followed by an instruction or
+question for the addressee. These markers have somewhat intermediate status as
+final verb inflections, and could alternatively be interpreted as a medial inflections.
+Under either analysis it is necessary to make some additional stipulations concerning their uses.55
+9.3.4.2Expective markerThe expective inflection marks events that the speaker thinks likely to happen or
+likely to have happened. It additionally implies something of a warning or reproach
+to the addressee, as it marks a situation that the speaker thinks the addressee should
+already have paid attention to or considered. A warning implication (‘look out,
+this bad thing could happen’ ) is particularly common, so that the expective usually
+functions similarly to an ‘admonitive’ (for example, in Maidu Shipley 1964), or ‘apprehensive’ (for example, in Australian languages.). However, the implication that
+the marked clause represents a specifically negative consequence is not a necessary
+feature (see (853) and (854)).
+With regular verbs, the marker -nanoko is added to the root. For consonantal
+verbs, the form -nako is added to the a-base, and for wa-class verbs -nako is added
+to the a-base form, or -nanako to the u-base.56
+Clauses that are marked with the expective inflection are commonly accompanied by an instruction, as in (851) - (854). The speaker immediately supplies
+direction on how the addressee should act on the information they are being given.
+(851)sapulu-nasa-nako,kua peli-pa.shovel.lw-SPEC take-EXPCT hide well-IMP‘[Someone] could take the shovel, hide it well.’ (CED/XIX:32)
+(852)yawi-na-ka ko na-nako, khi-pa.
+dog-SPEC-CS 2SG eat-EXPCT leave-IMP‘The dog could bite you, leave it.’ (CED/XIV:32)
+Context: The addressee is teasing a dog.
+seen’. Further data are needed to explore this issue, for example concerning the acceptability of
+second person subject with these forms.
+55
+It is significant that the provocative markers end in the sequence ko; the form -ko occurs as a
+productive marker of subordination, following a final inflection (see, for example, (1012)). However,
+in the case of the expective and potential observation markers it is not helpful to say that ko is
+occurring as a marker of subordination, as it is not possible to coherently identify the sequences to
+which it is added as productive inflectional forms.
+56
+Further data are needed to establish whether the two possibilities for wa-class verbs are contrastive. Giles’ data include only the a-base + nako option.","[383, 384, 385]"
+"452Chapter 11. Final morphology and sentence typeand, from the available data, are only moderately compatible with evidential and/or
+information status markers.
+In general, evidential markers, information status markers and epistemic particles
+show a certain amount of functional flexibility. For example, the form -yanua
+(SNS . IMPL) functions as a verbal primary inflection (§9.2.7), a component in complex inflections (§10.2.2), a component in extra evidence constructions (§10.2.3),
+an ancillary marker on non-verbal predications (§10.3), and an epistemic demonstrative in participant and place reference (§6.2). Most evidential and some information status markers can function as primary inflections, or as ancillary markers that
+follow an inflected final verb or non-verb predicate. The impersonal and current
+sensory (and possibly also visual) evidentials, information status marker -ra, and
+epistemic particle =pi, all occur as epistemic demonstrative forms. This is in contrast to, for example, TAM markers (§8.2), which only occur as verbal inflections,
+and to proximal demonstratives (§5.2.4.1), which only occur as NP constituents.
+An important commonality in bound forms that make reference to knowledge in
+some way is what can be termed the ‘speaker-proposition’ relationship, following
+on from the work of Rule (1977), where he foreshadows De Haan’s (2005) examination of evidentiality as a deictic category (§11.2.2.5). In describing the evidential
+system of Foe (East Kutubu, PNG) Rule remarks that after initially interpreting
+Participatory and Visual evidential inflections as subject person agreement markers, he realised that, “the basic relationship [encoded by these morphemes] was not
+between subject and the verb but between speaker and the verb” (1977:71). I find
+the identification of a ‘speaker-verb’ (or speaker-proposition) relationship highly
+relevant to the morphological encoding of epistemic assessment in Duna in two
+ways.
+Firstly, it is relevant to the way that evidential markers position the informant
+person as holding a kind of ‘meta-role’ in a narrated event. This meta-role can be
+loosely defined as that of a bystander, someone who observes an event, but does
+not exert active control over it. Given the non-participation of the informant that
+is implied by evidential marking, it is unusual for evidentials to be used when the
+informant is also the volitional subject of the marked verb, as discussed in §11.2.2.
+The fact that non-participation is normally presupposed can be employed in conveying greater or lesser degrees of distance between the informant and the proposition,
+regardless of whether or not they are an argument of the marked clause, as exemplified in §11.2.2.6.
+Secondly, it is relevant to the way that markers of epistemic assessment always
+imply ‘speakers’, not just in the sense of the actual speakers of particular utter-11.3. Epistemic assessment and the final predicate: an overview453ances, but people who can think and talk - those with conscious minds.31 Typically the ‘conscious minds’ that markers of epistemic assessment evoke are those
+of people in the actual discourse situation, the speaker and addressee. Information
+status markers, for example, do not only indicate how the speaker thinks/knows
+about the activity that is predicated in his or her utterance, but encode awareness that
+the addressee also thinks, and has a particular state of mind as regards the proposition. This awareness is also evident in the viewpoint shift exhibited by evidential
+markers in questions, by which the speaker can effectively tell the addressee ‘how to
+know’. The impersonal evidential markers alternatively allude to consciousness that
+is anchored in unspecified people, indicating that the predicated event is observable
+through the relevant perceptual faculty, without identifying exactly whose.
+Using bound markers of epistemic assessment thus requires paying close attention at some level to the fact that the ‘information’ of spoken language is expressive
+of human consciousness, and constituted (as well as constitutive) of human experience. This may be experience of the outside world, or the more internal experience
+of ‘having things in mind’.
+The theme of the speaker-proposition relationship carries through to some of the
+inflectional morphemes that I identify as TAM markers (§8.2) rather than evidential
+or information status markers. The encoding of a ‘relationship to mind’ is important
+to the meanings of the intentive and prophetic inflections, which imply intention and
+(visuo-)perception, respectively. These forms display the same kind of patterns with
+respect to subject identity and volition as the evidential markers, so that a clause so
+marked says something about the relationship of the informant to the activity that is
+described. Certain other inflections that have to do with event modality also appeal
+to a person’s internal construal of an event (for example, as something desirable),
+and show a comparable alternation as regards the identity of the subject in optative
+as opposed to interrogative sentences.
+Bound forms that provide indication of epistemic assessment in Duna do not
+comprise a discrete grammatical category. Certain formal characteristics typify certain collections of morphemes, but these do not map consistently to distinct semantic or functional domains. For example, I find it sensible to treat the forms
+identified as evidential markers as comprising a discrete paradigm, but these do not
+stay tidily in their box according to rigorous formal and semantic criteria. Typical
+formal features of the evidential markers (for example, the ability to be added to
+31The phrase ‘conscious mind’ is approximated in the Duna existential possessive construction
+predicated by kono ra- (thought/knowledge be/put-), to ‘have thought/knowledge’. I found that kono
+iripe, ‘Does it have thought?’ was the one of the questions children would most commonly ask
+on seeing unfamiliar animals in the nature programmes we sometimes watched on my computer at
+Rewapi.","[480, 481, 482]"
+"3DL.CS courting.party there-EXCV be/stand-HAB‘The pair of them would make a courting party there.’ (T/RS:221203v)
+7.5.4.3Adjective + ka-Some adjectives can be marked with verbal inflections and head verbal clauses.
+Verbal clauses headed by an adjective are monovalent and generally atelic, describing a constant state rather than a changing process. Alternatively, adjectival roots
+may occur as part of a complex predicate preceding the verb ka- ‘be/stand’. The
+general pattern of this construction is represented in Figure 7.8. As can be seen
+from a comparison of this structure with that shown in Figure 7.3, the adjectival
+root is somewhat equivalent to a verb adjunct in a verb adjunct construction.
+———————————————————————–
+(NPargument )x hAdj(+)ka-ipredicate:‘make/become Adj.0
+———————————————————————–
+Figure 7.8 Adjective + ka- ‘be/stand’Adjectives that combine with ka- may occur as bivalent predicates, as in (581)
+and (582), or describe inception or achievement of a change in state, as in (583) and
+(584).
+(581)ipa roro=pi-na,rakare ka.water hot=OPIN-SPEC coldbe/stand.IMP‘The water is hot, cool it.’ (ED/VII3to8)
+(582)phuya wini-ka no rakare ka-yarua.
+wind wind-CS 1SG coldbe/stand-SNS . C‘The wind cools me.’ (ED/VIII:168)
+(583)roro kei-na.
+hot be/stand.STAT-SPEC‘It’s hot/heating!’ (warning to a child not to touch a pot on the fire) (OH)
+(584)roti-na,mbateri nguni ka-ta...torch.lw-SPEC battery.lw badbe/stand-SEQ‘The torch, [its] battery was flat...’ (T/KK:311003)254Chapter 7. Some complex predicate structuresComplex predicates composed of an adjective + ka- show similar properties to
+verb adjunct constructions in that ka- supplies an inceptive/factitive frame but little
+semantic content. They are also similar in that they may be negated by the negative
+circumfix as a single unit, as shown in (585a). In this case both RA and KK felt that
+negating the verb only as in (585b) was equally acceptable.
+(585)a. ka ipa roro ko=pe,na-roro ka-ya.","[282, 283]"
+"318(760)Chapter 9. Evidential and information status markersnane-na epa-ra-kara-ruari-na.boy-SPEC EPA-SHRD-LOC be/sit-STAT.VIS . P say-SPEC‘The boy was sitting over there {she saw} it is said’ (T/PP:KG05V2.15)
+Example (761) shows -rua applied following the negative circumfix; the state of
+‘non-existence’ was observed previously, and persists.
+(761)ra-na phuka, ho=pi-tia=khunu ayu na-ra-ya-rua.sit-HAB FORMER here-OPIN-GP =3PLnow NEG-be/sit-NEG-STAT.VIS . P‘They used to exist, but now they do not exist {I saw}.’ (T/HS:080305ia)
+There is one example in the textual data, shown in (762), where -rua occurs to
+mark a continuous and previous ‘sonic event’, parallel to the way that the perfective
+visual marker -tia can mark completed sonic events, as shown in (756).16
+(762)Jeti-ne Monika-ne khã-rua,...
+PSN - PR PSN - PRcry.out-STAT.VIS . P‘Justin and Monica were crying out,...’ (T/KP:250903)
+As with the visual perfective, in declaratives the visual stative is generally restricted to predicates that do not have a speaker subject.
+9.2.4
+9.2.4.1Sensory evidential markers
+IntroductionSensory evidence morphemes typically indicate that the informant’s evidence for
+the proposition is direct but not visual. This includes information sources that are
+perceived through the senses of hearing, smell, taste, and touch, as well as other
+physical or emotional sensations (for example, temperature, fear). They may also
+mark predications that are surmised or prophetically envisioned by the informant.17
+The predicate is understood to have the same time reference in relation to the time
+of utterance as the perception of the evidence. That is, predicates specified as having current evidence are understood to be happening at the time of utterance, and
+predicates specified as having previous evidence are understood to have occurred
+prior to the time of utterance.
+In terms of attested cross-linguistic evidential categories, this Duna category
+can be compared to to the ‘Auditory’ and ‘Other sensory’ categories as discussed
+16In this case it does not seem correct to say that the verb has stative sense. Rather, the visual
+evidence category is chosen in order to signify maximally direct observation of the event, and the
+further choice between perfective and stative aspectual specification is made on a ‘best-fit’ basis.
+See also (779).
+17
+Of all of these possibilities, the primary meaning is generally recognised as having to do with
+auditory evidence. For example KK and RA suggested that the Duna verb which most suitably
+describes the context for these morphemes is waki- ‘hear, listen’. (In my experience this verb, unlike
+more general ‘perceive’ predicates such as the Tok Pisin ‘harim’, is not commonly used for any act
+of perception other than aural perception.)9.2. Evidential markers319by Willett (1988) and the ‘non-visual sensory’ category discussed by Aikhenvald
+(2004).
+9.2.4.2Sensory (current)The sensory current morpheme -yarua indicates that an event is experienced as
+sensory evidence at the time of utterance. It is added to the a-base of consonantal
+and semi-consonantal verbs, the i-base of wa-class verbs, and the i-base or a-base
+of partial members of the wa-class group.
+Examples (763) and (764) show two uses of the sensory (current) with auditory
+evidence.18
+(763)Alo antia-ka Alo ya-yarua.
+PSN mother- CS PSN call- SNS . C‘Alo’s mother is calling Alo {I hear}.’ (T/HS:080305ii)
+(764)rũokoko anguwhine smallwaki-pa. nga-yarua.","[346, 347, 348]"
