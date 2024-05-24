@@ -1,0 +1,562 @@
+Paragraph,Page number
+"2.5.1.1 Kru Languages Are SVO and S Auxiliary OV
+Kru languages have mixed word order properties. If there is no auxiliary, the word order is SVO
+but in certain environments (such as negative clauses), the order may change to S Auxiliary OV.
+The affirmative clause in (127a) has SVO order, but when the same clause is negated with an
+auxiliary (127b), the order of the object and the verb is reversed, and the order is S Aux OV.127.    language: Dewoin (from Marchese 1986:168)        a.       ɔ                          pi       sayɛ̀.                     affirmative
+                 he                         cook     meat
+                 He cooked meat.        b.       ɔ      se            sayɛ̀          pi.                        negative (with AUX)
+                 he     NEG.AUX       meat           cook
+                 He didn't cook meat.",[111]
+"       The difference between auxiliaries and particles is that auxiliaries always occur in clauses
+where the basic word order is S(Aux)OV whereas particles occur in clauses where the basic
+word order is S(Part)VO. Thus, negative auxiliaries induce a change in word order from SVO in
+the affirmative (35a) to S(Aux)OV in the negative (76b). Negative particles do not have such an
+effect (77b).
+       Notice in (78) that the object kùà and the verb nu are reversed from one example to the
+next: the negative perfective has OV word order while the negative imperfective has VO word
+order. It also appears that the verbs are uninflected in this case, since the verb for the perfective
+(78a) and imperfective utterances have the same form.",[178]
+"
+       A verb (V) and its object (O) are one kind of head-complement pair. In languages with
+VO word order, such as English, the head (V) precedes its complement (O) in surface structure.
+For example, in (19a), the verb eat precedes its object food. OV order is not possible (19b). The
+verb-object pair in (19a) has the structure in (20). This conforms to the permitted structure from
+(18a) because the head precedes the complement.
+19.    a.      I eat food.            (SVO)
+       b.      * I food eat.          (*SOV)20.",[143]
+"       Languages with OV word order, such as Siamou, are not as simple. In Siamou sentences,
+VO word order is not permitted (21ba). Instead, verbs follow their objects (21b), which is
+complement-head ordering.21.    b.      *Ń   (ni)       dì             le.            (*SVO)
+                1SG FIN        eat.PRFV       food       a.      Ń       (ni)    le             dì.            (SOV)
+               1SG FIN         food           eat.PRFV
+               I eat food.",[143]
+"3.4.4.1 Perfective Uses Negative Auxiliary with OV Order
+All perfectives in the Kru languages discussed by Marchese (1986) are negated by an auxiliary.
+The auxiliary causes the word order to change from VO to OV. Example (76a) shows an
+affirmative perfective. Notice that the verb (pi) precedes the object (sayɛ̀). Example (76b) is a
+perfective negated by the auxiliary se. In this sentence, the object precedes the verb.",[177]
+"        Koopman (1984) analyzes the OV/VO alternation of the kind shown in (127) as a verb-
+second effect. The underlying position of the verb is in the VP following the object (OV). When
+the higher INFL position is empty, the verb raises to fill it, resulting in an SVO order, as in
+(127a). When there is an auxiliary, as in (127b), it fills INFL and the verb remains in situ,
+resulting in an S Aux OV word order. Thus, S (Aux) OV would be the basic word order in Kru.
+Marchese (1986) also argues that the surface SVO order has developed from a historic SOV
+order (Marchese 1986:94). Kru has a number of OV properties that support this hypothesis. First
+of all, Kru languages are predominantly suffixing. For example, in most Kru languages, the
+plural is a suffix. The plural of pu ('gun') in Tepo is pui (129).129.    language: Tepo (from Marchese 1986:16)        a.      pu              b.      pu-i
+                gun                     gun-PL
+                gun                     gunsKru languages have postpositions, as opposed to prepositions (130).130.    language: Neyo (from Marchese (1986:18), originally from Thomann (1905))        nezo ko
+        road on
+        on the roadPossessors precede possessums (131).131.    language: Godié (from Marchese 1986:17)        POSS    N
+        nā      ɓūtū
+        my      houseCompounds have an OV word order (132).",[112]
+"       Koopman (1984) argues that this alternation is a verb-second effect similar to what
+occurs in many Germanic languages. In this analysis, the underlying word order in Kru is SOV.
+If an auxiliary occurs in the inflectional phrase (INFL), that position is filled, and the word order
+remains S (Aux) OV. If there is no auxiliary, the verb raises to INFL resulting in a derived SVO
+word order.
+       In many Kru languages there is a contrast between auxiliaries and particles (Marchese
+1986). (See 3.4.4.) Auxiliaries, as stated above, occur in clauses with an OV word order while
+particles occur in clauses with a VO word order. For example, the auxiliary se (NEG.AUX) in (35)
+changes the word order from SVO in (35a) to S (Aux) OV in (35b).",[150]
+"
+3.4.4.2 Imperfective Uses Negative Particle with VO Order
+Imperfectives are negated by a particle. The particle does not cause a change in word order. In
+the affirmative sentence in (77a), the verb (na) precedes the object (tawa), the same as (76a). In
+the negative sentence (77b), the verb still precedes the object.77.    language: Dewoin (from Marchese 1986:168)       a.       S                              V        O              affirmative
+                ɔ-ɔ                            na    tawa.
+                he-IMPF                        drink tobacco
+                He smokes.       b.       S              PART            V        O              negative (with PART)
+                ɔ-ɔ           ní               na    tawa.
+                he-IMPF       NEG.PART         drink tobacco
+                He doesn't smoke.",[178]
+"Based on the data in (24-25), the head-final order seems to be the most prevalent surface order in
+Siamou.
+        Cross-linguistically, there are certain properties that are more commonly associated with
+SOV word order and other properties that are more commonly associated with SVO word order.
+Siamou has mixed word order properties. For example, in Siamou enclitics and suffixes are
+much more predominant than proclitics and prefixes. Enclitics are used to mark plurality (26a)
+and definiteness (26b), and a suffix is used to mark aspect (26c). This is common for SOV
+languages (Greenberg 1966, Marchese 1986, Comrie 1989, Croft 2003).26.     a.      lu=ì
+                wife=PL
+                wives        b.      à       bisháaŋn=î
+                DEF1 child=DEF2
+                the child
+                                                                                                 123
+         c.     dì-ɲɛ̀n
+                eat-STAT
+                have eaten         In Siamou, modifiers usually follow their heads: adjectives follow the noun (27a), and
+adverbs follow the verb (27b). This is a property of SVO languages (Greenberg 1966, Marchese
+1986).27.      a.     lɔ́    sɔ́ɔ
+                house big
+                big house         b.     Ń      ni       múkal          leè-n           gbângbâr.
+                1SG FIN         tô             eat-IMPF        always
+                I always eat tô (corn porridge).","[145, 146]"
+"
+                                                                                                  90
+132.   language: Klao (from Marchese 1986:19)       O V
+       [dɛ̀-dɔ̄]-yɔ̀
+       thing-plant-person
+       farmerThere is an associative marker that separates two nouns (133).133.   language: Grebo (from Marchese 1986:18)       ke      a       kae
+       chief ASSOC house
+       the chief's house       The above properties are all usually associated with languages that have OV word order
+(Greenberg 1966, Marchese 1986, Comrie 1989, Croft 2003).
+       Siamou differs from other Kru languages in that it does not display any alternation in
+word order, but has an S (Part) OV word order all the time (134).134.   language: Siamou       S       PART    O       V
+       À      ri     le        dì.
+       3SG FIN       food      eat.PRFV
+       She ate food.","[112, 113]"
+"                                                                                                                      36
+2.3.1 Basic Word Order Is S (Particle) OV
+The basic word order of Siamou clauses is S (Particle) O V (27).","[58, 59]"
+"
+Instead, Kayne (1994) argues that OV word order is derived from an underlying VO word order,
+which means that (21a) has the structure shown in (23).94 The object (le) moves up from the VP
+into a higher phrase (which I call XP for now). The original position of le is marked by a trace
+(t). This is why Kayne's (1994) theory is called anti-symmetry: the OV structure in (23) is not
+symmetrical with the VO structure in (20).",[144]
+"32.     VP      Asp     À       ri     [le    di]-[ɲɛ̀n].
+                        3SG FIN        food eat-STAT
+                        He ate (food).
+                        French: Il a mangé de la nourriture. (C)There are two main ways to derive this: for Kayne (1994), it must be the case that Siamou has an
+underlying head-initial (VO) word order. In this case the aspect head precedes the verb phrase
+(Asp VP) and the verb has to raise and adjoin to the aspect head in order to derive the surface
+(VP Asp) order, as shown in (33a). The object must also raise to a higher position (called Spec
+AgrOP) in order to derive the surface (OV Asp) ordering (see Pollock 1989 and Roberts 1997).
+        The second possibility, which Kayne (1994) would reject, is that Siamou has an
+underlying head-final (OV) word order. In this case, the aspect head follows the verb and can
+attach to it via right-alignment (V Asp). This is shown in (33b).33.     a.                                                  b.",[149]
+"Marchese (1986) argues that even though SVO is the predominant word order in Kru, there are
+more SOV characteristics than SVO characteristics. She argues that this is the result of a proto
+SOV word order, which reflects the fact that Kru is part of the Niger-Congo language family
+(Marchese 1986:23). This is supported by Koopman's (1984) analysis of verb-raising as
+described above.",[153]
+"        Unlike auxiliaries, particles do not cause a change in word order. In (128), there is a
+negative particle with a VO word order. This is the main way particles are distinguished from
+auxiliaries in Kru languages: they do not cause a change in word order, while auxiliaries do
+(Marchese 1986).",[111]
+"3.2.1.3.1 Wh-movement in Siamou? No
+In many languages, wh-words raise to a higher position, leaving behind a trace (28a). Siamou,
+however, has wh-words in situ (28b). Raising is ungrammatical (28c). Instead, an utterance like
+(28c), without the trace, has a different interpretation, since the subject and object have inverted.",[146]
+"
+66
+   In Siamou I argue for an S Part OV word order. However, since Siamou does not contrast auxiliaries and particles
+like other Kru languages, this is essentially the same thing as saying it has an S Aux OV word order.",[111]
+"
+3.2.1.2 Siamou Is Consistently Head-Final
+In Siamou, sentences always have surface SOV word order, as shown in (21) above. In fact, all
+lexical heads in Siamou follow their complements. This is true for verb phrases (24a), noun
+phrases (24b) and postpositional phrases (24c).9524.      a.       DP       V         [le]    [dì]
+                                     food eat
+                                     eat food94
+   For simpilicity, the diagram in (23) leaves out the aspectual inflection of the verb dì and uses only the bare verb
+form di. Later in 3.2.1.4 I show the structure of the aspect phrase as well.
+95
+   I do not have any data to show the order of adjective phrases. It may be that Siamou does not have transitive
+adjectives.",[144]
+"In Siamou, however, the passive is not morphologically marked in any way. Rather, if a
+transitive verb has no object, it is interpreted as passive. An active Siamou sentence is given in
+(31a) and its corresponding passive in (31b). The object le ('food') from (31a) is raised to subject
+position in (31b).31.    a.      Active:          À       ri     le     dì-ɲɛ̀n.
+                                3SG FIN        food eat.STAT
+                                He ate (food).
+                                French: Il a mangé de la nourriture. (C)       b.      'Passive'        Let    ri     t       dì-ɲɛ̀n.
+                                food FIN              eat-STAT
+                                Food was eaten.
+                                French: Une nourriture a été mangé. (C)
+                                                                                                 126
+3.2.1.4 The Structure of Aspect in Siamou Following Anti-Symmetry (Kayne 1994)
+For Kayne (1994), anything that looks like SOV is really just SVO in disguise. Since Siamou has
+many properties of SOV languages, including, of course, SOV word order, Kayne (1994)
+predicts that these structures must all be derived by leftward movement (even though leftward
+movement in Siamou is not very pervasive). If we adopt Kayne's (1994) analysis, this has
+implications for the structure of the Siamou aspect phrase, as I explain below.
+        In Siamou, aspect follows its VP complement as a verbal suffix (VP-Asp), as shown in
+(32). The aspect head -ɲɛ̀n (STAT) is given in brackets, preceded by the verb phrase (le dì). The
+rest of the clause that is not part of the aspect phrase is in parentheses.","[148, 149]"
+"2.5.1. Characteristics of Kru Languages
+Kru languages have an S Aux OV word order66, and sometimes an S (Part) VO word order
+(2.5.1.1). They are also characterized by complex tone systems (2.5.1.2) and a basic aspectual
+contrast of perfective and imperfective (2.5.1.3).",[111]
+"Siamou differs from other Kru languages in that sentences with copulas do not have the order
+subject-NP Copula predicate-NP, but rather subject-NP Particle predicate-NP Copula (53).",[155]
+"3.2.2.1 Kru Has Surface VO and OV Word Order
+Kru languages are predominantly SVO (34a), except when there is an auxiliary, in which case
+the order is S (Aux) OV (34b) (Marchese 1986:19–23).34.    a.      language: Wobé (from Marchese 1986:21)               ɔ̄      pō-ɛ̄           gbu᷅.
+               he      build-DEC       house
+               S       V               O
+               He built a house.       b.      language: Dewoin (from Marchese 1986:22)               ɔ̄      nà      sāyɛ̀   pī.
+               he      PERF    meat    cook
+               S       AUX     O       V
+               He has cooked meat.",[150]
+"3.2.2.2 Siamou Only Has Surface OV
+The crucial difference between Siamou and other Kru languages is that Siamou has exclusive
+SOV word order (45). There is no alternation between SVO and SOV as there is in other Kru
+languages.",[153]
+"
+                                                                                               131
+45.    a.      Ń       (ni)    le              dì.            (SOV)
+               1SG FIN         food            eat.PRFV
+               I eat food.       b.      *Ń   (ni)       dì              le.            (*SVO)
+                1SG FIN        eat.PRFV        foodUnlike the general Kru pattern, Siamou makes no distinction between particles and auxiliaries:
+the word order is consistently SOV. However, most clauses have some kind of particle, often ri,
+in second position. Perhaps further study will reveal that these particles are actually auxiliaries
+similar to those in other Kru languages, and that they occur in all clauses, even though they may
+not always be overt. This would mean that the INFL position is always filled and there is never
+any cause for a change in word order because the verb never has to raise.
+       Section 3.2.1.2 discussed some SOV and SVO characteristics of Siamou as it related to
+anti-symmetry. Here I look at some of these characteristics again, making a direct comparison
+with the examples for Kru in 3.2.2.1.
+       First I look at SOV characteristics. In Siamou enclitics and suffixes are predominant:
+plurals are marked with an enclitic (46), and stative aspect is marked with a suffix (46b).46.    a.      lu=ì
+               wife=PL
+               wives       b.      dì-ɲɛ̀n
+               eat-STAT
+               have eatenSecond, possessives precede the noun they modify (47).47.    mún             tɔ=ɔ̂
+       1SG.EMPH        father=DEF2
+       my fatherThird, Siamou has postpositions rather than prepositions (48).48.    mún             wɔ́se
+       1SG.EMPH        with
+       with meFourth, Siamou has OV word order in compounds (49).","[153, 154]"
+"Another SVO characteristic is that sentences with copulas have the order subject-NP Copula
+predicate-NP, as in (43).43.    language: Godié (from Marchese 1986:21)       NPSUBJ COP     NPPRED
+       ɔ̄      gʉ̀lʉ̀ mōkōsíyī
+       he      be     Mossi.child
+       He is a Mossi.",[153]
+"Table 2.20 Aspectual Tone Melodies
+Tone Melodies with Verbs with Aspectual Suffixes
+H                ✔            -
+L                ✔           ✔
+M                ✔           ✔
+M(!H)            ✔           -
+M(L)             ✔           -
+HL               ✔           ✔
+H!H              ✔           -
+M!HL             ✔           -
+2.3 Basic Syntax
+In this section, I cover general syntactic information about Siamou in order to provide a frame of
+reference for the topics discussed in later chapters. Section 2.3.1 is about Siamou word order,
+2.3.2 is about the ordering of lexical heads, and 2.3.3 and 2.3.4 are about the extended nominal
+and extended verbal projections, respectively.",[58]
+"
+                                                                                                   128
+35.    language: Dewoin (from Marchese 1986:168)       a.      ɔ                      pi      sayɛ̀.                affirmative
+               he                     cook    meat
+               He cooked meat
+       b.      ɔ      se              sayɛ̀   pi.                   negative (with AUX)
+               he     NEG.AUX         meat    cook
+               He didn't cook meatThis is not what happens with the negative particle ní. In (36a), the affirmative clause has SVO
+word order, and the negative clause in (36b) has S (Part) VO word order. There is no change in
+the ordering of the verb and the object.36.    language: Dewoin (from Marchese 1986:168)       a.      ɔ-ɔ                            na    tawa.           affirmative
+               he-IMPF                        drink tobacco
+               He smokes.       b.      ɔ-ɔ           ní               na    tawa.           negative (with PART)
+               he-IMPF       NEG.PART         drink tobacco
+               He doesn't smoke.","[150, 151]"
+"According to Kayne (1994), OV word order is always derived. That is to say, (21a) cannot have
+the structure in (22) because this has the order complement-head, which is not allowed.",[143]
+"
+                                                                                                      16
+2. Grammatical Sketch of Siamou
+The goal of this chapter is to provide an overview of the Siamou language. I begin with the
+phoneme inventory in 2.1. In 2.2, I introduce the tone inventory. Section 2.3 covers some
+syntactic information, such as basic word order, and the structure of nominal and verbal
+projections. Section 2.4 provides background information on Siamou, including demographic
+and cultural information as well as a review of the literature on Siamou. Section 2.5 is about how
+Siamou fits into the Kru language family, and section 2.6 concludes. Much of the information in
+this chapter, except where otherwise specified, has not been presented before and is intended to
+be a contribution to language documentation.","[38, 39]"
+"3.2.1.3 Is There Evidence for Leftward Movement in Siamou?
+This section explores three situations where movement commonly occurs cross-linguistically:
+wh-questions, relative clauses and the formation of passives. (See Adger 2003.) Although this is
+not the same type of movement as the verb-raising in anti-symmetry, we might expect that if a
+language uses movement as a common strategy, it would be more likely to use movement to
+derive its surface SOV word order. It turns out that Siamou does not use movement as a strategy
+in wh-questions (3.2.1.3.1) or relative clauses (3.2.1.3.2), but it does in passives (3.2.1.3.3).",[146]
+"                                                                                                       95
+2.5.3 Siamou Is an Outlier Relative to Other Kru Languages
+Of the 39 Kru languages, most fit into two branches: a western branch (23 languages) and an
+eastern branch (11 languages). Of the remaining five languages, three belong to the Aiza group,
+spoken in Ivory Coast. Two languages, Kuwaa and Siamou, do not belong to any subgroup
+(Marchese 1983, Lewis et al. 2013).
+       This means that we expect Siamou not to show stronger similarity to Western Kru
+languages than to Eastern Kru languages, nor the other way around. It may have some properties
+that resemble Western Kru languages, some that resemble Eastern Kru languages, and some
+properties that are distinct from both. Chapter 3 looks at how Siamou perfective and imperfective
+aspect compare with these aspects in Kru. I argue that the Siamou perfective is a L tone suffix.
+However, in surface form, sometimes the L tone surfaces, and sometimes it does not. In Kru, the
+general pattern is that the Western branch has an unmarked perfective and the Eastern branch has
+a L tone perfective. Thus, the surface forms of Siamou perfectives sometimes resemble Western
+Kru perfectives and sometimes resemble Eastern Kru perfectives. Siamou differs from both
+Western and Eastern Kru languages, however, in the formation of negative perfectives. In the
+other languages, negating a perfective structure with a negative auxiliary causes a change in
+word order from VO to OV. In Siamou, the word order is always OV, and there is no change in
+word order when perfectives are negated.","[117, 118]"
+"       The examples above show that Siamou has the same SOV characteristics as other Kru
+languages. In addition, unlike the common Kru pattern, Siamou has consistent SOV word order.
+       Siamou also has SVO characteristics similar to other Kru languages. This includes
+modifiers that follow their head. In (51a), the head noun lɔ ('house') is followed by the adjective
+sɔ́ɔ ('big'). In (51b), the adverb gbângbâr ('always') follows the verb leè-n ('eat-IMPF').51.    a.       lɔ́    sɔ́ɔ
+                house big
+                big house       b.       Ń      ni       múkal          leè-n           gbângbâr.
+                1SG FIN         tô             eat-IMPF        always
+                I always eat tô (corn porridge).",[155]
+"3.2.1 Siamou and Kayne's Conjecture
+This section has three subparts. Section 3.2.1.1 briefly explains the theory of anti-symmetry.
+Section 3.2.1.2 shows that Siamou has consistent surface SOV (i.e. complement-head) word
+order. In anti-symmetry theory, Siamou's SOV word order must be derived by raising. In this
+case, we might expect to find other instances of raising in Siamou syntax. I look for evidence this
+in 3.2.1.3, with mixed results. Finally, 3.2.1.4 presents two possible structures of the Siamou
+aspect phrase, and shows which one Kayne's (1994) theory predicts to be correct.",[142]
+"        Siamou differs from the other Kru languages in that it does not make use of different
+negation strategies to differentiate between perfective and imperfective clauses. Instead, both are
+negated with a clause final particle, bo.119 In fact, Siamou does not distinguish at all between
+second-position particles and auxiliaries like Kru does. The word order is always S (Part) O V.
+The only difference between (79a) and (79b) is the actual form of the verb. There is no
+auxiliary/particle alternation and no change in word order.79.     a.       À      ri             le           dì                bo.
+                 S      PART           O            V                 PART
+                 3SG FIN               food         eat.PRFV          NEG
+                 S/he didn't eat food.        b.       À      ri               le       leè-n               bo.
+                 S      PART             O        V                   PART
+                 3SG FIN                 food eat-IMPF                NEG
+                 S/he [doesn't eat]/[isn't eating] food.",[179]
+"
+3.2.2.3 The Structure of Aspect in Siamou Following Kru (Koopman 1984, Marchese 1986)
+It appears that Siamou is even more strongly SOV than other Kru languages. Not only does it
+have exclusive SOV word order, it also does not have some SVO characteristics that the other
+Kru languages have. If Kru is underlyingly SOV, as argued by Koopman (1984) and Marchese
+(1986), then Siamou would certainly be underlyingly SOV. According to this argumentation, the
+best representation of aspect is not (54a), as Kayne's (1994) theory of anti-symmetry would
+require, but (54b) in which the verb phrase is head final, and aspect adjoins to the right edge of
+the verb phrase. In this case, no movement is required because this is exactly the surface order.54.    a.                                            b.",[156]
+"The particle may be one (or more) of seven, which are introduced in 2.3.4.2. The default particle
+seems to be ri, which may be simply a marker of finiteness. This particle is often dropped in
+casual speech, resulting in an SOV word order (28).",[59]
+"         To summarize, Siamou has some properties consistent with SOV languages, including
+SOV word order, complement-head ordering of lexical heads and some functional heads, and a
+preference for suffixes over prefixes. It also has a few properties consistent with SVO languages,
+including head-complement ordering of some functional heads, and modifiers that follow their
+heads. See 3.2.2.1 for more discussion of SOV and SVO properties.
+         Kayne (1994) would lead us to predict that all of the above structures that are head-initial
+are un-derived, and all the ones that are head-final are derived by leftward movement. In the next
+section, I look for independent evidence of leftward movement in Siamou.",[146]
+"1.3.1 The Grammatical Sketch
+Chapter 2 provides background information about Siamou grammar and a brief description of
+Siamou's phonology, including the inventory of consonants and vowels, syllable structure, and
+tone. This chapter also surveys Siamou syntax, with information about basic word order (SOV),
+and some detail about the nominal projection and the verbal projection. The discussion of the
+nominal projection covers pronouns, modifiers, plurality, definiteness, possession and
+nominalized verbs. The discussion of the verbal projection focuses on functional particles,
+                                                                                                    11
+including a left-edge quotative particle, seven pre-predicate particles, and four right-edge
+particles, concluding with a brief description of verb stems. The final portion of this chapter is a
+short introduction to the Kru language family that shows how Siamou fits in. Siamou is an
+outlier among the Kru languages both geographically and genetically. This chapter is important
+because information about Siamou grammar is scarce and difficult to access. This is the first time
+some of this information has been made available. It is also an important tool for understanding
+this thesis. The remaining chapters focus on issues pertaining to tense and aspect. The
+background provided in this chapter is intended to make the data in the following chapters more
+comprehensible.","[33, 34]"
+"
+                                                                                                129
+38.        language: Godié (from Marchese 1986:17)           POSS    N
+           ná    ɓùtū
+           my    house
+           my houseThird, Kru languages have postpositions rather than prepositions (39).39.        language: Vata (from Marchese 1986:18)           N       P
+           kɔlá mlé
+           forest in
+           in the forestFourth, Kru languages have OV word order in compounds (40).40.        language Aīzi (from Marchese 1986:19)           O       V
+           kɔsɔ -go      -nyɔ
+           chicken-raise -person
+           chicken farmerFinally, Kru languages have a sentence-final polar question particle or suffix (41).
+41.        language: Neyo (from Marchese 1986:22)96           ò       ko      dè      a?
+           he      is      there   Q
+           Is he there?","[151, 152]"
+"
+                                                                                                 397
+8.4 What Siamou Teaches Us About Word Order
+       This dissertation makes claims about the syntax of the Siamou aspect phrase. Siamou
+aspect is right-headed and it is divided two levels: an upper aspect phrase containing completive,
+stative, prospective 1 and prospective 2, and a lower aspect phrase containing perfective and
+imperfective. These heads correspond to Liao's (2005) ""temporal aspect"" and ""viewpoint aspect.""
+       There are many unresolved issues regarding the syntax of the extended verbal projection
+as presented in 2.3.4 and repeated in (40). In particular, the relative ordering of the pre-predicate
+particles and the right-edge particles has not been clearly mapped out. Additionally, the location
+of the subject in the Siamou phrase has not been determined.","[419, 420]"
+"3.3.2.4 A (Possible) Argument from Auxiliation
+Languages sometimes use auxiliary verbs to allow more than one kind of aspect in a clause. For
+example, in English, the auxiliary have (+past participle) introduces perfect aspect and the
+auxiliary be (+present participle) introduces progressive aspect. These aspects can stack, as
+shown with the perfect progressive sentence in (64a). However, it is not possible for these
+aspects to stack on the same verb, as evidenced by the utterance in (64b) which attempts to stack
+the past and present participial forms of the verb think.64.      a.       He has been thinking.
+         b.       * He is thinking-ed         If we only looked at (64b), we might conclude that English does not allow aspect
+stacking either, but that is clearly not true (see Cinque 1999). It just does not allow stacking on
+the same verb. There is some evidence that this may be the case in Siamou as well. The utterance
+in (65) expresses both prospective aspect and imperfective aspect. In order to accommodate both,
+the utterance uses the verb tɛŋn ('be/become') with prospective aspect morphology. Imperfective
+aspect is marked with an imperfective nominal táaŋn that is the subject of the verb.",[167]
+"                                                                                                                  175
+       Along with truth conditions, felicity conditions are an important component of the
+meaning of an utterance. Felicity conditions are the facts about a situation that are required in
+order for an utterance to be judged appropriate in that situation. Sometimes the structure of a
+sentence affects its felicity conditions (Austin 1975, Matthewson 2004). For example, (8a) and
+(8b) have different structures. The sentence in (8b) is a clefted version of (8a), where the subject
+(your mom) is moved and put in focus.8.     a.      Your mom answered the phone.
+       b.      It was your mom who answered the phone.","[197, 198]"
+"Table 2.21 Emphatic Pronouns
+                Singular                    Plural
+                Form Tone Melody            Form     Tone Melody
+First Person    mún     H                   ŋmɛ́ɛn   H!H
+Second Person ákún H-H                      yíkun    H-M
+Third Person àkun L-M                       yìkun    L-M
+                                                                                                    39
+Table 2.22 Regular Pronouns
+                 Singular                           Plural
+                 Form Tone Melody                   Form Tone Melody
+First Person     ń      H                           n̂     HL
+Second Person á         H                           yíi    H!H
+Third Person à          L                           yì     L         These pronouns do not inflect for grammatical function, so the same form is used in
+subject and object position, as well as postpositional object position. In (33), I show the first
+person singular pronoun ń in subject position (33a), in object position (33b) and as the object of a
+preposition (33c). It has the same form in all positions.33.      a.       Ń       ni     kar                   ŋmɔ́n.
+                  1SG FIN        scorpion              see.PRFV
+                  I saw a scorpion.         b.       À-ni          jɔ=ɔ̂    ri ń       fɛ́ŋn       dé   Ye-Lɔ́e.22
+                  DEF1-DEM      guy=DEF2 FIN 1SG call.PRFV      QUOT Ye-Lóe
+                  That man called me ""Ye-Lóe.""
+                  French: Cet homme m’a appelé que ""Ye-Lóe"" (C)         c.       Jir           à      kɛl-ɲɛ̀n        ń                  se.
+                  someone      3SG talk-STAT           1SG                to
+                  Someone already spoke to me about it.
+                  French: Quelqu'un m'a déjà parlé. (C)         The second person singular pronoun, á, also functions as a third person singular reflexive
+pronoun and logophor. In (34), I show á as a second person pronoun (34a), a reflexive (34b) and
+a logophor (34c).34.      a.       Á      dòn-ɲɛ̀n       Tòl            ín       a?
+                  2SG go-STAT           Orodara        PST      Q
+                  Were you in Orodara?/Had you gone to Orodara?
+                  French: Tu était à Orodara?/ Est-ce que tu était parti à Orodara? (C)
+22
+  Yo-Lɔ́e is my Siamou name. The first part Ye is a birth order name referring to the first daughter of a woman. It
+also means 'sun' or 'day.' The second part Lɔ́ means 'white.' The -e suffix occurs in specific contexts such as when
+calling someone. Otherwise it is Ye-Lón. The reason I was not simply called Ye was that I was living with Lillian
+who was also the oldest daughter. She was called Ye-Kpɛ̀ŋl ('red Ye'). I was told that the colours usually refer to the
+time of day the person was born.","[61, 62]"
+"Table 2.28 Kru (Plawi) Plurals according to Person (1966)
+Singular Noun Plural Noun          Gloss
+gba              gbwe              woman
+bile             bili              cow
+nabo             nae('l')          man
+popo             popwe             butterfly
+bo               bɔe               foot
+bwe              bwi               dog
+Other similarities between Siamou and other Kru languages include a number of grammatical
+morphemes that appear to be cognates (such as the negative particle bo in Siamou and the
+negative particle be in Grebo), and word order, both in the verbal and nominal domains. Person
+(1966) also gives a historical explanation for the geographical distance between Siamou and the
+other Kru languages, arguing that Kru languages were originally spoken further north than they
+are now, in Ivory Coast and Liberia, until the Mandé and the Maninka pushed them out. Most of
+them moved south, except for the Siamou, who fled north into Burkina Faso (Person 1966).",[101]
+"       My goal in the next chapter is to establish the truth and felicity conditions for two Siamou
+morphemes: the low tone suffix that I have been calling perfective aspect, and the -n suffix that I
+hav been calling imperfective aspect, and to see how closely they match commonly accepted
+truth and felicity conditions for perfectives and imperfectives. In a language, when a certain
+phonological form regularly occurs in an utterance in conjunction with a consistent meaning or
+set of meanings, we associate that form with the meaning(s) accompanying it. We like to give the
+form some kind of name or label to identify it. Since similar sets of meanings occur in many
+different languages, if the interpretation of a particular form in one language is similar to one that
+occurs in one or more other languages, it is useful, for the sake of cross-linguistic comparison, to
+give them the same name. Therefore, I will test whether or not the Siamou low tone suffix fits
+the general definition for perfective aspect, and whether or not the Siamou -n suffix fits the
+general definition for imperfective aspect. I will also determine how closely the meanings
+associated with these forms match meanings associated with other forms with the same label in
+other languages. If the Siamou forms have meanings similar to forms in other languages that are
+called perfective or imperfective, it is sensible to give the Siamou forms the same name. This is
+not to say they are equivalent, but they have some basic features in common.
+       In order to reach the goal of establishing truth and felicity conditions, we need a way of
+formalizing concepts so that a language can be examined systematically. This is the purpose of a
+theoretical framework. It provides a vocabulary and allows us to define the terms perfective and
+imperfective. Using these definitions, we can make predictions about the behaviour of these
+forms, and then test these predictions by eliciting utterances, along with truth and felicity
+judgments, from native speakers of a language. These tests are called diagnostics. Over the next
+few pages, I discuss the theoretical framework that I adopt for my analysis of the Siamou verb
+forms that correspond to the perfective and imperfective.
+       Perfective and imperfective aspect both belong to the category of grammatical aspect.
+However, their deployment is sensitive to the lexical properties of the verbs that they combine
+                                                                                                  177
+with. Therefore, in order to understand the perfective and imperfective, which are instances of
+grammatical aspect, we need to consider how lexical aspect interacts with grammatical aspect. In
+the following two subsections, I look first at two theories of grammatical aspect (4.2.1) and then
+at lexical aspect (4.2.2).","[199, 200]"
+"1.3.2 The Morpho-Phonology and Morpho-Syntax of Aspect in Siamou
+Chapter 3 hones in on aspect. Siamou has a set of six aspectual morphemes that are all verbal
+suffixes. These suffixes are partitioned into three inflectional tone classes: a low tone class,
+which includes perfective (marked by a low tone suffix -L), completive -è, and stative -ɲɛ̀n; a
+mid tone class, which includes imperfective -n and prospective aspect 1 -a; and a high-low tone
+class, which includes prospective aspect 2 -bɛ̂. There are two possible analyses for the morpho-
+syntax of Siamou aspect. The first, following Kayne's (1994) anti-symmetry theory, is that
+Siamou has an underlying VO word order and that the verb rises to a higher aspect position
+while the object rises to an even higher position. The second possibility, which is supported by
+data from the Kru language family, and which I adopt, is that the underlying word order is OV
+and that the aspectual suffix attaches to the verb via right-alignment.
+       Regarding the internal structure of the aspect phrase, data from Siamou is consistent with
+an independently motivated structure (Tenny 2000, Liao 2005) in which the aspect phrase is
+divided into a lower aspect head and a higher aspect head. In Siamou, the lower head contains
+perfective and imperfective aspect, and the higher head contains the remaining aspects:
+completive -è, stative -ɲɛ̀n, prospective aspect 1 -a, and prospective aspect 2 -bɛ̂. Although I
+have not analyzed the completive and stative suffixes, preliminary results indicate that they both
+resemble perfects in some ways, which means that they fit into the category of grammatical
+aspect. The perfective -L and the imperfective -n differ from the other aspect suffixes in that they
+have less phonological content, and in that they have morphological irregularities, which the
+other suffixes do not. If there are two levels of aspect, stacking is predicted to occur. Siamou                                                                                                   12
+does not allow stacking of aspectual suffixes on a single verb. However, it appears that stacking
+may occur in complex structures that involve an auxiliary verb and a nominal form.
+        This chapter also contains a comparison of Siamou perfective and imperfective aspect
+with perfective and imperfective aspect in Kru, the language family to which Siamou belongs.
+Siamou perfectives and imperfectives are similar in many ways to Kru perfectives and
+imperfectives, including elements such as tone and segmental form. However, while Kru negates
+perfectives differently than imperfectives, Siamou negates all finite phrases the same way. The
+final part of this chapter contains an appendix that gives a detailed description of irregular verb
+forms. This chapter is important because it identifies many of the morphemes that are the focus
+of the following chapters, in particular the perfective and imperfective. Since these aspectual
+suffixes are marked mainly suprasegmentally by tone, they are not easy to pick out in a phrase.
+This chapter is the net that catches the butterflies I wish to study.","[34, 35]"
+"                                                                                                                   336
+such that in order to finish my dissertation, I have to work on it. The ordering source determines
+which of the worlds in the modal base best match my desires. By combining the worlds
+accessible from the modal base and the worlds accessible from the ordering source, we end up
+with two types of worlds: worlds in which I never work on my dissertation and never finish it,
+and worlds in which I work on my dissertation and finish it. My desire to finish my dissertation
+outweighs my desire to never work on it. Therefore I can truthfully utter (19). The ordering
+source discussed here (having to do with desires) is called a bouletic ordering source. See
+Kratzer (1991) for more examples of ordering sources.","[358, 359]"
+"4.1.1 Ordering Speech Time, Reference Time, and Event Time (Reichenbach 1947)
+Reichenbach (1947) defines tense as an ordering relation between three time intervals: speech
+time (S), event time (E), and reference time (R). These are defined in (1).1.       a.     Speech time: time at which an utterance is made
+         b.     Event time: time at which the situation described by the utterance takes place
+         c.     Reference time: time about which an utterance makes a claimBefore Reichenbach (1947), it might have been supposed that tense only ordered two time
+intervals: the speech time (S), and the event time (E). If this were so, then past tense would order
+the event time before the speech time, present tense would have the two overlap, and future tense
+would order the event time after the speech time. These ordering relations are shown in Table
+4.1. In the notation for this table, and in following tables, a comma (,) between two time intervals
+indicates overlap. A hyphen (-) indicates that the time interval on the left precedes that on the
+right.",[191]
+"In this case, the modal base contains propositions that have to do with real-world facts: for
+example, I am a graduate student. Graduate students write dissertations in order to graduate.
+Finishing a dissertation requires working on it. These facts are all consistent with each other. The
+ordering source in this case consists of the set of propositions expressed by the phrase what I
+want. I have two relevant desires: I want to finish my dissertation, but I also want to never work
+on it. The propositions in the modal base (the facts about the world) are not inconsistent with
+each other. Nor are my desires inconsistent with each other. It is only when we try to combine
+the worlds picked out by the modal base (i.e. the factual worlds) with the worlds picked out by
+the ordering source (i.e. the worlds in which I get what I want) that we encounter inconsistencies.
+Unfortunately, there are no worlds in which I can have everything I want because the world is
+260
+    If there is a non-empty modal base, the ordering source ranks a subset of the worlds picked out by the modal
+base.
+261
+    This is what is meant when it is said that a modal base or an ordering source is ""empty."" If it's empty, that means
+it doesn't restrict the set of worlds.",[358]
+"2.4.3.7 Linguistic Identity
+Siamou speakers are proud of their language, and they are thrilled when foreigners take an
+interest in learning Siamou rather than the trade language, Jula, which is more widely spoken.
+They took special care to teach me ""real"" Siamou words, and remarked happily when I used the                                                                                                    88
+Siamou word for bicycle, instead of the Jula word, even though they themselves might freely use
+the Jula word.","[110, 111]"

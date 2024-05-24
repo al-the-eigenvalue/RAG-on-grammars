@@ -1,0 +1,2218 @@
+Paragraph,Page number
+"
+8.1.6 Word order and pragmatic status
+As can be concluded from Tables 45, 48 and 49 above, the order of predicates and
+their arguments in Yurakaré is fairly flexible. This is directly connected to the fact
+that all grammatical relations are marked either on the verb or by postpositions on
+the dependent noun phrase. This flexibility of word order makes it rather difficult
+to come up with a basic word order.
+  Nevertheless, overtly expressed subjects (both S and A 8) seem to have a clear
+preference for the postverbal position. Occurrences of preverbal subjects can often
+be explained in terms of special pragmatic status, whereas overtly expressed
+pragmatically neutral subjects are generally found in postverbal position.
+Preverbal subjects are almost invariably emphatic topics, though not every
+marked topic ends up before the verb. Givón (2001b:253‐269) mentions a number
+of cross‐linguistically found marked topics and discusses the morphosyntax
+associated with these. What Givón calls ‘existential‐presentative constructions’,
+8I take A here to mean subjects of all two‐ and three‐place predicates, including extended
+intransitives and extended transitives.",[293]
+"
+                                             267
+A grammar of Yurakaré
+Predicates with a valence of one can be divided into intransitive verbs and non‐
+verbal predicates. These two categories are not formally distinct. Still, I consider
+them to be separate categories, since with regard to non‐verbal predications, it is
+often difficult to say what is the word order exactly, VS or SV. This is because it is
+not always clear which of the two elements is the predicate and which the
+argument, hence the high percentage of unanalyzable non‐verbal predicates in
+Table 45. As Payne (1997:83) says: “(…) the probability of mistakenly including
+predicate nominals in a study of constituent order is quite high (especially if the
+language uses a zero copula element in predicate nominals).” Predicates with a
+valency of two can be divided into inherently transitive and derived transitive
+predicates, or extended intransitives. It is useful to distinguish these two, since, as
+will become apparent below, they behave differently in some respects.
+  In the remainder of this section I will discuss the types of predicates mentioned
+in Table 45: intransitive verbs (8.1.1), transitive verbs (8.1.3), extended intransitive
+verbs (8.1.4), ditransitive verbs (8.1.5), and non‐verbal predicates (8.1.2). In 8.1.6, I
+will discuss word order from an overall perspective; in 8.1.7, finally I will briefly
+discuss interrogative and negative sentences.","[282, 283]"
+"                                               280
+The clause
+      d      ati   pëpësu     ma‐mala‐jti‐ø=se
+             DEM Pëpësu       3PL‐go.SG‐HAB‐3=SE
+             ‘It was Pëpësu who used to take them [i.e. persons] with him!’      e      aysa aysa=ja      at   aysa=ja      ka‐la‐puchu‐ø=ti
+             aysa aysa=EMPH DEM aysa=EMPH 3SG‐AFO‐escape‐3=DS
+             ‘And Aysa was the one who escaped him.’      f      ati=ja       tajta‐ø  ëshshë=la itta     tulujshi=la katcha=la
+             DEM=EMPH     cut‐3    stone=INS thing wax=INS         ax=INS
+             ‘He was the one who cut him with a stone and with wax and an ax!’ (OR‐19MA‐9)This text fragment, consisting of sequential utterances, is taken from a narrative in
+which the speaker mixes up the main characters of the story and then finds out
+about her mistake. She then continues to set things straight by explicitly stating
+the roles that the main characters have. The subjects of (22)d‐f are pre‐verbal and
+in contrastive focus.
+  In general, then, we can say that VS is the pragmatically more neutral order;
+preposing a subject gives some kind of emphasis to it. The fact that the pre‐verbal
+position is pragmatically marked is corroborated by the fact that question words
+are always sentence‐initial, regardless of their semantic or syntactic role (more
+discussion on questions in the next section):(23) a       të‐pshë         li‐tütü‐ø     na     ashaa=chi              (subject)
+             what‐entity     DEL‐sit;be‐3 DEM     above=DIR
+             ‘What is lying above?’ (FA‐6MA‐5)
+      b      ama     a‐bëshë           ka‐n‐tëptë‐m                      (direct object)
+             WH      3SG.P‐clothing    3SG‐IO‐wash‐2SG.S
+             ‘Whose clothes are you washing?’ [MH‐24MA‐8]
+      c      ama     ka‐n‐tëptë‐m=chi                                    (indirect object)
+             WH      3SG‐IO‐wash‐2SG.S=IGN
+             ‘Who are you washing for?’ [VL‐24MA‐13]  As far as the position of objects is concerned, no clear preference for pre‐ or
+postverbal position can be given in terms of frequency. Preverbal and postverbal
+objects (O as well as E) occur in about equal proportions.
+  Typological research in the past decades has revealed some rather strong
+correlations between sentence word order and the order of words in other
+constructions. In Table 50 I give Greenberg’s (1963) list, taken from Payne
+(1997:72):
+                                              281
+A grammar of Yurakaré
+    Table 50 - Word order correlations in Greenberg 1963, taken from Payne 1997:72
+  Parameter                      Correlation                             Yurakaré
+  main clauses                   V‐O                 O‐V                 both
+  adpositions                    prepositions        postpositions       postpositions
+  nominal possession             Psd‐Psr             Psr‐Psd             Psr‐Psd (Psd‐Psr)
+  head noun and modifier         N‐M                 M‐N                 both
+  rel clauses & head noun        N‐RelCl             RelCl‐N             N‐RelCl (RelCl‐N)
+  comparatives                   Adj‐Mkr‐Std         Std‐Mkr‐Adj         Std‐Mkr‐Adj
+  inflected auxiliaries          Aux‐V               V‐Aux               both
+  question particles             sentence initial    sentence final      dna
+  question words                 sentence initial    sentence            sentence initial
+                                                     initial/elsewhere
+  affixes                        prefixes            suffixes            both
+Table 50 shows that Yurakaré has a slight tendency to correlate with the O‐V type.
+Nevertheless, these correlations are not very convincing and can never be
+evidence in themselves for a basic order.
+  Generally, preverbal objects are pragmatically marked as well:(24) a      bëshë yurujare‐tu         bëshë     a‐mumuy bëshë         kamba‐tu         ma‐mmuy
+            entity yurakare‐1PL.S entity        3SG.P‐all   entity    Camba‐1PL.S 3PL‐all
+            tuwa       ta‐tebe        bëshë     emme
+            1PL.PRN 1PL‐benefit entity          meat
+            ‘We, the Yurakaré, the Camba’s, all of them (animals) their meat was for us.’
+     b      ati a‐mumuy lë‐peshë‐ø                winani‐ø ushta        ta‐buyta tiri
+            DEM 3SG.P‐all      DEL‐transform‐3 walk‐3         before    1PL‐chief Tiri
+            ‘All of that our chief Tiri transformed before.’ (both: OR‐19MA‐20)In (24), the narrator is telling about the mythological ancestor of the Yurakaré, Tiri,
+who used his magic to transform into jungle animals all kinds of objects and
+creatures that he encountered during his wandering, so that the Yurakaré would
+have meat. In the second line, the object ati amumuy is preposed, because it is a
+marked topic, with a deictic function, referring back to the topic of the previous
+sentence.
+  In the following fragment, the object is emphasized (stressed) and fronted in the
+final sentence of the example:
+                                               282
+The clause
+(25) F
+     tëtë‐pshë=la      ma‐itta    ma‐kema‐shta‐tu=bë=ri              piasha‐yle!
+     what‐entity=INS   3PL‐thing 3PL‐burn‐FUT‐1PL.S=MOM=EXPR.M chuchio‐leaf
+     ‘With what could we burn them? With the leaves of the chuchio!’      D
+      Chewete=la
+      jisopo=INS
+      ‘With jisopo‐wood.’      F
+      piasha itta       chewete ka‐n‐dula=ya                 ma‐kema‐n‐tu    lëshpëni
+      chuchio thing jisopo        3SG‐IO‐do;make=NVR 3PL‐burn‐INTL‐1PL.S first
+      ‘Let’s make her chuchio, ehh jisopo and burn it first.’ (FL&DV‐14MA‐1)Generally, it seems that marked objects are found in initial position. Postverbal
+objects can also refer to new and unpredictable information, but objects with extra
+emphasis (focus), whether direct or applied, are found in preverbal position. The
+fact that applied objects have a slight preference for being postverbal can be
+explained by the fact that they are usually very topical (cf. Van Gijn 2005).
+  The emphatic function of the preverbal position can also be seen in examples
+such as the following, where the object NP is discontinuous (cf. section 4.1), the
+modifier being in preverbal position, while the head noun is in postverbal
+position:(26) lëshie=w ma‐bëjta‐y       shunñe=w
+     two=PL      3PL‐see‐1SG.S man=PL
+     ‘I see two men.’ [FL‐3MA‐4]This construction gives emphasis to the quantifier, while the head noun is
+presented as a specification, or afterthought, possibly but not necessarily after a
+pause. The quantifier is also stressed.
+ Not very often both object and subject are overtly expressed. In the instances
+where this was the case, I have encountered four word orders in texts:
+                                           283
+A grammar of Yurakaré
+(27) a     tos   tos     ma‐che‐ø=ya na            pëpësu a‐ñishshë=w          (VSO)
+           IDEO IDEO     3PL‐eat‐3=NVR DEM         Pëpësu 3SG‐louse=PL
+           ‘“Tos tos” Pëpësu ate his lice.’ (AY‐3NC‐6)
+     b     ati ayma duche‐ø=ja            dula‐ø       desayuno a‐chata noe‐se (VOS)
+           DEM fire      burn:CAU‐3=SS do;make‐3 breakfast 3SG.P‐food Noah‐SE
+           ‘When he had made a fire there, Noah made breakfast.’ (OR‐20MA‐2)
+     c     pënchi samma ma‐bobo‐ø             tejte‐shama=w                    (SVO)
+           later water       3PL‐hit;kill‐3 grandmother‐PST=PL
+           ‘Later, the water killed the old women.’ (OR‐20MA‐3)
+     d     enñe          bëbë‐ø=ya        na       aysa                        (OVS)
+           sabalo.fish search‐ø=NVR DEM            Aysa
+           ‘Aysa was looking for sabalo.’ (OR‐19MA‐11)I have found no instances of SOV or OSV. The reason that these are rare seems to
+be connected to the tendency in the Yurakaré main clause for the verb to be
+preceded by only one constituent. In analyzing the first 85 clauses of a text, I have
+encountered only three instances where the verb was not in second or first place in
+the clause. All kinds of constituents can precede the verb. In (27)a two ideophonic
+particles precede the verb; in (27)b and c, two elements precede the verb. Consider
+(28), where some other elements that can precede the verb are given:(28) a     ta‐dyuluta=la danda‐tu     tuwa               (PP‐phrase)
+           1PL‐back=INS go.up‐1PL.S 1PL.PRN
+           ‘We went up by our back.’ (AY‐3NC‐6)
+     b     am=chi bata‐p=chi                             (Question word)
+           WH=DIR leave‐2PL.S=IGN
+           ‘Where are you guys going to?’ (AY‐3NC‐7)
+     c     tëbëttëbë‐sh    ma‐ssë‐ø=w=ya                 (Adverb)
+           red‐ADV         3PL‐stand,be‐3=PL=NVR
+           ‘They were standing there red (ripe).’ (AY‐3NC‐7)In almost all of the sentences that I examined in two texts, the verb was in either
+initial or second position, preceded by all kinds of elements. In some instances, the
+verb is in third place. This is also the case in the examples in (27)b and c. In these
+circumstances, the first element is always a kind of setting marker, like latijsha
+‘then’ pënchi ‘later’ ati ‘there’. These are elements that have a scope which is on the
+level of the proposition. Subordinated clauses are also often in this position, often,
+like setting words (adverbial elements setting the stage for a main event), marked
+by an intonation break:(29) ati   shuju‐ø=ja an=chi woroj~wo‐ø=ya            latiji         ana a‐jorejto=chi
+     DEM pierce‐3=SS DEM=DIR tunnel~CAU‐3=NVR subsequently DEM 3SG.P‐neck=DIR
+     ‘Piercing him on the one side, they drilled a tunnel through his neck.’ (AY‐3NC‐7)
+                                           284
+The clause
+If these subordinated sentences are not at the beginning of a proposition, they are
+at the very end:(30) kwarenta dia kwarenta noche mashi‐ø=ja tom               wita‐ø     ashaa=chi
+     forty       day forty       night rain‐3=SS      IDEO    arrive.SG above=DIR
+     noe       a‐ponton     ka‐mala‐ø=ja
+     Noah      3SG.P‐boat   3SG‐go.SG‐3=SS
+     ‘After raining 40 days and 40 nights, the water level had reached the sky when it
+     took Noah’s boat’ (OR‐20MA‐1)Subordinated clauses marked by the enclitics =ja (cf. 8.2.3) and =ti (8.2.4) have a
+different internal word‐order, generally. Overtly expressed arguments mostly
+precede the predicate in these types of clauses:(31) na     ishete buybu ka‐n‐dyuju‐ø=ti lash         achama      lëtta    dia nish
+      DEM   agouti word 3SG‐IO‐tell‐3=DS      then be.like.that one        day NEG
+      wita‐ø=ya
+      arrive.SG‐3=NVR
+      ‘When the agouti told him the news, he did not come home for a day.’ (AR‐8MI‐49)Nevertheless, sometimes elements that belong to the subordinated clause can
+appear to the right of the subordinating enclitic =ja (or =ti):(32) ku‐benemne‐ø              latiji          na   ta‐ppë           tiri bëjta‐ø=ja
+     3SG.CO‐lamentable‐3 subsequently DEM 1PL‐grandfather Tiri see‐3=SS
+     na      ishete     tejte
+     DEM     agouti grandmother
+     ‘Then Tiri felt sorry for the old agouti when he saw her.’ (AR‐8MI‐47)Leaving aside subordinated clauses, the data suggest that Yurakaré main clause
+structure is V‐initial, with two positions before the verb, one position for setting
+words, followed by an emphasis position, then followed by the verb. If we look at
+how the elements after the verb are ordered, there is not a clear pattern, but
+generally the most topical, known information is found rightmost. Adverbs and
+adjuncts can intervene; adverbs related to the event are generally adjacent to the
+verb, either to the left or to the right (cf. section 6.5.9 above). The following is a
+continuous text fragment from the beginning of a text:
+                                           285
+A grammar of Yurakaré
+(33) a   tütü‐ø=ya        shinama ati aysa
+         sit;be‐3=NVR before        DEM Aysa
+         ‘There was this Aysa once.’
+     b   mala‐jti‐ø=ya        arroyo=la
+         go.SG‐HAB‐3=NVR creek=INS
+         ‘He used to walk along the creek.’
+     c   bali‐jti‐ø=ya        pëpë‐shama=w        lacha arroyo=la
+         go.PL‐HAB‐3=NVR grandfather‐PST=PL too            creek=INS
+         ‘Our ancestors also used to walk along the creek.’
+     d   achu         ajuyja‐ni‐ø=w=ti latijsha pëpësu=ja            ma‐y‐otto‐ø=ya
+         like.that    fish‐INTL‐3=PL=DS then      Pëpësu=EMPH        3PL‐PO‐go.out‐3=NVR
+         ‘When they went fishing like that, Pëpësu appeared in front of them.’
+                                                   10     e   ana‐ja‐l‐ima           ka‐mala‐jti‐ø=ya         a‐werta         na   pëpësu
+         DEM‐MEA‐AMP‐COL        3SG‐go.SG‐HAB‐3=NVR      3SG.P‐basket DEM Pëpësu
+         ‘He carried with him a very small basket, this Pëpësu.’ (AY‐3NC‐6)Clause (33)a of the fragment is an existential‐presentative construction. The
+subject, as expected, is in postverbal position. The adverb shinama generally
+appears right after the verb. In (33)b the main new information in the form of an
+adjunct is postverbal. The same adjunct in (33)c is the final element and old
+information. The new information is the combination pëpëshamaw lacha, which
+comes before the old information. In (33)d, the subordinate clause is preposed,
+followed by a setting‐word latijsha and a preverbal subject with an extra emphasis
+marker =ja introduces a new topic. In (33)e, finally, the emphasized element
+anajalima is taken out of the object NP and positioned in the preverbal position.
+The new object awerta comes right after the predicate, while the old information na
+pëpësu is the final element. The template of the main clause, then, roughly looks as
+in (34). Note that these are not absolute positions, but rather tendencies in the
+clause.(34) (setting), emphasis, VP (pred. + adverbs), new information, topic, afterthought8.1.7 Negative and interrogative clauses
+Negative clauses are marked by the negative adverb nish, with phonetic variant nij
+(to negate a predicate or VP) or by the form nij‐ta (NEG‐MID; existential negation).
+Nish/nij normally immediately precedes the predicate it negates:10Aysa and Pëpësu are two characters that are closely connected in this story in which they
+work together. The reason the narrator started the story with Aysa is probably because I
+asked him to tell the story of Aysa.","[295, 296, 297, 298, 299, 300, 301]"
+"
+4.2 Number
+Number in Yurakaré has two basic values: singular and plural. Singular is unmarked,
+while plural is normally marked by the enclitic =w, which minimally appears on the
+last element of the NP:
+3 Discontinuous NPs are a frequently observed feature in languages with a flexible word order
+(Givón 2001‐II:13).
+4 I consider this construction to be an applicative construction with a comitative object, cf.section 5.2.1.",[108]
+"We have already seen the ordering of applicative prefixes and cross‐referencing
+prefixes in (5). As an illustration of the suffixal order, consider the following
+utterance:(7)   mëë          mala‐m=ti        chili‐ta‐shta‐ø          mi‐tewi      mi‐marka
+      2SG.PRN      go.SG‐2SG.S=DS clean‐MID‐FUT‐2SG.S        2SG‐foot:LOC 2SG‐mark
+      ‘If you go, the mark on your foot will rub off.’ (OR‐19MA‐31)Here we can see that the middle voice marker precedes the future marker in the
+verb chilitashta.
+  The distinction between inflection and derivation is relevant in that it explains
+many of the ordering of morphemes. Derivational elements are generally closer to
+the root than inflectional elements, a tendency observed to be generally true for
+most languages (cf. Bybee 1985). The verbal template is characterized by the
+following linear order of morphemes:(8)   inflection‐derivation‐root‐derivation‐inflectionThe more clearly derivational a morpheme, the closer it is to the root, generally.
+Inflectional order is TMA suffixes before cross‐referencing suffixes.
+  There is also a system of verbal enclitics, which mainly have a modal (epistemic)
+or aspectual meaning, and in addition a small set of clausal enclitics, which can
+attach to any phrase‐final word. These clause‐final elements often have to do with
+emphasis and speaker commitment.",[26]
+"                                              11
+A grammar of Yurakaré
+  Word order is relatively free. Overtly expressed subjects most frequently appear
+in postverbal position; objects occur on both sides of the verb with about equal
+frequency. Adverbs are relatively free in their position; different adverbs have
+different preferences.
+  Complex clauses are often marked by one of three clause‐chaining enclitics
+marking that the subject expressed in the verb they attach to is either the same or
+different from the subject of the last verb in the string of predicates. There are two
+enclitics indicating ‘same subject’, depending on the factual status of the
+subordinated predicate: =ya for irrealis, =ja for realis.","[26, 27]"
+"8.1 The simple clause
+In (1), there are three participants on stage, the addressee (subject), the wound (it),
+and the beneficiary (her). None of these three participants is expressed overtly:(1)    tishi ka‐n‐tëptë‐cha‐m         konsono
+       now 3SG‐IO‐wash‐JUS‐2SG.S      well
+       ‘Now wash it [wound] well for her.’ (FL‐14MA‐1)In fact, text analyses show that objects and subjects are overtly expressed in only
+25.6% (objects 1) and 28.1% (subjects) of all clauses. Table 45 below shows how
+different types of predicates behave in terms of the (non‐)expression of arguments.
+It also shows the word order of predicates and arguments when the latter are
+overtly expressed. I looked at five texts: three mythological narratives, one
+explanatory text and one conversation. I counted the number of instances where
+the subject was not expressed (Vs), and the subject was overtly expressed;
+furthermore, I counted the number of instances where it was expressed after the
+verb (VS) and before the verb (VS). I did the same for objects.",[282]
+"                                              141
+A grammar of Yurakaré
+(145) a   matata‐pshë
+          big‐entity
+          ‘the big one’
+     b    shuñeñe‐pshë
+          grow.CAU‐entitiy
+          ‘parent, the one who raises’The combination tëtë‐pshë (lit. ‘what thing’) seems to be a rather fixed combination,
+which is also often fused to tëpshë or even tëp:(146) tëp dula‐m             aysa
+      what do;make‐2SG.S     Aysa
+      ‘What are you doing Aysa?’ (OR‐19MA‐9)Tëtë without ‐pshë occurs in situation where a specific type of entity is questioned:(147) tëtë   petche müta‐p=chi
+      what fish         take.out‐2PL=IGN
+      ‘What kind of fish did you catch?’ (AY‐3NC‐7002)
+                                          142
+5.    Verbal agreement, voice and valencyGrammatical relations in Yurakaré are mainly marked through verbal cross‐
+referencing. Word order does not play a role in identifying grammatical relations, and
+dependent marking (postpositions ‐ cf. section 4.3) is used mainly to mark peripheral
+participants. Subjects and objects are marked on the verb; subjects are suffixes and
+objects are prefixes. In addition to this, Yurakaré has an elaborate system of
+applicatives, as well as a middle marker and a causative construction to modify the
+valency of a verb. In this chapter I will discuss transitivity, valency and the encoding of
+subjects and direct objects on the verb (5.1), applicatives (5.2), and voice (5.3).","[156, 157, 158]"
+"                                              91
+A grammar of Yurakaré
+(3)     ati‐jti=ja        ta‐buybu      tuwa
+        DEM‐LIM=EMPH      1PL‐language 1PL.PRN
+        ‘That is our language.’ (OR‐20MA‐5)Adjectives can either precede or follow the head noun. There seems to be no semantic
+distinction connected to the different orders. The normal case, however, is that
+adjectives are used as predicates, a point also observed by Day (1980). It is often hard
+to decide whether a semantically modifying element is used as a predicate or a
+dependent adjective, since there is partial overlap in morphology (cf. section 3.3).
+Nevertheless, examples like (4) show that within the NP, there are two possible
+positions for the adjective.(4)     shuyulë     yee=w  ~           yee   shuyulë=w
+        beautiful woman=PL
+        ‘beautiful women’Plurality is generally marked once for every NP. The number clitic appears on the final
+element of the NP. The fact that the adjective and the noun ‘share’ a number marker (a
+phrasal enclitic) suggests that they are within one and the same NP. Nevertheless, the
+number enclitic is not exemplary for a phrasal enclitic, since it is often expressed on the
+noun as well as the adjective, especially with the order NA. I will come back to this
+point below (4.2).
+  Another set of enclitics are the postpositions marking the relationship of the NP to its
+head. These postpositions follow the position of the plural enclitic. There is only one
+slot for postpositions; there are no instances of a combination of two or more
+postpositions on one NP. An example of such a postposition is the comitative marker is
+given in (5):(5)     … a‐bonto=w=tina
+           3SG.P‐son=PL=COM
+        ‘…with his sons’ (AR‐8MI‐64)As far as relation‐marking strategies are concerned, dependent‐marking strategies
+compete with head‐marking strategies where the relationship between the verb and its
+dependent NPs is encoded on the verb. This has to do with topicality and animacy.
+Animate topical participants are more likely cross referenced on the verb, e.g. by
+means of applicative constructions, non‐topical, inanimate participants are more likely
+to be marked by means of a postposition (cf. Van Gijn 2005) 2. Postpositions will be
+discussed in 4.3; head marking of grammatical relations will be the topic of sections 5.1
+and 5.22
+    Some relations, such as subject and direct object, are always marked on the verb.","[106, 107]"
+"
+3.2.2 Suffixing, prefixing, and infixing
+As mentioned, Yurakaré has both prefixes and suffixes. The categories associated
+with prefixes and suffixes are roughly as follows:                         Table 12 ‐ categories of prefixes and objects
+                    prefixes                       suffixes
+                    object cross‐reference         subject cross‐reference
+                    object‐oriented valency        subject‐oriented valency
+                    aspect                         tense, mood, aspect
+                    derivation                     derivation
+The order of bound morphemes is fixed in Yurakaré, corresponding to their scope,
+as well as to the distinction between derivation and inflection. By derivational
+morphemes I mean morphemes that “form new words either by changing the
+meaning of the base to which they are attached (…) or by changing the word‐class
+that a base belongs to” (Katamba 1993:47). “Inflectional morphemes are only able
+to modify the form of a word so that it can fit in a particular syntactic slot”
+(Katamba 1993:51).
+  In the following examples, we can see that inflection is generally found more
+towards the edge of a word, while derivation is closer to the root. Consider first:                                                  51
+A grammar of Yurakaré
+(14) a    ana‐kka‐ø=ti       ka‐l‐i‐sibë‐ø
+          DEM‐MEA‐3=DS       3SG‐AFO‐VBL‐house‐3
+          ‘When he was this big, she made him a house.’ (FA‐6MA‐6)
+      b   tütü‐mashi‐ø=w=ya
+          sit‐LD‐3=PL=NVR
+          ‘They stayed a little.’ (AR‐8MI‐60)In (14)a, there are several derivational affixes. On the demonstrative pronoun ana,
+there is a derivational element deriving a measure ‘this size’. This derivation also
+changes the word class, turning it into an adjectival element, used as a predicate
+here. The derivational element is followed by a zero morpheme. I will argue for
+the existence of this zero morpheme in section 3.2.5 below. In the same section, I
+will discuss enclitics, of which =ti is an example. The second (main) predicate in
+(14)a has its cross‐referencing object morpheme ka‐ leftmost, more towards the
+verb root, we find the derivational elements l‐ (shortened form of la‐) ‘affected
+object’‐applicative and i‐ ‘verbalizer’. The prefix la‐ (or l‐ before a vowel) is an
+applicative prefix which increases the valence of a verb, which, in this case, has the
+role of beneficiary. The prefix i‐ is a category‐changing prefix, deriving verbs from
+nouns. In (14)b, the verb root is followed by a derivational element ‐mashi, which
+indicates that the event is carried out to a limited degree (a little), followed by the
+subject marker ‐ø and the plural morpheme =w.
+  As far as tense, mood and aspect are concerned, the order seems to follow the
+relevance principle (Bybee 1985), which says that an affix is placed closer to the
+root the more relevant it is to the meaning of the root from a cognitive point of
+view.
+  The only tense marker ‐shta ‘future tense’ is found before the subject markers, as
+is event‐related modality and aspect 5. Modality and aspect that is more
+propositional related (epistemic) or related to expressive and interactional motives
+of the speaker are external to the person markers (cf. sections 7.1 and 7.2)
+  Infixing is a marginal process in Yurakaré. A first possible example of this is a
+variant of the imperative singular (cf. section 6.3.5) marker <‐n‐> (with allomorph
+[m]) with verbs that start with the vowel /i/. Examples of infixing of this type often
+involve roots that seem to be complex in one way or another; hence we may not be
+dealing with infixing after all:
+5The only prefixed aspectual markers a‐ ‘incompletive and i‐ ‘verbal plural’ either replace
+object prefixes (in the case of incompletive a‐) or they merge with the object markers (in the
+case of verbal plural i‐).","[66, 67]"
+"Finally, I would like to thank Daniëlle Arets for her love, tolerance and support.
+Being the partner of a Ph.D. student, especially in a project like this one is not easy
+and I think you did a great job.
+                                           i
+Table of contents     Acknowledgements ...................................................................................................................... i     Abbreviations ............................................................................................................................viii     Maps ............................................................................................................................................. ix     List of tables ................................................................................................................................. xi1.            Introduction ................................................................................................1
+     1.1      The Yurakaré Indians........................................................................................................ 1        1.1.1           Geography and demography ................................................................................. 1        1.1.2           History and current situation ................................................................................. 3     1.2      The Yurakaré language..................................................................................................... 6        1.2.1           Previous work........................................................................................................... 6        1.2.2           Genetic affiliation ..................................................................................................... 7        1.2.3           Typological sketch ................................................................................................... 8     1.3      Fieldwork.......................................................................................................................... 12        1.3.1           Fieldwork situation and methodology................................................................ 12        1.3.2           Consultants ............................................................................................................. 13        1.3.3           Narratives................................................................................................................ 16     1.4      Outline of the work and conventions ........................................................................... 182.            Phonology..................................................................................................21
+     2.1      Phonemes and allophones.............................................................................................. 21        2.1.1           Consonants.............................................................................................................. 21        2.1.2           Adaptation of foreign consonants........................................................................ 26        2.1.3           Vowels ..................................................................................................................... 27        2.1.4           Adaptation of foreign vowels............................................................................... 29     2.2      Orthography..................................................................................................................... 29     2.3      Phonotactics...................................................................................................................... 31        2.3.1           Syllable structure.................................................................................................... 31        2.3.2           Lenition of /k/.......................................................................................................... 33        2.3.3           Consonant lengthening: gemination ................................................................... 34        2.3.4           Assimilation ............................................................................................................ 35
+                                                                            ii
+       2.3.5        Rapid speech: vowel and syllable elision ........................................................... 37     2.4   Stress.................................................................................................................................. 37       2.4.1        The default stress rule............................................................................................ 37       2.4.2        Stress‐attracting prefixes ....................................................................................... 38       2.4.3        Syllabic weight........................................................................................................ 40       2.4.4        Disyllabic suffixes and enclitics and the stress window................................... 41       2.4.5        Diacritically marked roots..................................................................................... 43       2.4.6        Stress‐avoiding syllables and monosyllabic roots. ............................................ 43       2.4.7        Discourse‐based stress........................................................................................... 453.         Morphology ..............................................................................................47
+     3.1   Introducing Yurakaré morphology ............................................................................... 47     3.2   Morphological units and processes............................................................................... 49       3.2.1        Roots and words..................................................................................................... 49       3.2.2        Suffixing, prefixing, and infixing ......................................................................... 51       3.2.3        Reduplication.......................................................................................................... 53       3.2.4        Compounding......................................................................................................... 59       3.2.5        Cliticization ............................................................................................................. 61       3.2.6        Morpheme‐internal change .................................................................................. 70     3.3   Parts of speech.................................................................................................................. 72       3.3.1        Nouns....................................................................................................................... 72       3.3.2        Adjectives ................................................................................................................ 75       3.3.3        Verbs ........................................................................................................................ 79       3.3.4        Adverbs ................................................................................................................... 82       3.3.5        Ideophones.............................................................................................................. 84       3.3.6        Interjections............................................................................................................. 87       3.3.7        Enclitic particles...................................................................................................... 884.         The Noun Phrase......................................................................................91
+     4.1   Introduction...................................................................................................................... 91     4.2   Number ............................................................................................................................. 93     4.3   Postpositional clitics ...................................................................................................... 106       4.3.1        =tina comitative .................................................................................................... 107
+                                                                        iii
+       4.3.2       =la instrument....................................................................................................... 108       4.3.3       Local postpositions .............................................................................................. 110       4.3.4       The enclitic =ja ...................................................................................................... 114     4.4   Nouns .............................................................................................................................. 115       4.4.1       Possession.............................................................................................................. 115       4.4.2       Non‐category‐changing derivation ................................................................... 120       4.4.3       Category‐changing derivation............................................................................ 124       4.4.4       Subclassification ................................................................................................... 128     4.5   Adjectives........................................................................................................................ 134       4.5.1       Qualifying adjectives ........................................................................................... 134       4.5.2       Quantifying adjectives......................................................................................... 1375.         Verbal agreement, voice and valency ................................................143
+     5.1   Person marking, valency and transitivity .................................................................. 143     5.2   Extending basic valency: applicatives ........................................................................ 148       5.2.1       Comitative object.................................................................................................. 149       5.2.2       Cooperative object................................................................................................ 150       5.2.3       Indirect object ....................................................................................................... 153       5.2.4       Affected object ...................................................................................................... 156       5.2.5       Purposive object ................................................................................................... 159       5.2.6       Verbs beginning with /i/...................................................................................... 160       5.2.7       Experiencers.......................................................................................................... 162       5.2.8       Combinations of head‐marked arguments....................................................... 167     5.3   Middle voice and causative.......................................................................................... 170       5.3.1       Middle voice ......................................................................................................... 170       5.3.2       Causative ............................................................................................................... 1786.         The verb phrase......................................................................................181
+     6.1   Tense................................................................................................................................ 181     6.2   Aspect.............................................................................................................................. 184       6.2.1       Incompletive ......................................................................................................... 185       6.2.2       Verbal number...................................................................................................... 189       6.2.3       Habitual ................................................................................................................. 193
+       6.2.4       Near completive aspect and recent completive aspect ................................... 195     6.3   Mood & modality .......................................................................................................... 196       6.3.1       intentional ‐ni........................................................................................................ 196       6.3.2       Potential ‐ta ........................................................................................................... 199       6.3.3       Desiderative ‐nta .................................................................................................. 200       6.3.4       Jussive ‐cha............................................................................................................ 200       6.3.5       Imperative ............................................................................................................. 201     6.4   Verbal derivation ........................................................................................................... 203       6.4.1       Degree: high, medial and low ............................................................................ 203       6.4.2       Delimiter li‐ ........................................................................................................... 205       6.4.3       Category‐changing derivation............................................................................ 207     6.5   Adverbs........................................................................................................................... 209       6.5.1       Adverbs of time .................................................................................................... 209       6.5.2       Aspectual adverbs................................................................................................ 211       6.5.3       Modal and phasal adverbs.................................................................................. 214       6.5.4       Place adverbs ........................................................................................................ 216       6.5.5       Degree/intensity adverbs .................................................................................... 217       6.5.6       State/manner adverbs .......................................................................................... 218       6.5.7       Number adverbs................................................................................................... 219       6.5.8       De‐adverbializing derivation............................................................................. 221       6.5.9       Adverb placement................................................................................................ 222     6.6   Interjections and ideophones ....................................................................................... 223       6.6.1       Interjections........................................................................................................... 223       6.6.2       Ideophones............................................................................................................ 2247.         Propositional markers...........................................................................231
+     7.1   Verbal enclitics ............................................................................................................... 232       7.1.1       =ya: non‐veridical................................................................................................. 232       7.1.2       =chi: ignorative ..................................................................................................... 237       7.1.3       =laba: subjective.................................................................................................... 240       7.1.4       =tiba: assumptive.................................................................................................. 243       7.1.5       =bala: admonitive ................................................................................................. 244       7.1.6       =jtë: speculative .................................................................................................... 245
+                                                                      v
+       7.1.7       =pu: visual presentative ...................................................................................... 246     7.2   Clausal enclitics.............................................................................................................. 246       7.2.1       =la: validational .................................................................................................... 246       7.2.2       =ri/yu: expressive ................................................................................................. 248       7.2.3       =ra/ye: notable information................................................................................. 250       7.2.4       =se: repetition/emotion ........................................................................................ 251       7.2.5       =bë: momentaneous/attention particle .............................................................. 254       7.2.6       =bëla: continuative ............................................................................................... 256       7.2.7       =naja: discontinuative .......................................................................................... 257     7.3   Combinations of modal enclitics ................................................................................. 260       7.3.1       The organization of modality in Yurakaré ....................................................... 260       7.3.2       Combinations of epistemic enclitics .................................................................. 261       7.3.3       Combinations of expressive enclitics................................................................. 2638.         The Clause...............................................................................................267
+     8.1   The simple clause........................................................................................................... 267       8.1.1       Intransitive verbs.................................................................................................. 268       8.1.2       Non‐verbal predications ..................................................................................... 269       8.1.3       Transitive verbs .................................................................................................... 275       8.1.4       Extended intransitives ......................................................................................... 275       8.1.5       Ditransitive verbs ................................................................................................. 276       8.1.6       Word order and pragmatic status...................................................................... 278       8.1.7       Negative and interrogative clauses ................................................................... 286     8.2   Complex clauses ............................................................................................................ 290       8.2.1       Unmarked conjunction of VP’s .......................................................................... 291       8.2.2       ya‐marked deranked clauses .............................................................................. 299       8.2.3       ja‐marked clauses ................................................................................................. 304       8.2.4       ti‐marked clauses.................................................................................................. 310       8.2.5       Balanced clauses without enclitic....................................................................... 320       8.2.6       Alternative strategies........................................................................................... 324       8.2.7       Overview: types of clause combinations and their encoding ........................ 328
+Texts ...................................................................................................................331
+      1. Ayma Shunñe (fire man)................................................................................................. 331
+      2. Conversation..................................................................................................................... 339
+   References ................................................................................................................................. 347   Index .......................................................................................................................................... 355   Samenvatting ............................................................................................................................ 359
+                                                                         vii
+Abbreviations
+ABL     ablative                FOR    ‘meant for’       PLC     place
+ADM     admonitive              FRQ    frequency         PO      purposive object
+ADV     adverbializer           FUT    future            POT     potential
+AFO     affected object         HAB    habitual          PRN     pronoun
+AMONG   among                   IDEO   ideophone         PROH    prohibitive
+AMP     amplification           IGN    ignorative        PST     past
+ASM     assumptive              IMP    imperative        QN      quantity
+AST     associated time         INC    incompletive      R       reflexive/reciprocal
+ATT     attention               INS    instrument        RC      recent completive
+CA      characteristic action   INTJ   interjection      REF     referential
+CAU     causative               INTL   intentional       S       subject
+CMP     comparative             INTS   intensifier       SBJ     subjective
+CNT     continuative            IO     indirect object   SE      enclitic ‘se’
+CO      cooperative object      JUS    jussive           SEQ     sequential
+COL     collective              LD     limited degree    SINCE   since
+COM     comitative              LIM    limitative        SG      singular
+DEL     delimiter               LOC    locative          SML     smell
+DEM     demonstrative           M      masculine         SPC     speculative
+DES     desiderative            MAT    material          SS      same subject
+DIM     diminutive              MEA    measure           TOT     totality
+DIR     direction               MID    middle voice      VAL     validational
+DPT     departitive             MOM    momentaneous      VBL     verbalizer
+DS      different subject       NB     notable           VC      vowel change
+DSC     discontinuative                information       VOC     vocative
+DST     distributive            NC     near completive   VP      visual presentative
+EMPH    emphasis                NEG    negation          WA      suffix ‘wa’
+EXC     exocentric compound     NLZ    nominalizer       VPL     verbal plural
+EXH     exhortative             NVR    non‐veridical     WH      question word
+EXPR    expressive              P      possessive
+F       feminine                PL     plural
+                                       viii
+Maps
+       Map 1 ‐ The areas where Yurakaré is spoken
+                           ix
+Map 2 - Fieldwork sites
+List of tables
+Table 1 ‐ Yurakaré consonants                                                        8
+Table 2 ‐ Yurakaré vowels                                                            9
+Table 3 ‐ Fieldwork locations                                                        12
+Table 4 ‐ Consultants                                                                15
+Table 5 ‐ Yurakaré consonants                                                        21
+Table 6 ‐ Yurakaré vowels                                                            27
+Table 7 ‐ Orthography proposals for Yurakaré: consonants                             30
+Table 8 ‐ Orthography proposals for Yurakaré: vowels                                 31
+Table 9 ‐ Consonants in coda position                                                32
+Table 10 ‐ Stress‐attracting prefixes                                                39
+Table 11 ‐ Nouns with stress‐avoiding syllables                                      44
+Table 12 ‐ categories of prefixes and objects                                        51
+Table 13 ‐ stress patterns of question words                                         57
+Table 14 ‐ Classification of Yurakaré clitics                                        64
+Table 15 ‐ Comparing the comitative object and cooperative object paradigms          71
+Table 16 ‐ Inherent adverbs in Yurakaré                                              83
+Table 17 ‐ Ideophones                                                                86
+Table 18 ‐ Interjections                                                             87
+Table 19 ‐ Three nominal classes based on plural marking                             96
+Table 20 ‐ Four nominal classes based on plural marking and collective marking       99
+Table 21 ‐ Semantic subclassification of inherently plural nouns                     101
+Table 22 ‐ Inherently singular nouns according to semantic type                      102
+Table 23 ‐ Semantic categories of noun phrases                                       104
+Table 24 ‐ Non‐substance inherently singular nouns that trigger collective marking   104
+Table 25 ‐ Possible correlations between affixes                                     106
+Table 26 ‐ Possessive markers, free pronouns and object markers                      116
+Table 27 ‐ Stem changing possessive prefixes                                         117
+Table 28 ‐ Demonstrative pronouns ana and ati and their derivations                  130
+Table 29 ‐ The seven universal adjective categories in Yurakaré                      134
+Table 30 ‐ Person marking paradigms                                                  144
+Table 31 ‐ Comparison of free pronouns and subject markers                           144
+Table 32 ‐ Direct object marking on inherently transitive verbs and noun types       146
+Table 33 ‐ Comparing inherently transitive with extended transitive                  146
+Table 34 ‐ Overview of applicatives                                                  149
+Table 35 ‐ Comparing mass‐count with incompletive‐verbal plural                      191
+Table 36 ‐ Free vs. fixed‐position adverbs                                           222
+Table 37 ‐ Adverb placement                                                          222
+Table 38 ‐ Interjections                                                             223
+Table 39 ‐ Interjections (Day 1980)                                                  224
+Table 40 ‐ Some ideophones and their meanings                                        225
+                                           xi
+Table 41 ‐ Ideophones referring to physical characteristics                      226
+Table 42 ‐ Overview of propositional enclitics                                   231
+Table 43 ‐ Combinatory possibilities of epistemic modals                         262
+Table 44 ‐ Combinatory possibilities of expressive modals                        266
+Table 45 ‐ Pro‐drop and word order in texts according to predicate type          267
+Table 46 ‐ semantically rich verbs and predicate nominals (Payne 1997:113)       273
+Table 47 ‐ predicative elements in non‐verbal predications in Yurakaré           274
+Table 48 ‐ Direct objects (O) and applied objects (E) in ditransitive verbs      277
+Table 49 ‐ Comparing direct object and applied object across multivalent verbs   277
+Table 50 ‐ Word order correlations in Greenberg 1963, taken from Payne 1997:72   282
+Table 51 ‐ balancing and deranking strategies in clause combinations             290
+Table 52 ‐ Encoding principles of complement‐taking verbs                        298
+Table 53 ‐ types of clause combinations and their morphosyntactic encoding       328
+Table 54 ‐ The switch‐reference system of Yurakaré                               329
+1.    IntroductionThe Yurakaré Indians form a small indigenous group that lives in the foothill area
+of central Bolivia. Their language, Yurakaré, is one of the many languages in an
+area that is a complicated puzzle of seemingly unrelated languages. The objective
+of this book is to give a grammatical description of the Yurakaré language.
+  The study of South‐American languages has seen a big increase in research
+efforts at the beginning of the millenium. Looking at the situation in the Yurakaré
+area alone, a number of complete grammars have appeared in the years preceding
+the appearance of this grammar: Latundê/Lakondê (Telles 2002), Moré (Angenot
+2002), Sabanê (Antunes 2004), Kanoê (Bacelar 2004), Kwaza (Van der Voort 2004),
+Cavineña (Guillaume 2004), Mosetén (Sakel 2004) and Yuki (Villafañe 2004). Apart
+from these a number of grammatical descriptions are in preparation: Sararé
+(Borella in prep.), Araona (Emkow in prep.), Movima (Haude in prep.), Baure
+(Danielsen in prep.), Itonama (Crevels in prep.), Arikapu (Van der Voort in prep.),
+Leko (Van de Kerke in prep.), Maropa (Guillaume in prep.), and Uru (Hanss in
+prep.). Finally, two important language surveys of major areas in South America
+have appeared: Dixon & Aikhenvald (1999) on Amazonian languages, and
+Adelaar with Muysken (2004) on Andean languages.
+  It is in this growing tradition of study of the languages of South America that
+this grammar appears. It is the ideal situation in the sense that it can maximally
+profit from and contribute to the growing body of material.","[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]"
+"
+                                             62
+Morphology
+prefixes, which trigger the loss of the geminate consonant in the root, whereas the
+proclitics do not:(45) an yarru    ‘this chicha’
+     ti‐yaru     ‘my chicha’There is also a distributional argument to distinguish clitics from independent
+words: the positional possibilities of clitics are generally more restricted than those
+of independent words. For instance, if we look at the different possibilities in the
+internal word order of the noun phrase consisting of the three elements matata
+‘big’, yee ‘woman’, and ja ‘emphatic subject’ we can see the distinction between
+words and clitics:(46) a   matata yee=ja     ‘big woman’
+     b   yee matata=ja
+     c   *ja matata yeeThe morphemes matata and yee can both appear as the first element of the noun
+phrase, but the element ja cannot. In fact, this element attaches to the final element
+of the noun phrase. The order yee=ja matata or matata=ja yee is allowed, but this can
+be explained by the fact that nouns and adjectives can function as predicates and
+adjectives can function as heads of noun phrases as well (cf. section 3.3). The
+analysis of these two noun phrases would be:(47) a   [yee]NP=ja    [matata]PRED
+     b   [matata]NP=ja [yee]PREDFinally, many clitics are monosyllabic or even non‐syllabic, while there is
+independent phonological evidence that independent words are required to
+minimally have two syllables (cf. section 2.4.6).
+Clitics can be distinguished from affixes on the basis of one or more of the
+following criteria. First, some of the clitics have more combinatory possibilities
+than affixes with regard to the host they attach to. For instance, the plural enclitic
+=w can attach to either nouns or adjectives, while the collective marker ‐ima can
+only attach to adjectives and the possessive prefixes attach to nouns only. Second,
+affixes generally cannot attach to clitics, whereas clitics can (cf. Zwicky & Pullum
+1983:504). Finally, affixes are always taken into account with regard to stress
+placement; in Yurakaré, most clitics are as well, but some clitics are not.
+Clitics in Yurakaré can be classified with respect to each other as well. There are
+three classes of clitics which can be distinguished on the basis of the following
+criteria.","[77, 78]"
+"
+24 Palmer (2001:22) mentions that habitual past may be marked as irrealis in the languages
+of the world, though it is not very common.
+25 Note that the combination of a future event and a ya‐type subordination does notautomatically lead to a purposive interpretation. As can be seen in (64)c, these
+constructions can also get the interpretation of a ‘before’‐clause. Note also that in this case
+the order of the predicates is not iconically motivated.",[317]
+"
+                                                 44
+Phonology
+Other examples are to ‘bone’, ye ‘woman, sister’, pü ‘road’. I consider these nouns
+to be underlyingly monosyllabic; in order to avoid a stressed final syllable, the
+final vowel is copied. The double vowels are optionally separated by a glottal
+stop. In example (73)b, the vowel is still copied, even though the prefixation of ti‐
+makes the underlying word disyllabic. This is because the prefix ti‐, as explained
+above, is stress‐avoiding. The available vowel copying is used for this purpose.
+  However, there are at least two monosyllabic nouns that do not allow this vowel
+copying. These nouns never occur in citation form, they are always possessed:(74) tí‐nñu    ‘my suckling’
+     tí‐bba    ‘my husband’As can be seen, the normally unstressed first person singular possessive is stressed
+here. Apparently, with these roots, the constraint that prohibits stress‐avoiding
+syllables to be stressed is violated rather than adding a vowel. Apart from
+stressing this light prefix there is a geminated consonant in both words, just like
+the roots with a stress‐avoiding syllable in them: in order to license stress on the
+light syllable, it is made heavy by geminating the following consonant.","[59, 60]"
+"          Table 45 - Pro-drop and word order in texts according to predicate type
+              %       n=     %VS     %SV     %Vs     %OV     %VO     %Vo     unanalyzable
+    intr      42.87   472    31.99   5.51    62.50   *       *       *       0
+    NVpred    7.18    79     20.25   12.66   31.64   *       *       *       35.44
+    tr        20.07   221    10.86   8.60    80.54   18.55   21.27   58.37   0.90
+    extintr   25.70   283    13.78   3.89    82.33   6.36    10.95   82.69   0
+    ditr      4.18    46     17.4    4.35    78.26   32.61   23.91   43.48   0
+    total     100     1101
+As far as valency is concerned, there are three basic types of predicates in
+Yurakaré: one‐place predicates, two‐place predicates and three‐place predicates.
+In Table 45, however, I distinguish five types of predicates rather than three.",[282]
+"
+4.1 Introduction
+In this section I will make some general remarks on the structure and composition of
+the NP in Yurakaré, with special reference to the order of words within the NP.
+The template of the Noun Phrase in Yurakaré is as follows 1:                QN
+(1)   [DEM              A   POSS    N   (POSS)     A ] =PL=POSTP     (REL CLAUSE)
+                NUM
+Noun phrases are headed by a noun, the element that determines the syntactic function
+of the whole phrase (cf. Payne 1997:31). Nouns can be modified by adjectives,
+quantifiers, numerals, possessor phrases or adjectivally used demonstratives.
+Demonstratives, quantifiers and numerals always precede the noun they modify. All
+three can be used independently as well, forming an elliptic NP of their own. Numerals
+and quantifiers are mutually exclusive in one and the same NP for semantic reasons.
+Demonstratives and quantifiers do co‐occur:(2)   ati      lëtta yee
+      DEM      one   woman
+      ‘this one woman’ (AR‐8MI‐3)Possessors are cross‐referenced on the possessed noun. Since they are cross‐referenced,
+the overt expression of the possessor NP is not obligatory. When expressed, possessors
+in the vast majority of cases precede the possessed noun. It is not prohibited however,
+for the possessor to follow the possessed noun:1I am leaving relative clauses out of the discussion in this chapter; they will be treated below in
+section 8.2.",[106]
+"
+                                            9
+A grammar of Yurakaré
+  The noun phrase normally consists of a noun and optionally has modifying
+elements as well (possessors, adjectives, numerals, quantifiers and articles).
+Numerals, quantifiers and articles precede the noun; adjectives, as exemplified in
+example (4) below, and possessors can be on either side of the head noun.
+Modifiers can furthermore be extracted from the noun phrase:(2)   bëmë          wojto‐ø       ti‐tëbë
+      much/many     pour.out‐3 1SG‐blood
+      ‘Much of my blood is pouring out.’ [AA‐9MA‐6]Possession is marked on the head by means of a cross‐referencing personal prefix,
+as can be observed in example (2) above. The noun marked for possession is
+usually preceded (but it may also be followed) by the possessor noun phrase:(3)   shunñe a‐pojore
+      man      3SG.P‐canoe
+      ‘the man’s canoe’Number and case relations are marked by means of postpositional enclitics, which
+attach to the rightmost element of the noun phrase. The postpositions marking
+case relations mark the more peripheral relations: comitative, instrument, location,
+direction and ablative. There is also a postpositional enclitic marking an emphatic
+subject. All of this is exemplified in (4). Here it can also be observed that the clitic
+status of the plural marker is somewhat doubtful, as it can appear optionally and
+in addition to marking the final element, on non‐final elements as well.(4)   a   yee=ja             awissmë‐ø   shunñe  ewete(=w)     matat‐ima=w=la
+          woman=EMPH         club‐3      man     broom(=PL)    big‐COL=PL=INS
+      b   yee=ja             awissmë‐ø   shunñe  matat‐ima(=w) ewete=w=la
+                                                 big‐COL(=PL) broom=PL=INS
+          ‘The woman clubs the man with a big broom.’ (GB‐1MI‐99)Yurakaré is an accusative language, with some ergative characteristics, restricted
+to a very small number of verbs. Subjects are suffixed to the verb, objects are
+prefixed. Yurakaré predicate roots are either intransitive or transitive. These basic
+valencies can be extended to maximally three head‐marked arguments with the
+help of an elaborated system of five different applicatives (comitative, co‐
+operative, objective, indirect object and affected object). Examples of such verb
+roots with extended valency are the following:
+                                           10
+Introduction
+(5)   a   ti‐ma‐n‐kaya‐ma
+          1SG‐3PL‐IO‐give‐IMP.SG
+          ‘Give them to me!’
+      b   ti‐ma‐la‐che‐m
+          1SG‐3PL‐AFO‐eat‐2SG.S
+          ‘You ate them from me.’The entities referred to by the cross‐reference affixes in (5) may additionally be
+expressed by overt noun phrases, but this is not required. The utterances in (5) are
+perfectly grammatical sentences. Yurakaré, in other words, is a pro‐drop
+language.
+  Many temporal, modal and aspectual distinctions are marked by means of
+suffixes, which come right after valency changing morphology (the middle voice
+marker and causative, which are suffixed), but before the person markers. This
+taken together with the object cross‐referencing prefixes and applicative markers
+discussed above complete the template of the Yurakaré verb:(6)   object cross ref. ‐ applicatives ‐ root ‐ valency ‐ TMA ‐ subject cross ref.","[24, 25, 26]"
+"
+4.4.1 Possession
+Attributive possession is marked on nouns only. It involves a relation between two
+nouns. A person prefix is added to the head noun; the dependent noun is not marked.
+The possessive prefixes constitute a paradigm which shows some formal similarities                                          115
+A grammar of Yurakaré
+with the free pronouns as well as the object markers. There is no straightforward
+synchronic derivational relationship, however:                 Table 26 ‐ Possessive markers, free pronouns and object markers
+                 poss. marker   free pronoun          object marker   meaning
+                 ti‐            sëë                   ti‐             1sg
+                 mi‐            mëë                   mi‐             2sg
+                 a‐             (l)ati, ana, naa      ø/ka‐           3sg
+                 ta‐            tuwa                  ta‐             1pl
+                 pa‐            paa                   pa‐             2pl
+                 ma‐            (l)atiw, anaw, naaw   ma‐             3pl
+The sound /t/ in the first person possessive marker can be explained by the fact that the
+free pronoun sëë is pronounced [tsQQ], with a slight [t] in the onset. The third person
+singular and the plural are not transparently related. As for the prefix a‐ for third
+person singular possessive, we can say that the vowel /a/ is present throughout the
+demonstrative paradigm, and may have a deictic meaning. The prefix ma‐ may be
+related to the word mumuy or mumay, which means ‘all’. The possession paradigm is
+also identical to the object paradigm formally, the third person singular being the
+exception.
+  The possessive prefix is obligatory 18, there are one or two instances where the
+possessor prefix is absent, but these can be considered exceptions. The possessor is
+often lexically expressed, but this is not obligatory. When expressed, the possessor can
+occur either before or after the head noun; the order possessor‐possessed is most often
+encountered, however:(76) a      shunñe a‐sibë
+            man      3SG.P‐house
+            ‘the man’s house’
+        b   tuwa     ta‐pojore
+            1PL.PRN 1PL‐canoe
+            ‘our canoe’
+        c   ta‐ppë‐shama=w             tuwa      ma‐oshewo=w
+            1PL‐grandfather‐PST=PL     1PL.PRN 3PL‐pot=PL
+            ‘our deceased ancestor’s pots’   (AR‐8MI‐16)Example (76)c also shows the recursive possibilities of possession marking, where a
+possessed noun (tappëshamaw ‘our grandfathers’) can in turn be a possessor (of
+maoshewow ‘their pots’). Possessed nouns can be modified by e.g. adjectives and
+numerals:18   With the exception of compounded possessive relations.","[130, 131]"
+"
+                                             261
+A grammar of Yurakaré
+=chi ‘ignorative’ and =laba ‘subjective’(74) a    ati=w      ma‐bëjta‐ø=w=ja yokkoshe         bobo‐jti‐m=chi=laba
+          DEM=PL 3PL‐see‐3=PL=SS         true         hit;kill‐HAB‐2SG.S=IGN=SBJ
+          ‘When they saw them [they said] is it really true that you killed it? (AR‐8MI‐30)
+      b   nish    ti‐tejte               ku‐ta‐m=chi=laba
+          NEG     1SG‐grandmother        3SG.CO‐say‐2SG.S=IGN=SBJ
+          ‘So you are saying that this is not my grandmother?’ (AR‐8MI‐46)This combination of epistemic markers can often be interpreted as a marker of
+scepticism, strong doubt or even disagreement. In (74)a, the speakers (who are
+jaguars) see a number of dead birds lying around, and they cannot believe that
+their mother has killed them by herself. They strongly suspect that she did not kill
+the human child they gave to her in order for her to kill and eat it. In (74)b, the
+speaker gets the message that the family he lives with is not his family after all, a
+statement he disagrees with.=jtë ‘speculative’ + =ya ‘non‐veridical’I have found one example of the above combination. In this example, =jtë preceeds
+=ya:(75) ama‐shku       ibëbë‐shti=jtë=yu          ibëbë=jtë=ya            ta‐mme=yu
+     WH‐ADV.CMP     treat‐FUT:1SG.S=SPC=EXPR.F treat=SPC=NVR           1PL‐mother=EXPR.F
+     ‘What should I do to our mother?’ (OR‐19MA‐30)In (75) the verb is repeated with the non‐veridical marker (for this construction cf.
+7.1.1 and 8.2.2) and interestingly, the speculative marker is still on the repeated
+verb, and comes before the non‐veridical marker. Normally, the repeated verb
+would be devoid of any TMA marker and person marking. In this case, there is no
+person marker on the repeated verb, but the speculative marker is still there.
+  These are the combinations of epistemic modality that I have found. I did not
+encounter combinations of the enclitics =bala ‘admonitive’ and =tiba ‘assumptive’
+with other epistemic enclitics. Once again, it must be stressed that this does not
+entail that combinations of this kind are impossible.
+  With the above examples of combinatory possibilities we can come up with the
+following tentative template:                  Table 43 - Combinatory possibilities of epistemic modals
+           jtë               ya              chi                 laba
+           tiba
+           bala
+                                             262
+Propositional markers
+Static templates such as the one in Table 43 may be inferior to more principled
+accounts for morpheme orders (cf. Muysken 1986), but it is a good start for the
+study of morpheme order and interpretation.","[276, 277, 278]"
+"
+8.1.3 Transitive verbs
+As far as subjects of the transitive verb (A) are concerned, we see that they are left
+unexpressed much more often than intransitive subjects (S), cf. 8.1.1 above. The
+fact that overtly expressed noun phrases appear more freely in intransitive subject
+or direct object roles (O) than in transitive subject role is a universal tendency,
+which “is evidenced widely in the spontaneous discourse of virtually all
+languages investigated to date” (Du Bois 2003:48). This phenomenon has to do
+with the fact that new information is typically expressed in either intransitive
+subject or transitive object role, positions more salient than the transitive subject
+position.
+  As far as the position of overtly expressed subjects is concerned, there is a slight
+tendency for A to favor the postverbal position. Nevertheless, this preference is
+much weaker than in intransitive verbs, where 85.3% of all overtly expressed S‐
+arguments is realized in post‐verbal position, whereas only 55.8% of all overt A‐
+arguments of inherently transitive verbs is expressed post‐verbally. This
+difference can possibly be attributed to the emphatic function of the preverbal
+position, as will be discussed in section 8.1.6.
+  The percentage of direct objects left unexpressed (58.4%) is comparable to the
+percentage of non‐expressed S‐arguments (62.5%) in intransitives. This fact seems
+to support the claim that, as far as information‐structure goes, the S‐position and
+the O‐position have similar functions: they are equally equipped for introducing
+new linguistic material.
+  The position of overt O’s is rather unpredictable, in the sense that there does not
+seem to be a clear preference for either preverbal or postverbal O’s. I will discuss
+this matter in section 8.1.6.",[290]
+"
+(36) Latijsha: “Sëja paordenay, pandyujuya lachuta.”        latijsha   së=ja                  pa‐ordena‐y        pa‐n‐dyuju‐ya       l‐achu‐ta
+        then       1SG.PRN=EMPH           2PL‐order‐1SG.S    2PL‐IO‐tell=NVR     REF‐like.that‐MID        Then he said: “I am ordering you!”",[352]
+"
+                                          63
+A grammar of Yurakaré
+                        Table 14 ‐ Classification of Yurakaré clitics
+                                                   class I   class II   class III
+            occur independently                    no        no         no
+            have an independent counterpart        yes       no         no
+            interact with word stress              no        yes        yes
+            attach to different hosts              yes       no         yes
+Class I clitics can be found in the domains of pronouns, conjunctions and adverbs.
+Examples are the reduced forms of the demonstratives ana, ati and naa: an, a(t),
+and na, respectively:(48) a   an=ta‐buy          tiri ta‐ma‐n‐dula‐ø=ti
+         DEM=1PL‐chief      Tiri 1PL‐3PL‐IO‐make‐3=DS
+         ‘This chief of ours, Tiri, he made them for us.’ (OR‐20MA‐3)
+     b   a‐ewe‐ma              të‐ta‐ø        a=shunñe      a‐sib=chi
+         INC‐sweep‐IMP.SG 1SG.CO‐say‐3        DEM=man       3SG.P‐house=DIR
+         ‘“Sweep his house”’, the man said to me.’ [MH‐24MA‐4]
+     c   dürrüm mala‐ø na=pillë‐të
+         IDEO      go.SG‐3 DEM=mouth‐MID
+         ‘“Bang”, the door went.’ (OR‐20MA‐1)We find the reduced forms of the demonstratives attached to other hosts as well:(49) a   na=tuwa‐wa‐shku‐ta                tuwa         ta‐buybu=la
+         DEM=1PL.PRN‐WA‐ADV.CMP‐MID 1PL.PRN 1PL‐language=INS
+         ma‐n‐dyërërë‐jti=ya
+         3PL‐IO‐converse‐HAB=NVR
+         ‘They were like us, they spoke in our language.’ (AR‐8MI‐88)
+     b   na=ujwa‐ø=ya          na=buyta       itta      mappë‐n‐tanti
+         DEM=look.at‐3=NVR DEM=chief          thing big‐EXC‐eye;face
+         He was looking, this chief bigface.’ (OR‐19MA‐29)
+     c   nish    mu‐chiya‐ø=w=ya=na              latiji          a‐tomte=w
+         NEG     3PL.CO‐light.up‐3=PL=DEM        subsequently 3SG.P‐arrow=PL
+         ‘His arrow did not catch fire, subsequently.’ (AY‐2NC‐5)In these examples the clitic na is not used adjectivally, but rather independently,
+except for the second occurrence of na in (49)b. In (49)b and c the corresponding
+noun phrase follows later, in (49)a, there is no corresponding noun phrase. Note
+too, that the clitic form of the demonstrative cannot be marked for plural, as can
+be observed in (49)a and c. Furthermore, in (49)c, the clitic seems to attach to the
+preceding word instead of the following word. In this specific example, na is
+followed by a small pause. These facts make it hard to classify these clitics as
+proclitics or enclitics. The clitics an and a(t) are more restricted. They usually only
+                                             64
+Morphology
+appear in adjectival position, and do not alternate with free forms in other
+positions.
+  Another group of reduced, unstressed clitics are reduced forms of the adverb
+latijsha ‘then, after that, when’, which functions as a connector. The forms are lash
+and la.(50) a   la=bobo‐ø=w=ja         ka‐deche‐che‐ø=w        kummë
+         SEQ=hit;kill‐3=PL=SS   3SG‐meet;find‐CAU‐3=PL  tree
+         ‘When they had killed him, they mounted wood.’ (OR‐20MA‐9)
+     b   lash=li‐ujwa‐ni‐ø=w
+         SEQ=DEL‐look.at‐INTL‐3=PL
+         ‘Then they went looking.’ (FA‐6MA‐7)These proclitics do not interfere with the word‐stress of their host either. They are
+themselves unstressed. They seem to be restricted to clause initial position, but the
+full form latijsha (which is sometimes also reduced to lashsha, a reduced form that
+still carries stress) also mainly occurs in clause‐initial position.
+  Some other adverbs also have reduced forms, such as achu ‘like that’ (ash) and
+anu ‘like this’ (an), ushta ‘before’ (ush). Examples of ash= are given in (51):(51) a   ash=ta‐ø=ya            latiji (…)
+         like.that=say‐3=NVR    subsequently
+         ‘Then he spoke as follows.’
+     b   ash=mu‐ta‐ø=ya                  noe (…)
+         like.that=3PL.CO‐say‐3=NVR      Noah
+         ‘Noah said the following to them.’Finally, the personal pronouns sëë (1sg) and mëë (2sg) have the reduced forms së
+and më, respectively.(52) a   achu         ka‐n‐dula‐y              ushta=së
+         like.that    3SG‐IO‐do;make‐1SG.S before=1SG.PRN
+         ‘I made it for him like that before.’ (DV‐14MA‐2)
+     b   tuwi‐ø       së=ti‐bonto
+         die.SG‐3     1SG.PRN=1SG‐son
+         ‘My son died.’ (OR‐20MA‐5)
+     c   la=ama‐shku            danda‐m=më
+         SEQ=WH‐ADV.CMP         go.up‐2SG.S=2SG.PRN
+         ‘“How did you get up?”’ (OR‐19MA‐9)
+     d   më=mala‐m=ti               chili‐ta‐shta‐ø      an    mi‐tewi      mi‐marka
+         2SG.PRN=go.SG‐2SG.S=DS clean‐MID‐FUT‐3          DEM 2SG‐foot:LOC   2SG‐mark
+         ‘If you go, the mark on your foot will go off.’ (OR‐19MA‐31)
+                                           65
+A grammar of Yurakaré
+As can be seen in the examples, it does not matter whether these reduced
+pronouns precede ((52)b and d) or follow ((52)a and c) the predicate or noun they
+are cross‐referenced with.
+  In the examples of the remainder of the grammar, I will not indicate the
+proclitics discussed in examples (48)‐(52) by means of the symbol ‘=’. I will in fact
+not distinguish these enclitics from separate words in their representation, since
+they do not seem to constitute one word with their host as much as the other
+clitics do, as we will see. First, they do not form a phonological word with their
+host as far as prosody is concerned; second, they seem to be more free positionally
+than class II and class III clitics. Class I enclitics differ furthermore from class II
+and III clitics in Yurakaré in that whereas the former generally have unreduced
+and independent counterparts, the latter two do not.
+  Before discussing class II clitics, I will first discuss class III clitics. Class III clitics
+can be termed phrasal enclitics because they attach to a phrase‐final element. In
+the nominal domain, the plural marker and the postpositional markers are
+examples of phrasal enclitics:(53) a    matata ti‐pojore=w          vs.   ti‐pojore      matata=w
+          big      1SG‐canoe=PL             1SG‐canoe      big=PL
+          ‘my big canoes’                   ‘my big canoes’
+      b   inele      elle=y           vs.   elle     inele=y
+          inside     earth=LOC              earth inside=LOC
+          ‘in the ground’                   ‘in the ground’The order of adjectives and nouns can be reversed, as can be seen in (53).
+Nevertheless, the plural marker in (53)a as well as the postposition in (53)b remain
+where they are: they attach to the rightmost element of the NP. Other nominal
+enclitics are =chi ‘directional’, =jsha ‘ablative’, =la ‘instrumental’, =tina ‘comitative’
+and =ja ‘subject emphasis marker’. I will discuss all of these in sections 4.2 and 4.3
+below.
+  NPs can be discontinuous in Yurakaré (cf. section 4.1). The head of the NP in
+these circumstances is postverbal, while its modifier is in preverbal, focus position.
+In these cases, the postpositions are still attached to the (rightmost) head noun,
+while the preposed modifier does not have any postpositional marking:(54) a    danda‐shti        kummë matata=la
+          go.up‐FUT.1SG.S tree        big=INS
+          ‘I am going to climb up that big tree.’ [MV‐31MA‐3]
+      b   matata danda‐shti             kummë=la
+          big       go.up‐FUT.1SG.S     tree=INS
+          ‘I am going to climb up that big tree.’ [MV‐31MA‐3]
+                                              66
+Morphology
+Plural markers behave a little differently. When a plural NP is discontinuous,
+usually both the modifier and the head noun are marked for plural:(55) lëshie=w ma‐bëjti         shunñe=w
+     two=PL 3PL‐see:1SG.S man=PL
+     ‘I see two men.’ [FL‐3MA‐4]Plural markers are generally found more often on both the head noun and the
+modifier, even if the NP is not discontinuous, and especially with the order noun‐
+adjective. Postpositional enclitics are never found on both elements.
+  There are also a few clausal clitics that mostly attach to the clause‐final element.
+These are modal and aspectual particles. Examples are =la ‘validational’, =bë
+‘momentaneous’, =se ‘repetition (among other meanings)’ and =bëla (continuative).
+They normally attach to the rightmost element of the clause, and are associated
+semantically with the propositional level (cf. chapter 1):(56) a   yokkoshe      tiya‐m       mem=la
+         true          eat‐2SG.S mother=VAL
+         ‘You really did eat it, mother.’ (AR‐8MI‐25)
+     b   li‐ma‐n‐tomochi‐n‐tu             petche=w=bë
+         DEL‐3PL‐IO‐poison‐INTL‐1PL.S fish=PL=MOM
+         ‘Let’s go poison some fish.’ (AY‐3NC‐8)
+     c   ëshë awëwë‐ø laij ana=se
+         why cry‐3            too DEM=SE
+         ‘Why was this one crying as well then?’ (FL‐14MA‐1)
+     d   nij     bëjta‐ø=w=ya       na      pi=w=bëla
+         NEG     see‐3=PL=NVR       DEM     brother=PL=CNT
+         ‘His brothers still had not seen him yet.’ (FA‐6MA‐6)In (56)a the enclitic =la is attached to the noun denoting the addressee, in (56)b =bë
+is attached to the object of the verb, and in (56)c, the enclitic =se attaches to the
+subject. The enclitic =bëla in (56)d, finally, is attached to the subject. These enclitics
+can also attach to other parts of speech:(57) a   tiya‐y=la
+         eat‐1SG.S=VAL
+         ‘I did eat it!’ (AR‐8MI‐25)
+     b   la     malawismë‐ø=ti       itele‐ø=w=ya      yosse=bë
+         SEQ 3PL‐AFO‐hit‐3=DS        let.go‐3=PL=NVR again=MOM
+         ‘When she hit them, they let her go again for a while.’ (FA‐6MA‐5)
+     c   ati pëpësu ma‐mala‐jti‐ø=se
+         DEM Pëpësu 3PL‐go.SG‐HAB‐3=SE
+         ‘This Pëpësu used to take them with him.’ (OR‐19MA‐9)
+                                           67
+A grammar of Yurakaré
+In (57)a, =la attaches to a predicate, as does =se in (57)c. In (57)b, =bë attaches to an
+adverb. In other words: these syntactic enclitics can attach to different hosts when
+they are the last element of the clause. Occasionally, an element that pertains to
+the clause comes after the clausal enclitic:(58) a     mala‐ø=la       noe     li‐ja‐nama‐ø=t=chi
+           go.SG‐3=VAL     Noah DEL‐3SG‐dry‐3=DS=DIR
+           ‘Noe went to where it was dry.’ (OR‐20MA‐2)
+     b     kani      sewe‐ø=ya=bë         tiri
+           not.yet born‐3=NVR=MOM Tiri
+           ‘Tiri had not been born yet.’ (AR‐8MI‐9)In (58)a and b, the enclitics =la and =bë are followed by the subject‐NP of the clause
+they belong to. This is especially clear with the enclitic =bëla ‘continuative’ in the
+following example:(59) nij   bëjta‐ø=w=ya na      pi=w=bëla         samu          na   ma‐mme‐shama
+     NEG see‐3=PL=NVR DEM brother=PL=CNT jaguar:PL DEM 3PL‐mother‐PST
+     che‐jbëshë=w
+     eat‐entity=PL
+     ‘The brothers had not seen him yet, the ones that ate his late mother.’ (FA‐6MA‐6)  A special group of syntactic clausal enclitics are two types of clitics that change
+according to the gender of the speaker: =ri/=ra for men and =yu/=ye for women:(60) a     lat   mapakka‐ø ati‐kka‐jtë‐ø           latiji=la=yu
+           SEQ big‐3            DEM‐MEA‐SPC‐3      subsequently=VAL=EXPR.F
+           ‘Then he was big. He must have been about that size. (FA‐6MA‐6)
+     b     shülül‐ta‐ø     a‐dojo=ye
+           tickly‐MID‐3    3SG.P‐body=NB.F
+           ‘Her body is tickly.’ (DV‐14MA‐1)
+     c     am=chi mala‐jtë          latiji=ri
+           WH=DIR go.SG‐SPC‐3 subsequently=EXPR.M
+           ‘Where did he go to?’(AR‐8MI‐59)
+     d     media     ora‐nñu      kusu‐ø=naja    pëpë=ra
+           half      hour‐DIM want‐3=DSC         grandfather=NB.M
+           ‘Half an hour, the old one wanted.’ (FL‐14MA‐1)As mentioned above, clitics cannot be morphologically followed by affixes. They
+can, however, be followed by a lexical element in a compound. In (61), the stem
+mujumuju carries the locative postposition =y, which in turn is followed by the
+compounded noun bëshë ‘thing, entity’.","[78, 79, 80, 81, 82, 83]"
+"                                            47
+A grammar of Yurakaré
+The entities referred to by the cross‐reference affixes in (1) may additionally be
+expressed by overt noun phrases, but this is not required. The utterances in (1) are
+perfectly grammatical sentences. Polysynthesis in the strong sense (termed
+incorporating in Comrie 1989a) does not apply to Yurakaré. The language does
+not allow noun incorporation into a verb, and nominal compounding, although it
+occurs (cf. section 3.2.4), is not a very frequent process.
+  Another way to characterize the morphology of a language is head‐marking
+versus dependent‐marking, proposed as a typological parameter by Nichols
+(1986). Yurakaré has characteristics of both types, although the language is
+basically head marking. Possessive relations are head marked, cf. example (2), as
+are core grammatical relations subject and direct object, and applied objects, cf.
+example (3):(2)   a   sëë        ti‐sibë
+          1SG.PRN    1SG‐house
+          ‘my house’
+      b   shunñe a‐bashti
+          man      3SG.P‐wife
+          ‘the man’s wife.’(3)   a   ma‐bëjta-y       lëshie shunñe=w
+          3PL‐see‐1SG.S two       man=PL
+          ‘I see two men.’ [FL‐3MA‐4]
+      b   ti‐ma‐n‐kaya‐ma           yarru 2
+          1SG‐3PL‐IO‐give‐IMP.SG chicha
+          ‘Give me chicha.’ [FP‐13MA‐13]Other, more peripheral semantic roles are encoded by enclitics that mark the
+dependent noun phrase:(4)   a   yupa‐ø=ya        a‐mumuy         a‐ballata=tina
+          enter.SG‐3=NVR 3SG.P‐all         3SG.P‐seed=COM
+          ‘He went in with all his seeds.’ (AR‐3NC‐1)
+      b   ta‐buybu=la           awëwë‐ø tejte‐shama
+          1PL‐language=INS      cry‐3        grandmother‐PST
+          ‘The old woman was crying in our language.’ (OR‐20MA‐10)Whether arguments are head or dependent marked furthermore has to do with
+topicality. The more topical a referent, the more likely it is head marked (cf. Van
+Gijn 2005).","[62, 63]"
+"
+8.1.4 Extended intransitives
+Extended intransitives are verbs that have a basic valency of one, to which one
+argument is added by means of an applicative construction:
+                                         275
+A grammar of Yurakaré
+(16) a   ti‐la‐mala‐ø
+         1SG‐AFO‐go.SG‐3
+         ‘He left me behind.’
+     b   të‐sawata‐m
+         1SG.CO‐work‐2SG.S
+         ‘You work with me.’The verbs mala and sawata are basically intransitive verbs, but in (16), there is an
+additional argument marked on the verb, in (16)a an affected object, in (16)b a co‐
+operative object. I consider all verbs that have a formally marked applied object as
+extended verbs.
+  As can be seen in Table 45, the numbers for the realization of subjects are very
+similar for transitive and extended intransitive verbs. Both drop their subjects in
+around 81% of the cases, while there is a preference for overt subjects to be
+realized postverbally, like with intransitive verbs. I assume that the discourse
+status of the subject is the same in transitive and extended intransitive verbs, i.e.
+prototypically, highly topical participants are expressed in A position.
+  There is a difference, though, between the behavior of direct objects of transitive
+verbs (O) and applied objects (E) of extended intransitives. Extended intransitives
+drop no less than 82.7% of their objects, whereas transitive verbs drop ‘only’
+62.5%. These numbers suggest that the direct object position of a transitive verb is
+more salient than the applied object position of an extended intransitive verb. In
+fact, the number suggests that the salience of the applied object position is at the
+level of transitive subjects, i.e. typically topical and accessible information. Onishi
+(2000:136‐137), argues that applicatives are often used as discourse structuring
+devices in the sense that they identify the topic of the discourse. Since topic is old
+information, we would not expect too many overt NP applied objects. In Van Gijn
+(2005) I argue that the split between the head‐marking patterns of the applicatives
+on the one hand and the case/postposition‐marked adjuncts highly correlates with
+topicality and animacy.
+  When applied objects are overtly expressed, there is a slight preference for the
+postverbal position. The numbers are very low, however, so the significance of
+these percentages is questionable. In section 8.1.6 I will discuss the different
+positions of arguments.","[290, 291]"
+"                                         348
+References
+Gabas Jr., Nilson & Johan van der Auwera (2004) Ideophones in Karo. In: Michel
+    Achard & Suzanne Kemmer (eds.) Language, culture and mind. Stanford, CA:
+    CSLI Publications, pp. 397‐413.
+Givon, T. (2001) Syntax: an introduction, revised edition, 2 vols.
+    Amsterdam/Philadelphia: John Benjamins.
+Greenberg, Joseph H. (1960) The general classification of Central and South
+    American languages. In: Anthony Wallace (ed.) Men and cultures: selected papers
+    of the 5th international congress of anthropological and ethnological sciences (1956).
+    Philadelphia: UIniversity of Pennsylvania Press, pp. 791‐794.
+Greenberg, Joseph H. (1963) Some universals of grammar with particular reference
+    to the order of meaningful elements. In: Joseph H. Greenberg (ed.) Universals of
+    language. Cambridge: MIT press.
+Greenberg, Joseph H. (1987) Language in the Americas. Stanford: Stanford
+    University Press.
+Guillaume, Antoine (2004) A grammar of Cavineña, an Amazonian language of
+    Northern Bolivia. Ph.D. thesis Research Centre for Linguistic Typology, La
+    Trobe University, Melbourne.
+Guillaume, Antoine (in prep.) Grammatical description of Maropa. Endangered
+    Language Documentation Programme (SOAS London) & Université Lumière
+    Lyon 2.
+Haenke, Thadeo (1900 [1796]) Descripción geográfica, física é histórica de las
+    montañas habitadas de la nación de indios Yuracarées. Parte más septentrional
+    de la provincia de Cochabamba. Anales de la biblioteca, vol. 1. Buenos Aires.
+Haiman, John (1977) Reinterpretation. Language 43(2):312‐328
+Halpern, Aaron L. (1989) Clitics. In: Andrew Spencer & Arnold M. Zwicky (eds.)
+    The handbook of morphology. Oxford: Blackwell publishers, pp. 101‐122.
+Hanss, Katja (in prep.) Grammatical description of Uru. Ph.D. thesis Radboud
+    University Nijmegen.
+Haspelmath, Martin (2004) Coordinating constructions: an overview. In: Martin
+    Haspelmath (ed.) Coordinating constructions. Amsterdam/Philadelphia: John
+    Benjamins, pp. 3‐39.
+Haude, Katharina (in prep.) Grammatical description of Movima. Ph.D. thesis
+    Radboud University Nijmegen.
+Hengeveld, Kees (1992) Non‐verbal predication. Theory, typology, diachrony.
+    Berlin/New York: Mouton de Gruyter.
+Himmelmann, Nikolaus P. (1996) Demonstratives in narrative discourse: a
+    taxonomy of universal uses In: Barbara Fox (ed.) Studies in anaphora.
+    Amsterdam/Philadelphia: John Benjamins, pp. 205‐254.
+Hirtzel, Vincent (2000) De la domesticatión desirée a la domesticite perdue: les
+    Yuracaré face aux autres. Université Paris X Nanterre. Ms.
+Hirtzel, Vincent (in prep.) Conflit et traitement de la conflictualité: chez les
+    Yuracaré du piedmont Bolivien. Ph.D. thesis Labratoire d’Anthropologie
+    Sociale, Université Paris X Nanterre.","[363, 364]"
+"
+                                            260
+Propositional markers
+7.3.2 Combinations of epistemic enclitics
+I have not encountered all logically possible combinations of the different
+epistemic morphemes. This does, of course, not mean that they are impossible.
+The combinations that do occur are mostly not very common. For most
+combinations, therefore, it is of no use making any general remarks about their
+combined meaning. The point of this section is to show which combinations have
+been found and in which order. Remarks about the meaning should be taken as ad
+hoc assessments. I have found the following combinations:=ya non‐veridical + =chi ignorative(72) a    shama‐shtu=y=chi                chata=la
+          die.PL‐FUT:3PL.S=NVR=IGN        food=INS
+          ‘They almost died of hunger.’ (FA‐6MA‐7)
+     b    nij ka‐la‐bbë‐ti                    oshewo tiyu=y=chi              talipa=w
+          NEG 3SG‐AFO‐cover‐POT:1SG.S         pot      eat:3PL.S=NVR=IGN chicken=PL
+          ti‐chata
+          1SG‐food
+          ‘If I had not covered the pot, the chickens would have eaten all.’ [MH‐31MA‐6]The combination of =ya and =chi often gets a counterfactual, incompletive or
+frustrative reading (cf. also (16) above). These readings do not follow
+straightforwardly as the sum of the parts.=ya ‘non‐veridical’ + =laba ‘subjective’(73) a    mala‐ø=ya=laba        asha=chi
+          go.SG‐3=NVR=SBJ       above=DIR
+          ‘He tried to go up (but he could not).’ (AY‐3NC‐8)
+      b   ta‐bobo‐shta‐ø=ya          samma ta‐ø=ya=lab            noe
+          1PL‐hit;kill‐FUT‐3=NVR     water    say‐3=NVR=SBJ       Noah
+          ‘The water is going to kill us, Noah said (in vain).’ (OR‐20MA‐3)This combination also gets a frustrative reading in these examples, in the sense of
+‘in vain’ or ‘without success’.","[275, 276]"
+"
+1.2 The Yurakaré language1.2.1 Previous work
+Up until now, the Yurakaré language has received relatively little attention. The
+first study devoted completely to the language was La Cueva (1893). This
+publication had been prepared by the Franciscan priest La Cueva at the beginning
+of the nineteenth century. His notes were brought to France by Alcides d’Orbigny
+and edited by Lucien Adam who eventually published them in 1893 8. The
+publication consists of a grammatical description and a word list.
+  The grammatical description, taking up 52 pages, covers many different areas:
+from sounds to nominal and verbal morphosyntax, interjections and conjunctions,
+as well as some example sentences. The word list covers 68 pages and is Spanish‐
+Yurakaré. It is a rich source containing highly valuable material. It is also the first
+attempt to devise a spelling for the language, even though this proposal is not
+made explicit in the grammar.
+  The next study devoted to the language is also by a Franciscan priest, Lassinger
+(1915). This is a grammatical description, which is much more modest in
+comparison to La Cueva’s work. It consists of around 15 pages, which give
+information about nominal and verbal conjugations. There is no word list.
+Lassinger’s work has been reprinted in Ribera et al. (1991).
+  In 1980 and 1991, Marge Day produced two further important studies: a rather
+large word list both Yurakaré‐Spanish (115 pages) and Spanish‐Yurakaré (123
+pages), and a didactic grammar. In this grammar a consistent spelling is devised
+(cf. section 2.2), and the study of the grammatical characteristics is taken out of the8Brinton (1891:297) summoned publishers to publish the manuscript of La Cueva. This
+possibly may have led to the publication two years later.",[21]
+"
+3.3.3 Verbs
+Verbs are prototypically actions: agentive actions involving concrete participants,
+having a relatively short duration, and spatially more diffuse than nouns (Givón
+2001‐I:52).
+  The typical function of a verb is the predicative function (Croft 2003:184‐185,
+Schachter 1985:9). This is not a distinguishing feature of verbs in Yurakaré,
+however. Nouns and adjectives can also function as (stative) predicates without
+any overt formal marking that indicates a change in lexical category.(86) a   së=ja              ulë‐y
+         1SG.PRN=EMPH guayabochi.tree‐1SG.S
+         ‘I was that, I was the guayabochi tree.’ (AR‐8MI‐7)
+     b   Arsenio=ja         poropesor‐shta‐ø=la
+         Arsenio=EMPH teacher‐FUT‐3=VAL
+         Arsenio will be a teacher.’ [AT‐3MI‐121]Example (86)a is taken from a mythological text in which a Guayabochi tree
+changes into a person. Now this person is telling a woman that he was the
+Guayabochi tree. The subject sëja is marked with the emphasis marker =ja, which
+appears almost exclusively on subjects. Furthermore, the predicate ulëy takes the
+subject cross‐reference marker ‐y for first person singular. The word that functions
+as a predicate has the notional characteristics of a noun, referring to a concrete,
+                                            79
+A grammar of Yurakaré
+even specific item. In (86)b the predicate nominal is marked for future tense, a
+category normally associated with verbs.
+  Some predicate nominals can even take applicative prefixes. In the following
+examples the affected object applicative (cf. 5.2.4) triggers the interpretation of
+detachment in (87)a; in (87)b, the attachment‐reading is caused by the indirect
+object applicative (cf. 5.2.3):(87) a   më=ja              ka‐la‐uli‐m               pa=ja             ka‐la‐uli‐p
+         2SG.PRN=EMPH 3SG‐AFO‐penis‐2SG.S             2PL.PRN=EMPH 3SG‐AFO‐penis‐2PL.S
+         ‘You (sg) cut off his penis; you (pl) cut off his penis.’(OR‐19MA‐2)
+     b   li‐ma‐n‐shansha‐shta‐ø        latiji
+         DEL‐3PL‐IO‐tooth‐FUT‐3        subsequently
+         ‘He provided them with teeth.’ (AR‐8MI‐35)In (87)a, the predicate function is performed by a noun, which also refers to a
+concrete and specific object. Like in (86)a, this predicate takes subject cross‐
+reference marking (for second person singular and plural) and the overtly
+expressed subject argument is marked with the emphasis marker =ja. However, in
+(87)a we can also see that the object word can take valency increasing morphology
+(the prefix la‐ for affected object ‐ cf. section 5.2.4) and consequently an object
+complement, referring to the person who got his penis cut off. In (87)b, the
+predicate nominal, not specific this time, takes another kind of applicative and is
+modified by an adverb. Furthermore it takes the future tense marker ‐shta.
+  Adjectives can be used as predicates as easily as object‐words (nouns):(88) a   maj~matata‐ø=ya latiji               a‐jukkulë
+         INTS~big‐3=NVR      subsequently 3SG.P‐field
+         ‘His field was then really big.’ (AR‐8MI‐42)
+     b   yita‐p=naja
+         good‐2PL.S=DSC
+         ‘You are alright now.’ (AR‐8MI‐37)
+     c   tëtë‐pshë=ja (…)      mij~mi‐n‐shuyulë‐jti‐ø        meme
+         what‐entity=EMPH      INTS~2SG‐IO‐beautiful‐HAB‐3   mother
+         ‘What do you find really beautiful, mother?’ (AR‐8MI‐50)In (88)a the property word functions as a predicate (cf. the non‐veridical enclitic
+=ya, which only attaches to predicates. In (88)b, the property word yita takes the
+subject marker ‐p for second person plural, and in (88)c, shuyulë takes the
+applicative marker n‐ as well as the habitual marker ‐jti.
+  Verbs, in short, cannot be distinguished from adjectives and nouns on the basis
+of their function as predicates. However, verbs cannot be arguments of predicates
+without any overt marking. They can be arguments of verbs either when they
+                                           80
+Morphology
+form a compound with the noun bëshë ‘entity’ or under a certain analysis with the
+different subject marker =ti (cf. chapter 8.2.4):(89) a     na=yj        ma‐ssë‐ø=w        na      wiwi‐pshë=w
+           DEM=DIR      3PL‐stand‐3=PL DEM        arrive.PL‐entity=PL
+           ‘Overthere are the ones that arrived.’ [MH‐24MA‐8]
+     b     ti‐m‐pëlë‐ø          arush ma‐pu‐y=ti
+           1SG‐IO‐finished‐3 rice       3PL‐take.PL‐1SG.S=DS
+           ‘I finished harvesting rice (my harvesting rice is finished for me)’ [MH‐24MA‐4]There is no clear answer to the question whether the ti‐marked clause indicates a
+‘when’‐clause rather than a real argument, i.e.: ‘When I had harvested my rice I
+was finished.’ However, ti‐marked clauses can take postpositions, which are
+normally associated with noun phrases:(90) mashi‐ø=ti=jsha       ajuyja‐shta‐tu
+     rain‐3=DS=ABL         fish‐FUT‐1PL.S
+     ‘Even if it rains we’ll go fishing.’ [MV‐24MA‐22]There are also constructions such as the following:(91) nij  poyde winani‐tu     puwa‐tu=ja
+     NEG can      walk‐1PL.S drunk‐1PL.S=SS
+     ‘We could not walk when we were drunk.’ [FA‐28MA‐1]The sequence poyde winanitu seems to be a case where a verb (winanitu), without
+any further measures being taken is used as an argument of the verb (Hengeveld’s
+1992 criterion). However, on closer scrutiny, there seem to be measures that have
+been taken after all. The matrix verb poyde does not carry any subject marking, and
+is conjoined to the adjacent VP. In fact, as I will be discussing in chapter 8.2.1, this
+is one way of marking subordination. The matrix verb can also be fully inflected,
+but then the complement verb has to be marked by means of the enclitic =ti.(92) nij     poydi=la           ma‐alkansa=ni=ti
+     NEG     can:1SG.S=VAL      3PL‐reach‐INTL:1SG.S=DS
+     ‘I couldnʹt reach them.’ (AY‐3NC‐8)Action‐words can modify a noun only if they are marked as a relative clause by
+means of the different subject marker =ti, the same subject marker =ja, or by means
+of a compound with bëshë (reduced to pshë) ‘entity’. In (93)c we again see that
+nouns can be in adjectival function as long as their meaning allows for it:
+                                              81
+A grammar of Yurakaré
+(93) a   na    shunñe bobo‐y=ti           të‐dyojlo‐shta‐ø
+         DEM   man       hit‐1SG.S=DS     1SG.CO‐scold‐FUT‐3
+         ‘The man that I hit is going to scold me.’ [MH‐24MA‐8]
+     b   ati shunñe ku‐wita‐ø=ja                    ka‐la‐mala‐ø
+         DEM man         3SG.CO‐arrive.SG‐3=SS      3SG‐AFO‐go.SG‐3
+         ‘The man that arrived with him left him.’ [MV‐31MA‐3]
+     c   ku‐dojlo‐shti              na    shunñe ti‐bobo‐pshë
+         3SG.CO‐angry‐FUT:1SG.S DEM man             1SG‐hit;kill‐entity
+         ‘I am going to scold the man that hit me.’ [VL‐24MA‐13]Verbs will be discussed in chapter 6 and in passim in subsequent chapters.","[94, 95, 96, 97]"
+"5.1 Person marking, valency and transitivity
+Dixon & Aikhenvald (2000:3) make a distinction between valency and transitivity:
+“There are two main transitivity types ‐ intransitive (with core argument S) and
+intransitive (with A and O) ‐ and plain and extended subtypes of each (depending on
+whether or not E [extension to core ‐ RvG] is also in the core”. Schematically, this can
+be represented as follows:(a) intransitive                       S
+(b) extended intransitive              S              E
+(c) transitive                     A         O
+(d) extended transitive            A         O        EValency, in this view, relates to the number of core arguments, i.e. one in (a), two in (b),
+two in (c) and three in (d). I will follow Dixon & Aikhenvald in making the distinction
+between valency and transitivity, since it is a useful one for describing the Yurakaré
+system.
+  In Yurakaré, the distinction between valency and transitivity is directly reflected in
+the formal behavior of the verb. Subjects and direct objects are obligatorily cross‐
+referenced on the verb; intransitive verbs do not have object markers, whereas
+transitive verbs do. Any extension of transitivity is formally marked, e.g. by means of
+applicative or causative markers, even if the extended argument belongs to the
+semantic argument structure of a verb.
+  As mentioned, the two basic arguments, subject and direct object are both cross‐
+referenced on the verb, subjects are cross‐referenced by suffixes, objects by prefixes.
+The paradigms look as follows:
+                                           143
+A grammar of Yurakaré
+                             Table 30 ‐ Person marking paradigms
+                                gloss      object       root   subject
+                                1sg        ti‐          x      ‐y
+                                2sg        mi‐          x      ‐m
+                                3sg        Ø/ka‐        x      ‐ø
+                                1pl        ta‐          x      ‐tu
+                                2pl        pa‐          x      ‐p
+                                3pl        ma‐          x      ‐ø=w
+There is no distinction between first person plural inclusive and exclusive, nor is there
+a gender distinction 1. As for the two zero elements in the paradigm, I do not consider
+the zero element in the object paradigm to be actually present; it is simply a gap in the
+paradigm triggering a default interpretation of third person singular, the typical
+interpretation for a zero element cross‐linguistically (Siewierska 2004: 24). The zero
+element in the third person singular and plural subject is a different matter. The
+nominal plural marker is =w (cf. section 4.2). I assume that this plural enclitic needs a
+nominal element to have scope over. Viewing the subject paradigm as such
+furthermore has the advantage that it shows that the bound subject affixes follow the
+same pattern as the free pronouns:                  Table 31 ‐ Comparison of free pronouns and subject markers
+                                 free pronouns         bound subject markers
+                          1sg    sëë                   ‐y
+                          2sg    mëë                   ‐m
+                          3sg    l‐ati                 ‐ø
+                          1pl    tuwa                  ‐tu
+                          2pl    paa                   ‐p
+                          3pl    l‐ati=w               ‐ø=w
+Judging from the forms of some of the markers in comparison to the free pronouns
+(e.g. mëë vs. ‐m, tuwa vs. ‐tu, paa vs. ‐p) the subject paradigm and the free pronouns are
+related. The free pronoun paradigm, which consists of four personal pronouns – for
+third person reference demonstrative pronouns are used – shows suppletive forms for
+singular and plural first and second person pronouns, whereas the demonstratives
+referring to third persons are marked for plural in a regular way, by means of the
+enclitic =w. This same distinction between first and second persons on the one hand
+and third on the other is observed in the subject marking paradigm.","[158, 159]"
+"                                           349
+A grammar of Yurakaré
+Hirtzel, Vincent & Rik van Gijn (in prep.) [Collection of Yurakaré texts].
+Hopper, Paul J. & Sandra A. Thompson (1980) Transitivity in grammar and
+    discourse. Language 56(2):251‐299.
+Ibarra Grasso, Dick Edgar (1985) Pueblos Indígenas de Bolivia. La Paz: Editorial
+    Juventud.
+Jackendoff, Ray (1991) Parts and boundaries. Cognition 41:9‐45.
+Katamba, Francis (1993) Morphology. Basingstoke: MacMillan.
+Kelm, Hans (1964) Die Sitte des Pfeilduells bei den Yuracaré (Ostbolivien). Baessler
+    Archiv: Beiträge zur Völkerkunde, new series, vol. 12. Berlin: Dietrich Reimer
+    Verlag, pp. 281‐310.
+Kelm, Hans (1966) Kulturkonstanz und Kulturwandel bei den Yuracaré
+    (Ostbolivien). Baessler Archiv: Beiträge zur Völkerkunde, new series, vol. 14.
+    Berlin: Dietrich Reimer Verlag, pp. 65‐102.
+Kemmer, Suzanne (1993) The middle voice. Amsterdam/Philadelphia: John
+    Benjamins.
+Key, Mary Richie (1979) The grouping of South American languages. Tübingen:
+    Gunter Narr Verlag.
+La Cueva, R.P. (1893) Principes et dictionnaire de la langue Yuracare ou Yurujure.
+    Published by Lucien Adam. Paris: Maisonneuve
+Lassinger, Fulgencio (1915) El idioma yuracarés. Archivo de la Comisaría Franciscana
+    de Bolivia, año VII, 47‐49, 117‐119, 158‐159, 204‐205, 234‐236, 400‐401.
+Lipski, John M. (1994) Latin American Spanish. London: Longman.
+Loukotka, Čestmir (1968) Classification of South American Indian languages, edited by
+    Johannes Wilbert. Los Angeles: UCLA, Latin American Center.
+Lyons (1977) Semantics, 2 vols. Cambridge: Cambridge University Press.
+Malchukov, Andrej (in prep.) Split intransitives, experiencer objects and
+    ‘transimpersonal’ constructions: (re‐)establishing the connection. Radboud
+    university Nijmegen.
+Mason, John Alden (1950) The languages of South American Indians. In: Julian
+    Hayes Steward (ed.) Handbook of South American Indians. Volume 6: physical
+    anthropology, linguistics and cultural geography of South American Indians.
+    Washington DC: US Government Printing Office, pp. 157‐317.
+Mather, Kirtley F. (1922) Explorations in the land of the Yuracarés. American
+    Geographical Society 12:42‐56.
+McQuown, Norman A. (1955) The indigenous languages of Latin America.
+    American Anthropologist 57:501‐570.
+Metraux, Alfred (1942) The native tribes of eastern Bolivia and Western Matto Grosso.
+    Smithsonian Institution Bureau of American Ethnology, bulletin 134,
+    Washington DC.
+Montaño Aragón, Mario (1989) Guía etnográfica lingüística de Bolivia, vol. 2. La Paz:
+    Editorial Don Bosco.
+Muysken, Pieter (1986) Approaches to affix order. Linguistics 24:629‐643.","[364, 365]"
+"
+                                              71
+A grammar of Yurakaré
+3.3 Parts of speech
+As is shown in Anward et al. (1997), languages can differ from each other in
+several respects when it comes to the inventory of their lexical categories. They
+can differ in what kind of categories they identify; the distinction between verbs
+and nouns seems to be universal (Schachter 1985:6‐7), though even that is
+questioned (cf. Hengeveld 1992:67 for Tuscarora). Adjectives, (manner) adverbs
+and smaller parts of speech are not universal at all. Languages can also differ in
+terms of the criteria that can be used to distinguish their lexical categories. The
+general approach in any language to distinguish lexical categories is that “the
+primary, definitional properties of parts of speech are semantic or pragmatic,
+rather than form related; (…) semantic or pragmatic features are part‐of‐speech
+defining only if there is at least one formal characteristic that correlates with
+them” (Anward et al. 1997:172). Formal characteristics can be found on the
+syntactic, morphological or phonological level 11. Languages differ as to which of
+these formal characteristics correlates with the semantic‐pragmatic features.
+  These differences, together with the fact that the boundaries between the
+different parts of speech are sometimes rather fuzzy (cf. Payne 1997:32), make it a
+difficult task to identify the parts of speech of a language. Therefore the
+distinctions I have chosen to make, although based on notional, syntactic,
+morphological, and sometimes even phonological criteria, do not reflect rigid
+classes with clear‐cut boundaries, but rather they reflect tendencies associated
+with certain lexical classes.
+  When these precautions are taken into consideration, we might say that
+Yurakaré distinguishes seven lexical classes: verbs, nouns, adjectives, adverbs,
+ideophones, interjections and clitic particles. I will discuss each of the parts of
+speech in turn, stating their (prototypical) notional, syntactic and morphological
+characteristics as well as subclassifications. I will start with nouns (3.3.1), followed
+by adjectives (3.3.2), verbs (3.3.3), adverbs (3.3.4), ideophones (3.3.5), interjections
+(3.3.6), and finally clitic particles (3.3.7).","[86, 87]"
+"                                                296
+The clause
+In (54)a, the clause combination chitta mala is as a whole subordinate to the verb
+timbë. This means that the subject of chitta mala is not indicated on either of these
+verbs, but rather it is marked as the direct object of ibëbë. In (54)b, the construction
+tëshujuta timbë, which in itself is a clause combination, is superordinate to the
+subject clause abëssëyti. The construction with the subordinate marker =ti will be
+discussed in section 8.2.4 below. Note that, even though the causee is marked on
+the verb timbë in (54)b, it is also marked on the dependent verb, as a cooperative
+object. 20 Apparently subject agreement is blocked, but object agreement is not,
+even though we are dealing with coreference.
+  This morphosyntactic type of clause combinations is used when the two events
+are inextricably interwoven. States of affairs that are encoded in this way are
+manner clauses, like the ones discussed above, where the leftmost, subordinated
+verb can be replaced by a manner adverb:(55) achu        ti‐m‐bë‐ø
+     like.that   1SG‐IO‐treat‐3
+     ‘Like that he did to me.’These manner verbs can also be path‐movement verbs or location‐manner verbs
+combining with a semantically more or less empty movement verb like mala/bali
+‘go’ or winani ‘walk’.
+  Some complement relations can be expressed as VP‐conjunctions.
+Complementation can be defined as “the syntactic situation that arises when a
+notional sentence or predicate is an argument” (Noonan 1985:42). Normally,
+complementation in Yurakaré is marked by the subordinating particle =ti (cf.
+section 8.2.4), as in (54)b. Some complement relations, however, can additionally
+be represented as follows:(56) ti‐m‐pëlë        ma‐pu‐y=naja             ti‐arush
+     1SG‐IO‐finished 3PL‐take.PL‐1SG.S=DSC     1SG‐rice
+     ‘I’m done harvesting my rice. [FL‐24MA‐1]The predicate pëlë ‘be finished’ can take a nominal subject:(57) ti‐m‐pëlë‐ø=w=naja              ti‐tib    talipa=w
+     1SG‐IO‐be.finished‐3=PL=DSC 1SG‐pet chicken=PL
+     ‘I have finished off my chickens.’ [FL‐24MA‐1]In (57), the subject of the predicate pëlë is the noun phrase titib talipaw. In (56), this
+subject argument has been replaced by another predicate. This combination of
+20This is due to the semantics of the verb shujuta ‘to sweat’. The experiencer of sweating is
+always indicated as a cooperative object.","[311, 312]"
+"
+                                              145
+A grammar of Yurakaré
+          Table 32 ‐ Direct object marking on inherently transitive verbs and noun types
+                     noun type           3sg direct object      3pl direct object
+                     class I nouns       ø                      ma‐
+                     class II nouns      ma‐                    ø/ma‐
+                     class III nouns     ø/ka‐                  ø/ka‐
+                     class IV nouns      ka‐                    ka‐
+In section 4.2 above, I have characterized class I nouns as the default type: nouns that
+have a marked opposition singular versus plural; class II nouns are inherently plural
+and inherently collective; class III nouns are inherently singular; class IV nouns, finally,
+are inherently singular and inherently collective.
+  As can be observed in Table 32, the marker ka‐ as an indicator of third person
+singular direct objects only occurs with class III nouns in some cases and with class IV
+nouns in all cases. In constructions such as in (3), ka‐ is used as a cross‐reference marker
+for all third persons singular, no matter what nominal class. In Table 33, an overview is
+given of the paradigms of the direct object and the comitative object with regard to
+class I nouns:               Table 33 ‐ Comparing inherently transitive with extended transitive
+      bobo                hit, kill                 mala                    go
+      ti‐bobo‐ø           he hits me                ti‐mala‐ø               he brings me
+      mi‐bobo‐ø           he hits you               mi‐mala‐ø               he brings you
+      bobo‐ø              he hits him               ka‐mala‐ø               he brings him
+      ta‐bobo‐ø           he hits us                ta‐mala‐ø               he brings us
+      pa‐bobo‐ø           he hits you (pl)          pa‐mala‐ø               he brings you (pl)
+      ma‐bobo‐ø           he hits them              ma‐mala‐ø               he brings them
+A second difference between transitive roots and extended intransitives of the type
+exemplified in (3)b and c, is related to verbal number (cf. section 6.2.2). A handful of
+verbs in Yurakaré vary in their form according to the number of participants taking
+part in the event. This system of participant‐based verbal number is organized
+according to an ergative pattern: intransitive verbs change form according to the
+number of the S argument, transitive verbs change according to the number of the O
+argument, a pattern universally attested in languages that have such a system of
+participant based verbal number (cf. Corbett 2000: 253):(4)   a    mala‐y                        b   bali‐ø=w
+           go.SG‐1SG.S                       go.PL‐3=PL
+           ‘I go.’                           ‘They go.’
+      c    chitta‐ø=w                    d   ma‐jokko‐y
+           throw.away.SG‐3=PL                3PL‐throw.away.PL‐1SG.S
+           ‘They threw it away.’             ‘I threw them away.’
+                                              146
+Verbal agreement, voice & valency
+  The verb roots mala (for singular) and bali (for plural) change according to the
+number of the subject participant, cf. (4)a and b; chitta and kokko 2 in (4)c and d, change
+according to the number of the direct object participant. With an extended intransitive
+like ka‐mala‐ø, the number of object participants has no consequences for the form of
+the verb: it still changes according to the number of the subject participant. In other
+words: the ergative pattern of verbal plural marking is sensitive only to the transitivity
+value of the root.(5)   a   ma‐mala‐ø
+          3PL‐go.SG‐3SG
+          ‘He takes them with him.’
+      b   ka‐bali‐ø=w
+          3SG‐go.SG‐3=PL
+          ‘They take it with them.’In these two respects (i.e. consistant overt marking of third person singular direct
+object and no influence on participant based verbal number) the comitative object
+construction patterns with other, more clearly marked applicative constructions.
+  There is another construction worth mentioning in the context of the discussion on
+transitivity and valency in Yurakaré:(6)   a   latijsha    ka‐posojto‐ø=ya        a‐tulujta
+          then        3SG‐explode‐3=NVR 3SG.P‐brain
+          ‘Then her brain exploded.’ (AR‐8MI‐52)
+      b   ti‐tenche=w           ma‐dele‐ø=w
+          1SG‐necklace=PL       3PL‐fall.SG‐3=PL
+          ‘My necklace fell.’ [FP‐13MA‐13]In these constructions, the verb is still semantically intransitive, but formally, two
+participants are marked: the zero element for subject and ka‐ for object in (6)a 3, and the
+third person plural prefix ma‐ for object and the markers ‐ø and =w together for third
+person plural subject. Tulujta ‘brain’ is a class III noun, tenchew ‘necklace’ a class II
+noun. It seems that the verbs in (6) agree twice with the S‐participant. There is some
+evidence, however, that the object agreement only refers to the number of the
+participants, and not to the person:
+2 The form jokko is a surface variant of kokko: /k/ changes into [h], spelled j after a vowel, cf.
+section 2.3.2.
+3 The form marked with ka‐ is not found with class I nouns.","[160, 161, 162]"
+"
+3.1 Introducing Yurakaré morphology
+From the perspective of morphological typology, Yurakaré can be characterized as
+an agglutinating language. In the ideal case of an agglutinating language “a word
+may consist of more than one morpheme, but the boundaries between morphemes
+in the word are always clear‐cut” (Comrie 1989a:43). This characterization fits
+Yurakaré morphology to a high degree. There is some fusion, however, especially
+within the system of participant reference on the verb. Here the categories of
+person and number are fused, and sometimes also semantic function (e.g. in the
+cross‐referencing system, cf. section 5.1). On the whole, however, Yurakaré
+morphology provides us with a fairly straightforward picture of an agglutinating
+language.
+  On another dimension, isolating versus polysynthetic, Yurakaré can be placed
+more towards the polysynthetic end, as was suggested already by the morpheme
+per word ratio. I take polysynthetic to mean the possibility “to combine a large
+number of morphemes, be they lexical or grammatical, into a single word,
+corresponding to a sentence of English” (Comrie 1989a:45). Yurakaré, with its
+elaborate person reference system and applicatives (cf. sections 5.1 and 5.2) fits
+this description. To give an example, consider the following:(1)   a    ti‐ma‐y‐mala‐ma
+           1SG‐3PL‐PO‐go.SG‐IMP.SG
+           ‘Go and get them for me!’ [AA‐15MA‐9]
+      b    ti‐ma‐la‐che‐ø
+           1SG‐3PL‐AFO‐eat‐3
+           ‘He ate them from me (e.g. from my plate).’ [MV‐14MA‐26]
+1I have not counted zero morphemes and I have counted bound roots + required
+derivational morphemes as one. I did count enclitics. The total number of words was 6,976,
+the total number of morphemes 14,289.",[62]
+"
+                                                167
+A grammar of Yurakaré
+Comitative object & indirect object(60) ti‐ja‐m‐mala‐ma           ti‐oshewo
+     1SG‐3SG‐IO‐go.SG‐IMP.SG   1SG‐pot
+     ‘Bring me my pot!’ [DV‐11MA‐5]Comitative object &affected object(61) ka‐ja‐la‐mala‐ø         a‐juyja‐ta         petche
+     3SG‐3SG‐AFO‐go.SG‐3 3SG.P‐fish‐MID         fish
+     ‘The fish went off taking my fishing line.’ [MH‐8MA‐14]There are no combinations of comitative object and direct object, since comitative
+objects only combine with intransitive roots. This means that we can expand the
+template of (59) as follows:(62) position    2   ‐       1   ‐    0
+                 CO ‐        DO ‐     root
+                 IO ‐        COM
+                 AFOWhen the purposive object is combined with the indirect object, the prefix referring to
+the purposive object follows the prefix referring to the indirect object. The applicative
+marker for indirect object is lost, but the vowel in the prefixes with the vowel /a/ in
+them (third person singular and the plural participants) is changed to /u/:Indirect object & purposive object(63) a   ti‐ja‐y‐danda‐ma            toronja
+         1SG‐3SG‐PO‐go.up‐IMP.SG grapefruit
+         ‘Go up and get me a grapefruit.’ [MH‐13MA‐2]
+     b   ku‐ja‐y‐mala‐ma
+         3SG:VC‐3SG‐PO‐go.SG‐IMP.SG
+         ‘Go and bring it to him!’ [MH‐14MA‐7]
+     c   tu‐ma‐y‐mala‐ma               dulsi=w
+         1PL:VC‐3PL‐PO‐go.SG‐IMP.SG orange=PL
+         ‘Go and get us some oranges.’ [AA‐15MA‐9]There is some speaker variation in these constructions in that some speakers also
+change the /a/ to /u/ in the prefixes referring to the purposive object:
+                                             168
+Verbal agreement, voice & valency
+(64) a    mi‐ju‐y‐mala‐ni                     dulsi
+          2SG‐3SG:VC‐PO‐go.SG‐INTL:1SG.S      orange
+          ‘I am going to get you an orange.’ [VP‐14MA‐30]
+      b   pu‐mu‐y‐mala‐ni                   dulsi=w
+          2PL‐3PL:VC‐PO‐go:SG‐INTL:1SG.S orange=PL
+          ‘I am going to get you (pl) oranges.’ [VP‐14MA‐30]Indirect object & affected object(65) ti‐ja‐la‐n‐dyalala
+     1SG‐3SG‐AFO‐IMP.SG‐spit
+     ‘Spit at him for me.’ [FP‐15MA‐3]The indirect object cross‐referencing prefix comes first, followed by the cross‐
+referencing prefix for the affected object, and then the applicative marker la‐ follows.
+The element n‐ is not the applicative marker for indirect object, but rather the marker
+for imperative singular (cf. section 6.3.5). There seems to be only one position for the
+applicative markers.
+  The order of cross referencing prefixes can be schematized into the following
+template, which is an elaboration of the templates of (59) and (62):(66) position   4         3         2        1                 0
+                IO        AFO       DO       appl. mrkr.       root
+                     CO             COM
+                                    POThe indirect object precedes the affected object, direct object, comitative object, and the
+purposive object. We cannot say much about the place of the cooperative object, except
+that it appears before the direct object. The affected object precedes the direct object
+and the comitative object. Direct object, comitative object and purposive object share
+the slot immediately before the applicative markers; they cannot be combined. There is
+one position for an applicative marker. When two applied objects are combined that
+have a separate applicative marker, one of these objects is always the indirect object; in
+this case the applicative marker for indirect object is lost. In some circumstances this
+results in a vowel change in the cross‐referencing prefixes from /a/ to /u/. Some
+speakers only change the indirect object cross‐referencing prefixes, others also the
+prefixes referring to the purposive object.","[182, 183, 184]"
+"                                              277
+A grammar of Yurakaré
+the role of applied objects differ across extended intransitives and extended
+transitives.
+  With regard to the position of overtly expressed direct objects (preverbal or
+postverbal), not much can be said. In transitive verbs the odds are roughly even.
+In ditransitive verbs there seems to be a slight preference for the preverbal
+position, but the number of occurences is too small to draw any reliable
+conclusions. There does seem to be a slight preference for postverbal position for
+the applied objects, although, again, the number of instances of ditransitive verbs
+is too low to draw firm conclusions.
+  In most instances (82%), only one or none of the three arguments is overtly
+expressed. This can be seen as another instantiation of what Du Bois (2003:68) calls
+the One Lexical Argument Constraint:(18) Avoid more than one lexical core argumentThe idea behind this constraint is that, even if verbs provide in their argument
+structure more than one core argument position, only one of them will be used to
+introduce a lexical noun phrase. The others are mainly used for referents that have
+already been mentioned in the discourse. These latter argument positions are
+more often expressed either by pronouns or by zero forms. As with two‐place
+verbs, in three‐place verbs, the position of the direct object is the preferred
+position to introduce new referents. This apparently is a pervasive pattern in
+discourse throughout the languages of the world.","[292, 293]"
+"
+                                       360
+                         Curriculum Vitae                         Rik van Gijn (Brunssum, Netherlands 01‐03‐1976) began studying Dutch
+                         Language and Literature at the University of Amsterdam in 1994. After receiving
+                         his propedeutics in 1995, he switched to General Linguistics, also at the University
+                         of Amsterdam. During his study he developed interest for Amerindian languages
+                         (he took courses in Quechua and Carib at Leiden University), theoretical
+                         linguistics (both functional and formal) and language contact. In line with this last
+                         interest he spent half a year at the University of Aarhus in Denmark where he took
+                         courses on mixed languages. His thesis, entitled The syllable in mixed languages, was
+                         largely a combination of his main fields of interest. After his studies he started
+                         working as a Ph.D. student at the Radboud University Nijmegen, then still called
+                         the University of Nijmegen, of which this book is the result. He worked for four
+                         and a half years on the description of Yurakaré, under the supervision of Pieter
+                         Muysken and Mily Crevels. He is currently working on the production of a
+                         dictionary Yurakaré‐Spanish, Spanish‐Yurakaré as well as a collection of Yurakaré
+                         myths. Both books are in co‐authorship with Vincent Hirtzel.","[375, 376]"
+"                                              125
+A grammar of Yurakaré
+(105) a   ñuñujulë‐kka‐y
+          small‐MEA=LOC
+          ‘childhood (lit. in the time of smallness)’ (AY‐3NC‐4)
+      b   winani‐kka‐y
+          walk‐MEA=LOC
+          ‘lifetime’ (AY‐3NC‐4)
+      c   lanalë‐kka‐y
+          closeby‐MEA=LOC
+          ‘not long ago’ (AY‐3NC‐3)A suffix that can appear in combination with temporal ‐kka is ‐shbache, meaning
+eversince:(106) l‐ati‐kka‐shbache
+      REF‐DEM‐MEA‐SINCE
+      ‘From that time onwards…’This suffix can be decomposed into ‐sh, ‐ba and ‐che. The suffix ‐shi normally derives an
+adverb from an adjective or noun, and ba‐che is a verb that means ‘to send’. This verb
+has a non‐causative counterpart ba‐ta ‘to go’, with the middle marker ‐tA.i‐ ‘verbalizer’Since nouns and adjectives can occur in predicative position (cf. section 3.3.3), there is
+not much need for verbalizing morphology. There is one verbalizing prefix, however: i‐
+. Addition of this prefix triggers the interpretation ‘to have X’:(107) a   ana=jsha i‐tanti‐ø=w
+          DEM=ABL       VBL‐eye‐3=PL
+          ‘They had eyes here (on the back of their heads).’ (AR‐8MI‐22)
+      b   i‐wishwi‐ø ushta        na    ishete      layshu‐shku‐ta
+          VBL‐tail‐3 before       DEM agouti        squirrel‐ADV.CMP‐MID
+          ‘The agouti once had a tail, he was like a squirrel.’ (AR‐8MI‐44)
+      c   nish     i‐tulë‐jti              sëë        nish    che‐jti       tullë
+          NEG      VBL‐salt‐HAB:1SG.S      1SG.PRN NEG        eat‐HAB:1SG.S salt
+          ‘I don’t have salt, I don’t eat salt.’(AR‐8MI‐82)In combination with some nouns, the interpretation of i‐ can differ somewhat. The
+interpretation is nevertheless always connected to possession:
+                                             126
+The noun phrase
+(108) a   i‐jukkulë‐ø                     d   i‐sama‐ø
+          VBL‐field‐3                         VBL‐water‐3
+          ‘He makes a field.’                 ‘He gets water.’
+      b   i‐sibë‐ø                        e   i‐buybu‐ø
+          VBL‐house‐3                         VBL‐language‐3
+          ‘He builds a house.’                ‘He speaks’
+      c   i‐tomte‐ø                       f   i‐luli‐ø
+          VBL‐arrow‐3                         VBL‐egg‐3
+          ‘He makes an arrow’                 ‘It lays an egg.’In the examples (108)a‐c the verbalizer marks the creation of an entity which will
+ultimately be the possession of the maker, in (108)d the subject gets water that will be
+in his possession. The example in (108)e, finally, can be rephrased as ‘he has language,
+he has the word’.‐jta ‘smell’The suffix ‐jta on a noun means that it smells like what is expressed in the noun:(109) a   dyarru‐jta‐m
+          chicha‐SML‐2SG.S
+          ‘You smell of chicha!’[FL‐PC]
+      b   chajmu‐jta‐ø
+          dog‐SML‐3
+          ‘It smells of dog.’ [FL‐PC]
+      c   oytoto‐jta‐ø
+          nice.fragrance‐SML‐3
+          ‘It smells nice.’ (AR‐8MI‐23)‐shku(ta) ‘comparative adverb’The suffix ‐shku on a noun, often followed by the middle marker ‐tA, derives an adverb
+from a noun, and can be translated as ‘like X’:(110) a   i‐wishwi‐ø ushta       na         ishete layshu‐shku‐ta
+          VBL‐tail‐3   before    DEM       agouti squirrel‐ADV.CMP‐MID
+          ‘The agouti used to have a tail, like a squirrel.’ (AR‐8MI‐44)
+      b   dyujare‐shku‐ta             ka‐n‐otto‐ø=ya
+          Yurakaré‐ADV.CMP‐MID        3SG‐IO‐go.out‐3=NVR
+          ‘He appeared to her as a Yurakaré.’ (AR‐8MI‐3)The form ‐shku is probably decomposable into ‐sh and ‐ku. The element ‐sh is found on
+adjectives to form manner adverbs; ‐ku is harder to interpret, but it may be that it is the                                              127
+A grammar of Yurakaré
+ku‐ which denotes cooperative object third person (cf. section 5.2.2). The verb ta ‘say’,
+which is probably the source for the middle marker ‐tA, takes the cooperative object
+applicative form to mark addressees.
+   First and second person pronouns can take the adverbializer ‐shku as well as ‐sh, but
+if they do, they take an intervening morpheme ‐wa:(111) a   tuwa‐wa‐shku‐ta             tuwa       ta‐buybu=la   ma‐n‐dyërërë‐jti
+          1PL.PRN‐WA‐ADV.CMP‐MID      1PL.PRN 1PL‐language=INS 3PL‐IO‐converse‐HAB
+          ‘They spoke our language like us.’ (AR‐8MI‐87)
+     b    më‐wa‐sh‐i                  sëë
+          2SG.PRN‐WA‐ADV‐VBL:1SG.S 1SG.PRN
+          ‘I am like you.’ [MH‐7MA‐7]4.4.4 Subclassification
+Apart from the subclassification of nouns proper on the basis of number and collective
+marking (cf. section 4.2), the class of nouns can be further subdivided into a number of
+subclasses. First, we can distinguish pronouns. There are three types of pronouns:
+demonstrative, personal and the question word ama.","[140, 141, 142, 143]"
+"                                             153
+A grammar of Yurakaré
+This applicative construction has several related meanings. First, with verbs of
+movement or caused‐movement verbs such as ‘giving’, ‘sending’ and the like, it
+indicates the goal of that movement, or the recipient.(21) a   ti‐n‐wita‐m
+         1SG‐IO‐arrive.SG‐2SG.S
+         ‘You came to me, arrived at my place.’ (AR‐8MI‐19)
+     b   mi‐m‐bache‐ni
+         2SG‐IO‐leave.CAU‐INTL:1SG.S
+         ‘I am going to send it to you.’[FA‐2MA‐8]
+     c   a‐mumuy pa‐n‐kaya‐shti
+         3SG.P‐all     2SG‐IO‐give‐FUT:1SG.S
+         ‘I will give it all to you (pl).’ (AY‐2NC‐9)
+     d   ka‐n‐chaya‐ø=ya
+         3SG‐IO‐feed‐3=NVR
+         ‘She gave him food.’ (AR‐8MI‐20)Related to this is the use of the indirect object applicative with communication verbs,
+where the indirect object encodes the addressee:(22) a   mi‐n‐dyuju‐shti
+         2SG‐IO‐inform‐FUT:1SG.S
+         ‘I am going to inform you.’ (AR‐8MI‐46)
+     b   ti‐n‐kama‐ø
+         1SG‐IO‐call‐3
+         ‘He is calling me.’ [HC‐23MA‐5]
+     c   ti‐n‐dyajuya‐m
+         1SG‐IO‐gossip‐2SG.S
+         ‘You are telling me gossip.’ [VP‐6MA‐29]Apart from these two related meanings, the indirect object indicates an interested
+party, often called ‘ethical dative’, ‘dative of (dis)advantage’ or ‘dative of interest’ (cf.
+Payne 1997:192‐194, Palmer 1994:32). Semantically, an ethical dative construction can
+be described as follows: “The circumstances described by the predicate have significant
+consequences for the interested party, whose referent is not in control of the event”
+(Fried 1999:492). The type of interest that is indicated by this kind of construction can,
+in many languages be either beneficiary or adversative, without any formal distinction
+(cf. Shibatani 1994:463). In Yurakaré, however, these two subtypes of the ethical dative
+have different formal encodings, with which they more or less coincide. The ‘indirect
+object’ encoding, with the prefix n‐, is by and large associated with goal/approach and
+beneficiary, while the ‘affected object’ encoding, with the prefix la‐ which is discussed
+in section 5.2.4 below, is associated with source/separation and adversity.","[168, 169]"
+"
+8.1.5 Ditransitive verbs
+Ditransitive verbs are of two types: extended transitives (17)a, and doubly
+extended intransitives, (17)b:
+                                         276
+The clause
+(17) a       ti‐ma‐la‐che‐ø=w ti‐petche=w       ti‐tib     chajmu
+             1SG‐3PL‐kill‐3=PL 1SG‐fish=PL      1SG‐pet dog:PL
+             ‘My dogs ate my fish on me.’ [FL‐13MA‐9]
+      b      ti‐ma‐y‐mala‐m=chi               ku‐ta‐ø=ya
+             1SG‐3PL‐PO‐go.SG‐IMP.SG=IGN      3SG.CO‐say‐3=NVR
+             ‘“Go and get them for me!”, she said to him.’ (OR‐19MA‐9)In (17)a, the verb che ‘eat’ has a basic valence of two (i.e. a subject and a direct
+object, and to this is added a third, applied argument, an affected object (cf. section
+5.2.4). In (17)b, the verb mala ‘go’, is a one‐place verb. In (17)b, there is also an
+indirect object and a purposive object (cf. section 5.2.5), extending the valency to
+three.
+  Ditransitives do not occur frequently in texts. They constitute only about 4.2% of
+all predicates. Almost all instances I encountered in the texts were combinations of
+a direct object with an applied object (89%). The subjects of these verbs are overtly
+expressed in 82.3% of all cases. This is roughly equivalent with subjects of
+transitive and extended intransitive verbs. In Table 45 above I collapsed the group
+of applied objects and direct objects. If we look at their behavior separately in
+ditransitives, we get the following picture:          Table 48 - Direct objects (O) and applied objects (E) in ditransitive verbs
+                     %OV %VO %Vo %EV %VE %Ve
+                     28.26 17.39 54.35 4.35             6.52      89.13Applied objects are dropped much more often than direct objects. The percentages
+are comparable to O‐drop in transitive predicates and E ‐drop in extended
+intransitive predicates:     Table 49 - Comparing direct object and applied object across multivalent verbs
+                            %OV %VO %Vo %EV %VE %Ve
+         transitive         18.55 21.27 58.37 *                 *       *
+         ext. intransitive *         *        *        6.36     10.95 82.69
+         ditransitive 7     28.26 17.39 54.35 4.35              6.52    89.13The percentages of direct object drop are not far apart (58.4% for transitives, 54.4%
+for ditransitives). The same holds for the dropping of applied objects: 82.7% in the
+case of extended intransitives, 89.1% in the case of ditransitives. It seems that the
+role of direct objects does not differ in ditransitive and transitive verbs, nor does
+7To be able to compare like with like, I have disregarded instances of doubly extended
+intransitives, i.e. a one place predicate with two applied objects. In practice this appeared
+to be only a small number; by far most instances were combinations of a direct object and
+an indirect object.","[291, 292]"
+"
+                                             72
+Morphology
+semantic head of the noun phrase. This can be described as follows: “the head of a
+noun phrase is the one word within the phrase that refers to the same entity the
+whole phrase refers to” (Payne 1997:33). So in an example such as (69), we might
+say that shunñe ‘man’ is the semantic head, and matata ‘big’ refers to a property of
+the man.(69) matata shunñe
+     big        man
+     ‘a/the big man’It can be said that the NP as a whole refers to a man, not to a big. In constructions
+such as the following, however, it seems that typical noun candidates are in fact
+not the semantic head:(70) a   chajmu shunñe
+         dog       man
+         ‘male dog’ [MV‐32MA‐9]
+     b   dyolojoto shunñe
+         amardillo man
+         ‘armadillo‐man’ 12 (AY‐2NC‐2)These are not morphological compounds, since each word carries its own primary
+stress. Nevertheless, constructions such as the ones in (70) are rather marginal. In
+the prototypical situation it is a property word that is in the modifying role.
+  The noun is not obligatory in the noun phrase, even though it is present in the
+vast majority of cases. If the head noun is missing, we are dealing with elliptic
+constructions in which it is clear from the context which object is referred to.(71) a   maj~matata       ti‐jusu‐ø
+         INTS~big         1SG‐want‐3
+         ‘I want a really big one [i.e. field].’ (AR‐8MI‐41)
+     b   sëjsëshi‐nñu tütü‐ø          ajani
+         green‐DIM        sit‐3       below:LOC
+         ‘The little green one [i.e. plate] is below.’ (FL‐14MA‐2)In (71)a, the reference is to a field, which has been the topic of conversation for the
+last couple of utterances 13. The same can be said for (71)b, where the topic of
+12 This might also refer to a male armadillo, but this particular example from a narrative
+refers to a male person, who has shared characteristics with an armadillo.
+13 The word maj~matata cannot be interpreted as a predicative complement of the verb ti‐jusu, (‘I want it to be big’), since then it would have to be marked with the intentional
+marker ‐ni and the subordinate marker =ti (cf. section 8.2.4)
+                                              73
+A grammar of Yurakaré
+conversation has been plates. It is only in these circumstances, i.e. when the
+referent is known from the context that we can have an adjective by itself in
+argument position.
+  Other criteria to establish the head of the NP are not really useful for Yurakaré.
+There is no clear agreement within the NP, while grammatical relations, number
+and articles cliticize to the NP as a whole rather than to one of the words in it.
+  Functionally, some nouns can be used as adjectives, as is shown in example (70)
+above. Other such nouns are pëpë (grandfather/old), tejte (grandmother/old) and
+yee (woman). Nouns can also function as predicates, without any overt marking to
+signal the change of category. I will come back to this when discussing verbs in
+section 3.3.3 below.
+  Morphologically, nouns can be set apart on the basis that they are the only word
+class that takes possessive marking in the form of personal prefixes, cf. (72)a or
+predicative possession, by means of the prefix i‐, cf. (72)b:(72) a   ti‐sibë
+         1SG‐house
+         ‘my house’
+     b   atta=jsha     i‐tanti‐ø
+         other=ABL     VBL‐eye;face‐3
+         ‘He had his face on the other side.’ (OR‐19MA‐20)However, some animals, i.e. pets cannot be possessed, they need a lexical
+classifier:(73) a   *ti‐talipa
+     b   ti‐tiba    talipa
+         1SG‐pet chicken
+         ‘my chicken’Property words cannot take possessive prefixes:(74) a *ti‐matata   ‘my big one’
+     b *i‐matata    ‘He has a big one.’ (JMB‐PC)Action words normally cannot take possessive prefixes either, except for some
+verbs. When they are marked with the possessive prefixes, these words refer to
+the result of an action and are nominal:
+                                           74
+Morphology
+(75) a   ti‐dula
+         1SG‐do;make
+         ‘my product’
+     b   ti‐nënë
+         1SG‐cook
+         ‘my cooking’
+     c   ti‐sawata
+         1SG‐work
+         ‘my work.’In conclusion, even though there is some spill‐over and the criteria have
+exceptions, nouns can be characterized by the fact that they are the semantic head
+of an NP, control the number behavior of the NP, and that they are by and large
+the only word class that takes possessive morphology. Nouns, and
+subclassifications of nouns will be discussed in more detail in section 4.4.","[87, 88, 89, 90]"
+"
+                                         212
+The verb phrase
+(83) a    l‐ati        ense‐ø=w     chajti     mororo     a‐tuwë=y
+          REF‐DEM      drink‐3=PL always mountain 3SG.P‐trunk=LOC
+          ‘That is where they always went to drink, at the foot of the hill.’ (FA‐6MA‐9)
+      b   i‐sama=ya          mala=ya chërë‐ø        chajti=ya        na    yee
+          VBL‐water=NVR go.SG=NVR scratch‐3         always=NVR DEM woman
+          ‘When she went to get water, she always scratched it, this woman.’ (AR‐8MI‐2)
+      c   dun      dun     ma‐shëwë        dun    dun     ma‐shëwë         chajti=ya
+          IDEO     IDEO    3PL‐be.dark     IDEO   IDEO    3PL‐be.dark      always=NVR
+          ‘They always hammered until they were caught by the night.’ (OR‐20MA‐1)In (83)a, there is a simple predicate ensew, modified by the adverb chajti, which directly
+follows it. Even though I have never encountered chajti in preverbal position, it does
+not seem impossible, especially when the meaning is stressed.
+  This adverb often has a wide scope. In (83)a, the scope of the adverb extends to the
+location mentioned. They did not ‘always just drink’, but ‘they always drank there’. In
+(83)b, the adverb has scope over the entire proposition isamaya malaya chërë. And for
+(83)c, finally, the same argumentation can be given: the adverb has scope over the
+whole proposition. In addition, the repetition in this example already indicates
+iterativity.
+  There can be elements in between the predicate and the adverb, like direct objects, cf.
+(84)a, applied objects, cf. (84)b, and even adjuncts, cf. (84)c:(84) a    ñowwo idu=ya            tiya‐ø    lëtta ñowwo chajti=ya        a‐yee
+          manioc fry=NVR         eat‐3      one manioc always=NVR 3SG.P‐sister
+          ‘His sister always fried and ate one manioc.’ (AY‐3NC‐4)
+      b   ma‐bobo=ya           ka‐ma‐n‐wita‐ø=ya             a‐meme        chajti=ya
+          3PL‐hit;kill=NVR     3SG‐3PL‐IO‐arrive.SG‐3=NVR 3SG.P‐mother always=NVR
+          ‘When he killed them, he always took them to his mother.’ (AR‐8MI‐44)
+      c   l‐achu‐ta            ma‐n‐tütü‐ø=w        yarru=tina chajti=ya       ma‐ba=w
+          REF‐like.that‐MID    3PL‐IO‐sit;be‐3=PL chicha=COM always=NVR        3PL‐husband=PL
+          ‘They always waited for their husbands like that with chicha.’ (AR‐8MI‐90)It may very well be the case that chajti has a verbal origin, and to some extent it still
+functions as a predicate. There are two parts recognizable within the word: cha and jti.
+The latter is the marker for habitual aspect, and the former is seen in many words
+based on the demonstrative ati (cf. section 4.4.4 above):(85) ati          ‘that’
+     achu(ta)     ‘(be) like that’
+     (a)chama     ‘(do/be) like that’The word chajti then probably means ‘it is (was) always like that’. Another clue
+pointing to the verbal nature of chajti, is the fact that it often occurs with the non‐                                           213
+A grammar of Yurakaré
+veridical enclitic =ya, normally only associated with predicates (cf. section 7.1.1). On the
+other hand, it does not fully behave like a verb in the sense that when two clauses are
+combined there often is an intonation break and morphological marking on the
+dependent predicate; if there is no intonation break, there is a fixed order, in which the
+dependent predicate precedes the main predicate. Chajti does not comply with this
+behavior.
+  The adverb lacha ‘too’ or its variant layj also seems to have a relation to the
+demonstrative ati, with the specificity prefix l‐. Positionally, lacha is mostly postverbal,
+either directly following the predicate or with some other element in between:(86) a   latijsha ma‐dyuja‐jti‐ø=ya       lacha mororuma              ma‐la‐deche‐ø=ti
+         then       3PL‐heal‐HAB‐3=NVR too        mountain.person 3PL‐AFO‐meet;find‐3=DS
+         ‘The mountain person also healed the ones who fell ill.’ (AR‐8MI‐88)
+     b   bali‐jti=ya       pëpë‐shama=w         lacha arroyo=la ajuyja‐ni‐shta=ya
+         go:PL‐HAB=NVR grandfather‐PST=PL too            creek=INS fish‐INTL‐FUT=NVR
+         ‘The ancestors went fishing as well along the creek.’ (AY‐3NC‐6)
+     c   latijsha dula‐ø=w=ya           latiji           na    pëpë‐shama=w
+         then       do;make‐3=PL=NVR subsequently DEM grandfather‐PST=PL
+         ma‐tomete lacha
+         3PL‐arrow too
+         ‘Then the ancestors made their arrows as well.’ (AY‐3NC‐8)In (86)a, the focus is on the mountain person’s characteristics, after telling what they
+looked like and how they behaved, the adverb lacha contrasts this characteristic with
+others of the mororuma. In (86)b, the former grandfathers are contrasted with other
+people who are also fishing at the creek. In (86)c, finally, the whole proposition of the
+former grandfathers making their arrows is marked with the adverb.
+  Lacha can, however, also be in clause‐initial position:(87) layj tuwa       ta‐tebe       ana    emme
+     too 1PL:PRN 1PL‐benefit DEM          meat
+     ‘This too was going to be our meat.’ (OR‐19MA‐20)6.5.3 Modal and phasal adverbs
+Unlike temporal and aspectual adverbs, modal adverbs tend to precede the predicate.
+The negative adverb nish (~nij), the phasal adverbs kaj ‘still’, and kani ‘not yet’ as well
+as sey (si) ‘almost’ directly precede the predicate:
+                                         214
+The verb phrase
+(88) a    nish     bata‐p        pa‐tewe=w=la
+          NEG      leave‐2PL.S 2PL‐foot=PL=INS
+          ‘You are not going to go on foot.’ (AY‐3NC‐9)
+      b   latijsha ma‐bali‐ø=w=ja       kaj      bali‐ø=w=ya
+          then       3PL‐go.PL‐3=PL=SS still     go.PL‐3=PL=NVR
+          dyuluj‐ta=ya         latiji          ma‐shinojshi
+          scared‐MID=NVR       subsequently 3PL‐heart:LOC
+          ‘Then, they took them, and while they were still walking they got scared.’ (AY‐3NC‐9)
+      c   kani       puwa‐ø=w=bëla      ku‐ta‐jti‐ø=ya
+          not.yet drunk‐3=PL=CNT 3SG.CO‐say‐HAB‐3=NVR
+          ‘“They are not drunk yet”, he said.’ (AR‐8MI‐61)
+      d   sey        ka‐la‐tuwi‐ø=ya           a‐yee
+          almost 3SG‐AFO‐die.SG‐3=NVR          3SG.P‐sister
+          ‘His sister almost died on him.’ (AY‐2NC‐9)The adverbs kaj, nish and sey are somewhat deviant words in that they are
+monosyllabic, while there is a prohibition on monosyllabic content words. This is
+something that they have in common with a number of state/manner adverbs (cf.
+section 6.5.6). Manner adverbs, as we will see below, are also preverbal.
+  Some of the modal adverbs are morphologically transparent. The negative adverb
+nish has an independent form nijta (i.e. which can occur without a verb), which seems
+to be nij + ta (middle voice marker) meaning, ‘there is no(ne)’. The form nish has ‐sh,
+which is an adverbializing suffix. The adverb kani also seems to be a fused form,
+combining kaj and ni (negative).
+  Two further, epistemic modal adverbs seem to be intermediate between adverbs and
+verbs: yokkoshe ‘true’ and kusuti ‘maybe’.(89) a    yokkoshe tiya‐m           mem=la         tiya‐m=ja         ku‐tu=ya
+          true        eat‐2SG.S mother=VAL         eat‐2SG.S=SS      3SG.CO‐say:3PL=NVR
+          ‘“Did your really eat it, mother?” they said to her.’ (AR‐8MI‐25)
+      b   kusuti lëshie shuwi‐ø=ti mapa‐kka‐ø=ya                latiji
+          maybe two         moon‐3=DS big‐MEA‐3=NVR             subsequently
+          ‘After maybe two months, he was already big.’ (AR‐8MI‐27)In (89) yokkoshe and kusuti are used adverbially here. Yokkoshe, however, can occur by
+itself, without a predicate to modify, a characteristic not associated with adverbs in
+Yurakaré:(90) yokkoshe mem=la            nish     ta‐n‐shiwa‐m=la          ku‐ta‐ø=w=ya
+     true          mother=VAL NEG        1PL‐IO‐lie‐2SG.S=VAL     3SG.CO‐say‐3=PL=NVR
+     ‘“It is true, mother, you did not lie to us”, they said to her.’ (AR‐8MI‐31)
+                                             215
+A grammar of Yurakaré
+The end of the first clause yokkoshe memla is marked by the affirmative marker =la, this
+means that yokkoshe here functions as a predicate.
+  Kusuti seems to be a fixed expression which can be analyzed as kusu‐ø=ti, ‘if it wants’.
+Kusu is a verb meaning ‘to want’, =ti is a subordinating enclitic, expressing, among
+other things conditionality (cf. section 8.2.4).","[227, 228, 229, 230, 231]"
+"
+                                              123
+A grammar of Yurakaré
+(97) a    dyummë‐ba=y
+          cold(weather)‐AST=LOC
+          ‘in the time of the cold weather’ [DAY‐1980‐35]
+     b    ma‐josecha‐ba=y
+          3PL‐harvest‐AST=LOC
+          ‘in the time of their harvest’ [DAY‐1980‐35]4.4.3 Category‐changing derivation
+There are three category‐changing derivational suffixes that can be found on nouns: an
+adjectivizer ‐kka, a verbalizer i‐ and an adverbializer ‐shku(ta).‐kka: ‘measure’The suffix ‐kka is added mostly to demonstrative pronouns to indicate that the size of
+something is comparable to a size indicated (mostly by holding the hand on a certain
+height).(98) ana‐kka‐ø
+     DEM‐MEA‐3
+     ‘He is this big.’ (indicating height with hand)The suffix ‐kka changes the nominal element into an adjectival one; consequently it can
+receive the collective marker ‐ima or the distributive marker ‐uma:(99) a‐werta        ana‐kk‐ima
+     3SG.P‐basket   DEM‐MEA‐COL
+     ‘His basket was about this big.’ (AY‐3NC‐7)It is also found on proper names (100), as well as on the question word ama (101):(100) ti‐tëë                karina‐kka     ati
+      1SG‐niece;nephew      Karina‐MEA     DEM
+      ‘She was the size of Karina.’ (BT‐27MA‐10)(101) aj~ama‐kka        mi‐jusu‐ø     ta‐jukkulë    mi‐n‐dula‐ni=ti
+      INTS~which‐MEA    2SG‐want‐3 1PL‐field        2SG‐IO‐do;make‐INTL:1SG.S=DS
+      ‘What size would you like me to make our field?’ (AR‐8MI‐41)The suffix ‐kka in the sense of size is often found in combination with the amplification
+marker ‐lë. When this suffix is attached, the marker ‐kka loses its gemination and is
+                                            124
+The noun phrase
+rendered ‐ja after a vowel (because of the lenition of [k], see section 2.3.2 above). The
+interpretation of this combination is small size:(102) kumë‐nñu ana‐ja‐lë               ajtilya‐nñu       ti‐ja‐mal‐cha‐m
+      tree‐DIM     DEM‐MEA‐AMP         splinter‐DIM      1SG‐3SG‐go.SG‐JUS‐2SG.S
+      ‘Bring me a small tree, only this size, a splinter!’ (OR‐20MA‐2)Even though the marker seems to attach mostly to nominal elements, it can also appear
+on the verb abibë ‘to be enough’:(103) abibë‐kka‐ø‐naja          ta‐jukkulë
+      be.enough‐MEA‐3‐DSC       1PL‐field
+      ‘Our field is big enough now.’ (AR‐8MI‐42)As mentioned in section 4.3 above, in combination with the locative marker =y and the
+ablative marker =jsha, this suffix can also indicate a certain stretch of time:(104) a   nentaya    ati‐kka=y          ka‐toro‐ø      ati
+          maybe      DEM‐MEA=LOC        3SG‐end‐3      DEM
+          ‘Maybe he died in that time.’ (AR‐8MI‐88)
+      b   latijsha dula‐ø         ati‐kka=jsha       kokko       mala‐cha‐m
+          then     do;make‐3 DEM‐MEA=ABL             throw.PL go.SG‐JUS‐2SG.S
+          ‘Then he made [salt], and after that time (she said): “Leave me some.”’
+                                                                             (AR‐8MI‐82)In this sense of time reference, the suffix ‐kka seems less rigid as to the word class of the
+root it attaches to. This is probably for semantic reasons: to indicate the size of
+something presupposes a root that has some size, while in the temporal sense, it only
+presupposes a state or event that is (or can be) durative, even though some speakers
+have difficulties interpreting the following words 25:
+25These examples are taken from a traditional song, which not many people know anymore.
+Consultants said that the language of traditional songs is somewhat different from everyday
+speech. Possibly, the examples in (105) are not very good representatives of what is and what is
+not possible in the language.","[138, 139, 140]"
+"                              Table 1 ‐ Yurakaré consonants
+                           labial     alveolar palatal    velar    glottal
+           plosives        p          t          tÉS      k        (/)
+                           b          d          dJ
+           fricatives                 s          S                 h
+                                      ®£
+           nasals          m          n          ¯
+           laterals                   l
+           semivowels      w                     j
+                                           8
+Introduction
+                                Table 2 ‐ Yurakaré vowels
+                            front                              back
+                  high      i                 ˆ                u
+                  mid                e                 o
+                  low       Q                 aSyllable structure is (C)V(C), with a number of restrictions on which consonants
+can be in the coda (cf. section 2.3.1). Morphophonological processes include
+lenition (restricted to /k/), assimilation (mostly of consonants), elision (mostly
+vowels), and gemination (both vowels and consonants). Stress assignment is more
+complex. Yurakaré feet are iambic, counted from left to right; primary stress is
+assigned to the rightmost dominant node and the final syllable is extrametrical.
+However, there are affixes that bear their own prosodic information. Some affixes
+attract (secondary or primary) stress, while yet others avoid being stressed. I call
+the former stress‐attracting and the latter stress‐avoiding morphemes. Apart from
+these two types of affixes, there are also prosodically neutral affixes and
+diacritically marked roots.
+  Morphologically, Yurakaré can be characterized as an agglutinating language on
+the scale of fusion, and fairly polysynthetic on the synthesis index.(1)   ti‐ma‐y‐mala‐m=chi             ku‐ta‐ø=ya
+      1SG‐3PL‐PO‐go.SG‐IMP.SG=IGN 3SG.CO‐say‐3=NVR
+      ‘Go and get them for me, she said to him.’ (OR‐19MA‐9)Verbs are usually morphologically complex, without much fusion. This can be
+observed in example (1), where three participants are marked on the verb (ti‐ for
+first person singular, ma‐ for third person plural object, and ‐m for second person
+singular subject, as well as an applicative marker y‐ specifying the role of the third
+person plural object (purposive). The ignorative marker is cliticized onto the verb.
+The fact that this utterance in itself is a grammatically correct and complete
+sentence illustrates the polysynthetic character of the morphology. There is no
+incorporation of lexical items, however. Morpheme boundaries are generally
+easily separable in Yurakaré and there is often a one‐form‐one‐meaning
+correspondence. There is some fusion, however. As can be seen in example (1),
+there is fusion of the categories person and number in cross‐referencing affixes,
+and sometimes there is also fusion of grammatical relation markers with person
+and number, as is the case with ku‐ in kutaya. In the case of the imperative there is
+fusion of ‘imperative’ and number.
+  Yurakaré distinguishes seven wordclasses: nouns, verbs, adjectives, adverbs,
+ideophones, interjections and clitics. The last three may possibly be subsumed
+under the higher‐level category of particles.","[23, 24]"
+"
+                                           154
+Verbal agreement, voice & valency
+  The beneficiary reading of the direct object can be observed in the following
+instances:(23) a    ti‐n‐dula‐ø        ti‐sibë
+          1SG‐IO‐do;make‐3 1SG‐house
+          ‘He made me my house.’ [RF‐16MA‐12]
+      b   ti‐n‐ewe‐ø      ti‐sibë=y
+          1SG‐IO‐sweep‐3 1SG‐house=LOC
+          ‘He swept my house for me.’ [MH‐7MA‐3]
+      c   ti‐n‐tëptë‐ø    ti‐bëshë
+          1SG‐IO‐wash‐3   1SG‐entity 6
+          ‘She washed my clothes for me.’ [FL‐10MA‐2]Verbs denoting states, processes or achievements also often carry this applicative. The
+indirect object denotes the person that benefits from the state of affairs that has arisen:(24) a    ti‐n‐duta‐ø      ayma
+          1SG‐IO‐burn‐3 fire
+          ‘The fire is burning (after I prepared it).’ [AA‐17MA‐2]
+      b   ti‐n‐kula‐ø      ti‐chata
+          1SG‐IO‐boil‐3 1SG‐food
+          ‘My meal is boiling.’ [FP‐16MA‐15]
+      c   ti‐n‐sa‐ø=naja         ti‐sawata
+          1SG‐IO‐finish‐3=DSC 1SG‐work
+          ‘My work is done.’ [VP‐22MA‐8]
+      d   nij      ti‐n‐suwita‐ø          ti‐ballata
+          NEG      1SG‐IO‐come.up‐3       1SG‐plant.seed
+          ‘My plants are not coming up.’ [FL‐10MA‐2]In all of the examples in (24) the indirect object profits somehow from the coming
+about of a state. This benefit often has to do with the fact that the indirect object is the
+possessor of one of the core participants, a construction known as external possession.
+Core instances of external possession are described as “constructions in which a
+semantic possessor‐possessum relation is expressed by coding the possessor as a core
+grammatical relation of the verb and in a constituent separate from that which contains
+the possessum” (Payne & Barshi 1999:3). Note that we are not dealing with possessor
+raising here, since the possessor may still be marked on the noun, as is the case in
+(24)b‐d.
+  The indirect object can sometimes also mark a detrimentally affected dative of
+interest:
+6Bëshëë (which loses its final vowel when prefixed with a singular possessive prefix) has a
+rather vague meaning, but it is often interpreted as ‘clothing’, sometimes ‘game’ for hunting.","[169, 170]"
+"                                          165
+A grammar of Yurakaré
+(52) a   a‐wështi
+         3SG.P‐hunger
+         ‘He is hungry.’
+     b   a‐samti
+         3SG.P‐thirst
+         ‘He is thirsty.’
+     c   a‐dyolti
+         3SG.P‐anger
+         ‘He is angry.’There is one verb that has a non‐canonically marked agent, which is not an experiencer,
+the verb dyërërë ‘speak, converse’:(53) a   ti‐n‐dyërërë
+         1SG‐IO‐converse
+         ‘I speak, converse.’
+     b   ka‐n‐dyërërë
+         3SG‐IO‐converse
+         ‘He speaks, converses’There is some evidence that the participant, encoded formally as an indirect object
+here, is treated as the subject: imperatives and jussives relate to the indirect object
+participants:(54) a   pi‐pa‐n‐dyërërë
+         IMP.PL‐2PL‐IO‐converse
+         ‘Speak, converse!’ [MH‐14MA‐19]
+     b   mi‐n‐dyërërë‐cha
+         2SG‐IO‐converse‐JUS
+         ‘Speak, converse!’ (FL‐27MA‐9)The only way in which this verb can take a normally encoded subject is the following:(55) ku‐dyërërë‐m
+     3SG.CO‐converse‐2SG.S
+     ‘You converse with him.’
+                                           166
+Verbal agreement, voice & valency
+5.2.8 Combinations of head‐marked arguments
+There can be maximally three arguments encoded on the verb. One of these is always
+the subject (with possibly the exception of a few experiencer verbs, as discussed
+above), the other two can differ. Direct object can be combined with the cooperative
+object, indirect object and affected object:Direct object & cooperative object(56) ku‐ma‐weshwe‐y
+     3SG.CO‐3PL‐scrape‐1SG.S
+     ‘I help him scraping them.’ [FP‐14MA‐20]Direct object & indirect object(57) ti‐ma‐n‐kaya‐ma
+     1SG‐3PL‐IO‐give‐IMP.SG
+     ‘Give them to me.’ [FP‐13MA‐13]Direct object & affected object(58) ti‐ma‐la‐che‐ø=w      ti‐petche=w     ti‐tib     chajmu
+     1SG‐3PL‐AFO‐eat‐3     1SG‐fish=PL     1SG‐pet    dog:PL
+     ‘My dogs ate my fish on me.’ [FL‐13MA‐9]In all three examples the marker referring to the direct object comes in between the
+applicative marker and the cross referencing suffix associated with that applicative
+marker:(59) position      2   ‐      1      ‐   0
+                   CO ‐       DO     ‐   root
+                   IO
+                   AFOThe comitative object can also be combined with other applicative objects. In these
+combinations, it behaves like a direct object as far as placement is concerned: before the
+applicative marker, after the cross‐referencing prefix associated with that applicative
+marker.","[180, 181, 182]"
+"                                            290
+The clause
+marked by the fact that subject agreement and TMA marking are not present on
+the deranked predicate.
+  Subordinate forms with =ya are also deranked; they show no subject agreement
+and in their marking of TMA distinctions they are dependent on the main
+predicate. There are also independent clauses marked with =ya. In those
+circumstances =ya indicates non‐veridical modality (cf. section 7.1.1).
+  The column under =ja has two ‘+’‐values. With this I mean that there are both
+balanced and deranked constructions marked with =ja. I will discuss the relevant
+conditions in 8.2.3 below.
+  Clauses marked with =ti have the full range of possibilities for marking TMA
+and person marking. The difference with the balanced versions of =ja‐marked
+clauses is that the =ja clauses must have the same subject as the main predicate 14,
+while =ti marked clauses normally have a subject different from that of the main
+predicate. Moreover, =ti is the only subordinating morpheme that can be further
+specified by means of a postposition (cf. section 8.2.4).
+  In the last column of Table 51, there is an unmarked, balanced combination of
+clauses. This means that the combined predicates each have the full range of
+possibilities of person marking and TMA‐marking. The meaning of the
+combination can be specified by means of an independent word. Most of these
+constructions are coordinated.
+  The five strategies mentioned in Table 51 form a continuum: from left to right
+the grammatical integration with the main predicate is increasingly lower.
+According to Givón (2001b:40), “the stronger the semantic bond between the two
+events, the more extensive will be the syntactic integration of the two clauses into
+a single though complex clause”. This means that a decline of grammatical
+coherence should coincide with a decrease of semantic coherence with the main
+predicate.
+  In the next sections (8.2.1‐8.2.5) I will describe the five strategies used for clause
+combining in turn, indicating their formal and functional properties. In section
+8.2.6 I give some alternative strategies used to encode clause combinations. In
+section 8.2.7, finally, I will give an overview of the types of clause combinations
+and the way they are marked.","[305, 306]"
+"                                            7
+A grammar of Yurakaré
+the Macro‐Quechuan network, including inter alia nearby languages such as
+Quechua, Itonama, Mosetén, and Cayuvava. Greenberg (1960, 1987) and Key
+(1979) classify Yurakaré as an equatorial language, in the Andean‐Equatorial
+stock, along with, among others, Cayuvava, Arawak, and Tupi languages. Suárez
+(1974) links Yurakaré to Mosetén (something which had been suggested by
+Metraux in a personal comment to Mason 1950:275) and Chon languages, as well
+as to Pano‐Tacanan in a stock he calls Macro‐Pano‐Tacanan.
+  All authors that have considered Yurakaré in their classification base their
+proposals on La Cueva (1893), which is a rich source, but not rich enough to justify
+these classifications (cf. Suárez 1974:137‐138). Secondly, the correspondences they
+find are not overwhelming, as confirmed by Campbell (1997:192) and Adelaar
+with Muysken (2004:27‐29). Using a word list with 133 items, Greenberg (1987)
+only finds 22 correlates for Yurakaré, some of which are rather far off from their
+cognate examples both formally and notionally. The highest number of lexical
+correlations that Suárez (1974) finds for Yurakaré is with Tacana (14 out of 100 ‐ cf.
+Suárez 1974:138). He also finds some systematic correspondences in the
+pronominal system, some grammatical categories and phonology, but these are
+sometimes due to errors in La Cueva’s grammar (e.g. causative ma‐, focus marker ‐
+ya, negator chama).
+  In the light of these controversies, it is best to regard Yurakaré as an unclassified
+language, for which convincing evidence has not (yet) been found to classify it
+with (an)other language(s) in a larger group. Hopefully this grammar will
+contribute to shed some more light on this issue.","[22, 23]"
+"A number of examples will serve to illustrate the characteristics mentioned here:(45) a       l‐ati        chitta      mala‐ø=ja      latijsha ma‐bëbë‐ni‐ø        a‐wishwi=w
+             REF‐DEM      throw.SG go.SG‐3=SS then              3PL‐search‐INTL‐3 3SG.P‐tail=PL
+             ‘When he left him, he went looking for his tail.’ (AR‐8MI‐55)
+       b     ka‐la‐mashi‐ø=chi      achaya wilita‐cha‐ø         ti‐n‐kaya‐cha‐ø
+             3SG‐AFO‐rain‐3=IGN so.that return‐JUS‐3            1SG‐IO‐give‐JUS‐3
+             ti‐n‐chitta         mala‐cha‐ø tullë ku‐ta‐ø=ya
+             1SG‐IO‐throw.SG go.SG‐JUS‐3 salt 3SG.CO‐say‐3=NVR
+             ‘“Maybe he gets caught by the rain so that he must return, so that he gives me, so
+             that he leaves me salt”, she said.’ (AR‐8MI‐82)
+       c     pa‐n‐kokko           bata‐y         ana      ropa
+             2PL‐IO‐throw.PL      leave‐1SG.S DEM         clothing
+             I will leave you these clothes.’ (AY‐2NC‐9)The examples in (45), are all of the same type, combining the verb chitta/kokko 15 ‘to
+throw’ with a movement verb. In (45)a, the clausal marker =ja (cf. section 8.2.3) is
+shared by the two verbs chitta and mala, i.e. the combination of verbs is marked for
+subordination, not just one of them. In (45)b we can see that the two verbs share
+the jussive marker ‐cha, which is the modality for the combination of verbs, but
+only marked on the second verb. The cross reference + applicative prefixes ti‐n‐ in
+15This verb has a suppletive stem which changes according to the number of objects (cf.
+section 6.2.2)                                               292
+The clause
+(45)b and pa‐n‐ (45)c are marked on the dependent verb. Apparently, dependent
+verbs of this type can be marked for object agreement, but not for subject
+agreement. This latter point can be seen in (45)c, where the subject agreement
+marker ‐y for first person singular is only found on the rightmost verb; the
+examples in (45)a‐b seem to have the following structure.(46) [[chitta]vp[mala]vp subject]sThe examples in (45) denote two highly integrated events that share subject and
+TMA. In (45)c, the fact that we can have another verb than mala/bali ‘to go’ shows
+that we are not dealing with a frozen expression. The construction in (45) looks
+most like a serial verb construction, cf. Sebba 1987: 86‐87, who mentions shared
+subject, TMA, polarity, as well as simultaneity or consecutivity of the two events
+as generally accepted characteristics of serial verb constructions.
+  Simultaneous action can also be indicated with a serial verb construction,
+though this is less common, and the examples are not very clear:(47) a       pelota     otto      mala‐ø sibbë         inele=jsha
+             ball       go.out go.SG‐3 house           inside‐ABL
+             ‘The ball rolled out of the house.’ [FR‐PC]
+      b      i‐gora       mala‐m=la=yu
+             VBL‐cap      go.SG‐2SG.S=VAL=EXPR.F
+             ‘You did go with your cap!’ (DV‐14MA‐2)
+      c      ta‐n‐dyërërë 16      chichi‐tu        achittu=chi
+             1PL‐IO‐converse      cross.PL‐1PL.S other.side=DIR
+             ‘While talking we crossed the river to the other side.’[FA‐24MA‐16]Syntactically, (47)a and c are difficult to distinguish from coordinate clauses
+without overt marking (cf. 8.2.5), since there is no overt person or TMA inflection.
+They can be distinguished by the fact that they are pronounced within a single
+intonation phrase. In (47)b, there is overt person marking. Here we see that the
+subject is indeed shared: igora ‘have, carry, wear a cap’ would have person
+marking in other circumstances, but here it does not since it shares the subject
+with mala ‘go’. I have found only instances of this particular construction where
+the rightmost members are movement verbs.
+  The rightmost verb in these constructions takes its own object marking:
+16The verb dyërërë has deviant person marking; the person conversing is indicated as an
+indirect object. Apparently, it still has to be expressed since it is not a subject syntactically,
+cf also the constructions discussed below in this section.","[307, 308]"
+"
+3.2.5 Cliticization
+Yurakaré has a number of clitics of different types in the nominal as well as the
+verbal domain. The term clitics has been used to describe distinct phenomena (cf.
+Halpern 1989:101). It is therefore important to define clitics in a particular
+language.
+  Clitics have to be distinguished from independent words on the one hand and
+from affixes on the other. The main characteristic that sets clitics apart from
+independent words in Yurakaré is that with combinations of two independent
+words, each has primary stress, while combinations of a word with one or more
+clitics have only one stress peak.(41) a    li-ma-ujwa-ni-jti-ø           na     yee=w
+          DEL‐3PL‐look.at‐INTL‐HAB‐3 DEM       woman=PL
+          ‘He was going to look at those women.’ (AR‐8MI‐61)
+      b   a‐ense‐jti=w=ya           ana    yee=w
+          INC‐drink‐HAB=PL=NVR DEM         woman=PL
+          ‘These women started drinking’ (AR‐8MI‐61)The opposition is between the two noun phrases na yeew and ana yeew. Where the
+former has only one stressed syllable (indicated in the example with italics), the
+latter has two. Moreover, the morpheme na violates the requirement that a word
+have minimally two syllables. Na, then, does not meet the requirements of
+wordhood in Yurakaré on two accounts. Since it is furthermore not found in
+isolation in this reduced form, and it is phonologically dependent I consider it to
+be a clitic.
+  Clitics can also be distinguished from independent words on the grounds that
+there are phonological processes between stems and clitics, which we generally do
+not find between words. One such process is vowel sandhi:
+                                           61
+A grammar of Yurakaré
+(42) a   inele elli
+         inside earth:LOC
+         ‘inside the ground.’ (AR‐3NC‐1)
+     b   a‐bontu
+         3SG.P‐son:PL
+         ‘her sons’ (OR‐19MA‐29)In (42)a, the enclitic =y has fused with the final vowel of elle ‘earth’, and in (42)b,
+the plural enclitic =w has fused with the final vowel /o/ of bonto ‘son’.
+  Elision and subsequent resyllabification are processes that occur only within,
+and not in between words. However, between clitics and words and between two
+clitics these processes do take place:(43) a   l‐achama=sh (underlying: l‐achama=jsha)
+         REF‐be.like.that=ABL
+         ‘nevertheless’ (OR‐19MA‐10)
+     b   a‐dujnë=nna (underlying: a‐dujnë=tina)
+         3SG.P‐game=COM
+         ‘with his game’ (OR‐20MA‐8)
+     c   otto‐ø=lam=naja (underlying: otto‐ø=laba=naja)
+         go.out‐3=SBJ=DSC
+         ‘It may have come out now.’ (OR‐20MA‐2)In (43)a, the enclitic =jsha ‘ablative’ has been reduced to =sh and is the coda
+consonant of the final syllable of the stem. In (43)b the enclitic =tina loses its first
+syllable, which is compensated by lengthening. In (43)c finally, the enclitic =laba is
+reduced to =lam, thus forming a heavy syllable in stead of two light ones.
+Yet another phonological process that does not take place between two words, but
+does between a clitic and a word, is place assimilation:(44) a   an titanti     [AntitAnti]   ‘this face of mine’   (FA‐6MA‐5)
+     b   an kummë       [ANkum˘Q]     ‘this tree’           (OR‐20MA‐2)
+     c   an puyni       [Ampujni]     ‘this sun’            (OR‐19MA‐29)
+     d   an yarru       [A¯jar˘u]     ‘this chicha’         (OR‐19MA‐30)In all of these examples, the nasal assimilates in place to the next vowel 10. Note
+that in examples (44)b and d, the proclitic an can be contrasted with the possessive
+10Since words generally do not end in a consonant in Yurakaré, the situation of a nasal
+final consonant does not occur very often. I have found one example: a‐embarkashon
+palantashon ‘his ship, plantation’ (OR‐20MA‐3) where there is no place assimilation.
+However, there is a slight pause between the two words which makes it dubious as a
+counterexample, moreover these are loan words.","[76, 77]"

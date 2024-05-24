@@ -1,0 +1,1540 @@
+Paragraph,Page number
+"In dependent clauses the constituent order appears to be rigid, verb-final (see §12.3). Theorder of constituents in those clauses with increased valency is AO1VO2, in those withdecreased valency is SOOBLIQUEV (see also Chapter 8).
+                                                                                               315
+6.4   Summary
+Generally, Murui has two mechanisms to distinguish syntactic functions of the corearguments in Murui: the morphological mechanism (i.e. the overt case marking on S/A and Oarguments) (discussed in §6.2), and the syntactic mechanism (i.e. if the grammatical markingis absent, the constituent order in which NPs occurs in relation to the predicate) (§6.3). Muruihas a nominative-accusative case marking system, and distinguishes between core andoblique arguments. The core arguments, the subject S/A and the non-subject O are subject todifferential case marking. Core arguments can also be marked for the locative/dative case,which can be omitted with pronouns. In Murui, it is the discourse status of the S/A and Oarguments (including their topicality and specificity) that determines whether they receive thecase markers. In addition to the core cases in the language, there are five oblique cases inMurui: locative, ablative, instrumental, benefactive-casual, and privative. Each has a numberof specific functions and meanings. Oblique cases do not co-occur with core-cases in a singleNP; an exception might be the ablative. The overview of core and oblique cases is given inTable 6.3. Murui has a nominative-accusative pattern of constituent ordering – S, A followedby O, occur before the V. The constituent order, however, allows certain flexibility.
+                                                                                      316
+                     Table 6.3 Murui core and oblique cases – summary
+            CASE AND FUNCTION               FORM                     MEANING
+                                                    - subject neutral with respect to
+                                               -Ø
+                                                    discourse status
+      topical                                       - referent topical
+                      - core argument:
+      subject                                       - referent referential
+                          S/A/VCS
+  (nominative)                                =dɨ   - referent known
+                                                    - referent specific
+                                                    - referent in (contrastive) focus
+                                                    - object neutral with respect to
+                                               -Ø
+                                                    discourse status
+                                                    - referent topical
+      topical
+                      - core argument:              - referent specific
+   non-subject
+                          general O                 - referent affected
+   (accusative)                               -na
+                                                    - referent topical
+                                                    - emphatic referent
+                                                    - referent in (contrastive) focus
+                                                    - pronouns and personal names neutral
+                                               -Ø
+                      - core argument:              with respect to discourse status
+    addressee        addressee/recipient            - obligatory for all NPs except for
+(dative/locative)     -second O NP of               pronouns and personal names
+                           strictly           -mo   - focus on the addressee (contrastive
+                       transitive verbs             focus)
+                                                    - correlates with Nominal Hierarchy
+                                                    - locative
+     locative             - oblique           -mo
+                                                    - temporal (type of a clause linking)
+                                            -mona - motion away ‘from’ (-mo, -na)
+     ablative             - oblique
+                                              -na   - location (-na)
+                                                    - ‘by means of’ (instrumental)
+                                                    - ‘by, through’ (transportative)
+  instrumental            - oblique           -do
+                                                    - ‘by help / assistance of’
+                                                    - ‘together with’ (comitative)
+                                                    - ‘because of’ (causal)
+  benefactive-
+                          - oblique            -ri  - ‘for, in favour of, because of’
+      causal
+                                                    (benefactive)
+                                             -nino
+     privative            - oblique                 - ‘without’
+                                            -ñeno
+                                                                                                  317
+7 Predicate structure, non-spatial, and spatial settingThis chapter covers the grammatical expression of non-spatial setting and spatial setting inMurui. The structure of a Murui predicate is discussed in §7.1. This is followed by thedescription of Murui non-spatial setting in §7.2: the grammatical categories which expressthe timing of activity (see §7.2.1 on tense), the internal composition of activity (aspect,§7.2.2), speaker’s attitudes towards the event (modality, §7.2.3), as well as those categorieswhich provide information about the source of acquired knowledge (evidentiality andepistemic modality, §7.2.4). Spatial setting (i.e. direction and location expressed with affixeson verb), the andative and ventive, are discussed in §7.3. The last section §7.4 offers a briefsummary.","[339, 340, 341, 342]"
+"      The core arguments of verbless clauses, Verbless Clause Subject (VCS) and VerblessClause Complement (VCC), are shown by adposition. VCS and VCC do not receive any
+                                                                                                          450
+distinctive marking. 279 The preferred order for the constituents in verbless clauses isgenerally VCS - VCC (carried over from the preferred SV and AOV constituent orders).","[474, 475]"
+"
+F. THE PREDICATE’S SEMANTIC GROUP – objects of verbs of perception, as well as verbs ofliking and knowing, obligatorily occur with the -na marker, as in (6.81-82), as well as (6.71)above.
+(6.81) aaaɨ!            ‘oo-naO           kɨo-d-e=ta’PRED   yo-t-ePRED
+         INTERJ.EMPH    2sg-N.S/A.TOP     see-LK-3=REP      tell-LK-3
+         ‘Ah, he said that he saw you!’
+(6.82) ‘kue-moO:ADDRESSEE yo-ñe-itɨ-makɨ!’PRED      rei-t-ePRED
+       1sg-LOC             tell-NEG-FUT.LK-3pl      say-LK-3
+       nai-e-naO                 kakarei-aka-ñe-d-ePRED
+       ANA.SP-CLF:G-N.S/A.TOP listen.TH-DES-NEG-LK-3
+       ‘“They won’t tell me!” (she said). (She) didn’t want to listen to this.’
+                                                                                                       294
+G. CONTRASTIVE FOCUS – the O NP arguments take the N.S/A.TOP marking if they are in somekind of a contrastive focus. Example (6.83) is a mother’s recommendation to her daughter notto buy rice but sugar in the village. 199
+(6.83) arosO   atɨ-ñe-itɨ-oPRED         asukar-naO          atɨ-itɨ-o!PRED
+       rice.Sp bring-NEG-FUT.LK-2sg sugar.Sp-N.S/A.TOP bring-FUT.LK-2sg
+       ‘You won’t bring the rice. You will bring the SUGAR.’
+G. DISAMBIGUATION BETWEEN NPS – with respect to the O NP marking in Murui, in somecontexts, the topical non-S/A subject marker -na is used to disambiguate between twoarguments. See examples (6.84-85) below. If the O NP was left unmarked, rɨño ɨni could beambiguous as a possessive construction (‘woman’s husband’) with the A argument not stated.
+(6.84) [rɨ-ño           ɨni]A      eo      gaaɨ-d-ePRED
+       woman-CLF:DR.F husband very like-LK-3
+       ‘The woman’s husband likes (it) very much.’
+(6.85) rɨ-ñoA            ɨni-naO            eo                          gaaɨ-d-ePRED
+       woman-CLF:DR.F husband-N.S/A.TOP very                            like-LK-3
+       ‘The woman likes the husband very much.’
+H. CONSTITUENT ORDER – when the O NP does not occur in the typical AOV constituentorder and the O argument is post-posed to the AV (AVO), it almost always receives thetopical non-S/A subject marking. This is illustrated in (6.86) where akie rafue ‘that story’ ispost-posed to the verb and therefore is topical (and in focus). (6.87) shows that the marker-na does not solely depend on the constituent order, as in both positions (pre-V and post-V)the O NP takes the topical non-S/A subject marker -na.","[318, 319]"
+"
+188
+      That is, unless they appear in the form of verbal classifiers, which, synchronically, appear to be unproductive
+in Murui. Traditional Murui seems to have had verbal classifiers that ‘refer’ to S and O arguments (never to A),
+as in tɨe-na-d-e (cut-CLF:TREE-LK-3) ‘cut down (trees)’ (Wojtylak, 2017b). Note that such ‘verbal classifiers’ are
+nowadays rare in Murui. In older texts (Petersen de Piñeros, 1994b; Preuss, 1921, 1923) verbal classifiers were a
+productive process deriving verbal stems (Petersen de Piñeros, p.c.).
+                                                                                                               271
+This is illustrated in (6.4-5). The difference between these two examples is related to howtopical the referent is in the context. In (6.4) nokae ‘canoe’ is unmarked implying that thecanoe is not topical and has a ‘generic’ referent. In (6.5) ‘canoe’ is specific (a speaker has aspecific referent in mind) and is therefore marked with topical non-S/A subject marker -na. 189The marking of the core cases (S/A and O) is discussed in §6.2.
+(6.4)      nokaeO fɨno-dɨ-o?PRED
+           canoe    make-LK-2sg
+           ‘Did you make a canoe?’ (enquiring if you made a canoe)
+(6.5)      nokae-naO         fɨno-dɨ-o?PRED
+           canoe-N.S/A.TOP make-LK-2sg
+           ‘Did you make the canoe?’ (implying that you know how to make canoes)
+In addition to the typical SV/AOV constituent order (see §6.3), the overt core-case marking isone of the main grammatical mechanism to distinguish core arguments within a clause (seealso Chapter 8 on valency-changing mechanisms). When no overt morphological marking ofgrammatical relations is present, in order to avoid any potential misunderstanding, the orderof the NPs helps to determine syntactic functions of core arguments. It is thus apparent thatthere are two mechanisms for distinguishing syntactic functions of the core arguments inMurui: the morphological mechanism (i.e. overt case marking on S/A and O arguments) andthe syntactic mechanism (i.e. constituent order).","[295, 296]"
+"
+6.2.1       Core argumentsThe marking of syntactic function of the core arguments S/A and O is dependent on discourseproperties of core constituents. The marking of the core arguments is summarized in Table6.1. The term ‘topical’ refers to S/A and O arguments that are topical in discourse. 190
+190
+      Murui has a focus marker -ka on pronouns, as in: kue-ka jaie=koni raotɨkue (1sg-FOC PAST=LOC hunt-LK-
+1sg) ‘Long time ago (when I was young) I used to hunt (a lot).’ The focus marker -ka is VERY RARE and occurs
+only in the speech of the elders. Petersen de Piñeros (2004: 150) gives some examples of -ka in Mɨka, as in buu-
+ka fɨno-dɨ (who-FOC do-LK) ‘who is it who did this?’ (note the omission of the pronominal subject markers on
+the verbs). The focus marker -ka is homophonous with the passive marker -ka/-ga.
+                                                                                                   273
+           Table 6.1 Grammatical relations and core case argument marking in Murui
+                             Nouns
+                                         Pronouns      Nouns      ‘Headless’
+Grammatical     Discourse      and
+                                          (1st and   marked for    nominal    Nominalizations
+  function        status    Pronouns          nd
+                                            2 )        number      modifiers
+                              (3rd)
+              non-topical       -Ø           -Ø           -Ø          -Ø             -Ø
+    A/S
+              topical          =dɨ          =dɨ          =dɨ         =dɨ       =dɨ (certainty)
+              non-topical       -Ø           -Ø           -Ø          -Ø             -Ø
+ O general
+              topical          -na          -na          -na         -na             -na
+O addressee/ non-topical        -Ø           -Ø            -           -              -
+ recipient    topical          -mo          -mo          -mo         -mo            -mo  6.2.1.1 S and A core arguments  The A and S arguments, together with the O arguments, form basic relations in Murui. Unlike  a prototypical object, a prototypical transitive subject is recognized as being in the A function  if it is “(…) that argument whose referent could initiate or control the activity (if anything  could)” (Dixon, 2010b: 76). There are a number of morphological and syntactic criteria in  Murui that identify the subjecthood of S and A arguments:
+  A. Verbal suffixes cross-reference the subject (S/A) on the predicate, e.g.:
+  (6.6) dɨno=koni                 kokoS bɨta-da-tɨ-kokoPRED
+        AT.CLF:SP.PLACE=LOCAL1    1du.m lie.on.ground.TH-BODY-LK-1du.m
+        ‘We (two men) lie down on the ground here.’
+  (6.7) nai-mɨeA          kueO ɨnɨ-ta-t-e PRED
+        ANA.SP-CLF:PR.M 1sg       sleep-CAUS-LK-3
+        ‘He made me fall asleep.’
+  Murui nouns are usually not marked for number if the plural reference is retrievable from the  context (see §5.2). The form of the 3rd person pronominal subject marking is always -e  expressing any kind of singular or plural meanings. In (6.8) the marker -e expresses the  group’s plurality of uzutɨaɨ ‘grandfathers’. When the animacy of S/A NP is emphasized and  the argument is individualized, the predicate takes 3rd dual and plural pronominal subject  markers, as in (6.9).
+  (6.8) jae  ua     uzu-tɨaɨS          jaai~jai-kai-d-ePRED          mei
+        PAST really grandparent-KIN.PL go~RED-INCP-LK-3              so
+                                                                                                274
+      nɨ-no-mo                 neka-zɨS                       uai-d-ePRED
+      Q2-CLF:SP.PLACE-LOC green.umarí-CLF:OVAL.SMALL fall-LK-3
+      ‘In the old times the elders were going (and going) to places where the umarí (fruit)
+      falls.’
+(6.9) [mano-ri-ra-ko                       i-makɨ]S
+      heal-DUR-CLF:NEUT-CLF:COVER ANA.NSP-CLF:PR.GR.AN
+      maka-fɨ-re-i-aka-dɨ-makɨ=zaPRED                   mai   kokoS maka-ri-zai
+      walk-CUST-ATT-EMPH-DES-LK-3pl=UNCERT LET                1du.m walk-DUR-ANDTV
+      [nai-makɨ               dɨne]LOC
+      ANA.SP-CLF:PR.GR.AN AT.LOC:NSP
+      ‘The hospital inhabitants (lit. those of the healing house) wanted to go (there) badly.
+      Well, let us (two males) go to them!’
+B. An NP that functions as S/A subject, can be either zero-marked or it can take the enclitic=dɨ. O arguments are never marked with =dɨ. In (6.10), jɨko ‘dog’ is in contrastive focus (thefactors conditioning the S/A focus marking are outlined in §6.2.1.2):
+(6.10) gatoS    bi-ñe-d-ePRED        jɨko=dɨS       bi-yaPRED
+       cat.Sp come-NEG-LK-3 dog=S/A.TOP come-E.NMLZ
+       ‘It was not the cat that came. It was the dog (lit. A cat didn’t come. The dog came.)’
+C. The typical constituent order is SV and AOV where the S and A arguments are pre-posedto the clause-final predicate. In the transitive clause of the AOV type, the placement of the Oargument is restricted and O cannot precede the A NP argument, unless it is marked for thetopical non-S/A subject case. Compare (6.11a) (with the AOV constituent order and no overtcase marking) with (6.11b) (with the AVO constituent order and the overt case marking). In(6.11b), akiena ‘this’ is topical.
+(6.11) a. navuida [uzu-ma                   Lusio]A jɨnuiO atɨ-d-ePRED
+          evening grandparent-CLF:DR.M Lucio          water bring-LK-3
+          aiyo-ko-moLOC
+          big-CLF:COVER-LOC
+          ‘In the evening grandfather Lucio brought the water to the big (maloka).’
+(6.11) b. nai-mɨeA            atɨ-d-ePRED   aki-e-naO
+          ANA.SP-CLF:PR.M bring-LK-3        AUDIT-CLF:G-N.S/A.TOP
+          ‘He brought this (as heard).’
+                                                                                                                275
+D. Murui has the S/A pivot where the S and A arguments are a common argument of twolinked clauses (so-called the ‘nominative-accusative’ S/A pivot), as in (6.12):
+(6.12) PedroA nai-ñaiño-naO                 kɨo-d-ePRED                 ØS jakɨ-nai-t-ePRED
+       Pedro ANA.SP-CLF:PR.F-N.S/A.TOP see-LK-3                         (he) scared-BECOME1-LK-3
+       ‘Pedro saw her (and he) got scared.’
+E. In addition to the criteria for recognition of the S/A subject outlined above, there are alsomore associations between the S and A arguments. In Murui, the referent of both S and A is2nd person in canonical imperative constructions (see §11.1). 191 Usually, the S and Aarguments are not explicitly stated, and they are understood from the context. The imperativein (6.13) below is an example of an intransitive clause where the S argument is not stated.","[297, 298, 299, 300]"
+"
+(8.42) Sandriela=dɨA     MariaO jo-fo-moLOC                   maka-ri-ta-d-ePRED
+       Sandriela=S/A.TOP Maria house-CLF:CAV-LOC              walk-DUR-CAUS-LK-3
+       ‘Sandriela made Maria walk home.’
+The causative derivation applies equally to all types of verbs. Ambitransitive and strictlytransitive verbs are causativized in the same manner as intransitive verbs in that they aremarked with -ta. In intransitive clauses all arguments have to be present; in transitive clausesoccasionally arguments can be omitted, if they are retrievable from the context. In terms ofthe syntactic possibilities of the causative of transitive clause, the CAUSER is now placed inthe A function, the original A (the CAUSEE) takes on O-marking and the original O retains theO-marking. The A argument may be omitted if it can be inferred from the context (note thepresence of the cross-referencing pronominal subject marking on the verb). Examples aregiven in (8.43-44):
+(8.43) nai-mɨeA          kue-naO1            jo-fo-naO2                   kɨo-ta-t-ePRED
+       ANA.SP-CLF:PR.M 1sg-N.S/A.TOP         house-CLF:CAV-N.S/A.TOP      see-CAUS-LK-3
+       ‘He made me see the house.’
+                                                                                                         383
+(8.44) RataA [da-je      jɨko-na]O1                     kue-naO2            fɨɨ-ta-t-ePRED
+       Rata one-CLF:G dog-N.S/A.TOP                     1sg-N.S/A.TOP       rob-CAUS-LK-3
+       ‘Rata made me steal a dog.’
+Seemingly, the case marking of the two O arguments is identical. However, they differ in tworespects:
+        i) the constituent order where the first O argument (kuena) precedes the original object O        (jofona) and can be preposed to the verb, as in (8.43);        ii) of the two O arguments, only the first argument has the option of being left unmarked;        the second O argument is always obligatorily marked. This makes it possible to        differentiate between the two arguments and define them further as the ‘primary’ O1 and        ‘secondary’ O2. 239
+The A argument, the CAUSER, may refer to either a person, an object, an event, or a state.","[407, 408]"
+"
+(6.165) AdamS San Rafael-moLOC jaai-d-ePRED
+        Adam San.Rafael-LOC        go-LK-3
+        ‘Adam went to San Rafael.’
+(6.166) ooA bai-ñaiñoO            fata-dɨ-oPRED
+        2sg that.FSP-CLF:PR.F hit-LK-2sg
+        ‘You hit her (once or a couple of times; she was not beaten up much).’
+209
+      The privative forms are similar to clausal nominalizations: They have a number of morphological and
+syntactic properties of nominalizations. On verbs, the privative extends to cover prohibitive meanings, as in
+(6.164) (see §10.2.3).
+                                                                                               313
+In Murui, there is a certain flexibility in the constituents patterns where the oblique argument(marked as X) occurs either before the verb (XSV and XAOV) and after the V (i.e. SVX andAOVX). In (6.167) the oblique jofomo ‘home’ is placed after the verb:
+(6.167) L: nai-mɨeS           jai  jaai-d-e?PRED
+           ANA.SP-CLF:PR.M already go-LK-3
+           ‘Did (he) go already?’
+        A:    jɨɨ   jai      jaai-d-ePRED jo-fo-moLOC
+              yes already go-LK-3         house-CLF:CAV-LOC
+              ‘Did (he) go home already?’
+Oblique arguments in transitive clauses usually follow the O (i.e. AOXV), but can also befronted, or postposed to the verb. Occasionally, the A argument in a transitive clause can alsofollow the verb yielding the OVA constituent order. This has a kind of afterthought effect;there is a short pause between V and A. This is illustrated in (6.168-169). In (6.168) the Aargument, Flor, is postposed to the verb roko(de) ‘cook’. This is similar in (6.169). VOA andVAO constituent orders never occur in the natural discourse.
+(6.168) ɨmeO roko-d-ePRED FlorA
+        paca cook-LK-3 Flor
+        ‘FLOR cooks a paca.’
+(6.169) nokaeO fɨno-d-ePRED [kue uzu-ma]A
+        canoe    make-LK-3 1sg grandparent-CLF:DR.M
+        ‘My grandfather made A CANOE.’
+The postposition of the A argument is similar to the occasional VCS constituent order inintransitive clauses. This is illustrated in (6.170):
+(6.170) T: [oo uzu-ño]S             nɨ-rui     rii?PRED
+           2sg grandparent-CLF:DR.F Q2-CLF:DAY arrive
+           ‘When did your grandmother come.’
+        W: nare      rii-d-ePRED [kue uzu-ño]S
+           yesterday arrive-LK-3 1sg grandparent-CLF:DR.F
+           ‘My grandmother CAME yesterday.’
+                                                                                              314
+In passive constructions (see §8.1) the constituent ordering is of great importance. Differentorders can yield different interpretations. Compare (6.171-172):
+(6.171) jɨkoOBLIQUE ainɨ-kaPRED
+        dog         bite-PASS
+        ‘(somebody, e.g. a boy) was bitten by a dog’
+(6.172) (janayari)OBLIQUE ainɨ-kaPRED jɨkoS
+        jaguar            bite-PASS     dog
+        ‘the dog was bitten (by a jaguar)’
+Often, there is some kind of morphological marking of grammatical relations in the clause(§6.2). To avoid any potential misunderstanding when core arguments are zero-marked, theorder of the NPs can help to determine syntactic functions of core arguments. These syntacticfunctions are shown by the nominative–accusative ordering of arguments in relation to thepredicate: SV (SXV) and AOV (AOXV) (the oblique ‘X’ arguments have to be marked).","[337, 338, 339]"
+"The preferred order for the constituents in verbless clauses is generally VCS ‒ VCC (carried
+294
+      Cross-linguistically, such meanings are typically associated with copula clauses, see (Dixon, 2010a: 160).
+295
+      This is a feature also of many Arawak languages (Aikhenvald 2012:329). Murui has no copula verb.
+                                                                                          487
+over from the preferred SV/AOV). Verbless clauses make no TAME distinction. They arenegated similarly to verbal predicates: an argument in the VCC function is used as a head ofan intransitive predicate followed by the standard negative -ñe and predicate markers.","[511, 512]"
+"         Murui ambitransitive and strictly transitive verbs are causativized with the markers ofdouble causative in the same way as intransitive verbs. In terms of the syntactic possibilitiesof the causative of transitive clause, the CAUSER is now placed in the A function, the originalA (the CAUSEE) takes on O-marking and the original O retains the O-marking. O NP takesalways the topical non-S/A maker -na and cannot occur with types of case markers.
+                                                                                              390
+        The default order of the constituents is AO1O2V, where the A and the first Oarguments are in the CAUSER function and the second O argument is the CAUSEE. Obliquearguments are usually expressed in clause initial positions, and somewhat less often in clausefinal positions, as in (8.69):
+(8.69) bi-rui-do             IsmaelA      kue-naO1       ra-fue-naO2
+       this.CTS-CLF:DAY-INS Ismael        1sg-N.S/A.TOP thing-CLF:STORY-N.S/A.TOP
+       uiño-ta-ta-d-ePRED
+       know-CAUS-CAUS-LK-3
+       ‘Today Ismael teaches me (lit. making me know) the story.’
+The only variant of the default constituent order is AO1VO2 where the second O argument ispostposed to the verb, as in (8.70):
+(8.70) RiverA Walter-naO1         maɨjɨ-ta-ta-d-ePRED        [kaɨ
+       River Walter-N.S/A.TOP     work-CAUS-CAUS-LK-3 1pl
+       komɨnɨ-na]O2
+       people.CLF:DR.GR-N.S/A.TOP
+       ‘River send Walter to make us (lit. our Murui people) work.’
+Similarly to the causative, the double causative shows no restrictions regarding the animacyof the CAUSER, as in (8.71). The double causative has occasionally overtones of some type ofcultural obligation. The reading of (8.71) is an invitation that one has to obey. If not, one hasto make amends later on.
+(8.71) nai-mɨeA        kue-naO               bi-ta-ta-t-ePRED
+       ANA.SP-CLF:PR.M 1sg-N.S/A.TOP         come-CAUS-CASU-LK-3
+       ‘He made me come.’
+Note that the process of reduplication precludes the double causative morphology;reduplication is possible only with the causative -ta, never the double causative.","[414, 415]"
+"
+12.1 Types of independent clauses
+Murui does not have separate morphological systems that would cover the declarative, theinterrogative, and the imperative. The three major speech acts ‒ statements, commands, andquestions ‒ are differentiated by intonation contours and presence (or lack) of certain specialmarkers. Constituent order does not correlate with sentence types in the language.",[507]
+"Somebody said that Sandriela has returned from the city. Another speaker denied this bysaying:
+(6.37) SandrielaS Letisia-monaABL bi-ñe-d-ePRED        Elver=dɨS   bi-yaPRED
+       Sandriela     Leticia-ABL     come-NEG-LK-3 Elver=S/A.TOP come-E.NMLZ
+       ‘It was not Sandriela who came from Leticia. It was ELVER who came.’6.2.1.3 O core argumentsThe O argument in Murui is defined as the non-S/A core argument. Semantically, intransitive clauses, A arguments can potentially initiate or control the activity. As Dixon(2010b: 76) put it: “And if there is something which is saliently affected by the activity, theargument referring to this will be in the O function.” O arguments in Murui are recognizedbased on the following morphological and syntactic criteria:
+1) The O argument is expressed only ‘outside’ the predicate (unlike the S/A arguments thatare cross-referenced on the predicate and oblique arguments), as in (6.38):
+(6.38) jai       bi-e=mei             [kaɨ uru-iaɨ]A     [kaɨ          uai-na]O
+       already this.CTS-CLF:G=so 1pl child-CLF:G.PL 1pl                word-N.S/A.TOP
+       ñaɨ-ñe-d-ePRED
+       speak-NEG-LK-3
+       ‘And so, our children do not speak our language.’
+                                                                                                             282
+2) O arguments are marked with the topical non-S/A subject marker -na that marks a varietyof core non-subject participants (prototypical patients and recipients), as in (6.39-41): 194
+(6.39) dɨno-moLOC               eimo-naO          fa-t-ePRED jɨgadɨ-ma-naO  fa-t-ePRED
+       AT.CLF:SP.PLACE-LOC pig-N.S/A.TOP kill-LK-3 tapir-CLF:DR.M-N.S/A.TOP kill-LK-3
+       ‘There (the hunter) kills the pig, kills the tapir.’
+(6.40) okaina-naO          jaka     kaɨA naga-rui                      rɨ-tɨ-kaɨPRED
+       animal-N.S/A.TOP always 1pl EACH-CLF:DAY                        eat.meat-LK-1pl
+       ‘We eat game (lit. animals) everyday.’
+(6.41) oo-re            moo     jifiko-gɨ-naO                              kueO     i-to!PRED
+       2sg-ATTENTION father caimo-CLF:OVAL-N.S/A.TOP                       1sg      give-LK.2sg
+       ‘Dear Father, give me the caimo fruit!’
+3) If O arguments have specific referents, they are case marked with the topical non-S/Asubject -na and cannot be marked with any other case markers. O arguments can also be leftunmarked (see §6.2.1.4 for factors conditioning the differential object marking). An exampleof a marked O argument is presented in (6.42) and a zero-marked O argument is in (6.43):
+(6.42) [kaɨ ñai-a-kɨno...]S             baa        ua=mei uru-iaɨ=dɨA
+       1pl speak-E.NMLZ-CLF:NEWS ATTENTION really=so child-CLF:G.PL=S/A.TOP
+       [kaɨ uai-na]O           ebi-rui-ñe-d-ePRED
+       1pl word-N.S/A.TOP nice-MANNER-NEG-LK-3
+       ‘The story of our speech… Bah! Children really don’t find our language nice
+       (anymore).’
+(6.43) [ñaiño=dɨno-mo]LOC                ono-kobeO                  jide~jide-d-ePRED
+       CLF:DR.F=AT.CLF:SP.PLACE-LOC hand-CLF:ROUND.LEAF paint~RED-LK-3
+       ‘(She) is painting (and painting) the nails there at her (house).’
+All types of nominal constituents can take the topical non-S/A subject marker -na (nouns,nominalizations, pronouns, and ‘headless’ nominal modifiers of all types). The sentence in
+194
+      The same form of the accusative case marker -na also occurs in Aguaruna (Jivaroan/Chicham) spoken in
+Peru. In Aguaruna -na marks both O and E arguments, unlike in Murui (Overall, 2008: 215). In Hup (Makú)
+spoken in the Vaupés it has the form -an (Epps, 2005). There is also a multifunctional -na marker in Tariana
+which marks objects and recipients on pronouns (Aikhenvald, 2003).
+                                                                                                283
+(6.44) is an example of the specific anaphoric demonstrative nai- followed by the genericclassifier -e. Naie is marked with N.S/A.TOP -na and refers to hair-painting, something that thespeaker stopped doing a long time ago. Note that naie is marked regardless of the constituentorder, that is regardless of whether it is preposed or postposed to the verb (see also §6.3):
+(6.44) jai      iadɨ nai-e-naO                   fɨe-d-ePRED jai     fɨe-d-ePRED
+       already but ANA.SP-CLF:G-N.S/A.TOP leave-LK-3 already leave-LK-3
+       nai-e-na…O
+       ANA.SP-CLF:G-N.S/A.TOP
+       ‘But she already stopped (doing) it, she stopped (doing) that…’
+Examples (6.45-47) are nominalizations. In (6.45) jɨfanua ‘playing’ is in O function but it isunmarked (the referent is not specific). In (6.46-46) the nominalized manua ‘healing’ anduiya ‘taking’ are marked with -na. They are arguments of the perception verb uiño(te)‘know’. Note that arguments of perception verbs are frequently marked with -na in Murui.
+(6.45) dɨno-monaABL               dane bi-tɨ-kañaɨPRED    baaɨ=bene
+       AT.CLF:SP.PLACE-ABL ONCE come-LK-1du.f             THERE=HERE.LOC:NSP
+       jɨfanuaO         jɨbui-zaɨbi-tɨ-kañaɨPRED estadio-moLOC
+       play.E.NMLZ watch-VENTV-LK-2du.f stadium.Sp-LOC
+       ‘From there once again we (two women) came over here. We came to watch a game
+       (lit. playing) at the stadium.’
+(6.46) jɨaɨ-mɨeA       [jɨaɨ-e     duiko        manua-na]O               uiño-t-ePRED
+       other-CLF:PR.M other-CLF:G illness       heal.E.NMLZ-N.S/A.TOP know-LK-3
+       ‘Another (man) knows how to heal (lit. the healing) other illnesses.’
+(6.47) nai-mɨeA          [bi-e             ra-ya      raize
+       ANA.SP-CLF:PR.M this.CTS-CLF:G thing-CLF:CRAFT well.SIMIL
+       ui-ya-na]O                    uiño-t-ePRED
+       take.away-E.NMLZ-N.S/A.TOP know-LK-3
+       ‘He knows to drive this boat well.’
+In (6.48) the interrogative content word bue ‘what’ functions as an indefinite word‘something’. (6.48) is part of a prayer to the Father Creator to provide food for the people. Itis marked with -na because the speaker has something specific in mind, the food.
+                                                                                               284
+(6.48) kɨo-do       maɨjɨ-itɨ-kue      iadɨ bu-e-naO               [uru-kɨ
+       see-LK.2sg work-FUT.LK-1sg but Q1-CLF:G-N.S/A.TOP child-CLF:CLUSTER
+       jerei ono-yɨ]LOC           kueA joone-ye
+       inside hand-CLF:BUSHY 1sg lay.TH-FUT.E.NMLZ
+       ‘You see, I am going to work for me to put (lit. my future putting) something (food)
+       inside my children’s hands.’
+4) Murui has the default SXV and AOXV constituent orders where the S/A arguments are pre-posed to the clause-final predicate (see §6.3 for details). If the core arguments are unmarkedfor any of the core cases, the constituent order is the one that indicates the syntactic role ofthe participants. In the transitive clause, the placement of the O argument is restricted in thatthe O NP cannot precede the A argument but may follow the verb. When that is the case, it ismarked with the topical non-S/A subject marker. In (6.49) the O NP follows the verb and,therefore, takes -na.
+(6.49) kueO inePRED        nai-e-na!O
+       1sg    give         ANA.SP-CLF:G-N.S/A.TOP
+       ‘Give me this!’
+In (6.50) akie rafue precedes the verb and remains unmarked. In this situation the speakerwanted to tell a story but he was uncertain which one he would tell it.
+(6.50) [ñiño         ra-fue…]NP           [aki-e          ra-fue]O          yo-itɨ-kuePRED
+       child.M.Sp thing-CLF:STORY AUDIT-CLF:G thing-CLF:STORY tell-FUT.LK-1sg
+       ‘A child’s story. I will tell that story (unspecific which one yet).’
+6.2.1.4 Other functions of -naThe topical non-S/A subject marker -na marks core O NPs (that are not in the addressee/recipient function, see §6.2.1.6). An NP can take no more than a single case marker at a time(but see the ablative marking in §6.2.2.2). The pattering of topical non-S/A subject casemarking conforms to certain grammatical and semantic restrictions conditioned by thesemantic and pragmatic status of the nominal (see the following section §6.2.1.5). The
+                                                                                               285
+marker -na is a phonologically and morphologically bound form. It is also a multifunctionalmarker which can mark other non-subject arguments that are frequently topical (and,therefore, it is called the ‘topical non-S/A subject marker’). These are:
+1) Time words are frequently marked with -na (see also §3.2.2), such as naɨo-na ‘night (cf.naɨo ‘night)’, as in (6.51). Other nouns that are obligatorily marked with -na include, e.g.mona ‘day’.
+(6.51) ua      jari-re-na            casi        naɨo-na        mei kaɨ
+       really quick-ATT-N.S/A.TOP almost.Sp night-N.S/A.TOP so      1pl
+       zai-ta-d-ePRED
+       step-CAUS-LK-3
+       ‘It was very quick, they almost stepped on us at night.’
+2) Adverbs can take the marker -na, as in aiyuena ‘a lot’, ebena ‘brusque’, atona ‘straight’(see also §3.2.1). This is illustrated with marena ‘well’ in (6.52):
+(6.52) kue=mei mare-na                      komui-dɨ-kuePRED
+       1sg=so      good.ATT-N.S/A.TOP       grow-LK-1sg
+       ‘I grew up well.’
+3) The morpheme -na is one of the forms of the event nominalizer, as in (6.53) (see also§3.1.4):
+(6.53) ee~e-na (cry~RED-E.NMLZ) ‘crying (and crying)’
+       jaai-ñe-na (go-NEG-E.NMLZ) ‘not going’
+       jea -re-na (dirty-ATT-E.NMLZ) ‘being dirty’
+4) It is the source for ablative -mona on nouns (see §6.2.2.2), e.g. Colombia-mona ‘fromColombia’; on adverbial demonstratives the form of the ablative marking is -na (see §3.3.3),e.g. bene-na (HERE.LOC:NSP-ABL) ‘from here’.
+5) the topical non-S/A subject marker can be used as a topical clause linker. For instance,constructions with the sequential dependent marker -no can be followed by the topical non-
+                                                                                                              286
+S/A subject -na. In (6.54), the sequential clause guajanona ‘after toasting’ and ɨmuiyanona‘after mixing with salts’ marked with N.S/A.TOP -na are highly topical and therefore aremarked with -na (Wojtylak, forthcoming-a).
+(6.54) ie=mei      gua-ja-no-na                     ɨmui-ya-no-na
+       CONN=so pound-E.NMLZ-SEQ-N.S/A.TOP add.salt-E.NMLZ-SEQ-N.S/A.TOP
+       komeA jai         du-t-ePRED
+       person already chew.coca-LK-3
+       ‘And so, after pounding, after adding salts, one (person) already chews it (the coca).’
+6) The topical non-S/A subject marker functions as a topical marker of clauses withpurposive meaning, as in (6.55) below. Murui purposive clauses are in fact future eventnominalizations that occur in the O function usually followed with -na. This is illustrated in(6.55).
+(6.55) afai=dɨne                jaaitɨ-kuePRED servesaO [kue jiro-ye-na]
+       upstream=AT.LOC:NSP go.FUT.LK-1sg beer.Sp 1sg drink-FUT.E.NMLZ-N.S/A.TOP
+       ‘I will go upstream to drink beer (lit. my future drinking beer).’
+The nominalizer -ye can be the sole marker of purposive construction as well (see §12.3.1).","[306, 307, 308, 309, 310, 311]"
+"
+195
+      Muidona ‘for reason’ originates in the independent lexical word muido meaning ‘end point of an object
+(commonly, the highest point in a maloca)’.
+                                                                                                              287
+(6.57) [oo jitɨ-re-d-e-na]O              kueO ine!PRED
+       2sg dark-ATT-LK-3-N.S/A.TOP 1sg          give
+       ‘Give me your ambil (lit. ‘the black one’ when avoiding to pronounce the real name
+       of ‘liquid tobacco’).
+9) Verbal roots that are suffixed with -kana are in fact a gerund construction of sorts (see the‘overlap’ -kana marking subordinate clauses in §12.3.1). This is illustrated in (6.58).
+(6.58) maka-kana      bi-tɨ-kuePRED
+       walk-OVERLAP come-LK-1sg
+       ‘I came walking.’
+10) ‘Headless’ nominal modifiers (with inherently locational and temporal meanings) that aretopical in the context can be optionally marked with -na. In (6.59) the ‘headless’ nominalmodifier contains the interrogative content word nɨ- ‘which’ that occasionally translates as‘where’ (§3.3.4).
+(6.59) nɨ-no-na                       jito-maS                    i-t-e?PRED
+       Q2-CLF:SP.PLACE-N.S/A.TOP sun-CLF:DR.M                     exist-LK-3
+       ‘What time is it (lit. where is the sun)?’6.2.1.5 Differential object markingThe occurrence of the differential object marking on O NP is related to specificity, topicality,degree of affectedness, empathy, the predicate’s semantic group (e.g. verbs of perception),constituent order, and, to a lesser extent, the position on the Nominal Hierarchy. These arediscussed in turn.","[311, 312]"
+"
+293
+      The major speech acts are conventionally referred to as ‘mood’ where statements are characterized by
+declarative/indicative mood, commands correspond to imperative mood, and questions are referred to as
+interrogative mood (Aikhenvald 2010).
+                                                                                              483
+12.1.1 DeclarativeThe most frequent clause type is the declarative (affirmative). This is the ‘default’(functionally unmarked) clause type in the language. Similary to the interrogative, thedeclarative clause is not marked with any separate morpheme. The declarative vs.interrogative distinction is made using a special intonation contour (see §2.4). The constituentorder of the declarative is usually of the AOV/SV type but it can also be determined bypragmatic factors (with O being postposed to the clause-final verb) (this is in contrast withdependent declarative clauses, where the constituent order appears to be rigid, being verb-final). In natural discourse, clauses with two overtly stated arguments, A and O, are rare (see§6.1-2). Declarative clauses in Murui are A. INTRANSITIVE CLAUSES, B. EXTENDEDINTRANSITIVE CLAUSES, C. TRANSITIVE CLAUSES, D. EXTENDED TRANSITIVE CLAUSES, and E.","[507, 508]"
+"All sentences have been analyzed following four principles (Dixon, 2010b: 61). All multi-word constituents are indicated within square brackets, all verbal arguments and coreconstituents ‒ A (transitive subject), S (intransitive subject), and O (transitive object) ‒ arelabled for their syntactic function. Additionally, locative and other oblique arguments areoccasionally labelled to make these arguments immediately understandable for the reader.",[594]
+"
+5.1.1    Marking in possessive constructionsMarking of possession in Murui involves a simple juxtaposition of words within the NP thatrequires the Possessor - Possessed order. The apposition within an NP is discussed in§5.1.1.1. There is a split between 1st and 2nd vs. 3rd person pronouns in the VCC function withregards to their genitive marking (see §5.1.1.2). An alternative way of expressing possessioninvolves nominal forms, with pronouns followed by classifiers (§5.1.1.3).",[263]
+"
+169
+      Such as Tariana, Bora, and Tucanoan languages (Aikhenvald, 2000, 2003, 2012; Ramirez, 1997; Seifart,
+2005; Seifart & Payne, 2007).
+                                                                                                                                                      235
+                                                   Table 4.9 Murui multiple classifier system ‒ an overview
+                        PHYSICAL PROPERTY                                                ABSTRACT           THE NEUTRAL
+                                                      ANIMATE CLASSIFIERS                                                                REPEATERS
+                            CLASSIFIERS                                                CLASSIFIERS         CLASSIFIER -ra
+SIZE OF THE SYSTEM     large (more than 100)                   small (7)                  small (2)            small (1)                    large
+KIND OF THE SYSTEM             closed                           closed                      closed              closed                    semi-open
+                                                          ‘PRONOMINAL’:
+                          A. free noun roots;
+                                                        A. free noun roots;
+                         B. bound noun roots;
+                                                     C. verbs (relativization);
+                                 C. verbs                                          A. free noun roots;
+                                                            D. adjectives;
+                        (event nominalization,                                            C. verbs
+                                                         E. number words;                                                       C. verbs (following classifiers
+                      following classifiers such                      st    nd   (event nominalization,
+                                                     F. pronouns (1 and 2 );                                                     such as -fe (CLF:SIDE) or -ra
+                        as -fe (CLF:SIDE) or -ra                                      relativization);
+                                                        G. demonstratives;                                                       (CLF:NEUT), relativization);
+                               (CLF:NEUT),                                             D. adjectives;
+                                                     H. interrogative content                                  C. verbs;                 D. adjectives;
+MORPHOSYNTACTIC              relativization);                                       E. number words;
+                                                                words;                                      D. adjectives.             E. number words;
+LOCI                          D. adjectives;                                            F. pronouns
+                                                            I. quantifiers.               st      nd                               F. pronouns (1st and 2nd);
+                          E. number words;                                              (1 and 2 );
+                                                         ‘DERIVATIONAL’:                                                              G. demonstratives;
+                               F. pronouns                                         G. demonstratives;
+                                                       B. bound noun roots;                                                     H. interrogative content words;
+                               (1st and 2nd);                                        H. interrogative
+                                                           C. verbs (event                                                               I. quantifiers.
+                          G. demonstratives;                                          content words;
+                                                          nominalization,
+                            H. interrogative                                           I. quantifiers.
+                                                   agentive nominalization with
+                             content words;
+                                                      -raɨ, directly on verbs);
+                              I. quantifiers.
+                                                    E. number word da- ‘one’).
+                         size, form, shape,          natural-gender (male vs.
+SEMANTICS             dimensionality, function,    female); other principles for     abstract notions     inanimate objects        A unique single referent
+                                 etc.                  non-human referents
+                                                                                                          can function as a
+INTERRELATIONS WITH      classifier stacking                                         some marked by                              Classifiers and repeaters are
+                                                                number                                    ‘linker’ followed
+OTHER CATEGORIES              possible                                                     number                                    mutually exclusive
+                                                                                                             by classifiers
+                                                                                                                                Cannot have human referents;
+                                                                                    referring to notions                         Spanish loans become easily
+                      mono and disyllabic (the     feminine-masculine vs. group                               unspecified
+OTHER PROPERTIES                                                                    such as ‘news’ and                          incorporated into the repeater
+                       majority is dissylabic)     (with no gender specification)                          inanimate referent
+                                                                                           ‘story’                                system; Repeaters can be
+                                                                                                                                   followed by classifiers
+                                                                                              236
+5 Possession and numberMurui lacks the distinction between alienable and inalienable possession. Murui lacks a verb‘have’. The most frequent marking of possession involves a simple juxtaposition of wordswithin the NP that requires the Possessor (R) - Possessed (D) order. Possession is discussedin §5.1. Number is discussed in §5.2.","[259, 260, 261]"
+"All groups that belong to the People of the Centre cultural area would regularly celebratetraditional festivals together, during which songs would be sung in a predetermined order thatexists for each language (Seifart, 2011: 7-8).",[78]
+"        The main function of Murui classifiers is derivation of new stems. They are the majorway of forming new words and enlarging the lexicon. Each classifier carries a specificsemantic load that is essential by the interpretation of the noun. Depending on the meaning of
+                                                                                              229
+the referent, nouns can be associated with more than one classifier. For instance, theindependent noun yera ‘liquid tobacco (Sp. ambil)’ can occur with a variety of classifiers torefer to and focus on its different properties; cf. Table 12.5 in Aikhenvald (2017b):
+(4.103) yera-do (liquid.tobacco-CLF:POINTED)         ‘yera in a pointed form (wrapped)’
+        yera-ji   (liquid.tobacco-CLF:WATERY)        ‘yera in a liquid, viscous, sap form’
+        yera-fo (liquid.tobacco-CLF:CAV)             ‘yera container (maraca) with a hole’
+        yera-ko (liquid.tobacco-CLF:COVER)           ‘yera container, round’
+        yera-jɨ   (liquid.tobacco-CLF:SMALL.ROUND) ‘yera in form of a small ball’
+        yera-ru (liquid.tobacco-CLF:OVAL)            ‘yera in an oval container’
+        yera-bɨ (liquid.tobacco-CLF:SUBS)            ‘yera very thick in consistency’
+        yera-rue (liquid.tobacco-CLF:THINGS)         ‘a lot of prepared paste of yera’
+        yera-rui (liquid.tobacco-CLF:DAY)            ‘day of yera (when it is sent out)’
+        yera-bero (liquid.tobacco-CLF:DOUGH)         ‘dough made out of yera’
+        yera-bɨrɨ (liquid.tobacco-CLF:SITE)          ‘space, place where yera is kept’
+        yera-rojɨ (liquid.tobacco-CLF:TINY.ROUNDISH) ‘yera in form of a ball’
+        yera-kɨno (liquid.tobacco-CLF:NEWS)          ‘word of yera (Sp. dialogo de ambil)’
+        yera-tiko (liquid.tobacco-CLF:BASKET)        ‘basket for keeping yera’
+There are semantic restrictions for various classifiers in order to be associated with differentnouns. This is determined by sociocultural conditions of the Murui world and theenvironment they live in. A construction of a noun followed by a classifier has to bemeaningful in order to be grammatical, e.g. *yera-mani (liquid.tobacco-CLF:BIG.RIVER) is notpossible because yera could never have the form of a big river. Another example is ñekɨ-‘chambira palm’, as in ñekɨ-na (chambira-CLF:TREE) ‘chambira palm tree’, which cannotpossibly be associated with the classifier -be ‘leaf-like shape (oval, oblong)’ becausechambira leaves have a feather-like shape for which Murui has a classifier -foro, as in ñekɨ-foro (chambira-CLF:FEATHER.SHAPED) ‘chambira palm feather-like shaped leave’ but never*ñekɨ-be.","[253, 254]"
+"       Nowadays, all Murui people have Spanish names. In addition, they also use numerousnicknames to refer to each other. Such nicknames are more preferred than official Spanishnames. Traditionally, given the taboo of a man’s name (mentioned in §1.3.7), whenaddressing one another, kinship terms were used, such as ei (‘mother’), moo (‘father’), anduzuma (‘uncle’) (see also §1.3.4 on kinship terms). Nowadays, this is still practiced, mainlyby Murui elders.
+                                                                                                                56
+           Murui has an interesting technique for avoiding names when talking about a person. 49It involves reducing a number of syllables of a proper noun and their transposition. Thistechnique stems from the time of orphanages in La Chorrera (see §1.5), and was used by‘Witoto’ speakers to refer to nuns and priests, in order to avoid being understood andpunished. Nowadays, this technique is used for all kinds of purposes, and can also be used forone’s nickname. Rafɨ in (1.36) is an example of such an alternation:
+(1.36) Fransiska > Fɨra > Rafɨ
+1.4      Linguistic affiliation
+Murui is a dialect/linguistic variety of ‘Witoto’, which belongs to the Witotoan languagefamily. Some scholars consider the Witotoan languages to be related to the neighboringBoran language family. Whether the Boran and the Witotoan languages are geneticallyrelated is a controversial issue. Aschmann (1993) did a comparative study of the Boran andWitotoan language families, and tried to prove the relationship between the two families,which he called ‘Proto-Witotoan’. His hypothesis was challenged by yet another attempt at areconstruction of a proto language but not enough evidence was found to prove a geneticrelationship between these language (Seifart & Echeverri, 2011, forthcoming). Currently,most linguists follow Aschmann’s account adopting it as a working hypothesis.","[80, 81]"
+"       As the ‘Witoto’ acquired enough basic products, they lost interest in obtaining morerubber to trade. Moreover, once the latex from the trees was extracted, the ‘Witoto’ had to gofurther into the forest in order to search for more. To retain the constant rubber flow, Aranastarted capturing the ‘Witoto’ in their native territories and moving them to the rubber-richareas, forcing them to collect a certain volume of rubber within a specified time period. In
+                                                                                                            27
+exchange they were given small rations of food (Burgos, 1994). Since the ‘Witoto’ wereforced to collect rubber, they could not go hunting and fishing, and many of them starved todeath.","[51, 52]"
+"
+6.2       Arguments and case: semantics, marking, and function
+In Murui, core and oblique arguments can either be stated or, if they are directly inferablefrom the discourse context, omitted. There are five major clause structure types that can bedistinguished in the language (see §12.1):
+189
+      Similarly to other neighboring languages spoken in the vicinity of the Vaupés linguistic area (Aikhenvald,
+2006; Birchall, 2014; Bruil, 2016; Epps, 2006, 2009b; Stenzel, 2008; Zúñiga, 2007).
+                                                                                                            272
+        ‒    intransitive clauses ‒ with intransitive subject (S) as core argument,
+        ‒    extended intransitive clauses ‒ with intransitive subject (S) and the obligatorily
+             oblique (E) as core arguments unmarked, or marked with the locative case,
+        ‒    transitive clauses ‒ with transitive subject (A) and transitive object (O) as core
+             arguments,
+        ‒    extended transitive ‒ with the with transitive subject (A), and two objects (O
+             and E) as core arguments,
+        ‒    verbless clauses ‒ with verbless copula subject (VCS) and (VCC) verbless copula
+             complement as arguments.","[296, 297]"
+"
+12.1.3 ImperativeThe imperative clauses contains a verb marked with the imperative suffix. The imperative isused only in independent verbal clauses. Compared to its positive counterpart, Murui negatedimperative shows additional morphological complexity, having a separate prohibitive marker-no that obligatorily follows the standard negative -ñe. Positive imperatives have twodistinctions ‒ immediate and delayed; see §11.1; negative imperatives have one ‒ theprohibitive. Imperatives express fewer grammatical meanings than do the correspondingdeclaratives and interrogatives (such as the tense distinction). Constituent order in imperativeclauses is the same as that in declarative and interrogative ones (AOV/SV). This is illustratedwith the declarative in (12.24) and the imperative in (12.25):
+                                                                                            490
+(12.24) bi-e-naO                      omoɨ-moO:ADDRESSEE      i-tɨ-kuePRED
+        this.CTS-CLF:G-N.S/A.TOP 2pl-LOC                      give-LK-1sg
+        ‘I give this to you (plural).’
+(12.25) dɨo-goɨ-naO                kueO:ADDRESSEE ine!PRED
+        tobacco-CLF-N.S/A.TOP      1sg            give
+        ‘Give me a cigarette!’
+12.2 Independent clauses and clause linking
+Murui coordinated clauses express contrast/addition, and disjunction. Murui has also aconnector ie which functions as a textual anaphora and introduces main clauses by making ananaphoric reference to some information given in the preceding clause (see §13.2.3).","[514, 515]"
+"- Wisława Szymborska, Koniec i początek
+xii
+                                                                                                                                          xiii
+Contents
+Disclaimer ............................................................................................................................... iiiAbstract ...................................................................................................................................viiAcknowledgments ................................................................................................................... ixList of Tables, Maps, Figures, Diagrams, and Schemes .................................................... xixAbbreviations and Conventions .......................................................................................... xxiOrthographic conventions .................................................................................................. xxiv1      The Murui language and its speakers ............................................................................ 1    1.1     Linguistic profile of Murui ........................................................................................ 3
+    1.2     The People of the Centre cultural area .................................................................... 11
+    1.3     Who are the ‘Murui’ people, and why are they referred to as ‘Witoto’ .................. 22
+       1.3.1 Denomination..................................................................................................... 23
+       1.3.2 Historical background ........................................................................................ 25
+       1.3.3 Social organization............................................................................................. 29
+       1.3.4 Marriage customs and kinship terminology....................................................... 33
+       1.3.5 Beliefs, rituals, and customs .............................................................................. 40
+       1.3.6 Calendar ............................................................................................................. 44
+       1.3.7 Taboo ................................................................................................................. 48
+       1.3.8 Avoidance speech style ...................................................................................... 50
+       1.3.9 Songs .................................................................................................................. 52
+       1.3.10 Murui drum communication .............................................................................. 53
+       1.3.11 Naming ............................................................................................................... 55
+    1.4     Linguistic affiliation................................................................................................. 56
+    1.5     Sociolinguistic situation ........................................................................................... 59
+    1.6     Previous studies ....................................................................................................... 63
+    1.7     Basis for this study ................................................................................................... 65
+       1.7.1 Materials and speakers ....................................................................................... 66
+       1.7.2 Locations ............................................................................................................ 672      Phonology ....................................................................................................................... 71    2.1     Segmental phonology............................................................................................... 72
+       2.1.1 Consonants ......................................................................................................... 72
+       2.1.2 Vowels ............................................................................................................... 82
+       2.1.3 Vowel sequences and diphthongs ...................................................................... 88
+         2.1.3.1  Vowel sequences ........................................................................................ 88
+         2.1.3.2  Diphthongs and underlying vowel sequences ............................................ 89
+         2.1.3.3  More on vowel sequences........................................................................... 91
+                                                                                                                                    xiv
+    2.2     Syllable structure and stress ..................................................................................... 91
+    2.3     Phonological word and phonological phrase ........................................................... 93
+    2.4     Intonation and pitch ................................................................................................. 94
+    2.5     General phonological processes ............................................................................... 97
+       2.5.1 Involving vowels ................................................................................................ 98
+       2.5.2 Involving consonants ....................................................................................... 104
+    2.6     Borrowings and adaptation of loanwords .............................................................. 107
+       2.6.1 Spanish loanwords and their adaptation .......................................................... 107
+       2.6.2 Cognate forms shared with neighboring languages ......................................... 109
+    2.7     Unusual sounds ...................................................................................................... 111
+       2.7.1 Onomatopoeic expressions .............................................................................. 111
+       2.7.2 Animal sounds ................................................................................................. 112
+       2.7.3 Interjections...................................................................................................... 113
+    2.8     Orthography ........................................................................................................... 113
+    2.9     Nonverbal communication and deictic gestures .................................................... 1143      Word classes ................................................................................................................. 116    3.1     Open word classes.................................................................................................. 116
+       3.1.1 Nouns ............................................................................................................... 117
+       3.1.2 Verbs ................................................................................................................ 126
+       3.1.3 Adjectives ........................................................................................................ 128
+       3.1.4 Word class-changing and non-word class-changing derivations ..................... 131
+    3.2     Semi-closed word classes ...................................................................................... 138
+       3.2.1 Adverbs ............................................................................................................ 138
+       3.2.2 Time words ...................................................................................................... 143
+       3.2.3 Number words .................................................................................................. 145
+    3.3     Closed word classes ............................................................................................... 151
+       3.3.1 Quantifiers and intensifiers .............................................................................. 152
+       3.3.2 Pronouns .......................................................................................................... 154
+       3.3.3 Demonstratives ................................................................................................ 158
+       3.3.4 Interrogative content words ............................................................................. 166
+       3.3.5 Connective ....................................................................................................... 173
+       3.3.6 Adpositions ...................................................................................................... 174
+       3.3.7 Interjections...................................................................................................... 176
+    3.4     Summary ................................................................................................................ 1774      Noun structure and classifiers .................................................................................... 179    4.1     Noun structure ........................................................................................................ 179
+    4.2     Multiple classifier system ...................................................................................... 182
+       4.2.1 General overview ............................................................................................. 182
+       4.2.2 Classifiers ......................................................................................................... 188
+         4.2.2.1    Physical property classifiers ..................................................................... 189
+         4.2.2.2    Animate classifiers ................................................................................... 202
+         4.2.2.3    Animate classifiers and number ............................................................... 210
+         4.2.2.4    Abstract classifiers .................................................................................... 213
+         4.2.2.5    Neutral classifier ....................................................................................... 214
+         4.2.2.6    Repeaters .................................................................................................. 215
+         4.2.2.7    Repeaters and specific classifiers ............................................................. 220
+                                                                                                                                     xv
+    4.3     Classifier-like markers ........................................................................................... 222
+       4.3.1 Quantification marker ...................................................................................... 222
+       4.3.2 Location markers ............................................................................................. 223
+    4.4     Classifier stacking .................................................................................................. 227
+    4.5     Functions of classifiers and repeaters .................................................................... 228
+       4.5.1 Functions of classifiers .................................................................................... 228
+       4.5.2 Functions of repeaters ...................................................................................... 232
+    4.6     Summary ................................................................................................................ 2345      Possession and number ................................................................................................ 236    5.1     Possession ‒ general characteristics....................................................................... 236
+       5.1.1 Marking in possessive constructions ............................................................... 238
+         5.1.1.1    Apposition within an NP .......................................................................... 238
+         5.1.1.2    Genitive marking on pronouns ................................................................. 241
+         5.1.1.3    Pronouns and classifiers ........................................................................... 246
+       5.1.2 Relationship and meaning of possessive noun phrases.................................... 247
+       5.1.3 Predicative possessive constructions ............................................................... 250
+         5.1.3.1    Attributive markers on predicates............................................................. 250
+         5.1.3.2    Using intransitive verb ‘exist’ .................................................................. 252
+         5.1.3.3    Verbless clauses ........................................................................................ 254
+       5.1.4 On ‘possessibility’ of Murui nouns.................................................................. 257
+    5.2     Number .................................................................................................................. 259
+       5.2.1 Marking ............................................................................................................ 260
+       5.2.2 Number of ‘headless’ nominal modifiers and partial agreement ..................... 2676      Grammatical relations ................................................................................................. 269    6.1     Grammatical relations ‒ general characteristics .................................................... 269
+    6.2     Arguments and case: semantics, marking, and function ........................................ 271
+       6.2.1 Core arguments ................................................................................................ 272
+         6.2.1.1    S and A core arguments ............................................................................ 273
+         6.2.1.2    Differential S/A case marking .................................................................. 275
+         6.2.1.3    O core arguments ...................................................................................... 281
+         6.2.1.4    Other functions of -na ............................................................................... 284
+         6.2.1.5    Differential object marking ...................................................................... 287
+         6.2.1.6    Marking of O NP, with dative/locative .................................................... 295
+         6.2.1.7    ‘Oblique’ as core argument ...................................................................... 297
+         6.2.1.8    Double case marking ................................................................................ 298
+       6.2.2 Oblique arguments ........................................................................................... 299
+         6.2.2.1    Locative .................................................................................................... 300
+         6.2.2.2    Ablative .................................................................................................... 304
+         6.2.2.3    Instrumental .............................................................................................. 306
+         6.2.2.4    Benefactive-causal .................................................................................... 309
+         6.2.2.5    Privative .................................................................................................... 311
+    6.3     Order of arguments ................................................................................................ 312
+    6.4     Summary ................................................................................................................ 3157      Predicate structure, non-spatial, and spatial setting ................................................ 317
+                                                                                                                                    xvi
+    7.1     Predicate structure .................................................................................................. 317
+    7.2     Non-spatial setting ‒ general remarks.................................................................... 320
+       7.2.1 Tense ................................................................................................................ 324
+         7.2.1.1     Non-future ................................................................................................ 326
+         7.2.1.2     Future ........................................................................................................ 328
+         7.2.1.3     Use of lexical time words ......................................................................... 330
+       7.2.2 Aspect .............................................................................................................. 330
+         7.2.2.1     Phase of activity........................................................................................ 331
+         7.2.2.2     Temporal extent ........................................................................................ 333
+         7.2.2.3     Degree ....................................................................................................... 336
+         7.2.2.4     Frequency ................................................................................................. 338
+         7.2.2.5     Manner ...................................................................................................... 345
+         7.2.2.6     Miscellaneous affixes ............................................................................... 348
+       7.2.3 Modality ........................................................................................................... 350
+         7.2.3.1     Attitudinal modalities ............................................................................... 350
+         7.2.3.2     Ability ....................................................................................................... 353
+         7.2.3.3     Obligation ................................................................................................. 354
+         7.2.3.4     Epistemic modality ................................................................................... 354
+         7.2.3.5     Extensions of epistemic modalities .......................................................... 358
+       7.2.4 Evidentiality ..................................................................................................... 360
+         7.2.4.1     Reported evidential ................................................................................... 361
+         7.2.4.2     Epistemic modality vs. evidentiality ........................................................ 365
+    7.3     Spatial setting ......................................................................................................... 366
+    7.4     Summary ................................................................................................................ 3698      Valency-changing mechanisms ................................................................................... 372    8.1     Valency reducing devices ‒ the passive................................................................. 372
+       8.1.1 Non-future passive ........................................................................................... 373
+       8.1.2 Future passive .................................................................................................. 379
+    8.2     Valency increasing devices ‒ the causative ........................................................... 380
+       8.2.1 Causative .......................................................................................................... 381
+       8.2.2 Double causative .............................................................................................. 388
+    8.3     Reflexive and reciprocal ........................................................................................ 391
+       8.3.1 Reflexive .......................................................................................................... 392
+       8.3.2 Reciprocal ........................................................................................................ 396
+       8.3.3 Reflexive and reciprocal constructions ‒ a summary ...................................... 398
+    8.4     Summary ................................................................................................................ 3999      Adjectives and comparative constructions ................................................................ 400    9.1     Adjectives ‒ general remarks ................................................................................. 400
+       9.1.1 Adjective types and their semantic content ..................................................... 401
+       9.1.2 Criteria for recognition .................................................................................... 405
+    9.2     Comparative constructions ‒ general remarks ....................................................... 411
+       9.2.1 Comparatives with the classifier ‘side’ followed by locative ......................... 416
+       9.2.2 Comparatives with ‘back’ followed by locative .............................................. 420
+       9.2.3 Comparatives with the locative ........................................................................ 421
+       9.2.4 Superlative strategies ....................................................................................... 422
+       9.2.5 Comparison of equality .................................................................................... 424
+                                                                                                                                    xvii
+    9.2.6 Similative and meanings of equal size ............................................................. 425
+ 9.3     Summary ................................................................................................................ 42710   Negation ........................................................................................................................ 429 10.1 Negation ‒ general characteristics ......................................................................... 429
+ 10.2 Clausal negation ..................................................................................................... 433
+   10.2.1 Negation of declaratives .................................................................................. 434
+     10.2.1.1 Standard negative ..................................................................................... 434
+     10.2.1.2 Negative attribution .................................................................................. 437
+     10.2.1.3 Subordinate clauses .................................................................................. 441
+   10.2.2 Negation of interrogatives................................................................................ 442
+   10.2.3 Negative imperatives ....................................................................................... 446
+   10.2.4 Negation of verbless clauses ............................................................................ 449
+   10.2.5 Clausal negation with the privative case marker ............................................. 451
+ 10.3 Non-clausal negation ............................................................................................. 452
+   10.3.1 Negative answers ............................................................................................. 453
+   10.3.2 Negative words ................................................................................................ 456
+ 10.4 Summary ................................................................................................................ 45711   Commands and questions ........................................................................................... 458 11.1 Commands ‒ general characteristics ...................................................................... 458
+   11.1.1 Murui canonical imperatives............................................................................ 459
+   11.1.2 Murui non-canonical imperatives .................................................................... 464
+   11.1.3 Responses to commands and commands at a distance .................................... 467
+   11.1.4 Command strategies ......................................................................................... 468
+ 11.2 Questions ‒ general characteristics ........................................................................ 473
+   11.2.1 Content questions ............................................................................................. 474
+   11.2.2 Polar questions ................................................................................................. 475
+   11.2.3 Tag questions ................................................................................................... 476
+   11.2.4 Alternative questions ....................................................................................... 477
+   11.2.5 Exclamative questions and sentences .............................................................. 478
+   11.2.6 Answers to questions ....................................................................................... 478
+   11.2.7 Greetings .......................................................................................................... 479
+ 11.3 Summary ................................................................................................................ 48112   Sentence types and clause linking............................................................................... 482 12.1 Types of independent clauses ................................................................................ 482
+   12.1.1 Declarative ....................................................................................................... 483
+   12.1.2 Interrogative ..................................................................................................... 489
+   12.1.3 Imperative ........................................................................................................ 489
+ 12.2 Independent clauses and clause linking ................................................................. 490
+ 12.3 Dependent clauses .................................................................................................. 492
+   12.3.1 Subordinate clauses and clause linking............................................................ 492
+   12.3.2 Complementation strategy ............................................................................... 509
+   12.3.3 Relativization strategy ..................................................................................... 510
+ 12.4 Summary ................................................................................................................ 512
+                                                                                                                                     xviii
+13     Discourse organization ................................................................................................ 513   13.1 Repetition of phrases and clauses .......................................................................... 513
+   13.2 Bridging constructions ........................................................................................... 515
+     13.2.1 Recapitulative linkage ...................................................................................... 517
+     13.2.2 Summary linkage ............................................................................................. 521
+     13.2.3 The ‘bridging’-like connective ........................................................................ 522
+   13.3 Genre specific features ........................................................................................... 526
+     13.3.1 Narratives ......................................................................................................... 526
+     13.3.2 Conversations ................................................................................................... 529
+     13.3.3 Songs ................................................................................................................ 532
+   13.4 Focus and pause markers ....................................................................................... 534
+   13.5 Contact-induced language change: Spanish influence on Murui ........................... 544
+     13.5.1 Language contact and change - grammar ........................................................ 546
+     13.5.2 Loanwords and calques from Spanish ............................................................. 547
+     13.5.3 Discourse functions of code switching and code mixing................................. 549
+     13.5.4 ‘Impoverished’ and ‘ungrammatical’ language ............................................... 553
+   13.6 Summary ................................................................................................................ 554References ............................................................................................................................. 555Appendix ............................................................................................................................... 569   Text 1: Jiyakɨno ‒ The Murui Origin Myth (Tercera India, 2016) .................................... 570
+   Text 2: Rɨño ñaɨakɨno ‒ A Women’s Conversation (Tercera India, 2013) ........................ 583
+   Text 3: Dajena kaɨ ɨnɨye ‒ To live united (Tercera India, 2015) ........................................ 594
+   Text 4: Momo jɨkakaza ‒ An appeal to the Father Creator (Tercera India, 2013) ............. 602
+   Text 5: Kaɨ iyɨkɨnuaɨ ‒ Our life stories (Tercera India, 2016) ........................................... 608
+                                                                                                                                xix
+List of Tables, Maps, Figures, Diagrams, and SchemesTables
+Table 1.1 Ethnic population and speakers of the People of the Centre ................................... 21
+Table 2.1 Murui consonants phonemes ................................................................................... 73
+Table 2.2 Phonotactic restrictions on the occurrence of consonants in Murui ........................ 82
+Table 2.3 Murui vowels ........................................................................................................... 82
+Table 2.4 Phonotactic restrictions on the occurrence of short and long vowels ...................... 86
+Table 2.5 Vowel sequences in Murui ...................................................................................... 88
+Table 3.1 Murui pronouns...................................................................................................... 155
+Table 3.2 Murui nominal demonstratives .............................................................................. 159
+Table 3.3 Murui interrogative content words and their derivations....................................... 167
+Table 3.4 Comparison of Murui open and closed word classes ............................................ 178
+Table 4.1 Occurrence of Murui classifiers in different morphosyntactic environments ....... 187
+Table 4.2 Forms and meanings of established monosyllabic classifiers in Murui ................ 191
+Table 4.3 Forms and meanings of established disyllabic classifiers in Murui ...................... 195
+Table 4.4 Murui animate classifiers ....................................................................................... 204
+Table 4.5 Animate classifiers and split number system ......................................................... 210
+Table 4.6 Selection of Murui repeaters (non-Spanish in origin) ........................................... 216
+Table 4.7 Established classifiers vs. repeaters ....................................................................... 221
+Table 4.8 The properties of classifiers and the marker -ga.................................................... 223
+Table 4.9 Murui multiple classifier system ‒ an overview .................................................... 235
+Table 5.1 Genitive marking on pronouns .............................................................................. 242
+Table 5.2 Possessibility of salient cultural concepts in plural, ungrammatical otherwise ..... 259
+Table 5.3 Number marking on nouns in Murui ‒ an overview .............................................. 261
+Table 5.4 Some examples of singular and plural forms on inanimate nouns ........................ 262
+Table 6.1 Grammatical relations and core case argument marking in Murui ........................ 273
+Table 6.2 Oblique cases in Murui .......................................................................................... 299
+Table 6.3 Murui core and oblique cases – summary ............................................................. 316
+Table 7.1 Murui cross-referencing pronominal subject markers on verbs ............................ 320
+Table 7.2 Murui TAME markers ........................................................................................... 323
+Table 7.3 Murui evidentiality and epistemic modality ‒ a summary .................................... 366
+Table 7.4 Co-occurrences of Murui TAME markers ............................................................. 371
+Table 8.1 Expression of reflexive and reciprocal meanings in Murui ................................... 398
+Table 9.1 Syntactic status of structural elements of Murui comparative constructions ........ 412
+Table 9.2 Comparative constructions with S-MARK -femo ..................................................... 415
+Table 9.3 Comparative constructions with the S-MARK emodomo ........................................ 415
+Table 9.4 Comparative constructions with the S-MARK -mo .................................................. 415
+Table 9.5 Forms of the S-MARK -femo and their readings ...................................................... 417
+Table 10.1 Murui positive and negative markers................................................................... 429
+Table 10.2 Semantics of attributive markers in predicative negation .................................... 430
+Table 10.3 Occurrence of the attributive and standard negative markers.............................. 431
+Table 11.1 Murui sentence types and intonation patterns...................................................... 459
+Table 11.2 Examples of Murui canonical imperative and their strength ............................... 463
+Table 11.3 Murui canonical and non-canonical imperatives ‒ an overview ......................... 466
+Table 11.4 Murui non-canonical imperative and their strength ............................................. 467
+Table 11.5 Command strategies summary ............................................................................. 472
+Table 12.1 Murui (established) clause linking constructions ................................................ 493
+Table 13.1 A sample of frequently borrowed Spanish words into Murui ............................. 548
+                                                                                                                                        xx
+MapsMap 1.1 Approximate locations of the Murui (underlined), Mɨka, Mɨnɨka, and Nɨpode groups
+   in Colombia and Peru (‘Witoto’ indicates mixed villages) ............................................... 2
+Map 1.2 Approximate locations of the groups of the People of the Centre cultural area ....... 14
+Map 1.3 Groups of the Caquetá-Putumayo region in 1908. The ‘Witoto’ territory is marked to
+   the north of the Putumayo (‘Issa’ on the map) and Caquetá (as ‘Japura’) rivers, roughly
+   the Cara-Paraná (‘Kara Parana’) and Igara-Paraná rivers (‘Igara Parana’) rivers
+   (Whiffen, 1915: 58-59) ..................................................................................................... 17
+Map 1.4 Locations of the Murui villages in Colombia where materials for this study were
+   collected ............................................................................................................................ 68FiguresFigure 1.1 The location of the ‘Hole of Humanity’ on the Igara-Paraná river (marked with a
+    hill), as drawn by Mɨnɨka, Murui, and Bora speakers during an indigenous workshop (La
+    Chorrera, September 2013)............................................................................................... 16
+Figure 1.2 The ‘Witoto’ calendar (AZICATCH, undated) ...................................................... 47
+Figure 1.3 A pair of Mika wooden signal drums (San José, March 2016) .............................. 54
+Diagrams
+Diagram 1.1 Composition of the People of the Centre cultural area ....................................... 12
+Diagram 1.2 The Witotoan language family............................................................................ 58
+Diagram 4.1 Semantics of established classifiers in Murui ................................................... 184
+Diagram 4.2 Semantics of a sample of forms of Murui physical property classifiers ........... 189
+Diagram 7.1 Expression of tense in Murui ............................................................................ 324
+Diagram 9.1 Semantics of the S-MARK -femo in comparative constructions ......................... 417
+Schemes
+Scheme 3.1 The structure of a Murui noun............................................................................ 118
+Scheme 3.2 The structure of a Murui adjective (noun-like) .................................................. 130
+Scheme 3.3 The structure of a Murui adjective (verb-like) ................................................... 131
+Scheme 7.1 The structure of a Murui verb ............................................................................ 318
+                                           xxi
+Abbreviations and Conventions1            1st person
+2            2nd person
+3            3rd person
+A            subject of transitive verb
+ABL          ablative
+AGT          agentive
+AN           animate
+ANA          anaphoric
+ANDTV        andative
+APPR         apprehensive
+ARG          argumentative
+AT           postposition ‘at’
+ATT          attributive
+AUDIT        auditory
+C            consonant
+CA           common argument
+CAV          cavity (classifier)
+CAUS         causative
+CERT         certainty
+CLF          classifier
+CLF.REP      classifier-repeater
+Cl:Comp      complement clause
+COND1        conditional -ia
+COND2        conditional -na
+COLL         collective
+COMPL        completive
+CONN         connective
+CTH          close to hearer
+CTS          close to speaker
+CUST         customary
+D            possessed
+DES          desiderative
+DR           ‘derivational’
+DIS          distal
+DU           dual
+DUR          durative
+E (in gloss) event nominalizer
+E            oblique core argument
+EMPH         emphatic
+ENDEAR       endearment term
+F            feminine
+FSH          far from speaker and hearer
+FOC          focus
+FUT          future
+G            generic (classifier)
+GEN          genitive
+GR           group
+                                         xxii
+HAB       habitual
+IMP       imperative
+IMMAT     immature
+INCP      inceptive
+INHER     inherent
+INS       instrumental
+INTERJ    interjection
+KIN       kinship (plural)
+LK        linker
+LOC       locative
+LOCAL1    locative koni
+LOCAL2    locative oni
+M         masculine
+MC        main clause
+N         noun
+N.S/A     non-S/A subject
+NEG       negative
+NEUT      neutral (classifier)
+NMLZ      nominalization
+NP        noun phrase
+NSP       non-specific
+O         object of transitive verb
+OVERLAP   overlap
+PASS      passive
+PL        plural
+PLACE     place
+PP        plural participants
+PR        ‘pronominal’
+PRED      predicate
+PRIV      privative
+PROH      prohibitive
+Q1        question word bu-
+Q2        question word nɨ-
+QUANT     quantifier -ga
+R         possessor
+RC        relative clause
+RECIP     reciprocal
+RED       reduplicated verb
+REFL      reflexive
+REM       remote
+REP       reported
+S         subject of intransitive verb
+SAP       speech act participant
+SEQ       sequential
+SG        singular
+SIMIL     similative
+SMLF      semelfactive
+SP        specific
+Sp        Spanish
+TEMP      temporal
+                                                                                                 xxiii
+TH           thematic
+TOP          topical
+UNCERT       uncertainty
+V            vowel, verb
+VENTV        ventive
+VCS          verbless clause subject
+VCC          verbless clause complement
+X            peripheral argument
+ˈ            primary stress
+ˌ            secondary stress
+In the text, vernacular data is given in italics. Examples are numbered according to the
+Chapter they are in (e.g. example ‘(1.5)’ refers to Chapter 1, example 5). Examples have
+three lines. The first line is orthographic and breaks up each word into morphemes. The
+second line shows morpheme-level glosses. SMALL CAPS are used for grammatical glosses.
+Proper names are reproduced throughout the glossing. The final line provides a free
+translation into English. The free translations are as idiomatic as possible; parentheses
+complement contextual meaning of the free translations. If an example is to be found in the
+text in the Appendix, it is marked with ‘TextNumber.SentenceNumber’, as in (T3.3).
+      In the text, verbs are given in a citation form, where the predicate marker (-dɨ/-tɨ) is
+followed by the 3rd person pronominal subject marker -e. For instance, the verb ‘write’ is
+presented as kue(te) ‘write’, where kue- is a verbal root. Punctuation depend on the pauses in
+speaker’s speech after the sentence is considered to have been completed. Clauses and
+sentences are not capitalized. When one word has several different meanings, the most
+appropriate one is given in the gloss. ‘Headless’ nominal modifiers that are used as heads of
+intransitive predicates are often shown in brackets to indicate non-verbal forms used
+intransitively, e.g. [mare-ko]-d-e (good.ATT-CLF.REP.DOG-LK-3) ‘it’s a good (dog)’.
+      The quotation marks placed around the term Witoto are done at the request of the
+Murui, Mɨnɨka, Mɨka, and Nɨpode people. ‘Witoto’ subsumed these four separate groups. The
+term Witotoan refers to the language family (that consists of ‘Witoto’, Ocaina, and Nonuya).
+      Throughout the chapters, there are a few numbering gaps, as some examples were
+eliminated in the final stage of the revision process.
+                                                                                              xxiv
+Orthographic conventionsGraphemes representing Murui phonemes adopted in this work are given below:
+                                   Grapheme Phoneme
+                                       /t/     [t]
+                                       /k/     [k]
+                                       /b/     [b]
+                                       /d/     [d]
+                                       /g/     [ɡ]
+                                      /m/     [m]
+                                       /n/     [n]
+                                       /ñ/     [ɲ]
+                                       /f/     [ɸ]
+                                       /v/     [β]
+                                       /z/     [θ]
+                                       /j/     [h]
+                                      /ch/    [tʃ]
+                                       /y/    [dʒ]
+                                       /r/     [r]
+                                       /i/     [i]
+                                       /i/     [i]
+                                       /u/     [u]
+                                       /e/     [ɛ]
+                                       /a/     [a]
+                                       /o/     [ɔ]
+The graphemes follow the already established writing conventions for Murui, Mɨka, Mɨnɨka,and Nɨpode. In this work, the majority of the phonetic symbols follow the conventions of theInternational Phonetic Alphabet. The ones that do not, are:
+                                   Grapheme Phoneme
+                                       /j/    for [h]
+                                      /ch/    for [tʃ]
+                                       /y/   for [dʒ]
+                                       /ñ/    for [ɲ]
+Moreover, graphemes /i/, /e/, and /o/ are used to represent the phonemes [ɯ], [ɛ], and [ɔ].
+                                                                                                                 1
+1 The Murui language and its speakersMurui, also known in literature as Búe, Uitoto, Witoto, and Huitoto, belongs to the Witotoanlanguage family, one of the smaller linguistic families in Amazonia, that consists of two otherlanguages spoken in the area, Ocaina (still spoken by about 90 people) and Nonuya (amoribund language). Murui is spoken by about 2,000 people that traditionally inhabited theregion of the Amazon Basin between the middle sections of the Caquetá and Putumayo riversin Colombia and their tributaries, the Igara-Paraná and Cara-Paraná rivers. Today, smallerMurui tribes live also ‘outside’ the Caquetá-Putumayo region. There is a mixed communityof Murui-Mɨnɨka people located in the Resguardo Indígena Tikuna-Uitoto (known as‘Kilómetro 11’) close to Leticia (Colombia). Some also inhabit areas along the Ampi-Yacúand Napo rivers in Peru (see e.g. Petersen de Piñeros and Patiño Rosselli (2000: 219)).","[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]"
+"           The S/A arguments are expressed on the predicate by means of cross-referencing
+187
+      This is a normal discourse feature in neighboring languages such as Tariana (Aikhenvald, 2003) as in many
+other languages around the world (Aikhenvald, 2012: 202-203).
+                                                                                                                 270
+bound pronouns and classifiers (see §3.1.2 and §3.1.4). 188 The O arguments are not cross-referenced on the verb. The forms of personal pronuons and pronominal subject markers (forS, A, and O arguments) remain always the same. This is illustrated in the sentences (6.1),(6.2), and (6.3) below. Forms of the S cross-referencing markers on intransitive predicate arethe same as marking of A subjects in transitive clauses, as in (6.1-2). (6.2-3) illustrate that Oarguments are not cross-referenced on the verb, and that the pronouns are identical to the S/Across-referencing markers.","[294, 295]"
+"
+7.1   Predicate structure
+Root and affixes appear frequently in the order shown in Scheme 7.1 below (see also §3.1.2).",[342]
+"
+199
+      This is similar to the contrastive function of the topical S/A subject marker =dɨ; cf. (6.37).
+                                                                                                              295
+(6.86) aki-eO                 dɨno-ri                    kueA                     yo-tɨ-kuePRED
+            AUDIT-CLF:G       AT.CLF:SP.PLACE-BENEF.CAUS 1sg                      tell-LK-1sg
+            [aki-e            ra-fue-na]O
+            AUDIT-CLF:G       thing-CLF:STORY-N.S/A.TOP
+            ‘This is the end. I told the story.’
+(6.87) J:        jai      iadɨ nai-e-naO            fɨe-d-ePRED
+                 already but ANA.SP-CLF:G-N.S/A.TOP leave-LK-3
+                 ‘So (she) stopped this already.’
+            S: jai       fɨe-d-ePRED nai-e-naO
+                already leave-LK-3 ANA.SP-CLF:G-N.S/A.TOP
+              ‘(She) stopped this already.’
+6.2.1.6 Marking of O NP, with dative/locativeThe O NP argument that refers to the addressee/ recipient 200 can be marked with thedative/locative -mo or be left unmarked. 201 In (6.88) the argument of the second clause is theO NP kue (1sg) ‘I’ is marked with the topical non-S/A subject -na; the O NP oo (2sg) ‘you’ ismarked with the dative/locative -mo. Note that oo cannot be marked with-na.
+(6.88) [‘oo jito]-dɨ-kue=zaPRED   nɨ-e-ze          [bi-e             izoi]     kue-naO
+       2sg son-LK-1sg=UNCERT Q2-CLF:G-SIMIL this.CTS-CLF:G similar 1sg-N.S/A.TOP
+       ñe-itɨ-o?PRED   bi-eO           oo-moO:ADDRESSEE yo-tɨ-kue!’PRED rei-t-ePRED
+       do-FUT.LK-2sg this.CTS-CLF:G 2-LOC                 tell-LK-1sg       say-LK-3
+       ‘“I am your son. How will you do this to me? I tell you this!” (he) said.’
+Marking of the addressee depends on the nature of the O and it correlates with the NominalHierarchy, as well as the contrastive focus. Unmarked addressees can only be personalpronouns, proper nouns (personal names and kinship terms); nouns with other types of200
+      ‘O NP addressee/ recipient’ can also be referred to as ‘indirect object’.
+201
+      Locative marker is one of the sources of differential object marking in Murui. This is similar to the
+differential object marker -nuku in Tariana, an Arawak language spoken to the north (cf. Baniwa (Arawak)
+-naku ‘on’) (Aikhenvald, 2003). Cross-linguistically, there is a tendency for DOM to have their origin in
+locative markers.
+                                                                                              296
+referents are always marked with -mo. The meaning of marked arguments with thedative/locative is ‘focused O addressee/recipient’. The marking on the O NP:Addressee istypically used in imperative clauses where clause marked with -mo has an abrupt, brusquereading of ‘give ME (it)’, as in (6.89). Unmarked O NP:Addressee do not have such readings,as in (6.90).
+(6.89) dɨo-kaɨO           kueO:ADDRESSEE ine!PRED
+       tobacco-CLF:STEM 1sg              give
+       ‘Give me a cigarette!’ (normal reading)(6.90) dɨo-kaɨO          kue-moO:ADDRESSEE ine!PRED
+       tobacco-CLF:STEM 1sg-LOC               give
+       ‘Give ME a cigarette!’ (abrupt reading, brusque)More contrastive examples with different types of O NP:Addressee are given in (6.91-94)below. See also (6.41) for an unmarked pronoun O NP:Addressee kue (1sg) ‘I’.(6.91) da-godoO                LusioO:ADDRESSEE ine!PRED
+       one-CLF.REP:BANANA Lucio                   give
+       ‘Give Lucio a cigarette!’ (normal reading)(6.92) bi-e-naO                 Elger-moO:ADDRESSEE ine!PRED
+       this.CTS-CLF:G-N.S/A.TOP Elger-LOC            give
+       ‘Give this to ELGER!’ (abrupt reading, brusque)(6.93) aros-naO          kue-moO:ADDRESSEE akata!PRED
+       rice.Sp-N.S/A.TOP 1sg-LOC             show
+       ‘Show ME the rice!’ (abrupt reading, brusque)(6.94) ‘kue-moO:ADDREESSEE nai-kɨno-naO                   yo-ñe-itɨ-makɨ’PRED
+       1sg-LOC             ANA.SP-CLF:NEWS-N.S/A.TOP tell-NEG-FUT.LK-3pl
+       rai-tɨ-kuePRED
+       say-LK-1sg
+       ‘“They won’t tell ME (what to do)” I said.’ (an angry person speaking)Nouns in the addressee function always receive the -mo marking. Examples (6.95-96)illustrate an extended transitive clause with three arguments. In (6.95) these are: kue (1sg) ‘I’in the A function, bie ‘this’ as the O NP and the addressee, the noun gato ‘cat’ as O NP
+                                                                                                 297
+indicating that it refers to the recipient of an act of giving. This is similar in (6.97) with thestrictly transitive verb akata(te) ‘show’.(6.95) kueA bi-e-naO                    gato-moO:ADDRESSEE        i-tɨ-kuePRED
+       1sg     this.CTS-CLF:G-N.S/A.TOP cat.Sp-LOC                give-LK-1sg
+       ‘I give this to the cat.’(6.96) jai        kueA [bi-e            ie-na]O         jɨko-moO:ADDRESSEE i-tɨ-kuePRED
+       already 1sg       this.CTS-CLF:G CONN-N.S/A.TOP dog-LOC             give-LK-1sg
+       ‘I already gave some of this (food) to the dog.’(6.97) [kue jɨko]O [Elger jito-mo]O:ADDRESSEE akata-tɨ-kuePRED
+       1sg dog     Elger son-LOC              show-LK-1sg
+       ‘I showed my dog to Elger’s son.’
+6.2.1.7 ‘Oblique’ as core argumentSome verbs obligatorily take the locative marker. For instance, a type of a predicativeconstruction employs the intransitive verb i(te) ‘exist’ where the possessor (R) is marked withthe locative case; cf. ‘locational schema’ in Heine (1997). An example is given in (6.98) (seealso §5.1.3.2 on the use of i(te) in expressing possession).
+(6.98) kue-moO uru-eA                i-t-ePRED
+       1sg-LOC     child-CLF:G exist-LK-3
+       ‘I have a child (lit. in/at me there is a child).’
+Marking of some O NP arguments can also be related to argument structure, marking -na isnot possible. Verbs of seeing have different argument structure than verbs of looking: verbsof seeing are marked with -na (cf. (6.81) above), and verbs of looking with the locative-mo, as in (6.99).
+(6.99) rɨ-ño-moO              ero-da-ñe-d-ePRED
+       woman-CLF:DR.F-LOC look-BODY-NEG-LK-3
+       ‘He does not look at women.’ (an excerpt from a narrative about Murui shamans)
+The standard marker baaɨ-fe-mo (THERE-CLF:SIDE-LOC) ‘on the over there side (i.e. ahead of)’in comparative constructions obligatorily takes the locative marker (see §9.2).
+                                                                                               298
+6.2.1.8 Double case markingAll types of Murui verbs can be subject to derivations which increase valency and participatein causative derivation. Murui has a morphological mechanism, which allows for thecausative -ta to be applied twice yielding a causative of a causative ‒ the double causativethat forms the contiguous -ta-ta string of suffixes (see §8.2.2). (6.100-101) show thederivation mechanism of a ‘simple’ causative.
+(6.100) uru-eS        ɨnɨ-d-ePRED
+        child-CLF:G sleep-LK-3
+        ‘The child sleeps.’
+(6.101) nai-mɨeA         uru-e-naO                  ɨnɨ-ta-t-ePRED
+        ANA.SP-CLF:PR.M child-CLF:G-N.S/A.TOP sleep-CAUS-LK-3
+        ‘He ordered the child to sleep.’ (he told the child to go to sleep)
+In (6.102), in causative constructions O NP can be unmarked. The speaker does not have anybody specific in mind.","[319, 320, 321, 322, 323]"
+"
+A. CLAUSES OF CONTRAST AND ADDITION ‒ the linker iadɨ is expressed by two main clauses ofwhich the second is introduced by iadɨ ‘but, although’ and occurs in the clause-initialposition. Iadɨ typically has a contrastive meaning, as in (12.26-28) (see also example T2.27,T2.37, T2.41, and T2.65). Occasionaly, iadɨ is interchangable with iadedɨ (a form of iadɨfollowed by the topical S/A subject marker =dɨ), as in (12.29).
+(12.26) kɨo-do!PRED    maɨjɨ-i-aka-dɨ-kuePRED   iadɨ         rɨ-yeO
+        see-LK.2sg     work-EMPH-DES-LK-1sg but              eat.meat-FUT.E.NMLZ
+        i-ñe-naPRED
+        exist-NEG-E.NMLZ
+        ‘Look! I want to work but there is no meat!’
+(12.27) nɨ-nɨaɨO da-ño           ro-t-ePRED Polaco-do        nɨ-niaɨO ro-t-ePRED
+        Q2-COLL one-CLF:DR.F sing-LK-3 polish.Sp- INS Q2-COLL sing-LK-3
+        iadɨ jaka      jari-re      ziga-kaɨO                jeno-d-e=dɨPRED
+        but     always quick-ATT cigarette.Sp-CLF:STEM search-LK-3=CERT
+        ‘She sang many songs in Polish, many (songs she) sang! But (then) she would
+        always go quickly (outside); she looked for cigarettes.’
+(12.28) jɨɨ    [ie    dɨga] bi-zai-dɨ-kaɨPRED       iadɨ    nai-makɨS
+        yes CONN WITH come-VENTV-LK-1pl CONN ANA.SP-CLF:PR.GR.AN
+        rei-t-ePRED ‘ua    ocho-mo        jaaitɨ-kaɨ’PRED rei-t-ePRED
+        say-LK-3 really eight.Sp-LOC go-FUT.LK-1pl say-LK-3
+        ‘Yes, with him we came. But they said “We really arrived at 8pm”.’
+                                                                                                              491
+(12.29) jai      eo      aare ñaɨ-tɨ-kuePRED iade=dɨ         maquina-mo
+        already very long speak-LK-1sg but=S/A.TOP machine.Sp-LOC
+        kaka-i-ñe-naPRED
+        listen-EMPH-NEG-E.NMLZ
+        ‘I have already spoken a long while, but the recorder doesn’t listen’.
+Iadɨ is not always strictly contrastive. Its semantics appear to also cover such meanings like‘so, even so’. Example (12.30) shows overlap with cause and result, followed by a purposiveclause (marked with the future event nominalizer -ye).
+(12.30) kɨo-doPRED maɨjɨ-itɨ-kue…PRED     iadɨ bu-e-naO               [uru-kɨ
+        see-LK.2sg work-FUT.LK-1sg        but Q1-CLF:G-N.S/A.TOP child-CLF:CLUSTER
+        ono-yɨ             jerei]LOC kue joone-yePRED
+        hand-CLF:BUSHY inside        1sg lay.TH-FUT.N.NMLZ
+        ‘Look! I will work to put something in the hands of the children.’
+Iadɨ is a multifunctional form that can be used within a single clause (independently of itbeing coordinated). This is shown (12.31); the meaning of (12.31) is that ofcounterexpectation.
+(12.31) nɨɨ-ka uzi-re-naPRED        iadɨ nai-rui-doINS ua?
+        Q2-FOC hot-ATT-E.NMLZ but ANA.SP-CLF:DAY-INS really
+        ‘But it was (so) hot that day, right?’
+B. CLAUSES OF DISJUNCTION - disjunction in Murui is encoded with the linker oo ‘or’ inalternative questions. 296 They are formed by a disjunction of two main clauses that share thesame subject (of which, the second clause is always negated; see also §11.2.4). The sameverb is obligatorily used in both clauses. The linker oo occurs in the clause-initial positionintroducing the second clause. For example:
+(12.32) PedroS bi-t-ePRED     oo bi-ñe-d-e?PRED
+        Pedro come-LK-3 or          come-NEG-LK-3
+        ‘Did Pedro come? (lit. did Pedro come or didn’t (he) come?)’
+296
+      As discussed in §11.2.4, the linker oo does not appear to be a borrowing from Spanish (the Spanish linker o
+for ‘or’).
+                                                                                             492
+(12.33) deei-zai-d-ePRED    oo deei-zai-ñe-d-e?PRED
+        rain-ANDTV-LK-3 or         rain-ANDTV-NEG-LK-3
+        ‘Was it going to rain? (lit. was it going to rain or wasn’t it going to rain?)’
+(12.34) jiibi-eO     duuitɨ-makɨPRED           oo du-ñe-itɨ-makɨ?PRED
+        coca-CLF:G chew.coca.FUT.LK-3pl or chew.coca-NEG-FUT.LK-3pl
+        ‘Will they chew coca? (lit. will they chew coca or won’t they chew coca?)’
+12.3 Dependent clausesMurui distinguishes between subordinate clauses (§12.3.1), and complementation (§12.3.2)and relativization strategies (§12.3.3). Murui dependent clauses differ from main clauses interms of marking on verbs (verbal suffixes marking clausal dependency occur on a clause-final verbal predicate and are mutually exclusive) and their placement with respect to themain clause (in natural discourse, the AOV/SV constituent order in declarative clauses can beconditioned by pragmatic factors; in dependent clauses the constituent order appears to berigid, verb-final).","[515, 516, 517]"
+"
+D1. FULLY INFLECTED VERB, FUTURE TENSE, AND REDUCED LINKER – such constructions havestronger overtones than those of type C1-2, and are used for offering a stronger type ofsuggestion. The pronominal subject marker on the verb is reduced -tɨo > -to, as in (11.30):
+(11.30) beneLOC          ɨnɨ-itoPRED
+        HERE.LOC:NSP sleep-FUT.LK.2sg
+        ‘(You) will sleep here!’
+287
+      In Arapaho, an Algonquian language, future forms are not used to cast commands but to express “(...) a
+recognition of the strong authority of the person who cannot be commanded” (Cowell 2007:57).
+                                                                                         471
+D2. FULLY INFLECTED VERBS CAST IN FUTURE TENSE – fully inflected verbs cast in future havestern and personal suggestions and command-like meanings. In (11.31), a woman was givingan order to her daughter to stay home and watch other children while she would go away. Herutterances are casted in the future tense:
+(11.31) kueS [Ismael=dɨne]LOC        jaai-dɨ-kue=zaPRED ooS jo-fo-moLOC
+        1sg      Ismael=AT.LOC:NSP go-LK-1sg=UNCERT 2sg house-CLF:CAV-LOC
+        iitɨ-oPRED         uru-iaɨO       zada-itɨ-oPRED           nɨ-ne        uri
+        exist.FUT.LK-2sg child-CLF:G.PL take.care-FUT.LK-2sg Q2-LOC:NSP calm
+        jaai-ñe-itɨ-omoɨPRED jo-fo-moLOC            iitɨ-omoɨ!PRED     kaka-dɨ-o?PRED
+        go-NEG-FUT.LK-2pl house-CLF:CAV-LOC exist.FUT.LK-2pl hear-LK-2sg
+        ‘I am going to Ismael’s, you WILL stay home. You WILL watch the children.
+        You (plural) WILL not go anywhere. You (plural) WILL stay home quietly. Do
+        you understand?’
+E. VERBAL ROOTS FOLLOWED BY EVENT NOMINALIZERS – there are two types of nominalizedconstructions with command-like meanings: those followed by the future event nominalizer-ye, and those followed by the future nominalizer and the emphatic marker -za.","[495, 496]"
+"        Murui possessive construction involves the Possessor (R) which can be a noun, a fullNP, or an independent pronoun, and the Possessed (D) which is frequently a noun, andalways functions as a head. Murui possessive constructions show no marking on either the Ror the D; the R and the D are simply juxtaposed within the NP with the Possessor-Possessedconstituent order, as in (1.7):
+(1.7) [LusioR yoe-faiD]NP
+      Lucio     metal-CLF:SHORT.THICKER
+      ‘Lucio’s machete’
+Marking of the genitive -ɨe is conditioned by the Nominal Hierarchy where -ɨe occurs with 1stand 2nd personal pronouns, e.g. kue-ɨe (1sg-GEN) ‘mine’, and the connective ie which occurs
+                                                                                              7
+with 3rd person Lusio ie (Lucio CONN) ‘Lucio’s’. Murui lacks both a verb meaning ‘have’ aswell as the distinction between alienable and inalienable possession. The expression ofpossession and number are discussed in Chapter 5.","[31, 32]"
+"           Male dominance (especially the father and father’s brother) played a crucial role in achild’s upbringing. In the case of a father’s death, the responsibility for a child (bothemotional and physical) was transferred to izo, the father’s brother (but never mother’sbrother) (E. Minor & Minor, 1980: 75). Nevertheless, the mother was always an importantperson in the life of a child, as she was compelled to care for the infant. The maternal familywas not expected to take part in the upbringing of the child but they could have a casualrelationship with the young ones. The mother’s brothers and sisters were not considered toplay any significant role in a child’s life, as they were members of a different consanguineousgroup. Among the ‘Witoto’ people, the birth order determined a child’s status in the family.",[56]
+"The overt marking of the core cases is conditioned by both discourse and alignment ofconstituent order in the clause. Murui non-core arguments are optional and can be included ineither clause type. These oblique arguments are: locative, ablative, instrumental, benefactive-causal, and privative. Marking of the non-core cases is usually mandatory (see §6.2.2.1 on theomission of the locative).",[297]
+"
+8.3   Reflexive and reciprocal
+In a reflexive construction, transitive subject A and transitive object O coincide; a reciprocalclause describes “(…) several instances of an activity such that what is A argument in oneinstance is O argument in another” (Dixon, 2012: 475). Murui has no ‘dedicated’constructions for reflexive or reciprocal, but a set of mechanisms through which reflexive andreciprocal meanings are expressed (there are no affixes marking reflexive and reciprocalderivations on the verb). The language employs a similar technique to express reflexive andreciprocal meanings. It involves:
+      – free informative markers (‘headless’ nominal modifiers; these are bound forms      followed by animate classifiers that refer to S/A NP arguments cross-referenced on the      verb), and      – the possessed noun abɨ ‘body’.
+                                                                                                             392
+In reflexive constructions the form of the informative marker is da- ‘own, one, alone’.","[416, 417]"
+"
+A. CASUAL ‘BECAUSE OF’ – meaning ‘because of’, e.g.:
+(6.153) nokɨ-ri             jo-fo-moLOC                         fɨebi-dɨ-kuePRED
+        rain-BENEF.CAUS house-CLF:CAV-LOC                       stay-LK-1sg
+        ‘Because of the rain, I stayed home.’
+207
+      Abɨdo is possibly related to abɨ ‘body’ (followed by the instrumental case marker -do) (see (T1.21) in the
+Appendix). It frequently co-occurs with dane ‘once’, as in abɨdo dane ‘once again’.
+                                                                                               310
+(6.154) kue jaai-zai-dɨ-kue-mo          [kue ñee     uru-e        abɨ]S eo
+        1sg go-ANDTV-LK-1sg-TEMP 1sg         FILLER child-CLF:G body very
+        uzi-re-na-ri                    jaka   jaai-ñe-dɨ-kuePRED
+        hot-ATT-E.NMLZ-BENEF.CAUS always go-NEG-LK-1sg
+        ‘While I was going away to leave because of my child had fever (lit. my child’s
+        body being hot), I never went.’
+(6.155) iyɨ-moLOC          jaai-d-ePRED gui-yeS          i-ñe-na-ri
+        jungle.garden-LOC go-LK-3       eat-FUT.E.NMLZ exist-NEG-E.NMLZ-BENEF.CAUS
+        ‘He went to the jungle garden because there’s no food (lit. future eating).’
+(6.156) eo zefui-re-d-ePRED       mee-re-d-ePRED ie-ri                     jai
+        very tiring-ATT-LK-3      heavy-ATT-LK-3 CONN-BENEF.CAUS already
+        jaai-ñe-dɨ-kuePRED jamei bi-mona-doINS              jo-fo-moLOC          raaɨ-dɨ-kuePRED
+        go-NEG-LK-1sg        ONLY this.CTS-CLF:DAY-INS house-CLF:CAV-LOC sit-LK-1sg
+        ‘It’s very boring, heavy. Because of this, I didn’t go. So today I am staying home.’
+(6.157) bi-e-ri                       bi-ñe-dɨ-kuePRED
+        this.CTS-CLF:G-BENEF.CAUS come-NEG-LK-1sg
+        ‘Because of this, I didn’t come.’
+B. BENEFACTIVE ‘FOR, FOR BENEFIT OF’ WITH PRONOUNS – in their benefactive meaning, -riimplies that the referent of the noun receives the benefit of the situation expressed by theclause. The causal and benefactive meanings are related - benefactive readings do alsoinvolve causal relationship. This is illustrated in (6.158). Such examples are rare in Murui,however - while some speakers do use -ri with pronouns, others do not. Murui speakersassign such usage to the Mɨnɨka variety, and frequently give benefactive reading in clausesthat contain with fakai ‘time’, as in (6.159).
+(6.158) kue-ri             ɨba-it-ePRED
+        1sg-BENEF.CAUS buy-FUT.LK-3
+        ‘(He) will buy (it) for me.’
+(6.159) kue fakai-na            ɨba-it-ePRED
+        1sg time-N.S/A.TOP buy-FUT.LK-3
+        ‘(He) will buy (it) for me.’
+                                                                                                 311
+While the use of -ri with 1st person singular is debatable among speakers, -ri with 1st personplural, as in (6.160), is widely recognized. 208 What is interesting about (6.160) is that theclause might have two different interpretations, each depending on a situation. If a speakerutters it when the referent is present (e.g. during a gathering), it has positive connotations andis understood as ‘(He) speaks for (the benefit of) us.’. If the referent is not present, themeaning is negative, as in (6.160):
+(6.160) kaɨ-ri            ñaɨ-t-ePRED
+        1pl-BENEF.CAUS speak-LK-3
+        ‘(He) speaks for (benefit of) us.’ or ‘(He) speaks (to cause misfortune) for us.’
+6.2.2.5 PrivativeMurui nouns and ‘headless’ nominal modifiers can take the case marker -(ni)no meaning‘without’. The marker -(ni)no is in fact a combination of the negative attributive -ni followedby the privative -no. Such privative clauses always share the same subject. Examples aregiven in (6.161-163):
+(6.161) nai-mɨe              [nana atava]S feka-kaPRED         ie=ta
+        ANA.SP-CLF:PR.M ALL           chicken distribute-PASS CONN=REP
+        atava-ni-noPRIV          fɨebi-d-ePRED
+        chicken-NEG.ATT-PRIV stay-LK-3
+         ‘He sold all his chicken and so he remained without any (chicken).’
+(6.162) omoɨS mirɨ-ño-ni-noPRIV               gui-ni-dɨ-omoɨPRED           gui-ñe-no!PRED
+        2pl    sister-CLF:DR.F-NEG.ATT-PRIV eat-NEG.ATT-LK-2pl             eat-NEG-PRIV.PROH
+        ‘You cannot eat without your sister! Don’t eat!’
+(6.163) [kue ei-ni-no]PRIV         bi-ya=zaPRED
+        1sg mother-NEG.ATT-PRIV come-E.NMLZ=UNCERT
+        ‘(He) came without my mother.’
+208
+      See also §5.1.4 on the distinction between ‘I’ vs. ‘we’ in Murui.
+                                                                                                                312
+The marker can also occur on verbs and adjectives in the form of -(ni)no or -(ñe)no (cf. theform of the standard negator is -ñe). 209 The privative -no has to co-occur with either thenegative attributive -ni, as in examples (6.161-163) above, or the standard negator -ñe, as in(6.164) (see also §10.2.3-4).(6.164) maɨjɨ-ñe-no     bi-tɨ-kuePRED
+        work-NEG-PRIV come-LK-1sg
+        ‘I came without having worked.’
+6.3       Order of arguments
+Grammatical relations in Murui are shown by the order of core arguments in relation to thepredicate: SV and AOV. Murui shows a nominative-accusative pattern of constituentordering – S, A followed by O, occur before the verb. The placement of the non-corearguments follows the nominative–accusative nature of Murui: SXV and AOXV. Obliquearguments are obligatorily marked with cases (see §6.2.2.1 on the occasional omission of thelocative). (6.165) illustrates an intransitive clause with the oblique argument San Rafaelmo‘to San Rafael’ following the S argument. (6.166) is an example of a transitive clause withthe O following the A.","[334, 335, 336, 337]"
+"For instance, when a man died, his possessions were transferred to his first son. If he had noson, they would be given to his aama ‘brother’, followed by mirɨño ‘sister’, komoma ‘son ofhis sister’ and a enaize ‘nephew’ (in that order) (E. Minor & Minor, 1980: 81-82) (see also§1.3.4 on kinship terminology).",[56]
+"           Murui causative -ta applies to all sorts of verbs. In addition to intransitive,ambitransitive, and strictly transitive verbs illustrated in the previous examples, it can alsoapply to adjectives as well when they are followed by the attributive -re/-ni or the markersmeaning ‘become’ (-nai, -tai, and -dai), as in (8.54-56).The Murui causative cannot occur onnouns that function as heads of intransitive predicates. 241
+(8.54) [kue uru-e-na]O        yɨkɨ-nai-ta-dɨ-kuePRED
+       1sg    child-N.S/A.TOP flat-BECOME1-CAUS-LK-1
+       ‘I make my child become thin.’
+(8.55) jaa    navuida guruaA             [kome kome-kɨ]O   zuu-re-ta-d-ePRED
+       soon evening thunder.E.NMLZ person heart-CLF:ROUND sad-ATT-CAUS-LK-3
+       ‘The thunder in the evening makes one’s heart sad.’
+240
+      Compare this with AO1VO2 of the double causative construction in which only O2 can be postposed to the
+verb yielding the basic AOV constituent order.
+241
+      For instance, intransitive predicates expressesing possession cannot occur with the causative (see §5.1.3.1),
+as in urue-re-dɨ-kue (child-CLF:G-ATT-LK-1sg) ‘I have a child’; *urue-re-ta-dɨ-kue (child-CLF:G-ATT-CAUS-LK-
+1sg) is ungrammatical.
+                                                                                                                386
+(8.56) [kue aa-ma               dɨga] fuiri-dɨ-kuePRED nai-mɨeA      [kue
+       1sg brother-CLF:DR.M WITH fight-LK-1sg          ANA.SP-CLF:PR.M 1sg
+       ɨfo-gɨ]O                 izi-re-ta-d-ePRED
+       head-CLF:OVAL.BIGGER painful-ATT-CAUS-LK-3
+       ‘I fought with my brother. He made my head hurt.’
+A few lexicalized verbs include the unproductive suffix -no to be able to take on the causative-ta (elsewhere in the language, -no is a semelfactive marker, see §7.2.2.4). These are verbsthat refer to states, such as baai(de) ‘die, be dead’ in (8.57).
+(8.57) a. jɨko baaɨ-d-ePRED
+          dog die-LK-3
+          ‘The dog died.’ or ‘The dog is dead.’
+           b. nai-mɨeA           [kue jɨko]O baɨ-no-d-ePRED
+              ANA.SP-CLF:PR.M 1sg dog        die-SMLF-LK-3
+              ‘He killed my dog.’
+           c. Flaco [kue jɨko]O baɨno-ta-t-ePRED
+              Flaco 1sg dog       die.TH-CAUS-LK-3
+              ‘Flaco got my dog killed.’
+A few verbs contain the element -ta, which originally might have been the causative suffix.","[410, 411]"
+"The Catholic order of Capuchins established an orphanage in La Chorrera in 1933. There is,
+                                                                                              70
+however, evidence of Capuchins’ presence in the Putumayo and Caquetá regions already inthe 1890s (Davis, 1996; Echeverri, 1997). In the 1940s, the orphanage founded by CapuchinFather Estanislao de Les Corts became a boarding school and it is now one of the oldestestablished boarding schools in this part of the Amazon Basin (Echeverri, 1997: 87).","[94, 95]"
+"
+D. EXTENDED TRANSITIVE CLAUSES contain a strictly transitive verb with transitive subject (S)and two transitive objects (O) and (E) as core arguments (§3.1.2). Similarly to transitiveclauses, strictly transitive verbs can mark the A NP with the topical S/A subject marker =dɨand the O NP with the topical non-S/A subject marker -na. Extended transitive clausesobligatorily take the second O NP (Recipient/Addressee) marked with the dative/locative-mo. An example of an extended transitive clause is given in (12.12) where the O NPargument is gift guiye ‘food’ and the second (extended) argument is recipient gato ‘cat’:
+(12.12) kueA [bai-e             gui-ye]O:GIFT i-t-ePRED gato-moO:RECIPIENT
+        1sg    that.FSH-CLF:G eat-FUT.E.NMLZ give-LK-3 cat.Sp-LOC
+        ‘She gave that food to the cat.’
+E. VERBLESS CLAUSES are used meanings for covering identity and equation, attribution, andpossession. 294 Verbless clauses are never employed to either express location or existence.",[511]
+"           Murui has three open lexical word classes: nouns, verbs, and adjectives. Semi-closedword classes are adverbs, time words, and number words. There are seven closed wordclasses; these are quantifiers and intensifiers, pronouns, demonstratives, interrogative contentwords, the connective ie, adpositions, and interjections. Murui word classes share numerousproperties; for instance, many of the members of the open, semi-closed, and closed wordclasses can be used as heads of intransitive predicates. For instance, in (1.1), the head of thepredicate is the verb ɨba(de) ‘buy’; in (1.2) it is the noun uzuma ‘grandfather’; in (1.3) it is
+2
+    With regards to the lack of tonal distinction, all ‘Witoto’ dialects are similar to Nonuya but are unlike Ocaina
+and other languages of the People of the Centre cultural area. Note however that only Murui and Mɨka have
+fixed accent position (word-initial). Mɨnɨka and Nɨpode appear to have different patterns of accent placement.
+This has lead other researchers to hypothesize that it could possibly be indicative of tonal contrasts in Mɨnɨka
+(Ávila, 2016; Seifart & Fagua Rincón, 2009).
+3
+    Witotoan languages differ in terms of the number of prefixes on the verb (Wojtylak, 2016d).
+                                                                                                    5
+headed by the question word buu ‘who’. Murui open, semi-closed, and closed word classes,as well as word-changing derivations are discussed in Chapter 3.
+(1.1)   kɨifoO     oi-ma=dɨA                                 ɨba-aka-d-ePRED
+        honey      wife’s.brother-CLF:DR.M=S/A.TOP           buy-DES-LK-3
+        ‘The sister’s busband wants to buy honey.’(1.2)   uzu-ma-fɨ-re-dɨ-o?PRED
+        grandparent-CLF:DR.M-CUST-ATT-LK-2sg
+        ‘Did you used to be a grandfather?’(1.3)   buu-dɨ-omɨko?PRED
+        Q2-LK-2du.m
+        ‘Who are you (two males)?’Murui nouns can take up to three suffix slots that generally can be filled simultaneously withclassifiers (up to three classifier positions), number (plural, kinship plural, and collective),and case marking (topical S/A and non-S/A subject markers, locative, ablative, instrumental,benefactive-causal, and privative) (see Chapter 6 on grammatical relations). The non-singularity of plain noun forms is often determined by context. Often, number marking isexpressed when nouns are pragmatically salient or their referents are highly animate. Perhapsone of the most salient features of Murui, is its large multiple classifier system, that consistsof more than 80 ‘established’ classifiers that denote among others, form, size, function, andquantification. In this respect, Murui is similar to other neighboring languages spoken in theCaquetá-Putumayo region as well as those languages spoken in the vicinity of the Vaupéslinguistic area to the north (among which the East Tucanoan and Makú languages, as well asan Arawak language, Tariana) (Aikhenvald, 2000: 204-241; Seifart, 2005). A few examplesof Murui classifiers are given in (1.4) (classifiers are in bold).
+(1.4)   small, round in form e.g. komai-jɨ ‘seed of milpeso tree (Mauritia flexuosa)’
+                                  jiñi-jɨ   ‘testicles’
+        tree-like form       e.g. ñekɨ-na ‘chambira tree (Astrocaryum chambira)’
+                                  zirɨko-na ‘grape tree’
+                                                                                               6
+The classifiers are suffixes that can be defined as sets of morphemes used in variousmorphosyntactic contexts, including demonstratives, pronouns, and adjectives, as illustratedin (1.5):
+(1.5)   bi-koVCS               kue-ɨeVCC kue-koVCS          mare-koVCC
+        this.CTS-CLF:COVER 1sg-GEN 1sg-CLF:COVER good.ATT-CLF:COVER
+        ‘This (house) is mine. My (house) is a good (house).’
+The Murui multiple classifier system is semi-open due to the occurrence of repeaters whichcan be defined as partially repeated nouns that do not classify nouns but occur in the classifierslot. They have non-human referents only. In (1.6) -dora is ‘repeated’ from the Spanish formkomputadora for ‘computer’ on the pronoun oo ‘you (2sg)’:
+(1.6)   baa!     oo-doraS                     i-ñe-d-e=taPRED
+        THERE   2sg-CLF.REP:COMPUTER.Sp exist-NEG-LK-3=REP
+        ‘There! Your (computer) is gone! (reportedly)’
+Murui repeaters are similar to repeaters in other neighboring languages (Aikhenvald, 2000:222). The main functions of Murui classifiers are derivation of nominal stems, formation of‘headless’ nominal modifiers, and word-class changing nominalizations. They also functionas a reference-tracking mechanism (Wojtylak, 2016a, forthcoming-d). See Chapter 4 onMurui noun structure and classifiers.","[29, 30, 31]"
+"       Murui bridging constructions are further characterized by frequent omissions of targetlexical items in the bridging clause, in particular arguments and locational expressions. Forinstance, the locational zibegɨmo ‘in the pot’ in (13.8b) is omitted in (13.8c). The argumentscan be retained, however; see kore ‘starch’ in (13.5) above. Often, rather than the mention ofovert arguments, bridging clauses contain anaphoric demonstratives. In Murui, solearguments are never repeated on their own without an accompanying predicate. In caseswhere two arguments are present in the reference clause, no more than one argument (if any)is ‘copied’ into the bridging clause. Omission of arguments is context-dependent (that is,
+                                                                                                                 521
+referents have to be understood from the context), and in the bridging clauses it is not aspecific feature of neither the recapitulative nor summary linkage. 309
+13.2.2 Summary linkageAnother type of Murui bridging constructions involves non-verbatim summary linkage that ischaracteristic of all procedural texts. It hardly occurs in other genres. The occurrence ofsummary linkage is however not as pervasive as that of recapitulative linkage in thelanguage. Murui does not have a ‘dedicated’ generic verb through which ‘summary’repetition would be realized. Bridging clauses contain verbs that have reasonably genericsemantics, rather than specific ones. Those verbs do not have pro-verb functions (that is, theycannot be used as a replacement for any verb). In the corpus, only three verbs function asgeneric ‘replacements’ of specific verbs ñe- ‘do’, fɨno- ‘make’, and atɨ- ‘bring’. 310 Theirfunctions are similar to verbs in normal sequential clauses but they are more frequently usedas summary linkage. An example of such summary repetition of the verb fɨno- ‘do’ is shownin (13.10), where fɨnuanona ‘after doing’ in (13.10c) refers back to (13.10a-b) (that is, thedrilling of a small hole in a fruit in order to make a toy). Note the co-occurrence of theanaphoric demonstrative naie ‘that’ used as the textual anaphora; the element ie introducesthe clauses.
+(13.10) a. nai-e          bai-kɨ                    beikɨ               raɨ-gaPRED
+           ANA.SP-CLF:G that.FSH-CLF:ROUND side                         drill.hole-PASS
+           ‘On the side of the seed (it) is drilled.’309
+      In Murui there is a general tendency to ‘omit’ both core and oblique arguments, if these are clear from the
+immediate context (see §6.1).
+310
+      The verbal root ñe- is considered ‘vulgar’ in Murui, and it is frequently replaced with fɨno- ‘do’. This might
+be an indication of its ‘foreign’ origin (cf. Tariana, the verb ‘do’ has the form of ni- ‘do’).
+                                                                                                522
+         b. tuui-d-e   i-fo                  jano-re
+            open-LK-3 ANA.NSP-CLF:CAV small-ATT
+            ‘(He) open a hole a little bit.’
+         c. [ie     jino    nai-eO            fɨnua-no-na
+            CONN outside ANA.SP-CLF:G make.E.NMLZ-SEQ-N.S/A.TOP
+            [nai-eS         jerei-moLOC     i-t-ePRED]S     nanaS jinoLOC o-gaPRED
+            ANA.SP-CLF:G inside-LOC         exist-LK-3 ALL outside get-PASS
+            ‘And after doing this outside (in the forest), everything that is inside is taken out.’
+         d. ie=mei ua           fikojɨ-d-ePRED
+            CONN=so really be.light-LK-3
+            ‘And later, it (the shell) is very light.’
+An example of the verbal root ñe- ‘do’ is given in (13.11). The verb ‘summarises’ theprevious steps of a procedure in order to introduce a new action.
+(13.11) a. [[jororo-ño           kɨ-do                 ie]   jazikɨ-mo         uai-d-ePRED
+           yugo.plant-CLF:DR.F seed-CLF:POINTED CONN forest-LOC                fall.down-LK-3
+           ‘Seeds of the jororoño plant fall in the jungle.’
+         b. ie      bai-eS         komeOBLIQUE yi-gaPRED i-doO
+            CONN    that.FSH-CLF:G person      suck-PASS ANA.NSP-CLF:POINTED
+            o-t-ePRED
+            get-LK-3
+            ‘A person consumes the seeds. They takes (them out).’
+         c. ieO      ñia-no              raɨ-gaPRED         jerei-mo     i-t-ePRED
+            CONN     do.E.NMLZ-SEQ drill.hole-PASS inside-LOC exist-LK-3
+            ‘After doing (this), there is a hole drilled (into the jororoño seed).’
+The verb atɨ- ‘bring (generic)’ that refers back to the more specific verb of carrying uai-‘bring on back’ was illustrated in (13.8a-b).","[545, 546, 547]"
+"
+(8.46) Pedro Maria-na         jakɨ-nai-ta-d-ePRED       ie=ta                                 ñaiño
+       Pedro Maria-N.S/A.TOP scared-BECOME1-CAUS-LK-3 CONN=REP                                CLF:PR.F
+       jakɨ-nai-ta-gaPRED
+       scared-BECOME1-CAUS-PASS
+       ‘Pedro made Maria scared. So she become scared.’239
+      Whether both arguments can be passivized further remains a topic for future investigation.
+                                                                                            384
+The CAUSER may or may not be involved in the performed activity, and the willingness of theCAUSEE to perform the activity is not relevant, as in (8.47):
+(8.47) [kue ɨɨio]A     kue-naO          kome-kɨO                faka-ta-t-ePRED
+       1sg brother 1sg-N.S/A.TOP heart-CLF:ROUND                think-CAUS-LK-3
+       ie-mo       maɨri-ñaiño-dɨ-kuePRED
+       CONN-LOC strong-CLF:PR.F-LK-1sg
+       ‘My brother made me think that I am strong.’
+Although a result of an action does not necessarily have to involve an effort, as in (8.48-49),is usually achieved on purpose, rarely ‘by accident’:
+(8.48) KataA correctorO dota-ta-t-ePRED
+       Kata tipp.ex.Sp throw-CAUS-LK-3
+       ‘Kata knocked the tipp-ex (off a table, on purpose as she got angry).’
+(8.49) mare… aɨma-jai-d-e=zaPRED              jai       fui-ta-dɨ-kaɨPRED
+       good.ATT fish-ANDTV-LK-3=UNCERT already finish-CAUS-LK-1pl
+       dɨno-moLOC              eo aare ñaɨ-tɨ-kaɨPRED izoi-d-ePRED        jɨɨ
+       AT.CLF:SP.PLACE-LOC very long talk-LK-1pl similar-LK-3 yes
+       ‘Good… He must have gone fishing. We have already finished here (lit. we made it
+       finish). We have talked for a long time, it seems. Yes.’
+However, the result can be unintentional, as illustrated in (8.50-51):
+(8.50) jino-na       aifɨS beta-d-ePRED [jo-fo             jerai-mo]LOC kueO
+       outside-ABL wind blow-LK-3 house-CLF:CAV inside-LOC 1sg
+       jakɨ-nai-ta-d-ePRED
+       scared-BECOME1-CAUS-LK-3
+       ‘From outside the wind blew inside the house. It scared me.’
+(8.51) ua       jari-re-na          casi        naɨo-na=mei          kaɨ zai-ta-d-ePRED
+       really quick-ATT-E.NMLZ almost.Sp night-N.S/A.TOP=so 1pl step-CAUS-LK
+       naze=mei fuue=koni            ua      bɨɨi-dɨ-kaɨPRED
+       door=so       mouth=LOCAL1 really lie.on.ground-LK-1pl
+       ‘It was really quick. They almost stepped on us at night, we were lying on the ground
+       at the side of the door.’
+                                                                                                                385
+The default order of the constituents in the causative construction is AO1V2, as illustrated inthe examples discussed throughout this section. 240 The importance of the constituent order isshown in (8.52-53). Note that fronted O NP are marked with the topical non-S/A marker -na,as in (8.53):
+(8.52) nai-ñaiñoA       uru-eO                     ɨnɨ-ta-t-ePRED
+       ANA.SP-CLF:PR.F child-CLF:G                 sleep-CAUS-LK-3
+       ‘She makes the baby sleep.’
+(8.53) nai-mɨe-naO                  KatiñaA    kɨnai-moLOC ɨnɨ-ta-t-ePRED
+       ANA.SP-CLF:PR.F-N.S/A.TOP    Katiña     hammock-LOC sleep-CAUS-LK-3
+       ‘Katiña makes him fall asleep in the hammock.’
+Oblique arguments are usually preposed to the verb; occasionally they are also expressed inclause final positions (this is similar to double causative constructions, see §8.2.2).","[408, 409, 410]"
+"The reported command in (6.14) illustrates a transitive clause; the A argument is covert:
+(6.13) beno-mo                 (Ø)S bii!PRED
+       HERE.CLF:SP.PLACE-LOC (2sg) come
+       ‘(You) come here!’ (shouting at a boy running in front of the house)
+(6.14) ‘(Ø)A     bi-eO           eko-no-ñe-no!’PRED         rei-t-ePRED
+       (2du.m) this.CTS-CLF:G open-SEMLF-NEG-PRIV.PROH say-LK-3
+       ‘“(You, two males) do not open this up!’ (he) said.’6.2.1.2 Differential S/A case markingThe form of pronouns for S, A, and O arguments is the same for all the persons. There is nomorphological distinction between marking of NPs in S function of intransitive clauses, in Afunction of transitive clauses, and in VCS function of verbless clauses. This is illustrated in(6.15-17) below. (6.15) is an example of an intransitive clause with the independent pronounkue ‘I’ functioning as S; in the transitive clause in (6.16) kue functions as A; in the verbless
+191
+      Such association applies equally to languages with accusative and with ergative marking of syntactic
+relations. It is not treated as one of the criteria for S/A subjecthood in the language but merely as a confirmation
+of one of a linguistic universal (Dixon, 2012).
+                                                                                              276
+clause in (6.17) as VCS. Note that A and S arguments, but not VS, are cross-referenced onthe verb.
+(6.15) kueS [Kaziya Buinaima-dɨ-kue]PRED
+       1sg    Kaziya Buinaima-LK-1sg
+       ‘I am Kaziya Buinaima (lit. Lord of Awakening).’
+(6.16) kueA jaɨga-bɨ-naO                               jiro-dɨ-kuePRED
+       1sg     cahuana.drink-CLF:SUBS-N.S/A.TOP        drink-LK-1sg
+       ‘I drank the cahuana.’
+(6.17) kueVCS mano-ri-raɨ-maVCC
+       1sg      heal-DUR-AGT-CLF:DR.M
+       ‘I am a healer.’
+Often in Murui the S/A arguments tend not to be stated when they are already retrievablefrom the context; they are always the cross-referencing on the verb. This is illustrated in(6.18):
+(6.18) nia        bene             (kue) fɨebi-dɨ-kuePRED
+          STILL   HERE.LOC:NSP     (1sg) stay-LK-1sg
+          ‘I’ve stayed here until now.’
+In Murui, marking of S/A argument is subject to differential S/A case marking where themarking of the S/A arguments depends on their pragmatics. In discourse, when the S/Aarguments are in focus, they are marked with the enclitic =dɨ. A set of contrastive examplesis presented in (6.19-20). Note that =dɨ never marks arguments in non-subject function (theseare marked with -na, see §6.2.1.3-4).","[300, 301]"
+"
+(10.3) [Kata [Maria dɨga]]S jaka bi-ñe-d-ePRED
+       Kata Maria WITH         never come-NEG-LK-3
+       ‘Neither Katarina nor Maria came (lit. Kata with Maria never came).’
+A constituent of a negated clause may bear additional stress. Additionally, the topical S/Aand non-S/A subject markers are present on a constituent that is in constrative focus. Toexpress meanings such as ‘it wasn’t the man we met, it was the spirit’ speakers say ‘we didn’tmeet THE MAN; we met THE SPIRIT’, as in (10.4) below (cf. jɨko=dɨ (dog=S/A.TOP) ‘dog’in example (6.10) in §6.2.1.1):
+(10.4) ɨɨ-ma-naO                   bai-ñe-dɨ-kokoPRED taɨfe-naO   bai-tɨ-kokoPRED
+       man-CLF:DR.M-N.S/A .TOP find-NEG-LK-1du.m spirit-N.S/A.TOP find-LK-1du.m
+       ‘We didn’t meet (lit. find) THE MAN; we met THE SPIRIT.’
+                                                                                                                   432
+(10.5) is an example of the nominalized clausal constituent ‘one who doesn’t talk’. Cases ofdouble negation within a sentence, such as in (10.5), are not too frequent.
+(10.5) ñaɨ-ya-ni-dɨ-ñaiño-naO                                            uiño-ñe-dɨ-kuePRED
+       speak-E.NMLZ-NEG.ATT-LK-CLF:PR.F-N.S/A.TOP                        know-NEG-LK-1sg
+       ‘I don’t know a woman who doesn’t talk.’
+In Murui, questions differ from declarative and imperative clauses in both their intonation aswell as structure (see §11.2). The structure of some type of questions is unusual in thatpredicate markers can be omitted for 3rd person singular, dual, and plural. Negative questionswith omitted predicate markers have different readings than their positive counterparts (see§10.2.2). Murui has a single negative imperative (prohibitive) form, the standard negativemarker -ñe followed by the marker -no (see §10.2.3). Many of grammatical categoriesavailable in positive clauses are available in the negative as well but there is some minordegree of paradigmatic asymmetry between positive and negative imperatives. For instance,the grammatical category of rapid action (used for immediate imperative meanings) cannot beexpressed in negative imperative. The language has two ‘privative’ markers -nino on nouns,and -nino and -ñeno on verbs and adjectives (on verbs, -ñeno has prohibitive meanings, see§10.2.3).","[456, 457]"
+"
+216
+      In Arapaho, an Algonquian language, future forms are not used to cast commands but to express “(...) a
+recognition of the strong authority of the person who cannot be commanded” (Cowell 2007:57).
+217
+      The event nominalizer -ye (often followed by the topical non-S/A subject -na) also encodes purposive
+meanings in Murui (see §12.3).
+                                                                                                  330
+7.2.1.3 Use of lexical time wordsMurui has an array of time words to specify when the event happened or will happen, such asjai ‘already’, nare ‘yesterday’, jaie/jae ‘(in the) past’, jaa ‘soon’, ɨkare ‘tomorrow’ (see§3.2.2 for details on time words). Murui time words frequently co-occur with verbs,especially those referring to the non-future tense. This is a lexical strategy to differentiatebetween the present vs. past meanings of the non-future verb forms which otherwise couldpotentially remain ambiguous. For instance, jaai-d-e (go-LK-3) can be interpreted in twoways, relating either to the past, as in ‘(she) went’, or the present, as in ‘(she) goes’. Thisambiguity is resolved by the preverbal jai ‘already’, as in jai jaai-d-e (already go-LK-3) ‘(she)has already gone’ where the past event reading is the only possible option. Lexical timewords with verbs marked for future tense are common to specify when an event/an actionwill take place but are not crucial to understand the future tense reading (but see also thedesiderative §7.2.3.1 used as an indicator of future tense).","[354, 355]"
+"
+(6.102) Elger mai [kaɨ komɨnɨ]O        maɨjɨ-ta!PRED
+        Elger LET 1sg people.CLF:DR.GR work-CAUS
+        ‘Elger, make our people work!’
+To derive a double causative a new A argument is introduced within a clause together withnew morphological material.
+(6.103) nai-ñaiñoA        kue-naO1        uru-e-naO2        ɨnɨ-ta-ta-d-ePRED
+        ANA.SP-CLF:PR.F 1sg-N.S/A.TOP child-CLF:G-N.S/A.TOP sleep-CAUS-LK-3
+        ‘She orders me to make the child sleep.’
+As (6.103) shows, such constructions allow marking the case twice with a clause. The first ONP is always obligatorily marked with -na, the marking of the second O NP can be omittedbut it is usually present (see §8.2).
+                                                                                                           299
+6.2.2      Oblique argumentsOblique cases mark any non-core arguments and their marking cannot be omitted. Muruidistinguishes between five oblique cases: locative, ablative, instrumental (with comitativeovertones), benefactive-causal and privative. There is also a genitive form, which is notstrictly a case as it marks relations within the NP rather than grammatical relations (see§5.1.1.2). All nouns and ‘headless’ nominal modifiers distinguish oblique cases. Adverbialdemonstratives that take the suffix -ne (see §3.3.3) are unique in that they show limited casemarking possibilities, as well as differ in terms of locative and ablative marking. Thenominalizations are unique in that their privative forms can either be -(ñe)no or-(ni)no (see §10.2.5), whereas the privative is marked with -(ni)no elsewhere (see §6.2.2.5 fordetails). The most restricted case is the privative marking. Murui lexicalized adverbialdemonstratives that contain the formative -ne (see §3.3.3) occurs with the ablative and theinstrumental only. Murui oblique cases are presented in Table 6.2.","[323, 324]"
+"
+                            Table 11.1 Murui sentence types and intonation patterns
+ SENTENCE
+                              INTONATION TYPE                                GLOSS                      TRANSLATION
+   TYPE
+declarative          A. nai-mɨe ↗bi-↘t-e                       ANA.NSP-CLF:PR.M come-LK-3             ‘he came’
+interrogative        B2. naimɨe ↗↗bii↘?                        ANA.NSP-CLF:PR.M come                  ‘did he come?’
+                     B3. ↗↗bii!                                come                                   ‘come!’
+                     B3. ↗↗jo↘↘ko!                             wash-IMP                               ‘wash!’
+imperative
+                     B3. ↗↗bi-↘↘ño-kai!                        come-IMP-RAPID                         ‘come quickly!’
+                                                                                                      ‘(approach to)
+                     C. ↗↗joko-↘↘zaɨbi-ño-ka↗↗iii!             wash-VENTV-IMP-RAPID.CALL
+                                                                                                      wash quickly!’
+   Murui has a small number of lexemes with command-like meanings, e.g. okui(de) ‘send,   order’ (see example (8.63) in §8.2.1), jɨka(de) ‘request’, jɨkano(te) ‘ask’, jitai(de) ‘need,   want, desire’, and ɨɨno(te) ‘obey’. Murui can also express commands without using dedicated   imperative forms. Such command strategies are discussed in §11.1.4.",[484]
+"
+139
+      Semi-closed classes are not included in Table 3.4 (§3.4) as they are morphologically varied. Adverbs,
+members of the semi-closed word class mostly are of adjectival origin, and function as modifiers of a verb.
+                                                                                                                                                                             178
+                                                    Table 3.4 Comparison of Murui open and closed word classes
+                           Open word classes              Semi-closed classes                                              Closed word classes
+                                                                                             Quantifiers
+   Functions                                                      Time      Number               and
+                       N          V         Adj         Adv                              Intensifier (§3.3.7)      Pronoun      Dem        Inter     Conn        Adp       Interj
+                                                                  words      words
+                    (§3.1.1)   (§3.1.2)   (§3.1.3)    (§3.2.1)                                                     (§3.3.2)   (§3.3.3)   (§3.3.4)   (§3.3.5)   (§3.3.6)   (§3.3.7)
+                                                                 (§3.2.2)   (§3.2.3)
+                                                                                       Quantifiers   Intensifier
+Head intransitive
+                      yes        yes        yes        some        no         yes          *             no          yes         *         yes        no         no         no
+   predicate
+ Head transitive
+                      no         yes           no        no        no         no           no            no          no          no        no         no         no         no
+   predicate
+    Verbal
+                      no         yes       some        some        no         no           no            no          no          no        no         no         no         no
+  morphology
+  Head of NP          yes         *         yes          no        no           *          *             no           *         yes        yes        no          -         no
+Modifier to noun
+                      no          no        yes          no        no         yes         yes           yes          yes        yes        yes        no         no         no
+    in NP
+Modifier to verb      no          no        yes          no        yes        no          yes           yes          no          no        no         no         no         no
+                                                                                               179
+4 Noun structure and classifiers4.1      Noun structure
+The Murui noun phrase (NP) can be defined as a grammatical constituent that functions as anargument of a predicate. Murui noun phrases can also head intransitive predicates. The headof a simple NP can be a single noun, which can be modified by other nouns, adjectives,quantifiers, pronouns, demonstratives, interrogatives, and number words. The head of an NPfollows the modifier, as illustrated in (4.1-2). Adjectives always follow the head noun, asillustrated in (4.6) and (4.11) further in this section.
+(4.1)     [bi-e          jɨkoHEAD]NP
+          this.CTS-CLF:G dog
+          ‘this dog’
+(4.2)     [atava    rɨ-ñoHEAD]NP
+          chicken woman-CLF:DR.F
+          ‘female chicken’
+More complex NPs and NP heads include so-called ‘HEADLESS’ NOMINAL MODIFIERS, whichare formed from other word classes by means of classifiers (suffixes); noun head is not stated.","[202, 203, 204]"
+"       Murui has the existential intransitive verb i(te)’exist, live, be’ which always appearswith an S argument having a general existential reading. From such constructions, theexistential verb cannot be omitted, as illustrated in (12.5). Such clauses are negated in asimilar fashion to an intransitive predicate. Compare (12.5) with a negated intransitivepredicate with an adjective as head in (12.6).
+(12.5) eraɨ=dɨS           i-t-ePRED
+       estuary=S/A.TOP exist-LK-3
+       ‘There is El Encanto (lit. estuary is).’
+(12.6) eika-re        i-ñe-dɨ-kuePRED
+       healthy-ATT exist-NEG-LK-1sg
+       ‘I am not healthy.’
+The existential verb is often accompanied by an adverb of place or an adverbialdemonstrative, as in (12.7).
+                                                                                              485
+(12.7) kueS [baaɨ      batɨ-no-mo]LOC              aare i-tɨ-kuePRED
+       1sg THERE THERE-CLF:SP.PLACE-LOC long exist-LK-1sg
+       ‘I have been living over there for a long time.’
+When the E argument of the verb occurs with the locative marker -mo the verb i(te) can havelocational meanings, as in (12.8), or establish possessive relationships (see also §5.1.3.2), asillustrated in (12.9):
+(12.8) [nai-e        oogo-rɨ]S                 iyɨ-moLOC    i-t-ePRED
+       ANA.SP-CLF:G banana-CLF:TREE.CLUMP jungle.garden-LOC exist-LK-3
+       ‘The bananas are in the jungle garden.’
+(12.9) kue-moLOC [da-za                 uru-e]S          i-t-ePRED
+       1sg-LOC     one-CLF:IMMAT child-CLF:G             exist-LK-3
+       ‘I have a child (lit. in me there is a child.)’
+C. TRANSITIVE CLAUSES contain transitive subject (A) and transitive object (O) as corearguments and have ambitransitive and strictly transitive verbs as their predicates. Muruiamtransitive verbs can be used in both intransitive and transitive clauses (see §3.1.2). In bothtypes of clauses, the S/A argument of the verb can be marked with the topical S/A subjectmarker =dɨ (see §6.2.1.1 on differential S/A case marking). The O argument, if present, caneither be left unmarked or carry the topical non-S/A subject marking -na (see also §6.2.1.5 ondifferential object marking). This is illustrated in (12.10), where the ‘headless’ nominalmodifier naie ‘that’ takes the topical non-S/A subject marker -na:
+(12.10) nai-e-naO                 kakarei-aka-ñe-d-ePRED akɨ…
+        ANA.SP-CLF:G-N.S/A.TOP listen.TH-DES-NEG-LK-3 AUDIT
+        ‘She doesn’t want to listen to that...’
+Transitive clauses can optionally contain an obligue argument. In (12.11) the obliqueargument of the verb yo(te) ‘tell’ is omoɨ ‘you (pl)’ marked with the dative/locative -mo.
+                                                                                                               486
+(12.11) kaɨ-makɨ!           [kaɨ=mei i-ya              ra-fue]O                              ua
+        1pl-CLF:PR.GR.AN 1pl=so          exit-E.NMLZ thing-CLF:STORY                         really
+        yooitɨ-kuePRED omoɨ-moO:ADDRESSEE
+        tell.FUT.LK-1sg 2pl-LOC
+        ‘Our people! I will tell you the story of how we live here.’
+All the ambitransitive and strictly transitive verbs can be passivized. The constitituent orderin transitive clauses follows the overall AOV tendency (see §6.3).","[509, 510, 511]"
+"
+B1. ‘SAME TIME’ -mo ‒ temporal clauses marked with -mo occur on the edge of fully inflectedverbs; the temporal -mo functions as a suffix on the verb (see Scheme 3.2 in §3.1.2). 297 Themarker -mo is best translated as ‘when, while’, as in (12.46-47).
+(12.46) gaɨri-d-e-mo        jɨaɨ-kɨnoS          rii-yaPRED
+        gather-LK-3-TEMP other-CLF:STORY arrive-E.NMLZ
+        ‘While (the people) were gathering, another message arrived.’
+(12.47) kueA fuma-dɨ-kue-mo          Eu S bi-t-ePRED ie-ra             dane    abɨdo
+        1sg     smoke.Sp-LK-1sg-TEMP Eu come-LK-3 CONN-REASON ONCE AGAIN
+        kue fuma-ta-gaPRED
+        1sg smoke.Sp-CAUS-PASS
+        ‘While I was smoking, Eu came. And that’s the reason why I was made to smoke
+        again.’
+Temporal clauses marked with -mo express point of time and refers to an event happening atthe time of event/state described in the main clause. This is further illustrated in (12.48-49)(see also T1.53 and T2.85 in the Appendix).
+(12.48) naɨzo-do jaai-d-e-mo      jɨko=dɨA         ieO    gaɨta-d-ePRED
+        path-INS go-LK-3-TEMP jaguar=S/A.TOP CONN grab-LK-3
+        ‘While (she) was walking on the path, a jaguar grabbed her.’
+297
+      Elsewhere in the grammar the form -mo makes the locative case on an NP, and it can extend to cover
+temporal meanings, e.g. ie=dɨno-mo (CONN=AT.CLF:SP.PLACE-TEMP) ‘and from then’.
+                                                                                                             498
+(12.49) ie-mo       bi-t-e-mo           obi-ya-kaɨO             zɨta-ja-no
+        CONN-LOC come-LK-3-TEMP blow-E.NMLZ-CLF:STEM bring.arms-E.NMLZ-SEQ
+        obi-d-e-mo            jaka     bai-ñe-d-ePRED
+        blow-LK-3-TEMP        always find-NEG-LK-3
+        ‘And (then) when they came, after having brought their blowguns. When (Jitoma)
+        shot, it would not reach (the anaconda).’
+The temporal clauses with -mo show no ‘same subject’ restriction. While in the majority ofthe cases the subjects of the dependent and the main clauses differ, as in (12.46-68) above,they can also be the same, as in (12.49). Unlike in clauses of temporal succession (type A),the order of the main and dependent clauses in the temporal clauses marked with -mo can bereversed, as in (12.50). Such clauses are interpreted by speakers as as a type of an internalwish, rather than denoting one action that happened while another action was being carriedout.
+(12.50) rii-dɨ-kuePRED ñaɨ-tɨ-makɨ-mo
+        arrive-LK-1sg speak-LK-1pl-TEMP
+        ‘I came when they were speaking.’ (the speaker imagines the situation)
+B2. ‘TIME OF’ fakai ‒ temporal clauses with nominalized verbs and marked with thepostposition fakai ‘time, moment’ express a (relative) temporal relation between two periodsof time. 298 Such constructions have no switch-reference restrictions. An example is given in(12.51) where the dependent nominalized verb komulgaja ‘receiving the Holy Communion’is followed by fakai.
+(12.51) komulga-ja                    fakai     ro-aPRED        nanaO
+        take.communion.Sp-E.NMLZ time           sing-E.NMLZ ALL
+        ‘In the time of receiving communion (lit. time of receiving communion), she sung
+        everything (all songs).’
+298
+      The function of a nominalized verb in Murui is to background an action expressed by that verb (Wojtylak,
+forthcoming-d).
+                                                                                               499
+(12.52) below illustrates a similar clause with the nominalized verb iya ‘existing, living’.","[522, 523, 524]"
+"
+104
+      In Murui there are difficulties in distinguishing object omission from ambitransitivity, as each of the
+transitive verb can be used in an intransitive clause. Object arguments can be omitted even when they are not
+recoverable from the context.
+105
+      Its use depends on discourse-pragmatic status of the nominal, and is conditioned by topicality, specificity of
+referents, and complete involvement (see §6.2.1.4-5 on differential object marking).
+                                                                                                128
+C. STRICTLY TRANSITIVE VERBS – a small class of passivizable verbs that obligatorily occur intransitive clauses. They include the verb yofue(te) ‘teach’, eka(de) ‘feed’, akata(te) ‘show’,and i(te) 106 ‘give’. Often, they are used as S=A ambitransitives. Example of the verb i(te)‘give’ is given in (3.11). The O NP arguments are dɨokaɨna ‘cigarette’ and kuemo ‘to me’:
+(3.11) dɨo-kaɨ-naO:GIFT                           kue-moO:RECIPIENT ine!
+       tobacco-CLF:STEM-N.S/A.TOP                 1sg-LOC           give
+       ‘Give ME the cigarette!’Murui verbs have a rich system of grammatical categories available to them (see §7.2).","[152, 153]"
+"           Traditionally, the ‘Witoto’ people were involved in the local trade network, and wereknown to be competent producers of tobacco and hammocks (Eriksen, 2011: 207). Steward(1948: 754) reports that each Witotoan group had their own pottery style, which lead Eriksen(2011: 207) to believe that ceramics in the region was an important way to express the ethnicgroup’s identities. Although Whiffen (1915: 61-62) mentions that there were no ‘recognizednative trade routes or trade centres’ in the area, the importance of locally known paths wasimmense. Murui elders do mention that in the ‘ancient times’ there were well known pathsthat would lead to numerous settlements within the territories of the People of the Centre, aswell as to remote villages of other language groups. 31
+30
+     Whiffen (1915: 110) noted that the ‘Witoto’ and Ocaina peoples were more skilful in fishing than other
+groups. They were also expert trappers. Like many other Amazonian tribes, the ‘Witoto’ hunt mainly with
+blowguns with poisoned darts.
+31
+     The Murui elder Lucio Agga Calderón commented that it has been long forgotten where these paths where
+and where they would lead to.
+                                                                                                              33
+1.3.4      Marriage customs and kinship terminologyTraditionally, the ‘Witoto’ were required to adhere to a number of rules when consideringmarriage. Wives joined from other affiliated clans by the rule of exogamy. When a manmarried a woman, the relatives of each of the spouses would become relatives of theirdescendants. This was the way of making diverse alliances among various clans (Echeverri,1997: 80). The ‘Witoto’ peoples practised polygamy, where the man would frequently marryhis wife’s sister (E. Minor & Minor, 1980: 75). 32 Although a difference in age betweenpartners wishing to marry was not officially disallowed, it was much more common for acouple to be relatively similar in age. Elders strictly forbade marriage when a couple had anydirect traceable kin relations on either the father’s or mother’s side. Marrying cross andparallel cousins was generally considered taboo (E. Minor & Minor, 1980: 80). 33 In order fora marriage to be recognized, a couple attended a ritual, after which they could take upresidency together (Gasché, 2009c: 13). The ‘Witoto’ people did not practice formal divorcerituals. If one of the members in a marriage wished to divorce the other, they must present asufficient reason for it (e.g. bad temper, disease, childlessness, negligence of the spouse)(Whiffen, 1915: 165).","[57, 58]"

@@ -1,0 +1,2016 @@
+Paragraph,Page number
+"
+PERSON            SINGULAR                          DUAL                          PLURAL
+1                 no?                     kiSki2?,         kiSki2?   kiyki2?,            kiyki?
+2                 pi2                     piski2?,         piSki?    piyki?,             piyki?3                 he?    'this(one)'          = = ----               hewun
+                  2iti     ‘this one; here!         ones             =
+                  ho?    'that(one)'          = = = ----             howun
+                  ?akay 'that (same) one' -----                      2akaywun
+                  kam ‘that one yonder!    -----                     ==+==
+                  2ankela     ‘that one        (w=                   wees             Beeler notes
+            Table 8. Independent pronouns and demonstrative nouns                                               68
+2.3 Syntax
+        In Barbarenho, a clause with full subject and object NPs generally has
+a Verb-Object-Subject (VOS) structure. Most clauses have at most one full
+NP, however (Ono 1996). The verb-initial word order occurs in independent
+clauses as well as dependent clauses, such as complement clauses, relative
+clauses, and adverbial clauses. Preverbal NPs are pragmatically marked and
+are typically not part of the clause that follows. Usually these NPs are set off
+by topic or focus particles. Finally, nominalized clauses are common in
+Chumash languages. These may occur as subject or object complements,
+relative clauses, part of cleft constructions, or as free NPs.
+        The following topics are treated in 2.3: basic clause structure (2.3.1),
+two-verb predicates (2.3.2), the morphosyntax of nominalized clauses (2.3.3),
+pragmatically-marked constructions (2.3.4), complement-taking predicates and
+their complement clauses (2.3.5), relative clauses (2.3.6), and appositive
+clauses (2.3.7). The chapter ends with examples of coordination in 2.3.8.","[90, 91]"
+"2.3.1   Basic clause structure
+        The Barbareno clause is typically verb-initial, though the verb may be
+preceded by modifiers, conjunctions and cliticized connectives. The clause may
+or may not have full NP arguments and oblique adjuncts. If there is more than
+one full NP within the clause, then the following orders normally prevail:
+objects precede subjects, objects that are not semantic patients precede
+objects (ones that are semantic patients) and subjects. All core arguments
+precede non-core NPs. Syntactically-dependent constituents within the clause
+are typically marked with the proclitic hi=. Following are examples of various
+constituent orders.e Verb-Object-Subject (VOS)(244)   cony            VERB                     OBJECT          .
+        himeka          siysumi-’Su~~p           hiho?siyyahya* -2
+        himeka          s-iy-sumiSup             hi=ho2?=s-iy-yah-ya2      -2
+        right.then      3~PL-lower               DP=DIS=3-PL-R       -arrow~EM        SUBJECT                  .
+        hiho2iin-2ihyu*              -2.
+        hi=ho?=l       =?in-?inyu          -2
+        DP=DIS=ART=R           -Indian-EM        <Right then the Indians lowered their arrows.> 59.0052                                            69
+(245)   cons & VERB                    OBJECT
+        kesikmaywas                  iho2stak
+        ke =s-iqmay-waS              hi=ho?=s-tiq
+        and=3-cover-PST              DP=DIS=3-~face                  SUBJECT
+        ilowow                       ilmaxa-ki~*3,
+        hi=l   =2owow        hi=l    =maxakis
+        DP=ART=be.white DP=ART=cloth
+        <and a white cloth covered her face,>*>                    59.0466(246)   VERB                  OBJECT                     SUBJECT
+        nas?tw                ilka                     ilxs4p,
+        na       =s-2uw       hi=l       =ku           hi=l        =xSap
+        when=3-bite           DP=ART=person            DP=ART=rattlesnake
+        ‘When a person gets bitten by a rattlesnake, '
+        <When a rattlesnake bites a person,> 59. 0333The object-subject order can be reversed if the object NP is especially long.
+For example, in (247) the subject NP 'lightning' precedes the long object NP
+ ‘the house on Haley street in Santa Barbara’.(247)   cons          VERB                           SUBJECT
+        ma?1i>~       hus, pinti-ka~~y               hiho?sKuntaw
+        mali          hu=s-pintikay                  hi=ho?=squntaw
+        when          RM=3~-strike                   DP=DIS=lightning        OBJECT
+        hi2iap                 hiho?kayi                 xeyli~~
+        hi=l       =?ap        hi=ho?=kayi               xeyli
+        DP=ART=house           DP=DIS=street             Haley        hihe?s ,anta         walwa:la~~
+        hi=he?=santa          walwala
+        DP=PRX=Santa          Barbara        ""When the lightning struck the house on Haley Street in Santa
+        Barbara, '* 59.0687Core arguments (subject and object NPs) typically precede oblique NPs in
+Barbareho Chumash clauses. Several illustrations of this pattern are given in
+(248) - (252).","[91, 92]"
+"Payne, Doris L. 1990. The pragmatics of word order: Typological dimensions
+   of verb initial languages. Berlin: Mouton de Gruyter.",[589]
+"(253)   VERB           OBJECT                       SUBJECT
+        s?ipus ~~      iho?1pa:1i~~                hilinyu**:
+        s-2ip-us       hi=ho?=l1  =pali            hi=l  =?inyu
+        3-say~APPL     DP=DIS=ART=padre            DP=ART=Indian
+        ‘An Indian told the priest:'   59.0120(254)   vERB                                             OBJECT
+        hikasiyaktinunaluswin                           olin2ihya?
+        hika=s-iy-aktinunal-us              -wun      ho?=1     =2in-2inyu-2
+        SEQ   =3-PL-bring        ~APPL~PL.OBJ        DIS=ART=R     ~Indian-EM        OBJECT
+        isiyuwi- mu.
+        hi=s-iy-2uwumu
+        DP=3-PL-food        ‘they bring food to the Indians.'
+        <they bring the Indians food.> 59.0076(255)   VERB                  OBJECT
+        siysuti-pi~-n         hiholalugp4-wat
+        s-iy-sutip-?2in       hi=ho2?=l=?aluspawat
+        3-PL-salt     -INST   DP=DIS=ART=ashes        OBJECT
+        hiho2?siyuwé-mu~~,
+        hi=ho2?=s-iy-2uwumu
+        DP=DIS=3-PL-food        'They salted their food with those ashes' 59.0598Section 2.2.1.5 has additional examples of clauses with constituent orders like
+those in the above three examples.",[94]
+"
+                                        257
+                                   Chapter 12                     éukanu   'so that, in order to' Clauses12.0 Introduction
+        There are 27 adverbial clauses that have the conjunction Gukanu 'so
+that, in order to'. This conjunction is derived from a combination of the
+conjunctions Gu and kanu. As noted in chapter 11, in adverbial clauses the
+conjunction Gu has the meaning 'so that, in order to'. In Chapter 2 we saw
+examples of the general conjunction Gu, which translates variously as ‘and,
+and so; but; so that, such that'. The morpheme kanu also occurs alone. It is
+found in a rare adverbial clause type that has only several tokens, and it is
+also found in non-adverbial     clauses. When   kanu   occurs   alone, it has the
+ meanings 'so that' or 'that is why'. When Gu and kanu co-occur, they are
+usually written together as one word in Harrington’s texts. In 16 of the tokens,
+ the conjunction Gukanu is phonologically attached to the verb that follows it.
+ In the other 11 tokens, Gukanu appears as a separate phonological word. It
+seems clear that, at the time of Harrington’s field work, Gu and kanu were
+grammaticizing into a single conjunction, giving rise to the adverbial clause
+type described in this chapter.
+       Like the Gu    'so that, in order to' adverbial clause type, all tokens of
+the Gukanu adverbial clause type have a purposive relation to a main clause.
+Also, like Gu 'so that, in order to' clauses, Gukanu clauses are all postposed.
+Unlike the Gu clause type, however, the Gukanu adverbial clause type
+exemplifies a pattern of person marking that is tied to the semantics of
+control. As we will see throughout section 12.1, in Gukanu adverbial clauses,
+when the main clause subject has full control, subject marking in the adverbial
+clause is suppressed. Near the end of the chapter, in section 12.2, there is a
+brief discussion and illustration of some non-adverbial clauses that have the
+Sukanu conjunction. We will look at ways in which patterns of subject
+marking in these non-adverbial Gukanu clauses reflect or do not reflect the
+patterns of subject marking found in the adverbial] Gukanu clauses. The
+chapter ends with a brief summary in 12.3. Before we begin to explore the
+subtleties of person marking in this adverbial clause type however, first we will
+see an illustration of a prototypical Gukanu clause, its position relative to its
+main clause, and the fundamental ways in which it differs with a Gu clause in
+two near-minimal pair environments.","[279, 280]"
+"                                    FIELDS OF STUDYMajor Fields: Discourse and Grammar,                      Native   American         Languages,
+Phonology, Language DocumentationStudies    in Discourse       and   Grammar         -- Profs. Wallace     Chafe,     Marianne
+          Mithun,   Susanna     Cumming,   Sandra        Thompson,      John   Du    Bois, and
+       Patricia Clancy
+Studies in Native American Languages -- Profs. Wallace Chafe and Marianne
+       Mithun; Prof. Catherine A. Callaghan (mentor) for studies in Miwok
+       Languages and Utian Linguistics
+Studies in Phonology -- Profs. Carol Genetti and C. Douglas Johnson
+Language Documentation -- Prof. Wallace Chafe and Dr. Robert L. Oswalt
+        (the latter informally as a mentor)                                              Vii
+                                      ABSTRACT          Adverbial Clauses in Barbareho             Chumash Narrative Discourse                                              By
+                                      Suzanne Wash
+        This dissertation presents the first study of adverbial clauses in
+Barbareno Chumash, an indigenous language of California. It explores the
+semantic relations, morphosyntactic structure, and discourse functions of
+adverbial clauses in this language, with a view toward what is known and
+expected about adverbial clauses crosslinguistically, and from a functionally-
+oriented approach to linguistics. Almost all of the data come from narratives
+recorded in the 1950s by John Harrington from Mary Yee, the last speaker of
+the Barbareho Chumash language.
+        The dissertation is divided into five parts. Part I is the preliminaries. It
+includes a detailed grammatical sketch of the Barbareno Chumash language.
+In Part II I analyze the semantic and morphosyntactic characteristics of
+thirteen structurally-distinguishable adverbial clause types. The adverbial
+clauses    code    temporal,   conditional,     concessive,    purposive,   reason/causal,
+manner, and semantically neutral relations. Semantically neutral adverbial
+clauses have both temporal and conditional meanings, and though most
+researchers treat such clauses as conditional, in this study I treat them as a
+category separate from the temporal and conditional categories. In Part TI I
+compare the initial and final tokens of these clause types with respect to
+similarities      and   differences    in       structure,    extent   of    scope,    and
+punctuation/prosodic boundaries. In Part IV I focus on the similarities and
+differences in discourse functions between initial and final clauses that code
+purposive, conditional, temporal and semantically neutral relations. In addition
+to their qualifying role, the initial adverbial clauses function as pivotal points
+of orientation that help create a cohesive and coherent text. However, the
+final adverbial clauses only serve to qualify the main clause. They do not
+function as pivotal points of orientation in a discourse. These differences
+between initial and final adverbial clauses are found crosslinguistically, and
+reflect the general cognitive processes involved in the production and
+comprehension of discourse (Giv6n 1995). Finally, I conclude this study with
+the closing remarks in Part V.                                                               ,                                              viii
+                           TABLE OF CONTENTSDedication
+Acknowledgments
+Vita
+Abstract
+Table of Contents
+List of Abbreviations
+List of Tables
+List of FiguresPART I -- PRELIMINARIESChapter 1   Introduction
+1.1 Purpose of this study
+1.2 Geographical and linguistic affiliation of the
+     Barbareho Chumash language
+1.3 Sources of primary data
+1.4 Previous analyses of Barbareho Chumash
+1.5 Theoretical orientation
+1.6 Literature review
+1.7 Terminology
+1.8 Database
+1.9 Methodology
+   1.9.1 Sorting adverbial clauses by structural type
+      1.9.1.1 Variables used in coding the adverbial clauses
+   1.9.2 Semantic analysis of the adverbial clauses
+      1.9.2.1 Temporal relations
+      1.9.2.2 Neutral relations
+      1.9.2.3 Conditional relations
+      1.9.2.4 Concessive relations
+      1.9.2.5 Purpose and reason relations
+      1.9.2.6 Manner relations
+1.10 Organization of the dissertation
+Notes to Chapter 1
+Chapter   2 Grammatical Sketch of Barbareho      Chumash                   30
+2.0 Introduction                                                           30
+2.1 Phonology                                                              30
+   2.1.1 Vowels                                                            30
+   2.1.2 Consonants                                                        31
+   2.1.3 Syllable structure and syllabification                            32
+   2.1.4 Stress                                                            33
+   2.1.5 Articulation of doubled consonants                                34
+   2.1.6 Glottalization                                                   35
+   2.1.7 Sibilant harmony                                                  36
+   2.1.8 Vowel harmony                                                     37
+   2.1.9 Sound symbolism                                                   38
+   2.1.10 Elision of initial /h/ and /?/                                   38
+   2.1.11 Phonological patterns of reduplication                          39
+2.2 Morphology                                                            41
+   2.2.1 The verb                                                         41
+      2.2.1.1 Person and number                                           42
+      2.2.1.2 Tense                                                       46
+      2.2.1.3 Aspect                                                      48
+      2.2.1.4 Negation                                                    49
+      2.2.1.5 The applicatives -2in and -us                               50
+      2.2.1.6 Internal structure of the verb stem                         32
+   2.2.2 The noun                                                         38
+      2.2.2.1 Deictic proclitics                                          38
+      2.2.2.2 Possessive affixes                                          59
+      2.2.2.3 Collective and distributive number                          61
+      2.2.2.4 Tense                                                       62
+      2.2.2.) Lexical nominalization                                      66
+      2.2.2.6 Independent pronouns and demonstrative nouns                68
+2.3 Syntax                                                                69
+   2.3.1 Basic clause structure                                           69
+   2.3.2 Two-verb predicates                                              73
+   2.3.3 Nominalized clauses                                              cae J
+                                                                           /      2.3.3.1 Nominalized clauses with third person subjects              76
+      2.3.3.2 Nominalized clauses with first- or second person subjects   80
+   2.3.4 Pragmatically-marked structures                                  81
+      2.3.4.1 Fronting                                                    82
+      2.3.4.2 Left-dislocation                                            83
+      2.3.4.3 Cleft constructions                                         85
+     2.3.4.4 Questions                                                 88
+  2.3.5 Complement-taking predicates and complement clauses            89
+  2.3.6 Relative clause constructions                                  96
+  2.3.7 Appositive clause constructions                              103
+  2.3.8 Paratactically conjoined clauses                             106
+     2.3.8.1 hika ‘and, and so, and then'                            106
+     2.3.8.2 kimka ‘then; and then'                                  107
+     2.3.8.3 2ik%u ‘but!                                             109
+     2.3.8.4 Gu   ‘and; but; so; such that, so that'                 110
+Notes to Chapter 2                                                   113PART I -- TYPES OF ADVERBIAL CLAUSES                                 115
+Introduction to Part II                                              116Chapter 3 Adverbial Clauses Without Conjunctions                     119
+3.0 Introduction                                                     119
+3.1 Clauses that code purposive relations                            119
+3.2 Clauses that code temporal relations                             122Chapter 4   2akay    hu ‘until’ Clauses                              127Chapter 5 2akimpi         ‘during, while; when’ Clauses              141
+Note to Chapter 5                                                    150Chapter 6 mali ‘when' Clauses                                        151
+6.0 Introduction                                                     151
+6.1 maii clauses that code temporal relations                        152
+   6.1.1 Clauses that code precedence                                152
+   6.1.2 Clauses that code subsequence                               154
+   6.1.3 Clauses that code a terminal boundary                       157
+   6.1.4 Clauses that code an initial boundary                       162
+   6.1.5 Clauses that code simultaneity                              166
+      6.1.5.1 How 2akimpi 'during, while' clauses and simultaneous
+            temporal mali ‘when! clauses are different               171
+6.2 mali clauses that code semantically neutral relations            172
+6.3 Summary                                                          174
+Notes to Chapter 6                                                   175
+Chapter 7 haku ‘if' Clauses                                      176
+7.0 Introduction                                                 176
+7.1 haku clauses that code conditional relations                 176
+7.2 haku clauses that code semantically neutral relations        183
+7.3 Summary                                                      185
+Note to Chapter 7                                                186Chapter 8   na   ‘if; when; in order to' Clauses                 187
+8.0 Introduction                                                 187
+8.1 na clauses that code conditional relations                   188
+8.2 na clauses that code temporal relations                      196
+8.3 na clauses that code purposive relations                     199
+8.4 na clauses that code semantically neutral relations          203
+8.5 Differences among na clauses, mali 'when' clauses and haku
+     'if' clauses in level of expectation and hypotheticality    205
+8.6 Summary                                                      216
+Notes to Chapter 8                                               217Chapter 9 wa ‘if; when’ Clauses                                  218
+9.0 Introduction                                                 218
+9.1 wa clauses that code temporal relations                      218
+9.2 wa clauses that code conditional relations                   221
+9.3 wa clauses that code semantically neutral relations          224
+9.4 Point of view as coded by wa clauses                         224
+9.5 Summary                                                      230
+Note to Chapter 9                                                231Chapter 10 2iyeme ‘although; even if' Clauses                    232
+10.0 Introduction                                                232
+10.1 2iyeme clauses that code concessive relations               232
+10.2 2iyeme clauses that code concessive conditional relations   234
+10.3 Discontinuous 2iyeme clauses                                238
+10.4 Summary                                                     239Chapter 11 Gu 'so that, in order to’ Clauses                     240
+11.0 Introduction                           .                    240
+11.1 Pronominal subject marking in Gu clauses                    241
+11.2 Tense, aspect and modality in Gu clauses                    252
+11.3 Summary                                                     256                                       xii
+Notes to Chapter 11                                                    257Chapter 12   Gukanu       ‘so that, in order to' Clauses               258
+12.0 Introduction     —                                                258
+12.1 Pronominal subject marking in Gukanu clauses                      261
+   12.1.1 Same-subject clauses                                         262
+      12.1.1.1 Same-subject clauses in which the subject pronoun
+               is retained                                             262
+      12.1.1.2 Same-subject clauses in which the subject pronoun
+               is suppressed                                           263
+   12.1.2 Different-subject clauses                                    265
+   12.1.3 Subject marking in discontinuous Gukanu clauses              271
+   12.1.4 Exceptional cases                                            275
+12.2 Non-adverbial Gukanu clauses                                      284
+12.3 Summary                                                           288
+Notes to Chapter 12                                                    289Chapter 13   ku ‘lest; so that...not' Clauses                          290Chapter 14 kayké ‘because’ Clauses                                     294
+14.0 Introduction                                                      294
+14.1 Examples of reason relations coded by kayké clauses               295
+14.2 Pronominal subject marking in kayké clauses                       300
+   14.2.1 Same-subject clauses                                         300
+      14.2.1.1 Same-subject clauses with the subject in third person   300
+      14.2.1.2 Same-subject clauses with the subject in first-
+               or second person                                        304
+   14.2.2 Different-subject clauses                                    306
+14.3 Discontinuous kayké clauses                                       309
+14.4 Summary                                                           311Chapter 15   mehu   ‘because, since, from; in order to' Clauses        313
+15.0 Introduction                                                        13
+15.1 Differences between kayké 'because' clauses and
+      inehu clauses                                                    315
+   15.1.1 Kinds of causal/reason relations                             315
+   15.1.2 Same-subject vs. different-subject clauses                   318
+   15.1.3 Pronominal subject marking                                   318
+   15.1.4 Humanness of grammatical subjects                            319                                        xiii
+15.2 mehu clauses that code purposive relations                   319
+15.3 Discontinuous mehu clauses                                   320
+15.4 Summary                                                      321
+Note to Chapter 15                                                324Chapter 16 kaneé ‘like, as if' Clauses                            325
+16.0 Introduction                                                 325
+16.1 Differences between kaheé clauses and manner verbs in
+     two-predicate constructions                                  325
+  16.1.1 Position                                                 325
+  16.1.2 Frequency of same subjects vs. different subjects        327
+  16.1.3 Pronominal subject marking                               328
+  16.1.4 Cohesiveness with the main clause                        331
+16.2 The remote deictic clitic hu= in kaheé clauses               334
+16.3 Non-adverbial kaheé clauses                                  336
+16.4 Summary                                                      336Summary of Part IT                                                338
+Introduction                                                      338
+Adverbial clause types and the semantic relations they code       338
+Positions in which the clause types occur                         343
+Tense, aspect and modality in the marking of semantic relations   345
+Pronominal subject marking                                        348
+Ways in which point of view is coded                              350PART III -- INITIAL VERSUS FINAL ADVERBIAL CLAUSES IN
+             SCOPE, STRUCTURE, AND PROSODIC/
+             PUNCTUATION BOUNDARY                                 352
+Introduction to Part III                                          353Chapter 17   Differences in Scope                                 354Chapter 18   Differences in Morphosyntactic Structure             365
+18.0 Introduction                                                 365
+18.1 Clause types that are mostly postposed                       365
+18.2 Clause types that have preposed and postposed tokens         366
+18.3 Summary                                                      372                                     xiv
+Chapter 19     Differences in the Prosodic/Punctuation   Boundary   374
+Note to Chapter 19                                                  394Summary of Part IIT                                                 395
+PART IV -- DISCOURSE FUNCTIONS OF INITIAL AND FINAL
+             ADVERBIAL CLAUSES                                      397
+Introduction to Part IV                                             398Chapter 20     Purpose Clauses                                      399
+20.0 Introduction                                                   399
+20.1 Initial purpose clauses                                        401
+20.2 Final purpose clauses                                          416
+20.3 Summary                                                        421Chapter 21     Conditional Clauses                                  423
+21.0 Introduction                                                   423
+21.1 Initial conditional clauses                                    424
+   21.1.1 Exploring options and alternatives                        424
+   21.1.2 Establishing contrasts                                    432
+   21.1.3 Repeating assumptions and claims                          437
+   21.1.4 Exemplifying generalizations                              438
+   21.1.5 Establishing a background setting (Scene-setting)         443
+   21.1.6 Conditional clauses and topics                            445
+21.2 Final conditional clauses                                      447
+   21.2.1 Main clause already has preposed material                 448
+  21.2.2 Qualifying embedded main clauses                           452
+  21.2.3 Other postposed conditional clauses                        453
+21.3 Summary                                                        455Chapter 22   Temporal Ciauses                                       457
+22.0 Introduction                                                   457
+22.1 Initial temporal clauses                                       458
+   22.1.1 Temporally framing and linking sequenced events
+           and situations                                           458
+      22.1.1.1 Linkage through recapitulation and overt
+               back-reference                                       459
+      22.1.1.2 Linkage through an implicit back-reference to an
+               expectancy chain                                       467
+      22.1.1.3 Linkage with highly stylized temporal clauses          474
+   22.1.2 Establishing a background setting                           479
+   22.1.3 Shifting from broader to narrower frames of reference       483
+   22.1.4 Exemplifying generalizations                                486
+   22.1.5 Introducing options and alternatives                        489
+   22.1.6 Summary of initial temporal clauses                         490
+22.2 Final temporal clauses                                           491
+   22.2.1 Coding terminal temporal boundaries                         492
+   22.2.2 Qualifying embedded main clauses                            495
+   22.2.3 Serving as reminders                                        499
+   22.2.4 Main clause already has preposed material                   501
+   22.2.5 Referent tracking                                           502
+   22.2.6 Summary of final temporal clauses                           508
+22.3 Summary                                                          509
+Note to Chapter 22                                                    312Chapter 23     Semantically Neutral Clauses                           513
+23.0 Introduction                                                     513
+23.1 Initial neutral clauses                                          515
+   23.1.1 Offering explanations and justifications                    515
+   23.1.2 Naming expected outcomes                                    520
+   23.1.3 Establishing a background for following events and claims   524
+   23.1.4 Exemplifying a preceding generalization                     527
+   23.1.5 Introducing options and contrasts                           530
+   23.1.6 Other preposed neutral clauses                              533
+   23.1.7 Summary of initial neutral clauses                          537
+23.2 Final neutral clauses                                            537
+   23.2.1 Referent tracking                                           538
+      23.2.1.1 Referent tracking in the main clause                   538
+      23.2.1.2 Referent tracking in the adverbial clause              542
+   23.2.2 Qualifying embedded main clauses                            344
+   23.2.3 Other postposed neutral clauses                             547
+   23.2.4 Summary of final neutral clauses                            548
+23.3 Summary                                                          549Summary of Part IV                                                    551
+Introduction                                                          551
+Initial adverbial clauses                         551
+Final adverbial clauses                           553
+Relative propensity toward having a global role   555PART V -- CONCLUDING REMARKS                      557Chapter 24    Concluding Remarks                  558
+REFERENCES                                        560
+                                    xvii
+                       LIST OF ABBREVIATIONS          ‘first person!                         *nominalizer '
+          ‘first person object!         PL       ‘plural '
+          ""second person '              PL.OBJ   ‘plural object!
+          ‘second person object'        PRX      ' proximal '
+          ‘third person'                PST      ‘past
+          ‘agentive nominalizer'        PURP     ' purposive '
+          ""andative'                    Q        ‘question particle’
+          ‘alienably possessed '      R          'reduplicant '
+          ‘applicative '              RCP        ‘reciprocal '
+ART       ‘article!                   RES        ‘resultative'
+C.FOC     ‘contrastive focus'         RFL        ""reflexive '
+CA        ‘causative '                RM         ‘remote '
+CONJ      ‘conjunction '              RP         ‘repetitive '
+DES       'desiderative'              SEQ        ‘sequential '
+DIM       ' diminutive '              STV        'stative '
+DIR       ' directional '             SUB        'subordinator '
+DIS       ‘distal '                   TOP        ""topic!
+DP        ‘dependent marker'          voc        *vocative '
+DU        ‘dual!                      intr       ‘intransitive '
+EM        ‘emphatic '                 S.0.       ‘someone '
+EP        ‘epenthetic'                s.t.       ""something '
+EVID      ‘evidential’                tr         ‘transitive '
+EXCL      ‘exclamation '
+FOC       ‘focus!
+FUT       ""future '
+HAB       ""habitual '
+HORT      ‘hortative '
+IDF       ‘indefinite '
+INST      ‘instrumental applicative '
+INST.NM   ‘instrumental nominalizer '
+IP        ‘imperfective'
+ITR       ‘iterative’
+LOC       ""locative'
+MOM       ""momentary '
+N         ""negative!                                xviii
+                                 LIST OF TABLES
+Table   1    Variables used in coding the adverbial clauses
+Table   2    Barbareno Chumash vowels
+Table   3    Barbareno Chumash consonants
+Table   4    Elided forms of Barbareho proclitics and conjunctions
+Table   5    Subject pronominal prefixes
+Table 6      Object pronominal suffixes
+Table 7      Possessive pronominal prefixes
+Table 8      Independent pronouns and demonstrative nouns
+Table 9      Distribution of 2akay hu ‘until’ clauses by
+             position and semantic relation
+Table   10    Distribution of 2akimpi ‘during, while; when' clauses
+             by position and semantic relation
+Table   11    Distribution of mali ‘when' clauses by position
+             and semantic relation
+Table   12    Distribution of haku '‘if' clauses by position and
+             semantic relation
+Table   13   Distribution of na ‘if; when; (in order) to' clauses by
+             position and semantic relation
+Table   14   Distribution of wa ‘if; when' clauses by position and
+             semantic relation
+Table   15   Distribution of 2iyeme ‘although, though; even if'
+             clauses by position and semantic relation
+Table   16   Distribution of Gu ‘so that, in order to' clauses by
+             position and semantic relation
+Table   17   Distribution of Gukanu   'so that, in order to' clauses
+             by position and semantic relation
+Table   18   Distribution of ku ‘lest; so that..not' clauses by
+             position and semantic relation
+Table   19   Subject marking in different-subject kayké 'because'
+             clauses
+Table 20     Subject marking in same-subject kKayké 'because'
+             clauses
+Table 21     Number and frequency of discontinuous kayké 'because'
+             clauses
+Table 22     Distribution of kKayké clauses by position and
+             semantic relation
+Table 23 Distribution of same-subject and different-subject clauses
+         in the kayké 'because' and mehu ‘because, since, from;
+         in order to' adverbial clause types                                322
+Table 24 Subject marking in same-subject kayké 'because' and
+           thehu   'because, since, from; in order to' clauses              322
+Table 25   Humanness of subjects in kayké      'because' and mehu
+           ""because, since, from; in order to' clauses
+Table 26   Distribution of mMehu ‘because, since, from; in order to'
+           clauses by position and semantic relation
+Table 27    Distribution of kaheé 'like, as if"" clauses by position and
+           semantic relation
+Table 28    Distribution of same-subject and different-subject clauses in
+           the kaheé 'like, as if' adverbial clause type
+Table 29    Presence/absence of subject marking in same-subject and
+           different-subject kaheé 'like, as if' clauses
+Table 30    Semantic relations coded by the adverbial clause types
+Table 31    Distribution of adverbial clause types that code temporal
+           relations
+Table 32   Distribution of adverbial clause types that code conditional
+           relations
+Table 33   Distribution of adverbial clause types that code concessive
+           relations
+Table 34   Distribution of adverbial clause types that code purposive
+           relations
+Table 35   Distribution of adverbial clause types that code reason
+           relations
+Table 36   Distribution of adverbial clause types that code manner
+           relations
+Table 37   Distribution of adverbial clause types that code neutral
+           relations
+Table 38   Distribution of adverbial clause types by position
+Table 39   Distribution of adverbial clauses by position and
+           semantic relation
+Table 40   Distribution of tense marking in purpose and
+           reason clauses
+Table 41   Distribution of the dependent clitic hi=
+           on adverbial clauses
+Table 42   Punctuation of adverbial clauses by initial & final position
+Table 43 Punctuation of initial adverbial clauses by
+         conjunction type                                                  376
+Table 44 Length of initial na ‘if; when; in order to' clauses with
+         & without punctuation                                             379
+Table 45     Length of initial mali 'when' clauses with & without
+             punctuation                                                   379
+Table 46      Punctuation of final adverbial clauses by conjunction type   381
+Table 47      Punctuation of initial clauses by semantic relation          390
+Table 48      Punctuation of final clauses by semantic relation            391
+Table 49      Distribution of the topic marker 2i= on the first main
+             clause following an initial purpose clause                    414
+Table 50      Distribution of purpose clauses by position                  414
+Table 51      Distribution of purpose clauses in procedural &
+             non-procedural genres                                         415
+Table   52    Distribution of initial and final purpose clauses by scope   420
+Table   53    Discourse functions of initial conditional clauses           424
+Table   54    Distribution of conditional clauses by position              446
+Table   55    Distribution of conjunctions on the main clause of an
+             initial conditional clause                                    447
+Table   56    Discourse functions of initial temporal clauses              490
+Table   57    Distribution of temporal clauses by position                 491
+Table   58    Factors that influence final position in temporal clauses    509
+Table   59   Discourse functions of initial neutral clauses                537
+Table   60    Distribution of initial and final neutral clauses            537
+Table   61   Factors that influence final position in neutral clauses      549
+Table   62    Discourse functions of the initial adverbial clauses
+             in Part IV                                                    552
+Table 63     Distribution of the adverbial clauses in Part TV
+             by position                                                   555
+                            LIST OF FIGURES
+Figure 1 The Barbareho Chumash verb                               41
+Figure 2 The Barbareno Chumash noun                               58
+Figure 3 Level of expectation or likelihood that a given event
+         will occur                                              206
+                                    Xxii
+   Part IPreliminaries
+                                   Chapter 1                                  Introduction
+1.1 Purpose of this study
+         This dissertation presents the first study of adverbial clauses in
+Barbareho Chumash, an indigenous language of California. The goals of the
+dissertation are two-fold. First, it describes what adverbial clauses look like in
+this language, sorting them into types that correspond to certain structural
+criteria. Second, it explores discourse-functional explanations for the ways in
+which the adverbial clauses pattern as they do in Barbareho Chumash
+narratives. Both of these goals are met with a view toward what is known and
+expected about adverbial clauses cross-linguistically, in both their grammatical
+and discourse-functional properties.
+         Much has been published on adverbial clauses. Almost all studies on
+adverbial clauses, however, use constructed sentences for data. Relatively few
+studies have examined adverbial clauses within the context of non-constructed,
+connected discourse, such as monologic narratives and conversation. This
+dissertation not only examines adverbial clauses from a discourse context, but
+it also provides a rare, in-depth look at adverbial clauses in an American
+Indian language. For the reasons cited above, this study aims to be a worthy
+contribution to the cross-linguistic literature on adverbial clauses and, more
+generally, to discourse-functional perspectives on language.","[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]"
+"Mithun, Marianne. 1987. Is basic word order universal? Tomlin, ed. 281-328.",[588]
+"(36) Hypothetical example based on (35) lines d. and e.a.      mali     _moke       s-sa?-aqSan    hi=Soledad
+        when     already     3-FUT-die      DP=Soledad
+        < When Soledad was on the verge of death,>b.      ei     =Lifa     s-iy-—qilik         -was
+        TOP=all          3-PL-take.care.of-PST
+        <they all took care of her.>        It may well have been possible for Mary Yee to have chosen the
+hypothetical strategy in (36) over the actual order given in the text. New and
+re-activated referents are usually coded as full NPs that are either objects or
+intransitive subjects, and the NP hi=Soledad          ‘'Soledad' in (36) is an
+intransitive subject. However, the strategy in (36) is still less preferable than
+the actual order we see in the text, because the third person plural subject,
+s~iy-    'they',       in line d. of the text, immediately follows the explicit mention
+of the discourse participants that are co-referent with it: Florentino (line b.)
+and all of his older and younger siblings (line c.). Such contiguous,
+immediately adjacent reference makes it easier for the listener to process what
+it is going on with the discourse participants.
+         In the previous examples we saw how final temporal clauses can track
+newly introduced or re-introduced object NPs. In (37), a final temporal clause
+tracks a newly introduced subject NP. The main clause in h. has a subject NP
+that is subsequently coded with a subject pronoun in the postposed temporal
+clause in line i. The postposed temporal clause has two purposes: it narrows
+the meaning of the main clause verb 2ip ‘to say' and it tracks the newly
+mentioned referent, 'Luisa'. An initial temporal clause appears in the first
+                                             505
+line of the story. It establishes the scene at the beginning of the narrative,
+which as we saw in 22.1.2 is one of the functions of preposed temporal
+clauses.","[527, 528]"
+"(1) Making a Candil; Text 137 lines 21 & 22 (59.0338)a.      s,iys e7ehay        hiho?lmé-t3a>~
+        s-iy-si?ihiy        hi=ho7=l1      =meta
+        3-PL-lengthen       DP=DIS=ART=wick
+        ‘They have the wick long enough
+        <They lengthen the wick>b.      tSukanu ?esa??7uKpa4-ti>*n                  hiho?1s ,é-wu-~> hiho?iw6-ti>>.
+        éukanu_?-¢e-sa?-?ugpatin                   hi=ho?=] =sewu hi=ho?=1]1 =woti
+        PURP    EP.?-N-FUT-—catch.on.fire           DP=DIS=ART=lard        DP=DIS=ART=can
+        so that the main body of the grease in the can will not catch on fire.'
+        <so that the lard in the can will not catch on fire.>
+        In line b. above, the verb uqpatin ‘to catch on fire' has prefixed to
+it the future tense morpheme, sa?-. All of the 27 Gukanu clauses have this
+prefix. As we saw in chapter 11, however, sa?- is found in only 5 or 9% of
+the 53 Gu 'so that, in order to' clause tokens. This is one of the significant
+morphosyntactic differences between the two clause types.
+        Another major difference between the Gu 'so that, in order to’ and
+éukanu clause types is found in patterns of subject marking on the verb. With
+rare exception, Gu clause subjects are always indexed on the verb. For
+éukanu clauses, however slightly over half (14 tokens; 52%) have no subject
+marking on the verb. The Gu clause in (2) has nearly the same semantic
+content as the Gukanu clause in (1) above, but the Gu clause has a subject
+pronoun while the Gukanu clause above does not.",[281]
+"(34) Indians are Like Bears; entire Text 226 (59.0222-0223)a.     pPlolenti-nu>~
+       p""lolentinu
+       Florentino
+       ‘Florentinob.     ?isKilizves ,Ké-nu~*s,                 hilukré:s,i
+                                                       ya~~            hilki-ki
+       ?i =s-qili-?    ~esqen-us              hi=loklesiya             hi=1  =kiki
+       TOP=3-HAB -EP.?-ask    -APPL           DP=Lucrecia              DP=ART=something
+       would ask Lucrecia a question
+       <he used to ask Lucrecia things>c.     hinasan-?an3in,
+       hi=na_=s-an-?            -angin
+       DP=when=3-R      -EP.?-eat
+       when she was eating
+       <when she was eating;>d.     ?i-sesakni-pu-“s,
+       ?i   =s-e-saqnip-us
+       TOP=3-N-answer—APPL
+       and she did not answer him
+       <she didn’t answer him.>e.     Florentino wd [<would>] say: Los indios son como osos. No contestan cuando
+       comiendo. El oso tiene los ojos colorados. [< Indians are like bears. They don’t answer
+       when they’re eating. The bear has red eyes.>]'The temporal clause above serves only to give more information about its
+main clause. It continues tracking the referent Lucrecia, first introduced in line
+b. The temporal clause has to be postposed because, if it were preposed, the
+third person subject prefix s- (in the temporal clause) would be referring to
+Florentino, the topicalized NP in line a., instead of Lucrecia, the object NP in
+line b. (It will be recalled that pronouns in Chumash languages do not
+distinguish gender.) Thus if the order of the adverbial clause were changed,
+the meaning would change to:
+                                            303
+        *' Florentino, when he was eating, he used to ask Lucrecia things. '       A similar scenario is seen in the excerpt in (35), where a full object NP
+in the main clause (line d.) is coded as the subject of the following temporal
+clause (line e.). In this case, however, the object NP,              a woman named Soledad,
+was previously mentioned in a topicalized NP (line a.).","[525, 526]"
+"
+                                              565
+Mathesius, V. 1942. From comparative word order studies. Casopis pro
+  Moderni Filoligii, 28.","[587, 588]"
+"
+                      Person         Singular      Non-singular                      1              ~-it           -iyuw
+                      2              -in            -iyuw
+                      3                            ~wun
+                     Table 6. Object pronominal suffixes       The language also expresses person and number in independent
+pronouns. These are presented in 2.2.2.6.
+       Following are paradigms showing pronominal affixes on verbs.’                                       42
+(118) kutiy      'to see, to look"" (19.0097-0099,0224 from Juan Justo; other forms are
+extracted from texts given by Mary Yee where noted)        kPutiy                   'T see (it)!
+        pkutiy                   ""you see (it)!
+        skutiy                   ‘s/he sees (it)'
+        kiskutiy                 ""we two see (it)'
+        piskutiy                 ""you two see (it)'
+        $isSkutiy                ""they two see (it)'
+        kiykutiy                 'we all see (it)""
+        piykutiy                 ""you all see (it)'
+        siykutiy                 ""they all see (it)""
+        samkutiy                 ""one sees (it) / they (indefinite) see (it)' (Yee)       kPutiyin                  'T see you (sg.)'
+       pkutiyit                  ‘you (sg.) see me!
+       k“utiyiyuw                *I see you (two or more)'
+       pkutiyiyuw                ‘you see us (two or more)!
+       k“utiywun                 ‘I see them (two or more)'
+       skutiywun                 ‘s/he sees them (two or more)' (Yee)
+       kiykutiywun               *we all see them (two or more)!
+       samkutiywun               ‘one sees them / they (indefinite) see them' (Yee)        Non-negative imperative forms of the verb show the number but not
+the person of the subject, which is always understood to be second person.
+Emphatic glottalization is often encliticized onto the final syllable, and an
+epenthetic /?/ begins the word if it is otherwise vowel initial. The imperative
+form of kutiy takes a slightly different form when its meaning includes a
+third singular object. In such cases it ends with /l/ instead of /y/.       kutiyit                   ""look at me!*
+       2iskutiyit                ""(you two) look at me!'
+       2iykutiyit                ‘(you   all) look at me!'
+       kutiyiyuw                 ‘look   at us (two or more)!!
+       kutiywun                  ‘look   at them (two or more)!!
+       ?iykutiywun               ""(you   all) look at them (two or more)""
+       kutil                     ""look   at him/her/it! '
+       2iskutil                  ""(you   two) look at him/her/it! '
+       2iykutil                  ""(you   all) look at him/her/it!'","[64, 65]"
+"(17) Eating & Buying; Text 100 lines 7-14 (59.0526)
+a.      ‘It is said that sometimes they roasted a deer where they killed it before bringing it
+       home, and ate much of it out there. Then they brought it home and ate some
+       more of it.b.     se?anameksd - wads           hiho?s?4-min          hulwé,
+       s-e-?anamiki        -waS     hi=ho?=s-?amhin       hu=l     =wi
+       3-N-last.long-PST            DP=DIS=3-body         RM=ART=deer
+       Soon the entire deer was eaten up.
+       <The deer carcass didn’t last long,>c.      kayke*®   hiline?ohé-wa>>3                    hikuhku*      -?.
+       Kayké      _hi=1_    =imhe     =?ihi?-waS      hi=kuhku?
+       because    DP=ART=EM(?)=many           -PST    DP=people
+       como era tanta la gente [<since there were many people>]
+       <because of there being just so many people.>        Different-subject kayké clauses will also lack the third person pronoun
+s~- if for some reason the predicate requires the stative prefix 2al-. (As                                              307
+noted elsewhere in this chapter and in chapter 2, the third person pronoun s~
+and the stative prefix 2al- never co-occur, even though the first and second
+person pronouns are able to co-occur with this prefix.) The kayké clause
+predicate
+    Nestl te would
+             PAP      require     the
+                                  ShShe    stative
+                                           lets       prefix
+                                                         Wile   Pal
+                                                                LAL       if the
+                                                                             Sask   verh
+                                                                                     wre   is actually
+                                                                                              eaQtiteic   a
+predicative noun, or if it is more like a prototypical noun than a prototypical
+verb. Such words almost always require the stative affix 2al- in order to act
+as predicates. For example, in (18) (previously example (1)), the different-
+subject kayké clause has the word 'leader' as its predicate. Hence it has the
+stative 2a1~ instead of the third person pronoun s~. The subject of the main
+clause in line c. is a group of Chumash Indians, the subject of the kayké
+clause in line d. is a padre. In this example, the main clause verb is in the
+imperative mode, and thus lacks person marking.","[329, 330]"
+"
+                                               364
+                                   Chapter 18                   Differences in Morphosyntactic Structure18.0 Introduction
+        Crosslinguistically, we find that preposed and postposed adverbial
+clauses may differ in morphosyntactic structure (Givén 1990). The differences
+always point to the general tendency for postposed clauses, more so than
+preposed clauses, to have a tighter semantic bond with their main clauses. For
+the Barbareno Chumash language, differences in morphosyntactic patterning
+are best examined in terms of two categories of adverbial clause types: (i)
+those clause types that have both preposed and postposed tokens; and, (ii)
+those clause types that have only postposed tokens, or an overwhelming
+tendency toward postposed tokens. For the relevant clause types in group (ii),
+the relationship between morphosyntactic patterning and bondedness with the
+main clause was dealt with in part II of the dissertation. A brief recapitulation
+of the findings will be given in 18.1. The clause types in group (i) will be the
+focus of 18.2. A summary follows in 18.318.1 Clause types that are mostly postposed
+         In some of the clause types that are postposed there was a reduction
+in pronominal subject marking. For the Gukanu 'so that, in order to' clause
+type in chapter 12 and the one purposive ehu 'in order to' clause token in
+chapter 15, the loss or retention of the subject pronoun was motivated by the
+semantics of agency and control. The greater the control on the part of the
+main clause subject (which was always an agent), the greater chance there was
+that the adverbial clause would not have a subject pronoun. We saw that the
+adverbial clause subject pronoun was retained, however, when the main clause
+subject did not have full control over the situation coded by the adverbial
+clause. The loss of subject marking in the adverbial clause could happen
+whether the adverbial clause and main clause had same subjects or different
+subjects. In other clause types that tend to be postposed, especially the kayké
+""because ' reason clauses and the kaheé ' like, as if' manner clauses, we saw
+that reduction in pronominal subject marking was found mainly in same-
+subject adverbial clauses. This pattern reflects the fact that final, same-subject
+adverbial clauses tend to have a tighter semantic bond with their main clauses
+than postposed, different-subject adverbial clauses.","[386, 387]"
+"
+                                      333
+16.2 The remote deictic clitic hu= in kaheé clauses
+       The remote deictic clitic hu= is a stable feature in two other
+Barbareno Chumash adverbial clause conjunctions, namely 2akay hu 'until'
+and    thehu     ‘because,     since,   fram;    in   order   to'.   Clauses   that   have    the
+conjunction kaheé almost always have the remote deictic clitic hu=. However,
+since two      tokens   were    found without this clitic, it is not included            as an
+inherent feature of the conjunction for this adverbial clause type. If the word
+immediately following kaneé is already marked with one of the other two
+deictic clitics, then hu= will not appear. For example, in (13) line d., the
+kaheé conjunction is immediately followed by a fronted noun that already has
+a deictic clitic, the proximal he2=. The verb of the clause thus does not have
+hu=.","[355, 356]"
+"2.3.3.1    Nominalized clauses with third person subjects
+        In typical nominalized clauses with third person singular subjects, the
+article 1= replaces the third person pronoun s- on the verb. An illustration
+of this difference is seen with the pair of clauses in (265). In line a. the verb
+yinéi 'to be hot' appears in an elicited, finite independent clause. In (265)
+line b. it appears in a nominalized clause that serves as the object argument
+of the main verb iSmax 'to throw at'. The verb yinéi 'to be hot' has the
+third person subject prefix s-        in the independent clause, but in the
+nominalized clause it has only the article 1=, along with the proclitic hi=
+which links dependent constituents to the head.",[98]
+"(6) Purging with Peppergrass; Text 217 lines 6-7 (59.0197)       hikapaKmil          t%upuxmalpas,
+       hika=p-agmil        éu__=p-uxmalpas
+       SEQ   =2-drink      PURP=2-purge.one’s.guts.by.vomiting
+                           ‘so you'll vomit good, washing your stomach good '
+       <and you drink it in order to purge yourself.>        As these previous examples have shown, the fact of having the same-
+subject does not result in reduced morphosyntactic marking."" In fact, all same-                                                243
+subject Gu clauses retain person marking in the clause, whether transitive or
+intransitive.
+        In different-subject Gu adverbial clause constructions, sometimes the
+main clause subject has more choice and control over the actions or state of
+affairs of the adverbial clause subject, and other times it does not. This
+distinction is not coded in the morphosyntax of Gu clauses. As we will see in
+chapter 12, however, the semantics of control plays an important role in the
+presence or absence of the adverbial clause subject pronoun in Gukanu 'so
+that, in order to' clauses. As a result, there are significant morphosyntactic
+differences between Gu clauses and Gukanu 'so that, in order to' clauses. So
+that there can be an adequate comparison between these two adverbial clause
+types, examples of Gu clause constructions are given below that illustrate
+different degrees of control on the part of the main clause subject. We will
+start with one end of the spectrum, where the main clause subject has total
+control over the adverbial clause subject.
+        In (7), the main clause subject is a human whose spirit helper
+(2atiswin) has endowed him with certain powers. He has full control over
+the Gu clause subject. The subject of the Gu adverbial clause is an inanimate
+substance--cannon powder. By magically manipulating the cannon powder, the
+main clause subject is able to disable the cannons.","[265, 266]"
+"Pronominal subject marking
+        Different patterns emerged in the marking of pronominal subjects in
+the adverbial clauses. In almost all cases where subject marking was affected,
+it was affected in the postposed clauses. However, the loss of pronominal
+subject marking in the postposed clauses happened for different reasons.
+        In all purposive clauses coded by the Gukanu 'so that, in order to'
+clause type, the loss or retention of the subject pronoun was motivated by the
+semantics of agency and control. When the main clause subject had full
+control over the event or situation depicted in the adverbial clause, subject
+marking in the adverbial clause was suppressed. On the other hand, when the
+main clause subject did not have control over the event or situation depicted                                               348
+in the adverbial clause, or, when it was rather the adverbial clause subject that
+had full control, then subject marking in the purpose clause was retained.
+Purpose clauses could have the subject pronoun suppressed or retained
+regardless   of whether
+       Alase af   urha  the purpose clause subject was a semantic patient. The
+critical difference was the degree of control on the part of the main clause
+subject. These generalizations turned out to be true whether the purpose
+clause and its main clause had same subjects or different subjects, though
+same-subject Gukanu clauses were rare. The semantics of control also seemed
+to be the motivating factor behind the loss of the subject pronoun in the one
+mehu   ‘because, since, from; in order to'     clause type token that coded a
+purpose relation. Interestingly, however, there was rarely a loss of pronominal
+subject marking in Gu ‘so that, in order to' adverbial clauses, 100% of which
+are purposive and postposed. There were clear instances in which the main
+clause subject was an agent that had full control of the event depicted in the
+adverbial clause, but even so, the presence or absence       of control was not
+something that was coded in the morphosyntax of this adverbial clause type.
+With rare exception, Gu    'so that, in order to' clauses were found to have
+subject marking whether they were same-subject or different-subject clauses.
+In all but one of the few, exceptional cases, the lack of subject marking
+involved the third person singular prefix s-. The lack of that subject prefix
+was argued to be related to articulatory difficulties having to do with the close
+proximity of sibilants.
+      In other adverbial clause types, namely the 2akimpi        'during, while;
+when! simultaneous temporal clauses, the kKayké 'because'        reason clauses,
+and the kaheé 'like, as if' manner clauses, the loss of the subject pronoun
+happened mainly in same-subject adverbial clauses. Such loss seems to be
+motivated by the fact that postposed, same-subject adverbial clauses have a
+tighter semantic bond with their main clauses than do preposed adverbial
+clauses or postposed adverbial clauses with a different subject. In Barbareho
+Chumash, however, such loss in subject marking applies only to third person
+subjects (singular, plural, or indefinite). It never applies to adverbial clause
+subjects in first or second person.
+        In only several cases was the adverbial clause nominalized. In such
+cases, the third person subject pronoun was not retained. This was true
+whether the nominalized clause was a same-subject or different-subject
+adverbial clause. Such is the expected pattern of nominalized clauses
+generally, as we saw in chapter 2.
+        In several of the adverbial clause types we saw examples of
+discontinuous clauses, in which there is intervening material between the                                       349
+adverbial conjunction and the rest of its clause. This intervening material may
+consist of an adverbial clause from a different clause type, or it may consist
+of a left-dislocated noun. Subject marking is affected in these discontinuous
+clauses,
+WEA   rg
+            in   that
+                 wee
+                        adverhial
+                             OSS
+                                    clause
+                                    WEA   Beret
+                                                  subject
+                                                  | hPL
+                                                                nronoine
+                                                                kr   NLS   Meee
+                                                                                  that
+                                                                                  WAEGEe
+                                                                                           might
+                                                                                           LAS. tetew
+                                                                                                        nthenyice
+                                                                                                        wreiiwea   ¥¥   dso
+                                                                                                                              he
+                                                                                                                              Aasuppressed are not suppressed in discontinuous clauses. This pattern was
+especially clear with the Gukanu 'so that, in order to' clauses in chapter 12.
+The discontinuous Gukanu clauses retained subject marking but the regular
+(non-disrupted) Gukanu clause counterparts did not retain subject marking.
+           Finally, sometimes in the Kayké                      'because'         and kaheé               'like, as if!
+clause types, subject marking was lost in different-subject clauses. In most cases
+where this pattern occurred the adverbial clause predicate had the stative
+prefix 2al-. This prefix never co-occurs with the third person pronoun s-,
+but it can and does occur with first and second person pronouns. This co-
+occurrence restriction on the third person pronoun s- and the stative prefix
+2?al- remains an unexplained phenomenon in Chumashan linguistics. As
+pointed out in chapter 2, it is also not always clear why a given predicate
+would take the stative prefix instead of the third person pronoun on one
+occasion, and then (on another occasion) take the third person pronoun
+instead of the stative prefix. Transitivity of the predicate is not in all cases a
+factor, since the stative prefix 2al- can and does appear in finite verbs with
+transitivizing morphology, such as applicative suffixes. Further research into
+the area of third person reference in Barbareno Chumash discourse should
+shed light on the patterns of subject marking we have seen in the adverbial
+clause constructions.","[370, 371, 372]"
+"
+                                     114
+          Part ITypes of Adverbiai Ciauses
+            115
+                             Introduction to Part IE
+        Barbareno Chumash is a language with a rich variety of adverbial
+clause constructions. In this part of the dissertation I discuss and illustrate the
+subtleties and complexities one finds in the syntax, morphology and semantics
+of this domain of Barbareho grammar.
+        Barbareho adverbial clauses code a variety of semantic relations with
+main clauses, including temporal, conditional, concessive, purposive, reason,
+and manner relations. Some adverbial clause types code only one of these
+relations, whereas others code several of them. Some of the adverbial clause
+types, however, have tokens that are semantically neutral with respect to
+conditionality and time.
+        As we explore the ways in which these adverbial clause types code
+semantic relations, we will come upon interesting issues and striking
+grammatical patterns. Some of these are discussed and predicted in the
+typological literature on adverbial clauses, in particular Thompson and
+Longacre 1985 and Givén 1990. For example, it is known that adverbial
+conjunctions that are semantically unspecific, like English 'when', generally
+need to be accompanied by specific tense and aspectual morphology, and/or
+lexical temporal indicators, in order to code specific kinds of temporal
+relations unambiguously. We see further confirmation of this generalization in
+such Barbareho adverbial clause types as mali ‘when' in chapter 6, na if;
+when' in chapter 8, and wa ‘if; when' in chapter 9. These adverbial clause
+types code temporal relations as well as other kinds of relations.
+        One often finds conditional relations to be indicated and underscored
+by the modal morphology of a language. We will see that this is also the case
+for conditional relations coded by Barbareno adverbial clauses, specifically
+haku   'if' clauses in chapter 7,na     ‘if; when'   clauses in chapter 8, and wa
+ ‘if; when' clauses in chapter 9.
+         Distinctive patterns of pronominal subject marking are well known and
+expected in purposive relations. In English, for example, subject marking can
+be suppressed in same-subject purpose clauses. In chapter 12, we will see in
+the Gukanu clause type, which codes only purposive relations, that subject
+marking may be suppressed in either same-subject or different-subject purpose
+clauses. We will see that the semantics of agency and control is the motivating
+factor that affects pronominal suppression in this adverbial clause type. In
+other Barbareho adverbial clause types, however, just the fact that the                                       116
+adverbial clause has the same subject as the main clause is enough to create
+a semantic bond that is tight enough to allow such pronominal suppression.
+We will see this pattern in simultaneous temporal relations coded by
+ 2akimpi ? ‘during; while' clauses in chapter 5, reason relations coded by
+kayké       'because' clauses in chapter 14, and finally in manner relations
+coded by kaneé        'like; as if‘ clauses in chapter 16. Pronominal subject
+suppression is attested only for third person subjects--first and second person
+subject pronouns are always retained in the adverbial clause.
+         Sometimes mentioned in the crosslinguistic literature is the fact that an
+adverbial conjunction may code the speaker’s or narrator’s expectations with
+regard to the likelihood that a given event will occur. For example in English,
+the conjunction 'when' connotes a greater expectation or likelihood than the
+conjunction ‘if'. In the grammar of Barbareho Chumash adverbial clauses,
+this is an important and complex category. Several adverbial conjunctions play
+a role in coding the speaker’s point of view with regard to when and whether
+an event can occur, will occur, or could have already occurred: mali                   ‘if;
+when' clauses (chapter 6), haku 'if' clauses (chapter 7), na ‘if; when'
+clauses (chapter 8), and wa _ ‘if; when' clauses (chapter 9). See also the
+2akay hu ‘until' clauses in chapter 4 and 2iyeme ‘though; although'
+clauses in chapter 10.
+        Barbareno Chumash has two adverbial clause types that code
+distinctions in reason relations. The Kayké 'because' clauses (chapter 14)
+tend to provide motivations for acts performed through talk such as
+commands and claims, and reasons for conclusions that are inferred. The
+ihehu ""because, since, from' clauses (chapter 15) code causal relations in
+which   one    event   causes     another      event   to   occur.   Also,   mehu   clause
+constructions always depict unintentional acts or results. The differences in the
+reason relations coded by these two clause types reflect distinctions between
+internal and external motivations (Halliday and Hasan 1976, Givén 1990:834-
+835), distinctions among action-based, knowledged-based and fact-based causal
+relations (Schiffrin 1987), and distinctions among fourth-, third- and second-
+order types of causal relations in the Entity Type Hierarchy (Hengeveld 1998),
+in that mehu     clauses   code    external,    fact-based,    and   second-order   causal
+relations.
+        There is an array of adverbial clause types that one can identify based
+upon specific adverbial conjunctions. Thirteen such clause types are analyzed,
+discussed and illustrated in chapters 4 through 16. These comprise almost all
+of the adverbial clause types that have conjunctions in this language. There
+may be other kinds of Barbareho adverbial clause types that have                                            117
+conjunctions, but some possible adverbial clause types were not included
+because they could not be clearly identified as adverbial clauses. Also, a
+possible adverbial clause type was omitted if there were not enough data or
+context that would allow a substantive-enough discussionand illustration for
+that particular adverbial clause type. Still, the adverbial clause types discussed
+and illustrated in chapters 4 through 16 range from the very rare ku ‘lest, so
+that...not' adverbial clause type, which only has two tokens, to the numerous
+na ‘if; when; in order to' adverbial clause type, which has nearly 200 tokens.
+         Part II has the following chapters, named for the adverbial conjunction
+that identifies the adverbial clause type in question:       Chapter 3      Adverbial clauses without conjunctions
+       Chapter4       ?2akay hu ‘until' clauses
+       Chapter5       ?akimpi ‘during; while' clauses
+       Chapter6       mali     ‘when' clauses
+       Chapter 7      haku     ‘if   clauses
+       Chapter 8      na     ‘if; when; in order to' clauses
+       Chapter9       wa ‘if; when' clauses
+       Chapter 10     2iyeme 'though; even if' clauses
+       Chapter 11     Gu 'so that, in order to' clauses
+       Chapter 12     Gukanu 'so that, in order to' clauses
+       Chapter 13     ku ‘lest; so that..not' clauses
+       Chapter 14     kayké ‘because, for' clauses
+       Chapter 15     mehu     ‘because, since, from; in order to' clauses
+       Chapter 16     kaheé      'like, as, as if' clauses        Chapters 4 - 16 follow a general format. First is a brief discussion of
+the adverbial conjunction, including its history and any cognates it is known to
+have. Next is an overall view of the number of tokens the adverbial clause
+type has, what kinds of semantic relations it codes, and what positions
+(preposed or postposed) it may take. The body of each chapter then illustrates
+each relevant semantic relation and the ways in which it is coded in that clause
+type. Special attention is given to those issues and patterns that stand out, e.g.
+unusual or prominent patterns in person marking, tense/aspect/modality, ways
+in which the speaker’s point of view is coded, etc.
+        The focus of part II of the dissertation is upon 13 adverbial clause
+types that have adverbial conjunctions. A much smaller subset of Barbareho
+adverbial clauses lack adverbial conjunctions. They are discussed in chapter
+3, to which we now turn.","[136, 137, 138, 139, 140]"
+"
+                                         93
+(311)   nas*ilitoKlo°m               hit&ta°-ni>*w       iltupme°kts
+        na=s-sili-togiom             hi=étaniw           hi=l   =tupmeké
+        if=3-DES -hold               DP=small            DP=ART=child        hilpaku’-wa>~s,
+        hi=l       =pakuwas
+        DP=ART=old.man        <If an old man wants to hold a baby /small child,>          59.0206       Except in rare elicitations, sili- has not been found to occur in
+complement clause constructions in my narrative corpus. In such cases, the
+complement verb always has the future tense prefix sa2-. In (312) and (313)
+the word mmeGi ‘always' serves as the complement taking verb.(312) s,Kilis,ili2hé-t3i*~ hisazhan                       hihe?lpu wé-wlu*-,
+        s-gili-sili-wheéi               hi=s-sa?-nah hi=he2=1             =puwewlu
+        3-HAB -DES -always               DP=3-FUT-go         DP=PRX=ART=town
+        <S/he always wanted to go to town.> 59.0700, elicitation(313)   sKilisili2mé-t3i>~             hiks,42ha~*n       hihe?lpu       wé-wlu”~,
+        s-gqili-sili-meéi              hi=k-sa2?-nah      hi=he?=1""”      =puwewlu
+        3-HAB      ~DES    -always    DP=1-FUT-go        DP=PRX=ART=town
+        <S/he always wanted me to go to town.> 59.0700, elicitatione Miscellaneous verbs and complements
+        Below are several other kinds of verbs with their complement clauses.
+These complement clauses have the dependent clitic hi=. The complement
+clauses are underlined.(314)   kimkasiyné-wo~~n hisiyanSi~*n,
+        kimka=s-iy-nowon             hi=s-iy-anSin
+        then =3-PL-stop              DP=3-PL-eat
+        <then they stop eating.> 59.0525(315)   ..   2ik""y    the k-sa2?-xiwiwaS        hi=k-niw.
+             but      EM    1-FUT-try           DP=1-dance
+        '.. but I'll at least try to dance.' Beeler & Whistler 1980:89
+                                         94
+(316)   2aKni    me kalit-2itaKuswin
+        2aqni    whe k-2al-it-itag-us           -wun
+        EVID     EM    1-STV-R    -hear-APPL-PL.OBJ        hisiyaxts ,awa-wa~~n            hiho?iin-2inyu%*-?2
+        hi=s-iy-ax¢éawawan              hi=ho?=]l  =2in-2inyu -?
+        DP=3-PL-holler                  DP=DIS=ART=R   -Indian-EM        ""Ya parece que estoy oyendo gritar los indios.'
+        <It’s as if I am actually hearing the Indians holler.> 59.0054-55(317) 2alets®5           hisamkéywun                     iltoht62
+        2al-e-G%         hi=s-am -kuy -wun               hi=l__=toh-to-?
+        STV-N-good       DP=3-IDF-take-PL.OBJ            DP=ART=R-mussel-EM
+        <It is not good to gather mussles> 59.0331(318)   ..   ika*-hetS      u2ano?no          ipe2aliti®-min
+             hi=kaheé       hu=?al-noho       hi=p-e-2al-itimin
+             DP=like        RM=STV-much       HI=2-N-NM -be.afraid        ipsa?xo°-non
+        hi=p-sa?-xonon
+        DP=2~-FUT~steal        *,.como que no eres miedoso para robar.'
+        <.. like you are not afraid to steal.> 59.0481(319)   sKilimé-nus
+        s-qili-monus
+        3-HAB -paint
+        <He used to paint        is2uw, 2aw               ilixpa-nis              ilka
+        hi=s-?uw-2uw-2           hi=]      =?ixpaniS     hi=1l=ku
+        DP=3-R        -eat-NM    DP=ART=acorn            DP=ART=person
+        a person eating acorns        ke    sKilimé-nus      isSpa3pA2s                ilka,
+        ke    s-gili-monus hi=s-paS-paS           -?     hi=l  =ku
+        and 3-HAB -paint DP=3-R           -vomit-NM DP=ART=person
+        and he used to paint a person vomiting,> 59.0030                                         95
+2.3.6Relative clause constructions
+      Relative clauses are syntactically-dependent clauses that modify a head
+noun (head NP). In the sentence they finally caught the man who robbed the
+bank, the head NP is the man and the relative clause is whe robbed the bank.
+This relative clause is postnominal; it follows its head NP the man. The
+relativizer is who; it links the relative clause to its head NP. The head NP has
+the grammatical role of object in its main clause: it is the object of the verb
+'caught'. The NPrel, or relative-clause co-referent of the head NP, has the
+grammatical role of subject: it is the subject of the verb 'robbed'.
+         Relative clauses in Barbareho Chumash have the following features.
+First, all relative clauses are postnominal. Second, they are linked to the head
+noun via the dependent proclitic hi=. Exceptions are rare. Third, all of the
+grammatical role positions available in Barbareho can be relativized. Thus
+subjects, objects, and obliques--including possessors--can be relativized. Finally,
+the grammar of relativization is sensitive to the distinction between core
+argument NPrels and oblique NPrels. With rare exception, core-argument
+NPrels, i.e. subjects and objects, always occur in nominalized relative clauses.
+Only about 60% of the relative clauses with oblique NPrels, however, are
+nominalized..
+       Below are two sets of near-minimal] pairs that show some differences
+between a basic clause and a relative clause construction in Barbareho
+Chumash. In (320)b the relative clause is a Subject-relative, because the NPrel
+of the head NP ‘ash tree' has the grammatical role of subject in the relative
+clause 'that stood near the door of his house '. The third person pronoun s-
+is not retained   in the relative clause. As we     saw    in 2.3.3.1,   however,   in
+Barbareho Chumash it is normal for nominalized clauses, including relative
+clauses, not to retain the third person subject pronoun.(320)
+a. Non-relativized NP
+        kesnow6nwa~~S            hilwentéy                hihe?miti:pin
+        ke =s-nowon-waS          hi=l   =wintiy           hi=he2?=mitipin
+        and=3-stand-PST DP=ART=ash.tree                   DP=PRX=outside
+        <and an ash tree stood outside        iho2s?ap,
+        hi=ho?=s-~2ap
+        DP=DIS=3-house
+        of his house>, 59.0517                                        96
+  b. Relativized NP          keswilwa~~S         iswentdy               il-nowénwa~~s
+          ke =s-wil-waS       hi=s-winti?             hi=l_ =nowon-was
+          and=3-be     -PST   DP=3-ash.tree          DP=ART=stand~PST
+          <and he had an ash tree [lit. there existed his ash tree] that stood          imite~-y     iho2smiti-pi~""n             iho?s?4p.
+          hi=mutey     hi=ho2?=s-mitipin         hi=ho2?=s-2a
+          DP=near      DP=DIS=3~door             DP=DIS=3-house
+          near the door of his house>. 59.0496  In (321)b, the relative clause is an Object-relative, because the relative clause
+  co-referent of 'rocks' has the grammatical role of object in the relative clause
+   ‘that they can throw at one another'. Note that the third person plural object
+  -wun is not suffixed to the relative clause verb in (321)b, but neither is it
+  suffixed to the main clause verb in (321) a. More study needs to be done on
+  where, when and why the plural object suffix -wun appears. This suffix most
+_ often appears when the referents are human or otherwise animate, but it can
+  also appear when the referents in question are neither human nor animate.  (321)
+  a. Non-relativized NP          s ,iy-ismax-stis           il-xepx?e*p
+          s-iy-iSmax     -SiS        hi=l   =xip-xip -?
+          3~PL-throw.at-RCP          DP=ART=R    -rock-EM
+          <they throw rocks at one another,' 59.0228 b. Relativized NP          hima-li     mokesé-wil
+          hi=mali     moke    =s-e-wil
+          DP=when     already-3-N-be
+          <when there are no longer          hilxepx2?e*-p               hiliysa2ismax3is,
+          hi=l    =xip-xip     -2     hi=l    =?     -iy-sa?-iSmax        ~-8iS
+          DP=ART-R        -rock-EM    DP=ART=NM-PL-FUT-throw.at~-RCP
+          (any) rocks that they can throw at one another,> 59.0229
+                                         97
+         Like the relative clause in (321), the relative clause in (322) is an
+Object-relative. Structurally they are very different, however. Example (322)
+illustrates the only relative-clause token in the analyzed corpus that has a
+relativizer in the form of ka=. Like the contrastive focus marker and stative
+proclitic of the same form, the relativizer ka= is a reflex of the proto-
+Chumash demonstrative *ka. The relative clause construction has a similar
+form to the cleft construction illustrated earlier in (284), with the important
+exception that the relative clause is not nominalized.","[115, 116, 117, 118, 119, 120]"
+"In lines d. and h. there are two other instances of a colon. Like the two na
+ ‘ifAwhen' adverbial clauses that are punctuated with a colon, these two
+clauses have a verb of saying that is followed by quoted speech. These usages
+of the colon are congruent with the way in which Harrington used the colon
+throughout the corpus of Barbareho narratives: the colon is only used in
+clauses that precede quoted speech or a list of things. Given this consistent
+use of the colon in Harrington’s transcription, and given that there tends to
+be a prosodic boundary between a clause with a verb of saying and the clause
+of quoted speech that follows, in spoken speech (Givén 1990), Harrington’s
+use of the colon no doubt represents a pause in Yee’s speech.
+         Looking again at Table 43, for the two most numerous adverbial clause
+types, na 'if; when; in order to' and mali ‘when’, there appears to be only
+a slight preference for punctuation in the initial clauses. A little over half of
+the initial clauses for both of these types are followed by punctuation. Among
+the initial na ‘if; when; in order to' clauses, 53% are followed by a comma
+(or more rarely a colon as we saw above). Among the initial mali 'when'
+clauses, 58% are followed by a comma. On the surface there appears to be
+no motivation for punctuation--Harrington seemed just as likely as not to write
+a comma at the end of an initial clause. However, on closer inspection there
+turns out to be a relation between the length of the adverbial clause and
+whether or not it has punctuation. This is illustrated in Table 44 for initial na
+‘if; when; in order to' clauses and Table 45 for initial mali            'when'   clauses.
+Clauses were measured according to the number of nominal arguments and
+adjuncts that followed the verb. Clauses that had no NP arguments or adjuncts
+following the verb were considered the shortest. They were more likely to lack
+punctuation. On the other hand, clauses with two or more full NPs were much
+more likely to be followed by punctuation. Whether the punctuation
+represents a prosodic boundary cannot be known for certain, but it seems
+logical to assume that the longer an adverbial clause is, the more likely it
+would be followed by a prosodic boundary in spoken speech.",[400]
+"1.2 Geographic and linguistic affiliation of the Barbareno Chumash language
+         Barbareno belongs to the Chumashan family of languages. The original
+territory of the Chumash people extends along the California coast from a
+little beyond San Luis Obispo in the north down to Malibu in the south. It
+extends inland, bordering the San Joaquin valley. It also includes the Santa
+Barbara Channel Islands, three of which were inhabited year around: Santa
+Cruz, Santa Rosa and San Miguel. The Barbareho language itself was spoken
+in the present-day Santa Barbara county, roughly in an area from Refugio
+Beach to Carpinteria. The last known speaker of Barbareho was Mary Yee,
+who died in 1965.
+         The word Chumash originates from ehumas ‘islander', a term used
+by mainlanders. However, if the word &uma is derived from the same root
+as the Barbareno word 2anéum ‘money; shell bead money', as I believe                                        2
+it is,’ then the original meaning of the word éhumas has more to do with the
+fact that the islanders were the producers of money. The ancestors of the
+present-day Chumash had a market economy long before the Europeans
+arrived, They used precisely-measured strings of shell-bead money as their
+currency. The islanders produced this currency for export and trade to the
+mainland. The islands of Santa Cruz, Santa Rosa and San Miguel were mints
+in the literal sense of the word. See King 1976, Hudson & Blackburn 1986 and
+Arnold 1987 for detailed information on this subject.
+          Chumashan has two major branches with at least six languages. Earlier
+classifications were later refined in Klar 1973, 1977, 1981, and Mithun 1999,
+Known dialectal divisions are given in parentheses.","[24, 25]"
+"Such an order would sound odd because the referent for the subject in ' it will
+throw (it)' would not have been previously introduced, and thus would not
+already be activated in the listener’s consciousness.
+        In (21), the neutral clause introduces a full NP, 'a man', whose
+referent has Given information status in the remaining two clauses of the text.",[558]
+"Their main function is that of qualifying the meaning of the main clause
+proposition. These two factors alone, i.e. i) that the adverbial clause does not
+have a global role in structuring the discourse and ii) that the adverbial clause
+serves mainly in the localized role of qualifying the meaning of the main
+clause, are often enough motivation for the adverbial clause to assume a
+postposed position. In this sense, the postposed position is the default position
+for adverbial clauses. (Since topics and themes come first rather than last, in
+the order of topic-comment and theme-rheme, the adverbial clause that is not
+serving in a topic-like or theme-like capacity, ie. as a point of orientation,
+would most likely be postposed.) There are, however, other factors that
+increase the probability of an adverbial clause appearing postposed instead of
+preposed: i) referent tracking; ii) an embedded main clause; iii) a main clause
+that already has preposed material, such as a topicalized NP or a preposed
+adverbial clause; iv) the adverbial clause has the additional function of an
+afterthought or reminder; v) the adverbial clause is part of a routinized
+construction in which the adverbial clause is always in final position; and
+finally, specific to temporal clauses, vi) the adverbial clause codes a terminal
+temporal boundary.
+         For some of these factors, to understand why they increase the
+likelihood that an adverbial clause will be postposed it is helpful to look to the
+theory of information flow (Chafe 1976, 1987, 1992, 1994), the principle of
+least effort (Zipf 1935) and iconic motivation in language (Haiman 1983), all
+of which are interrelated. Considering first the factor of referent tracking, we
+saw that an adverbial clause tends to be final if it is tracking a referent that
+was introduced (or re-introduced) into the discourse context as a full NP in
+the associated main clause. The full NP has New information status in the
+main clause, as it is being activated or re-activated in the listener’s
+consciousness. In the postposed adverbial clause, the NP acquires Given
+status, as it is then already activated in the listener’s consciousness, and the
+referent is indexed as a pronominal affix instead of as a full NP. A reversal of
+the clausal order would in many cases lead to ambiguity in meaning, as it
+would not in all cases be clear who or what was being referred to, by the
+pronominal affix, if the adverbial clause were preposed.
+        Other factors underscore the importance of conceptual relevance and
+(hence) iconic motivation in the ordering of clauses. A clause is more likely                                              553
+to be contiguous to the clause whose meaning it qualifies or completes. Thus
+in all cases where the main clause was embedded, the adverbial clause was
+never preposed. If the main clause in question was a complement clause, the
+adverbial ciause did not come between it and its matrix verb. If the main
+clause in question was a relative clause, the adverbial clause did not come
+between it and its head NP in the matrix clause. In the former case, it would
+be infelicitous for the adverbial clause to intervene between the matrix verb
+and complement clause, because the complement clause completes the
+meaning imparted by the matrix verb, while the adverbial clause adds further
+information about the complement clause. In the latter case, it would be
+infelicitous for the adverbial clause to intervene between the head NP and
+relative clause, because the relative clause provides information that is directly
+relevant to the head NP, while the adverbial clause provides information that
+is directly relevant to the relative clause. The clausal orders are iconically
+motivated in that the clauses most conceptually relevant to each other are
+always positioned next to each other. Such iconically motivated clausal orders
+should require the least cognitive effort in processing information about the
+events and states named by the clauses in question.
+        Iconic motivation also has a crucial role in the factor specific to
+temporal clauses: in the corpus, temporal clauses that code terminal
+boundaries tend to be postposed rather than preposed. The motivation is
+iconic in that terminal-boundary temporal clauses code events that happen last
+in a given series of events. Hence, the clauses that code them tend to be last
+in a given series of clauses. The only exceptions are those that also perform
+as pivotal points of orientation, making reference to a prior event and also
+providing a context in which a succeeding event occurs. In such cases there is
+a competing motivation: terminal events are last in a given series of events
+and hence should be coded by final clauses, but pivotal points of orientation
+need to be coded first in a given a series of clauses, because they provide
+crucial, contextualizing information for the following event(s) or situation(s).
+In such cases, the latter motivation takes precedence. So the terminal-
+boundary temporal clause, which would otherwise be postposed, has to be
+preposed in those cases.
+        Adverbial clauses also tend to be final when the associated main clause
+already has preposed, associated material, such as a topicalized NP or another
+adverbial clause. This preposed, associated material is already doing the task
+of setting a scene or otherwise breaking the discourse into thematically-
+coherent chunks. It is not necessary (or perhaps even possible) for the
+adverbial clause in question to assume that role, so it assumes the postposed                                       354
+position. Another possible reason that the adverbial clause is final, in such
+cases, is that it might too much of a cognitive burden to have so much
+pragmatically-marked material preposed to the main clause, especially in a
+      initio! language Uke Darhasohn Chumas
+       Finally, adverbial clauses that serve as reminders or afterthoughts are
+always final. The order is again iconically motivated in that reminders and
+afterthoughts are comments on events and situations that were mentioned in
+the preceding context, and the clausal order reflects this by the fact that
+reminders and afterthoughts are coded by final clauses.","[575, 576, 577]"
+"(9) Medicinal Plants; Text 120 lines 34-36 (59.0608-0609)ae     ma? lipsa?to?6h,
+       mali=p-sa?-to?70nh
+       when-2-FUT~go.to.bed
+       <When you are about to go to bed, / Before you go to bed,>       ?i-paKmil          meka-he*~t3      h_ulma&-si>~x    hilkutS4l
+       ?i =p-aqmil wmekaheé            hu=l   =masix        hi=l  =kué4l
+       TOP=2~drink about               RM=ART=three         DP=ART=spoonful
+       <you take about three spoonfuls
+                                             245
+       hiho?larwi-nas                hulsakapey6:ti>~,
+       hi=ho?=l       =?awinaS       hu=l      =sakapeyoti
+       DP=DIS=ART=decoction          RM=ART=(plant.sp)
+       of the sakapeyoti tea/decoction,>c.     t8usk%6-1in                                 hihe?poxé-xo*~n
+       éu_ =s-q""elin                               hi=he?=p-oxoxon
+       PURP=3-loosen.up.and.disappear              DP=PRX=2-cold
+       ‘para que se arranca tu catarro.'
+       <so that your cold loosens up and disappears.>         In (10), the main clause subject and adverbial clause subject
+presumably struggle for control. The swordfishes relentlessly pursue the whales
+with the intent of making the whales beach themselves. The traditional belief
+is that the swordfish did this in order to provide food for the Chumash people.
+Both the main clause subject, 'swordfishes', and the adverbial clause subject,
+ 'whales', are referenced with the third person plural s-iy- in the main
+clause and adverbial clause respectively. In addition, the referent for 'whales'
+is indexed with the plural object suffix -wun on the main clause verb
+telelenus 'to chase after'.","[267, 268]"
+"SEMANTIC RELATION                  PREPOSED          PostTPosED               TOTALPurpose                            0             2                            2 (100%)     Table 18. Distribution of ku ‘lest; so that..not' clauses by position
+               and semantic relation
+                                              293
+                                      Chapter 14                              kayké   ‘because’ Clauses
+14.0 Introduction
+       In the corpus there are 41 adverbial clauses that have the conjunction
+kayké 'because, for’. The analogous conjunction for Ineseho Chumash is
+ka&a 'because'. The Barbareho conjunction appears to have arisen from
+two demonstratives: *k(2)ay and *ke?. It is not known at this point
+whether these demonstratives can be reconstructed back to Proto-Chumash.
+Harrington found reflexes of both demonstratives in Ineseho: kay          ‘he, she,
+it' and ke? 'this; thus, so, in this way' (Applegate 1972a,b). *k( 2) ay does
+not have a modern reflex in Barbareho. However, it probably has a historical
+connection with the Barbareno proclitic ka=, a reflex of the Proto-Chumash
+demonstrative *ka2. The proclitic ka= has several, disparate meanings and
+functions:   'staTrvE',   'CONSTRASTIVE FOCUS"",    'RELATIVIZER', 'COMPLEMENTIZER"",
+and 'then, so'. The demonstrative *ke2? appears to have a Barbareno reflex
+in the interrogative particle ké 'what; whose; why'. Other Barbareho words
+that involve a lexicalization of one or both of the old demonstratives *k( 2) ay
+and *ke? include Kaykiké 'what', kenG 'why' and nukaké ‘where’.
+         In addition to having the conjunction kayké, adverbial clauses of this
+type share three characteristics. First, all of the tokens are postposed. Second,
+all kayké clauses code a reason (also referred to as 'causal') relation. Third,
+the kind of reason relations that tend to be coded by this clause type are
+reminiscent of action-based and knowledge-based causal relations (Schiffrin
+1987:202), fourth-order and third-order reason relations (Hengeveld 1998) or
+causal/reason relations based on internal motivations (Givon 1990:834-835, cf.
+also Halliday and Hasan 1976). kKayké clauses that have action-based or
+fourth-order readings code reasons for speech acts such as commands,
+requests, and claims. These speech acts may be either those of Mary Yee
+herself or that of someone Yee is quoting. Kayké clauses that have
+knowledge-based or third-order readings code reason relations in which the
+modified material (Event 'X') is a conclusion that the speaker has reached
+based upon the material coded by the reason clause (Event 'Y'). Finally,
+kayké clauses may sometimes code what are referred to as fact-based
+(Schiffrin 1987:202), second-order (Hengeveld 1998:345-346) or externally-
+motivated (Givén 1990:834) causal relations. In fact-based readings, Event                                         294
+ 'X' is the direct result of Event 'Y'; Event 'Y' causes Event 'X'. The
+line between fact-based and knowledge-based readings is not always clear,
+however.
+       AS
+       fas    WOra «rll
+                   Wii    cao
+                          SO?   in    hhantar
+                                     Cnapier    14
+                                                av,   tha
+                                                      te       h
+                                                            mehu     thaea
+                                                                      Decause,     since,   from   §   elance
+                                                                                                       Oa Te tS te) w]type only codes fact-based/second-order causal relations. Also, when a mehu
+clause is used, the causal relation appears to be treated as self-evident by the
+narrator. Another important difference between the reason relations coded by
+kayké- and mehu reason clauses is that the latter always code results that are
+not willfully intended. Many kayké clauses, on the other hand, code reason
+relations that involve some willful intention. Differences between the kayké
+and mehu clause types are further explored in chapter 15.
+        Illustrations of reason relations coded by kayké clauses are given in
+14.1. Following that is a detailed discussion on pronominal subject marking in
+14.2 and its subsections. Discontinuous kayké clauses are treated in 14.3.
+Highlights of salient patterns are summarized in 14.4.","[315, 316, 317]"
+"SEMANTIC RELATION                   PREPOSED         PosTPOsED              TOTALPurpose                             0                27                     27 (100%)
+Table 17. Distribution of Gukanu             'so that, in order to' clauses by position
+          and semantic relation
+                                               288
+Notes to Chapter 121. Most often when there is a subject pronoun in the nominalized clause, there
+is also an intervening particle between the article and the verb stem. This
+circumstance always results in the otherwise absent subject pronoun appearing
+prefixed on the verb, just as it would be if the verb were not nominalized. If
+the nominalized, main clause verbs in lines a., c. and f. were fully inflected to
+include person marking, each would lose the article 1= and the glottal stop
+nominalizer 2-, and instead have the third person prefix s-. The result would
+be *hi=s-iy-2eleé.","[310, 311]"
+"(8) Spirit Helper; Text 233 lines 3-4 (59.0231)Cc.    ke        swi>*l    hiliyé-lets
+       ke        s-wil     hi=l    =? -iy~?eleé
+       and       3-be      DP=ART=NM-PL-wear.necklace
+          ‘And there are some that wear as a necklace       his""ixway            hiltaxa-ma*~,
+       hi=s-sixway          hi=l   =taxama
+       DP=3-claw        DP=ART=skunk
+       the claws of the skunkd.     tSukanu?ames
+       %            ,a?7alakway                     his; ,amkutiywu*""n,
+                                                                   :
+       PURP        =EP.?~IDF-N-FUT~be.able          DP=3-IDF-see     -PL.OBJ
+       for to be invisible,’
+       <in order that they (unspecified) will not be able to see them.>In the Gukanu clause in d. above, the main verb in the clause, alaqway 'to
+be able', lacks the third person subject pronoun s-. If this verb were marked
+for person, it would appear as *¢ukanu=s—-am-e-sa?-alaqway. The lack
+of the subject pronoun in this verb reflects the fact that the main clause
+subject has total control over whether or not the adverbial clause subject will
+be able to see the main clause subject. The main clause subject has control by
+virtue of wearing the skunk claw talisman, which allows the main clause
+subject to be invisible at will. The adverbial clause subject is indexed with the
+pronoun     s~      on the complement        verb   in d., kutiy     'to see', but that
+pronoun is there because of the particular requirements of the grammar of
+complementation in Barbareho; its presence has nothing to do with the main
+clause subject in line c.
+        The second different-subject Gukanu clause in (7) also retained its
+subject pronoun. This clause is reproduced again in (9) below.",[288]
+"                                        77
+(267)   2iho2?lamkutiywa~~s                           keho?lkutiywa~~s
+                                                                               nay
+        2i =ho2=1   =2_-am -kutiy-wa3                 ke =ho2?=l  =kutiy-was
+        TOP=DIS=ART=NM-IDF~see                 -PST   and=DIS=ART=see                  -PST
+        ""both the seen and the seer ...'
+        <the one who was seen and the one who saw ...>                     59.0144         In the previous examples, the third person pronoun s~ is replaced by
+the article 1= in the nominalized verb. There is one type of context in which
+this replacement does not occur, and the nominalized clause retains full
+subject marking on its verb. If there is a modifier or some kind of particle
+preceding the verb, then the article will be attached to that element instead
+of the verb. The verb is then inflected for person the same as it would be in
+an independent clause. For example, the verbs in (268) and (269) are both
+preceded by the particle howo 'still, yet'. In (268) the third person subject
+is singular; in (269) the third person subject is plural. In both instances the
+verbs retain the third person pronoun s-, while the article 1= is attached to
+the particle howo ‘still, yet"".(268)   2?i2i-hai2?   saxik
+        2i   =2inu?   s-axik
+        TOP=true      3-feel        i1h6-wo~~          suni:wil       iltSta-ni**w              isté-1lék
+        hi=l   =howo       s-uniwil       hi=    =Ctaniw            hi=s-—tele
+        DP=ART=still       3-remain       DP=ART=piece              DP=3-tail        iltukén.
+        hi=l   =tukem
+        DP=ART=mountain.
+                      lion        <Sure enough she felt a piece of a mountain lion’s                           tail   still
+        remaining.>
+        [More lit. <a-still-remaining-piece-of-a-lion’s-tail>] 59.0115(269)   swi-lwa~~S      hilhé-wo-*             siyotSwas
+        s-wil-waS       hi=l1     =hoWo        s-iy-20%             -was
+        3-be   -PST     DP=ART=still           3-PL-be.wet-PST
+        <There were some who were still wet,>
+        [more lit. <the-still-they-were-wet-ones>]        59.0366
+                                          78
+           It should be emphasized that, in Barbareho Chumash, the verb within
+a nominalized clause is not an attribute or modifier to any of its NP
+arguments, in spite of the fact that an English translation almost always
+                                                                                                *
+conveys
+    bywy
+             the   opposite
+                        IRE
+                               sence
+                               RED     e
+                                           The
+                                           BREW
+                                                varh
+                                                VR UY
+                                                      within
+                                                      VE ASEELAL
+                                                                 aBE   10
+                                                                                ived
+                                                                            inalized
+                                                                                       cl
+                                                                                       ciause   i§
+                                                                                                       e head
+                                                                                                     the
+                                                                                                         heelement within that nominalized clause. Just like any verb that heads a
+declarative clause, a verb within a nominalized clause may or may not have
+dependent arguments and adjuncts. Its meaning stays the same regardless of
+whether it has dependent arguments and adjuncts. A better illustration of this
+point is seen in the pair of nominalized clauses below, which are nearly
+identical.(270)      ha-ku      s ams ,utakway
+           haku       s-am-sutaqway
+           if         3~IDF-surprise
+           <If they surprised>           hilameKutixwa:-lyik                                         h i1ka
+           hi=]   =? -am -e-qutixwalyik                                hi=l=ku
+           DP=ART=NM-IDF~N-know                                        DP=ART=person
+           <some person they didn’t know> [lit. <a-one-doesn’t-know-person> |           hiswol,      ,wol     hiho21miti:pi-~“n,
+           hi=s-wolwol           hi=ho?=l1              =mitipin
+           DP=3~-untie           DP=DIS=ART=door
+           <as s/he was untying the door,> 59.0623(271)      nas,am sutaKwaywas                           hilameKutixwalyikwa&
+           na=s-am -sutaqway-waS                       hi=] =? -am-e-qutixwalyik-was                              |
+           if=3-~IDF~surprise-PST                       DP=ART=NM-IDF-N-know                               ~PST
+           <If they surprised anyone they didn’t know           his wol, .w6‘lu>~s,                    his,miti-pin               hilap,
+           hi=s-wolwol-us                         hi=s-mitipin               hi=l=2ap
+           DP=3-untie -APPL                       DP=3-door                  DP=ART=house
+           <as s/he was undoing [the tie] from a house door,> 59.0460        These nominalized clauses are from different texts that discuss methods
+of locking up homes and other structures long ago. In (270) the nominalized
+verb has the object argument hi=l=ku          ‘a person, some person'. The
+nominalized verb in (271), which differs only by having a past tense suffix,
+does not have any NP arguments. Both nominalized clauses mean basically the                                                        79
+same thing: 'one who was unknown! or 'one who they (indef.) did not
+know '. In head-marking languages, especially, NPs that are clausal arguments
+further delineate or elaborate upon the information encoded in the head verb.
+Thus NPs within nominalized clauses are dependent elements on the verb and
+                                        wy   teawe   we   Wawa   whee   wa   we.   wWeaswes   Beek   vase   a7   tee   eeenot vice versa.®2.3.3.2    Nominalized clauses with first- or second person subjects
+        Nominalized clauses with a first or second person subject are relatively
+infrequent in the corpus. Unlike nominalized clauses with a third person
+subject, such clauses do not take the article 1=. Also, the pronoun is always
+kept: k- if the subject is in first person, or p- if the subject is in second
+person. Finally, these clauses always have the prefix -al-. This subordinator
+appears mainly in constructions involving focussed or contrasted NPs,
+appositions, questions, and relative clauses. Almost always, the subject of the
+clause is in the first or second person; exceptions are rare.’ Below are some
+examples of nominalized clauses with subjects in the first or second person.","[99, 100, 101, 102]"
+"                            PRONOUN PRESENT           PRONOUN ABSENT        TorTaLsDifferent-subject           18    (62%)               11      (38%)         29   (100%)     Table 19. Subject marking in different-subject kKayké             'because' clauses
+                                                311
+                     PRONOUN PRESENT           PRONOUN ABSENT              TOTALSSame-subject total    6      (50%)                  6   (50%)              12    (100%)3rd person            2      (258%)                 8 (75%)                  8 (100%)
+1st or 2nd person     4   (100%)                    0                        4   (100%)
+    Table 20. Subject marking in same-subject kKayké             'because' clauses
+                              DIscoNnTINUOUS              Continuous       ToTALskayké    'because' clauses    14      (34%)               27    (66%)      41    (100%)Table 21. Number and frequency of discontinuous Kayké                   'because' clauses
+SEMANTIC RELATION            PREPOSED          PostPosED                   ToTALReason                        0                41                          41 (100%)
+Table 22. Distribution of kayké       'because' clauses by position and semantic
+           relation
+                                         312
+                                     Chapter 15               inehu ‘because, since, from; in order to' Clauses15.0 Introduction
+         In the corpus there are only 10 adverbial clauses that have the
+conjunction mehu 'because, since, from; in order to'. It is possibly a
+grammaticized combination of the emphatic particle ne and the remote deictic
+morpheme hu. In Harrington’s texts this conjunction is always written as a
+proclitic, attached to the verb. In the one example from the Beeler and
+Whistler text, it is written as two separate particles, ie. me hu.
+         Like the Kayké 'because' adverbial clauses discussed in chapter 14,
+almost all mehu clauses code a reason relation with a main clause. However,
+though all Kayké clauses occur postposed, 3 of the mehu clauses were found
+to be preposed. There are also interesting and subtle differences between
+reason clauses coded with a kayké conjunction and reason clauses coded with
+a tehu conjunction. The differences have to do with: i) the kinds of causal
+relations these adverbial clauses tend to code; ii) the frequency of same-
+subject vs. different-subject clauses; iii) pronominal subject marking; and iv)
+frequency of human subjects. These topics are dealt with in the subsections of
+15.1. One mehu clause was found to code a purposive relation. This token is
+discussed in 15.2. In addition to the difference in the kind of semantic relation
+it codes relative to the rest of the mehu clauses, it has structural features that
+set it apart from the rest. There is one token of a discontinuous mehu
+adverbial clause. This is presented in 15.3. Finally, a chapter summary is given
+in 15.4.
+         Before we get into these issues, however, we will first see an illustration
+of a typical inehu adverbial clause, in both initial and final position.
+         A preposed mehu clause is given in (1), in line b. The mehu clause
+ ""Because they were law-abiding' exists in a reason relation with the set of
+clauses in lines c. - e.","[333, 334, 335]"
+"                       PRONOUN PRESENT       PRONOUN ABSENT           TOrTALstehu clauses            8    (80%)            2   (20%)               10     (100%)
+kayké clauses           6    (50%)            6 (503%)                12 (1003)
+ Table 24. Subject marking in same-subject Kayké          'because'        and fehu
+               ""because, since, from; in order to' clauses        Almost all mehu clause subjects were human or mythical beings. The
+number of human/mythical subjects in kKayké clauses was much smaller. This
+difference is summarized in Table 25 on the following page.",[344]
+"(264) Kilizetemé-su~*s                        hi lwi-sa*>
+        k-qili-?   -etemesus                  hi   luwisa
+        1-HAB -EP.?-be.across.from            DP   Luisa        hiklé-ken      hiholamé-sa
+        hi=k-leken     hi=ho?=lamesa
+        DP=1-sit       DP=DIS=the.table        <I used to sit across from Luisa at the table,> 59.0235
+                                      75
+2.3.3    Nominalized clauses
+          Nominalization is a salient feature of the syntax of Chumash languages.
+Nominalized clauses commonly serve as subject or object arguments. They are
+also often found in relativization, apposition, and in cleft constructions. In this
+section I give an overview of the basic structure of a nominalized clause in
+Barbareno Chumash. The structure of nominalized clauses in this language is
+sensitive to the distinction between third person subjects and first- or second
+person subjects. Nominalized clauses with third person subjects are discussed
+first, in 2.3.3.1, since the majority of nominalized clauses in my corpus have
+third person subjects. Nominalized clauses with first- or second person subjects
+are discussed afterward in 2.3.3.2.","[97, 98]"
+"1.9.1 Sorting adverbial clauses by structural type
+        In the first part of this study I analyzed each of the narrative texts for
+adverbial clauses that have one of the following adverbial conjunctions:               2akay hu              ‘until!
+               2akimpi               ‘during; while'
+              mali                   ‘when!
+              haku                   ‘if?
+              na                     ‘if; when; in order to'
+              wa                     ‘if; when!
+               ?iyeme                ‘though, even if!
+              éu                     ‘so that, in order to'
+              Gukanu                 'so that, in order to'
+              ku                     ‘lest, so that...not!
+              kayké                  ""because; for'
+              tihehu                 ""because, since, from; in order to'
+              kanheé                 ""like, as if!",[36]
+"15.4 Summary
+        Tables 23 - 26 on the following pages summarize some of the salient
+patterns found in mehu 'because, since, from' adverbial clauses. Tables 23 -                                           321
+25 in particular highlight differences between mehu and kayké 'because'
+clauses. One major difference between mehu and kayké clauses was the
+frequency of same-subject and different-subject clauses, as summarized below
+in Table 223
+   2S    oes
+                       SAME SUBJECT          DIFFERENT SUBJECT        ‘TOTALSmehu clauses           10   (100%)            0                       10     (100%)
+kayké clauses          12    (29%)           29   (71%)               41     (100%)
+ Table 23. Distribution of same-subject and different-subject clauses in the
+           kayké 'because' and mehu 'because, since, from; in order to'
+           adverbial clause types        Another difference was found in pronominal subject marking. While
+half of the same-subject kayké clauses lacked a subject pronoun, only 20%
+(2 tokens) of the mehu clauses lacked a subject pronoun. One of those two
+tokens was a nominalized reason clause, the other was the sole purpose clause
+token. The distribution is summarized in Table 24.","[343, 344]"
+"
+Table 44. Length of initial na 'if; when; in order to' clauses with & without
+          punctuation
+# of NP arguments & adjuncts      No punctuation            W/punctuation      Totals
+following the verbNone                              27 (49%)                  28 (51%)           55 (100%)
+                                   (24 (57%))°              (18 (43%))°One                                19 (44%)                 24 (56%)           43 (100%)Two or more                        2 (13%)                  13 (87%)           15 (100%)Totals                            48 (42%)                  65 (58%)          113 (100%)""Minus those clauses that have pragmatically focussed, pre-verbal NPs, clauses that have
+conjoined verbs, or predicates with two verbs.",[401]
+"
+                                     345
+       In the coding of temporal relations, those clause types with semantically
+specific conjunctions like 2akay    hu   '‘until' and 2akimpi    ‘during, while;
+when ' had very little tense and aspectual morphology. These two clause types,
+however, generally coded one specific kind of temporal relation: terminal
+temporal boundaries for 2akay           hu ‘until’ clauses and simultaneous
+temporal relations for 2akimpi 'during, while; when' clauses. On the other
+hand, those clause types with semantically general conjunctions like mali
+ ‘when' and na ‘if; when; in order to' required a variety of morphemes,
+including tense/aspect morphology and words with temporal meaning, in order
+to code temporal relations. With such morphology at its disposal, we saw that
+the mali   'when'   clause type, especially, could code several different kinds
+ of temporal relations--precedence, subsequence, terminal boundaries, initial
+boundaries, and simultaneous temporal boundaries. Each of these different
+varieties of temporal relations were characterized by different tense and
+aspectual morphemes, as well as different temporally-related lexical items.
+Relative tense played a key role in coding precedence ('before') and
+subsequence ('‘after') temporal relations. An adverbial clause that coded
+precedence named an event that was future relative to the event named by
+the main clause, and thus tended to have the future tense prefix sa?-. On the
+other hand, an adverbial clause that coded subsequence denoted an event that
+was past relative to the event denoted by the main clause, and thus tended to
+have the past tense suffix -waS. We saw a preponderance of imperfective
+aspectual morphology in the coding of simultaneous temporal relations, but
+again usually only in those adverbial clauses that lacked semantically specific
+conjunctions, such as maii 'when' clauses. Such adverbial clauses, as well as
+their main clauses, often had reduplication in the verb, and/or affixes that
+denoted duration, iteration, and habitual past. In some instances, certain
+temporally-oriented lexical items occurred either in the adverbial clause or in
+its main clause in lieu of any tense and aspectual morphology. Such lexical
+items rendered a temporal interpretation to the adverbial clause. In other
+instances, an adverbial clause was able to code a temporal relation without
+any attendant temporally-oriented words and morphosyntax. In such instances
+the pragmatic context of the adverbial clause would not allow any other
+interpretation.
+         Regarding the adverbial clauses that coded conditional relations, one
+tended to find one or more modal morphemes in the corresponding main
+clauses. These were irrealis operators (using the terminology of Givén 1990)
+which served to point to the hypothetical underpinnings of the conditional
+relation. These included modal verbs like uniyiw 'to be necessary, to have                                     346
+to, should' or alaqway           'can, be able, be possible ', and the modal particle
+may    ‘would;      should; might'. One would also find, quite often, the future
+tense prefix sa?-. Other modal operators in the consequent (main) clause
+ingphidead   uhat   GivdAn   (1000)   refara   tna   ac   tmoarlarse   nf   cartaint:!t   such     ac   tha
+UU           Whe    SAV      La  7    Aw       WU    aS    as          Ua   VE LaiLy         Wil   CA   LLatparticle pA 'must be, must have, probably, likely', kalpas 'certainly', and
+ 2inu 'true; surely'. Hortatory particles are included here, such as kume ‘let
+it not be (that)...'. Sometimes, also, one would find the main clause having an
+imperative verb, or the main clause itself would be a question. Finally, main
+clauses in conditional relations were sometimes also found to have a special
+particle, kimini 'then, in that case', which only occurs in conditional
+relations.
+         Tense and aspectual morphology was found to be nearly non-existent
+in those adverbial clauses that code purpose clauses, with one great exception:
+if a purpose clause had any tense/aspect marking, it would have the future
+tense prefix sa?-. In fact, for one clause type that codes purposive relations
+100% of the time, the Gukanu               'so that, in order to' clause type, the only
+tense or aspectual morpheme that appears is the future tense prefix sa?-.
+Also, 100% of the purpose clause tokens within the na ‘if; when; in order to'
+and fehu       'because, since, from; in order to'                 adverbial clause types had
+future tense marking as well. On the other hand, none of the purpose clauses
+were found to have past tense marking. Such patterning makes sense given the
+crosslinguistic generalization about purposive relations in Thompson and
+Longacre 1985: a purpose clause denotes an event that is unrealized at the
+time of the event denoted by the main clause. Hence, events in purpose
+clauses are typically future relative to the time of the events coded by the
+corresponding main clauses. Future-tense morphology or some other kind of
+irrealis marking is thus not unexpected in purpose clauses.
+         Unlike Barbareno adverbial clauses that code purposive relations,
+Barbareno adverbial clauses that code reason relations were rarely found to
+have future tense marking. It was not unusual, however, to find past tense
+marking in reason clauses. The difference between purpose and reason clauses
+with regard to tense patterning is again predicted in Thompson and Longacre
+1985: the motivating event coded by a purpose clause has an unrealized status
+relative to the main clause event, but the motivating event coded by a reason
+clause may indeed already be realized by the time the main clause event
+occurs. The event coded by a reason clause, then, can be past relative to the
+time of the event coded by its main clause. However, an event coded by a
+purpose clause is never past relative to its main clause event; rather, it occurs
+in the future relative to the time of its main clause event. Barbareho Chumash                                                 347
+grammar codes this semantic distinction in that reason clauses may have the
+past tense suffix -waS but rarely the future tense prefix sa?-, while purpose
+clauses may have the future tense prefix sa?- but never the past tense suffix
+-waS.x
+oe   De
+              Table
+               a hI
+                      40
+                      Ani
+                          summarizes
+                         ee mm     f—7
+                                         the distributionof future-tense and past-tense
+marking in purpose and reason clauses.","[367, 368, 369, 370]"
+"(37) Songs & Responses; entire Text 147 (59.0409-0412)a.         ma | ji    husKilinan           a     ilmaxala- “mis     _,   i24-kim       i7i tit           when    RM=3-HAB          -go       DP=ART=fiesta             DP=there      DP=here
+           ‘At the fiesta here
+           <When the fiesta used to go on around here,>           isiyKili7expéts,
+           ?i =s-iy-qili-?     ~expeé
+           TOP=3-~PL-HAB —EP.?~-sing
+           there was singing back and forth
+           <they used to sing,>           ho?leyexsy                 o?lahanaphits,
+           ho?=1   =?7ivihi}Y         ho?=1   =?an+?anapnié-?
+           DIS=ART=men                DIS=ART=R          +Cahuilla-EM
+           the Cahuilla men
+           <the Cahuilla men;>           ?isiy-itimésuswin
+           ?i =s-iy-itimes -us    -wun
+           TOP=3-PL-—respond-APPL-PL.OBJ           iholitiziyalntha                                  léhéhek
+           hi=ho?=l1       =?7iti=iy-?alnuha                 1    =?eheneq-?
+           DP=DIS=ART=here=PL-come.from                      ART=women      ~-EM           <(and) the women from here responded to them,>           isivexpenus""a?s.
+           hi=s-iy-? -expen-us   -aS -?
+           DP=3—PL-NM~sing -APPL—-RES-NM
+           to their being sung to.           ho?siyniw niwis
+           ho?=s-iy-niw-niwi3-?
+           DIS=3-PL-R        -song         -EM
+       Their songs           iguS?7itap3$wa3                     hiliyalSixint$s-yits                 ilakakliw.
+           hi(?)=SuS?itap¥—-waS                hi=l =iy-rvalSixinéivité            hi=l   =?7agaqliw-?
+           DP        -=be.mixed   -PST         DP=ART=PL—-be.dirty                 DP=ART=words    -EM
+       were mixed with dirty words.
+       <mixed with dirty words. >                                                       506
+       Zut6-witS      isiysaKnip           wa-yi      o7léhéhek
+       Sutowié        hi=s-iy-saqnip       wayi       ho?=l   =?eheneq-?
+       quick          DP=3-PL-answer       also       DIS=ART=women    -EM
+       The young ladies of here sang back to them promptly.
+       <The women answered anickly, too.>       s?ipiluwisa,
+       8-?ip=hi=luwisa
+       3-say=DP=Luisa
+       Luisa said       himali      &Stikd-yus        ihe?iniwniwis:
+       hi=mali     s-tikuy-us        hi=he?=1    =niw-niwiS-?
+       DP=when     3-talk -APPL      DP=PRX=ART=R    -song -EM
+       when she was talking about this singing:
+       <when she talked about these songs:>       Pa:   met Sust3P6-wad.
+       ?a-   heSu=s-S""o0     -wad
+       Oh    EM    =3-good-PsT
+       Oh que suave it must have been
+       <""Oh how wonderful it was."">       sKilit3ss        kiyantik         um6é-1loK,
+       s-qili-t""o       k-iy~antik       hu=molog
+       3-HAB -good      1-PL-spirit      RM=long.ago
+       Our spirit was always glad in ancient times,       samesaknikul3,
+       s-am -e-saqnikul’
+       3~IDF-—-N-be.sad
+       not sad       kahetS     ike-pa,
+       kaheé      hi=kipi
+       like        DP=now
+       as it is now. '
+Since the subject of the verb s-?ip 'she said' in line h. has not been
+previously mentioned in this text, it has to be introduced. Otherwise the
+listener would not know who the third pronominal prefix s~ was referring to.
+The subject is thus explicitly mentioned in the form of the NP hi=luwisa
+ 'Luisa'. Since this referent is now activated in the consciousness of the
+listener, the temporal clause need only refer to it with the third person subject
+prefix s- in s-tikuy-us '(lit.) she talked about it'. Since the temporal
+clause only refers to this referent with a pronominal affix, the postposition of
+the clause makes it possible for the listener to know immediately who is being
+                                           507
+referred to (in the temporal clause). If the temporal clause were preposed,
+however, it would not be immediately clear to the listener who was being
+referred to in the situation ‘when she talked about these songs'.
+        For the same reason, ie. ease of processing
+                                             Tere
+                                               Nh   and information flow, one
+would not expect a scenario such as the hypothetical example below,(38) Hypothetical example based on (37) lines h. and i.a.     nali_   s-tikuy-us     hi=he?=1   =niw-niwiS-?       bhi=luwisa
+       when    3—talk -APPL   DP=PRX=ART=R   -song -EM      DP=Luisa
+       <When Luisa talked about these songs,>b.     ?i =s-?ip:
+       TOP=3-say
+       <she said:>
+In the above hypothetical example, both the full NPs hi=he?=1=niw-
+niwiS-2 ‘these songs' and hi=luwisa 'Luisa' are core arguments of the
+verb tikuy-us 'to talk about'. One of them ('Luisa') has not been
+mentioned previously and is therefore not already in the listener’s focus of
+consciousness. The other core argument (' these songs'), has been mentioned
+previously (line f. of (37)), but it has to be re-activated in the listener’s focus
+of consciouness because other referents have been mentioned in the
+meantime. Situations such as this, where a single utterance has two core
+arguments that require activation, create too much of a cognitive-processing
+burden for the listener. It is for this reason that, in spoken genres of discourse
+crosslinguistically, one rarely finds utterances with two core arguments coded
+as full NPs (Du Bois 1987, Mithun 1987, Doris Payne 1987, 1990, Durant and
+Ochs 1990). The generalization has likewise been proven true for Barbareno
+Chumash (Ono 1996; see also Ono 1996 for a clear discussion of argument
+structure, constituent order and information flow in Barbareno Chumash
+discourse). The hypothetical scenario in (38), then, would not be a likely
+option.","[528, 529, 530]"
+"Greenberg, Joseph. 1963. Some universals of grammar with particular
+  reference to the order of meaningful elements. Universals of language, ed.
+  by Joseph Greenberg, 73-113. MIT Press.",[585]
+"5. There is another possible interpretation for the constituent order in the
+clause in (245). Harrington’s free translation for this clause is ‘she had her
+face covered with a cloth'. Based on Harrington’s translation, Ono (1996:62)
+analyzed the NP ‘a white cloth' as an oblique NP with a semantic role as
+instrument.",[135]
+"(26) Tularehos; entire Text 50 (59.0656-0657)a.       he?liyalapmili°®-mo**1
+         he?=l   =iy-?alapmilimol
+         PRX=ART=PL~Tularefio
+         ‘The Tularénosb.       ?isiyKilihi°’k                            hilatiswitsi°?           hiho?siyya’?,
+         ?i     =s-iy-qili-hik                     hi=l   =?ati8wié""i?38    hi=ho?=s-iy-ya?
+         TOP=3-PL-HAB            ~apply            DP=ART=poison            DP=DIS=3~+PL-~arrow
+         make arrow-poison
+         <they used to apply poison to their arrows,>c.       siyku°’y             iho?smolé:lo**n              hilkopko’p,
+         s-iy-kuy             hi=ho?=s-mololon             hi=l   =kopkop
+         3-PL-take            DP=DIS=3-saliva              DP=ART=frog.sp
+         <they take the saliva of a frog,>
+                                                          542
+d.     hima-li>~      sxuwi*i.
+       hi=mali        _s-xuwil         -?
+       DP=when        3-be.angry-EM
+       when angry
+       <iffwhen it is really angry.>e.     siyuS?i:ta~~p         hiltSoytSoyni*:?            hilkihkiki*:?
+       s-iy-uS?itap          hi=l   <=tcoy-toyni-?       hi=l  =kih-kiki     -?
+       3-PL-mix              DP=ART=R       -other-EM    DP=ART=R   -thing-EM
+       They mix it with other thingsf.     hikasiyhike~~n          hisiymo’-nu*~s            hiho?sti°k
+       hika=s-iy-hiken         hi=s-iy-monus             hi=ho?=s-tik
+       SEQ    =3-PL-—use       DP=3-PL-spread.on         DP=DIS=3-tip       iho7iya?
+       hi=ho?=1       =ya?
+        P=DIS=ART=arrow       and use it for poisoning arrows. '
+       <and use it to spread on the tip of the arrow.>If the adverbial clause in d. were preposed, one would not know who or what
+was being referred to as the subject of xuwil-2 'be really angry' until the
+introduction of the full NP 'a frog' in the main clause. The attested order in
+the text allows the listener to understand immediately who or what is really
+angry, and thus it makes for quicker, unambiguous processing of the
+information in the adverbial clause.
+        A similar situation is found in the adverbial construction in (27) (lines
+c. and d.). The main clause introduces a full object NP, 'the mother-to-be',
+which is then coded as a third person subject in the adverbial clause, 'if/when
+she gets nauseated '.","[564, 565]"
+"CONJUNCTION                                                            TOTALSéu               ‘so that, in order to'                                 53       (58%)
+éukanu           'so that, in order to'                                 27       (30%)
+na               ‘if; when; in order to'                                  8       (9%)
+ku               ""jest; so that...not'                                    2       (2%)
+fhehu            'because, since, from; in order to'                      1       (1%)Total # of purpose clause tokens                                         91     (100%)    Table 34. Distribution of adverbial clause types that code purposive
+              relations                                               341
+       Two adverbial clause types were found to code reason relations. The
+percentage of reason relations coded by each of these clause types is given in
+Table 35.","[363, 364]"
+"(5) The First Revolt; Text 178 lines 31-34 (59.0052)a.     ho?s ,iyis ,wdt                h_iho?lin-?ihyu*         ?
+       ho?=s-iy-is-wot                hi=ho?=l         =?in-?inyu      -?
+       DIS=3-PL-AP-leader DP=DIS=ART=R                      -Indian~EM
+       <The leader of the Indians,>b.     ?i-s ,?7ipuswin:
+       ?i    =s-?ipus-wun
+       TOP=3-tell           -PL.OBJ
+       <he told them:>c.     “eiyushal        h                   he?lpa:1li*>.
+       ?   -iy-uS""ol       -?               he?=l=pali
+       EP.?+PL-leave.alone-EM               PRX=ART=padre
+       <""(You all) leave the padre alone.>d.     kayke*        alwot               wa:yi>~    ka-hne>*t3       h_ ind?""
+       Kayké         ?al-wot             wayi       kaheé            hi=n6?
+       because       STV-captain         too        like             DP=1
+       <For he is also a leader like me."">
+       For three other clause types that are postposed or almost always
+postposed, Gu        ‘so that, in order to', Gukanu                'so that, in order to’   and
+kaheé 'like, as if’, a comma tends to follow the preceding main clause in
+three kinds of circumstances: (i) when the main clause is long, having one or
+more full NP arguments or adjuncts following the verb; (ii) when there is                                                 385
+another clause or prosodically-separate NP intervening between the main
+clause and the adverbial clause; or, (iii) when the adverbial clause conjunction
+itself introduces a lengthy or discontinuous sequence.
+        An example of the situation in (G) is illustrated in (6). In this example
+there are two Gu 'so that, in order to' clauses. The first one is in line d. and
+is not preceded by a comma. Its preceding main clause in line c. is short, with
+only a single verb. The second éu clause appears in line g. A comma
+intervenes between it and its preceding main clause, which has three full NPs.","[407, 408]"
+"         Dependent marking with hi= almost never occurs on adverbial clause
+types that are always or almost always postposed. For example, it is never
+found procliticized to the following adverbial clause conjunctions: 2akay hu
+ ‘until’, 2iyeme ‘though; even if', Gu ‘so that, in order to', Gukanu 'so
+that, in order to' or Mehu           ' because, since, from; in order to'. One notable
+exception is the kaneé 'like, as, as if' clause type. Although 13 out of 15
+kaheé clause tokens are postposed, two of the postposed tokens have
+dependent marking with hi=. These are given below in (13) and (14).",[393]
+"
+                                      289
+                                       Chapter 13                            ku ‘lest; so that...not' Clauses         Thompson and Longacre (1985:188) note that some languages have a
+special conjunction for negative purpose clauses. An example in English is the
+negative purpose conjunction ‘lest '. In Barbarenho Chumash, that conjunction
+is ku 'lest, so that..not'. The Ku adverbial clause type is rare, with only two
+tokens in the corpus. Yet, it is worth a brief discussion because it shares some
+semantic space with negated Gu 'so that, in order to' purposive clauses
+(chapter 11) as well as with haku '‘if' conditional clauses (chapter 7).
+         The ku conjunction probably has a historical connection with the
+conjunction haku 'if', found in conditional and semantically neutral relations.
+Adverbial clauses with the conjunctions ku and haku are alike in that both
+clause types code unreal, hypothetical situations. But whereas haku clauses
+may code a condition, ku clauses code the purpose of the main clause
+subject’s action. Specifically with ku clauses, the purpose of the main clause
+subject’s action is to avoid an undesirable situation.
+         It is not entirely clear what the difference in meaning would be for a
+purpose clause that has the ku conjunction versus a clause that has the Gu
+ 'so that, in order to' conjunction and the negative prefix e-. In line c. of the
+first example below, Mary Yee offered two ways of saying a purposive clause
+in which these two conjunctions were contrasted. Harrington noted that these
+minimal pairs were ‘carefully contrasted' (59.0586), but he did not state
+whether Yee preferred one over the other.","[311, 312]"
+"(19) Eating; Text 234 lines 1-4 (59.0234)a.     saxipa-ka        hin6éh6é?   saxti?           hiluwG-fu>>           hilts9q-ma*~3,
+       saxipaka         hi=noho?    s-axti?          hi=l       =?uwufhu   hi=1
+       once             DP=ve       3-get.full       DP=ART=food           DP=ART=Chumash
+       ‘Once on a time a t3""G-ma~~8          got full of food
+       <It was once that a Chumash person got very full of food,>       hikasaktaSt-mu~~8
+       hika=s-aqta3Sumu3
+       SEQ    =3-practice.witchcraft
+       and thereupon: s“aKtaSd-mu~~t3,
+       <and so he practiced witchcraft,>       hike**n     iho?s?atiswin,
+       hiken       hi=ho?=s~?atiSwin
+       use         DP=DIS=3-spirit.helper
+       he used his 7atiSwin,
+       <using his spirit helper,>       kanu?e-sapé-ko>~$,
+       kanu=?       -e~-sa?-pokos’
+       PURP=EP. ?-N-FUT—be. bloated
+       <so as not to be bloated,>       tSus%a?7an¥i-hi*-y
+       éu__=s-sa?-an¥in-?iy
+       PURP=3-FUT-eat   -again
+      so he’d eat again’
+                                              253
+         Not all main clauses that have negation or some other irrealis operator,
+such as an imperative mode in the verb or the future tense prefix sa?~, have
+a Su adverbial clause that has the future tense prefix.* With only 5 of the 53
+tokens of Gu clauses showing the future tense prefix, it is difficult to know
+what accounts for its presence. As we will see in chapter 12, all of the Gukanu
+ ‘so that, in order to' clauses have the future tense prefix. The difference in
+frequency of the future tense prefix is thus one of the major morphosyntactic
+differences between these two purposive adverbial clause types.
+       Of the 53 u clauses, 12 or 23% have the negative prefix e-. They
+always translate with the phrase 'so that... not..'. These adverbial clauses
+tend to be associated with main clauses that code deontic necessity. That is,
+the participant coded as the main clause subject is obliged to do something in
+order to avoid an unpleasant result. In most cases, the main clause subject is
+second person singular, indexed on the verb with the second person prefix p-.
+The main clause will also typically have the modal verb uniyiw 'to be
+necessary, to have to, should' as well as the future tense prefix sa?-.
+Illustrations of this pattern are given in (20) through (22).
+        The main clause in (20) line c. states what one ought to do if beans fell
+on the floor. The Gu purpose clause in line d. has the negative prefix e-.","[275, 276]"
+"
+                                       343
+                            PREPOSED          PostPoseD           MEDIAL       TOTALS?akay      hu                   1    (7%}     12      (932)                    14     41002)
+‘until’?akimpi                         4 (50%)         4     (50%)                         8 (100%)
+‘during; while; when 'mali                      113       (74%)     39      (26%)                   152     (100%)
+‘when 'haku                       15       (65%)       8     (35%)                    23     (100%)
+‘if!
+na                        160       (82.5%)   33      (17%)       1 (.5%)     194     (100%)
+‘if; when; in order to’wa                              9 (53%)         8     (47%)                    17 (100%)
+‘if; when‘?iyehe                      3       (27%)       7     (64%)       1   (9%)     11     (100%)
+‘though; even if’éu                                            53     (100%)                    53 (100%)
+‘in order to’éukanu                                        27     (100%)                    27     (100%)
+‘in order to'ku                                              2    (100%)                     2     (100%)
+ ‘lest, so that...not’kayké                                         41     (100%)                    41     (100%)
+‘because’fhehu                      3 (30%)              7     (70%)                    10     (100%)
+ ‘because, since, from; in order to'kaheé&                      2       (13%)     13.     (87%)                    15     (100%)
+ ‘like, as, as if’TOTALS                    310       (553)     255     (45%)   2       (<18)   567     (100%)
+             Table 38. Distribution of adverbial clause types by position
+                                                    344
+        Table 39 gives a breakdown of the number and percentage of adverbial
+clauses by position and semantic relation. All tokens are from the 13 adverbial
+clause types analyzed in chapters 4 through 16.","[365, 366, 367]"
+"23.2.1.2 Referent tracking in the adverbial clause
+        There are two tokens in which the main clause introduces a New
+referent that continues to be tracked in the neutral adverbial clause as Given.
+As we saw with final temporal clauses in chapter 22, the preferred order in
+such circumstances is for the adverbial clause to be postposed, for reasons of
+information flow and ease of cognitive processing.
+        In (26) and (27), the associated main clause introduces a full NP that
+is coded as a third person subject in the adverbial clause with the third
+pronominal prefix, s-. In (26), the main clause (line c.) introduces the
+possessor NP 'a frog', whose referent is then coded as the subject in the
+adverbial clause, ‘if/when it is angry’.",[564]
+"1.4 Previous analyses of Barbareno Chumash*
+        A truly thorough description of the Barbareho Chumash language has
+yet to appear, but one may find a clear and concise orientation to Barbareno                                      4
+discourse and grammar in Ono’s 1996 dissertation. Sketches and analyses of
+the Barbareno language are also found in Beeler 1970a and 1976, and in the
+extensive, detailed footnotes given in Beeler and Whistler 1980. Detailed
+discussions on dependent marking, relative clauses and related structures are
+given in Wash 1999a and 1999b. There are also discussions and illustrative
+examples touching upon many aspects of Barbareho grammar in Harrington’s
+notes, especially in Reel 3, Volume 3, of the Kraus Microfilm Reel Edition
+(Mills and Brickfield 1986). In addition to these sources there are two articles
+on the placement and functions of glottalization (Mithun et al. 1994, Ono et
+al. 1994). Two studies have been published on sibilant harmony in Barbareho
+(Beeler 1970b, Mithun 1997). Finally, there is a phonological study on
+reduplication, which is a prominent phonological and grammatical process in
+all Chumash languages (Wash 1995).
+        No comprehensive dictionary of the Barbareno language has yet been
+published. However, Beeler (1979) published a list of approximately 1,000
+words, Whistler (1980) followed up on this work with a working dictionary
+containing about 2,000 words. There is also a helpful glossary of terms from
+several different Chumash languages. in volume five of the Hudson and
+Blackburn (1986) series.","[26, 27]"
+"
+          Person      Singular       Dual          Plural          Indefinite          1           k-             k-is-          k-iy-
+          2           p-             p-is-         p-iy-
+          3           s~             s~-is-        s~iy-           s-am-
+                     Table 5. Subject pronominal prefixes        Pronominal suffixes index the object of the verb if the object is first
+person, second person, or non-singular third person. The object suffixes do not
+distinguish dual and plural. Singular third person objects are not indexed on
+the verb.! Table 6 lists the object suffixes.",[64]
+"(5) Land and Sea; Text 160 line 17 (59.0295)a.     kiyaKmil        h_ihe?sx4-hi>*n
+       k-iy-agqmil     hi=he?=sxahin
+        1-PL-—drink    DP=PRX=ocean
+        ‘We drink the oceanb.     tSukanukiys ,a?nupa$pa?3                      ke    kiynupitsé?.
+       tukanu=k-iy-sa?-nu -pa$-paS    -?             ke    k-iy-nu ~pite?
+       PURP  =1-—PL-FUT-COM-R  ~vomit-NM             and   1-PL-COM-have.diarrhea
+       to vomit with and to shit watery with.’
+       <in order to vomit from it and get diarrhea from it.>The main clause subject 'we', in line a., can willfully drink ocean water, but
+once they do so, they presumably cannot control the vomiting and diarrhea
+that they inevitably undergo in line b. Because the main clause subject lacks
+control, the person marking in the adverbial clause is not suppressed. Hence
+the adverbial clause retains same-subject person marking with k-iy- 'we'.
+        The example in (6) is the only other same-subject construction in which
+the subject pronoun is retained in the adverbial clause. In the excerpt below,
+                                            262
+the main clause subject ingests some datura (also known as jimson weed) in
+order to have a particular kind of vision, a vision in which he or she may
+receive an 2atiSwin         (spirit helper), a special talent, or some other
+advantage. The main clause subiect has no control over what he or she will
+experience or receive in the adverbial clause event. According to Chumash
+tradition, it is the datura (momoy) that determines what the person
+experiences and receives during the vision. In the example below, the main
+clause subject is an indefinite third person 'one/they', coded with the third
+person subject pronoun s- and the indefinite prefix am- in line a. This same
+pronoun likewise occurs in the adverbial clause in line b.","[284, 285]"
