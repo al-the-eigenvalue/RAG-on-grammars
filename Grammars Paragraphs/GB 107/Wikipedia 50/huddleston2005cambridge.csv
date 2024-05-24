@@ -1,0 +1,1401 @@
+Paragraph,Page number
+"9Negation
+Geoffrey K. Pullum
+Rodney Huddleston1 Introduction 786
+1.1 Tests for clause polarity 786
+1.2 An overview of negation types 787
+1.3 Scope and focus of negation 790
+1.3.1 The concept ‘having scope over’ 790
+1.3.2 Relative scope: wide scope negation and narrow scope negation 792
+1.3.3 Focus 7962 Verbal negation 799
+2.1 Primary verbal negation 799
+2.2 Imperative negation 802
+2.3 Secondary verbal negation 803
+2.3.1 Formal marking of secondary negation 803
+2.3.2 Secondary negation with not following an auxiliary verb 8033 Non-verbal negation 806
+3.1 Not as a marker of non-verbal negation 807
+3.2 The synthetic absolute negators 812
+3.2.1 Clausal negation 812
+3.2.2 Subclausal negation 8153.3 The approximate negators 815
+3.4 Affixal negation in relation to verbal negation 821
+4 Polarity-sensitive items 822
+4.1 Negatively-oriented polarity-sensitive items (NPIs) 823
+4.1.1 NPIs vs negative idioms 824
+4.1.2 Variation in the strength of the negative orientation 8254.2 Positively-oriented polarity-sensitive items (PPIs) 829
+4.3 Correspondences between PPIs, NPIs, and negators 831
+4.4 Non-affirmative contexts 834
+5 Increased specificity of negation (I don’t want to hear about it) 838
+6 Multiple negation 843
+6.1 Multiple semantic negation within a single clause 844
+6.2 Negative concord and pleonastic negation 845
+7 Positive and negative polarity in responses and anaphora 847
+7.1 Answers to polar questions and comparable responses 847
+7.2 Anaphoric so and not 8497857861 Introduction
+A pair of clauses such as It is raining and It isn’t raining are said to differ in polarity. The
+first is a positive clause or a clause with positive polarity, while the second is a negative
+clause or a clause with negative polarity. For the most part positive represents the default
+polarity, in the sense that positive constructions are structurally and semantically simpler
+than negative ones. To a very large extent, therefore, a description of polarity is a matter
+of describing the special properties of negatives – and it is for this reason that we have
+called this chapter ‘Negation’ rather than ‘Polarity’.","[804, 805, 806]"
+"Each clause contains just one semantic negation and in the standard versions it is marked by
+a single negator. In the non-standard versions, however, it is marked by verbal negation and
+also on all the existentially quantified elements in the clause. We accordingly have negative
+concord between the verb and these elements.
+Non-standard clauses with negative concord are characteristically homonymous with
+standard dialect clauses containing multiple semantic negation, such as [2v] and [3i] above.
+Standard He didn’t say nothing means “He did say something (it’s not true that he said
+nothing”). The bracketed clause of [6iia] could likewise be used in the standard dialect
+with the meaning “not being in a state of refusing to trust anyone”. In principle [6iiia]
+could be used in Standard English to express a meaning containing four semantic negations,§ 7 Positive and negative polarity in responses and anaphorathough in practice of course it would be far too complex to process. There are, however, some
+constructions – such as imperative Don’t nobody move! – that cannot be used in the standard
+dialect to express multiple semantic negation.25
+There is an extremely widespread tendency among Standard English speakers to regard
+dialects with negative concord as ‘illogical’ and ‘inferior’. It is argued that by a rule of logic
+two negatives cancel each other out to make a positive. Thus just as It isn’t the case that she
+didn’t move (or She didn’t not move) is equivalent to She moved, it is argued that He didn’t say
+nothing is a double negative that can only mean “He said something” and hence should not
+be used to express the opposite of that meaning. But such an argument is completely invalid.
+The rule of logic that two negatives are equivalent to a positive applies to logical forms, not
+to grammatical forms. It applies to semantic negation, not to the grammatical markers of
+negation. And as far as the [a] examples of [6] are concerned, there is only a single semantic
+negation, so the rule of logic doesn’t apply: it is completely irrelevant.26 The pattern in the
+non-standard dialect is similar to the one found in the standard dialect of Italian, French,
+Spanish, Polish, Russian, and many other languages. For example, Italian non means “not”
+and nessuno means “nobody”, but the meaning of Non ti credo nessuno is “Nobody believes
+you”, not “Nobody doesn’t believe you”. Here again, then, we have two negative words marking
+a single semantic negation, just as we do in the non-standard English dialects. There is no
+more reason to condemn the latter as illogical than there is to condemn Italian, French, and
+so on. The difference between the [a] and [b] versions of [6] is a matter of grammar, not
+logic, and neither set can be regarded as intrinsically superior to the other.
+Despite its non-standard character every experienced user of English needs to be passively
+acquainted with the negative concord construction in order to be able to understand English
+in such ordinary contexts as film soundtracks, TV dramas, popular songs, and many everyday
+conversations. Those who claim that negative concord is evidence of ignorance and illiteracy
+are wrong; it is a regular and widespread feature of non-standard dialects of English across
+the world. Someone who thinks the song title I can’t get no satisfaction means “It is impossible
+for me to lack satisfaction” does not know English.277 Positive and negative polarity in responses and anaphora
+7.1 Answers to polar questions and comparable responses
+ Yes and no answersYes and no serve as markers of positive and negative polarity in answers to questions. They may stand alone, or combine with a clause that expresses the answer more
+The same applies to the construction without + no (corresponding to standard without + any), as in !Give
+me a large cheeseburger without no onions. And also to the construction with negative concord between the
+verb and an approximate negator of degree, as in !I can’t hardly see (corresponding to standard I can hardly
+see).
+26
+Given that the term ‘double negative’ is strongly associated with the semantic rule whereby two negatives
+do cancel each other out, it is an unsatisfactory term for the negative concord construction. It is in any case
+inappropriate because there is no limitation to two, as we have seen.
+27
+Negative concord was common in Old English and became virtually obligatory in the Middle English period.
+Its decline in the standard written language in the early Modern period may have had much to do with a
+nascent prescriptive tradition and its conscious comparison of English with Latin. In the nineteenth century
+negative concord re-emerged as a literary mark of non-standard usage, the gap in the historical record almost
+certainly concealing a continuous but largely unrecorded tradition in many spoken dialects.
+25847848Chapter 9 Negationexplicitly:
+[7]i a. A: Is this car yours?
+b. A: Isn’t this car yours?
+ii a. A: He has gone, hasn’t he?
+b. A: He hasn’t gone, has he?","[866, 867, 868]"
+"(We set aside the special case where [iib] is used to deny or contradict a prior assertion
+that he was feeling somewhat sad.) We say, then, that any longer is negatively oriented,
+and likewise (in certain senses at least) any, anyone, ever, determinative either, yet, at
+all, etc. Similarly somewhat is positively oriented, and also some, someone, pretty (in the
+degree sense), already, still, and others.
+It is not, however, simply a matter of negative vs positive contexts: any longer, for
+example, is found in interrogatives (Will you be needing me any longer ?) and the complement of conditional if (If you stay any longer you will miss your bus). These clauses have
+it in common with negatives that they are not being used to make a positive assertion:
+we use the term non-affirmative to cover these (and certain other) clauses. Any longer
+thus occurs in non-affirmative contexts, and we can also say that any longer is a nonaffirmative item, using this as an alternative to negatively-oriented polarity-sensitive
+item.
+ The scope of negationOne important issue in the interpretation of negatives concerns the scope of negation:
+what part of the sentence the negation applies to. Compare, for example, the interpretation of:
+[4] i Not many members answered the question.
+[many inside scope of not]
+ii Many members did not answer the question.
+[many outside scope of not]
+These sentences clearly differ in truth conditions. Let us assume that there are a fairly large
+number of members – 1,000, say. Then consider the scenario in which 600 answered,
+and 400 didn’t answer. In this case, [ii] can reasonably be considered true, but [i] is
+manifestly false.
+The difference has to do with the relative scope of the negative and the quantification.
+In [4i] many is part of what is negated (a central part, in fact): “The number of members
+who answered was not large”. In [ii] many is not part of what is negated: “The number
+of members who didn’t answer was large”. We say, then, that in [i] many is inside the§ 10 Clause type and illocutionary forcescope of not, or the negation, or alternatively that the negative has scope over many.
+Conversely, in [ii] many is outside the scope of the negation or, alternatively, many has
+scope over the negation, since it applies to a set of people with a negative property.
+In [4] the relative scope of not and many is determined by the linear order. But things
+are not always as simple as this. Compare:
+[5]i You need not answer the questionnaire.
+ii You must not answer the questionnaire.
+iii I didn’t go to the party because I wanted to see Kim.[need inside scope of not]
+[must outside scope of not]
+[ambiguous]In [i] the negative has scope over need even though need comes first: “There isn’t any
+need for you to answer”; in [ii], by contrast, must has scope over the negative: “It is
+necessary that you not answer”. In abstraction from the intonation, [iii] is ambiguous as
+to scope. If the because adjunct is outside the scope of the negation, it gives the reason
+for my not going to the party: “The reason I didn’t go to the party was that I wanted
+to see Kim (who wasn’t going to be there)”. If the because adjunct is inside the scope of
+negation, the sentence says that it is not the case that I went to the party because I wanted
+to see Kim (who was going to be there): here there is an implicature that I went for some
+other reason.","[80, 81]"
+" Non-affirmative contextsThe reference to preferring negative contexts above is not incorrect, but it is only part of
+what needs to be said about the distribution of NPIs. The clauses in [1] are declarative
+main clauses. When we go beyond such data to consider interrogatives and certain types
+of subordinate clause we find that NPIs are not restricted to negatives:
+[3]i Do you need me any longer?
+ii If [you play any longer], you’ll get too tired.[interrogative]
+[conditional]In [i] any longer occurs in an interrogative clause, while in [ii] it occurs in a subordinate
+clause functioning as protasis in a conditional construction. Although these clauses are
+positive, they have it in common with [1ia] that they are not used to assert a positive
+proposition: the proposition is questioned or merely conditionally entertained. This
+larger class of contexts that admit NPIs we call non-affirmative contexts – and those
+that exclude them, by contrast, are affirmative contexts.
+While NPIs are restricted to non-affirmative contexts, PPIs are not restricted to affirmative contexts. Already, for example, is just as acceptable as any longer in interrogative
+and conditional constructions:
+[4] i Have they already left?
+[interrogative]
+ii If [he has already finished his work], we can leave immediately.
+[conditional]
+Thus NPIs and PPIs do not occur in mutually exclusive sets of environments. They are
+mutually exclusive in declarative main clauses, but not always elsewhere.17
+17NPIs are often referred to as ‘negative polarity items’. We avoid that term because it is open to misinterpretation. NPIs are not themselves negative items: the NPI any, for example, is to be distinguished from
+the negative word no. Nor, as we have just emphasised, are NPIs restricted to negative contexts. Alternative
+terms found in the literature for our ‘affirmative’ and ‘non-affirmative’ are ‘assertive’ and ‘non-assertive’.",[842]
+"Much is thus certainly an NPI (and it is therefore on the list in [5]), despite the fact
+that looking at a random selection of occurrences of much would make it easy to think
+that one had found counterevidence to that statement. Many occurrences of much are,
+indeed, in affirmative environments. But nonetheless, if we focus on (say) the use of
+much as a post-verbal adjunct when occurring without its own premodifying adverb, it
+is clearly an NPI, as the sharp contrast between [12ia] and [b] shows. Instead of [12ib]
+we would have, in informal style, I enjoy sailing a lot / a great deal. The informal way to
+express the positive counterpart of the claim in [12iia] would be not [12iib] but something
+like We have plenty of time. And to express the positive counterpart of [12iiia] one would
+use something like Kim is quite a dancer.
+The durational adverb long – which, like much, expresses multal quantification –
+exhibits similar behaviour. We have She hasn’t known him long but not ∗She has known
+him long (cf. She has known him a long time); but long can occur pre-verbally in (somewhat
+formal) positive clauses: I have long thought that this should be changed.
+Multal many also shows some signs of negative orientation, though to a lesser
+extent. The sentences Many were lost and We saw many flowers, with no negation, are
+very slightly literary, whereas Not many were lost and We didn’t see many flowers, with
+negation, are as common in casual conversation as in writing. But again, an example
+like ?I’m not hungry because I’ve eaten many biscuits sounds completely unnatural,
+with a lot of biscuits very strongly preferred in informal style.
+ Occurrence in contexts that are non-affirmative but positiveNegatives constitute the most central type of non-affirmative context, but we have noted
+that NPIs can occur in certain types of positive clause, such as interrogatives – this is
+precisely why we talk in terms of non-affirmative contexts rather than simply negative
+ones. These positive non-affirmative contexts all have various semantic or pragmatic
+links to negatives. There are, however, differences among the NPIs with respect to how827828Chapter 9 Negationstrong or close these links need to be. Such differences can be illustrated by considering
+the non-affirmative context provided by closed interrogatives.
+NPIs in closed interrogatives
+Other things being equal, questions expressed by positive closed interrogatives are neutral
+as opposed to biased (cf. Ch. 10, §4.7). That is, they do not indicate any predisposition
+on the part of the questioner to think that one answer is more likely than the other. Now
+the inclusion of certain NPIs in the question has no effect on this neutrality, but with
+others bias towards a negative answer is introduced. Compare:
+[13] i a. Did they have a dog?
+ii a. Has she been to Paris?
+iii a. Did they help him?b. Did they have any money?
+b. Has she ever been to Paris?
+b. Did they lift a finger to help him?","[847, 848]"
+"4.1 Negatively-oriented polarity-sensitive items (NPIs)
+The class of NPIs is quite large: it is not possible to give an exhaustive and definitive list.
+The most important ones, and a sample of the less important ones, are given in [5].
+[5]i The any class of items: anyn , anybodyn , any longer, any more (AmE anymore),
+anyonen , anythingn , anywheren
+ii Miscellaneous grammatical items (mostly functioning as adjuncts): at all,
+eithern , evern , longn , much, till/until, toon , what(so)evern , yetn
+iii The modal auxiliaries dare and need
+iv A few lexical verbs: bother (+ infinitival), budge, faze
+v A large and probably open array of idioms, including: can abide/bear/stand,
+can be bothered, could care less,18 cost a bean, do a (single) thing (about . . . ),
+drink/touch a drop, eat a bite/thing, give a damn/fig, have a clue, have a penny
+(to one’s name) (BrE), have a red cent (AmE), hear/say a word/sound, hold a
+candle to, in ages, in donkey’s years, lift a finger (to help), mind a bit, move a
+muscle, say a word, see a thing, see a (living) soul, so much as (+ verb), take a
+(blind) bit of notice, would hurt a flyWe prefer ‘affirmative’ as it suggests the two most important features: positive in contrast to negative (an
+affirmative answer is a positive one) and declarative in contrast to interrogative (to affirm is to state, not to
+ask). ‘Non-affirmative’ can also be applied to items, providing an alternative term for NPIs, one which we
+have used in other chapters: in the present context we prefer NPI because we are dealing with the contrast
+between the two types of polarity-sensitive item.
+18
+For many American speakers the expression I couldn’t care less has lost its negation and the expression is
+now I could care less, still with the idiomatic meaning “I do not care at all”. For these speakers, care less is no
+longer an NPI; could care less has become an idiom with a negative meaning (approximately the opposite of
+its literal meaning). This is not an uncommon development; it is seen again in the development from I don’t
+know beans about it “I don’t know anything about it” to I know beans about it with the same meaning.",[843]
+" Emphatic polarity to be distinguished from emphatic lexical contentThe construction illustrated in [21ib/iib] is to be distinguished from that where stress is
+used to emphasise the lexical content of the verb, not its polarity: He WROTE it, though
+he wouldn’t RECITE it. Compare:
+[22] i You DID promise – I heard you.
+ii You PROMISED – I heard you.[emphasis on positive polarity]
+[emphasis on lexical content]A likely context for [i] is where you have denied promising: the issue is whether or not you
+promised. A context for [ii] is where you have indicated that you won’t do something I
+want you to do: I’m reminding you that you promised in order to get you to do it after all,
+the important thing being that you committed yourself to doing it by making a promise.
+It is only when the stress emphasises the polarity that an auxiliary verb is required.
+ Emphatic positivesVery often an emphatic positive serves to contrast the positive with a corresponding
+negative proposition that has been expressed or implicated in the preceding discourse,
+and in this case it will often involve ellipsis: You don’t think I’m serious, but I AM! Other
+uses of the emphatic positive are illustrated in:
+[23] i Kim’s the one who DID make a donation.
+ii He didn’t win, but he DID come in the first half dozen.
+iii I DO think you could be more tolerant. I AM pleased you can join us.
+In [i] there is a contrast with an implicit negative, but not the negative of this clause
+itself: the contrast is with the people who didn’t make a donation. In [ii] the contrast is
+not with the negative of the proposition being asserted but with something stronger –
+winning. In other cases an emphatic positive may be used just to indicate the strength
+of one’s beliefs or feelings, as in [iii].
+ Emphatic polarity in negativesEmphatic negatives are seen in:
+[24] i He thinks they are cheating, but they are NOT / AREN’T.
+ii You’re wrong: I did NOT / DIDN’T move it.
+iii He never DID understand how she felt.
+Examples [i–ii] have primary verb negation, and hence require an auxiliary verb for this
+reason as well as because of the emphatic polarity. The stress falls on the negative element:
+the verb itself if it is a negative form or else the not. The negation in [iii] is non-verbal
+(marked by never): the unemphatic version is He never understood how she felt. Supportive
+do is therefore added to [iii] just to carry the stress that marks emphatic polarity.10
+10Auxiliary do was used more widely in earlier stages of the language, and in certain genres one comes across
+archaic uses that go beyond our do-support constructions – e.g. in legal language (The person before the court
+is charged that at Newborough, on or about the 14th day of June, 1997, he did murder one James Robinson).",[118]
+"In [ia] the negative has scope over all (“It is not the case that he had eaten all of the
+meat”). This is equivalent to [ib], where some has scope over the negation: “There was
+some of the meat that he hadn’t eaten”. Version [ib] is much less likely than [ia], though
+the construction is certainly admissible (cf. I didn’t agree with some of the things he said ).
+Construction [iia], with the meaning “all of the meat had the property that he hadn’t eaten359360Chapter 5 Nouns and noun phrasesit”, is somewhat marginal and contrived: He hadn’t eaten all of the meat would generally be
+interpreted with the negative having wide scope, as in [ia]. Much more likely than [iia],
+then, is a version where negation has scope over existential quantification. And this can
+take either of two forms, one with the negative existential quantifier none, and one with
+a negative having scope over any. In the context of a wide scope negative, any is normally
+used instead of some to express existential quantification; we will use the asterisk notation
+for ∗He hadn’t eaten [some of the meat], with the proviso that it could be used in the special
+context of denying a previous utterance of He had eaten some of the meat or the like.
+Any can also be used in interrogative contexts, as in Had he eaten any of the meat? Here
+Had he eaten some of the meat? is also possible, but it suggests the questioner is disposed
+to think the answer may well be positive, whereas any is neutral, giving no indication of
+the speaker’s attitude to the possible answers (see Ch. 10, §4.7.4). However, any cannot
+substitute for some in He had eaten some of the meat : in the sense we are concerned
+with here, any is restricted to non-affirmative contexts (negatives, interrogatives, and
+various others, as described in Ch. 9, §4.4). This gives us three expressions of existential
+quantification: basic some, non-affirmative any, and negative no.
+ Count NPsSo far we have used non-count NPs; count examples are as follows:
+[6]a. He had eaten [all of the pies].b. He had eaten [some of the pies].","[379, 380]"
+"In [a] must has scope over not (“it is required that they not read it”), whereas in [b] not has
+scope over need (“it is not necessary for them to read it”) – cf. Ch. 3, §9.3.1. Nevertheless,
+not belongs syntactically in the matrix clause in both cases. Note, for example, that they
+take positive tags (must they?, need they?) – and that the analytic negation alternates with
+synthetic mustn’t and needn’t.
+There are, however, three exceptions to the general rule, illustrated in:
+[14] i Jill’s instruction was [not to take on any extra staff – in any circumstances].
+ii You can [not answer their letters]: you’re not legally required to respond.
+iii You can’t [not go with them].
+Not after be in its specifying sense
+Example [14i] can be interpreted like [12ii] without the perfect tense feature: “Jill’s
+instruction was that they not take on extra staff ”. The reversed polarity tag in this
+case would be wasn’t it?, for the main clause is positive. The construction illustrates
+the specifying use of be with a clause in the complement position that happens to be
+subjectless and negative. In [14i] it is impossible to replace was not by wasn’t and preserve
+the sense.
+However, it is perfectly possible for the not to follow be in sentences of superficially
+similar form and belong to the copular clause (if the copula is in a primary form):
+compare the attested sentence The sole purpose of the criminal law is not to amuse
+Mr Mortimer, which we understand as denying that the purpose of the criminal law
+is to amuse Mr Mortimer, not as affirming the bizarre claim that its purpose is to avoid
+amusing him. The construction is therefore potentially ambiguous. We included the
+prosodically detached in any circumstances in [14i] because it strongly favours the secondary negation reading that we wish to illustrate.
+Can not and possibility of abstention
+The meaning of the first clause in [14ii] is “You are permitted not to answer their letters”,
+with can thus having scope over not. In this use, the not will characteristically be stressed
+and prosodically associated with answer rather than can by means of a very slight break
+separating it from the unstressed can. The fact that the modal has scope over not makes
+this semantically comparable to [13a], but syntactically it differs in that it has secondary
+negation rather than the primary negation of [13a]. This is evident from the fact that§ 2.3.2 Secondary negation with not and auxiliary verbthe reversed polarity tag for the can clause is can’t you? The meaning is quite different
+from that of You can’t/cannot answer their letters, which has primary negation in the can
+clause, and where the negative has scope over the modal (“It is not possible or permitted
+for you to answer their letters”).
+In [14ii], therefore – unlike [13a] – the syntax matches the semantics, with the not
+located in the subordinate, non-finite, clause. But this construction is fairly rare, and
+sounds somewhat contrived. It would not normally occur with modals other than can
+and may.
+Can’t not: secondary negation combined with primary negation
+In [14iii] (You can’t not go with them) the not follows a negative auxiliary: a verb cannot
+be negated twice, so the not can only belong in the non-finite clause. Note that the matrix
+clause is straightforwardly negative by virtue of the synthetic negation: the reversed
+polarity tag is can you?, just as it is for You can’t go with them. Syntactically, two negatives
+do not cancel each other out to make a positive: there are two negative elements in [14iii]
+but the main clause remains syntactically negative.
+In principle, this construction is possible with any auxiliary verb: I won’t not speak
+this time, I promise you. It can even be used, and has been attested, when the auxiliary
+is supportive do, to deny a negative assertion that has been made: I DIDN ’T not listen to
+you. Compare also imperative Don’t not go just because of me. These examples have one
+negative immediately within the scope of another, so that they cancel each other out
+semantically. I won’t not speak is truth-conditionally (but not rhetorically) equivalent
+to I will speak; I DIDN ’T not listen is similarly equivalent to I DID listen; Don’t not go is
+equivalent to Go. In most circumstances the simpler positive would be preferred, but
+special circumstances can make the use of mutually cancelling negatives preferable.8
+The can case in [14iii] differs from these in that the first negative has scope over can, so
+that You can’t not go with them is not equivalent to You can go with them; it is equivalent
+to You must go with them, but there is sufficient pragmatic difference between can’t not
+and must to motivate the use of both forms.
+(b) Not syntactically separated from an auxiliary
+Not can more readily mark secondary negation if it is adjacent to the secondary verbform but not to the auxiliary. There are three distinct ways in which such a separation
+of the auxiliary from the negator can come about.
+Infinitival to preceding not
+The subordinator to can separate an auxiliary from not. One very clear case concerns
+infinitival to in the specifying be construction. Compare:
+[15]
+8a. Their aim is not to change things.b Their aim is to not change things.","[824, 825]"
+"In Present-day English, however, this construction is very rare and formal (not comparable to the use of irrealis were in remote conditionals). It is virtually restricted to the
+verb be.
+ Polarity-sensitive itemsIf adjuncts have much in common, semantically and syntactically, with interrogatives.
+If Jill is here, she’s in her office, for example, implicitly raises the question of whether Jill
+is here, but leaves the question unanswered. And if sanctions polarity-sensitive items in
+very much the same way as interrogatives.
+[23] i a. It will give us an advantage if they are already here.
+b. I’ll be surprised if they are here yet.
+ii a. If anyone has a solution to this problem, please let me know.
+b. If someone has a solution to this problem, please let me know.
+Already is positively-oriented, yet negatively-oriented and both can occur in interrogatives: Are they already here?, Are they here yet? Example [ia] is oriented towards a positive
+answer (it’s their being here already that will give us the advantage), while [ib] is oriented towards the negative: I’ll be surprised suggests an expectation that they are not here
+yet. The difference between [iia] with non-affirmative anyone and [iib] with affirmative
+someone matches that between Has anyone a solution to this problem? and Has someone a
+solution to this problem?, where the latter suggests a slightly greater inclination to think
+that the answer could be positive.
+Factors of this kind account for the differences in:
+[24] i If you are at all worried about the project, don’t get involved.
+ii ?If you were at all worried about the project, why didn’t you let me know?
+iii ?If you improve your performance at all, we give you a bonus.
+Example [i] readily accepts non-affirmative at all: you may well not be worried at all.
+But the reproachful why didn’t you in [ii] conveys that I think you were worried (and
+should have let me know), and so at all is here infelicitous. Similarly in [iii] we’re making
+a conditional offer, and this suggests a positive orientation to the satisfaction of the
+condition.",[765]
+"8 Polarity-sensitive aspectual adjuncts
+We are concerned in this section with a small class of adverbs or AdvPs consisting of
+still and already, yet and any longer/more. These are polarity-sensitive items of the kind
+discussed in detail in Ch. 9, §4; still and already characteristically occur in positive clauses,
+yet (in its main use) and any longer/more in negatives.
+ Primary use of still and already: continuation and inceptionNon-perfect affirmative constructions
+[1]i a. Liz is /was still here.
+ii a. Liz still goes/went to school.
+iii a. Liz is /was still cooking dinner.b. Liz is /was already here.
+b. Liz already goes/went to school.
+b. Liz is /was already cooking dinner.",[730]
+"1215Chapter 14 Non-finite and verbless clauses1216one verb at a time. Compare:
+[26] i She can’t always answer his questions, can she?
+[negation of can]
+ii She can always not answer his questions, can’t she?
+[negation of answer]
+iii She can’t always not answer his questions, can she?
+[negation of both verbs]
+There is an equivalence between [i] and It isn’t always possible for her to answer his questions,
+is it? : the negation clearly includes the can/possible within its scope semantically, and the
+interrogative tag shows that it does so syntactically too – the standard type of tag reverses
+the polarity of the clause to which it attaches (cf. Ch. 9, §1.1).
+By contrast, [26ii] is equivalent to It is always possible for her not to answer his questions, isn’t it? (“to refrain from answering”), where the can/possible is now outside the
+scope of the negative, hence positive, as reflected in the negative tag. And [iii] is equivalent to It is not possible for her to always not answer his questions, is it? The two negatives here do not of course cancel each other out because they are negating different
+verbs; the tag is the same as in [i], because it is determined by the polarity of the can
+clause.
+The always in these examples makes it easy to see the scope of the negatives. If we omit
+it, there is no longer anything in the linear sequence of elements alone to determine the
+scope: She + can + not + answer his questions could in principle have either the first or
+second interpretation. The second requires a special prosodic reading in which there is a
+break after can and the not is closely linked to answer ; in writing cannot would force the
+first interpretation, whereas can not would tend to be used for the second. An inflectional
+negative always indicates that the negative has syntactic scope over that verb: She can’t answer
+his questions unambiguously has the first interpretation.
+The same range of possibilities is even available with perfect have:
+[27] i He has not always accepted bribes, has he?
+ii He has always not accepted bribes, hasn’t he?
+iii He has not always not accepted bribes, has he?[negation of have]
+[negation of accept]
+[negation of both verbs]Have is negated in [i] and [iii], where has not is replaceable by inflectional hasn’t, but in
+[ii] the have clause is positive (as evident from the tag), and the not belongs syntactically as
+well as semantically with accept : “It has always been his practice to not accept (i.e. to refuse)
+bribes”.
+Examples like [26ii/27ii] are just like the earlier [16iib] (She asked not to be included in
+the survey), and the catenative analysis enables them to be handled in just the same way, as
+non-finite complement negation, secondary negation in the sense of Ch. 9, §2.3. This is not
+possible in the dependent-auxiliary analysis, where they have to be treated as exceptions. The
+above contrasts show that the proposed VGp does not in fact form a unit with a single syntactic
+negation. It is true that examples like [i] represent the normal pattern, but the catenative
+analysis caters more satisfactorily for the range of options that the verbal system makes
+available.29 (It should also be borne in mind that in the ordinary catenative construction
+negation of the matrix is much more frequent than negation of the complement.) Other
+29Attested examples of the construction shown in [iii] are rare, but the following is a slightly more complex
+version of it: Not since 1992 had Sampras not taken at least one among the Australian Open, French Open,
+Wimbledon and the US Open. The initial negative phrase negates the have clause, while the second not negates
+the take clause.","[1235, 1236]"
+"4.3 Polar questions
+ Answers to polar questionsA polar question has as answers a pair of polar opposites, positive and negative. The
+answers to Is it ready? are It is ready and It is not ready (or equivalently Yes and No, or Yes,
+it is and No, it’s not, and so on). The propositional content of one answer is expressed in
+the question itself, and that of the other is obtained by reversing the polarity.5
+Usually it is the positive that is expressed in the question, but it can also be the negative,
+as in the biased question Isn’t it ready?
+Choice between Yes and No determined by answer
+Yes and no are used in positive and negative answers respectively: the choice between
+them is determined by the polarity of the answer, with the polarity of the question
+being irrelevant. Thus Yes, it is and No, it’s not are answers to both Is it ready? and Isn’t it
+ready? Yes on its own, however, is relatively unlikely to be used as a response to a negative
+question.
+ The form of polar questionsPolar questions prototypically have the form of a closed interrogative clause, as in Is it
+breathing? in [4i]. They do not always have this form, however; other possibilities are
+shown in:
+[6]i Your aim that evening, then, was to go to the discotheque?
+ii So you went to the party but your brother stayed at home?
+iii Another cup of tea?",[888]
+"In [ia] all is within the scope of the negation (“It is not the case that all of the meat
+was fresh”), while in [ib] some has scope over the negative (“Some of the meat had the
+property that it wasn’t fresh”). In abstraction from prosody, the clause All of the meat
+wasn’t fresh is ambiguous with respect to scope. In one interpretation the negative has
+scope over the quantifier ([All of the meat] wasn’t fresh), making it simply an alternant
+of [ia]; this is the kind of interpretation we have in the proverb All that glitters is not gold.
+In a second interpretation, the one indicated by the notation in [iia], all has scope over
+the negative (“All of the meat had the property of not being fresh”); this is equivalent to
+[iib]. Examples like All of the meat wasn’t fresh are relatively infrequent: it is much more
+common to use one or other of the unambiguous equivalents, [ia] or [iib].
+Now in [4ia/b] and [iia] the quantifier and the negative are grammatically distinct,
+as reflected in the underlining of two elements. In [iib], however, quantification and
+negation are simultaneously expressed in none. The grammar doesn’t allow ∗[not some
+of the meat] (matching universal [not all of the meat]), but the meaning “not some” is
+expressed as none. None is thus to be analysed as a negative existential quantifier, i.e. a
+quantifier combining negation and existential quantification, with the negation having
+scope over the quantification.
+ Non-affirmative anyThe examples so far have had the quantified NP located before the verb, in subject function. When we turn to postverbal NPs we find a third possible expression of existential
+quantification, any. Compare [4] above with the following:
+[5]i a. He hadn’t eaten [all of the meat].
+ii a. He hadn’t eaten [all of the meat].≡ b. He hadn’t eaten [some of the meat].
+≡ b. He had eaten [none of the meat].
+b . He hadn’t eaten [any of the meat].",[379]
+"1.1 Tests for clause polarity
+Negation is marked by words (not, no, never, etc.) or by affixes (e.g. ·n’t, un·), but very
+often the effect of adding a negative word or the suffix ·n’t is to make the whole clause
+negative. Hence the distinction drawn above between It is raining and It isn’t raining as
+positive and negative clauses. We will therefore begin by surveying four useful diagnostic
+tests for determining the syntactic polarity of a clause. They are illustrated in [1]:
+[1]negative clause
+i a. He didn’t read it, not even the abstract.
+ii a. He didn’t read it; neither/nor did I.
+iii a. Ed didn’t read it, did he?
+iv a. Not once did Ed read it.positive clause
+b. He read it, not even the abstract.
+b. Ed read it; so did I.
+b. Ed read it, didn’t he?
+b. After lunch Ed read it.
+∗Single underlining marks the clauses whose polarity is indicated in the headings, while
+the double underlining in [i–iii] marks the crucial feature of the diagnostic.
+ Clause continuations with not evenNegative clauses allow a continuation with not even + complement or adjunct, as in
+[1ia]. This is comparable to Ed didn’t even read the abstract, but instead of the abstract
+being integrated into the structure of the clause, it is added on, as a prosodically detached
+supplement. When the clause is negative, the following even is commonly preceded by
+not, as here, but not is inadmissible after a positive clause. (For the meaning of even, see
+Ch. 6, §7.3.)
+ Connective adjunctsIn [1ii] the underlined clause is followed by an anaphorically reduced clause introduced
+by a connective adjunct. Following a negative clause we find neither or nor, whereas a§ 1.2 An overview of negation typespositive clause is followed by so. Note that switching the connective adjuncts leads to
+ungrammaticality: compare ∗Ed didn’t read it; so did I and ∗Ed read it; neither/nor did I.
+A contrast of the same kind applies when the connective adjunct is located at the end of
+the following clause:
+[2]a. Ed didn’t read it, and I didn’t either.b. Ed read it, and I did too.","[806, 807]"
+"∗Again we may contrast Ed didn’t read it and I didn’t too and ∗Ed read it and I did either.
+(The connective adjuncts neither, nor, either and so, too are not restricted to occurrence
+in reduced clauses, but the reduced construction provides the simplest test for our
+purposes.)
+ Reversed polarity tagsDid he? and didn’t he? in [1iii] are reduced interrogative clauses, known as tags. They
+represent the most common type of interrogative tag, being used to seek confirmation
+of what has been said in the clause to which they are attached. This type of tag reverses
+the polarity of the preceding clause, so we have negative clause + positive tag in [iiia],
+positive clause + negative tag in [iiib].
+These are not the only type of clause + tag construction: it is possible to have positive clause + positive tag, as in Ed read it, did he? and some speakers allow negative
+clause + negative tag, as in %Ed didn’t read it, didn’t he? But these are clearly different
+intonationally and in their pragmatic effect from those in [1iii], as described in Ch. 10,
+§5: our diagnostic is based on the most neutral type of confirmation tag.
+ Subject–auxiliary inversion with prenuclear constituentsThe test illustrated in [1iv] involves the form of the clause itself rather than constraints
+on what may follow it. Negative clauses in which the negation is marked on a constituent
+in prenuclear position have obligatory subject–auxiliary inversion. Compare [iva], for
+example, with ∗Not once Ed read it. There is, by contrast, no inversion in the positive [ivb].
+Nor do we have inversion in negative After lunch Ed didn’t feel well since the negation is
+marked on the verb, not on the PP after lunch.
+Obligatory subject–auxiliary inversion is not limited to negative clauses: inversion is
+obligatory following connective so in [1iib] and following a prenuclear phrase introduced
+by only (Only occasionally did Ed read these reports) – see Ch. 3, §2.1.2. This test thus
+needs to be used in combination with the others, but we will see that it nevertheless
+proves useful in drawing the distinction between a negative clause and a positive clause
+containing subclausal negation. This is one of the distinctions to which we now turn.",[807]
+"4 Polarity-sensitive items
+A significant number of items – specific words, fixed or variable phrases, and idiomatic
+expressions – are polarity-sensitive, i.e. sensitive to the polarity of the environment in
+which they occur. Some items are admissible in negative environments but not normally
+in positive ones, while others occur in positive environments but generally not in negative
+ones:
+[1] i a. She doesn’t see him any longer.
+b. She knows him already.
+ii a. ∗She sees him any longer.
+b. ∗She doesn’t know him already.
+The aspectual adjunct any longer, for example, is acceptable in negative [ia] but not in
+positive [iia]. And conversely already is acceptable in positive [ib] but not in negative
+[iib] (ignoring the special case when it is used to contradict a previous utterance like
+[ib]). We need two pieces of new terminology for referring to these two kinds of item:
+[2]i Items which prefer negative contexts over positive ones (such as any longer) are
+negatively-oriented polarity-sensitive items, or NPIs.
+ii Items which prefer positive contexts over negative ones (such as already) are
+positively-oriented polarity-sensitive items, or PPIs.",[842]
+"In [a] the number of them who supported her is zero, whereas in [b] it merely approximates to zero – it is located towards the bottom of the scale, in the area that contains
+zero. Example [b] in fact has a positive implicature – that some of them supported her.
+It nevertheless has important features in common with [a] that motivate its analysis as
+negative – note, for example, that the reversed polarity tag for both examples is did they?
+The affixal negators are prefixes (un·happy) or suffixes (care·less). The main discussion
+of these is in Ch. 19, §5.5, but we look briefly in §3.4 below at the relation between verbal
+and affixal negation – at the contrast, for example, between They are not common and
+They are uncommon.
+(c) Clausal vs subclausal negation
+This distinction relates to the tests for polarity given in §1.1: as made clear there, these
+are tests that differentiate between negative and positive clauses. Clausal negation is
+therefore negation that yields a negative clause, whereas subclausal negation does not
+make the whole clause negative. The distinction is seen very clearly when we apply the
+tests to such a pair of examples as those in [5ii]:
+[10] i a. We were friends at no time,
+not even when we were at school.
+ii a. We were friends at no time,
+and neither were our brothers.
+iii a. We were friends at no time,
+were we?
+iv a. At no time were we friends.b. ∗We were friends in no time,
+not even within a few days.
+b. We were friends in no time,
+and so were our brothers.
+b. We were friends in no time,
+weren’t we?
+b. ∗In no time were we friends.",[809]
+"Zero is quite rare in comparison with no; its origin as a mathematical term for the number
+“0” tends to give utterances with zero a pseudo-scientific character. Zero differs from no
+in that it is not a marker of negation. The difference is brought out, for example, by the
+reversed polarity tag test for clause polarity (Ch. 9, §1.1): contrast They made zero errors,
+didn’t they? and They made no errors, did they? 297.7 The disjunctive determinatives either and neither
+ Either as determiner: non-affirmative and free choice usesEither selects a count singular head: either parent, but not ∗either children or ∗either
+information. Like any, it has a non-affirmative use (eithern) and a free choice use (eitherf):
+[47] i a. He didn’t like eithern teacher.
+ii a. Did eithern boy have a key?
+iii a. You can take eitherf computer.b. ∗He liked either teacher.
+b. ∗Either boy had a key.
+b. ∗She had taken either computer.",[407]
+"5.1 The formation of interrogative tags
+ Reversed polarity and constant polarity tagsA tag is a short interrogative clause which may be negative or positive:
+[2]i Your friends made a good job of it, didn’t they?
+ii They haven’t finished it, have they?[negative tag]
+[positive tag]In [i] a negative tag attaches to a positive anchor and in [ii] a positive tag attaches to a
+negative anchor: we refer to these as reversed polarity tags. It is also possible to have
+constant polarity tags, where the tag has the same polarity as the anchor. Thus in [i] we
+could have did they? instead of didn’t they?, and in [ii] haven’t they? instead of have they?
+The four possibilities are shown in:
+[3]positive anchor
+i a. He is ill, isn’t he?
+ii a. He is ill, is he?negative anchor
+b. He isn’t ill, is he?
+b. %He isn’t ill, isn’t he?[reversed polarity tag]
+[constant polarity tag]As far as the meaning is concerned, the important issue is not whether the tag is positive
+or negative, but whether it has reversed or constant polarity. Reversed polarity tags are
+much the more frequent, and constant polarity tags occur predominantly with positive anchors: many speakers reject examples like [iib]. A more formal variant of the
+inflectional negative isn’t he? is the analytic negative is he not?
+ Formation of tags by reduction of full interrogativesIn the examples so far, the tag might be regarded as a reduced version of a full closed
+interrogative clause corresponding to the anchor. The tag in [2i], for example, might be
+derived from its anchor in three steps, as follows:
+[4]i your friends made a good job of it
+ii your friends didn’t make a good job of it
+iii didn’t your friends make a good job of it?
+iv didn’t they?[anchor]
+[step i: reverse polarity]
+[step ii: form interrogative]
+[step iii: reduce]For constant polarity tags, step i would of course be skipped. Although this procedure
+works in the great majority of cases, it runs into difficulties with anchors like those in:
+[5]i Few of them liked it, did they?
+ii It’s hardly fair, is it?",[912]
+"The [b] examples here are significantly less natural and acceptable than the [a] ones. If
+I know that [ib] is true, then I will typically also know either that she said the door was
+locked or that she said it wasn’t locked – and in that case the expectation would be that
+I would use a declarative complement. She said that the door was locked and She said
+that the door was not locked are clearly more informative than [ib], and hence if I’m in
+a position to say one or other of these I would normally do so. Analogously for [iib].
+The [a] examples involve non-affirmative contexts (interrogatives, negatives, etc.), and
+a number of the verbs governing interrogative complements occur most readily in such
+contexts. But it must be emphasised that this is a matter of pragmatically motivated
+preference, not of a syntactic rule. Compare, for example, [42iib] with He must know
+whether it is ready: this is still an affirmative context, but it is more acceptable than [42iib]
+because the must makes it more likely that the speaker doesn’t know whether it is ready
+and hence is not in a position to use a declarative instead of the interrogative. Compare,
+similarly, He knows whether it is ready but he won’t tell me.
+The distinction between non-affirmative and affirmative contexts is of much less
+significance for open interrogatives. Affirmatives like She said what she plans to do or He
+knows why she resigned, for example, do not have the questionable status of the closed
+interrogatives in [42].
+(b) Exclusion of closed interrogatives in contexts of strong answer-orientation
+Some governing expressions license open but not closed interrogatives:
+[43]closed interrogative
+i a. ∗It’s amazing whether he wrote it.
+ii a. ∗He realised if she meant you.open interrogative
+b. It’s amazing what he wrote.
+b. He realised who she meant.",[1002]
+"§ 4.2 Positively-oriented polarity-sensitive items (PPIs)4.2 Positively-oriented polarity-sensitive items (PPIs)
+The class of PPIs is somewhat smaller than that of NPIs. The main members are listed in
+[15], while [16] provides a sample of positive examples contrasted with their inadmissible
+negative counterparts:
+[15] i some, somebody, someone, something, somewhere, somehow, somewhat
+ii the paucal determinatives a few, a little, several, various
+iii the degree adverbs pretty, fairly, quitep , farp
+iv aspectual already, still
+v connective so, too, as well
+vi the modal idioms would rather, would sooner, would as soon
+vii illocutionary I guess
+[16] i a. They made some mistakes
+b. ∗They didn’t make some mistakes.
+ii a. It’s pretty big.
+b. ∗It isn’t pretty big.
+iii a. It is still a mystery why he ran off.
+b. ∗It isn’t still a mystery why he ran off.
+iv a. Kim saw it, and so did Pat.
+b. ∗Kim saw it, but not so did Pat.
+v a. This one is far better.
+b. ∗This one isn’t far better.
+vi a. I would rather die.
+b. ∗I wouldn’t rather die.
+vii a. I guess I agree.
+b. ∗I don’t guess I agree.
+As a PPI quite means “fairly”: with the sense “completely” quite is not polarity-sensitive
+(cf. That’s quite right ∼ That’s not quite right). The far that acts as a PPI modifies
+comparative expressions for the most part, and means roughly “considerably”; as a
+measure of distance it is not polarity sensitive (cf. They live / don’t live far away). I guess
+qualifies as a PPI where it serves to indicate the illocutionary force of the utterance: it is
+not polarity-sensitive when guess has its literal meaning (as in I don’t guess what’s in my
+presents, I wait to be surprised when I open them on Christmas Day).
+ Scope of negationThe negatives in the [b] examples in [16] have scope over the PPI. In general, PPIs are
+admissible with negatives over which they themselves have scope: this does not count as
+a non-affirmative context for the item concerned. Compare, for example:
+[17] i I would rather not commit myself.
+ii Far more of them didn’t understand it than did.
+iii We already can’t afford any luxuries: how will we deal with this new expense?
+iv I still don’t know how she did it.
+v I didn’t understand some of the points she was trying to make.
+vi I’m afraid I couldn’t stand several of her friends.
+In [i] the not belongs in the subordinate clause: it modifies commit, not would rather.
+Example [ii] says that the number of those who didn’t understand was far greater than
+the number of those who did. Example [iii] says that the state of affairs wherein we can’t
+afford luxuries already obtains. In [iv] the state of my not knowing how she did it still
+obtains. And in [v] some of the points she was trying to make had the property that
+I didn’t understand them. Similarly [vi] says there were several of her friends whom I
+couldn’t stand, not that the number whom I could stand was less than several. In all of
+these, then, the PPI itself is not affected by the negation and hence perfectly admissible.","[848, 849]"
+"1.3.3 Focus
+In all but the most trivial negative clauses there are several different conditions whose
+failure to hold would cause the clause to be strictly true. Which condition is intended
+can be indicated by a speaker through the device of stressing the most closely associated
+word. A constituent marked by stress as being crucial to the way in which an instance of
+negation should be understood is called the focus of that negation.2
+ Negation focus, falsity conditions, and prosodyLet us again compare a negative clause and its positive counterpart:
+[36]
+2a. Your children don’t hate school.b. Your children hate school.",[816]
+"[Jill may be cleverer]
+[Jill must be less clever]Example [i] is consistent with Jill being cleverer than Liz: we can say Jill’s as clever as Liz,
+somewhat more so in fact.3 Scalar equality therefore normally excludes only the relation of
+inferiority: it gives a lower bound. And the negative in [ii] accordingly entails inferiority,
+ruling out both the case where Jill and Liz are equally clever and that where Jill is cleverer.4
+This is just as well for the practical use of the language, for while some scales (such as
+those involving physical size) allow precise measurement, most do not. It would normally
+be nonsensical to ask whether Jill is exactly as clever as Liz, for example.
+The extent to which a comparison of equality is compatible with superiority will
+vary with the content and context: He made as many as eighteen mistakes carries a much
+stronger suggestion that perhaps exact equality holds, for example, than He made as
+many mistakes as I did.
+ Sanctioning of non-affirmative itemsNon-affirmative items such as any, ever, etc., are permitted in three of the four subtypes
+of comparison given in [1]:
+[4]i She ran faster than anyone had expected.
+ii She ran as fast as she had ever run before.
+iii It was different from anything I’d ever seen before.
+iv ∗It was the same as anything I’d ever seen before.[scalar inequality]
+[scalar equality]
+[non-scalar inequality]
+[non-scalar equality]There is an evident connection in [i–iii] with negation (the prototypical context for such
+items). These sentences entail, respectively, that no one had expected her to run as fast
+as she did, that she had never run faster before, that it was not the same as, or not like,
+anything I’d ever seen before.",[1121]
+"By virtue of the relation between existential and universal quantification (see Ch. 5,
+§5.1) these are all equivalent to positive clauses with universal quantification: All of
+them had some redeeming features; Everyone, surely, has at some time experienced such
+temptation; Before, someone had always nominated for the position; Both investigators had
+some financial interest in the company; Everyone considered it a retrograde move. Note
+that it is the first negative that is replaced by a universally quantified counterpart in the
+paraphrase. Thus in [ii] no one precedes never, so we have everyone and at some time,
+but in [iii] never precedes no one, so we have always and someone (even though in the
+positive they do not occur in that order).24
+The positive versions are of course easier to process and represent the default way
+of expressing the meanings concerned. The more complex forms would thus typically
+need some special motivation, such as contrast. In [2iii], for example, we are concerned
+with an occasion on which no one had nominated for the position in question, and
+[iii] contrasts this occasion with all previous ones of the relevant kind. Such contexts of
+contrast will often lead to one or other of the negative markers being stressed.
+As far as the syntax is concerned, only one of the negators can mark clausal negation.
+The clauses in [2] are all negative and behave with respect to the tests for polarity just like
+clauses with a single negative. Compare, for example, None of them had any redeeming
+features, did they? and None of them had no redeeming features, did they?
+24The same kind of relationship holds between disjunctive and conjunctive coordination, so that Neither Kim
+nor Pat had no financial interest in the company is equivalent to Both Kim and Pat had some financial interest
+in the company.",[864]
+"The negation in in no time thus relates only to the phrase, which means “in a very short
+period of time”: it doesn’t negate the clause as a whole.
+Affixal negation is always subclausal. Compare, for example:
+[12] i These terms aren’t negotiable, are they?
+ii These terms are non-negotiable, aren’t they?[verbal negation: clausal]
+[affixal negation: subclausal]789790Chapter 9 NegationClausal negation is a matter of syntax, while affixal negation is purely morphological.
+For the rest we take clausal negation as the default case, and survey in §3.2.2 the main
+places where negative markers other than affixes yield subclausal negation.
+(d) Ordinary vs metalinguistic negation.
+Consider finally the contrast between the examples in [6]. In [ia] (She didn’t have lunch
+with my old man: he couldn’t make it) the negative indicates that it is not the case, not
+true, that she had lunch with my old man. But that is not how the negative is understood
+in (the intended interpretation of) [ib]: She didn’t have lunch with your ‘old man’: she
+had lunch with your father. The latter would normally be used in a context where you
+had said She had lunch with my old man. In uttering [ib] I am not disputing the truth
+of what you said but rejecting the formulation you used: I’m objecting to your referring
+to your father as your ‘old man’. Similarly, She doesn’t live in a /kæsl/, she lives in a /kɑsl/
+might be used to reject your pronunciation of castle.
+An important case of metalinguistic negation is illustrated in [6iib], Max hasn’t got
+four children, he’s got five: here it is used to deny an implicature. We argued in Ch. 5, §5.2,
+that Max has four children entails that he has no less than four and implicates that he
+has no more than four. Max hasn’t got four children: he’s got three ([6iia]) is thus ordinary
+negation. It denies the entailment of the positive, i.e. it indicates that Max has got four
+children is false. Max hasn’t got four children, he’s got five ([iib]) denies the implicature. It
+is not saying that Max has got four children is false, and hence is not ordinary negation.
+Again I would typically use the metalinguistic negative in a context where you had just
+said that Max has four children: I am correcting what you said not because it is false but
+because it doesn’t go far enough. It is metalinguistic in the sense that it is saying that four
+was the wrong word to use (among those yielding a true statement).","[809, 810]"
+"833834Chapter 9 Negation4.4 Non-affirmative contexts
+We review in this section the constructions or lexical items that create contexts within
+which NPIs can occur. Negation is the most central of them, while the others have various
+kinds of semantic or pragmatic connection with negation. In the examples that follow
+we use single underlining to pick out the NPI and double underlining for the item which
+sanctions it.
+ NegatorsAll negators, whether expressing clausal or subclausal negation, sanction NPIs:
+[28] i a. Kim didn’t do anything wrong.
+b. No one did anything wrong.
+c. Hardly anyone liked it at all.
+ii a. He seems not very interested in any of these activities.
+b. It was a matter of little consequence for any of us.
+c. It is unlikely anyone has noticed it yet.[clausal negation][subclausal negation]Recall, however, that the negative context begins at the point where the negator is located.
+An NPI is not sanctioned by a following negator: cf. ∗Anyone did nothing wrong or ∗We
+had given anyone nothing.
+ Interrogative clausesWe have observed that NPIs are commonly found in closed interrogatives, and for these
+nothing need be added to what has been said above. Positive open interrogatives, however,
+require some further discussion.
+Open interrogatives
+The way NPIs interact with positive open interrogatives is slightly different from the way
+they work in the semantically simpler closed interrogatives. Compare the following:
+[29] i a. Who helped her?
+ii a. Why did you help someone
+like George?
+iii a. How come you like her?b. Who did anything to help her?
+b. Why would you lift a finger to help
+someone like George?
+∗
+b. How come you like her much?","[853, 854]"
+"Most downward entailing quantified NPs are negative and hence are already covered
+under (a) above, but we noted in footnote 15 that at most triggers downward entailment although it is not negative. As seen in [iia], it nevertheless sanctions following
+NPIs. A few and at least are upward entailing, and do not create non-affirmative contexts.
+Although [37iia] is not itself negative, it has clear links with negation. At most ten
+of the thirty students worked entails that the other twenty (the majority) did not work:
+compare the negative paraphrase No more than ten of the students worked, did they?
+At least ten of the thirty students worked, on the other hand, has no such negative
+entailment: in fact it suggests that some of the other twenty may have worked. At least
+can be paraphrased by no less than, but this yields a positive clause: No less than ten of
+the students worked, didn’t they?
+ The degree adverb too[38] i By that time I was just too tired to budge.
+ii It was too difficult for anyone else.
+Too in the sense “excessively” licenses an indirect complement with the form of an
+infinitival clause or a for PP. The too + positive infinitival construction can be paraphrased
+by so + negative finite clause: I was so tired that I couldn’t budge. Similarly [ii] conveys
+“It was so difficult that no one else could do it / that it was not appropriate for anyone
+else”. Note that He wasn’t too tired to have a couple of games of tennis implicates that he
+did play, and this positive implicature excludes an NPI (ignoring again the denial use):
+∗
+I wasn’t too tired to budge.
+ Prepositions (against, before, without)Certain prepositions define contexts for NPIs, as illustrated in the [a] examples of [39]:
+[39] i a. She did it without any difficulty.
+ii a. He left before anyone noticed it.
+iii a. I argued against taking any more.b. ∗She did it with any difficulty.
+b. ∗He left after anyone noticed it.
+b. ∗I argued in favour of taking any more.",[857]
+"In [a] the first constituent structure boundary is between I think it’s legal and isn’t it?: the tag is
+appended to the main clause I think it’s legal, which is in this sense the anchor. But the form of
+the tag is based on the subordinate clause it’s legal, so from this point of view it is the latter that
+is treated as anchor. This conflict reflects the mismatch between the grammatical structure of
+I think it’s legal and its communicative meaning. Grammatically, it’s legal is subordinate to the
+think clause, but communicatively it is the subordinate clause that is primary: I think simply
+expresses some modal qualification. The anchor is comparable to It’s probably legal, where
+the modal qualification is expressed in a grammatically subordinate way, by an adverbial
+adjunct, or It’s legal, I think, where the qualification is parenthetical: for both of these the
+procedure [7] would give isn’t it? as tag quite straightforwardly.
+Example [8b] is similar but has the added complication of negative polarity. Is it? is a
+reversed polarity tag, but the negative which it reverses is in the think clause. Again the form
+of the tag reflects the communicative meaning rather than the grammatical structure – by the
+process we call specificity increase (Ch. 9, §5) the negative is interpreted as applying to the
+complement of think (“I think it isn’t legal”), so the tag is positive, just as it is in It’s probably
+not legal, is it? or It isn’t legal, I think, is it?",[913]
+"The choice between yes and no depends simply on the polarity of the answer – not, for
+example, on agreement vs disagreement with what may be suggested by the question.
+Polar questions, especially negative ones, may be biased, indicating the questioner’s
+predisposition to think that one or other answer is the right one, but that has no bearing
+on the choice between yes and no. In [ib], for example, the appropriate response is yes
+if the car is B’s and no if it isn’t, irrespective of what A appears to expect is the case.
+Similarly with answers to tag questions, as in [ii].
+∗
+Yes it isn’t and ∗No it is are thus ungrammatical as single clauses. In Yes it is and No
+it isn’t, the yes and no can be regarded as a special type of adjunct, a polarity adjunct,
+which agrees in polarity with the clause – a further case of polarity concord in English.
+The adjunct can also be placed at the end of the clause, with prosodic detachment: It is,
+yes and It isn’t, no. A response to [7i] with the form No, it’s Kim’s would not of course
+violate the polarity concord rule, because here we have not a single clause but a sequence
+of two, just as we do in No it’s not mine, it’s Kim’s.
+One respect in which the agreement vs disagreement factor is relevant concerns the
+choice between single-word and expanded responses. Suppose you ask Didn’t you post
+the letter after all, then?, indicating that you think I didn’t. If in fact I did post it, I would
+normally say Yes I did, not just Yes.
+ Responses to other kinds of speech actYes and no are used in response to statements in a similar but not identical way:
+[8]i A: She did very well.
+ii A: She didn’t do very well.",[868]
+"1535Chapter 17 Deixis and anaphora1536(a) Pro-clause complement with finite antecedent: I think so
+[58] i A: Are they putting the price up? B: I think so. / I’m afraid so. / It seems so.
+ii She thought he was wrong but was too polite to say so.
+iii She was totally opposed to the idea and told the premier so.
+iv Will she accept the recommendations, and if so how will they affect us?
+So here stands for a clause in complement function: we understand “I think they are putting the price up”, and so on. The understood clause is always declarative, though the antecedent can be interrogative, as in [i/iv]. This construction is found with the conditional
+preposition if, the adjective afraid, and a fair number of verbs, a sample of which are
+given in:
+[59]appear
+hope
+seemassume
+imagine
+supposebelieve
+presume
+suspectfear
+reckon
+tellgather
+regret
+thinkguess
+say
+trustAppear and seem take impersonal it as subject: it seems so. Many of the others allow
+passivisation, with so then in extraposed subject position: It is believed so, etc. Verbs
+which, by contrast, do not allow so to substitute for a clausal complement include confirm,
+doubt, realise, resent.48
+A number of the verbs in [59] also allow it or that as a pro-clause anaphor. In most
+cases there is a fairly clear difference in meaning between so and these NPs. It is particularly clear in 1st person singular present tense examples like I believe so vs I believe it/that.
+With I believe so the main issue is the truth of the antecedent proposition: I might well
+use this in response to a polar question to give a modally qualified positive answer. With
+I believe it/that the main issue is whether I believe the proposition concerned (and this
+time the antecedent could hardly be interrogative). The difference emerges very sharply
+if we add yes. In Yes, I believe so, the yes relates to the proposition expressed by so; in
+Yes, I believe it/that the yes relates to the matrix proposition: “Yes I do believe”. Or take
+the verb regret. I regret so is understood as “Yes, regrettably”, while in I regret it/that the
+truth of the proposition expressed by the complement is taken for granted, and what is
+asserted is that my attitude to it is one of regret.
+Polarity: so and not
+So normally expresses a positive proposition, with not being used as the corresponding
+negative pro-form. In response to Will Kim be there?, for example, I hope so is understood
+as “I hope Kim will be there” and I hope not as “I hope Kim will not be there”.49 There
+is likewise a straightforward contrast with if between positive so and negative not. With
+say and tell, however, so readily substitutes for a negative clause and not is quite rare and
+often inadmissible outside responses to questions:
+[60] i She didn’t approve of the idea and told them so/∗not.
+ii A: Will they be accepting the proposal? B: She says not.
+48In general know belongs with these, but there is an established somewhat jocular use of know so when
+an explicit contrast is being made between knowing and merely thinking – e.g. A: Do you think so? B: I
+KNOW SO.
+49
+A number of the verbs in [59] occur in the negative with what we have called increased specificity of the
+negation (Ch. 9, §5), so that I don’t think so is typically interpreted as equivalent to the less frequent I think
+not.","[1555, 1556]"
+"Each of the clause constituents Liz, deleted, and the backup file in [b] makes a contribution to the meaning; we can therefore give the truth conditions of [b] as a list of§ 1.3.1 The concept ‘having scope over’statements:
+[14] i “A deletion operation took place”
+ii “The deletion operation was performed by Liz”
+iii “The deletion operation was performed on the backup file”
+Each of these has to be true in order for [13b] to be true. And the falsity of any one of
+them is sufficient to make [13a] true. That is, the negated sentence [13a] is true if either
+there was no act of deletion, or if any deletion operation that occurred was performed
+by someone other than Liz, or if any deletion operation that occurred was performed on
+something other than the backup file. The status of the propositions in [14] thus changes
+as we switch from [a] to [b]: the falsity of any one of them establishes the truth of [a],
+but also the falsity of [b]. All three components are therefore said to be inside the scope
+of the negation – or, to put it another way, the negative has scope over all three of them.
+The negative can therefore be said to have scope over the whole clause, i.e. over
+everything in the clause (except itself): we can say that the scope of the negation here is
+“Liz deleted the backup file”.
+Now compare the following examples, in which an extra clause has been added to
+each of the sentences:
+[15] a. Liz didn’t delete the backup file and
+b. Liz deleted the backup file and
+Sue wrote the report.
+Sue wrote the report.
+The truth conditions for [15b] consist of those given in [14] together with
+[16]“Sue wrote the report”But this is also a truth condition for [15a]: if Sue didn’t write her report then both
+examples in [15] are false. The status of [16] is thus not affected by the negation: it is
+outside the scope of the negative. So the scope of the negative is the same in [15a] as in
+[13a], namely “Liz deleted the backup file”.
+Notice that [15a] has the form of a coordination of clauses, and it is quite generally
+the case that a negative in one clause does not have scope over another clause that is
+coordinate with it. There is, though, an exception to this: a negative can have scope over
+a clause-coordination that involves gapping (Ch. 15, §4.2). Compare the following:
+[17]a. Kim wasn’t at work on Monday
+or Pat on Tuesday.b. Kim was at work on Monday
+or Pat on Tuesday.","[810, 811]"
+"§ 4.1 Negatively-oriented polarity-sensitive items (NPIs) Varying strength of the restrictionsThe NPI and PPI classes are by no means completely homogeneous: we find significant
+differences with respect to the distributional restrictions that apply. Much, for example,
+qualifies as an NPI by virtue of the unacceptability of clauses like ∗She loved him much,
+but it is not wholly excluded from affirmative contexts, as is evident from examples like
+She much regretted accepting their invitation. By contrast, the NPI at all (She did not love
+him at all ) is completely excluded from affirmative contexts. Similarly with PPIs. We
+have noted that already is quite acceptable in interrogatives, but pretty (“fairly”) is not:
+examples like ?Is she pretty happy? are of doubtful acceptability.
+It should also be borne in mind that in some cases the restrictions apply to one sense
+of an item but not to another. Thus any is non-affirmative in the sense it has in She didn’t
+make any changes or Did she make any changes?, but it also has a ‘free choice sense’ which
+is not polarity-sensitive, as in Take any card, or Any changes must be approved by the
+board (cf. Ch. 5, §7.5). Where it will help exposition we will use subscripts to distinguish
+between different senses, referring to the NPI any as ‘anyn ’.
+We will review the NPI and PPI classes in turn, and then examine correspondences
+between certain sets such as any (NPI), some (PPI), and no (negator). In the final subsection we take up in more detail the question of what constitutes a non-affirmative
+context.","[842, 843]"
+"[neutral form]
+[negative form]§ 1.9 Negative formsThe clause is positive in [i], negative in [ii–iii], but only in [iii] is the negation marked
+inflectionally on the verb. In [ii] the negation is analytic, marked by a separate word
+(not), with the form of the verb, will, being the same as in the positive clause. The full
+set of negative forms is given in Ch. 18, §5.5.
+ Negative inflection vs contractionForms like won’t are commonly regarded as ‘contractions’ of will + not, and so on, but
+there are compelling reasons for analysing them differently from cases like she’ll (from
+she + will), they’ve (they + have), etc. Won’t is, by every criterion, a single grammatical
+word, an inflectional form of will. She’ll is not a single grammatical word, hence not an
+inflectional form. Rather, ’ll (pronounced /l/) is a clitic form of will, i.e. a reduced form
+that is joined phonologically (and orthographically) to an independent word called its
+host. The host in the case of she’ll is the pronoun she. The written forms she’ll, they’ve,
+etc., are pronounced as single monosyllabic words phonologically but correspond to
+two-word sequences syntactically.
+Evidence for this analysis is seen in:
+[41] i Won’t / ∗Will not she be glad?
+ii He says she’ll read it, but she WON’T /will NOT.[not replaceable by will not]
+[contrastive negation]Example [i] shows that won’t is not always replaceable by will not (as she’ll always is by she
+will), and in such cases a contraction analysis is not viable. In [ii] the small capitals indicate
+contrastive negation marked by stress. A clitic cannot bear stress (cliticisation is an extreme
+case of the phonological reduction that is available only for words that are unstressed). Note,
+for example, that in He says she won’t read it, but she WILL, the stress prevents the reduction
+of she WILL to SHE’LL: if won’t involved cliticisation like she’ll, therefore, it would not occur
+with emphatic negation.
+A further point is that the phonological form of won’t is not predictable by general rule
+from will + not (as the form of she’ll is a predictable reduction of she + will ). The irregularity
+of the negative form won’t is comparable to that of the preterite form would: such irregularity
+is a common phenomenon in inflectional morphology, but is not explicable in terms of
+cliticisation. Not all the negative auxiliary forms are irregular, of course, but the fact that
+some are is an indication that we are dealing with inflection.","[110, 111]"
+"We have used interrogative examples for much because the plain form much is largely
+restricted to non-affirmative contexts (see Ch. 9, §4.1.2). The grammar of comparison is described in Ch. 13, and our discussion of the comparative and superlative
+forms in this section can be brief, focusing on certain issues concerning the structure
+of NPs.
+ The plain formsThe plain forms express imprecise quantification. Many and much are multal quantifiers,
+meaning approximately “a large number/quantity of ”; their antonyms few and little,
+meaning “a small number/quantity of ”, are paucal quantifiers. Few and little differ from a
+few and a little as negative vs positive; the difference in meaning was presented summarily
+in §5.2 above, and is treated in detail in Ch. 9, §3.3. All four plain forms accept a wide
+range of modifiers: unusually many, amazingly few, this much, very little, and so on. As
+determiners they mark the NP as indefinite.",[413]
+"2.3.2 Secondary negation with not following an auxiliary verb
+When not comes between two verbs the issue arises as to which of them it negates. If the
+first verb is a lexical verb or a secondary form of an auxiliary, not belongs clearly with803804Chapter 9 Negationthe following verb:
+[12] i She agreed [not to make a formal complaint].
+ii Jill’s instruction had been [not to take on any extra staff ].
+These are straightforward cases of secondary negation, with not located syntactically in
+the infinitival clause. The matrix clauses with primary verb-forms are positive, as evident
+from the reversed polarity tags didn’t she? and hadn’t it?, and other tests. Not can modify
+a preceding verb only if it is a primary form of an auxiliary (or imperative do). This is
+the case we need to consider further.
+(a) Not immediately following a primary form of an auxiliary
+In this position not normally modifies the auxiliary verb and hence marks primary
+negation. This is so even when the auxiliary is not within the semantic scope of the
+negative:
+[13]a. They must not read it.b. They need not read it.","[823, 824]"
+"§ 4.4 Non-affirmative contextsExample [29iiib] is ungrammatical, like the positive declarative ∗You like her much.
+(Note the contrast with the fully acceptable How come you like her so much?) But again,
+there is no question of much being syntactically excluded from positive open interrogatives: we merely need to find contexts with an appropriate negative flavour, as in Who
+cares much about it, anyway?
+Bare infinitival why interrogatives
+[30] a. Why tell them anything about it?b. ∗Why not tell them anything about it?","[854, 855]"
+"The ‘# ’ in the [b] cases indicates that the expected idiomatic meaning is not present (though
+some other meaning might be possible, e.g. with half bad meaning “50% putrescent”). As
+we see, for long does not have to be preceded by not or a negative auxiliary; it merely has to
+be in some sort of non-affirmative context. The situation with not half bad is quite different.
+Immediately before half bad must be either not or a negative auxiliary; merely having half bad
+in some non-affirmative context is not sufficient for it to count as an instance of the idiom
+not half bad.
+The idiom like nothing better is likewise restricted to combinations involving those three
+words: [8ii] can be paraphrased by There’s nothing I’d like better than to attend the dinner,
+but not by I wouldn’t like anything better than to attend the dinner. The latter has only the
+literal meaning that nothing (not even winning a national lottery) tops dinner attendance
+on my preference list, whereas [8ii] is just a polite form of words carrying no such literal
+entailment.
+Stop at nothing also exists only in negative form. ?George will stop at something would have
+to have a literal meaning and is hard to find any context for; [8iii] is not paraphrased by
+?
+George will not stop at anything to get that job. It has a tighter structural restriction than like
+nothing better in that the word sequence stop at nothing (usually will stop at nothing) must be
+intact, so we do not find ?There is nothing that George will stop at to get that job with the NPI
+sense.",[845]
+"2.1.3 Emphatic polarity
+In the third do-support construction, stress is placed on the primary verb to emphasise
+the positive or negative polarity of the clause. Again, the verb must be an auxiliary, so97Chapter 3 The verb98that do must be added if the unemphatic counterpart doesn’t contain one:
+[21]unemphatic polarity
+i a. I will / I’ll be there.
+ii a. She moved the picture.emphatic polarity
+b. That’s not true: I WILL be there.
+b. She DID move the picture: I saw her.","[117, 118]"
+"The neither continuation is permitted in [b] but not [a] (and so . . . would be somewhat
+awkward in [a], but the inadmissibility of neither is sufficient to establish a clear difference). Similarly did she? as a reversed polarity tag seeking confirmation of what is said in
+the preceding clause can be added in [b] but not in [a]. Thus [23iii] is a negative clause,
+but [23ii] is not.
+It should not be assumed, however, that in negative clauses the negative necessarily
+has scope over every element in the clause. One case where this is not so is [19a]. Here
+the negative does not have scope over however, but that does not prevent the clause being
+negative: compare Liz, however, didn’t delete the backup file and neither did Sue (where the
+neither continuation shows that the clause is negative), or Liz, however, didn’t delete the
+backup file, did she? (where the tag shows the clause is negative). We will see, moreover,
+that the exceptions are not confined to cases like this where the element outside the scope
+of negation is non-truth-conditional.
+Relative scope and linear order
+An obvious syntactic difference between [23ii] and [23iii] is that intentionally precedes
+didn’t in the former while didn’t precedes intentionally in the latter. The semantic difference in scope is marked syntactically by a difference in linear order. In both examples,
+then, the element with wider scope precedes the one with narrower scope. This represents
+the default case:
+[28] Given a construction containing two scope-bearing elements, the one which
+comes first will generally have scope over the one which comes later.
+As implied by the ‘generally’, relative scope does not always correlate directly with
+relative order in this way. One factor that may override it is intonation. Compare:
+[29] i Liz didn’t delete the backup file intentionally. [negative has scope over adjunct]
+ii Liz didn’t delete the backup file – intentionally. [adjunct has scope over negative]
+In the intended pronunciations of these, intentionally falls in the same intonational
+phrase as didn’t in [i], whereas in [ii] it is prosodically detached. In [i], the default
+pattern is observed: the negative has scope over the following adjunct. But in [ii]
+the prosodic offsetting of the adjunct allows it to take scope over the whole of what
+precedes.
+A similar illustration is provided by reason adjuncts:
+[30] i Because it cost $50 she didn’t buy it.
+ii She didn’t buy it because it cost $50.[adjunct has scope over negative]
+[ambiguous]§ 1.3.2 Relative scopeIn [i] we find the default pattern: the adjunct comes first and has scope over the negative. The narrow scope of the negative here can again be brought out by a roughly
+equivalent sentence in which it appears in a subordinate clause (underlined): The $50
+price caused her not to buy it. Here we understand that $50 was too high a price. Example
+[ii], however, is ambiguous. It can have an interpretation following the default pattern,
+with the negative having scope over the adjunct; here the adjunct will be in the same
+intonational phrase as didn’t. In this interpretation we understand that $50 was a good
+price, but that this price did not lead her to buy it – and there is an implicature that
+she did buy it, for some other reason. But [ii] can also have the same interpretation as
+[i]. This departs from the default pattern given in [28], and the adjunct would form a
+separate intonational phrase (and in writing it might well be preceded by a comma to
+remove the ambiguity).
+(b) Relative scope of negation and quantifiers
+The issue of relative scope also arises when negation combines with quantification:
+[31] i He hasn’t got many friends.
+ii Many people didn’t attend the meetings.[negative has scope over quantifier]
+[quantifier has scope over negative]Here [i] is the contradictory of He has many friends: one will be true, the other false. But
+[ii] is not even the contrary of Many people attended the meetings: both could easily be
+true. Given a large enough set of people, it is perfectly possible for the subset attending
+and the subset not attending to both qualify as ‘many’. Again the narrow scope of the
+negative in [ii] is brought out by a gloss with a negative in a subordinate clause: “There
+were many people who didn’t attend the meetings”. Note, however, that [ii] behaves as a
+negative clause: cf. Many people didn’t attend the meetings, not even the first one or Many
+people didn’t attend the meetings, did they? This confirms the point made above that in
+negative clauses the negative does not necessarily have scope over all other elements in
+the clause.
+Linear order
+The examples in [31] follow the default pattern where relative scope matches relative
+linear order. Again, however, the default may be overridden under certain circumstances:
+[32] i I didn’t agree with many of the points he made.
+ii Everybody didn’t support the proposal, but most did.[scope ambiguous]
+[wide scope negation]Example [i] can be interpreted with either the negative or the quantifier having scope
+over the other. With wide scope negation it is like [31i], the contradictory of I agreed with
+many of the points he made. In this reading there weren’t many points that I agreed with.
+The wide scope quantification reading can be expressed unambiguously by fronting the
+quantified NP: Many of the points he made I didn’t agree with. In this second reading
+there were many points that I disagreed with; it is a less likely reading of [32i] than
+the one with wide scope negation, but certainly possible, especially with a clear change
+of intonation contour on many. Without the but clause, [32ii] would be ambiguous in
+the same way: most did, however, forces the interpretation where the negative has scope
+over the quantifier, as it unambiguously does in Not everybody supported the proposal.
+Again the intonation can assist in making the meaning clear: the reading with wide scope
+negation reading will typically be encouraged by high pitch on EVerybody.","[814, 815]"
+"In [i] the disagreeing negative response would not normally be reduced to No, and in
+[ii] the disagreeing positive answer could not be reduced to yes. It is in fact here possible
+to say yes to express agreement with the negative statement: “Yes, you’re right”.
+Following directives, yes and no can be used to express intention to comply with a
+positive and negative directive. No is also used to indicate refusal to comply with a positive
+one, but yes is not an idiomatic way of refusing to comply with a negative directive:
+[9]i A: Remember to lock up.
+ii A: Don’t forget to lock up.
+iii A: Tell me who did it.
+iv A: Don’t tell them I did it.",[868]
+"6.2 Negative concord and pleonastic negation
+We turn now to constructions where a single semantic negative is expressed more than
+once.
+(a) The standard variety
+There are a number of constructions in Standard English in which the negation of a
+clause is expressed at more than one point morphologically:
+[4]i Their action was neither illegal nor immoral. [disjunctive coordination concord]
+ii They aren’t here, I don’t think.
+[parenthetical concord]
+iii Not in my car, you’re not.
+[negative retort]
+iv I wouldn’t be surprised if it didn’t rain.
+[pleonastic subordinate negative]Disjunctive coordination concord
+When a negative has scope over disjunctive coordination, it may be expressed verbally, as
+in Their action wasn’t (either) illegal or immoral, or non-verbally, in the coordination itself,
+as in [4i]. In the latter case it is generally incorporated into all markers of coordination,
+and we can therefore talk of concord or agreement in polarity. Occasionally, however,
+we find or instead of nor: Their action was neither illegal or immoral (see Ch. 15, §2.4).
+Parenthetical concord
+A further minor case is seen in [4ii], where semantically there is a single negation, just as
+there is in the non-parenthetical versions I don’t think they are here or I think they aren’t
+here. In the parenthetical version the negation is expressed both in the anchor they aren’t
+here and in the parenthetical I don’t think. The negation in the parenthetical, however,
+is optional, for we can also have They aren’t here, I think. The matching negation in [4ii]
+is comparable to the matching interrogatives in Are they here, do you know? (cf. Ch. 10,
+§5.3).",[865]
+"2.1 Primary verbal negation
+Positive clauses containing a primary form of an auxiliary verb may be negated by
+adding not after the verb, giving analytic primary negation, or by inflecting the verb in
+the negative, giving synthetic primary negation:
+[1]i Kim will be here later on.
+ii Kim will not be here later on.
+iii Kim won’t be here later on.[positive clause with auxiliary verb]
+[analytic primary negation]
+[synthetic primary negation]In [i] we have the neutral present tense form will in a positive clause. In [ii] this neutral
+form will is modified by not in post-auxiliary position. In [iii] the negation is marked
+by the negative present tense form won’t.
+To negate a clause containing a primary form of a lexical verb it is necessary to add
+the semantically empty auxiliary that we have called supportive do:
+[2]i Kim waved to us.
+ii Kim did not wave to us.
+iii Kim didn’t wave to us.[positive clause with lexical verb]
+[analytic primary negation]
+[synthetic primary negation]799Chapter 9 Negation800Do takes on the inflectional properties (here preterite tense) that in the positive are
+carried by the lexical verb, and the latter now appears in the plain form. Again the
+negation may be marked analytically or synthetically by a negative form of do.3
+ The choice between analytic and synthetic primary negationAnalytic and synthetic primary negation forms are not fully interchangeable. The main
+difference is one of style level.
+The synthetic forms are a mark of informal style. While they are the default form
+in ordinary conversation and informal writing,4 they are not used in very formal and
+solemn contexts or in some kinds of written (especially published) language. They are by
+no means absent from academic prose, but the author or speaker who uses them makes
+a definite style decision: the effect of using synthetic negative auxiliaries is to increase
+the sense of familiarity, intimacy, and accessibility. Compare the following pairs, where
+the [a] members belong to formal style, the [b] members to informal style:
+[3]i a. I do not accept, and will not condone or defend, this shameful policy.
+b. I don’t accept, and won’t condone or defend, this shameful policy.
+ii a. This is not to say that one could not conceive of a world in which aesthetic
+properties did not supervene on the physical; but the necessity of positing them
+does not seem to me an attractive prospect.
+b. This doesn’t mean that you couldn’t imagine a world where aesthetic properties
+didn’t supervene on physical ones; but having to assume them doesn’t seem like
+an attractive prospect to me.","[819, 820]"
+"The [b] examples illustrate the most elementary kind of negative clause, that where the
+negative marker is associated with a primary verb-form – preterite or present tense (or
+irrealis were). The negation can be marked inflectionally, by means of a negative form
+of the verb such as isn’t or doesn’t, or analytically, by means of not modifying the verb.
+In either case, the verb must be an auxiliary. Where the corresponding positive contains
+no auxiliary, do must therefore be added, as in [ii].
+ Primary verb negation compared with other kinds of negationPrimary verb negation is to be distinguished from non-verbal negation and nonimperative secondary negation, which do not take supportive do:
+[6]i a. They didn’t go to Paris.
+b. No one went to Paris.
+c. They went not to Paris but to Berlin.
+ii a. He didn’t promise to help them.
+b. He promised not to help them.[primary verb negation][non-verbal negation]
+[primary verb negation]
+[non-imperative secondary negation]Non-verbal negation commonly involves some negative word other than not, as in [ib],
+and when it is marked by not the not belongs within some larger constituent, such as the
+PP-coordination not to Paris but to Berlin in [ic] (cf. Ch. 9, §3.1). In [ii] we have a clear
+syntactic and semantic distinction between [a] and [b]. In [iia] it is the finite matrix
+clause that is negated – it is the negation of He promised to help them, and says that no
+promise was made. In [iib], by contrast, not belongs in the non-finite subordinate clause,
+which has the secondary verb-form help as its head: this time he did make a promise,
+but it was a promise to refrain from doing something.
+We have labelled [6iib] ‘non-imperative secondary negation’ because imperatives take
+do-support even though the verb is in a secondary form, the plain form. But imperatives
+also differ from clauses with a primary verb-form in that verbal negation always requires
+do, even when there is another auxiliary, such as be ; compare, then:
+[7]i You aren’t put off by his manner.
+ii Don’t be put off by his manner.[primary verb negation]
+[imperative negation]It is therefore only primary verb negation that follows the general rules for do-support
+constructions: the imperative represents an exceptional extension of the use of supportive
+do.",[114]
+"The only way we could apply step i to the anchor few of them liked it would be to change
+this into few of them didn’t like it, which would lead via steps ii and iii to the tag didn’t
+they? But in fact the reversed polarity tag for this anchor is did they?, as in [5i]. The reason
+is that few of them liked it is in fact negative (see Ch. 9, §3.3), so the reversed polarity tag
+must be positive. It is a negative, however, with no positive counterpart, so step i can’t
+be applied. The same applies with [ii].",[912]
+"2.5.9 Use
+This is the most marginal of the auxiliaries. For many speakers, especially younger ones,
+it does not belong in the class at all; many others have it as both auxiliary and lexical verb
+(with the former belonging to somewhat more formal style). We therefore find both:
+[65] i a. % He usedn’t to like it.
+ii a. He didn’t use to like it.b. % Used he to live alone?
+b. Did he use to live alone?[auxiliary]
+[lexical verb]Choice between the negative variants is sometimes avoided in informal style by using
+never : He never used to like it. The version with analytic negation, He used not to like it,
+could be construed either as an auxiliary with primary verb negation, or else as a lexical
+verb with negation of the non-finite complement. Usedn’t is pronounced without an
+internal /t/ and sometimes written usen’t ; similarly used to is pronounced with a single
+/t/ and hence is homophonous with the use to of [ii], and the spelling used is sometimes
+found instead of use in these negative and inverted constructions.
+Use does not normally appear as an auxiliary in the emphatic polarity or stranding
+constructions:
+[66] i ∗He claims neither of us used to reply but we USED to.
+[emphatic polarity]
+ii ∗Kim used to like it and I used
+as well.
+[verb stranding]
+Contrastive stress on use can only emphasise the past aspectual meaning, not the polarity,
+so the only possibility in [i] is but we DID. In [ii] the only possibilities are to-stranding
+(and I used to as well ) or do (and I did, as well ).
+Morphologically, use is highly defective: it has no present tense, no gerund-participle,
+and no past participle.25 The plain form is found only in construction with auxiliary do,
+as in [65ii]. We have seen that it is mutually exclusive with the modal auxiliaries, but it is
+clearly not itself a member of the modal auxiliary class. It lacks properties [I] and [K–M],
+while [J] is irrelevant because used is a preterite form so the issue of agreement doesn’t
+arise. It is also semantically quite distinct from the modal auxiliaries: the meaning it
+expresses is aspectual, not modal.",[135]
+"The first two contrasts have to do with the expression of negation, i.e. with matters of
+form, while the second two have to do with meaning, i.e. with the interpretation of
+negation.
+(a) Verbal vs non-verbal negation
+In verbal negation the marker of negation is grammatically associated with the verb,
+the head of the clause, whereas in non-verbal negation it is associated with a dependent
+of the verb: an adjunct in [3ib], object in [3iib]. This distinction is needed to account for
+the occurrence of the auxiliary do, which is required in the [a] examples of [3], but not
+the [b] ones. Within verbal negation we then distinguish three subcategories:
+[7]i a. You didn’t hurt him.
+ii a. Don’t hurt him.
+iii a. It’s important not to bend it.b. You aren’t tactless.
+[primary]
+b. Don’t be tactless.
+[imperative]
+b. It’s important not to be seen. [secondary]In primary verbal negation the negative marker is associated with a primary verb-form:
+here do is required if there is no other auxiliary verb. In imperative verbal negation
+do is required even if the corresponding positive does contain an auxiliary verb, as in
+[iib]. The third category comprises all constructions other than imperatives containing a
+secondary verb-form: infinitivals, subjunctives, gerund–participials, and so on. Auxiliary
+do does not occur in these constructions. We label this category secondary with the
+understanding that this is a shorthand for ‘non-imperative secondary’.
+(b) Analytic vs synthetic negation
+Analytic negation is marked by words whose sole syntactic function is to mark negation,
+i.e. not and also no in the use in which it contrasts with yes, as in answering a question,
+for example. Synthetic negation is marked by words which have some other function as
+well. Synthetic verbal negation is marked inflectionally, by negative verb-forms. Synthetic
+non-verbal negation is marked by elements of three kinds:
+[8]i absolute negatorsii approximate negators
+iii affixal negatorsno (including compounds nobody, nothing,
+etc., and the independent form none),
+neither, nor, never
+few, little; barely, hardly, scarcely; rarely, seldom
+un·, in·, non·, ·less, etc.",[808]
+"§ 2 Coordinators and related linking items(d) Polarity and evaluation
+Positive terms tend to precede negatives: yes and no, admit or deny , accept or refuse,
+with or without. The concepts of positive and negative are extended to many scales of
+evaluation, and it is again the positive (more highly valued) term that tends to come first:
+good and bad , for [better or worse], friend or foe , right or wrong. The concepts are also
+relevant to pairs like come and go and arrive and depart, where the positive–negative
+contrast is a matter of being at a certain place and not being there.
+(e) Social hierarchy
+Another tendency is for the order to reflect social status: employers and employees ; officers
+and men ; peers and commoners. Two special cases of this hierarchy rank adults above
+children and males above females: father and son ; Mr and Mrs ; the Duke and Duchess of
+Penzance; husband and wife; brothers and sisters; he or she; men, women, and children.
+The male–female order is reversed, however, in Ladies and Gentlemen; bride and groom;
+mums and dads.10 Precisely because the usual male–female order can be seen as reflecting
+the social hierarchy, it can be regarded as a case of ‘sexism’ in language – and it may then
+be consciously reversed for that reason; it has, however, received very much less attention
+and criticism than more obvious cases of sexist language such as the use of masculine
+terms like he to subsume females (Ch. 5, §17.2.4).","[1308, 1309]"
+"In clauses with verbal negation each, most, and some do not readily occur within the
+scope of negation. The salient interpretation of I hadn’t read most of it, for example, is
+“Most of it I hadn’t read”. There is therefore little need for a phrase that explicitly brings
+them within the scope of a negative.
+Both can occur readily enough inside the scope of verbal negation: I couldn’t afford
+both of them. But there is still little need for a phrase combining not with both. Suppose
+two swimmers have attempted to swim the Bering Straits but have not both succeeded.
+If we want to express the quantification in the subject we would very likely be in a
+position to say Neither of them succeeded or Only one of them succeeded, which are
+more informative, and hence generally preferable to the inadmissible ∗Not both of them
+succeeded.
+Not any is of doubtful acceptability. Normally one would instead use no or none, as in
+None of her friends had supported her, but not any is marginally acceptable as an emphatic
+alternant: ?Not ANY of her friends had supported her.
+(b) Not one
+[5]i Not one person supported the proposal.
+ii They had found not one mistake.
+Not one has a somewhat wider distribution than the items in [4i], in that it can occur
+post-verbally, as in [5ii]. We can also have not in combination with a or a single: They
+had found not a single mistake.(c) Not two, etc.: “less than’’
+[6] i Not two years ago this company was ranked in the top ten.
+ii He was here not ten minutes ago.
+Not behaves differently in combination with numerals denoting numbers higher than
+one than in (b) above. In the first place, not two, etc., are largely confined to measure
+phrases, of time, distance, and the like. They could not replace one in such examples as
+[5ii]: ∗They found not two mistakes. Secondly, not in [6] marks subclausal negation: the
+clauses are positive, as evident from the lack of inversion in [i], and the reversed polarity
+tags, which would be wasn’t it? and wasn’t he? The clauses in [5], by contrast are negative
+(though not one or not a single . . . can also occur in measure phrases with subclausal
+negation). The interpretation of not in [6] is “less than”, and this sense is found also in
+such expressions as not an hour ago, not long before his death, not far from the post office,
+etc., which likewise do not mark clausal negation.
+(d) Not a little, not a few
+[7]His speech had caused not a little confusion.",[828]
+"In [a] stop is syntactically within the complement of try and semantically within its
+scope, and conversely in [b]: here try is within the syntactic complement and semantic
+scope of stop. In [21iib], then, it is not simply that promise is outside the scope of the negative: the negative is inside the scope of promise. We are concerned here, then, with relative
+scope: we have two scope-bearing elements and the issue is which has scope over the other.
+As far as negation is concerned, the clearest cases are those like [21] where relative
+scope is reflected in the contrast between matrix and subordinate clauses.1 Less obvious
+1Even here, however, matters are not entirely straightforward. With auxiliary verbs the issue arises as to
+whether a following not belongs in the matrix or the subordinate clause (see §2.3.2), and we will also find§ 1.3.2 Relative scopeare cases where relative scope is not marked by clause subordination in this way. We will
+consider two such cases here, involving the scope of negation relative to adjuncts in clause
+structure and relative to quantifiers; the issue also arises with respect to coordinators
+(see Ch. 15, §2.2.2) and modal auxiliaries (Ch. 3, §9.3.1).
+(a) Relative scope of negation and adjuncts in clause structure
+Consider first the relative scope of negation and an adjunct such as intentionally.
+[23] i Liz intentionally deleted the backup file.
+ii Liz intentionally didn’t delete the backup file.
+iii Liz didn’t intentionally delete the backup file.[adjunct has scope over negative]
+[negative has scope over adjunct]The truth conditions for positive [23i] can be given as follows:
+[24] i “Liz deleted the backup file”
+ii “Liz did what she did intentionally”
+Now [23ii] cannot be true by virtue of [24ii] being false: it can only be true if [24i]
+is false. Thus [24ii] is a condition for the truth of both [23i] and [ii] and hence outside the scope of negation in [23ii]. And since [24ii] is the meaning contributed by
+intentionally, we can say that intentionally in [23ii] is outside the scope of negation. In
+[23i] what was intentional was Liz’s deleting the backup file, whereas in [23ii] what
+was intentional was Liz’s not deleting the backup file, so the negative is inside the
+scope of intentionally: it contributes to specifying what it was that was done intentionally.
+The interpretation of [23iii] is quite different. This can be true by virtue of it being
+false that Liz acted intentionally. So this time intentionally is inside the scope of negation,
+rather than the other way round. An equivalent way of expressing the difference is to say
+that in [23ii] the negative has narrow scope relative to the adjunct, whereas in [23iii] it
+has wide scope.
+We noted that in the most elementary cases relative scope is reflected in a contrast between matrix and subordinate clauses, as in [21], and in cases like [23ii–iii] the
+difference in meaning can be brought out by means of glosses involving clause subordination:
+[25] i “Liz acted intentionally in not deleting the backup file”
+[meaning of [23ii]]
+ii “Liz didn’t act intentionally in deleting the backup file”
+[meaning of [23iii]]
+When the negative has narrow scope, it appears in the subordinate clause of the gloss;
+when it has wide scope, it appears in the matrix clause of the gloss.
+Contraries and contradictories
+The contrast between [23ii] and [23iii] can also be brought out by noting that they stand
+in different semantic relations to the positive [23i]:
+[26] i Liz intentionally didn’t delete the backup file and Liz intentionally deleted the backup
+file are contraries: they cannot be both true, but they can be both false.
+ii Liz didn’t intentionally delete the backup file and Liz intentionally deleted the backup
+file are contradictories: they cannot be both true, but they cannot be both false
+either.
+that in certain circumstances non-verbal negation within a subordinate clause can have scope over the matrix
+(see §3.2.1).","[812, 813]"
