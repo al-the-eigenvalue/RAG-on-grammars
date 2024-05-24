@@ -1,0 +1,1580 @@
+Paragraph,Page number
+"
+Ik employs eight cases to encode grammatical relations between verbs and
+their arguments, or between arguments and modifiers (genitive). In König’s
+African case typology, Ik is a Type 2 split-accusative system in which both the
+nominative and accusative cases are marked (2008:10). It is ‘accusative’ in
+that when core clausal arguments are marked differently from each other, S
+and A take the nominative case, while O takes the accusative case. And it is
+‘split’ in that this accusativity only occurs when the subject (A) is third
+person. The objects (O) of first and second person subjects (A/S) take the
+nominative case. And when a subject (A/S) is preposed before the verb, for
+example in most types of subordinate clauses, it also takes the accusative.
+(2)      1/2 person subjects             3 person subjects
+        A                O               A                   O   ACC                S            NOM                  S   NOM
+                                                                         233
+Blake defines case as a typical system of “marking the relationship of a noun
+to a verb at the clause level or of a noun to a preposition, postposition or
+another noun at the phrase level” (1994:1). True to this definition, Ik case
+encodes the grammatical relations between a verb and its core arguments
+and any non-core arguments. And though in Ik the genitive case can mark
+arguments for some verbs, its main function is to mark the relationship
+between a noun phrase and a possessive nominal modifier.","[264, 265]"
+"
+In some instances, though, a noun in another case other than the oblique
+can be found after ńꜜda. This happens when a verb ‘sees through’ ńꜜda to
+assign a case role. In the following example, the verb eɡini assigns the dative
+case to mark its conjoined complex indirect object (with a Goal role):
+(55)    Egini guritinie nda ŋatametaak.
+        eɡ-ini    ɡúr-ítíní-e         ńꜜda         ŋátámɛtaá-kᵉ
+        put-SEQ heart- PL-DAT         and          thoughts-DAT
+        And they put (it) in their hearts and thoughts.
+252
+6.3.2 Nominative
+The nominative case suffix {-a} has engendered more than its share of
+confusion in the descriptive literature. Referring to this morpheme, Heine &
+König state that “Like Crazzolara, we consider the ‘complemental suffix’ to
+be a functionally empty appendage of nouns…in their unmarked form.
+Accordingly, it is interpreted as a morphologically redundant ending…”
+(1996:137). Later, the segmental similarity between the nominative {-a}
+and the accusative {-(k)a} led to the following comment (König 2008:73):
+        “The final vowel -a has a unique value in the system. All words or
+        particles of the language end by default in the vowel -a, and so are
+        nominative and accusative case forms (in the non-final form). It
+        remains unclear whether the - a of the nominative and accusative is
+        triggered by the general rule of the language to use vowel -a as a
+        default ending of each word or whether -a has the value of an
+        independent case suffix encoding nominative or accusative.”","[283, 284]"
+"
+A complex sentence like this one embodies the language’s full-fledged
+morphological case-marking system. In addition to word order and
+connectives like ńda ‘with’, Ik uses this case system to mark grammatical
+relations and encode semantic roles in an integral and efficient manner.
+232
+6.1     Case overview
+        “The case marking typology of a language is surely its most central
+        typological parameter, since almost all other parts of the grammar
+        must interact with it.”—Talmy Givón, quoted by Serzisko (1992:50)
+All Ik nominals must be inflected for case, and formal parallels of nominal
+case markers are found in other diverse parts of the grammar. Due to its
+grammatical centrality, the Ik case system has already been the subject of
+several works (e.g. Heine 1990, König 2002, König 2008, and Schrock
+2014). As König defines it, “a case system is an inflexional system of
+marking nouns or noun phrases for the type of relationship they bear to
+their heads… expressed by affixes, tone, accent shift, or root reduction…”
+(2008:5). Out of the above list, Ik uses a combination of affixes and stem
+reduction to encode case relations. The affixes are suffixes, and stem
+reduction means the stem-final vowel is deleted before some case suffixes.","[263, 264]"
+"
+In terms of areal parallels for the Ik case system, the closest place to look is
+Teso-Turkana. Dimmendaal’s description of the Turkana case system reveals
+a few similarities with Ik but also substantial differences (1983:66-67). With
+six cases (absolutive, nominative, genitive, instrumental, locative, and
+vocative), Turkana has almost as many as Ik. But a crucial difference is that
+Turkana cases are marked with tone rather than affixes. Also, while Ik is
+both a marked nominative and marked accusative language, Turkana is only
+a marked nominative language: Direct objects, indirect objects, and a noun’s
+citation form are all unmarked as absolutive. But post-verbal clauses
+subjects take the tonally marked nominative case. So if Teso-Turkana had
+influence on the development of the Ik case system, it was through syntax
+only and not morphology. Tone plays no role at all in Ik case marking.",[277]
+"
+As a putative close relative of Ik, the Kuliak So exhibits substantial
+morphological decay of an older Kuliak case system that Ik has more fully
+retained (Carlin 1993:90-93). The table in (33) presents the author’s
+analysis of the current overlap between the case systems in both languages.
+Namely, the So ‘goal’ case morpheme -Vk is a relic of the Ik dative case
+morpheme {-kɛ} but has taken only some of its semantic roles (goal and
+recipient). The Location role of the Ik dative case has been assumed by the
+So ‘locative’ case -a/o. But this case now also shares roles handled by the Ik
+ablative case {-ɔ} (e.g. location) and in one of its allomorphs shares the
+form as well. The So ‘circumstantial’ case seems to take its current form
+(-ʊk) from the Ik copulative case, which, in combination with a verb-final
+vowel often looks like -ʊkᵓ. The So circumstantial case shares the semantic
+roles of instrument and cause with the Ik ablative case:
+246
+(33)    Comparison of Ik and So case suffixes
+        Ik               So
+        OBL        -Ø
+        NOM        -a
+        DAT        -kɛ        -Vk      ‘Goal’
+                              -a, -o   ‘Locative’
+        ABL        -ɔ
+        INS        -ɔ         -ʊk      ‘Circumstantial’
+        COP        -kɔ
+        ACC        -ka
+        GEN        -ɛ6.3     Case on nouns
+The present section presents details of each of the eight cases as they apply
+to their function in the nominal system. Formal parallels to case suffixes and
+their functions in other grammatical subsystems are treated in §6.4.","[277, 278]"
+"
+Case—an interface of phonology, morphology, syntax—is a pan-systemic
+feature of Ik grammar. Not only must every noun be inflected for case, but
+even some of the verbal suffixes appear to be grammaticalized case markers.
+The Ik case system is split-accusative: Direct objects are marked in the
+nominative case with 1/2-person subjects and in the accusative with 3-
+person subjects. In the Ik system, eight cases are observed: nominative,
+instrumental, ablative, genitive, accusative, dative, copulative, and oblique.",[51]
+"
+5.1     Personal pronouns
+The Ik personal pronominal system has a 1/2/3 personal reference. Each
+grammatical person can be either singular or plural. Like the neighboring
+Teso-Turkana languages, Ik makes a distinction between first person plural
+exclusive (excluding the addressee) and first person plural inclusive
+(including the addressee). But unlike in the Teso-Turkana languages,
+grammatical gender is not reflected in any part of the Ik pronominal system.
+Lastly, Ik has both free personal pronouns and bound pronominal suffixes
+on verbs. Both types are described in the following two sections.
+202
+5.1.1 Free personal pronouns
+The Ik free personal pronouns are free grammatical words. The hyphenated
+forms in (1) signify not prefixation but rather roots in need of case suffixes:
+(1)     Ik free personal pronouns
+        1SG             ɲ́ci-
+        2SG             bi-
+        3SG             ntsí-
+        1PL.EXC         ŋɡó-
+        1PL.INC         ɲjíní-
+        2PL             biti-
+        3PL             ńtí-
+Case suffixation produces the inflectional variety shown in the next table.
+(2) presents a non-final form case paradigm for all seven free personal
+pronouns. The nominative and instrumental case forms for 1SG reflect the
+morpho-phonological de-affrication described in §2.5.2. And in the ablative
+and copulative cases, there is some variation in the degree to which the
+pronoun-final /i/ assimilates to the case suffix consisting of /o/ (§2.5.4):
+(2)     Case paradigm for Ik free personal pronouns
+               1SG              2SG    3SG      1PL.EXC   1PL.INC   2PL      3PL
+        OBL    ɲ́ci             bi     ntsi     ŋɡo       ɲjíni     biti     ńti
+        NOM    ŋ́k-a            bi-a   nts-a    ŋɡw-a     ɲjín-a    bit-a    ńt-a
+        INS    ŋ́k-o            bu-o   nts-o    ŋɡ-o      ɲjín-o    bit-o    ńt-o
+        ABL    ɲ́cu-o           bu-o   ntsú-ó   ŋɡó-ó     ɲjíní-o   bitu-o   ńtú-o
+        GEN    ɲ́ci-e           bi-e   ntsí-é   ŋɡó-é     ɲjíní-e   biti-e   ńtí-e
+        ACC    ɲ́ci-a           bi-a   ntsí-á   ŋɡó-á     ɲjíní-a   biti-a   ńtí-a
+        DAT    ɲ́ci-e           bi-e   ntsí-é   ŋɡó-é     ɲjíní-e   biti-e   ńtí-e
+        COP    ɲ́cu-o           bu-o   ntsú-ó   ŋɡó-ó     ɲjíní-o   bitu-o   ńtú-o
+                                                                               203
+In terms of internal reconstruction, there appears to be a morphological
+relationship between the first person free pronouns: the singular ɲ́ ci- ‘I’, and
+the plural ŋɡó- and ɲjíní- ‘we’. It looks like the 1PL.INC ɲjíní- is a pluralization
+of the first person singular ɲ́ ci-. Recall from §4.2.5 that the possessive
+plurative {-ɪnɪ} may be used to pluralize a possessed or associated person or
+object. In light of this, the 1PL.INC ɲjíní- can be analyzed as ɲc+ɪnɪ- → ɲc-íní-
+→ ɲjíní-. The change in voicing from /c/ to /j/ is seen in modern Ik in
+another pronominal form: ɲj-ɛ́nɪ́- ‘mine’, where -ɛ́nɪ́ is an impersonal
+possessum marker (§5.2). Semantically, the first person plural inclusive
+pronoun may have grammaticalized from a word meaning something like
+‘my Xs’ or ‘those associated with me’, i.e., including you the addressee(s).","[233, 234, 235]"
+"
+Ik is a pro-drop language, so the free personal pronouns are not required if
+their referent is a subject or object. They can be used in addition to the
+pronominal subject-agreement suffixes if more emphasis is needed.
+                                                                          205
+5.1.2 Personal possessive pronouns
+Ik has no other personal possessive pronouns than those presented in (1).
+Possession is expressed in two ways through those personal pronouns: 1)
+The first way is to mark possession by putting the pronoun (PRO) in the
+genitive case as an NP modifier, following the possessum NP head. 2) The
+second way is to put the pronoun in the oblique case as the first element in
+a possessive compound. Both ways are illustrated below. No semantic
+difference is known to exist between the two, though pragmatic, discursive
+or rhythmic preferences may lead a speaker to chose one over the other.","[236, 237]"
+"
+The Ik equivalent of the Teso-Turkana mountain names beginning with the
+root -moru are formed with the Ik roots ɡwasá- ‘rock’, kokoró- ‘ridge’, kuɓa-
+‘hill’ or kwará- ‘mountain’. Such names include the following:
+(116)   Ik mountain names
+        Irika-kokoró-        ‘Irika Ridge’
+        Kɔpa-kwara-          ‘Vulture Mountain’
+        Mɔƙɔrɔ́-ɡwasa-       ‘Rock-Pool Stone’
+        Palúu-kuɓa-          ‘Palu’s Hill’
+        Seɡerí-kwára-        ‘Tree (sp.) Mountain’
+        Séítíní-kokóró-      ‘White Quartz Ridge’
+        Taɓá-kókóró-         ‘Boulder Ridge’
+Finally, many Ik place names are simply single words. For some of them,
+their meanings are still recoverable, while for others, they are not:
+200
+(117)   Single-word Ik toponymns
+        Aŋatárɪ-           ‘Angʼatar’
+        Burukáí-           ‘Kenya’
+        Cerúbe-            ‘Cherub’
+        Cucueika-          ‘Damp Chills’
+        Dódofa-            ‘Dodof’
+        Ɗasoƙo-            ‘Uganda (lit. ‘flatness’)’
+        Ɗómoko-            ‘Dʼomok’
+        Galatsɪ-           ‘Galats’
+        Ísɛ́ɛ-             ‘Ise’
+        Íwɔlɔ́ɔ-           ‘Iwolo’
+        Kɛ́tɛ́la-          ‘Ketel’
+        Laatsoó-           ‘Laatso’
+        Muƙei-             ‘Mukʼe’
+        Nofo-              ‘Nof’
+        Oŋóríza-           ‘Ongʼoriz’
+        Puɗápúɗa-          ‘Pudʼapudʼ’
+        Sɛkɛtɛ́-           ‘Seket’
+        Siƙákᵉ             ‘In-the-Dew’
+        Tsíɡaka-           ‘Tsigak’
+        Wúsé-              ‘Wus’
+5 PronounsThe term ‘pronoun’ is used here rather loosely. This chapter describes words
+and affixes that truly represent missing or implied nouns. But it also
+includes certain nouns and affixes that have meanings like the pronouns in
+other languages (e.g. English). In some cases, it is not easy to tell whether a
+particular item is a grammatical word with a pronominal function or a full
+lexical noun with a pronoun-like meaning. For example, saí- means ‘some
+more’ or ‘some other’, although it inflects fully for case and can take a
+nominal complement as in saa róɓaᵉ ‘some other people’. So is it a noun or a
+pronoun? The goal of this chapter is to describe anything identified as either
+a pronoun or noun with pronominal meanings or functions.","[231, 232, 233]"
+"
+Even though they adverbially specify a location or direction, the Ik locative
+adverbial demonstratives exhibit the structure and behavior of nouns. That
+is, they can be inflected for all eight nominal cases and can be modified by
+deictic demonstratives as well as relative clauses. When they are modified
+by relative clauses, they fulfill the language’s need for locative adverbial
+clauses. For example in (34), the locative demonstrative naí- acts as a
+peripheral argument (encoding a Destination role) of the verb ƙa- ‘go’. It is
+then modified by a relative clause (RC) introduced by the relative pronoun
+=noo. The whole construction acts as a locative adverbial clause (LOC ADV):
+(34)    Ƙaa nayee noo itsyaketad.
+        ƙa-a     [naí-é=[noo             itsyak-et-á=dᵉ]REL]LOC ADV
+        go-REAL where-DAT=REL.SG.PST3 begin-INCH- REAL=DP
+        She’s going to where she started.
+                                                                         441
+The whole system of the first set of Ik locative demonstratives is apparently
+based on the noun aí- ‘location, side’. This noun, combined with the
+nominal spatial demonstratives, produces a system of locative reference that
+shows various degrees of grammaticalization and phonological erosion.
+Because the noun aí- ‘location, side’ is at the heart of this system, in
+principle all members of the paradigm should inflect for all eight Ik nominal
+cases. In reality, though, some of the case suffixes have been lexicalized as
+part of the noun base and substantially eroded, resulting in case conflation.
+(35) shows the synchronic system of locative demonstratives, their
+hypothetical diachronic development being discussed below:
+(35)    Deictic locative adverbial demonstratives (Set 1)
+        Case    Proximal           Medial             Distal
+        OBL     naí (=na)          naí (=ne)          kɔ́ɔ ́ (=kɛ)
+        NOM     nay-á (=na)        nay-á (=ne)        kɔ́ɔ ́ (=kɛ)
+        INS     nó-ó (=na)         nó-ó (=ne)         kɔ́ɔ ́ (=kɛ)
+        ABL     naí-ó (=na)        naí-ó (=ne)        kɔ́ɔ ́ (=kɛ)
+        GEN     naí-é (=na)        naí-é (=ne)        kɔ́ɔ ́ (=kɛ)
+                néé (=na)          néé (=ne)
+        ACC     naí-á (=na)        naí-á (=ne)        kɔ́ɔ ́ (=kɛ)
+        DAT     naí-é (=na)        naí-é (=ne)        kɔ́ɔ ́ (=kɛ)
+                néé (=na)          néé (=ne)
+        COP     naí-ó (=na)        naí-ó (=ne)        kɔ́ɔ ́ (=kɛ)
+First of all, the proximal and medial forms in (35) are made up of the noun
+aí- plus the proximal demonstrative na= as a proclitic. The same
+demonstrative is then an optional enclitic for the proximal forms, while the
+medial demonstrative =ne is an optional enclitic for the medial forms. The
+proclitic nɑ= has apparently undergone phonological reduction. Then, once
+nɑ= and aí- were conflated into naí-, it became subject to vowel
+assimilation. In the instrumental case, marked by the suffix {-ɔ}, the
+resulting form is nóó. This vowel assimilation is expected since the
+instrumental case deletes the stem-final vowel. However, in the genitive and
+442
+dative cases, both of which are marked with the suffix {-(k)ɛ}, the resulting
+form is néé. This form involves further phonological reduction:
+(36)    Instrumental:          na= +aí-+-ɔ ͏ → nóó
+        Genitive/dative:       na= +aí-+-ɛ → naí-é         → néé
+As for the distal locative demonstrative, it appears to have undergone
+grammaticalization and phonological reduction to the point that it has the
+same form in all nominal cases: kɔ́ɔ=
+                                    ́ (kɛ). In years past, the distal locative
+demonstrative comprised a regular part of the paradigm in which the noun
+aí- was flanked on both sides by the distal nominal demonstrative kɛ, as in
+ke=aí-é=ke, for example, in the genitive and dative cases. At some point,
+the preceding ke= merged with the base noun, and at a later point, the
+instrumental case form kɔ́-ɔ́ was substituted for all the cases. Since it has
+undergone phonological reduction and morphological conflation to this
+degree, the form kɔ́ɔ́ is analyzed here as a single morpheme synchronically.","[472, 473, 474]"
+"
+Another question relevant to the Ik accusative case is what semantic roles
+the object of a transitive clause can take. This question applies to transitive
+objects generally, including those marked in the nominative case. Ik direct
+objects encode the expected semantic role of Patient, but they can also
+encode Direction and/or Purpose. Three Ik verbs of motion—ats- ‘come’, ƙa-
+‘go’, and ɪtá- ‘reach’—are unusual in that they can behave like transitive
+verbs. Similar motion-verb properties have been reported as common in
+Cushitic and Omotic languages (Dimmendaal 2003:100). Old Nubian is
+reported to have marked Patients and Directions with the suffix -ka, while
+the Semitic language Tigrinya uses its accusative prefix ni-/nä- to mark
+Patients, Directions, and many other roles (Dimmendaal 2010:41).
+276
+The following sentences are examples of a) Ik motion verbs functioning as
+transitive verbs and b) object case (NOM or ACC) marking Direction/Purpose:
+(130)   Atsaa ƙanesia kuruɓadie ntsi.
+        ats-á-á          ƙan-ésí-aO     kúrúɓádi-e ntsí-∅
+        come- REAL-PRF get-INF-ACC things-GEN he-GEN
+        He has come to get his things.
+(131)   Ƙaa naa dzigwa nƙaƙae.
+        ƙa-a=náa         dzíꜜɡw-aaO ŋƙáƙá-ᵉ
+        go-REAL=PST 1 buy-ACC           food-GEN
+        He went to buy food.","[307, 308]"
+"
+Moving on to compound structure: Compounds reverse the normal noun
+phrase word order in which modifiers follow the heads they modify. In
+compounds, the modifier appears as N1 followed by the head as the N2.
+                                                                            175
+Take the compound in (69), for instance, where the noun dakú- ‘tree’ is used
+as the modifying N1. Then compare the word order of the compound with
+that of a normal noun phrase having the same meaning:
+(69)    Compound versus noun phrase
+        dakúMOD-ɓɔ́lHEAD       ɓɔ́láHEAD   dakwíMOD
+        tree-shin:NOM          shin:NOM tree:GEN
+        ‘tree trunk’           ‘trunk of the tree’
+As a third structural feature, compounds involve a special case marking: The
+N1 takes the oblique case while the N2 takes whatever case the syntax
+requires for the whole construction. In the oblique case, the form of the N1
+is usually an exact representation of its underlying lexical form. An
+exception to this statement is that a noun ending in a VV sequence will lose
+its final vowel when joined to another noun in a compound. In the following
+examples, the noun bubuu- ‘belly’ is compounded with aƙɔ́- ‘interior’.
+Observe that the final vowel of bubuu- is lost and that only the case of the
+N2, aƙɔ́-, changes with different clausal argument structures:
+(70)    Doda bubuaƙw.
+        dód-a          bubu-aƙw-ᵃ
+        hurt-REAL      belly[OBL]-interior-NOM
+        (My) inner belly hurts.","[206, 207]"
+"
+A ‘core argument’ in Ik is generally defined as any verbal argument that
+cannot be represented by the dummy pronoun (§5.10). Normally such
+arguments are encoded with the nominative, accusative, or copulative cases,
+but as explained below, various complications occur. And as its label
+suggests, the ‘oblique’ case straddles the simple divide between ‘core’ and
+‘non-core’ cases: It actually encodes all core arguments in imperative and
+optative clauses, as well as a variety of peripheral argument roles in other
+types of clauses, but it cannot be represented by the dummy pronoun. The
+basic case-marking scheme for clausal arguments in Ik is presented in (3):
+(3)     Basic case-marking scheme on clausal arguments
+        Core         NOM, ACC, COP, (OBL)        Non-core     INS, ABL, DAT, GEN, (OBL)Subjects (A/S) of indicative clauses always bear the nominative case suffix:
+(4)     Epa ŋok.
+        ep-a               ŋók-ᵃS
+        sleep[3SG]-REAL dog-NOM
+        The dog is sleeping.",[265]
+"
+The type of case-marking neutralization exhibited in (80)-(81) violates
+König’s typological prediction #7 for African languages with case: “If the
+language is verb-initial or verb-medial, then the ‘no case before the verb’
+rule applies” (2008:281). The Surmic language Tennet, spoken not far from
+Ik in South Sudan, also violates this prediction, but only partially. But as
+hinted at above, normal case marking is retained in Ik subordinate clauses
+with sequential aspect verb forms. Note that in the following example, all
+core arguments bear the nominative case suffix (including the object):
+(82)    Na nka atsʼia ema,...
+        [na=ŋk-aA         átsʼ-ɪ-aV              em-aO]COND
+        CONJ =I-NOM       gnaw-1SG-SEQ           meat-NOM
+        If I gnaw on meat,…
+496
+9.8      Relative clauses
+Because many Ik subordinate clauses are based on the relative clause
+construction, relative clauses need to be discussed without further delay. To
+begin with, Ik exhibits a canonical relative clause construction having the
+following characteristics (the first four drawn from Dixon 2010:314):
+      1. The relative clause (RC) is embedded in a main clause (MC), making
+         up one full sentence.
+      2. The underlying structure of the RC and MC share a common
+         grammatical argument (CA).
+      3. The RC functions as syntactic modifier of the CA in the MC.
+      4. The RC has the basic structure of a clause, with a predicate and the
+         required nominal arguments (as well as peripheral arguments).
+      5. All core arguments in the RC are marked in the accusative case, just
+         as in all other subordinate clauses (except sequential ones).","[527, 528]"
+"9.10 Verbless clauses
+Changing gears now from subordinate back to main clauses: Two kinds of
+main clause are verbless: 1) the verbless copulative clause (§9.10.1) and 2)
+the verbless dative/genitive clause (§9.10.2). These are described next.
+518
+9.10.1 Verbless copulative clause
+Verbless copulative clauses—covered in this section—are ‘verbless’ in the
+sense that they put a nominal marked with the copulative case in the
+predicate slot. This construction differs from the verbless dative/genitive
+clauses which are ‘verbless’ in the sense that they exhibit no predicate slot
+at all in the surface structure. In verbless copulative clauses, the predicative
+nominal can consist of a noun, pronoun, or nominalized verb. What allows a
+noun phrase to function as predicate is none other than the copulative case
+(described in detail in §6.3.8). In the copulative case, the copulative suffix
+{-kɔ} affixes to the underlying form of the nominal stem:
+(143)   Copulative predicates
+        Lexical                         Copulative
+        cekí-        ‘woman’     →      cekú-kᵒ           ‘It’s a woman’
+        ntsí-        ‘s/he/it’   →      ntsú-kᵒ           ‘It’s she.’
+        dód-oni-     ‘to hurt’   →      dód-onu-kᵒ        ‘It’s pain.’
+The copulative case enables a verbless grammatical alternative to the copula
+of identity mɪt-. Though mɪt- expresses both identity and possession, the
+copulative case expresses strictly identity. Serzisko further qualifies the
+meaning of mɪt- as one of ascription/description’ compared to that of the
+copulative which expresses ‘specification’ (1992:55ff).","[549, 550]"
+"
+In Ik, a noun is any word whose primary function is to be the head of a
+noun phrase, which in turn functions as an argument of a verb. As the head
+of a noun phrase, a noun must be inflected for case to show its relation to
+other words. It may also take other nominal suffixes and may be joined to
+another noun or pronoun in a compound construction. A second function of
+an Ik noun is to be the head of the predicate. To fulfil this function, a noun
+must take the copulative case marker (§6.3.8), which is the functional
+equivalent of a copula and allows the noun to stand alone as a sentence.",[163]
+"
+Another defining property of Ik subordinate clauses is that all core
+arguments (A/S/O) are marked with the accusative case. Again, this is
+similar to Tennet, where main clauses have a nominative-accusative case-
+marking system, while in dependent clauses, this switches to ergative-
+absolutive (Dimmendaal 2010:33). Also in this connection, the Saharan
+language Tubu, which has Differential Object Marking, an object is more
+likely to be marked accusative if not expressed in its normal position (König
+                                                                               495
+2008:40, cited in Dimmendaal 2010:32). In other words, accusative case is
+reserved for pragmatically marked positions. So in Ik, the accusative
+marking on subjects (A/S) may have something to do with the subject being
+in a pragmatically marked slot, that is, before the verb. The next two
+examples illustrate this with intransitive (80) and transitive (81) clauses:
+(80)    Noo ncia epiaade kuru,...
+        [noo         ɲ́ci-aS    ep-í-á=deV              kurú-∅]TEMP
+        CONJ.PST3    I-ACC      sleep-1SG-REAL=DP shade-ABL
+        When I slept in the shade,…","[526, 527]"
+"
+1     Tensed    relative   pronouns    like    noo     (remote   past)   have    been
+grammaticalized into use as conjunctions introducing temporal subordinate
+clauses. 2 The instrumental case marker {-ɔ} is found on noun phrases
+expressing time concepts. 3 This noun phrase in the genitive case modifies
+the preceding noun sayo. 4 Relative pronouns are enclitics that convey both
+the number of their heads (in this case plural) and the tense of the relative
+clause (in this case remote past). 5 The directional suffixes, like the andative
+{-ʊƙɔtɪ ́-}, are also used aspectually, here as completive. 6 Because there is a
+brief pause between the subordinate and main clauses, the final morpheme,
+here the realis suffix {-a}, is devoiced. 7 The verb comes first in unmarked
+main clauses. 8 Tense enclitics come between the verb and the following
+22
+subject(s). 9 The nominative case suffix {-a} marks the subject (A/S) of
+indicative main clauses. 10 Oblique (peripheral) arguments, like those
+following the coordinating conjunction ńda, are marked with the oblique
+case in Ik, which is zero morpheme.","[53, 54]"
+"
+As    discussed   below    in     §6.4.1,     König   has   traced   a   chain   of
+grammaticalization from an old focus marker (cf. the Cushitic parallels) to
+both the copulative suffix in the nominal system and the sequential aspect
+marker in the verbal system (2002:349-361). And so it would seem that the
+Ik copulative case shows the traits of a transitional form between a nominal
+and verbal morpheme. This might help explain its cross-categorial behavior.
+                                                                            289
+6.4     ‘Case’ and grammaticalization
+Formal parallels or homophones of the nominal case suffixes are found in
+other subsystems of Ik grammar. These are most richly attested in the verbal
+system (§6.4.1), though they are also found on demonstratives, relative
+pronouns, and tense particles (§6.4.2). This homophony has led to claims
+that Ik case is marked on ‘conjunctions, postpositions, prepositions, adverbs,
+and even verbs’ (König 2008:81). But this is misleading because most of
+these word classes are really nouns or verbs in Ik. The notion that nominal
+case suffixes grammaticalized into verbal inflectional affixes is one of the
+key claims of König 2002. Using her methodology, Schrock 2013 traces out
+several other potential grammaticalization pathways going from nominal
+case suffix to verbal affix. The picture emerging from this work is that due
+to its near ubiquity, ‘case’ is a unifying structural element in the language.","[320, 321]"
+"
+(106)   Genitive case paradigm
+        Basic form-GEN     Non-final           Final          Gloss
+        ŋókí-ɛ             ŋókí-e              ŋókí-∅         ‘dog’
+        sɪsɪ ́-ɛ           sɪsɛ́-ɛ́            sɪsɪ ́-∅       ‘honey-beer’
+        ɓóré-ɛ             ɓóré-e              ɓóré-∅         ‘corral’
+        ɲɛƙɛ-ɛ             ɲɛƙɛ-ɛ              ɲɛƙɛ-∅         ‘hunger’
+        ŋʊrá-ɛ             ŋʊrɛ́-ɛ́            ŋʊrá-ᵋ         ‘cane rat’
+        zɪnɔ́-ɛ            zɪnɔ́-ɛ́            zɪnɔ́-ᵋ        ‘zebra’
+        ɗéró-ɛ             ɗéró-e              ɗéró-ᵉ         ‘rat’
+        kafʊ-ɛ             kafʊ-ɛ/kafw-ɛɛ      kafwɪ-∅        ‘thorn’
+        dakú-ɛ             dakú-é/dakw-éé      dakwí-∅        ‘tree’
+268
+The genitive case in Ik has two grammatical functions:
+(107)   Genitive case grammatical functions
+        1    To mark the nominal modifier of a noun phrase head
+        2    To mark the complement of a similative clause
+In the genitive’s first function—to mark a noun dependent on its noun
+phrase head—the genitive-marked noun encodes Possession broadly
+construed, including notions of ownership, whole-part, kinship, attribution,
+orientation, association, and nominalization; see also §9.2:
+(108)   Ownership:      Kisanini kuruɓadiicikaa nti.
+                        kisán-íni    kúrúɓádi-icíká-a       ńtí-∅
+                        divide-SEQ things-VAR.PL-ACC        they-GEN
+                        And they divided up their various things.","[299, 300]"
+"
+The case suffixes have L tone but undergo tone changes coming from the
+stem to which they attach. Though there are eight cases, only six are
+distinct suffixes. Two other case suffixes (the instrumental and the ablative)
+are identical in form but differ in whether they subtract the stem-final
+vowel. This difference creates the seventh case marker. Finally, an eighth
+case (the oblique) is zero-marked. The eight case suffixes are given in (26):
+(26)    Ik case suffixes
+        Case               Abbreviation    Case suffix    Stem reduction
+        Nominative         NOM             -a             Yes
+        Instrumental       INS             -ɔ             Yes
+        Ablative           ABL             -ɔ             No
+        Genitive           GEN             -ɛ             No
+        Dative             DAT             -kɛ            No
+        Accusative         ACC             -ka            No
+        Copulative         COP             -kɔ            No
+        Oblique            OBL             -Ø             No
+6.2.1 Case allomorphy
+The Ik case suffixes undergo intricate morphophonological variations that
+have confounded earlier attempts to analyze and describe the case system as
+a whole. From Crazzolara 1967 all the way to Schrock 2014, the literature
+reveals a progressing understanding of Ik case. Some of these tricky
+morphophonological variations include pre-pause devoicing (§2.3.1), inter-
+                                                                              241
+vocalic consonant deletion (§2.9.3), vowel assimilation (§2.9.4), and vowel
+harmony (§3.1). A good way to become familiar with the variations is to
+look at the case declensions of several nouns, starting with ŋókí- ‘dog’:
+(27)    Case inflection of ŋókí- ‘dog’
+        Case     Non-final (/____...#)    Final (/_____#)
+        NOM      ŋók-á                    ŋók-ᵃ
+        INS      ŋók-ó                    ŋók-ᵒ
+        ABL      ŋókú-o                   ŋókú-∅
+        GEN      ŋókí-e                   ŋókí-∅
+        DAT      ŋókí-e                   ŋókí-kᵉ
+        ACC      ŋókí-a                   ŋókí-kᵃ
+        COP      ŋókú-o                   ŋókú-kᵒ
+        OBL      ŋókí                     ŋókⁱ
+As shown in (27), Ik case suffixes have non-final and final forms. This
+division entails different things for different groups of case suffixes. First, all
+suffixes undergo devoicing in final, pre-pause environments (§2.3.1).
+Suffixes that consist of vowels only (NOM, INS, ABL, GEN) are devoiced or
+deleted, depending on the preceding consonant or vowel (see §2.3.1). For
+suffixes that consist of a -CV sequence (DAT, ACC, COP), their final vowel is
+also devoiced or deleted under the same conditions. For the one case that is
+zero-marked (OBL), the final vowel of the noun root or stem is devoiced.
+Second, all the suffixes that contain the segment /k/ (DAT, ACC, COP) lose the
+/k/ in their non-final forms. This deletion of /k/ is part of a larger,
+language-wide tendency to delete consonants in non-final positions (§2.9.3).","[272, 273]"
+"
+6.3.6 Accusative
+The accusative case suffix has the form {-ka}, and as such, is one of three Ik
+case suffixes that consist of /k/ plus a vowel (the other two being the dative
+and the copulative, described below). Potential parallels for this suffix are
+widespread in the general Ethio-Sudanic language area. For Nilo-Saharan
+accusative cases, “the widest-spread marker is a velar, occurring in at least
+six of twelve families; it seems safe to assume this is a reflex of the proto-
+form” (Dimmendaal 2010:30), which Ehret reconstructs as *-kɔ̀ (2001:203).
+Besides Ik, Shabo (Nilo-Saharan or unclassified) has -kak or -k as an
+object/accusative marker (Teferra 1991:9). And the Cushitic language Afar
+marks objects on the verb with the morpheme -aka (Mahaffy n.d., p. 29).",[303]
+"
+Likewise, if the common argument (CA) or head of a normal relative clause
+is a peripheral argument in the relative clause, then the dummy pronoun
+                                                                             229
+must be attached to the verb. This is because the relative pronoun
+representing the CA of the relative clause comes before the verb in Ik,
+meaning it has been fronted from what would be its normal position after
+the verb. This fulfills the requirements for the use of the dummy pronoun:
+(68)    Ɗuo nuu didia watad.
+        ɗu-ó=nuu                   didi-a           wat-á=dᵉ
+        PRO. PL- COP=REL.PL.PST 3 weather-ACC       rain-REAL=DP
+        It’s the ones (i.e. reasons) which it rained for.
+        ‘That’s why it rained.’
+(69)    Odoiciko ni atsiimad.
+        ódo-icík-ó=ni           ats-í-ím-a=dᵉ
+        day-PL-INS=REL.PL       come-PLUR-1PL.EXC-REAL=DP
+        During the days which we usually come on.
+        ‘The days when we usually come.’
+(70)    Ɗa nuu biraad, mayuode emuti dee.
+        ɗ-a=nu-u                   bɪrá-á=dᵉ |
+        ones-NOM=REL.PL-PST 3 lack-REAL=DP
+        Those it was missing from,
+        ma-íó=ꜜde         emuti=ꜜdéé
+        give-IMP.PL=DP story[OBL]=ANPH.SG
+        give them that storyǃ
+In (68), the CA of the main clause (a copular cleft construction) and the
+relative clause is the cause or reason for rain. Since it is left-dislocated out
+of the relative clause, it is marked with the DP. In (69), the CA of main and
+relative clauses is a time expression. In (70), the DP is used twice: 1) First, it
+marks the source object of the verb bɪraa ‘it lacks’ that has been fronted
+(things lack from in Ik), and 2) second, it marks the recipient object of the
+imperative verb maíó ‘give (pl.)’ that is in the previous clause (ɗɑ=nuu).
+6 CaseThe description of Ik ‘case’ is placed here between nouns and verbs because
+as a meta-categorial system, it applies to both these major word classes.
+Case is the backbone of Ik grammar. It permeates nearly every grammatical
+subsystem, such that a good grasp of it is key to knowing the language.
+Thus, beyond giving an overview of the case system (§6.1), this chapter’s
+aim is to lay out the details of case in the nominal system (§6.2-6.3) and
+grammaticalized ‘case’ in other systems, particularly that of verbs (§6.4).","[260, 261, 262, 263]"
+"
+(137)   Isio tubiitee ncia ʝiik?
+        isi-o             túb-i-it-é=e                          ɲci-aO ʝíík
+        what-COP          follow-PLUR-2PL-REAL=DP               I-ACC   always
+        Why do you follow me always?
+278
+6.3.7 Dative
+The dative case suffix has the form {-kɛ}. Potential areal parallels for it
+include the Cushitic language Saho’s goal/source marker -k (Banti & Vergari
+2005:14) and the Dhaasanac ‘core adposition’ -(k)i that encodes dative,
+benefactive, and instrumental roles (Tosco 2001:232).","[309, 310]"
+"
+6.2.2 Case origins
+The precise origin of the Ik case suffixes is not known, but a clue may come
+from how they affix to nominal stems. As noted earlier, the case suffixes can
+be grouped according to their suffixation ‘strategy’—subtracting or
+preserving the stem-final vowel. These different suffixation strategies may
+point to two different origins for the suffixes. Ik syllable structure does not
+allow consonant clusters, so those case suffixes that begin with /k/
+(accusative {-ka}, dative {-kɛ}, and copulative {-kɔ}) require the stem-final
+vowel to remain to prevent a CC sequence. It seems likely, then, that the
+ablative {-ɔ} and genitive {-ɛ} may have once contained a consonant as
+well, since they preserve the stem-final vowel. The nominative {-a} and
+instrumental {-ɔ} suffixes, though, seem to have originated as single vowels
+since they do not require the stem-final vowel to break up a CC sequence.",[275]
+"
+The nominative case marks out the following five grammatical functions:
+(58)    Nominative case grammatical functions
+        1    The citation or isolation form of nouns.
+        2    The subject (A/S) of indicative main clauses.
+        3    The subject (A/S) of sequential subordinate clauses.
+        4    The object (O) of transitive clauses with 1-2 person subjects.
+        5    A fronted (left-dislocated or apposed) argument.",[286]
+"
+Lastly, for extended transitive verbs, the original transitive subject (A)
+becomes the direct object (O), while the original direct object becomes the
+484
+first extended object (E1) marked with the dative case. And the original
+extended object (E1) becomes the second extended object (E2), also in the
+dative case. This construction puts Ik in the company of the relatively few
+languages worldwide—like Japanese, Turkish, and Kamaiurá—that allow
+more than one dative noun phrase in the same clause (Dixon 2012:264):
+(46)    Maƙotiaa nka kaudza konie amae.
+        ma-ƙot-í-a-a             [ŋk-a]A [kaúdz-a]O [kɔnɪ-ɛ       ámá-ᵉ]E1
+        give-AND-1SG -REAL-PRF   I-NOM   money-NOM one-DAT        person-GEN
+        I have given the money to another person.","[515, 516]"
+"5.2     Impersonal possessum pronoun
+In addition to the personal possessive pronouns shown above in (5), Ik also
+has a pronoun that expresses possession without reference to grammatical
+person. This impersonal possessum pronoun (PSSM) has the form -ɛnɪ́- (no
+plural). It occurs as the second element (N2) of a compound, where the N1 is
+the possessing entity. The pronoun itself is used to reference a possessum
+that may or may not also be explicitly mentioned, as in bi-ɛn ‘yours’ versus
+bi-ɛna awáᵉ ‘your home’. If the possessum is explicitly mentioned, as in bi-
+ɛna awáᵉ ‘your home’, it comes after impersonal possessive compound and
+takes the genitive case (as in ‘you-PSSM home-GEN’).
+                                                                              209
+In combination with a personal pronoun, the impersonal possessum is
+roughly equivalent in translation to the independent English possessive
+pronouns, like ‘mine’, ‘yours’, ‘its’, as in:
+(9)      Ik impersonal possessum pronoun
+        ɲj-ɛ́nɪ ́-      ‘mine’
+        bi-ɛ́nɪ ́-      ‘yours (sg.)’
+        nts-ɛ́nɪ ́-     ‘his/hers/its’
+        ŋɡó-ɛ́nɪ ́-     ‘ours (exc.)’
+        ɲjíní-ɛnɪ-      ‘ours (inc.)’
+        biti-ɛnɪ ́-     ‘yours (pl.)’
+        ńtí-ɛnɪ-        ‘theirs’
+The tone of -ɛnɪ́- changes according to the melody of the compound’s N1. But
+because it is in a compound, the dominant [+ATR] value of the N1 does not
+spread across the morpheme boundary. The impersonal possessum is
+analyzed as an N2 instead of a suffix because, as a general rule: a) It does
+not alter the tone of the N1, b) it does not delete the final vowel of the N1,
+and c) is it not harmonized for [ATR] by the N1. Nevertheless, it remains
+somewhat of a hybrid between suffix and N2 in that: a) It accompanies a
+tone change of the N1 in the case of the 1SG (ɲ́ ci- → ɲjˊ-) and b) it deletes the
+final vowel of the 1SG and 3SG N2 pronouns (ɲ́ ci- → ɲjˊ- and ntsí- → ntsˊ-).","[240, 241]"
+"
+The Ik accusative suffix has a L tone but may take a H tone according to the
+stem’s tone melody (T7). It is one of the language’s opaque dominant
+[+ATR] suffixes and thus can also be represented as {-ka+}. Any recessive
+enclitic following the accusative suffix will surface as [+ATR].
+272
+It does not delete the final vowel of the stem but instead attaches directly to
+it. Before a pause, the vowel of the suffix devoices, changing the suffix to
+/-kᵃ/ or /-k̚/. And within a phrase, the suffix loses the /k/, changing the
+suffix simply to /-a/. If the stem-final vowel is a high back vowel, it may
+desyllabify and cause the accusative suffix to lengthen in compensation:
+(123)   Accusative case paradigm
+        Basic form-ACC      Non-final            Final         Gloss
+        ŋókí-ka             ŋókí-a               ŋókí-kᵃ       ‘dog’
+        sɪsɪ ́-ka           sɪsɪ ́-á             sɪsɪ ́-kᵃ     ‘honey-beer’
+        ɓóré-ka             ɓóré-a               ɓóré-kᵃ       ‘corral’
+        ɲɛƙɛ-ka             ɲɛƙɛ-a               ɲɛƙɛ-kᵃ       ‘hunger’
+        ŋʊrá-ka             ŋʊrá-á               ŋʊrá-kᵃ       ‘cane rat’
+        zɪnɔ́-ka            zɪnɔ́-á/zɪnw-áá      zɪnɔ́-kᵃ      ‘zebra’
+        ɗéró-ka             ɗéró-a/ɗérw-áa       ɗéró-kᵃ       ‘rat’
+        kafʊ-ka             kafʊ-a/kafw-aa       kafʊ-kᵃ       ‘thorn’
+        dakú-ka             dakú-á/dakw-áá       dakú-kᵃ       ‘tree’
+In terms of grammatical function, the accusative case in Ik is used to mark
+core clausal arguments, namely the following:
+(124)   Accusative case grammatical functions
+        1      Direct object (O) of a transitive clause with a 3SG/PL subject
+        2      Direct object (O) of all subordinate clauses
+        3      Subject (A/S) of any subordinate clause (except sequential)
+First, the accusative marks the direct objects (O) of transitive clauses with
+third person subjects. If the subject of the clause is first or second person,
+then both the subject and the object(s) take the nominative case (§6.3.1).
+See, for example, the pattern in the following paradigm, in which the
+accusative case (underlined) is found only with the third person verb forms:
+                                                                             273
+(125)   Number-based differential accusative marking
+        1SG         bɛ́ɗɪ ́a ŋƙáƙ-ᵃ          ‘I want food.’
+        2SG         bɛ́ɗɪ ́da ŋƙáƙ-ᵃ         ‘You want food.’
+        3SG         bɛ́ɗá ŋƙáƙá-kᵃ           ‘S/he wants food.’
+        1PL.EXC     bɛ́ɗɪ ́ma ŋƙáƙ-ᵃ         ‘We want food.’
+        1PL.INC     bɛ́ɗɪ ́sɪna ŋƙáƙ-ᵃ       ‘We want food.’
+        2PL         bɛ́ɗɪ ́ta ŋƙáƙ-ᵃ         ‘You want food.’
+        3PL         bɛ́ɗáta ŋƙáƙá-kᵃ         ‘They want food.’
+Taken from narratives, the following two sentences show the accusative
+marking the object (O) of transitive clauses with 3SG/PL person subjects:
+(126)   Tsidziteta naa inok.
+        tsídz-it-et-a=náá                  ínó-kᵃO
+        carry-CAUS-VEN-REAL=PST1 animal-ACC
+        He flushed out an animal (from a thicket).
+(127)   Ɗamatini awaa bubun.
+        ɗamat-ini    awá-áO            bʊbʊn-ᵓ
+        shoot-SEQ    home-ACC          coal-INS
+        And they opened fire on the home (with ‘coals’=bullets).","[303, 304, 305]"
+"
+Ik has a two-term inflectional system for marking number on nouns. At the
+notional level, this encodes singular and plural. Singular in this system
+means ‘one’, and plural means ‘more than one’. The two terms—singular
+and plural—can be mapped on the surface level using three different
+strategies: 1) a zero-marked, basic singular and a plurative-marked plural,
+2) a possessive singulative-marked singular and a possessive plurative-
+marked plural, or 3) a singulative-marked singular with a basic, zero-
+marked plural. The table in (44) show how these strategies are mapped out:
+(44)   Ik nominal number-marking strategies
+                      Singular     Plural
+        Strategy 1    -∅           -íkó-/-ɪ ́tɪ ́nɪ ́-/-ɪka-
+        Strategy 2    (-ɛdɛ-)      -ɪnɪ-
+        Strategy 3    -V́ma-       -∅
+The plurative {-ɪka} in Strategy 1 is the only fully productive number-
+marking nominal suffix in the language. It pluralizes polymoraic roots, and
+any newly borrowed noun is polymoraic by virtue of its having the frozen
+prefix ɲV-. By the same token, the other two Strategy 1 pluratives are non-
+productive, since the nouns they pluralize are in a fixed lexical set. Strategy
+2 is semi-productive in that it only applies to semantically specified subsets
+of nouns. The parentheses around the singular form of Strategy 2 signify
+that while the plural is always the plural of the singular, the plural forms do
+not always have a singularized counterpart. Lastly, Strategy 3, while still
+operative in Teso-Turkana, is also no longer productive in the Ik of today.
+156
+These singulatives and pluratives are described in the next several sections.
+They are shown mostly in their underlying and therefore hyphenated forms
+to expose their final vowels that may be deleted in the nominative case
+(isoation form). All the Ik pluratives have parallels in wider Nilotic, for
+example Turkana. Like in Turkana, all Ik number-marking suffixes delete
+the final vowel of the nominal stem (Dimmendaal 1983:229-232). By way of
+introduction, these suffixes are summarized in the following table:
+(45)    Ik nominal number-marking suffixes
+        Suffix            Abbrev.   Name                     Comments
+        {-íkó-}           PL        Plurative I              [+ATR]-dominant
+        {-ɪ ́tɪ ́nɪ ́-}   PL        Plurative II             monomoraic stem
+        {-ɪka-}           PL        Plurative III            polymoraic stem
+        {-ɪnɪ-}           POSS.PL   Possessive plurative     possession
+        {-ɛdɛ-}           POSS.SG   Possessive singulative   possession
+        {-Vma-}           SING      Human singulative        human nouns only
+4.2.1 Plurative I
+The Ik plurative I {-íkó-} is found pluralizing both monomoraic and
+polymoraic nominal stems. It is not productive: The nouns it pluralizes
+belong to a fixed lexical set that, as far as can be observed, does not admit
+new members. The plurative I seems to be a parallel of the Turkana
+pluralizer -íyó (Dimmendaal 1983:235), which if true, would suggest that
+the intervocalic /k/ was retained in Ik and lost in Turkana.","[187, 188]"
+"
+(5)     Beɗa ŋama ŋweesik.
+        bɛ́ɗ-á       ŋám-á              ŋʊ́-ɛ́sɪ-kᵃ
+        want-REAL sorghum-NOM           grind-INF -ACC
+        The sorghum needs grinding.
+304
+Because Ik is an argument-dropping language (even core arguments), one
+cannot guess the transitivity of a verb from syntax or semantics. But at least,
+Ik verb roots are lexically specified as intransitive, transitive, or ditransitive
+(extended transitive). As mentioned above, intransitive verbs are identified
+by the infinitive suffix {-ɔnɪ-}, while the suffix {-ɛ́sɪ ́-} identifies transitives
+and   ditransitives.   And      a    significant    number      of   verb   roots   are
+ambitransitive—able to be intransitive or transitive, for example:
+(6)     Some Ik ambitransitive verb roots
+        ábʊƙ-      ábʊbʊƙ-ɔn         ‘to charge (of animals)’
+                   ábʊbʊƙ-ɛ́s        ‘to scoop out’
+        dzɛr-      dzɛr-ɔn           ‘to tear off running’
+                   dzɛr-ɛ́s          ‘to tear’
+        fút-       fút-ón            ‘to blow (intrans.)’
+                   fút-és            ‘to blow (trans.)’
+        ídz-       ídz-on            ‘to drain, emit’
+                   ídz-es            ‘to shoot’
+        iʝók-      iʝók-ón           ‘to drool’
+                   iʝok-esˊ          ‘to lend’
+Ditransitive verbs can be identified by their imperative forms: If the
+imperative of a verb requires the dummy pronoun enclitic {=ˊ(d)ɛ}, that
+means an obligatory argument requires a morphological trace. The only
+three ditransitive verbs identified so far include eɡ- ‘put’, ɪŋaar- ‘help’, and
+ma- ‘give’ (Heine & König 1996:30). These are exemplifed in (7):
+(7)     Ik ditransitive verb roots
+        Root       Imperative
+        eɡ-        eɡ-é=dᵉ               (**eɡ-ᵉ)            ‘Put (it) (somewhere)ǃ’
+        ɪŋaar-     ɪŋaar-ɛs-ɛ́=dᵋ        (ɪŋaar-ɛ́s-∅)       ‘Help (someone)ǃ’
+        ma-        ma-é=dᵉ               (**ma-ᵉ)            ‘Give (it) (to someone)ǃ’
+                                                                               305
+As discussed back in §6.3.6 on the topic of the accusative case, a handful of
+Ik motion verbs can be used intransitively or transitively. According to
+Dimmendaal, this is a property common in Cushitic and Omotic languages
+(2003:100). Ik ambitransitive motion verbs include ats- ‘come’, ɪtá- ‘reach’,
+and ƙa- ‘go’. When used intransitively—as seems to be the normal case—
+their Goal or Destination is encoded with the dative case (-kᵋ). But when
+used transitively, their Goal~Purpose is encoded with a direct object case:
+either nominative (1-2 person subject) or accusative (-kᵃ) (3 person). Even
+so, the verb ɪtá- behaves a little differently than the other two. It appears to
+be a transitive verb with the ability to intransitivize: With a dative object, it
+has a meaning usually translated as ‘find’ in English:
+(8)     Ik ambitransitive motions verbs
+        Root                         Object case
+        ats-        atsa awá-kᵉ      Dative        ‘He’s coming home.’
+                    atsa zɛƙɔ́-kᵃ    Accusative    ‘He’s coming to sit.’
+        ɪtá-          ɪtáá ńtí-kᵉ    Dative        ‘He’s found them.’
+                    ɪtáá awá-kᵃ      Accusative    ‘He’s reached home.’
+        ƙa-          ƙaá hoo-kᵉ      Dative        ‘He’s going in the hut.’
+                   ƙaa rɔ́ƙɛ́sɪ-kᵃ   Accusative    ‘He’s going bee-keeping.’
+Finally, a few Ik verbs are lexically specified for the number of one of their
+arguments—the subject if intransitive and the object if transitive. The
+following four pairs illustrate these number-based classes:
+(9)     Number-based Ik verb root classes
+        Singular       Plural
+        bad-           tsʼé-         ‘to die’
+        cɛ-            sáɓ-          ‘to kill’
+        ŋká-           ɡwám-         ‘to stand’
+        zéb-           turúí-        ‘to throw’
+        zɛƙw-          ɡoƙ-          ‘to sit’
+306
+7.1.1 Basic roots
+Ik basic verb roots are those considered morphologically unanalyzable. In
+some cases, insights gained from further historical-comparative research
+may disqualify some members currently put in this class of verbs. As the
+class stands, it exhibits eighteen syllable patterns and accompanying tone
+melodies. Each of these patterns is presented below, beginning with the
+most frequently occuring in a sampling of approximately 1000 verb roots.","[335, 336, 337, 338]"
+"
+2.5.2 De-affrication
+In the introduction of this grammar, the Ik word for themselves (Ikᵃ) and the
+Ik word for ‘head’ (ikᵃ) were said to be homophonous in the nominative
+case. In accordance with their homophony, it has been suggested that the Ik
+people were the ‘head’ of ancient migrations. But their being the same word
+historically is challenged by the fact that in the other cases, their base forms
+are different: icé- ‘Ik’ and iká- ‘head’. Comparing the full case declensions of
+these two noun roots opens up the discussion of (de-)affrication:
+70
+(68)     Non-final case paradigm for icé- ‘Ik’ and iká- ‘head’
+                        ‘Ik’             ‘head’
+         Base form      icé-             iká-
+         OBL            ice              ika
+         NOM            ik-a             ik-a
+         INS            ik-o (ic-o?)     ik-o
+         ABL            icé-ó/icó-ó      ikó-ó
+         GEN            icé-é            iké-é
+         ACC            icé-á            iká-á
+         DAT            icé-é            iké-é
+         COP            icé-ó/icó-ó      ikó-ó
+As discussed further in §6.3, the Ik nominative and instrumental case
+suffixes first subtract the final vowel of the root to which they attach. This
+means that for icé- ‘Ik’, once the /é/ is deleted, the /c/ is directly exposed to
+the nominative suffix {-a} or the instrumental suffix {-ɔ}. So, unlike in other
+regional languages where affrication of /k/ to /c/ before high vowels is
+common (e.g. Luganda), (68) presents a situation in Ik where /c/ de-
+affricates to /k/ before non-front vowels /a/ and /o/. De-affrication is also
+attested in other roots similar to icé-, like wicé- ‘children’ and ɲ́ci- ‘I’.","[101, 102]"
+"
+6.4.1 ‘Case’ on verbs
+König 2002 argued that Ik has grammaticalized nominal case suffixes into
+TAM verbal suffixes. The most prominent examples of this are 1) the dative
+290
+suffix turned marker of the simultaneous aspect (‘subjunctive’ in König’s
+terminology) and 2) the copulative suffix turned marker of the sequential
+aspect (‘narrative’ in König’s terminology). Consider these examples:
+(173)   Grammaticalization of dative into simultaneous
+        Dative                       >     Simultaneous
+        ɓóré-kᵉ       corral-DAT     >     ats-i-kᵉ        come-3SG-SIML
+        sɪsɪ ́-kᵋ     mead-DAT       >     ƙɔ́ɗ-ɪ ́-kᵋ     cry-3SG-SIML
+(174)   Grammaticalization of copulative into sequential
+        Dative                       >     Simultaneous
+        ɓóré-kᵒ       corral-COP     >     ats-u-kᵒ        come-3SG-SEQ
+        sɪsʊ́-kᵓ      mead-COP       >     ƙɔ́ɗ-ʊ́-kᵓ      cry-3SG-SEQ
+The data in (173) show that the dative case suffix and the simultaneous
+aspect suffix are identical in form ({-kɛ} and its various allomorphs). And as
+shown in (174), the copulative case suffix and the sequential aspect suffix
+are also identical in form ({-kɔ} and its allomorphs). König establishes the
+putative grammaticalization link between these nominal and verbal suffixes
+based on the following five points (adapted from 2002:318-319, 414):
+(175)   Evidence of case>verbal suffix grammaticalization
+        1.    Their forms are identical.
+        2.    Their morphophonological behavior is identical.
+        3.    Their position in the word (i.e. always at the end) is identical.
+        4.    The simultaenous and sequential suffixes show similar syntactic
+              behavior (e.g. they are both used in subordinate clauses).
+        5.    They exhibit other similar characteristics, such as:
+              a.    Their non-final/final forms.
+              b. Their form consisting of /k/ plus a silent vowel.
+              c.    Their deletion of /a/ in the preceding stem.
+              d. Their exclusion from negated verb forms.
+                                                                          291
+In König’s view, both the copulative case suffix and the sequential
+(‘narrative’) aspect marker were later developments from a nominal focus
+marker that was also a development from a copular suffix on nouns
+(2002:349-361). Paradoxically, she concludes that a focus marker encoding
+discontinuity developed into a ‘narrative’ mood marker encoding discourse
+continuity (2002:360). From a synchronic point of view, the copulative case
+in the nominal system and the sequential aspect in the verbal system do
+seem to focus attention on a given noun or verb. For nouns, this attention
+has a focal or copular function. For verbs, this attention simply highlights
+the point-by-point sequence of a text. In both systems, the morpheme {-kɔ}
+focuses attention on the respective item, as in the following:
+(176)   ámá-kᵒ       person- COP          ‘It IS [a person].’
+        ats-u-kᵒ     come-3SG-SEQ         ‘It IS [s/he/it came].’
+As for the homophonous dative /simultaneous (‘sujunctive’) marker {-kɛ},
+König states that “In Icetot, the starting point in the grammaticalization of
+the dative into the subjunctive was probably an application of the dative as
+a purpose marker: first of all, together with a noun; then with a verbal noun;
+and finally, with an inflected verb” (2002: 264, italics in original).","[321, 322, 323]"
+"
+In their basic underlying forms, every Ik nominal root and suffix ends in a
+vowel, without exception. This final vowel is unpredictable since it can be
+any of the language’s nine contrastive vowels. Because of this, these final
+vowels are treated universally as part of the root in Ik. Similar ‘terminal
+vowels’ in the East Cushitic Dhaasanac are only viewed as part of the stem
+in some cases where they “are by and large meaningless elements…[maybe]
+ancient desemanticized gender markers” (Tosco 2001:65). And like the
+Omotic language Dime (Mulugeta 2008), Ik has some nouns whose root-
+final vowel has two free variants, e.g. kɔlá~kɔlɛ́- ‘goat’ and zɪná~zɪnɔ́-
+‘zebra’. Such cases seem to arise along the lines of chronolects and idiolects.
+                                                                            133
+(2)     Nominal root-final vowels
+        badi-     ‘giant’                          dakú-      ‘wood’
+        cekí-     ‘woman’                          nébu-      ‘body’
+        kurí-     ‘shade’                          tsʼúbu-    ‘plant sp.’
+        aʝɪ-      ‘pestle’                         ɗamʊ́-     ‘brain’
+        kɔnɪ ́-   ‘one’                            ʝʊmʊ́-     ‘soil’
+        sɪsɪ ́-   ‘mead’      awá-      ‘home’     kafʊ-      ‘thorn’
+                              ɗɔ́fá-   ‘shrew’
+        ɓóré-     ‘corral’    tsútsá-   ‘fly’      baro-      ‘herd’
+        ɗiɗe-     ‘donkey’                         ɗéró-      ‘mouse’
+        rébe-     ‘millet’                         ɡúró-      ‘heart’
+        ɡɔnɛ́-    ‘stump’                          ɦyɔɔ-      ‘cattle’
+        ɲɛƙɛ-     ‘hunger’                         ƙɪ ́ɔ́-    ‘strap’
+        mɛsɛ-     ‘beer’                           sɔkɔ́-     ‘hoof’
+Root-final vowels like those shown above in (2) are deleted in three
+environments: 1) with the nominative case suffix {-a}, 2) with the
+instrumental case suffix {-ɔ}, and 3) with any of the number suffixes. The
+other six case markers preserve the stem-final vowel (see more in §6.2). This
+recalls the situation in the South Omotic language Dime, where any suffix
+beginning with a vowel first subtracts the noun-final vowel (Mulugeta
+2008:38, 41). It is noteworthy that all but two Ik nominal suffixes that
+delete noun-final vowels also begin with a vowel. The two exceptions, the
+ablative {-ɔ} and the genitive {-ɛ}, may have lost their initial consonants.","[164, 165]"
+"
+Unless the traditional definition of case is revised to include functors outside
+the nominal system, it is useful to speak of ‘case’ and ‘Case’ in Ik. The
+former is a way the language encodes grammatical relations, and the latter
+is a meta-categorial or mono-systemic archi-morphology whose precise
+origin and path of grammaticalization is not always known. In some
+instances, there is a demonstrable semantic link between a form in one
+system and its parallel in another, but in other instances, there is not.",[321]
+"
+The seventh function of the oblique case is to mark nouns coming after any
+of the following five prepositions: akɪlɔ ‘instead of’ and (i)kóteré ‘because of’
+(from Teso-Turkana), ɡone ‘until/up to’, ńꜜda ‘and/with’, and páka ‘until/up
+to’ (from Swahili). Three other prepositions take the genitive case (see
+§8.5). The fact that the oblique case is used after mostly-borrowed
+prepositions confirms that the oblique is a case for ‘left-over’ case functions.",[282]
+"
+In terms of grammatical function, the ablative case is used to mark non-core
+clause arguments with ‘from’ or ‘at’ semantic roles including the following:
+(89)    Ablative case semantic roles
+        1    Source
+        2    Cause
+        3    Stimulus
+        4    Location
+        5    Experiencer
+First, the ablative case is used to mark peripheral arguments that encode the
+physical or geographical Source of an action or motion. The following
+sentences illustrate this prototypical ablative role:
+(90)    Atsia naa awoo ne
+        ats-í-á=naa               awó-ó=ne
+        come-1SG -REAL=PST1       home-ABL=DEM.SG.MED
+        I came from that home.
+(91)    Ƙanetaa ʝumʊʝumasia cuaaƙo.
+        ƙan-et-á-á            ʝʊmʊʝʊm-asɪ ́-a cuá-áƙɔ-∅
+        take-VEN-REAL-PRF     sand-ABST-ACC    water-inside-ABL
+        He has taken sand out of the water.
+264
+Second, the ablative case is used to mark peripheral arguments that encode
+the Location of an action or state. The first two sentences below illustrate
+this role with intransitive verbs, while the second two do it with transitives:
+(92)    Sarata epa hoikao.
+        sár-át-a          ep-a         hó-íka-ᵒ
+        still-3PL-REAL    sleep-REAL hut-PL-ABL
+        They are still sleeping in the huts.","[295, 296]"
+"
+ISBN: 978-94-6093-156-7
+NUR 616
+Copyright © 2014: Terrill B. Schrock. All rights reserved.
+A grammar of Ik (Icé-tód)
+Northeast Uganda’s last thriving Kuliak language
+                     PROEFSCHRIFT                   ter verkrijging van
+     de graad van Doctor aan de Universiteit Leiden,
+op gezag van Rector Magnificus prof. mr. C.J.J.M. Stolker,
+     volgens besluit van het College voor Promoties
+      te verdedigen op dinsdag 16 december 2014
+                    klokke 16:15 uur
+                          door
+                    Terrill B. Schrock
+            geboren te Atmore, Alabama USA
+                         in 1980
+Promotiecommissie:
+Promotor:            Prof. dr. Maarten Mous
+Overige Leden:       Prof. dr. Gerrit J. Dimmendaal (Universität zu Köln)
+                     Prof. dr. Christa König (Goethe Universität Frankfurt am
+                     Main)
+                     Dr. Eithne Carlin
+Table of Contents
+Dedication................................................................................................ xiv
+Acknowledgments ..................................................................................... xv
+Foreword.................................................................................................. xix
+Abbreviations ........................................................................................... xxi
+Symbols ................................................................................................. xxiii
+Affixes......................................................................................................xxv
+Archaic Affixes ........................................................................................xxix
+Clitics......................................................................................................xxxi
+1      Introduction........................................................................................ 1
+    1.1. The Ik people.................................................................................. 1
+       1.1.1       History ................................................................................... 4
+       1.1.2       Ecology .................................................................................. 6
+       1.1.3       Economy ................................................................................ 8
+       1.1.4       Society and culture............................................................... 10
+    1.2 The Ik language ............................................................................ 14
+       1.2.1       Classification ........................................................................ 14
+       1.2.2       Typology .............................................................................. 17
+       1.2.3       Lectal variation and language contact................................... 23
+       1.2.4       Vitality ................................................................................. 25
+       1.2.5       Previous works ..................................................................... 26
+    1.3 Research background.................................................................... 28
+       1.3.1       Methodology ........................................................................ 28
+       1.3.2       Fieldwork ............................................................................. 29
+       1.3.3       Data ..................................................................................... 31
+       1.3.4       Orthography ......................................................................... 31
+2      Segmental Phonology........................................................................ 33
+    2.1 Consonants ................................................................................... 33
+       2.1.1       Consonant contrasts.............................................................. 34
+       2.1.2       Consonant realizations.......................................................... 35
+       2.1.3       Consonant distribution ......................................................... 40
+    2.2 Vowels.......................................................................................... 41
+vi
+        2.2.1       Vowel contrasts .................................................................... 42
+        2.2.2       Vowel realizations ................................................................ 43
+        2.2.3       Vowel distribution................................................................ 48
+     2.3 Summary of allophonic realizations .............................................. 50
+        2.3.1       Devoicing ............................................................................. 50
+        2.3.2       Place assimilation................................................................. 54
+        2.3.3       Glottalic effects .................................................................... 55
+     2.4 Syllables ....................................................................................... 57
+        2.4.1       Phonological syllables .......................................................... 58
+        2.4.2       Phonetic syllables ................................................................. 61
+        2.4.3       Syllabification methods ........................................................ 62
+     2.5 Morphophonology ........................................................................ 65
+        2.5.1       Haplology............................................................................. 65
+        2.5.2       De-affrication ....................................................................... 69
+        2.5.3       Non-final deletion................................................................. 71
+        2.5.4       Vowel assimilation ............................................................... 72
+3       Suprasegmental Phonology ............................................................... 79
+     3.1 Vowel harmony ............................................................................ 79
+        3.1.1       Lexical vowel harmony......................................................... 81
+        3.1.2       Dominant suffixes................................................................. 87
+        3.1.3       Opaque dominant suffixes .................................................... 88
+        3.1.4       Recessive suffixes ................................................................. 93
+        3.1.5       Opaque recessive suffixes ..................................................... 94
+        3.1.6       Recessive enclitics ................................................................ 95
+        3.1.7       Post-lexical /i,u/-dominance................................................. 97
+     3.2 Tone ............................................................................................. 99
+        3.2.1       Tones and allotones ............................................................ 100
+        3.2.2       Lexical tone ........................................................................ 103
+        3.2.3       Depressor consonants ......................................................... 108
+        3.2.4       Tone processes ................................................................... 114
+        3.3.5       Intonation .......................................................................... 125
+4       Nouns ............................................................................................. 131
+     4.1 Noun roots.................................................................................. 134
+                                                                                                        vii
+       4.1.1      Basic roots .......................................................................... 134
+       4.1.2      Partially reduplicated roots ................................................ 140
+       4.1.3      Fully reduplicated roots...................................................... 142
+       4.1.4      Affixated roots.................................................................... 143
+    4.2 Number ...................................................................................... 152
+       4.2.1      Plurative I .......................................................................... 156
+       4.2.2      Plurative II ......................................................................... 158
+       4.2.3      Plurative III ........................................................................ 160
+       4.2.4      Suppletive plurals............................................................... 163
+       4.2.5      Possessive plurative ............................................................ 164
+       4.2.6      Possessive singulative ......................................................... 166
+       4.2.7      Human singulative ............................................................. 168
+       4.2.8      Non-countable mass nouns ................................................. 169
+       4.2.9      General number nouns ....................................................... 170
+    4.3 Compounds................................................................................. 171
+       4.3.1      Formal properties ............................................................... 171
+       4.3.2      Semantic properties ............................................................ 177
+       4.3.3      Diminutive ......................................................................... 180
+       4.3.4      Agentive............................................................................. 181
+       4.3.5      Pronominal......................................................................... 183
+       4.3.6      Internal plurative ............................................................... 183
+       4.3.7      Variative plurative.............................................................. 184
+       4.3.8      Relational nouns................................................................. 185
+    4.4 Kinship terms.............................................................................. 188
+    4.5 Proper Nouns .............................................................................. 192
+       4.5.1      Onomastics......................................................................... 193
+       4.5.2      Ethnonyms ......................................................................... 195
+       4.5.3      Toponyms........................................................................... 197
+5      Pronouns......................................................................................... 201
+    5.1 Personal pronouns ...................................................................... 201
+       5.1.1      Free personal pronouns ...................................................... 202
+       5.1.2      Personal possessive pronouns ............................................. 205
+       5.1.3      Emphatic pronominal compound ........................................ 205
+viii
+       5.1.4      Bound personal pronouns ................................................... 206
+    5.2 Impersonal possessum pronoun................................................... 208
+    5.3 Indefinite pronouns..................................................................... 210
+    5.4 Interrogative pronouns ............................................................... 212
+    5.5 Demonstrative pronouns ............................................................. 216
+    5.6 Relative pronouns ....................................................................... 219
+    5.7 Reflexive pronoun....................................................................... 222
+    5.8 Distributive pronouns ................................................................. 224
+    5.9 Cohortative pronouns ................................................................. 225
+    5.10 Dummy pronoun......................................................................... 226
+6      Case ................................................................................................ 231
+    6.1 Case overview............................................................................. 232
+    6.2 Case suffixes ............................................................................... 240
+       6.2.1      Case allomorphy................................................................. 240
+       6.2.2      Case origins ........................................................................ 243
+    6.3 Case on nouns............................................................................. 246
+       6.3.1      Oblique .............................................................................. 246
+       6.3.2      Nominative......................................................................... 252
+       6.3.3      Instrumental ....................................................................... 256
+       6.3.4      Ablative.............................................................................. 262
+       6.3.5      Genitive.............................................................................. 267
+       6.3.6      Accusative .......................................................................... 271
+       6.3.7      Dative................................................................................. 278
+       6.3.8      Copulative .......................................................................... 285
+    6.4 ‘Case’ and grammaticalization..................................................... 289
+       6.4.1      ‘Case’ on verbs.................................................................... 289
+       6.4.2      ‘Case’ in other word classes ................................................ 297
+7      Verbs .............................................................................................. 301
+    7.1 Verbal roots ................................................................................ 303
+       7.1.1      Basic roots .......................................................................... 306
+       7.1.2      Partially reduplicated roots ................................................ 310
+       7.1.3      Fully reduplicated roots...................................................... 311
+       7.1.4      Prefixed roots ..................................................................... 313
+                                                                                                       ix
+7.2 Derivatives.................................................................................. 319
+   7.2.1      Intransitive infinitive.......................................................... 320
+   7.2.2      Transitive infinitive ............................................................ 322
+   7.2.3      Abstractive ......................................................................... 325
+   7.2.4      Patientive ........................................................................... 326
+   7.2.5      Substantive......................................................................... 329
+   7.2.6      Behaviorative ..................................................................... 330
+7.4 Directionals ................................................................................ 331
+   7.4.1      Andative............................................................................. 331
+   7.4.2      Venitive.............................................................................. 334
+7.5 Subject-agreement pronominals .................................................. 336
+7.6 Dummy pronominal clitic ........................................................... 340
+7.7 Modals........................................................................................ 343
+   7.7.1      Irrealis................................................................................ 346
+   7.7.2      Realis ................................................................................. 348
+   7.7.3      Intentional.......................................................................... 349
+   7.7.4      Optative ............................................................................. 352
+   7.7.5      Subjunctive ........................................................................ 356
+   7.7.6      Imperative.......................................................................... 357
+   7.7.7      Negative............................................................................. 360
+7.8 Aspectuals .................................................................................. 361
+   7.8.1      Sequential .......................................................................... 362
+   7.8.2      Simultaneous...................................................................... 367
+   7.8.3      Imperfective ....................................................................... 370
+   7.8.5      Inchoative .......................................................................... 372
+   7.8.6      Completive ......................................................................... 376
+   7.8.7      Present perfect.................................................................... 378
+   7.8.8      Pluractional ........................................................................ 379
+7.9 Voice and valency-changers ........................................................ 382
+   7.9.1      Causative............................................................................ 383
+   7.9.2      Passive ............................................................................... 385
+   7.9.3      Impersonal passive ............................................................. 391
+   7.9.4      Sequential impersonal passive ............................................ 394
+x
+       7.9.5       Middle................................................................................ 396
+       7.9.6       Reciprocal .......................................................................... 399
+    7.10 Adjectivals .................................................................................. 401
+       7.10.1 Physical property I ............................................................. 407
+       7.10.2 Physical property II ............................................................ 410
+       7.10.3 Stative ................................................................................ 412
+       7.10.5 Plural ................................................................................. 415
+       7.10.6 Distributive ........................................................................ 416
+    7.11 Tense markers............................................................................. 418
+       7.11.1 Past tense clitics ................................................................. 419
+       7.11.2 Non-past tense adverbials ................................................... 422
+    7.12 Epistemic qualification ............................................................... 424
+       7.12.1 Inferential .......................................................................... 424
+       7.12.2 Counter-expectational......................................................... 425
+       7.12.3 Confirmational ................................................................... 426
+8      Other Word Classes......................................................................... 427
+    8.1 Quantifiers.................................................................................. 427
+       8.1.1       Non-numeral quantifiers..................................................... 429
+       8.1.2       Numeral quantifiers............................................................ 430
+    8.2 Demonstratives ........................................................................... 434
+       8.2.1       Spatial nominal demonstratives .......................................... 434
+       8.2.2       Temporal nominal demonstratives...................................... 435
+       8.2.3       Anaphoric demonstratives .................................................. 437
+       8.2.4       Locative adverbial demonstratives ...................................... 440
+    8.3 Adverbs ...................................................................................... 447
+    8.4 Conjunctions............................................................................... 450
+       8.4.1       Subordinating conjunctions ................................................ 450
+       8.4.2       Coordinating conjunctions .................................................. 453
+    8.5 Prepositions ................................................................................ 457
+    8.6 Interjections................................................................................ 459
+    8.7 Ideophones ................................................................................. 460
+    8.8 Infantile imperatives ................................................................... 462
+    8.9 Time expressions ........................................................................ 462
+                                                                                                            xi
+    8.10 Greetings .................................................................................... 465
+9      Phrases and Clauses ........................................................................ 471
+    9.1 Noun phrase structure................................................................. 471
+    9.2 Possession................................................................................... 474
+    9.3 Basic clause structure.................................................................. 479
+    9.4 Causative clauses ........................................................................ 483
+    9.5 Auxiliary verbs ........................................................................... 484
+       9.5.1       Auxiliary verbs proper ........................................................ 484
+       9.5.2       Auxiliary-like verbs ............................................................ 486
+       9.5.3       Occupative aspect............................................................... 488
+    9.6 Copula clauses ............................................................................ 489
+    9.7 Subordinate clause structure ....................................................... 493
+    9.8 Relative clauses .......................................................................... 496
+       9.8.1       Common argument ............................................................. 497
+       9.8.2       Relative pronouns............................................................... 500
+       9.8.3       Relative clause structure..................................................... 501
+    9.9 Adverbial clauses ........................................................................ 504
+       9.9.1       Temporal............................................................................ 505
+       9.9.2       Simultaneous...................................................................... 507
+       9.9.3       Manner............................................................................... 508
+       9.9.4       Purpose .............................................................................. 510
+       9.9.5       Result ................................................................................. 511
+       9.9.6       Reason/Cause..................................................................... 512
+       9.9.7       Conditional......................................................................... 514
+       9.9.8       Hypothetical....................................................................... 516
+       9.9.9       Concessive.......................................................................... 517
+    9.10 Verbless clauses .......................................................................... 517
+       9.10.1 Verbless copulative clause .................................................. 518
+       9.10.2 Verbless dative/genitive clause........................................... 520
+    9.11 Focus and topic constructions ..................................................... 521
+       9.11.1 Cleft construction ............................................................... 521
+       9.11.2 Left-dislocation................................................................... 523
+       9.11.3 Apposition.......................................................................... 525
+xii
+      9.12 Questions.................................................................................... 526
+          9.12.1 Polar questions ................................................................... 526
+          9.12.2 Content questions ............................................................... 529
+          9.12.3 Alternative questions .......................................................... 533
+          9.12.4 Tags ................................................................................... 534
+      9.13 Complementation ....................................................................... 535
+          9.13.1 Complement clauses ........................................................... 535
+          9.13.2 Complementation strategies................................................ 538
+          9.13.3 Complement-taking verbs ................................................... 540
+      9.14 Reported speech ......................................................................... 541
+      9.15 Comparative constructions.......................................................... 546
+          9.15.1 Mono-clausal comparative construction.............................. 546
+          9.15.2 Bi-clausal comparative construction ................................... 548
+          9.15.3 Equative clauses ................................................................. 549
+          9.15.4 Superlative clauses ............................................................. 549
+      9.16 Negation..................................................................................... 550
+          9.16.1 Indicative and interrogative................................................ 552
+          9.16.2 Prohibitive ......................................................................... 554
+          9.16.3 Copula clauses .................................................................... 555
+          9.16.4 Negative tags...................................................................... 557
+10        Sentences and Beyond..................................................................... 559
+      10.1 Clause coordination .................................................................... 559
+          10.1.1 Additional .......................................................................... 559
+          10.1.2 Contrastive ......................................................................... 561
+          10.1.3 Disjunctive ......................................................................... 562
+      10.2 Clause chaining........................................................................... 563
+          10.2.1 Sequential clause chains ..................................................... 564
+          10.2.2 Simultaneous clause chains ................................................ 569
+Appendix A—Sample Texts ..................................................................... 573
+      1      Lɔŋɔ́tᵃ (Enemies) ......................................................................... 573
+      2      Rɔ́ƙɛ́s (Beekeeping) ..................................................................... 591
+      3      Cɛŋ (Woodpecker) ...................................................................... 600
+      4      Ámázea Máwᵃ (Mr. Lion) ............................................................ 605
+                                                                                                        xiii
+   5       Taɗápítotósí-icíkᵃ (Sayings) ........................................................ 612
+Appendix B—Ik Root Lexicon .................................................................. 617
+Appendix C—Conjugations of Similar Verbs ............................................ 687
+References............................................................................................... 691
+Subject Index........................................................................................... 701
+Samenvatting .......................................................................................... 709
+Curriculum Vitae..................................................................................... 715
+                                 To my parents, Arlin & Velma:
+ Dad, for imparting his way with words and his search for truth,
+Mom, for showing how to learn the world with love and wonder.","[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]"
+"
+In none of the preceding three sentences would the dative case be
+grammatical on the direct object (O) encoding Direction and/or Purpose.
+These examples are interesting in that the dative case (next section) is used
+more generally to encode both Purpose and Goal/Direction. It is only the
+unique combination of these roles that transitivize the verb and objects.",[308]
+"
+Adverbial functions are often handled in Ik by nouns and verbs. For
+example, nouns in the instrumental or dative cases can be used to modify a
+predicate. In (48) below, the nominalized verb ɪsɪ́lɔ́n ‘to be peaceful’ is given
+the instrumental case to elaborate on the manner in which the person was
+settled down. Then in (49), the noun kédi- ‘way’ is put in the dative case,
+also to express the manner in which it was getting cloudy:
+(48)    Zeƙwitetesa bia isilon.
+        zɛƙw-ɪt-ɛt-ɛ́s-á             bi-a       ɪsɪ ́l-ɔ́n-ʷ
+        sit-CAUS-INCH-INT -REAL      you.SG-ACC be.peaceful-INF-INS
+        He will settle you down peacefully (i.e. with peace).",[480]
+"
+Besides their phonological identity, the nominative case {-a} and the realis
+{-a} share a significant morphological characteristic: They both subtract the
+final vowel of the stem or affix to which they attach. To illustrate this, the
+first column in (180) shows the underlying forms, first of noun roots with
+the nominative suffix, and then of verb roots and pronominal subject
+markers with the realis suffix. The second column then shows how {-a} in
+both systems subtracts the preceding nominal or verbal stem-final vowel:
+(180)   Grammaticalization of nominative > realis
+        Nouns
+        ɓóré-a      →        ɓór-á       corral-NOM
+        ŋókí-a      →        ŋók-á       dog- NOM
+        sɪsɪ ́-a    →        sɪs-a       mead- NOM
+        Verbs
+        ats-íí-a    →        ats-í-a     come-1SG -REAL
+        ats-ídi-a   →        ats-íd-a    come-2SG -REAL
+        ats-i-a     →        ats-a       come-3SG -REAL
+294
+Interestingly, similar suggestive commonalities are found to exist between
+the oblique case morpheme and the irrealis modality morpheme, both of
+which are zero (∅). Being zero-marked, the oblique case allows a noun
+stem’s underlying form to surface (often with minor tonal changes).
+Likewise, the irrealis modality allows the underlying form of the preceding
+verbal morpheme to surface. In (181), the first column presents the
+underlying forms of several noun and verb stems with the oblique or Irrealis
+marker. The second column reveals their non-final surface forms:
+(181)   Grammaticalization of oblique > irrealis
+        Nouns
+        ɓóré-∅      →        ɓóré        corral[OBL]
+        ŋókí-∅      →        ŋókí        dog[OBL]
+        sɪsɪ ́-∅    →        sɪsɪ        mead[OBL]
+        Verbs
+        ats-íí-∅    →        ats-íí      come-1SG [IRR]
+        ats-ídi-∅   →        ats-ídi     come-2SG [IRR]
+        ats-i-∅     →        ats-i       come-3SG [IRR]
+Based on the data above in (180), a plausible claim can be made that the
+nominative case {-a} and the realis modality {-a} are related historically.
+Whether one came from the other or both came from somewhere else is not
+known. And based on the data in (181), the same claim can be made for the
+oblique case and the irrealis modality which are both marked by {-∅}.","[325, 326]"
+"
+6.4.2 ‘Case’ in other word classes
+Formal parallels of Ik nominal case markers are also found on
+demonstratives, relative pronouns, and tense particles. The situation is less
+surprising if one considers that both tense particles and relative pronouns
+298
+developed out of demonstratives. Ik tensed demonstratives and tensed
+relative pronouns are identical in form and are marked for Ik’s three-term
+past tense system: recent past, removed past, and remote past:
+(185)   Ik tensed demonstratives/relative pronouns
+                         Singular                    Plural
+        Non-past         =na        ‘this/which’     =ni      ‘these/which’
+        Recent past      =náka      ‘that/which’     =níki    ‘those/which’
+        Removed past     =sɪna      ‘that/which’     =sini    ‘those/which’
+        Remote past      =nɔkɔ      ‘that/which’     =nuku    ‘those/which’
+As can be seen in (186), the non-past form of the demonstrative/relative
+pronouns provides the base on which the other tense forms are built:
+(186)   Analysis of tensed demonstratives/relative pronouns
+        Non-past          =na          =ni
+        Recent past       =ná-ka       =ní-ki
+        Removed past      =sɪ-na       =si-ni
+        Remote past       =nɔ-kɔ       =nu-ku
+In (186), the base (non-past) forms of the demonstratives/relative pronouns
+are in bold print—na for singular and ni for plural. Vowel assimilation
+changes na to nɔ in the remote past singular and ni to nu in the plural. The
+recent past and remote past forms form have suffixes resembling a case
+marker. (Only the removed past shows a prefix instead—sɪ-/si-, which is
+probably related to the        South Omotic language Dime’s           proximal
+demonstrative element si- (Mulugeta 2008:73).) The recent past form of the
+Ik singular demonstrative has -ka as a suffix. This is homophonous with the
+accusative case suffix {-ka} and nearly so with the present perfect marker
+{-ˊka}. Likewise, the remote past singular demonstrative has -kɔ as a suffix.
+This resembles the copulative suffix and sequential aspect marker {-kɔ}.
+                                                                           299
+Two of these Ik demonstratives have grammaticalized not only into relative
+pronouns but also into tense clitics. During that process, the deictic function
+a demonstrative has over a single noun or a noun phrase was extended to
+whole clauses. Since clauses are singular, the singular forms of the
+demonstratives were borrowed to function as tense markers. The tense
+markers for recent past and remote past are identical to demonstratives,
+while the removed past marker shows a different form of unknown origin:
+(187)   Ik tense clitics
+                            Non-final form    Final form
+        Recent past         =náa              =nákᵃ
+        Removed past        =bɛɛ              =batsᵋ
+        Remote past         =nɔɔ              =nɔkᵓ
+The discussion above examining the recent past and remote past singular
+demonstratives applies equally to the recent and remote past tense enclitics.
+For the removed past tense enclitic, the segment /ts/ is missing in the non-
+final form, leading to vowel assimilation. The origin of the suffix /-tsɛ/ is
+unknown, though it recalls the Proto-Gumuz word *tsa ‘body’ that has been
+grammaticalized in Gumuz for several different uses (Ahland 2012:251).","[329, 330, 331]"
+"
+Thirdly, the instrumental case is used to encode peripheral arguments that
+denote an entity with which an agent goes somewhere. This role is
+‘instrumental’ in that the agent takes an object somewhere by the hand to
+thereby achieve some goal. This case role is most common with inanimate
+objects or animate entities that have little control over the event. The
+following two sentences show this Comitative role of the instrumental case:
+(79)    Ƙoyaa naa kuruɓad.
+        ƙó-í-a=naa               kúrúɓád-ᵒ
+        go-1SG-REAL=PST1 things-INS
+        I went with (my) things.
+260
+(80)    Atsuo eakwa ƙayuo nk, zeiike ʝik.
+        ats-u-o          e̯akw-a          ƙa-i-o      ŋk-ᵒ       ze-íí-ke     ʝɪ ́kᶦ
+        come-3SG -SEQ    man- NOM         go-3SG- SEQ I-INS      big-1SG-SIML ADV
+        And the man came and went with me, I being quite grown up.","[291, 292]"
+"
+The impersonal possessum pronominal also combines with full nouns, as in:
+(10)     Impersonal possessum with nouns/nominalized verbs
+        aɗ-oni-ɛnɪ ́-     the third time (lit. ‘to be three’s)
+        cɪkámá-ɛ́nɪ-      the womens’
+        icé-ɛ́nɪ-         the Iks’ (language, customs, etc.
+        ɲɔtɔ́-ɛ́nɪ-       the mens’
+        wicé-ɛ́nɪ-        the children’s
+210
+5.3     Indefinite pronouns
+Ik has eight indefinite pronouns, listed in (11). But most of the indefinite
+pronouns are bimorphemic or compounds. The first four in the table are
+formed on the basis of kɔnɪ́- ‘some, another’ which is related to the verb kɔn-
+‘be one’. The next three are based on kíní- ‘some (pl.)’, the plural
+counterpart to kɔnɪ́-. The last pronoun in the table (saí-) is the only free form
+apart from kɔnɪ ́-. All these indefinite pronouns can a) be fully inflected for
+case, and b) some can occur with or without explicit nominal complements.","[241, 242]"
+"
+Two of the past tense clitics—the remote past =nɔkɔ and the recent past
+=náka—are identical in form to demonstratives and relative pronouns of
+the same tense specification. Ik demonstratives are tensed (see §8.2), and it
+is suggested here that relative pronouns and two of the three tense particles
+may have developed out of the demonstrative system:
+(291)   A comparison of tensed grammatical systems
+                       Demonstratives    Relative pronouns      Tense clitics
+        Recent         ná-ka             ná-ka                  ná-ka
+        Removed        sɪ-na             sɪ-na                  (ba-tse)
+        Remote         nɔ-kɔ             nɔ-kɔ                  nɔ-kɔ
+A comparison of the three grammatical systems shows they are linked by
+what appear to be archaic morphemes: *-ˊka for recent past, *-(t)se/sɪ? for
+removed, and *-kɔ for remote. The suffix *-ˊka is related to the present
+perfect suffix {-ˊka}, and both may be linked to the Afar language’s -ka
+meaning ‘before’ (Mahaffy, n.d., p. 29). As for *-kɔ, it has obvious ties to the
+morpheme {-kɔ} which marks both copulative case and sequential aspect.
+422
+7.11.2 Non-past tense adverbials
+Dixon claims that languages divide neatly into the following two groups
+according to how a ‘future’ setting is handled grammatically (2012:7):
+(292)    I Future is a tense, referring to a location in time.
+         II Future is shown by modalities, within irrealis.","[453, 454]"
+"
+6.3.1 Oblique
+The oblique case is the only zero-marked (Ø) case in Ik. As such, it
+segmentally mirrors a noun’s basic underlying lexical form. But in their non-
+final forms, nouns with a tone melody LH surface as LL. That is, tone may
+minorly distinguish the oblique case from the lexical base of some nouns. In
+the oblique case, stem-final vowels are devoiced or deleted before a pause.
+The paradigm for oblique, as well as those for the other cases, show nine
+nouns each ending with one of the language’s nine contrastive vowels:
+(34)    Oblique case paradigm
+        Basic form[OBL]        Non-final        Final   Gloss
+        ŋókí-Ø                 ŋókí             ŋókⁱ    ‘dog’
+        sɪsɪ ́-Ø               sɪsɪ             sɪs     ‘honey-beer’
+                                                                          247
+        ɓóré-Ø               ɓóré            ɓór    ‘corral’
+        ɲɛƙɛ-Ø               ɲɛƙɛ            ɲɛƙᵋ   ‘hunger’
+        ŋʊrá-Ø               ŋʊra            ŋʊr    ‘cane rat’
+        zɪnɔ́-Ø              zɪnɔ            zɪn    ‘zebra’
+        ɗéró-Ø               ɗéró            ɗér    ‘rat’
+        kafʊ-Ø               kafʊ            kafᶷ   ‘thorn’
+        dakú-Ø               daku            dakᵘ   ‘tree’
+Despite the near identity of a noun’s basic form and oblique case form, the
+Oblique must be maintained as a proper case of its own. This is because it is
+required for specific, unique grammatical relations and semantic roles.","[278, 279]"
+"
+By contrast, the claim made in this grammar is that the morpheme {-a} is
+functionally very significant, as both a marker of nominative case and realis
+modality in the verbal system (§7.6.2). This morpheme has a L tone but
+assimilates to the tone melody projected by the stem it attaches to (T7). It is
+one of the language’s opaque dominant suffixes (§3.1.3), and as such can
+also be represented as {-a+}. One if the nominative’s characteristics that has
+produced confusion in the past is its subtraction of stem-final vowels. It and
+the instrumental case suffix {-ɔ} are the only two cases that do this. Before
+pauses, the nominative surfaces as /-ᵃ/ or /-∅/. Lastly, if a noun’s final
+vowel is a back vowel, it may desyllabify before {-a}:
+                                                                         253
+(56)    Nominative case paradigm
+       Basic form-NOM       Non-final        Final       Gloss
+       ŋókí-a               ŋók-á            ŋók-ᵃ       ‘dog’
+       sɪsɪ ́-a             sɪs-a            sɪs-∅       ‘honey-beer’
+       ɓóré-a               ɓór-á            ɓór-∅       ‘corral’
+       ɲɛƙɛ-a               ɲɛƙ-a            ɲɛƙ-ᵃ       ‘hunger’
+       ŋʊrá-a               ŋʊr-a            ŋʊr-∅       ‘cane rat’
+       zɪnɔ́-a              zɪn-a            zɪn-∅       ‘zebra’
+       ɗéró-a               ɗérw-á           ɗérw-ᵃ      ‘rat’
+       kafʊ-a               kaf-a            kaf-∅       ‘thorn’
+       dakú-a               dakw-a           dakw-ᵃ      ‘tree
+On stems with back vowels (/ɔ, o, ʊ, u/) as their final vowel, one cannot
+predict whether the vowel will be deleted or desyllabified. Out of a sample
+of sixty-eight nouns ending in a back vowel, only the following fifteen
+(22%) underwent desyllabification (in order of root-final back vowel):
+(57)    Desyllabification of back vowels in the nominative case
+       cikó-        →        cikw-a        male-NOM
+       diyo-        →        diyw-a        lookout-NOM
+       ído-         →        ídw-a         milk-NOM
+       ínó-         →        ínw-á         animal-NOM
+       natsiko-     →        natsikw-a     granary.cover-NOM
+       paɗo-        →        paɗw-a        small.cave-NOM
+       pakó-        →        pakw-a        cave-NOM
+       tsɪkɔ́-      →        tsɪkw-a       tree.species-NOM
+       mɪ ́ʒɪʒɔ-    →        mɪ ́ʒɪʒw-a    tree.species-NOM
+       ɗaʊ-         →        ɗaw-a         knife-NOM
+       káú-         →        káw-á         ash-NOM
+       dakú-        →        dakw-a        tree-NOM
+       ekú-         →        ekw-a         eye-NOM
+       buƙú-        →        buƙw-a        marriage-NOM
+       ɛkɛʊ́-       →        ɛkɛw-a        muscle.fiber-NOM
+254
+Contrary to the nouns in (57), most nouns ending in a back vowel lose the
+vowel entirely in the nominative and instrumental cases (see next section),
+as in sɔkɔ́- → sɔk-a ‘root- NOM’ and habu- → hab-a ‘tree.hive-NOM’. Looking at
+nouns that delete their final vowel versus those that desyllabify it, the
+reason for this discrepancy is not obvious. It likely represents a historical
+morphological change toward or away from desyllabification. That
+nominative-case desyllabification is lexical and not post-lexical is shown by
+the fact that compensatory lengthening does not occur on the case suffix.
+Back vowels also desyllabify after the non-final accusative case allomorph /-
+a/, but when they do, compensatory lengthening occurs. For example,
+compare dakú- ‘tree’ as dakw-a ‘tree-NOM’ and as dakw-áá ‘tree-ACC’.","[284, 285, 286]"
+"
+Ik pronominals comprise a) independent words, b) words found only in
+compounds, c) clitics, and d) suffixes. All pronominals inflect for case,
+except for relative pronouns, clitics and verbal suffixes. Some of the
+pronominals are invariable in terms of grammatical number, while others
+have suppletive plurals or can be pluralized with one of the language’s
+pluratives. When it comes to personal pronouns, Ik is a pro-drop language,
+requiring minimally only bound pronominal subject-agreement suffixes.",[233]
+"
+Besides Possession, the second grammatical function of the genitive is to
+mark the complement of a similative clause. Similative clauses in Ik are
+formed with the special verb ƙám- ‘be like’ (cf. Swahili kama and West Rift
+Cushitic qoom-). Similative clauses have the schema ‘X is like Y’, where X is
+in the nominative case and Y in the genitive case. This in interestisng
+example of a genitive used as a clausal argument instead of an NP modifier:
+                                                                          271
+(121)   Ƙamata dziberikae.
+        ƙám-át-a               dzibér-íka-ᵉ
+        be.like-3PL- REAL      axe-PL-GEN
+        They are like axes.","[302, 303]"
+"
+As noted above, any post-lexical noun must have a case suffix. Six out of the
+eight Ik cases allow the stem-final vowel to persist. Only the nominative and
+the instrumental (as well as number suffixes) first subtract it. The practical
+problem is that the citation or isolation form of a noun in Ik takes the
+nominative case, thereby losing its final vowel. This means than unless a
+noun is given in one of the six non-subtractive cases, a non-native speaker
+134
+cannot guess the final vowel. For this reason, whenever the final vowel of a
+noun is relevant to a particular point or purpose (for example in Appendix
+B—Ik root lexicon), an abstract form of the noun is written with a hyphen.","[165, 166]"
