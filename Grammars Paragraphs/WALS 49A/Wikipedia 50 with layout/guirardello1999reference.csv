@@ -1,0 +1,909 @@
+Paragraph,Page number
+"When there is a lexical item, pronoun or pluralizer in the NP, we have the reduced formyi, even though sometimes it is also possible to have the full form iyi (the use seems tovary from speaker to speaker). Examples:(159)   [di        herohen         yi] pech   ka_in.
+         woman beautiful            run Foc/Tens
+         ‘The beautiful girl is running.                        [N ADJ YT](160)   [inatl    yi] pech ka_in.
+         3Pr(Fem)     run Foc/Tens
+         ‘She is running.’                                      [PRONOUN Y]7](161)   [ka’natl         yi] pech ka_in.
+         that.one(Fem)        run    Foc/Tens
+         ‘She (that one) is running.                            [PRONOUN YT](162)   etsi-n        ale         hen   [inaka         yiJ-k.
+        carry-3Abs hearsay then 3             Dual       -Erg
+         ‘Then, they two carried him.’                          [PRONOUN DUAL YI]”(163)   [wanyi] pech-e              ka_in.
+          PL       run-3Abs Foc/Tens
+         ‘They are running.’                                    [PLURAL YT](164)   f[axos iyi] u     ka_in.
+         child      born Foc/Tens
+        ‘The child is born.’                                    {FULL FORM W/ LEXICAL ITEM]
+        When there is no lexical item, pronoun, or pluralizer in the NP, we always havethe full form:
+a full form of the morpheme), but it is more complicated to think of an explanation for the reduplication,
+since the phenomenon of reduplication is Trumai has specific motivations that do not match the scenario we
+have here (cf. chapter 1.3.2).
+>The occurrence of yi with the pluralizer wan ‘Plural’ is often attested, but its occurrence with a ‘Dual’
+seems to be even more frequent.
+(165)   [iyi] pech-e — ka_in.
+               run-3Abs Foc/Tens
+          ‘She/he is running.’                                    [ONLY IYT]
+        This morpheme can occur in an NP in any morphological case. In the case ofErgative and Dative, the case marker attaches to it:(166)   a.hai-ts [pola          yi] kuhmu.
+          1-Erg     ball            throw
+           ‘I kicked (lit: threw) the ball.’                            [ABSOLUTIVE]        b. [ni’dak      wan     yij-k    chi_in      ha disi.
+           that.one PL             -Erg Foc/Tens     |   beat
+           ‘They (these ones) beat me.’                                 (ERGATIVE]        c. ha hu’tsa [fe’de faxlo        yiJ-ki.
+           1 see        jaguar son          -Dat
+            ‘I saw a young jaguar.’ (lit: son/child of jaguar)          [DATIVE]
+        In texts, we observe that yi often occurs in NPs with a head noun (occurring withboth indefinite and definite nouns), and much less often with NPs with a head-pronoun.","[89, 90]"
+"         The scenario is more complex when we use the same properties for identifying theSubject of languages whose case system is Ergative-Absolutive, because themorphological properties and the behavior-and-control properties can conflict. Manylanguages are Ergative in the morphology (with S and O aligning), but their syntax workson a Nominative-Accusative basis (i.e. for syntactic operations, S and A align). Then,how do we define the category of Subject for these languages? Which coding property ismore crucial for characterizing their Subject?",[316]
+"         Among the coding devices proposed by Keenan (1976), we have:e   word order
+e   verb agreement (i.e. the Subject controls person-marking on the verb)
+e   nominal case-morphology (in general, the Subject receives the unmarked case)
+e   behavior-and-control properties (such as control of coreference; reflexivization;
+    control of coreference in relativization, etc.)e   indispensability (the Subject is the NP necessarily present in a clause. All clauses
+    have a Subject)
+e   agentivity (the agent often is the topical participant)
+e   addressee phrase of the Imperative construction         The coding properties presented above work very well for identifying the Subjectof languages whose case system is Nominative-Accusative. For these languages, theproperties coincide in a way that results in a coherent notion of Subject: S and A, whichare “‘...the NPs which refer to functions that can be the initiating/controlling agents”
+                                                                                                           288(Dixon 1994:124-125), aligned both in morphology and in syntax. Therefore, for theselanguages, Subject would be the grouping {S, A}.","[315, 316]"
+"The choice of the dative markers depends on the semantic characteristics of the NP:person (1, 2, 3); number (singular, dual, plural), animacy (human, non-human animate,inanimate); whether the head is a possessed or unpossessed noun. Some kinds of NPs
+                                                                                                                        74have one possible choice (e.g. 1st and 2nd person pronouns), while others have two (e.g.3rd SG pronouns; human SG nouns). For the cases where two choices are available,pragmatic factors (such as the degree of identification of the entity) play a role. Tables2.13, 2.14, and 2.15 give an overview of how the system is organized:
+Table 2.13. NPs and their respective case marking - Pronouns
+         1/2 SG                    3S8G                     1/2/3/Dem
+                                   Dem                       DuaV/PL
+        -(V)el               -(V)el    or      -ki                  -ki
+Table 2.14. NPs and their respective case marking - Unpossessed Nouns
+ Proper      Nouns
+ Human SG                        Human Dual             Human PL
+ Anim Non-Human SG                                      Anim Non-Human Dual | Anim Non-Human PL
+                                 Inanim SG              Inanim Dual                             Inanim PL
+    -(V)tl   or = -ki                  -ki                    -ki         or   -(V)s                  -(V)s
+Table 2.15. NPs and their respective case marking - Possessed Nouns”
+                          Human SG                   Human PL                     Inanim SG                 Inanim PL Non-Anaphoric          -(V)tl    or     -ki          -ki                                -ki                  -(V)s
+ Possessor
+ Anaphoric                   -<(V)tl                  -ki                              -(V)el                 -(V)s
+ Possessor         We will return to the difference between the dative markers in chapter 7, when weanalyze the Extended Intransitive verbs, that is, a subclass of verbs in Trumai that can beclassified as Intransitive due to a series of factors, but that also present a dativecomplement. The selection of dative marker for the complements of Extended Intransitiveverbs is also based on both the semantic and pragmatic characteristics of the NPs.","[99, 100]"
+"
+        We cannot say that tsi- in all these cases is the same morpheme, since in nounstsi- is clearly a possessor, while in the other cases fsi- is not. However, there is a point incommon in all these cases: tsi-, despite its classification, seems to be indicating that theword that bears it (noun, adjective, particle) is not adjacent to the element that this wordhas its relationship to (i.e. the possessed noun is not adjacent to a possessor noun; theadjective in not adjacent to a modified noun; the hearsay particle is not adjacent to theverb). Perhaps the original function of the prefix rsi- was that (i.e., to indicate non-adjacency of two words that would usually be adjacent) and over time it assumed morespecific functions, becoming a possessive morpheme in the case of nouns, and havingother functions in the case of adjectives and particles.",[403]
+"There are four verbs types in the language: Intransitive, Extended Intransitive, Transitive,and Extended Transitive. There are also auxiliaries, which can be subdivided in two sets:Aspect-Mood and Spatial-orientation (with the further subdivision of Body Posture andDirectional auxiliaries).
+        Trumai has rich syntax, although word order can change because of pragmaticfactors. The case-system shows an Ergative-Absolutive alignment. With regard togrammatical relations, the traditional relations of ‘Subject’, ‘Object’, and ‘IndirectObject’ do not play a central role in Trumai grammar. The case-marking system and thesyntax of the language consistently identify three argument types: Absolutive, Ergative,and Dative; each type contains a subset of the traditional relations.","[5, 6]"
+"
+27 This chart is not complete. There is no information on animate non-human possessed nouns, due to a gap
+in the corpus.
+                                                                                                                  75         The Trumai postpositions are presented below. Contrary to what was said inprevious work (Guirardello 1992), postpositions in Trumai have independent stress.                   lots’                        ‘Ablative’
+                   letsi                        ‘Instrumental’
+                   tam                          ‘Comitative’
+                   nik                          ‘Without’
+                   (h)ita                       ‘Allative’”®
+         What are the differences and similarities between the case markers and thepostpositions? The difference is that the case markers are phonologically bound forms,while postpositions are free. The similarity is that both occur at the end of the NP, not onits head, as we would expect for the case markers if they were suffixes instead ofenclitics. This fact could lead us then to the question: are the Trumai case markers merelycliticized postpositions? We could say yes, because of the similarity in the site of location
+*8 The Allative postposition is represented with the initial sound h in parentheses because we are not sure
+about its occurrence (some few consultants claim that there is an initial h , but not the other consultants).
+          The Allative seems to have another allomorph, ata, attested in only 2 cases:
+(i)       ham ata           ‘to where’                   (ham ‘where, which place’)
+(ii)      in ata            ‘to it (it=meeting) °        (in ‘it’)Since ham and in seem to be pronominal forms, we could say that ata is the Allative allomorph used with
+pronouns. However, it is not so clear that this is the best analysis, because: (a) (h)ita is also attested with
+pronouns (example (iii) below); (b) the other postpositions do not have special allomorphs for pronominal
+forms (example (iv) below). It might be that the allomorph ara is simply morphologically conditioned,
+occurring only with ham and in.
+(iii)    inak a          (h)ita
+         3    Dual    Allat
+         ‘towards they two’(iv)     a. ine lots’
+             3 Ablat
+            ‘from him’           b. in lots’
+              it Ablat
+              ‘from it (it=event of reaching a place)
+          A final remark with regard to the postposition (h)ita: sometimes it can alternate with the Dative
+marker -ki, which can also mark ‘location’ if motion is involved. The difference between (h)ita and -ki is
+that with -ki, the entity performing the motion reaches its target (cf. chapter 7)
+                                                                                             76(following the NP) and because the case markers probably were originally postpositionsthat now are on their way to becoming affixes. However, this does not mean that NPsmodified by postpositions and case markers all have the same status. As we will see inchapter 7, there are motivations for treating the NPs marked as ‘Ergative and ‘Dative’ asdistinct from the NPs modified by the other case markers and from the NPs modified bypostpositions.","[100, 101, 102]"
+"        In any case, the Trumai causative construction with Transitive verbs isproblematic for Comrie’s approach:1.   if we say that the Ergative marking marks Transitive subjects in Trumai, then the     causative construction of this language clearly violates his hierarchy;2.   if we say that the Ergative marking does not mark Transitive subjects, we still cannot     explain the doubling on A: if the marking of the causee is formally motivated, why is     the causee in the causative of Transitive verbs marked as Ergative? Why not as     Dative, since doubling on Dative is observed in other parts of the language (cf.     example (78) in chapter 7), while doubling on Ergative with the same verb is not?3.   actually, as discussed in chapter 7, we cannot talk about the traditional grammatical     relations of ‘Subject’ or ‘Object’ for Trumai, given that there are no syntactic     behaviors to support establishing these categories. Therefore, the marking of the
+                                                                                             312     causee in the causative constructions in Trumai cannot be accounted for with     Comrie’s hierarchy, since the traditional grammatical relations do not play a role in     the grammar of this language.","[339, 340]"
+"        I am really grateful to my family, my parents Orland and Verénica, my siblingsand my in-laws, who have stood by me during all these years that I have been doingresearch, giving me all sorts of support, enduring the distance and providing comfort formany of the difficulties that I have had to face. I know that I am a privileged person forhaving the family that I have, and I am happy and grateful for that. Finally, my thanks toMarkus Damian, for being a wonderful partner, for the emotional support and for sharingwith me the good and the bad moments of life.
+                                           TABLE OF CONTENTSADSUr al... eceseeeseeeeceeeeeeseeceececesesceceacsersesecenseesecscsessececosssesessseesssasecseuseseesenavenes ii
+Acknowledgmentls.................:..cscsccssseesceesssesseesesessseaeseees eneeeassceucessesseeencenseatseeersees iV
+Table of Contents.................:ccccecccscsesenessesceeesssseceeecssssceseasescesscseooseceenseesessesesseenaes Vil
+List Of Tablles....0...........cccccescesseceeeeecesececceeseescsecsesecsccceessessscessseseessesasssasoasseseasenaseenees xi
+List of Abbreviations. .................:.ccccscccseresseecssesseeeesesseeeeessseseseessescssessesssussaseneenses xii
+Preface..........cccececssssccseesscesnssceseetsecscaceeescseesesessssacsesessecssssesasseesasseeceessssonseescenseeeaeees Xiv
+1          Phonetics and Phonology.................ccccccssssseeesseeessessesvessescssessseesesseneseseees 1
+            1.1. The inventory of phonemes. ...........csccceesseessesseeseeeseseesessseeeeeeseneeseeseens 1
+            1.1.1. COMSOMAMLS..........ccecesesececceneeeceneceereseeeessesessescsosssecsesessneceuseasenseeseeesees l
+                       1.1.2. VOWEIS........ccccccsessccceseesesecseeeseccesecaceececeeeessesecrcesersaeoseeneosseese 6
+            1.2. StreSS......cccescessssssssesessssecssecesssscesctecsnssecseescsseseseseesasosseeeeeseceseseeesensseeareass 7
+            1.3. Syllable Structure...                  ccc essesecseeeeeeeseseseeseeesenesseseseseseneneaeseenseneeees 7
+                       1.3.1. Inventory of Syllable Types... .cccsscssscessssceseesseseeessesenees 7
+                       1.3.2. Reduplication in Trumai............cceeesesesseseseesssseeceesessesessesenees 8
+            1.4. Phonetic aspects Of Trumai.........c                  cc cscesseecsesseeseseeseseeesseesseeseseeseeneeeees 1]
+                       1.4.1. Facts observed in the limits of morphemesS..............eeeeeeseeee 11
+                       1.4.2. Morphophonemic alternations in fast speech.............. see 12
+2          Nouns and Noun Phrase. ................:csesscesseeseseceesesseesessesesersnseasessesessssees 16
+           2.1. The structure of a Noun Phrase... ceesccseceecesesteesceecsesseseeseaeasenones 17
+           2.2. Word classes that occur in the Noun Phrase...............:essssssssssesesoseeeeees 21
+                       2.2.1. NOUMS.......cccecescsssseccssccscesseecesesesescessesscnseseseneesssseesseecssnssoessnsees 21
+                       2.2.2. Personal and demonstrative PronoumnS..............eeeeeessseeseeoseeee 27
+                       2.2.3. Interrogative pronouns or interrogative words?.......... eee 34
+                       2.2.4. AdJeCti Ves...              see esessscesessesessesscscseecsesesesssacsessessessseesersensaves 37
+                       2.2.5. Words of quantification: numerals and quantifiers................. 46
+                       2.2.6. PlUraliZers..........cccsssscssessecccscesesseceneecssenscacsacensenseneeeseaeeeseeases 55
+                       2.2.7. The noun phrase final morpheMe iYi..........cccsscessseessesessoseeee 62
+           2.3. Postpositions and Case MarkeTS...........sesseecsescsssssesssseesssneesseessesesessenees 71
+           2.4. Nominal Possessive constructions in Trumal.............ccesesesecseeseeseeseen 76
+                       2.4.1. Alienable Possession............:s:ccsssceseceersceseessseesessseaceessereessease 76
+                       2.4.2. Inalienable POSSeSSION...........:.-cccsssecssesecesseseesseseseseessenseenease 77
+                                  2.4.2.1. Kinship terms... ccceccssseseseceeesseneseeeensseeensenes 77
+                                  2.4.2.2. BOY Parts... cecseeccssceseeeeseesssesseescseeserseessseserserete 82
+3          Verbs and Verb Phrases................:..cccecesseeceecesesessesseseeseecsssenecseesessseesessees 86
+           3.1. The structure of a Verb Phrase... ceeseseeecseseesssseeeesseesessesereeseeneess 86
+                       3.1.1. Nominal arguments inside the VP............:csscsssceseeesesseeeteenes 86
+                       3.1.2. Inside the VP: word order of elementS..............c:ccccsssseeserenees 93
+                       3.1.3. The 3Absolutive enclitic -0/-€..........ccsecscssssstsesseeteeseeseeeseeees 95
+           3.2. VerDS...cceccscescseesessesesssssessseseseeesecsesacacescnenscneceseeecsceeesceessseeeesseacesseceessenes 98
+           3.3. Particles.........c.cccsecesccscccessecereeseecseeeceseessesesesenesceseessneessssssscessacessesesseesees 101
+                       3.3.1. Intensity Particle... cecseeessscesseeesesseesetenssessceeeensteseesenees 102
+                       3.3.2. Negation Particle... cccesssessscsseeecrersesseneenenseeseeeeneneseeeeeees 105
+                      3.3.3. Causative Particle........cccccccsscccsssssssccssssssssccesssscnsecceesscssseseess 107
+                                                                                                                       viii           3.3.4. Imperative Particles...........ccsscccssessessesesessesssssseeseeneseceenecserenens 111
+3.4. AdVEIDS.......ccccceceeceecesenereesessseseseeassessssssssasseseseseseencassaeseneesensenenssesaeseenees 115
+3.5. Copulla.....     ee eesceescessssccsssecssssessssseeeeeesceesesessseseessessessneessnecseasscscsascensas 122
+AUX ICS..............cccescesesceececeececeeeesceeceseeessssseesseeesseseseessseeseesessensenseessnesesees 128
+4.1. Definition of the notion “Auxiliary” and the linguistic literature........... 128
+4.2. The properties of Trumai auxiliaries.............cecsceeeceeseeeeeeeteneteeseneneens 132
+          4.2.1. The general properties...........ccccsesesseerereteeseseteeeeerssetereeeseeeaees 132
+                     4.2.1.1. Internal to VP........csssessseesessscscessecsssecseensseseneeeneneees 134
+                     4.2.1.2. Inability to OcCUr POSE-V..........ceseseesesseseereeeteeeeeteenes 137
+                     4.2.1.3. Combination among auxiliaries...........sccceeseeeeees 138
+           4.2.2. The idiosyncratic DehaVviOIs.............ccceeessesesenseeeeteeeeteseeeseesees 140
+                     4.2.2.1. Phonological reduction..........scsesessessecessetereneesnerees 141
+                     4.2.2.2. Occurrence in first POSITION...........cceseeceeeeeseeeeeteeees 142
+                     4.2.2.3. Auxiliaries that are homophonous with main
+                                  VEIDS......cscececceseessesecsecsccseesscssscesenseeceseseseeeeseeneeeeneeneas 144
+                     4.2.2.4. Auxiliaries that do not bear the morpheme wa-........ 152
+4.3. Aspect and Mood Auxiliaries..........ccseccssssesessseessesssserseeeceenensesetsensescnens 153
+4.4. Body Posture AUxiliaries...........ccccsssesesssessesesssseneneneeenssecerscessenseneneneces 157
+4.5. Directional Auxiliaries... sesscsesesssesseseeesesesesecseeeseeeesesseseeeneaesees 160
+Simple Declarative Clauses. ...............:c:cscssesesecesssessenesesseenenetetseeeneneeneees 167
+5.1. Background for the analySiS..........:.:ccscccssescesseeesserseseeeeeesenssssensnesestetses 167
+           5.1.1. The Focus/Tense particles kKa_in and Chi_in.........sscccceeseeees                           169
+        5.1.2. The morpheme Ke...........ccsssssssssesssssecseneseesenenseseeeenneesssseseeseeees 178
+        5.1.3. The relation between the Focus/Tense particles and ke.......... 183
+5.2. Characterization of nominal and verbal predicates in Trumiéi............... 194
+        5.2.1. Main characteristics...........scsscsssscsseescsesssssesssessessenssensreneeaes 194
+        5.2.2. Nominal roots aS VerDS.........                s cesssseeseseseseeeseeseeeessseeseseeeeeseees 196
+        5.2.3. Verbal predicate becomes similar to nominal predicate.......... 196
+        5.2.4. Attributive predicates... escscecessseerenessssesseseeeeseeessatereasees 202
+        5.2.5. Other kinds of non-verbal predication..............scsceeseeeseseeees 206
+        5.2.6. Predicates for expressing POSSESSION..........:::scsssesceseseeeseeseenees 215
+5.3. Expression of tense and aspect/modality in non-verbal predicates......... 219
+        5.3.1. Tense/aspect in existential predicates............cscceeceseeeeseeenenes 220
+        5.3.2. Tense/aspect/modality in locative predicates...........ceeeeees 221
+        5.3.3. Tense/aspect/modality in nominal predicates.............ccesee 222
+5.4. Simple clauses: other element...........:ccscccsessecesseeceeeseceeeeseeseeensrerseseess 224
+        5.4.1. The hearsay particle... sceeecssesesseseseeseresnesesesseeeeeenereneeeses 225
+        5.4.2. InterjectiOns..........cccsssesssessssesssensesesesesnsseserenseeseesseneceeeeseseesens 226
+Md lit y..............ccccceeccssseeccseeescnescscsesescecsessesessesescaeseseeeserssesensesenenesensnesenetes 228
+6.1. Review of declarative Clauses.........ceccsscssssseseeneeseesssseeenseeessteneeeteeees 228
+6.2. Interrogative ClAUSES..........csscssscssseseseseeeseeeneseceseeeseesseseaseseesacesnesenseasannens 230
+        6.2.1. Polar QUeStIONS..........eceescssssseceeseeeeeeessseseseseaeseesssseseanensenenens 230
+        6.2.2. Information QUESTIONS............cscesssssseseeeseseeseseneeeeeseeeseeeneneees 231
+6.3. Negative clauses: main aspects Of NegatiOn............cscssesnersereeeeteeeees 232
+        6.3.1. Negation in verbal predicates..........cccscsesssssesereseceeeeeeteesenenees 233
+                    6.3.1.1. Negating the Verb... eeesseesseessseessecccseeneeneees 233
+                    6.3.1.2. Negating other elements of the verbal predicate.......237
+          6.3.2. Negation in non-verbal predicates.............cssssecessetsereereeees 238
+                    6.3.2.1. Negation in nominal and equative predicates........... 239
+                    6.3.2.2. Negation in locative predicateS...........ssscssessseesees 241
+                    6.3.2.3. Negation in existential predicates.............:cccsseeeeee 241
+          6.3.3. Negation in poSsesSive PrediCates..........cscescseereeeseeeeseteeseeeees 242
+          6.3.4. Negation in attributive predicates...........ccsssssecsecssseeeeeeeeeees 243
+          6.3.5. Negation of single elements/specific pieces of information.... 244
+          6.3.6. Other negative words (‘nobody’, ‘nothing’, ‘never’)............... 247
+6.4. Imperative CONSUIUCTION..........ccccsesesseneseseneseseetenseneseessscesueeeneeneneaeseneeees 249
+Case-marking Alignment and Grammatical Relations.........................-- 254
+7.1. Verb classes and obligatory participants............sssssscsseseessseseeeeneerees 255
+          7.1.1. Syntactic-semantic primitive relations.............ssseeeseseereeees 255
+          7.1.2. Clause types and Verb ClaSS€S.......seccscececesesesersseeesecereenenesereeeees 256
+         7.1.3. The Extended Intransitive Verbs............cccsscsesseseeseesesseseeeeeees 264
+7.2. Patterns associated with each argument tyPe..........ccceeeeseeteereeenenees 267
+         7.2.1. ADSOLULIVE........:cccceeceteeeececesscesonesteeesseessesscsesseseeneeseesentesseneeees 267
+         7.2.2. EV Qative......ccccsssssscssessssssssssssesesseseseecsssestensesnsessenenensseeseeneeeseeees 268
+         7.2.3. Dative....ccscscscscescsccesecccseresessescesescsssscssessseussesssesessseesesseseeceseesees 269
+                  7.2.3.1. Choice of Dative markers with obligatory
+                                 PATTICIPANLS.......seseseesseeseeeessessseeeseeeesesesesesnseeneseseseneees 270
+                  7.2.3.2. The uses of the Dative to mark non-obligatory goal
+                                  PAMTICIPANUS..........eseeeeessesseceeseeneeeeaeeesseseseseneseeseenenees 282
+7.3. The evidence for Grammatical RelationS.............ccsccsseeeseeeseseesseeeeees 286
+         7.3.1. Traditional grammatical relations (‘Subject’, ‘Object’, etc)... 286
+         7.3.2. An alternative analysis: “Core” versus ‘Peripheral”
+                  AL SUMEMS.........            eee eeeeeceeseeseseseccscessesescsesesescsssessseseseneasesseneeeeeenes 296
+“Valence Changing” Devices...............ccssesssessesersseesneesetesteeeeseseseeeseenees 301
+B.1. Causation......cccceceseccscsceceesececsscscesenecescssesssecesescssssesesssesssseeceeseesseeeenees 301
+8.2. Reflexive CONStTUCTION............                   cc eecesssssessesestsecsssesssseseseessseeseseesenesneseeseens 321
+          8.2.1. Pronominal arguments in standard clause structure................. 322
+          8.2.2. Argument SUPPFeSSION............cccceceseeeseseeeetenseetsenseetesseeeneeeenenes 323
+          8.2.3. Use of falapetsi ‘do by oneself? ...........ccsceseseecseesseeseretsneseeens 325
+                    8.2.3.1. Falapetsi aS MAIN VET...                               eee seseesseseeseeeteneeneeeees 326
+                    8.2.3.2. Falapetsi as object of the Instrumental
+                                   j90)<1| 0101-5 (50) ¢ Ee                                                              328
+          8.2.4. Imperative... cescecceeesesssesesssseesessesseseeeeesensnenseeerensneneneeseenensens 329
+          8.2.5. Conclusion: comparing the different strategies...............s000 330
+          8.2.6. Reflexive POSSESSION...........:ccsesssssesessesseeseseseseseseeteeseneneeeesee 331
+8.3. Reciprocal CONStIUCtIONS.............scccesssesesesessseeesenesenestensteneeeeneeenesnensenens 333
+VOICC. eeccccccccsessseseaseseeeseeeeeccseseesnessaneseeeessessesesensesesessessnecseneeseneesesenseneeeeens 336
+9.1. Simple argument SUPPFeSSION.............ccsessecseeceeseseseseeesesencneeeeseenensaeeeenees 337
+          9.1.1. Suppression Of ADSOIUtIVE.........c                          ec esceeseeeeeseeneereetensteneteneeeeees 337
+          9.1.2. Suppression Of Ergative..........sscccssesssssecsessseneseeenesssecensesseesseees 342
+                         9.1.2.1. Suppression of Ergative: passive effect...                                 eee 343
+                         9.1.2.2. Suppression of Ergative: reflexive or
+                                   Middle-grooming ACtION......                    ee eeeeeeeseeseeeeeeeseeseseeee 344
+                         9.1.2.3. Suppression of Ergative: middle-spontaneous event.... 350
+                   9.1.3. Suppression Of Dative... eeeeseseseseececceseeeeseeesseeseneseeees 352
+           9.2. The “lexical Antipassive”’..........       cs csecssscsescecesetsetscsseseesesseeseceeseeceeaeeeseees 355
+           9.3. The Middle voice morpheMe W4-............sscecccsseecessssntecesecseeeceeceseeesenees 359
+10         Complex Sentemces................:cccssssesssssscsesscseseseeesssesesseessessesssssetsnensasasesees 366
+           10.1. Coordinated clauses... esscssseeseeeceseeceeeectseseeseceseessceesseasesessnsesoeness 367
+                   10.1.1. Is there coordination of clauses in Trumai?.........eeeseseseeees 367
+                   10.1.2. Clauses linked by discursive CONNECLOFS............:sceeceeeseeees 371
+                   10.1.3. A special case: clauses linked by the connector
+                                TENUK. tSi-(L OLS? seccecccsscceeccessccensesescerecsescccceeseesseereeseceeeseeeeeseeuees 373
+           10.2. Complement Clauses..........cececesessecsssssessessesseesssseessesesseseseceesrenseneseees 377
+                   10.2.1. Dative-Complement Clauses............ccccsssscessseesceseseeeeseeeeneees 378
+                   10.2.2. Absolutive-Complement Clauses...........cccscessscessseeceeeeeseees 382
+                   10.2.3. Direct Speech Complement Clauses...............cccccscssseseeeeeseeees 386
+           10.3. Adverbial Clauses............sescecsscsscseseceeesescnecsesscssscseseeessseensessesseeeeeseeees 388
+                   10.3.1. Adverbial clauses linked to time... cseseseesesseessecseeseeeees 389
+                           10.3.1.1. Temporal/Conditional clauses marked by -is/-es... 389
+                           10.3.1.2. Temporal subordinate clauses marked by -ki/-tl.... 396
+                           10.3.1.3. Simultaneity subordinate clauses............. cess 398
+                   10.3.2. Purpose subordinate Clauses...........cscssescesessescesesssscsceeseeseees 400
+                      10.3.3. Causal (reason) subordinate clauses.............ccsccsesesseeesseeeenes 402
+           10.4. Relative Clauses... eesessssecssseseeceesseesescesesesssceeessessessscsscssesessesenees 410
+           10.5. Conclusion: overall SySteM.............              se eeceeeeseseeeeeececesseesseeetsceseeneeeseeees 423
+Bibliography.................cscessscscsseesecssessecesseeneseesscsceeseseessececessesssessssesseesersessssaseseaes 427
+Appendix 1: Selected Trumai Texts...................c:cccccccssseesesseeneseeseeseeessnseneesssesenas 437
+Appendix 2: Map of Xingu Reserve.................:cscccsesseessesessesesesteseeessesneceneeeasens 452
+                                              LIST OF TABLESChapter 1:
+       Table 1.1. The consonants of Trumal...........eeeeessseeeeseeeeeseeseeseeseeeeseeeee 5
+       Table 1.2. Trumai consonants in the Trumai orthography.............:ssccseesee 5
+       Table 1.3. The vowels of Trumal..........                   ce eeesccsesssseseeseesseessscerssseseneeees 6
+       Table 1.4. Trumai vowels in the Trumai orthography............sscssescersersseees 6
+Chapter 2:
+       Table 2.1. The characteristics of nouns and VELDS............eccceeeeseeeeeeensenes 22
+       Table 2.2. Personal pronouns in Absolutive NP%S.........:ccccsssssseseeseensenesees 27
+       Table 2.3. Personal pronouns in Ergative NPS..........cssssesscsessreeeseseeeeeees 27
+       Table 2.4. Personal pronouns in Dative NPS...........:cscsesessseerereeeeseeeeeeeees 28
+       Table 2.5. Demonstrative pronouns in Absolutive NPS............:.csssssesseeees 28
+       Table 2.6. Demonstrative pronouns in Ergative NPS..........::cssssssseseeeeeees 29
+       Table 2.7. Demonstrative pronouns in Dative NPS.........:csscsssessesseressneees 29
+       Table 2.8. Adverbs and Demonstrative Pronouns. ............sccesescessseseeneees 33
+       Table 2.9. Adjective characteristics shared with nouns and verbs.............. 37
+       Table 2.10. Quantifiers used by some speakeTS............::csecssssssecsesseneseeseees 48
+       Table 2.11. Quantifiers used by most speakers.............ccsccessceseseeseseeseneees 48
+       Table 2.12. Other quantifiers... scsesssssscscoesseessssessseeseeeesessenesaesecsenseees 48
+       Table 2.13. NPs and their respective case marking - Pronouns...............0+6+ 74
+       Table 2.14. NPs and their respective case marking - Unpossessed nouns.... 74
+       Table 2.15. NPs and their respective case marking - Possessed Nouns........ 74
+Chapter 3:
+       Table 3.1. Distribution of chi ‘Copula’ and chi ‘reduction of the
+                   Focus/Tense particle..........csssscssssccscnseesesssessescesessesssesenseseeneeees 125
+Chapter 4:
+       Table 4.1. AM auxiliaries that are homophonous with verbs.............0..00 145
+       Table 4.2. Body Posture auxiliaries that are homophonous with verbs....... 148
+       Table 4.3. Directional auxiliaries that are homophonous with verbs........... 150
+       Table 4.4. Aspect and Mood auxiliaries... ccccccssseesseeensseteereessneseeeeees 154
+       Table 4.5. Desiderative versus Privative..........esesseccssessseessesssesesecsesseenseees 156
+       Table 4.6. Body Posture auxiliaries...                          eee secssseesseesctseecssesesseseessessesens 157
+       Table 4.7. Directional auxiliaries...                          ee ceeseseeeseeeetecesesceessessessenseneass 161
+Chapter 5:
+       Table 5.1. Summary: Evolution of focus construction with the old
+                  £0) 0) 6 (6 |0 (Ee                                                                                187
+       Table 5.2. Summary: Evolution of focus construction with the old NP
+                   POSSESSOMS......s.secccssessscseseseesescsccerssssscseeeesseeeseensssussesscenseaneseseensnees 191
+       Table 5.3. Non-verbal Predicates............              ec ccsssssseesrccesseesreeeeseessscessessseeeeees 207
+Chapter 9:
+       Table 9.1. The semantic effects of the presence of the prefix wa-............... 363
+Chapter 10:
+          Table 10.1. Trumai discursive CONNECtOLS.............
+                                                   ce ecesecesseessssessnssessssssescees 371
+                           LIST OF ABBREVIATIONS
+Abl         ablative
+Abs         absolutive
+Allat       allative
+Caus        causative
+Com         comitative
+Collect     collective
+Cop         copula
+Dat         dative
+Dem         demonstrative
+Des         desiderative
+Dir         directional
+Dual        dual
+Erg         ergative
+Ext. Intr   extended intransitive
+Ext.Tr      extended transitive
+Fem         feminine
+Foc         focus
+Foc/Tens    particle of Focus/Tense (ka_in / chi_in)
+Gen         genitive
+Imp         imperative
+Incho       inchoative
+Inst        instrumental
+Intens      intensity particle
+Intr        intransitive
+Loc         locative
+Masc        masculine
+Neg         negation
+Nzr         nominalizer
+NzrEx       nominalizer ‘ex’ (the morpheme -t’(a))
+Perf        perfective
+PL          plural
+Plzr        pluralizer
+Poss        possessive
+Pr          pronoun
+Priv        privative
+Purp        purpose
+Quest       question
+Reas        reason
+Rlzr        relativizer
+                                                                                 xiiiSG      singular
+Tr      transitive
+Voc     vocative (for kinship terms)
+                               Conventions
+[ ]     in the chapter on Phonetics and Phonology: phonetic transcription
+        in the remaining chapters: phrase boundaries        representation of morphemesXX_XX   morphemes that are independent, but generally associated in a specific
+        context
+                                        PREFACE        This dissertation is a study of Trumai, an indigenous language spoken in thecentral area of Brazil, in the Xingu Reserve (see map, appendix 2). The current work isthe first attempt at organizing a reference grammar of this language, providing a generaldescription of how the system of Trumai is organized .","[9, 10, 11, 12, 13, 14, 15, 16, 17]"
+"        Like the personal pronouns, demonstrative pronouns in Trumai can be considereda subclass of nouns, since they also can receive case markers, and they can be the head ofthe NP. Besides gender and number, the Trumai demonstrative pronouns distinguish thedistance of the referred entity: proximal or distal.",[54]
+"That is, perhaps the loss of /h/ word-initially that is currently taking place is a7 In this example, not only /h/ is lost, but also the vowel of the adverb de ‘already’, probably in order to
+avoid VV sequence after the loss of /h/ (i.e. dea > da).
+                                                                                                 15continuation of a general process of /h/ loss, whose first step - the loss of /h/ word-finally- is already complete. However, it also might be that /h/ has never existed in the word-final position (typologicaly, final /h/ is rare).
+                                                                                             16                                       CHAPTER 2
+                               Nouns and Noun Phrases
+        One of the main characteristics of Trumai is that it is basically an isolatinglanguage. There are not many inflectional morphemes and in general words consist of asingle morpheme. The Trumai word classes are: nouns (including pronouns anddemonstratives), verbs, adjectives, adverbs, auxiliaries, postpositions, interrogativewords, words of quantification (numerals and quantifiers), pluralizers (dual and plural),particles (such as negation, causation, imperative particles, etc.), subordinators andinterjections. Nouns and verbs are the two main open classes and the distinction betweenthem is clear. The case of adjectives is a little more complicated, because they share someof the characteristics of both nouns and verbs, but at the same time they presentcharacteristics that are unique to them; section 2.2.4. of this chapter will explore thecharacteristics of adjectives. As we will see later, pronouns and demonstratives can beanalyzed as a subclass of nouns, given the similarities in their behaviors.","[40, 41, 42]"
+"        Nroot                     >   Nwora
+Case marking:                 (27)    ha       hu’tsa       chi(_in)         di-tl.
+                                      I        see          Foc/Tens         woman-Dat
+                                      ‘I saw the woman.’
+In a nominal predicate:       (28)    di     ha chi.
+                                      woman 1 Cop
+                                      ‘Tam a woman’Negated by anuk:              (29)    di             anuk     ha chi.
+                                      woman          Neg      1       Cop
+                                      ‘Iam not a woman.’Possessed:                    (30)        tsi-di               ha chi.
+                                      3Poss-woman                 1    Cop
+                                      ‘Lam his woman/wife.’Imperative:                   (31)    di             wanach
+                                      woman Imp
+                                      ‘Be a woman (behave like a woman)’
+                                                                                                 26
+            N. root                        >         Vworad   (with the sense of ‘to have X’)Head of VP:                  (32)     ha       di                ka_in
+                                        1    have.woman Foc/Tens
+                                        ‘I am married.’ (lit: Ihave a woman.)Enclitic:                    (33)       iyi di-n                         ka_in.
+                                      YI have.woman-3Abs Foc/Tens
+                                      ‘He is married.’ (lit: ‘He has a woman.’)Auxiliary:                   (34)     ha       di-tke.
+                                        1    have.woman-Desid
+                                        ‘I want to marry.’ (lit: I want to have a woman.)Imperative:                  (35)       wana        di
+                                        Imp         have.woman
+                                        ‘Marry! (Lit: Have          a woman!)Causative:                  (36)       hai-ts Mayahiri di               ka.
+                                        1-Erg Mayahiri have.woman Caus
+                                      ‘I made Mayahiri marry’. (lit: I made him have a woman.)
+        A final remark on nouns: they can be modified by the Nominalizer -t’(a), amorpheme that in general terms can be translated as ‘ex’ or ‘former’. However, -t’(a) hasslightly different meanings, depending on the word it modifies. The combination of -t’(a)with adjectives and verbs will be explored in the section on these word classes (2.2.4 and3.2). With respect to nouns, we observe that the morpheme -r’(a) gives to the noun thestatus of being an ex-entity:(37)        a.yaw
+              ‘human.being’            b. yaw-t’a
+                ‘one that was human.being’ (an ex-human.being)(38)         a.t-eche’          ka_in           ha chi.
+               3Poss-husband Foc/Tens 1              Cop
+                ‘I am her husband.’
+                                                                                                      27         b. t-eche-t’                     ka_in        ha chi.
+              3Poss-husband-NzrEx         Foc/Tens     1   Cop
+              ‘T am her ex-husband.’2.2.2. Personal and demonstrative pronouns
+         Personal pronouns in Trumai can be considered a subclass of nouns, since theyreceive nominal morphology - e.g. the genitive morpheme and other case markers - andthey have almost the same syntactic behavior (with the exception of the possibility ofbeing modified by adjectives and words of quantification); that is, they also can be thehead of the NP.","[51, 52, 53]"
+"The full form iyi is also quite frequent, occurring in cases when the noun is not mentioneddue to discourse continuity (i.e. zero anaphora). The morpheme is also often found in NPsin which the head noun is modified by an adjective.(167)   iwir fapti-s ka_in    make [huruts        yi].
+        wood ear-Dat Foc/Tens eat KE river.turtle
+        ‘The river turtle eats wood ears.’ [text about the river.turtle](168)   a.ina     hen     [puk           yi] homne        __hai-ts.
+          there then          curassow       find/meet     1-Erg
+          ‘There I found a curassow (kind of bird).’        b. in-is hen [ iyi] ki-n      hai-ts.
+           it-Dat then      kill-3Abs 1-Erg
+          ‘Then (lit: in it (it=event of meeting the bird)) I killed it.’
+                                                                                                  65(169)   hahu'tsa chi(_in)     f[adis  kek        herohen _yiJ-ki.
+        1 see       Foc/Tens   Indian individual beautiful    -Dat
+        ‘I saw the beautiful Indian.’        It is difficult to determine the semantic contribution of this morpheme to the NPwhere it occurs. The morpheme (i)yi is reminiscent of many things, but is not consistentlyany of them:(1) not a pronoun: the allomorph iyi occurs by itself in the NP; therefore, it might beconsidered pronominal. The allomorph yi can occur in an NP that has a 3rd personpronoun, that is, [Pro yi]. If we say that yi is also pronominal, then we would have twopronouns in the same NP, a fact not otherwise attested in Trumai. Therefore, we have toconclude that yi is not pronominal. But then, can a morpheme have an allomorph that ispronominal (iyi) and another one (yi) that is not? And if the allomorph iyi is reallypronominal, why can it not receive case marking by itself? We cannot have [iyi]-ki(Dative) nor {iyi]-k (Ergative), only [noun yi]-ki or [noun    iyi]-k, as in the example (166)above. As we can see, there are problems in considering the morpheme (i)yi a pronoun.
+(2) not an indicator of definiteness: at first sight, we could imagine that (i)yi is a definitearticle, given its frequency of use, its occurrence in 3rd person noun phrases, and itsposition in the NP (i.e., the rightmost element). The problem is that this morpheme alsooccurs with indefinite NPs, as we can see in the example (168a) above, and it co-occurswith pronouns (examples 160-161). Therefore, we cannot call it a definite article. On theother hand, it is noticeable that the use of (i)yi is more frequent among the youngspeakers, who are all bilingual in Portuguese (our unquantified impression is that older
+                                                                                                  66
+people use (i)yi much less frequently than younger speakers). It might be that the high useof definite articles in Portuguese - which are employed even with proper names - isinfluencing the younger speakers of Trumai, and perhaps because of such influence, thesespeakers are attributing new functions to (i)yi. However, this is just a hypothesis thatneeds to be explored.
+(3) not an indicator of referentiality: we could say that the morpheme (i)yi is linked to theexpression of referentiality, because many of the NPs where (i)yi occurs have a referent(if it is identifiable or not to the listener is another question). The problem is to deal withexamples such as (170):(170)    [yaw-t’a              yi]   ka_in       [pitik     yi].
+         human.being-NzrEx       Foc/Tens monkey
+         ‘The monkey was a human being.’ (lit: the monkey is an ex-human being)
+In (170), the NP /yaw-t’a yi] is the predicate of the clause; so, what is being made hereis a predication, rather than a simple reference. It is true that the predicate in (170) isnominal, and nominal predicates can be referential. The question is to explain theoccurrence of yi both in the subject and the predicate. If the function of the morpheme(i)yi is merely to indicate referentiality, why do we have the “overuse” observed in theexample above? What is the motivation for that?","[90, 91, 92]"
+"         Finally, there is one alternative way for the expression of the negative Imperativewith verbs. Actually, this alternative way is not really an imperative construction, butrather a simple clause, with the [Verb + Negator] in first position, followed by the adverbnuk ‘then’.® This alternative way of expressing negative commands is possible both withIntransitive and Transitive verbs. As example, we have:(86)     ofa      tak nuk hi chi kasoro-s
+         hit/kill Neg then 2 Cop dog-Dat
+         “You do not beat the dogs!’(87)     mapa tak nuk atlat chi.
+         break Neg then pan Cop
+         ‘(You) do not break the pan.’
+7 However, as already mentioned in chapter 3, this point needs to be rechecked with other Trumai
+consultants.
+8 Despite the similarity in the phonological form, the adverb and the negator anuk are not the same
+morpheme. Their syntactic behaviors are different.
+                                                                                                         253         It is interesting to observe that the Imperative constructions with verbs can alsoemploy the adverb nuk, as well as the adverb hen, translated as ‘then’ too (the semanticdifferences between hen and nuk are explained in chapter 3, footnote 12). The adverb henis usually used in the affirmative modality (88-89), while nuk is more often used in thenegative (examples (90-91). However, this is just a tendency, not a rule, since nuk canalso be found in affirmative imperative constructions (92).(88)     wanama        hen
+         Imp eat       then                                                ‘Then, eat!”°(89)      waki kuhmu hen                                                   ‘Then, throw it!”
+         Imp throw then(90)     sone    tak     nuk    wanach.                                    ‘Then, do not drink!”
+         drink Neg then        Imper(91)     kiti tak nuk waki.                                                ‘Then, do not give (it)!
+         give Neg then Imper(92)     wana fa’tsa nuk ik       ha ami-ki      hi-tl.
+         Imp listen then first 1 speak-Dat 2-Dat
+         ‘Then, first listen to what I say to you!’
+9 Tn this context, the adverb ken ‘then’ seems to have a exasperation sense (“Then, eat!’) rather than
+temporal sense (‘Eat then!’, as opposed to ‘Eat now!’).
+                                                                                              254                                       CHAPTER 7
+                               Case-Marking Alignment
+                             and Grammatical Relations        In this chapter, the case system of Trumai is described. The alignments observedin the data show that this language has an Ergative-Absolutive system, and that there arefour verb classes in Trumai. This language has three kinds of obligatory arguments(Ergative, Absolutive, Dative) and these argument types are very important in describingthe system of the language. The traditional grammatical relations (Subject, Object,Indirect Object) do not play a central role in Trumai grammar. There are no syntacticbehaviors that support establishing a cross-cutting category of either ‘Subject’ (groupingA and S) or ‘Object’ (grouping O and DAT). It seems that this language works on thebasis of another principle: ‘Core’ versus ‘Peripheral’ arguments, with different degrees ofcore/peripheriality.","[280, 281, 282]"
+"          In my Master’s thesis (Guirardello 1992), I described aspects of the Trumailanguage (phonology, word classes, and the case-marking system), revising some pointsof the study made by Monod-Becquelin and analyzing other phenomena of the language.",[22]
+"       When the piece of information being negated involves a pronoun, numeral,adjective, or quantifier, the negator used is anuk, which - as we have seen before - is theNegation particle for nominal constituents. Looking at examples (66-70), we may thinkthat anuk is directly modifying the pronoun/numeral/adjective/quantifier. However, whenwe look at example (65), we can see that what anuk is modifying is not really a noun, butrather a NP, which is probably the non-verbal predicate of a subject that is assumed bythe context, but not formally present (i.e. (Who is coming) is not Kumaru ; cf. Englishpleonastic ‘it’: It is not Kumaru). We believe that the same is happening in the otherexamples, that is, what anuk is negating is the non-verbal predicates of the implicit
+                                                                                               245subject: (Who went to Pavuru) was not us; (The hammocks that I bought) were not two;(The coffee that I made) is not much; (My sister) is not tall.e      Noun
+(65)      [Kumaru yi] anuk.
+           Kumaru YI Neg
+           ‘(It is) not Kumaru.’ (somebody is coming, but it is not Kumaru)e      Pronoun
+(66)       ha wan anuk.
+          1 PL Neg
+           ‘(It was) not us.”   (somebody went to Pavuru, but it was not us)e Numeral
+(67) huch anuk.
+          two      Neg
+          ‘(It was) not two.’ (I bought hammocks, but it was not two, only one)¢      Quantifiers
+(68)      a’di     anuk.
+          many Neg
+          ‘(It was) not many.’ (I bought knives, but not many)(69)      pix      anuk.
+          much Neg
+          ‘(It was) not much.’(I made coffee, but not much)e      Adjective
+(70)       atuk anuk.
+          tall     Neg
+          ‘(She’s) not tall.’ (my sister has many attributes, but she is not tall)          Examples (68-69) above seems a little strange at first sight, because we wouldexpect the occurrence of [a’di tak] ‘a few (lit: not many)’ or [pix tak] ‘a little (lit: notmuch)’, instead of Quantifier + anuk. A possible account for these examples would be tosay that [pix tak] and [a’di tak] are lexicalized as ‘a few’ and ‘a little’, respectively (a
+                                                                                              246point already mentioned in chapter 3, section 3.3.2). In this case, a separate negationconstruction would be necessary for contrastive negation. If this hypothesis is accurate,we would expect the combinations [a’di tak] anuk ‘it is nota few’ and [pix tak] anuk ‘itis not a little’ to be possible. If they are, then we indeed have a case of lexicalization.","[272, 273, 274]"
+"          In Trumai, there are no special words like English ‘nobody’ or ‘nothing’, but thereare ways of expressing the same idea. Let’s see how the negation of referentiality isexpressed in Trumai.e      nobody
+          The idea of ‘nobody’ is expressed through the negation of the verb plus the use ofthe noun yaw, which literally means ‘people’, but when in a negative clause, has theopposite meaning: ‘no people’. For example:(74)       hu’tsa tak   chi_in    hachi   yaw-as.
+          see      Neg Foc/Tens |    Cop human.being-Dat
+          ‘I did not see anybody.’
+                                                                                                            248(75)        midoxostak       ka_in          hai-ts     yaw   chi.
+           call       Neg Foc/Tens          1-Erg      people Cop
+           ‘I did not call anybody.’(76)       hu’tsatak       yaw        chi         ine-tl.
+           see   Neg people people 3-Dat
+           ‘Noboby saw him.’           In existential clauses, the idea of ‘nobody’ is expressed through the use of thepostposition nik ‘without’, which modifies the noun yaw:(77)      yaw       nik            ka_in.
+          people without Foc/Tens
+          ‘There is nobody.’¢      nothing
+          The idea of ‘nothing’ is implied by the negative modality of the clause, plus thefact that there is no “patient” mark in the clause: in the case of an Extended Intransitiveverb, the complement is completely omitted (example (78)); in the case of a Transitive orExtended Transitive verb, there is no 3Abs enclitic in the clause (example (79)).","[275, 276]"
+"        This chapter is dedicated to the characteristics of the Noun Phrase in Trumai(section 2.1) and its components (section 2.2. and subdivisions); that is, nouns,pronouns/demonstratives, adjectives, words of quantification, and pluralizers. It alsopresents the Trumai postpositions (section 2.3) , which can follow the NP; and adiscussion of the differences/similarities between the postpositions and the case-markingenclitics is provided. Section 2.4. describes in more detail the NPs involving possession.",[42]
+"        The examples below are instances of noun phrases in Trumai:              (a)         ob)      €¢        @d     €«
+(2)     [ huchtahme      ha     adifle   herohen wan     yi]
+          three          1      sister   beautiful PL    YI
+           ‘my three beautiful sisters’             (a)        (b)       ()     @
+(3)     [ huchtahme hi-kte tahu dat’     yi ]
+          three        2-Gen knife black YI
+         ‘your three black knives’
+        A noun phrase can be followed by phrasal enclitics or postpositions that indicateits grammatical case. These are: -ek/-k ‘Ergative’ ; -etl/ -tl, -ki, -es/-s ‘Dative’ ; (h)i’ta‘Allative’; lots’ ‘Ablative’ ; /etsi ‘Instrumental’ ; tam      ‘Comitative’; -n/-en   ‘Locative’.",[45]
+"
+4 As we will see in section 7.2.3.2, non-obligatory goal participants (such as the benefactive) can also be
+marked as Dative, but these participants are not arguments required by the verb. Here, we are talking about
+obligatory Dative participants, that is, arguments that constitute part of the valence of the verb. In section
+7.2.3.2, we discuss ways of distinguishing an obligatory Dative NP from a non-obligatory Dative NP.
+                                                                                           270
+7.2.3.1. Choice of Dative markers with obligatory participants        The case-marking of the arguments required by a Trumai verb is rigid and cannotbe changed. That is, if a verb requires its arguments to be marked as Ergative andAbsolutive (or as Absolutive and Dative), that will be the only way they will be marked;consultants do not accept changes in the case-marking. Only two verbs in Trumai exhibitflexibility in this regard: xoxan ‘wash’ and tiami ‘squeeze’. These verbs allow bothTransitive and Extended Intransitive marking. For instance:(24)    a.hait-s ha mut     xoxan.
+           1-Erg 1 dress wash
+           ‘I wash my dresses/clothes.’        b. ha xoxan ha mut-as.
+           1 wash 1 dress-Dat
+           ‘I wash my dresses/clothes.’(25)    a. hai-ts kamisa tiami.
+           1-Erg shirt squeeze
+           ‘I squeeze the shirt.’        b. ole       Sati-ki  ha tiami.
+            manioc root-Dat1 squeeze
+           ‘I squeeze the manioc root.’        Xoxan and tiami are exceptions. The other Trumai verbs allow only one kind ofmarking, and if a verb requires its second participant to be marked as Dative, that factcannot be changed. However, the choice of the Dative marker is something that can bemanipulated, depending on the semantic and pragmatic characteristics of the NP thatreceives it.
+                                                                                                        271         As already mentioned in chapter 2 (section 2.3), the Dative markers are selectedaccording to the kind of head that the NP has: Ist, 2nd, or 3rd person pronouns; propernouns; nouns referring to animate entities (with human/non-human subdivision); nounsreferring to inanimate entities; and possessed versus nonpossessed nouns. Number alsohas some influence in the choice.","[297, 298, 299]"
+"           Case-marking patterns divide Trumai verbs into four categories: Intransitive,Transitive, Extended Intransitive and Extended Transitive. Intransitives require a singleAbsolutive argument; Transitives an Ergative and an Absolutive argument. ExtendedIntransitives and Extended Transitives additionally require a Dative argument, usuallypatient-like in Extended Intransitives and a recipient in Extended Transitives (cf. chapter7 for a more precise characterization). The characteristics of a Trumai verb are:e      itis the head of a VP:(38)       hai-ts [ha atle          pit’a].
+           1-Erg 1 mother call
+           ‘Iam calling my mother.’e      as the head of the VP, a verb can receive the 3Abs enclitic -n/-e or it can be
+       modified by auxiliaries (cf. chapter 4), by particles (cf. section 3.3) and by
+       adverbs (cf. section 3.4);e      as the head of the VP, a verb can be modified by ke , when the Absolutive NP is
+       not adjacent to it (cf. section 3.1.1);e      some verbs can receive the prefix wa-, perhaps a middle voice marker:
+(39)       a.hapita       ka_in.
+             1 go.out Foc/Tens
+             ‘I went out.’ Gust went out from the house)           b. ha wa-pita           ka_in.
+              1 WA-go.cut          Foc/Tens
+              ‘I went out.’ (went out, leaving to another place)e      averb can receive the nominalizers -k(e) and -t’(a), functioning then as the head
+       of a NP’:3 Notice that there are environments where verbal roots can function as nominal words without receiving
+any Nominalizer (cf. chapter 10 on subordinate clauses):
+(i)        ha hu'tsa chi_in        wal-eg-tl.
+            1 see     Foc/Tens     sing-3Poss-Dat
+           ‘I saw her singing.’
+                                                                                                            100
+(40)       a.chuda                                                         ‘make’
+           b. chuda-k                                                      ‘maker’
+           c. pike-s          chuda-k_           wan yi                    ‘maker of houses’
+               house-Dat     make-Nzr            PL     YI(41)       a.alax                                                          ‘hunt’
+           b. alax-ke                                                      ‘hunter’
+           c. kodetl-es      _alax-ke        wan        yi                 ‘hunters of animals’
+               animal-Dat hunt-Nzr PL                   YI(42)           a.mapa                                                      ‘to break’
+           b. mapa-t’            yi-ki                                     ‘broken.one-Dat’
+                break-NzrEx      yYI-Dat(43)       hahu’tsa chi(_in)     [ xoxan-t’a-a]-tl.
+           1 see      Foc/Tens     wash-NzrEx-3Poss-Dat
+           ‘I saw the thing she washed.” (lit: I saw her washed thing).’(44)       hahu’tsa       chi(_in)         [atlat mapa-t’             yil-ki.
+           1      see   Foc/Tens           pan        break-NzrEx         yYI-Dat
+           ‘I saw the broken pan.’ (lit: I saw the broken (state) of the pan.)The combination verb + t’(a) refers to an ex-“participant” of the event described by theverb. Depending on the characteristics of the verb, V-t’(a) will be a ‘patient of V’ ora‘location of V’:e      Transitive or Extended Intransitive verb: V-t’(a) refers to the patient or the result of       the event (depends on the semantics of the verb).(45)       mapa-t’                                       “broken (one)’
+(46)     _ pudits-t’a                                    ‘liked (one)’
+(47)     — chuda-t’                                      “made (one)’
+(ii)       sa-q            tam       iyi   wal-e.
+           dance-3Poss Com       IYI sing-3Abs
+            ‘She sings dancing.’However, it is important to say too that verbal roots cannot occur in all environments that nominal roots
+occur (for example, in a simple nominal predicate), unless they are nominalized.
+                                                                                              101e   Intransitive verb: location where the event happened:(48)   puma-t’                           ‘place of hiding’
+(49) _ pita-t’                           ‘place of exiting’        As we can see, the use of -t’(a) with verbs is slightly different from its use withnouns and adjectives. With the latter, -t’(a) seems to be associated with an idea of ‘past’,in the sense of ‘“‘no longer X”. The combination of a noun or adjective + -t'(a) impliesthat in the past the entity was a member of the category defined by the noun or adjective,but the entity no longer belongs to this category (e.g. the noun yaw ‘human being’ + -t’(a)refers to an entity that was a member of the category “Human Being’ in the past, but nowthe membership is over; the entity now is an ‘ex-human being’). In the case of verbs, thescenario is a little different. However, the combination verb + -t’(a) can also evoke theidea of ‘past’, in a different way: since the NP-patient is in a state that is after the end ofthe action (that is, the action is over, is already past), we could say that the sense of past isalso in it. Anyway, it seems that all the uses of -t’(a) modifying words - that is, -t’(a) plusnouns, adjectives, or verbs - can be unified by the more generic semantics of ‘ex-entity’.","[125, 126, 127]"
+"            The construction for inalienably possessed entities does not involve a specialverb meaning ‘to have’. Rather, the nominal root referring to the possessed entity behavesas the verb of the clause, receiving verbal morphology           (as already exemplified in section2.2.1). In this context, the root no longer means anymore ‘an X’, but ‘to have an X’. Forexample:(116)       a. t-adifle       ka_in      = hachi.
+              3Poss-sister Foc/Tens 1            Cop
+               ‘T am his sister.’                      [nominal predicate]        b. ha adifle ka_in.
+                1 sister Foc/Tens
+              ‘I have a sister.’                       [verbal predicate](117)   a. t-adifle ka_in               chi-n.
+              3Poss       Foc/Tens Cop-3Abs
+               ‘She is his sister.’        b. [iyi ] adifle-n              ka_in.
+                IYI   sister-3Abs       Foc/Tens
+               ‘He has a sister.’(118)       ha hon ka_in.
+        1      eye Foc/Tens
+            ‘I have eyes.’(119)       [iyi ]    hon-e           ka_in.
+              IYI   eye-3Abs          Foc/Tens
+            ‘He has eyes.’
+                                                                                                           217         The possession of alienable entities involves a special kind of clause: the wordk’ad, which literally means ‘hand’, behaves as the verb of the clause (and probably means‘to have’ here), and both the NP-possessor and the NP-possessed occur in the Absolutivecase, which is a pattern completely different from those observed elsewhere in thelanguage.’ In a verbal predicate, when one of the NPs is in the absolutive case, the othersare in the ergative, dative or remaining cases. However, here two NPs are both in theAbsolutive; case marking is not allowed in the NP-possessed (examples 123b-c). In thiscase, how do we distinguish the possessor from the possessed? The possessor is the NPthat comes right before the verb k’ad (120), or right before the copula when there arechanges in the word order (121). When the possessor is not lexically realized, the 3Absenclitic occurs on the verb k’ad (example 122). As we can see, the possessor has thesyntactic attributes of an S argument (cf. chapter 7). Examples:(120)    tahu ka_in      ha k’ad.
+         knife Foc/Tens 1 have
+         ‘I have knife.’                               [possessor: ha, right before k’ad](121)    tahu    ka_in       k’ad   ke hachi.
+         knife Foc/Tens have KE          1 Cop
+         ‘T have a knife.’                             [possessor: ha, right before the copula](122)    [iyi] k’ad-e           tahu.
+           IYI   have-3Abs      knife
+         ‘He has a knife.’                             [possessor marked in the verb k’ad]
+27 Given that the verb k’ad probably came from the noun k’ad ‘hand’, we could imagine that the
+construction perhaps has evolved from something like [my hand is in/with a knife] to [I hold a knife] and
+finally [I have a knife]. Later, the possessive pronoun for ‘my’ was probably reanalyzed as a subject
+personal pronoun ‘I’, and the word for ‘hand’ was reanalyzed as verb (probably following the path:
+grasp/hold> have; the common evolution observed in some languages is hand>grasp>hold>have, like in
+French). This is merely speculation, since there is no direct evidence for this hypothesis, but the evolution
+grasp>have is widely attested cross-linguistically, and the connection between ‘hand’ and ‘grasp’ should be
+uncontroversial.
+                                                                                                         218(123)    a. tahu ka_in        [iyi] k’ad-e.
+            knife Foc/Tens IYI have-3Abs
+            ‘He has a knife.’                           [possessor marked in the verb k’ad]         b. *tahu yi-ki ka_in [ iyi] k’ad-e.         c. *tahu-s ka_in [ iyi] k’ad-e.                {no case-marking in the NP-possessed]         Observe that the possession of alienable entities cannot use the same strategyemployed for the possession of body parts and kinship terms (i.e. nominal roots behavingas the verb of the clause):(124)    a.hak’ad ka_in             Sapaun yi.
+           1 have Foc/Tens          soap    YI
+            ‘T have soap.”         b. *ha sapaun ka_in.
+            (I have soap)         The construction with k’ad can be used for expression other kinds of“possession”, such as the example below:(125)   paye        ka_de_in                 ha k’ad.
+         shaman Foc/Tens-already       1 have
+         ‘I “have” the shaman (I kidnapped him).’         In relation to the expression of negation in predicative possessive constructions,we observe that the negation particle tak is required in all cases: in the case of alienablepossession, it modifies the word k’ad, which is the verb of the clause; in the case ofinalienable possession, it negates the nominal root that behaves as the verb:”8
+?8 Notice that the construction in these examples is of the same kind as the ones discussed in section 5.2.3
+Consultants consistently offer this word order (i.e. V Neg ka_in Subj Cop) when the possessive predicate is
+in the negative modality.
+                                                                                           219(126)   icha    tak     ka_in            hachi.
+        tooth Neg Foc/Tens 1 Cop
+        ‘I do not have teeth.’(127)   tahu    ka_in           k’ad     tak      ke     hachi.
+        knife Foc/Tens have Neg                    KE    1   Cop
+        ‘I do not have a knife.’
+        The same is observed with regard to the expression of the desiderative mood: theauxiliary t(a)ke modifies the word k’ad in the case of alienable possession, and thenominal root that behaves as the verb in the case of inalienable possession:(128)   ha icha-tke.
+        1 tooth-Des
+        ‘I want to have teeth.’(129)   tahu    ka_in           ha k’ad take.
+        knife   Tens/Foc        1      have Des
+        ‘I want a knife.’        Finally, as mentioned in section 5.2.1., besides the construction above, predicativealienable possession can present an alternative way of expressing negation, through theuse of the postposition mik:(130)   asuka   nik         ka_in              ha chi.
+        sugar   without Foc/Tens 1                Cop
+        ‘I do not have sugar.’ (lit: ‘I am without sugar.’)5.3. Expression of tense and aspect/modality in non-verbal predicates
+        As said before, in verbal predicates tense or aspect/modality differences can beexpressed via the use of adverbs, the Focus/Tense particles ka_in and chi_in, andauxiliaries. Aspect differences are expressed by the use of auxiliaries, as shown in chapter3. Tense differences can be expressed in the following ways:
+                                                                                                220Present:          use of the Focus/Tense particle ka_inPast:             use of the Focus/Tense particle         ka_in          for recent past
+                  use of the Focus/Tense particle         chi_in         for more distant past
+                  use of the adverb                       kaksu          ‘in.past’Future:           use of the adverb   hat’ke                             ‘in.future   (for sure)’
+                  use of the adverb   ifke                               ‘in.future   (not sure)’
+           The question is how time and aspect/modality differences are expressed in non-verbal predicates, given that they do not have a verb to be modified by an auxiliary. Aswe will see in the next subsections, the Trumai speakers have strategies for expressing thevariations in tense and aspect. We will start with the more simple cases (Existentialpredicates), moving later to the more complex ones (nominal predicates).","[242, 243, 244, 245, 246]"
+"           And if we say that O is the Subject (i.e. the primary topic) of a clause, what is thenthe A argument? The Object (i.e. the secondary topic)? In this case, we would have alanguage in which O is always codified as being more topical than A, even though A          isagent, a very salient participant of the event, and a strong candidate to be the primarytopic of any Transitive clause. As we see, it is problematic to say that O is the Subject ofa clause. Even if we say that A is not the Object, but rather an ‘Oblique’, there will becomplications (cf. item (iii)). Another problem is that the suppression of the S argumentin a clause produces semantic effects that are different from the suppression of the Oargument (cf. chapter 9, section 9.1.1). This being so, how much sense does it make to
+                                                                                             294group S and O together as the ‘Subject’ of this language? To us, it seems that to group Sand O as the Subject category of Trumai is to let the formal criteria override semantic andpragmatic factors that are also important.
+(ii) to say that the grouping {S,O} is the Subject in Trumai forces the language to satisfythe necessity of having grammatical relations. Is really necessary to talk about Subject orObject in order to describe the Trumai grammar? No. We can describe the system and thesyntax of the language only on the basis of the argument types (Absolutive, Ergative,Dative) that are found in a clause. The use of the labels introduced in section 7.1.1. is alsoenough to describe the Trumai grammar;(iii) one could suggest that in a clause with A and O arguments, the O argument (the NP-patient, marked by -¢) is the Subject, and the A argument (the NP-agent, marked by -k) isactually an ‘Oblique’. Thus, a clause with a verb such as mapa ‘break’ would have thefollowing configuration:        Agent        Patient                           Agent       Patient
+        NP-k         NP-¢       Vv            >        ‘Oblique’   Subject    Vin other words, the clause would have a passive voice configuration, with the patientmarked as Subject (the primary clausal topic) and the agent marked as ‘Oblique’ (aperipheral function). An important detail here is that this “passive” clause has no activecounterpart, in which the NP-agent would be codified as Subject (primary topic) and theNP-patient would be codified as Object (secondary topic). There is obviously a problem
+                                                                                              295with this analysis. It is strange that a language would have “passive” clauses withouthaving active ones, considering that the passive voice is cross-linguistically morerestricted in discourse (this kind of voice is generally used for special purposes, such asdemoting the agent and promoting the patient to primary topic). Therefore, to say that {O,S} (the Absolutive) is the Subject category of Trumai does not help us to understand thesystem of the language; on the contrary, it leads us to characterize it in a strange way;(iv) one could say that the grouping {S,O} would be the Subject category in Trumaibecause, according to the coding properties presented above, every sentence has aSubject, and in Trumai the Absolutive is always present in a clause. However, this is notexactly true. The Absolutive argument in Trumai occurs in all clause types, that is, thecanonical Intransitive and Transitive clauses. However, not every individual clausenecessarily has an Absolutive mark. Sometimes the Absolutive argument is suppressedbecause of pragmatic reasons (cf. chapter 9 on voice).","[321, 322, 323]"
+"        The morpheme (i)yi needs a more careful investigation. In future studies, weintend to correlate the use of iyi and yi with the age of the speakers, because as alreadypointed out, it might be that young people are using (i)yi in a different way than the oldergeneration.
+                                                                                                              712.3. Postpositions and case markers         As already mentioned in the beginning of this chapter, a noun phrase in Trumaican be followed by phrasal enclitics that indicate its grammatical case (these enclitics willbe called ‘case markers’) or postpositions. Let us analyze these elements in more detail.","[96, 97]"
+"The remaining word classes will be described in chapter 3 (verbs, adverbs, particles),chapter 4 (auxiliaries), 5 (interjections) and chapter 10 (subordinators).
+                                                                                                 172.1. The structure of a Noun Phrase         The general structure of a noun phrase is:            (a)           (b)        (c)        (d)          (e)        (f)
+         [Determiner    Possessor   Noun       Adjective   Pluralizer   iyi](a) Determiners: in general, the modifiers that precede the head noun are the words ofquantification, that is, numerals (e.g. huch ‘two’) or quantifiers (e.g. a’di ‘many’).","[42, 43]"
+"         Another important fact observed in example (17) is that k(a)tsu has no influenceon the case-marking of the NPs in the clause. It is the verb etsi that determines theirmarking: etsi is Transitive; the agent hai ‘I’ is marked as Ergative and the patient axos‘child’ is marked as Absolutive. If the main verb is switched to an Extended Intransitive(such as hu’tsa ‘see’), the case-marking of the NPs in the clause changes as well:
+                                                                                          136(18)    axos-ki      ha hu’tsa-ktsu.
+        child-Dat    1   see- Dir(towards.river)
+         ‘I am going to the river to see the child.’
+         [agent is now Absolutive: “patient” is marked as Dative]
+        In other words, main verbs have independent argument structure, but auxiliariesdo not. Auxiliaries are really different from verbs.","[161, 162]"
+"         The case markers are -ak /-ek /-k ‘Ergative’ , -atl /-etl / -tl ‘Dative’, -ki ‘Dative’,-as /-es |-s ‘Dative’, -an/-en/-n ‘Locative’”>, and -kate/-kte ‘Genitive’. The allomorphswith vowels attach to words ending in consonants, while the other one attaches to wordsending in vowels. The variation between the allomorphs with the vowel /e/ (the‘Ergative’ enclitic -ek and the Dative enclitics -erl and -es) and the allomorphs with thevowel /a/ (-ak ‘Ergative’, -atl ‘Dative’, -as ‘Dative’) seems to be lexically rather thansemantically or phonologically conditioned, since:e   it is not the semantics of the head noun that matters, because two NPs can have the    same head and still receive different markers (e.g.              [Karaiw]-ak     ‘non.Indian-Erg’ ;    [karaiw wan]-ek ‘non.Indian-PL-Erg’);e   it seems that it is not phonological conditioned either, because there are no strict rules    that govern the selection of an allomorph with the vowel /e/ or /a/. Rather, there is    this tendency: if the last word of the NP ends in stop, nasal, or lateral fricative,”° it    receives an allormorph with the vowel /e/ (180), and if it ends in an approximant, tap,    fricative, or lateral, it receives an allomorph with the vowel /a/ (181).                However, it is
+°5 Even though the ‘Locative’ -n is similar in form to the 3Abs enclitic -n, they are not the same, since the
+‘Locative’ has the allomorphs -en and -an for nouns ending in a consonant, while -e is the allomorph of the
+3Abs enclitic for verbs ending in a consonant.
+26 Just a reminder: in the Trumai orthography, tl represents the lateral fricative and ch represents the palatal
+fricative.
+                                                                                               72   possible to find specific words ending in a stop or nasal that receive /a/ (182a), as well   as specific words ending in fricative or lateral that receive /e/ (182b). And, although a   word consistently receives a case marker with /a/ or /e/, there are some cases where   either is possible (183).          (180)   fad-ek    ‘flu-Erg’; dejwan-ek    ‘old.person-Erg’ ; inatl-ek *3Fem-Erg’ ;                  inatl-etl ‘3Fem-Dat’ ; hotet-es ‘corn-Dat’; tsinon-es ‘fruit-Dat’; kodetl-es                  ‘animal-Dat’; torek-es ‘flour-Dat’; puk-es ‘kind of bird-Dat’); esak-en                  ‘hammock-Loc’; anenewt-en. ‘woods-Loc.’          (181)   yaw-ak    ‘human.being-Erg’ ; karaiw-ak ‘non.Indian-Erg’ ; ayey-atl                  ‘grandfather-Dat’ ; yar-atl ‘owner-Dat’ ; adif-atl “brother-Dat’ ;                  axos-atl ‘child-Dat’ ; kodechich-atl ‘snake-Dat’ ; yakir-as ‘salt-Dat’ ;                  yaw-as ‘human.being-Dat’ ; tsul-as ‘river.turtle-Dat’ ; taxer-as ‘wild-Dat’;                  mal-an ‘edge-Loc’.          (182)   a. mut-as ‘cloth-Dat’ ; i’an-as ‘simulacrum-Dat’; yuduf-an “bench-Loc’;                  b. wirix-es ‘manioc.porridge-Dat’ ; wal-es ‘music-Dat’).          (183)   a.fe’de     disi   kodechich-ak
+                    jaguar kill snake-Erg
+                     ‘The snake killed the jaguar.’                  b. fe’de disi kodechich-ek
+                     jaguar kill snake-Erg
+                      ‘The snake killed the jaguar.’
+          Therefore, it seems that the selection of a case marker with vowel /a/ or /e/depends on the last word of the NP itself , and for some words there is flexibility ofchoice.
+                                                                                                73         In the case of the Dative markers, besides -as /-es /-s, which are often attested inthe Trumai data, it is possible to find three others, attested so far with a limited number ofwords:e   -is, attested with the interrogatives han ‘what’ and tsifan ‘which thing’, the pronoun    in ‘it?, and with the noun kuyan ‘grass’ (example 184). Except for kuyan, the others    are all pronominal forms.(184)    kuyan-is ka_in         ma ke     yayanke yi.
+         grass-Dat Foc/Tens eat KE        deer    YI
+         ‘The deer eats grass.’
+e   -os, attested with the words koyoch ‘bat’, pike t’ox ‘house without owner’, and owow    ‘hole in the ground’;e   -us, attested with the words taf ‘egg’ and deat ‘fruit’; the last is also found with the    marker -as (i.e. deat-us; deat-as).","[97, 98, 99]"
+"       As we can see, in Trumai we do not have reasons to group {S,A} together as thecategory of Subject, and to say that the Subject of this language is actually the grouping{S,O} is not a good solution either. The same can be said with regard to the category ofObject: there are no reasons to group O and the DAT argument of Extended Intransitiveverbs together, given their differences in case-marking (O is marked by -9, DAT by -#l, -ki, -s), word order (O is preverbal, DAT follows the VP), and syntactic behavior (O alignswith S rather than with DAT).
+                                                                                             296
+        Again, we have the question: why do we need the traditional grammaticalrelationships of Subject, Object, etc., to talk about Trumai? We do not. For the purpose ofdescribing the grammar of this language, such relations are not necessary. They would beinteresting for the purpose of doing typological studies, that is, if we want to compareTrumai to other languages of the world. However, there is not much to say about thecategory of Subject in Trumai. If we consider Givon’s idea that a language with fewsubject properties has only a slightly grammaticalized subject, then we can say that thegrouping {S,A} could be considered the Subject of Trumai, but it would be a Subject inthe very first steps to grammaticalization. It may be showing its first manifestations in thecontrol of anaphoric elements, as examples (79-81) above suggest, but there are stilltremendous limitations. Perhaps in future research, careful analysis of texts can bring tolight facts that help us to better define a category of Subject for Trumai.","[323, 324]"
+"                                O                                           A        Vv
+         b. *[karaiw mut herohen wan yi]                       ka_in       hai-ts umu-ktsi ke.
+             (I brought beautiful dresses.)                                O                        Vv            A
+(156)    a.fhuch      karaiw           mut       yi] kuhmu        hai-ts.
+            two non.Indian dress YI throw                         1-Erg
+             ‘I threw away two dresses.’""1 Unfortunately, in the corpus there are few instances with inanimate A (the example (i) is an instance of
+inanimate A). The other examples obtained are actually causative constructions, and the inanimate agent is
+always in the singular (or it is ambiguous with regard to number).
+(i)     fade-k      ka_in       ha xol.
+         flu-Erg Foc/Tens 1          get
+         ‘The flu got me.’(ii)     lemxo-k        ka_in         halax      mox     ka.
+         wound-Erg Foc/Tens 1 nose swell Caus
+         ‘The wound made my nose swell.’(iii)    kawixu-k    ka_de_in                 miso       ka.
+         rain-Erg     Foc/Tens-already         river.full Caus
+         ‘The rain (actually, a series of rains) made the river full.’
+                                                                                                  61                       0)                       Vv         A
+        b. *[huch karaiw mut a yi]       kuhmu        hai-ts.
+             (I threw away two dresses.)DAT:
+                   DAT                            Ss   V
+(157)   a.fhuchkaraiw        mut      yij-ki     hahu’tsa.
+           two non.Indian dress       YI-Dat    1 see
+           ‘I saw two dresses.’                     DAT                      Ss     Vv
+        b. *[huch karaiw mua yiJ-ki          ha _ hu’tsa.
+             (J saw two dresses.)
+We have here a situation that is similar to the one observed with Dative NPs with animatenon-human nouns: the absence of a pluralizer in a NP that contains an inanimate noundoes not necessarily mean ‘singular’. It may be ambiguous with regard to number(example (155)), unless numerals and quantifiers are used, as in (156-157). Sometimesthe word xol ‘collection’ is also employed, to make clear that more than one entity isinvolved:(158)   [karaiw      mut    herohen    xol           yi]       ka_in      hai-ts umu-ktsi   ke.
+          non.Indian dress beautiful collection YI             Foc/Tens   1-Erg bring-Direc KE
+        ‘I brought beautiful dresses.’        One could then raise a question: why are nouns referring to inanimate entities notmodified by pluralizers? In the case of nouns in Dative NPs, the use of the pluralizerwould not be necessary since the case maker selected for the NP can give informationabout whether the DAT argument is individual or not (cf. chapter 7 for the differencesamong the Dative markers): t’ak-ki     ‘manioc bread’ (one round)’; t’ak-es ‘manioc bread
+                                                                                                            62(several rounds)’. However, the other roles do not have several options for marker - therebeing only one marker for each kind: -ek/-k ‘Ergative’; -¢ ‘Absolutive. Probably the non-use of pluralizers with nouns referring to inanimate entities has to do with the fact thatinanimates do not have the same saliency and topicality as human animate nouns; sincethey are not so salient, there is less motivation for expressing refined information (such asnumber) about them. Besides that, the presence of numbers and quantifiers can already dothe job of indicating difference in number. Actually, these facts are also true for animatenoun-human nouns that are DAT (examples (150-151) above). Event participantscodified as DAT in general have low topicality, especially the animate non-human or theinanimate ones. Thus, they are less likely to take pluralizer information.","[86, 87, 88]"
+"         There are other arguments to say that wa- seems to be linked to the expression ofmiddle voice:
+                                                                                              365
+e   strong parallels with other languages in which similar kinds of verbs take middle    markers (notice that the semantics of “away-path” created by the of wa- is also    observed in the use of middle markers in romance languages);e   presence of at least one deponent verb (pata ‘arrive’), which always requires the    marker wa-. All languages with middle voice markers seem to have deponent verbs;e   there is one case in which semantics overrides transitivity (padi ‘wait’). This is also    observed in other middle voice languages (e.g. Latin).","[392, 393]"
+"According to some speakers, the demonstrative forms ni’de ‘this (masc)’, ni’dat! ‘this(fem)’, ka’ne ‘that (masc)’, ka’natl ‘that (fem)’ can also be used as modifiers precedingthe head noun (cf. section 2.2.2 on demonstratives). Finally, another possible determineris the word amonke ‘another’ (perhaps a subtype of words of quantification);
+(b) Possessor:    with alienable possession,    the possessor bears the genitive marker -k(a)te(e.g. Wari-kte tahu ‘Wari’s knife’). In inalienable possession, the possessor presents nospecial morphology (e.g. Yakairu adifle ‘Yakairu’s sister’; Yakairu kuch ‘Yakairu’shair’). There are also third person anaphoric inalienable possessors, which are of twokinds: anaphoric possessors for kinship terms and anaphoric possessors for body partterms.   The one for kinship terms is tsi-/t- ‘3Poss’ (tsi- /__+C, t- /__+V), affixed to thehead of the NP: tsi-pine ‘ his/her cousin; t-adifle ‘his/her sister’; huchtahme   t-adifle wanyi (3-Poss-sister-PL-Y1) ‘his three sisters’. The anaphoric possessor for body parts is aphrasal enclitic, -ake for absolutive NPs, -ea preceding a postposition, subordinator or aDative mark: kuch-ake ‘his/her hair’; kuch-ea letsi ‘with his/her hair’; kuch dat’-ea letsi‘with his black hair’ (cf. section 2.4. for more details);
+                                                                                                             18(c) Head noun. Besides nouns, pronouns or demonstratives can also be the head of an NP,although they cannot be modified by words of quantification or adjectives;(d) Adjective: the head noun can be modified by adjectives. In general, only one adjectivefollows the head noun, that is, speakers usually do not use chains of adjectives. However,although not usual, it is not impossible to have more than one adjective in an NP. Forexample: fiawn' dat’ iye herohen yi] ‘black
+                                       big beautiful cat’.","[43, 44]"
+"          These clauses are embedded in the main clause, occupying the typical position ofa Dative or Absolutive argument. The subordinate verb in Dative-Complement clausesseems to be non-finite (it behaves as a possessed noun); the scenario is a little more
+5 In Trumai, it seems that we can have only one Focus/Tense particle per sentence. In this case, example
+(20) confirms the fact that the ‘Consequential’ clause is not structurally subordinate to the preceding one,
+forming with it a single sentence.
+SBy Absolutive clause, we mean here a clause that is an O argument. Cross-linguistically, it is possible to
+have not only a sentential O argument, but also S and A arguments. In future research, we will check to
+determine whether Trumai has subordinate clauses that function as S or A arguments of the main verb.
+                                                                                             378
+complicated for the verb of Absolutive-Complement clauses (the verb does not receivepossessive morphology, but it cannot receive the 3Abs enclitic either).","[405, 406]"
+"        Table 2.5. Demonstrative pronouns in Absolutive NPs
+                                    SG                    DUAL                               PL
+          Close                 ni’de      (Masc)       ni’dak a                        ni’dak wan
+                                      ni’datl       (Fem)
+          Distant                     ka’ne         (Masc)          ka’naka             ka’nak wan
+                                      ka’natl       (Fem)
+7 Speakers sometimes prefer to use the morpheme yi at the end of the NP with the pronoun:   [inak a yi]-k.
+In this case, the use of the special allomorph [ana] for the dual is avoided.
+                                                                                                     29
+       Table 2.6. Demonstrative pronouns in Ergative NPs
+                                   SG                    DUAL                             PL
+         Close                          ni'de-k      (Masc)        ni’dak ana-k      ni’dak wan-ek
+                                        ni’datl-ek   (Fem)
+         Distant                        ka’ne-k    = (Masc)        ka’nak ana-k    |} ka’nak wan-ek
+                                        ka ’natl-ek (Fem)       Table 2.7. Demonstrative pronouns in Dative NPs
+                                             SG                      DUAL                 PL
+         Close                          ni’de-tl      (Masc)       ni’dak ana-ki   | ni’dak wan-ki
+                                        ni’datl-et]   (Fem)
+         Distant                        ka’ne-tl      (Masc)       ka’nak ana-ki | ka’nak wan-ki
+                                        ka’natl-etl   (Fem)
+        As already mentioned in section 2.1, some speakers provide data where theTrumai demonstratives are used as modifiers of the head noun of the NP. However, notall speakers seem to like this use; some prefer to use the demonstratives as pronominalforms (i.e. instead of saying ‘that X’, some speakers prefer to say just ‘that (one)’).","[54, 55]"
+"         Table 2.2. Personal pronouns in Absolutive NPs
+                       SG                     DUAL                                   PL
+          1             ha                           kaa (incl)               ka wan (Incl)
+                                                     haa (Excl)               ha wan (Excl)
+          2             hi                           hia                      hi wan
+          3             ine      (Masc)              inaka                    inak wan
+                        inatl    (Fem)        Table 2.3. Personal pronouns in Ergative NPs
+                       SG                     DUAL                                   PL
+          1             hai-tg   or                  ka ana-k     (Incl)      ka wan-ek      (Incl)
+                        hai-k?                       ha ana-k (Excl)       | ha wan-ek (Excl)
+          2             hi-k    or                   hi ana-k                 hi wan-ek
+                        ha-k
+          3             ine-k      (Masc)            inak ana-k               inak wan-ek
+                        inatl-ek (Fem)
+® According to the consultant, there is no difference between hai-ts and hai-k. These forms can be
+exchanged freely. The same is true for hi-k and ha-k.
+                                                                                                             28        Table 2.4. Personal pronouns in Dative NPs
+                         SG                          DUAL                           PL
+          1           hai-tl                       ka ana-ki                  ka wan-ki (incl)
+                                                   ha ana-ki                  ha wan-ki (Excl)
+          2           hi-tl                        hi ana-ki                  hi wan-ki
+          3           ine-tl    (Masc)             inak ana-ki                inak wan-ki
+                      inatl-etl (Fem)
+        As we can see in the chart above, the Ist person singular pronoun can have twoallomorphs: one for NPs in the Absolutive case (ha), another one for NPs in the Ergativeand Dative cases (hai). The third person pronouns present an interesting allomorphy whencombined with the pluralizers: instead of ine + pluralizer or inatl + pluralizer, as wewould expect (since that is what happens for the Ist. and 2nd. persons), we have the useof the allomorph inak , which is never attested in other environments (that is, without thepresence of the pluralizers). The use of inak in some sense neutralizes the genderdistinction made for the 3rd person singular. Finally, the dual presents an interestingallomorph when combined with case markers (ana).","[53, 54]"
+"         However, if ine was originally a demonstrative pronoun, now it seems to be only apersonal one, because its use as modifier of a head noun in an NP seems not to bepossible, or at least it is controversial. According to one consultant, this example wouldbe acceptable:(51)     [ine axos yiJ-ki           chi_in    ha fa.
+          that child yI-Dat          Foc/Tens 1 _ beat
+         ‘I beat that child.’° There is one example that suggests that the difference between nina and ina is not only one of distance,
+but also proximity in relation to locutor or interlocutor: in a letter to a friend, a Trumai used nina (here)
+when refering to her own village and ina (there) when referring to the friend’s village.
+ 10 ni’de can also be used to contrast situations:
+(i)      fa       maxke-s     de        aloke haa        hat’ ke.
+          kill/fit ?-S          already fast      1 Dual in-future
+           ‘If we kill (fish) a lot, soon we will be back.         ni'de     ,ofa       tak de        haa       hat’ke, —_ aleitak de       haa       hat’ke
+         this.one kill/nit Neg already 1 Dual in.future long              already 1 Dual in-future
+         ‘In contrast (in this other situation), if we do not kill anything, we will take time.’
+                                                                                              34The example above was not spontaneously given by a speaker, but it was ratherconstructed on the basis of patterns observed in the language and presented to theconsultant for an opinion. So, even though the consultant accepted the example, thequestion remains whether she really says it. A similar example was presented to anotherconsultant, who refused the use of ine as modifier, saying that it did not make sense:(52)    a.ni’de        misu                               ‘this mirror’
+          this(masc) water/mirror        b. ka’ne      misu                                ‘that mirror’
+           that(masc) water/mirror        c. *ine misu                                      ?*he mirror’ (strange, nonsense)
+        Therefore, it seems that ine is a personal pronoun indeed. The question is to knowif it was originally the medial demonstrative pronoun (with the full demonstrative setbeing: ni’de - ine - ka’ne    ‘this’ - ‘that’ -‘yon’) or if Trumai has another form for themedial demonstrative pronoun.","[59, 60]"
+"        Thus, the causative construction in Trumai would be an intermediate type betweenan analytical and a morphological causative. It probably started as analytical and it wouldbe evolving to become morphological, but it is not completely morphological yet, sincethe causee still would preserve its case-marking from the original construction. Comrie(1989:169)    points   out   that   the   distinction   between   analytical   and   morphologicalcausatives is not clear-cut, but it is rather a continuum, and that languages can haveintermediate causative systems:        Although there are many instances in languages that instantiate these ideal
+        types, or come very close to doing so, there are also many constructions
+        that fall between the adjacent types on the continuum. An excellent
+        example of a type intermediate between analytic and morphological is the
+        French construction with faire, as in j’ai fait courir Paul ‘I have made
+        Paul run.’ At first sight, this would seem to be a straightforward analytic
+        causative, since we have separate predicates... However, as soon as one
+                                                                                           315
+       compares this construction with other constructions where there are clearly
+       two predicates, the apparent clarity of this example dissolves... In our
+       example, the phrase faire courir behaves as a single complex, and Paul is
+       the direct object of this whole complex. (Comrie: 169).","[342, 343]"
+"In the last case, the presence of -ke is always attested after -t’(a), which makes us thinkthat in attributive predicates, the contrast between ‘current characteristic /attribute’ and‘past or ex-characteristic /attribute’ involves not the use of -t’(a), but rather -t’(a )ke."" Inthis sense, adjectives are different from nouns, which distinguish ‘noun’ and ‘past or ex-noun’ on the basis of the presence of only -t’(a).(98)     nacha_ke            ka_in       hachi.
+         curved Rizr Foc/Tens 1              Cop
+         ‘Iam curved (permanently)’. (lit:              Iam a curved one.)(99)     a. nacha-t’ke               ka_in         ha chi.
+           curved-Nrz+Rlzr           Foc/Tens 1       Cop
+            ‘I was curved.’ (I am a ex-curved one.)         b. *nacha-t’        ka_in ha chi.",[71]
+"The ways vary depending on the characteristics of the major NP (i.e. if it is S, O, A, orDAT). For S, O, and A noun phrases, a pluralizer morpheme (the Dual or Plural mark)may occur after the juxtaposed internal NPs, indicating the number of individuals thatcompose the major NP:(6)      [[Taina]      [ Tawalu]       a      yi]     ka_in     pech     ke.
+             Taina     Tawalu    Dual         yYI     Foc/Tensrun’       KE
+             ‘Taina and Tawalu run.’(7)      a. [[Karu],      [Kumaru] , [Atawaka] ] hai-ts         amidoxos ke.
+               Karu       Kumaru    Atawaka_   1-Erg             call            KE
+               ‘I called Karu, Kumar and Atawaka.’         b. [[Karu] , [Kumaru] , [Atawaka] wan yi] hai-ts                 amidoxos ke.
+               Karu      Kumaru    Atawaka    PL yi 1-Erg                 call             KE
+               ‘I called Karu, Kumaru and Atawaka.’(8)      [[Tawalu], [Mawa], [Karu] wan]-ek atlat       yi mapa.
+           Tawalu    Mawa     Karu   PL-Erg clay.pan YI break
+           ‘Tawalu, Mawa and Karu broke the clay pan.’
+         For DAT noun phrases, a way of indicating coordination is to have one of the NPsmodified by the ‘Comitative’ postposition tam’ (example 9), or to have a Dative NP with
+* Actually, the Comitative postposition can also be used with the other kinds of NP:
+(i)       Atawaka Tarukuy tam — hu’tsa hai-tl.
+          Atawaka Tarukuy Com        see = _1-Dat
+                                                                                              21a term that refers to a category or group of entities, followed by a list of the members ofthe category (example 10):(9)     ha hu’tsa chi{_in)          —[huksitukuk yiJ-ki    [yayanke    tam].
+            1 see      Foc/Tens    capivara      yI-Dat    deer      Com
+            ‘I saw a capivara and a deer.’ (lit: I saw a capivara with a deer.)(10)        hawan ma kodetl-es:   monoto, pitik, — karuwaru, yayanke...
+        1      PL eat animal-Dat tapir    monkey paca        deer
+            ‘We eat animals: tapir, (and) monkey, (and) paca, (and) deer...’
+2.2. Word classes that occur in the Noun Phrase
+2.2.1. Nouns        Nominal words in Trumai contrast with verbal words, since their morphology andsyntactic behaviors are clearly different. However, the assignment of a root to the class ofNouns or Verbs is not always easy. This is because in some environments verbal rootscan function in the nominal pattern, even though they are not modified by a Nominalizer(cf. chapter 3). Similarly, nominal roots in Trumai can be not only nominal words, butverbal words as well, without any extra morphology, such as a Verbalizer. It is onlythrough the differences in the morphosyntactic characteristics, plus the difference inmeaning that we can identify the category of the word in question: e.g., a nominal rootthat is behaving as nominal word refers to an entity (“an X’); a nominal root that isbehaving as a verbal word refers to the possession of an entity (‘to have an X’). Anominal root behaves as verbal word in the inalienable possessive predicate (cf. chapter 5,section 5.2.6).","[46, 47]"
+"       Thus, for an Ergative language, the coding device that “least safely” leads us toidentify the category of Subject is the morphology, and that behavior-and-controlproperties can be more helpful. However, even in this case we need to be careful, becausethe Subject of the language under study may be little grammaticalized and may thereforenot show many properties even at the syntactic level.
+                                                                                                 290         Let us now turn our discussion to Trumai. If we use the coding propertiespresented above for identifying the category of Subject in Trumai, what results do we get?","[317, 318]"
+"
+       As a final remark, we observe that the interrogative hele can combine withtsi-(i)ets’, a morpheme used in subordinate clauses that express events that are thereason/cause or the consequence of a main event (cf. chapter 10, sections 10.1.3 and10.3.3). Even though the combination can be broken into parts, it seems to work as awhole, that is, as a fixed expression meaning ‘why, for which reason’:(64)   hele_in      __tsi-(iJets’ yaw         hilaka iye?
+       how Focus reason           human.being village big
+       ‘Why is (our) village big?’(65)   hele    _in   tsi-(iJets’          Matawai wa-ka’chi?
+       how     Focus reason               Matawai WA-walk
+        ‘Why did Matawai go away?’
+                                                                                                           372.2.4. Adjectives           The characterization of adjectives as an independent class in Trumai is not soeasy, since they share behaviors with both nouns and verbs, but it is still justifiable giventhat some characteristics are unique to them. The table below presents the behaviorshared with nouns and verbs:Table 2.9. Adjective characteristics shared with nouns and verbs
+           WITH NOUNS                                            WITH VERBS
+    It can occur in a predicate with nominal-predicate        It can occur in a predicate with verbal-predicate
+    configuration, i.e. [ Pred Subj (Cop) J. In this case:    configuration., e. [Subj Pred ]'’. In this case:
+          i. it indicates a temporary characteristic;               i. it indicates a temporary characteristic;
+          ii. it indicates a permanent characteristic if            ii. it receives the 3Abs enclitic
+                relativized by ke                                   iii. it can be modified by auxiliaries
+          iti. it can be negated by anuk, indicating only           iv. it occurs with the Imperative particle
+               a permanent characteristic.                               wana.
+          iv. it occurs with the Imperative particle
+               wanach .","[62, 63]"
+"          However, even though the construction above could generate semantic effects similar to
+passivization, it is formally a clause in the active voice, with all its components, including the semantic
+agent.
+                                                                                                        341        We also observe the absence of the Absolutive enclitic -n/-e when thepatient/second participant is an inanimate entity:(14)    ha adif-atl        chi_in         hai-ts       kit.
+        1 brother-Dat Foc/Tens 1-Erg give
+        ‘I gave gifts to my brother.’ (lit: I gave (something, not defined here) to my brother).
+        [it does not matter what I gave: what matters is my acting of giving gifts to my brother](15)    hay       chi_in         hai-ts iyi     husa.
+        already Foc/Tens         1-Erg IYI      tie
+        ‘T already tied (it).’If the patient was salient or important, the clauses above would be:(16)    ha adif-atl   chi_in   hai-ts_ kifi-n.
+        1 brother-Dat Foc/Tens 1-Erg give-3Abs
+        ‘I gave it/her (e.g. a child) to my brother.’                   [3p Absolutive enclitic is present]
+(17)    hay        chi_in         hai-ts iyi husa-n.
+        already    Foc/Tens       1-Erg Iy1 tie-3Abs
+        ‘I already tied him/it (an animal).’                            [3p Absolutive enclitic is present]
+        As already mentioned in chapter 7 (section 7.2.3.1), inanimate entities are notsalient, so they are naturally good candidates to be omitted. An inanimate entity canbecome very salient if it is unique (for example, if it is the only exemplar found in aplace). In this case, the inanimate Absolutive argument is marked in the clause:(18)    hele       de        hai-ts       iyi         puchu     ka-n?
+        how/why already 1-Erg             IyI         disappear Caus-3Abs
+        ‘Why did I lose it?’
+        [speaker is lamenting the loss of a knife, which was the only one he had in his house]
+        However, in texts and conversation, inanimate Absolutive arguments tend not tobe formally expressed; that is, it is often the case that the 3 Abs enclitic is omitted when
+                                                                                             342the patient/second participant is not animate. Saliency plays a role in the suppression ofthe argument.","[368, 369, 370]"
+"         Of course, the strategy presented above is not the most desirable one, because itinvolves some interpretation from the linguist in deciding if a ‘goal’ participant isobligatory or not. The ideal situation would be to have a clear way of distinguishing thetwo (such as a different marking for ‘goal’ participants that are not obligatory). However,
+                                                                                              286
+when we are describing a natural language, we do not always find ideal situations; on thecontrary, we often find scenarios that are a little fuzzy. In order to avoid incoherence inour description of the Trumai case-marking system (presented in section 7.1.2), we usedthe best exemplars of clauses typically Intransitive and Transitive, because in theseexamples the usage is clear. For the fuzzy cases like the ones presented in this section, weneed a more careful analysis. For the present work, that is the possible account that wecan offer for the occurrence of the Dative markers with participants of the kind‘benefactive’, ‘purpose’, etc.","[313, 314]"
+"        We do not know whether all auxiliaries in Trumai evolved from verbs, but insome cases it is possible to say so, since the verb that was the origin of the auxiliary stillexists in the language. However, the auxiliary cannot be equated with the source-verb
+                                                                                                  145anymore, because of the differences in meaning and syntactic behavior. The meaning ofthe auxiliary is not identical to the meaning of the verb; often, the auxiliary is moreabstract (e.g. Aspect/Mood auxiliaries) or it misses some components that are part of themeaning of the verb (e.g. Posture auxiliaries). With regard to syntactic behavior, theauxiliary functions as a verb modifier and has no independent argument structure.","[170, 171]"
+"(It is) Karu’s eyesight on the monkey /towards the monkey.                     monkey-Dat.
+                                                                   > Karu sees the          With regard to the Focus/Tense particles, we can speculate that at some momentin the history of the Trumai language, the cleft sentences would have had the followingconfiguration (stage 1):                             ka    [NP     Verb in nominalized form]
+                             chi   [NP     Verb in nominalized form]
+          The specific element under focus (for example, an oblique such as by the man oron the monkey) would be isolated in first position. kKa would be the Copula forpresent/recent past tense, with chi being the Copula for distant past tense. A possibleinstance of this cleft construction would be something like:by the man Copula [house construction]          ‘It is by the man the construction of the house.’on the monkey Copula [Karu’s eyesight]                 on the
+                                                ‘It is monkey         (that is) Karu’s eyesight.’
+          Then, in a following step (stage 2), the morpheme in, a mark of ‘Focus’, started
+9 Observe that in the current data, a verbal root sometimes can behave as a noun without any Nominalizer in
+the root (cf. chapter 10). This could be seen as a remnant of the fact that the current main verbs came from
+nominalization of verbs that were eventually reanalyzed.
+                                                                                            186being used, perhaps because the cleft was already losing its force and needed to berenewed. In modern data, in can be found in questions following NPs with WH-words (cf.section 2.2.3). So, the configuration of clefts changed to:               oblique    ka in   [NP     Verb in nominalized form]
+               oblique    chiin   [NP     Verb in nominalized form]
+       As said before, over time the nominalizations of verbs were reanalyzed as verbs inthe infinitive. The NPs that were their possessors were reanalyzed as their S/O arguments,and the other NPs were reanalyzed as A/DAT arguments:               A/DAT     ka in    [O/S_   Verb]
+               A/DAT     chiin    [O/S    Verb]
+       At some moment in the history of the language (stage 3), the cleft constructionreplaced the main clause, that is, it became the norm instead of a special kind of clause(Heine & Reh 1984 attest a similar development in African languages). This wasespecially true for clauses that were an answer to a question (in the modern language, wecan see that answers tend to have the presence of ka_in or chi_in). The sequences ofmorphemes ka + in and chi + in started being seen not as mere linear sequences ofmorphemes, but as morphemes in association. They were reanalyzed as units, becomingnow markers of focus which, at the same time, would carry tense information too. Later,in some cases, their use became optional. We know this because not all modern clauseshave the presence of ka_in or chi_in; however, the morphosyntax of the modern clauseswith ka_in/chi_in and the ones without them is basically the same: the original NPpossessor became Absolutive NP; the verb is “naked”, without inflectional marks. If the
+                                                                                                      187Absolutive NP is not right before the verb because it is in focus or it is separated from theverb by an adverb, there is a morpheme Xe after the verb. These morphosyntactic facts aretrue for all main clauses, with or without ka_in/chi_in. Therefore, they came from thesame source (clefts),!° and if some of the modern clauses do not present the Focus/Tenseparticles, it is because these particles became non-obligatory (the clauses without themwould have not completive focus, but neutral focus, that is, no element under focus). Insum:                      A/JDAT      (ka in)       [O/S_    Verb]
+                      A/DAT       (chiin)       [O/S     Verb]          The main stages of the evolution of the focus construction with the old obliques(later reanalyzed as A or DAT) can be summarized in the following chart:'!","[211, 212, 213]"
+"        Juxtaposition and ‘coma intonation’ are used for the noun phrase coordination inTrumai (cf. chapter 2, section 2.1). In the case of coordination of clauses, the matter ismore complex. There are three attested ways to combine clauses. The question is whetherwe can call any of them real instances of ‘coordination’.
+(i) in one case, we have the strategy described by Mithun: two clauses are juxtaposed, andthey are under the same intonational contour (the short pause between them is non-final).",[395]
+"        The causative construction inherits some properties from the model; that is, thesemantic facets of the model motivate the patterns found in the causative construction,such as the case-marking of the causee. Thus, in this approach, the case-marking of thecausee is not formally but semantically motivated.   A causee receives a specific marker,such as Dative or Instrumental, because of the semantics of the marker, which indicatesthe degree of conceptual integration of the causee in the event. Explaining it better: insimple clauses, the participants “...differ from one another in terms of the degree ofintegration in the event as a whole” (Kemmer and Verhagen: 134). In causativeconstructions, which are built up from simple clause schemas, we have a similarsituation: the causees have different degrees of integration in the event, and that would besignaled by the marker. In many languages, a causee that is more integrated in the eventand less autonomous is marked as Dative, while one that is more autonomous and lessintegrated is marked as Instrumental. For Kemmer and Verhagen (1994: 138), “highdegree of integration correlates with high degree of affectedness and topicality and lowdegree of autonomy of the causee”.
+                                                                                               317          Bringing these ideas to Trumai, we can see that Transitive clause schemas areclearly the model for the causativization of Intransitive verbs: as mentioned above, theTrumai causative construction with Intransitive verbs is similar to a simple Transitiveclause.","[344, 345]"
+"           Finally, before we close this section, we would like to mention that a participanthierarchy is involved in the choice of the Dative markers, and this hierachy is similar tothe one observed in the languages that have split Ergativity (Silverstein 1976, Dixon1994). In languages of this kind, the split is conditioned by the semantic nature of thehead of the core NPs, which can be organized in a nominal hierarchy, such as the oneproposed by Dixon (1994: 85):                                                                             Common nouns:
+lst person 2nd person           Demonstratives
+pronouns > pronouns >           3rd person     >      Proper >       Human>     Animate > Inanimate
+                                 pronouns              nouns
+'3 Eor example, in Portuguese if somebody is talking about St. Mary (the mother of Jesus Christ) , the
+person can say:
+(i)       Maria era               uma    pessoa   virtuosa.
+           Mary be.3sg.Impf a        person       virtuous
+           ‘Mary was a virtuous person.’If the person is talking about a close friend named Maria, the person can say:
+(ii)      A    Maria   era              uma pessoa    virtuosa.
+           the Mary be.3sg.Impf a       person virtuous
+           ‘Mary was a virtuous person.",[309]
+"         The connectors can actually be analyzed as being composed by the pronoun in ‘it’plus a Dative marker or a postposition. The pronoun in is anaphoric, referring to the eventdescribed in the preceding clause (or, in some cases, to a larger stretch of the precedingdiscourse); the Dative marker or postposition provides information about how the secondevent is “located” in relation to the first event:         {
+                        a            ]              [ in + Dative/Postp                   J
+                Clause I                                          Clause 2
+         Table 10.1 below presents the discursive connectors with their respectivemeanings. Following, there are examples of the use of each connector:                  Table 10.1. Trumai Discursive Connectors
+                            connector                            gloss
+                             in-is                              ‘in it’
+                             in lots’                           ‘from it’
+                             in-t’a lots’?                      ‘from it-past’
+                             in t'atske *                       ‘after it’
+2 In other words, the first clause is independent from the second one. It is not embedded in the second
+clause, it is just “represented” there by the pronoun in.
+3 tis not clear what the difference between [in lots’] and [in-t’a lots’] is. Both connectors can be translated
+as ‘next’, because in both cases, the event described in the preceding clause is finished.
+‘In our corpus, there are no examples of NP + t’astke, but on the basis of its occurrence with in, t’astke
+seems to be a postposition.
+                                                                                                         372(10)    ni'de pak-ki_       —_ ka_in         k’awixu yi xuxla pix.
+        this    month-Dat       Foc/Tens         rain        YI rain   alot       in-is      hen pihmi      tak di    wan yi kut’a-ki      ole-s.
+       it-Dat     then go.uphill Neg woman PL YI plantation-Dat manioc-Dat
+        ‘In this month (January), it rains a lot. Then (more literally: at this), women do not
+        go to the plantation for maniocs.’(il)    Wari sone           kafe-s.          in lots’ hen wa-ka’chi-n.
+        Wari drink          coffee-Dat       it Ablat then WA-walk-3Abs
+        ‘Wari drank coffee. And then he left.’ (lit: From that, then he left.)
+(12)    ole-s      ha wan kitiw.
+        manioc-Dat 1 PL grate       in t’atske hen ha wan tiami.
+       it after   then 1 PL squeeze       in-t’a__lots’    hen ole      su   yi laka.
+       it-NzrEx Ablat then manioc juice YI prepare
+       ‘We grate the manioc. Then, we squeeze (it). And then, (we) prepare the manioc
+       Juice.’
+         (more literally: We grate the manioc. After that, we squeeze (it). From the end of that, (we)
+         prepare the manioc juice).’       Another element that is used in linking of one clause to the preceding one is theadverb ina ‘there’, which refers to the place where the events are occurring. The eventdescribed in the second clause is then linked to the one in the first clause because theplace where they occur is the same (therefore, the continuity of place helps to establishthe link between/among the clauses). For example:(13)   hulat (h)ita         kaksu      ha chi.
+       beach Allat          in.past    1   Cop       ina      hen   ha laketsi            hulat       oela-s.
+       there then       1   have.walk       beach       center-Dat
+                                                                                                            373
+        ina    hen haain ha pine wan tam.
+        there then | play 1 friend PL Com
+        ‘I went to the beach and I had a walk on the middle of the beach. And there I
+         played with my friends.’
+        (more literally: I went to the beach. There, then I had a walk on the middle of the beach. There,
+        then I played with my friends).","[399, 400, 401]"
+"        The Trumai causative construction involves the use of the particle ka - describedin chapter 3 - which occurs after the verb. The use of this particle is productive; it canmodify any kind of verb. The causativization of Intransitive and Extended Intransitiveverbs is simple: causee is marked as Absolutive, causer is marked as Ergative; in otherwords, the causative construction is similar to a simple Transitive clause. The onlydifference is that in the causative construction, the Absolutive enclitic goes on the particlerather than on the verb (it seems that the verb plus the particle form a larger predicate;that is, we could say that the verb in the causative construction has been “extended’ bythe particle ka into a larger predicate).
+                                                                                                                           302
+causer-Erg    causee-Abs        V ka                             [similar to a simple Transitive clause]
+causer-Erg    causee-Abs        V ka    Dat                      [similar to a simple Extended Transitive clause](1)      a. hai-ts     Yakairu-¢              sa         ka.
+             l-Erg     Yakairu-Abs            dance     Caus
+             ‘I made Yakairu dance.”!                                                           [Intransitive verb]         b. hai-ts                           sa        ka-n.
+             1-Erg                           dance     Caus-3Abs
+             ‘I made her dance.’(2)      a. hai-ts Kumaru-@              sone ka _             wirix-es.                        {Ext. Intransitive verb]
+             1-Erg Kumaru-Abs drink Caus manioc.porridge-Dat
+             ‘I made Kumaru drink manioc porridge.’         b. hai-ts             sone ka-n                            wirix-es.
+            1-Erg              drink Caus-3Abs                       manioc.porridge-Dat
+            ‘I made her drink manioc porridge.’         The causativization of Transitive verbs is a little different: the causer is marked asErgative, as well as the causee. The causer always precede the causee, and often isfollowed by the Focus/Tense particle.”                                causer-Erg        causee-Erg      O-Abs    V ka
+' Although not required, the Focus/Tense particles can occur in some examples:
+(i)      a. hai-ts   ma ka-n.
+             1-Erg eat-Caus-3Abs
+             ‘I made him eat.’                                             {simple causative]         b. hai-ts   ka_in        ma ka-n.
+            1-Erg Foc/Tens eat-Caus-3Abs
+            ‘I (focus) made him eat.’                           [use of Foc/Tens particle]
+? Even though the Focus/Tense particles occur in many of the examples of this section, they are not
+necessarily required in the causative construction with (Extended) Transitive verbs. It is possible to have
+causative clauses without ka_in or chi_in:
+(i)      Alaweru-k     hai-ts axos-o     disi ka.
+         Alaweru-Erg 1-Ergchild-Abs hit/kill Caus
+         ‘Alaweru made me beat the child.’
+                                                                                           303
+(3)     a.hai-ts chi_in    Atawaka-k       atlat-¢ mapa ka.
+          1-Erg Foc/Tens Atawaka-Erg clay.pan-Abs break Caus
+          ‘I made Atawaka break the clay pan.’        b. hat-ts   chi_in     inatle-k atlat-¢              mapa     ka.
+          1-Erg Foc/Tens 3-Erg         clay.pan-Abs break Caus
+          ‘I made her break the clay pan.’        c. hai-ts   chi_in      inatle-k                 mapa       ka-n.
+           1-Erg    Foc/Tens    3-Erg                        break Caus-3Abs
+           ‘I made her break it (a valuable pan).’
+        The causativization of Extended Transitive verbs is similar to the causativizationof Transitive verbs:     causer-Erg     causee-Erg   O-Abs     V ka     Dat
+(4)      Amati-k   chi_in = Tata-k      karakarakotaf-9     kifi ka   hawan-ki.
+        Amati-Erg Foc/Tens Tata-Erg chicken         egg-Abs give Caus 1 PL-Dat
+        ‘Amati made Tata give us chicken eggs.’        As we can see, in the causativization of (Extended) Transitive verbs, there are twoNPs marked as Ergative in the construction, the causer (the “external” agent) and thecausee (the “internal” agent, the one who effectively performs the event).We know whichNP is the causer, which one is the causee on the basis of the position that the NPs occupyin the construction, but the ideal scenario would be that the marking of the causer and thecausee were completely different, in order to avoid the risk of ambiguity with regard tothe role of each NP. This is what is observed in many languages: in the typologicalliterature, there are many examples of languages where the causee is marked as Dative orInstrumental, while the causer has a different marker. Thus, the causative construction in
+                                                                                                 304
+Trumai does not present the ideal situation, where all the relations are clearly stated;° thatis, although Trumai is a case-marking language, it uses word order (rather than case-marking) to disambiguate causer and causee. That makes the construction unusualtypologically.","[329, 330, 331, 332]"
+"        An alternative analysis would explain the morphosyntax of a cleft as indicatingthe historical source of the modern construction, but would argue that, as in the case ofthe clefts for old obliques/NP Possessors that became main clauses (as argued in section5.1.3), the construction has been reanalyzed into a standard clause type. Thus, thepresence of the Copula, the morpheme ke relativizing the verb, and the Negation particleanuk would be explained. However, both the construction and the morpheme ke wouldhave changed their status as the construction was used more and more. Finally, it wouldhave been reanalyzed as a regular clause, with the difference that the verb comes in firstposition. The morpheme ke does not indicate relativization anymore; the fact that ke isoptional in the negative clauses would be evidence for reanalysis. The question is toidentify the function of ke in the examples (68-69b), (74), and (75) above.",[227]
