@@ -1,0 +1,5272 @@
+Paragraph,Page number
+"Data Papers on
+Papua New Guinea Languages
+Volume 57Abau GrammarArnold (Arjen) Hugo Lock2011
+SIL-PNG Academic Publications
+Ukarumpa, Papua New GuineaPapers in the series Data Papers on Papua New Guinea Languages express the
+authors’ knowledge at the time of writing. They normally do not provide a
+comprehensive treatment of the topic and may contain analyses which will be
+modified at a later stage. However, given the large number of undescribed languages
+in Papua New Guinea, SIL-PNG feels that it is appropriate to make these research
+results available at this time.
+René van den Berg, Series EditorCopyright © 2011
+SIL-PNG
+Papua New Guinea
+lr-acpub@sil.org.pgPublished 2011Printed by SIL Printing Press
+Ukarumpa, Eastern Highlands Province
+Papua New GuineaISBN 9980 0 3614 1Table of Contents
+List of maps and tables .......................................................................... ix
+Abbreviations ........................................................................................ xi
+1. Introduction .................................................................................... 1
+1.1 Location and population .......................................................... 1
+1.2 Language name ....................................................................... 2
+1.3 Affiliation and earlier studies................................................... 2
+1.4 Dialects ................................................................................... 3
+1.5 Language use and bilingualism ................................................ 7
+1.6 Use of the Abau language in writing ........................................ 8
+1.7 Typological overview of Abau ................................................ 8
+1.8 Neighbouring languages .......................................................... 9
+1.9 Abau culture.......................................................................... 12
+1.10 Acknowledgements ............................................................... 14
+2. Phonology ...................................................................................... 16
+2.1 Consonant phonemes and allophonic variation....................... 16
+2.1.1 Phonetic contoid changes .......................................... 17
+2.2 Vowel phonemes and allophonic variation ............................. 17
+2.3 Tone, stress and syllables ...................................................... 20
+2.4 Orthography .......................................................................... 22
+2.5 Word boundaries and stress ................................................... 22
+2.6 Morphophonemics................................................................. 24
+2.6.1 Morphophonemic changes within the verb phrase ..... 24
+2.6.2 Vowel harmony ........................................................ 27
+2.6.3 Vowel harmony in kinship terms ............................... 28
+2.7 Reduplicated stems................................................................ 30
+3. Nouns and noun phrases ............................................................... 33
+3.1 Personal pronouns ................................................................. 34
+3.1.1 Form ......................................................................... 34
+3.1.2 Function of personal pronouns .................................. 36
+3.1.3 Topicalisation of object pronouns .............................. 37
+3.1.4 Pronoun modification ................................................ 38
+3.2 Nouns ................................................................................... 42
+3.2.1 Simple nouns ............................................................ 42
+iii3.33.43.53.63.73.83.2.2 Compound nouns ...................................................... 44
+3.2.3 Endocentric noun compounds .................................... 44
+3.2.4 Exocentric noun compounds ...................................... 46
+Nouns and gender .................................................................. 46
+3.3.1 Specifics of gender assignment .................................. 47
+3.3.2 Gender change on temporal NPs ................................. 52
+Numerals ............................................................................... 53
+3.4.1 Numerals and NP order .............................................. 54
+3.4.2 Abau numbers above three......................................... 54
+3.4.3 Abau numerals one, two and three ............................. 56
+3.4.4 Non-quantifying uses of the numeral one ................... 62
+3.4.5 Declining use of the numeral classifier system ........... 65
+3.4.6 Relationship between the assignment of gender and
+numeral class of nouns .............................................. 65
+Adjectives.............................................................................. 69
+3.5.1 The extent of the use of adjectival constructions ........ 69
+3.5.2 Similarity in distribution of the intensifier and
+restrictive marker within the NP ................................. 70
+3.5.3 Contrast between nouns and modifiers ....................... 72
+3.5.4 Modifiers functioning as adjectives, adverbs and
+predicates .................................................................. 73
+3.5.5 Adjectival use of the manner demonstratives ............. 74
+Pragmatic NP markers with and without demonstrative force .. 75
+3.6.1 Non-syntactic, pragmatic NP markers without
+demonstrative force ................................................... 76
+3.6.2 Non-syntactic, pragmatic NP markers with
+demonstrative force ................................................... 77
+Syntactically marked NPs without demonstrative force ........... 80
+3.7.1 Subject NP marker ..................................................... 81
+3.7.2 Topicalisation of the subject NP marker ..................... 81
+3.7.3 Object NP markers without demonstrative force ......... 82
+3.7.4 Topicalisation of object NPs ....................................... 83
+3.7.5 Genitive NP markers .................................................. 84
+Syntactic demonstrative NP markers ....................................... 85
+3.8.1 Subject demonstrative NP marker ............................... 85
+3.8.2 Object demonstrative markers.................................... 87
+3.8.3 The use of the genitive in NPs marked by a syntactic
+demonstrative ............................................................ 89
+3.8.4 Overview of all syntactic NP markers ......................... 90iii3.94.","[1, 2, 3, 4, 5]"
+"Example (36) displays normal SOV order: a topicalised subject and a
+non-topic marked object followed by the verb phrase. An indirect object is
+not expressed but signalled by the benefactive kow.
+Comment
+(36) Topic
+Hyo
+wayh hiykwe
+hopion se
+hiy-o
+wayh hiy-kwe
+hopion
+s-e
+3S.M-GEN friend 3S.M.SUB-TOP pig.meat 3S.M-OBJ
+nak-yay
+kow.
+nak-lyay
+kow.
+ACC-place.down BEN.
+‘His friend brought meat.’
+The inclusion of the recipient hye ‘3S.M.OBJ’ does not cause any
+syntactic changes for the other constituents of the clause in (37). It should
+be noted that the direct object and indirect object are both marked by the
+same object marker -e.
+Comment
+(37) Topic
+Hyo
+wayh hiykwe
+hye
+hopion
+hiy-o
+wayh hiy-kwe
+hiy-e
+hopion
+3S.M-GEN friend 3S.M.SUB-TOP 3S.M-OBJ pig.meat
+se
+nak-yay
+kow.
+s-e
+nak-lyay
+kow.
+3S.M-OBJ ACC-place.down BEN.
+‘His friend brought him meat.’
+One may exchange the positions of the subject and object to give a
+more prominent role to the subject. In OSV order, the object NP is nearly
+always topicalised and the subject NP is not, because the subject is treated200as new information as is shown in (38). (For more discussion, see
+counterexample of a non-topicalised fronted object NP (19) in §8.4, and
+also §6.5.1 and §8.6.)
+Comment
+(38) Topic
+Keno se
+kokwe
+ur
+hiy
+Keno s-e
+ko-kwe ur
+hiy
+Keno 3S.M-OBJ GL.F-TOP vine
+3S.M.SUB
+way-a-way kuayk nayr.
+way-a-way kuayk nayr
+night
+tie-DUP-tie fall
+‘As for Keno, a vine tangled him causing him to fall in the
+night.’6.5General structure of the verbal clauseThe verb phrase is the only obligatory element in the verbal clause.
+Neutral order in Abau is SOV, but this order can readily be altered for
+pragmatic reasons. Background or given information is placed at the
+beginning of the sentence and topicalised accordingly. Foreground or
+prominent information is placed preceding the verb phrase. The phrase
+that immediately precedes the VP forms the comment of the utterance.
+TABLE 42: STRUCTURE OF THE CLAUSETopic part of
+clauseComment part of clauseBasic parts of
+the clauseNP TopicNon-verbal
+constituents
+[-TOP]Verbal
+constituentPossible number
+of constituents0 to 3Rarely 0,
+usually 1,
+sometimes 2one VPPossible
+candidatesNP[+TOP -SYNT],
+SUB[+TOP]
+OBJ[+TOP] PP[+TOP]SUB[-TOP] OBJ[-TOP]
+PP[-TOP] MOD[-TOP]VPconstituents
+[+TOP]Abau sentences sharply distinguish topicalised and non-topicalised
+segments. In terms of the pragmatics of the communication situation it201means that given or background information is clearly distinguished from
+new or foreground information. Constituents containing new information
+are never topicalised and precede the verb phrase. Topicalised constituents
+conveying given information are found clause-initially. A topicalised
+constituent can only precede, not follow, a non-topicalised constituent
+within the clause.","[213, 214, 215]"
+"Complex sentences ...................................................................... 342
+9.1 Cohesive devices operating at sentence and discourse level . 342
+9.1.1 Cohesion marker sawk as developmental marker ..... 343
+9.1.2 Sequential cohesion marker sa ................................ 346
+9.1.3 Addition cohesion marker seyr ................................ 348
+9.2 Clause-initial cohesive markers ........................................... 349
+9.2.1 Projected logical consequence ................................. 349
+9.2.2 Discourse cohesion markers sei and hai .................. 351
+9.2.3 Accordance cohesion marker (seseyn) ..................... 353
+9.3 Coordination of clauses ....................................................... 355
+9.3.1 Juxtaposed coordinate clauses ................................. 356
+9.3.2 Use of the alternative marker o................................ 357
+9.3.3 Use of payhokuaw................................................... 358
+9.4 Object complement clauses encoding purpose ..................... 359
+9.4.1 Object complement clauses ..................................... 363
+9.5 Subordinate clause relating to the main clause ..................... 364
+9.5.1 Temporal construction consisting of a deleted NP
+with a relative clause............................................... 364
+9.5.2 Subordinate clauses encoding past temporal notions 365
+9.5.3 Conditional relationships between clauses ............... 369
+9.5.4 Clauses in a sequential relationship ......................... 371
+9.5.5 Counterfactual conditional ...................................... 375
+9.5.6 Encoding concessions ............................................. 377
+9.5.7 Interrogatives used as indefinite pronouns ............... 379
+9.5.8 Temporal cohesion: a limited time span .................. 381
+10. Discourse types ............................................................................ 383
+10.1 General discourse features and organisation......................... 383
+10.1.1 Introduction to discourse ......................................... 383
+10.1.2 Iconic organisation in narrative and procedural
+texts ........................................................................ 390
+10.1.3 Thematically organised texts ................................... 393
+10.1.4 Conclusion in texts.................................................. 396
+10.2 Discourse genres ................................................................. 400
+10.2.1 Narrative discourses ................................................ 400
+10.2.2 Procedural texts ...................................................... 406
+10.2.3 Descriptive texts ..................................................... 410
+10.2.4 Hortatory and expository discourses ........................ 413
+10.2.5 Personal letters ........................................................ 419viiiAppendices: Abau texts ...................................................................... 422
+11.1 Narrative (Legend)................................................................. 422
+11.2 Narrative text ......................................................................... 446
+11.3 Procedural text ....................................................................... 450
+11.4 Descriptive text ...................................................................... 454
+11.5 Expository text....................................................................... 458
+11.6 Hortatory text ........................................................................ 462
+11.7 Letters ................................................................................... 468
+References ........................................................................................... 474List of maps and tables
+Map 1:
+Map 2:
+Map 3:The Abau area within PNG ...................................................... 1
+The Abau language area ........................................................... 6
+Abau and neighbouring languages .......................................... 10Table 1:
+Table 2:
+Table 3:
+Table 4:
+Table 5:
+Table 6:
+Table 7:
+Table 8:
+Table 9:Dialect cognate percentages ..................................................... 4
+Dialect cognate breakdown ...................................................... 5
+Abau consonants .................................................................... 16
+Phonetic changes in contoids preceding vocoids ..................... 17
+Abau vocoids work chart ....................................................... 18
+Allowed and non-allowed sequences ...................................... 19
+Consonant clusters ................................................................. 21
+Deletion of verb-initial l when prefixed .................................. 25
+No deletion of verb-initial l when verbal prefix ends in
+central vowel a ...................................................................... 26
+Table 10: Rule C - Vowel harmony triggered by e ................................. 27
+Table 11: Rule D - Vowel harmony triggered by a ................................. 28
+Table 12: Vowel harmony in the suffixation of kinship terms ................ 29
+Table 13: Reduplicated forms and base forms ........................................ 30
+Table 14: Four types of reduplication .................................................... 32
+Table 15: Personal pronominal forms .................................................... 35
+Table 16: Personal pronoun modification............................................... 38
+Table 17: General principles of gender assignment ................................ 47
+Table 18: Abau Numbers 4-12, 20 ......................................................... 55
+Table 19: Numeral classifiers ................................................................ 57
+Table 20: Shift in the usage of numeral classifiers ................................. 65
+Table 21: Nouns observed in texts, marked for gender and numeral
+class ...................................................................................... 67
+Table 22: Non-syntactic pragmatic NP markers ...................................... 76
+Table 23: Non-syntactic topic markers and non-syntactic
+demonstrative markers ........................................................... 77
+Table 24: Syntactic NP markers with and without topic marking ............ 80
+Table 25: Subject demonstrative markers............................................... 85
+Table 26: Object demonstrative markers ................................................ 87
+Table 27: Genitive constructions following a demonstrative NP marker .. 89ixxTable 28: Overview of all possible syntactic NP markers ....................... 91
+Table 29: Post-positional NP markers signalling semantic function ........ 92
+Table 30: The standard noun phrase .................................................... 106
+Table 31: Examples of standard noun phrases. .................................... 109
+Table 32: Unmarked noun objects incorporated in verbs ..................... 117
+Table 33: Manner verbal prefixes ........................................................ 127
+Table 34: Directional verbal prefixes .................................................. 128
+Table 35: Order of co-occurring prefixes ............................................. 133
+Table 36: The verb phrase structure .................................................... 136
+Table 37: Bound verbal modifiers ....................................................... 144
+Table 38: Auxiliary and lexical definitions for lwayr, kow, naruok
+and nok ............................................................................... 146
+Table 39: Clause-final markers that distinguish between perfective
+and imperfective.................................................................. 166
+Table 40: Summary overview on the use of po .................................... 179
+Table 41: Intonation contour over clause-final modal or aspect
+marker................................................................................. 182
+Table 42: Structure of the clause ......................................................... 200
+Table 43: The marking of NPs with a noun as head versus NPs with a
+personal pronoun as head .................................................... 204
+Table 44: Intonation of the speech markers ......................................... 252
+Table 45: Emphatic speech markers suffixed with the addressive
+markers ............................................................................... 264
+Table 46: Overview of all interrogative types ...................................... 269
+Table 47: Human interrogative - Identification from open group ......... 272
+Table 48: Non-human interrogative - Identification of non-human
+objects................................................................................. 275
+Table 49: Selective interrogatives ....................................................... 281
+Table 50: Interrogatives which occur as an adverbial phrase................ 283
+Table 51: General Abau sentence structure.......................................... 296
+Table 52: Topicalised NPs with a noun as head of the NP ..................... 297
+Table 53: Syntactic marking and topic-marking on personal pronouns. 306
+Table 54: Constituents in the comment part of the predication ............. 309
+Table 55: Encoding indefinite location, manner and contents .............. 379
+Table 56: Labels used to mark the text “The two brothers” .................. 422Abbreviations
+ABL
+ACC
+ACT
+ADDR
+ADJ
+ADV
+AGREE
+ANTCP
+BEN
+CAUS
+CFT
+CHD
+CL#
+CMT
+CMPL
+CMPND
+CNT
+COMP
+CONJ
+CUR
+DDEM
+DEM
+DIR
+DU
+DUB
+DUP
+DURablative
+accompaniment
+actuality
+addressive
+adjective
+adverb
+agreement
+anticipation
+benefactive
+causative
+counterfactual
+change of direction;
+(focus shift)
+class plus noun
+category number
+comitative
+completive
+compound
+continuous
+comparative
+conjunction
+currently ongoing
+distal demonstrative
+demonstrative
+directional
+dual
+dubitative
+duplication
+durative aspectDYN
+EMPH
+EXCL
+EXCT
+F
+FIN
+FUT
+GEN
+GL
+HAB
+HOR
+HUM
+IMM
+IMP
+INCH
+INDF
+INT
+INTF
+INTN
+IPFTV
+KIN
+LIM
+LOC
+M
+MAN
+N
+NP
+NEG
+NHxidynamic modality
+emphasis
+exclamation
+exactness
+feminine
+final
+future
+genitive
+general topic
+habitual
+hortative
+human
+imminent
+imperative
+inchoative
+indefinite
+intensity
+intensifier
+intention
+imperfective
+kinship reference
+limitation
+locative
+masculine
+manner
+noun
+noun phrase
+negation
+non-humanxii
+NOMS
+OBJP1/P2
+P3
+PDEM
+PFT
+PFTV
+PL
+PP
+PROH
+PURP
+Q
+RCM
+RCP
+RDPL
+RPT
+RSTR
+S
+S
+SEQ
+SIMnominaliser
+object
+fronted topicalised
+constituents
+tail position
+proximal
+demonstrative
+perfect
+perfective
+plural
+postpositional phrase
+prohibitive
+purpose
+interrogative marker
+relative clause marker
+reciprocal
+reduplication
+repetitive
+restrictive
+phonemics:
+semi-vowel
+singular
+sequential
+similaritySLCT
+SP
+SPD
+SUB
+TOP
+V
+VP1, 2, 3
+//
+<>
+[]
+.
+#
+OBJ<SUB
+OBJ>SUBselective
+speech utterance
+marker
+speed
+subject
+topic, topicalised
+verb
+verb phrase
+first, second, third
+person
+phonemic notation
+orthographic notation
+phonetic notation
+syllable break
+(between phonemes)
+morpheme break
+word break
+object moves away
+from subject
+object moves
+towards subject1. Introduction
+1.1 Location and population
+Abau is a language spoken by more than 7000 people in Sandaun
+(formerly West Sepik) Province, Papua New Guinea (see map 1). The
+language area consists of the villages to the immediate east and west of
+the Green River Station, as well as the villages along the Sepik River and
+its tributaries, starting at the border with Indonesian Papua (the Indonesian
+province of Papua, formerly Irian Jaya) all the way down to the border
+with the East Sepik. The area depends mainly on air transport for supplies,
+since there are no roads to connect the Green River Area with the coast
+and transport via the Sepik River has proven to be troublesome.
+MAP 1: THE ABAU AREA WITHIN PNG121.2 Language name
+The language name Abau means infertile land. It is any area of open
+grassy land without trees that cannot be used for food gardens. The more
+than 1 kilometre long Green River Airstrip was built on such land. The
+local people continued to refer to the area as Abau, and consequently the
+Green River Station Area with its airstrip became known as Abau. The
+name eventually transferred to the people group and the language. (The
+word Abau is also used adverbially to indicate barrenness in a woman.
+When following the word makwey ‘head’ it means bald.)1.3 Affiliation and earlier studies
+In Wurm’s classification system (Laycock 1973; Laycock and
+Z’graggen 1975; Wurm 1982), Abau is classified as an isolate at the
+lowest level within the Upper Sepik Stock, Upper Sepik Super-stock,
+Sepik sub-phylum, Sepik-Ramu phylum.
+More recent research by Foley (2005) and Ross (2005) regards Abau
+as a member of the Sepik family, related to other languages of the upper
+and middle Sepik river valley, and the Sepik hill country, but not to the
+languages of the Lower Sepik or Ramu families.
+There have been several previous attempts at describing the Abau
+language, but little published research. Wordlists were collected by patrol
+officers F.R. Cawley (1919) and N.J. Cavanagh (1961); Cawley published
+his wordlists in several Papua Annual Reports between 1917 and the
+1930s. Kay Liddle, who was the missionary at Green River in 1960-62 for
+Christian Missions in Many Lands (CMML), filled seven notebooks with
+texts, typical constructions, a phonemic statement and the beginnings of a
+dictionary. However this material has never been published. 1
+Three linguistic surveys of the language have been published. Loving
+and Bass (1964) conducted a survey on behalf of the Australian
+administration; they refer to the language as “Green River”, and note that
+if administrative officers at Green River station learned the language, they
+would be able to communicate with 3/5 of their administrative area. The
+second was conducted by Donald Laycock of Australian National
+University, who published a brief wordlist (Laycock 1965a) and
+1Information compiled from Loving and Bass (1964); Laycock (1973); Carrington (1996).","[9, 10, 11, 12, 13, 14, 15, 16]"
+"326(50) Hmekwe
+hromkwe
+iha nonaw
+liy
+hom-e-kwe
+hrom-kwe
+iha
+non-aw
+liy
+2/3PL-OBJ-TOP 1PL.SUB-TOP hand CMT-RSTR DYN
+nekie way.
+nekie lway
+hold carry
+‘We can pick them up by hand.’
+When the object NP is no longer topicalised, a subject needs to be
+expressed in order to create a grammatically correct sentence. In (51), a
+subject (filled by hakwe ‘1S.SUB’) is required since the NP object hye
+‘3S.M’ is not topic-marked.
+(51) Hakwe
+hye
+yeyn iha sirom
+senkin
+ha-kwe
+hiy-e
+yeyn iha
+sirom
+so-enkin
+1S.SUB-TOP 3S.M-OBJ moon hand one.CL4 DDEM-MAN
+hiy-mon sor-a-sor
+wayr.
+hiy-mon sor-a-sor
+lwayr
+CAUS-do tell-DUP-tell stay
+‘I taught him for five months.’
+In (52), the non-topic-marked object hme requires a subject, which is
+supplied by homkwe ‘2/3PL-TOP’.
+(52) Homkwe hme
+iha nonaw
+liy nekie way.
+hom-kwe hom-e
+iha
+non-aw
+liy nekie lway
+2/3PL-TOP 2/3PL-OBJ hand CMT-RSTR DYN hold carry
+‘You can pick them up by hand.’8.6.2 Agents and patients without syntactic marking
+In (53), the first two NPs are topicalised. Within the predication they
+fill the semantic function of respectively agent and patient but they are not
+syntactically marked for subject and object. The listener is able to assign
+the roles of agent and patient based on the logics of the semantics rather
+than word order. (It is possible to reverse the order of the two first NPs
+with the same marking). The speaker suppresses in this way the
+prominence of both NPs, enabling the time constituent preceding the VP
+enekwei kamonaw (in one day) to be the most prominent constituent of the
+sentence.","[339, 340]"
+"6. Clause
+6.1Clause typesAbau only manifests two basic clause types. The verbless clause and
+the verbal clause. Both clause types can be divided in a topic part and a
+comment part. The first clause type consists of a topic constituent with a
+juxtaposed comment constituent without a verb phrase or only
+accompanied by the existential-stative verb lwak. The verbless clause has
+two basic constituents: an optional topic constituent (although it always
+needs to be understood) and an obligatory comment constituent.
+The verbal clause always has a verb phrase which is the nucleus of the
+verbal clause (see §4.3). This clause type follows SOV order by default
+and displays the syntactic marking of subject and object.
+The verbless clauses are discussed first (see §6.2). Then constructions
+with the stative verb lwak are examined (see §6.3). These constructions
+are very similar to the verbless clauses. Lastly, verbal clauses are
+discussed (see §6.4).","[201, 202]"
+"324(46) Hiykwe
+hyo
+wueir se
+senkin
+Hiy-kwe
+hiy-o
+wueir se
+so-enkin
+3S.M.SUB-TOP 3S.GEN garden M.OBJ DDEM-MAN
+saro, hiy paraw
+kam
+so
+saro, hiy paraw
+kam
+so
+plant 3S.M in.the.past maternal.uncle M.S-GEN
+yier mon ma lira senkin.
+yier mon ma lira so-enkin
+place LOC RCM see DDEM-MAN
+‘He planted his garden (like this) the way he had seen in his
+uncle’s village.’8.6 Decreasing or increasing the prominence of
+sentence constituents
+Predications, nearly without exception, contain a topic and a comment
+component. The speaker makes choices in what he marks as topic or
+comment. The outcome of these choices determines the prominence of the
+various sentence constituents. There are various ways to raise or lower the
+prominence of the constituents.
+The most common order within Abau is SOV, but this order can
+easily be changed to OSV. The syntactic role of NPs is not determined by
+their place within the sentence but by their NP marking. As stated before,
+nearly all NPs are marked syntactically and/or pragmatically. A large
+percentage of NPs is marked for either subject or object, and the speaker
+might make use of SOV or OSV order depending on the prominence he
+wants to assign to the NPs (see §8.6.1). NPs which are not marked for
+subject or object are very often topicalised by general topic markers
+(§3.6). In spite of this lack of syntactic marking, these NPs can still have
+patient or agent function, which is mostly determined by the context.
+Their marking, or lack of marking, also determines how NPs are given
+more or less prominence (see §8.6.2).","[337, 338]"
+"8.6.1 Changing prominence of subject
+Normal order within Abau is SOV, but based on prominence choices
+a speaker can change this order. In (47), the order is changed to OSV. The
+object NP Keno se kokwe is obligatorily topicalised, because it has been
+left-located and is therefore placed in the topic part of the sentence (see325§8.3). The topicalised object precedes the non-topicalised subject ur hiy
+‘vine 3S.SUB’, and as a result the subject is part of the comment part of the
+sentence (see §8.4). The subject NP becomes the most prominent NP at the
+expense of the object NP, which would have been the most prominent
+constituent in an SOV clause.
+(47) Keno se
+kokwe,
+ur
+hiy
+Keno s-e
+ko-kwe ur
+hiy
+Keno 3S.M-OBJ GL.F-TOP vine 3S.M.SUB
+way-a-way
+kuayk nayr.
+lway-a-lway
+kuayk nayr
+wrap-DUP-wrap fall
+night
+‘In regard to Keno, (it was) a vine (that) wrapped around him
+causing him to fall.’
+In the example above the subject was given more prominence. It is
+also possible to suppress the subject. A subject has to be expressed when
+the object is not topicalised, but one can omit the subject if the object NP
+is topicalised by -kwe. In examples (48) and (49) respectively, hmekwe
+‘3PL.OBJ.TOP’ and hye kokwe ‘3S.M.OBJ.TOP’ are understood to undergo
+the events encoded in the respective VPs. This construction is widely used
+when there is no need or no desire to express the agent of the predication.
+(48) Hmekwe
+iha nonaw
+liy nekie way.
+hom-e-kwe
+iha
+non-aw
+liy nekie lway
+2/3PL-OBJ-TOP hand CMT-RSTR DYN hold carry
+‘They can be picked up by hand.’
+In (49), no subject is expressed.
+(49) Hye
+kokwe
+yeyn iha sirom
+senkin
+hiy-e
+ko-kwe yeyn iha
+sirom
+so-enkin
+3S.M-OBJ GL.F-TOP moon hand one.CL4 DDEM-MAN
+hiy-mon sor-a-sor
+wayr.
+hiy-mon sor-a-sor
+lwayr
+CAUS-do tell-DUP-tell stay
+‘He was taught for five months.’
+A subject can be inserted in the examples above without changing the
+form or order of the other constituents, e.g. example (48) is rewritten with
+an inserted subject hromkwe ‘we’ in (50).","[338, 339]"
+"6.5.4 Constituents that can follow a non-topicalised
+object NP
+The object NP in a transitive clause tends to be the new information
+the speaker wants to convey, and as a result the speaker will move this NP
+towards the VP. It is therefore most often the object NP that immediately
+precedes the verb phrase. It is possible for the subject NP to immediately
+precede the verb if the speaker want to give more prominence to the agent
+than to the object NP. However, as we saw above, the OSV order requires
+that the object NP becomes topicalised.
+There are three constituents that can follow a non-topicalised object
+NP and immediately precede the verb phrase. Since they follow a non-209topicalised NP, they cannot be topicalised as well. The three clause
+constituents are:
+1. Adverbial, demonstrative and interrogative modifiers
+(§4.4, §4.4.2 and §7.5.3). Ex.(52) and (53);
+2. Incorporated nouns (§3.11.1). Ex. (54) and (55);
+3. Postpositional noun phrases (§3.9). Ex. (56), (57), (58)
+and (59).
+6.5.4.1 Adverbial modifier preceding the VP
+In (52), the adverbial modifier puraw occurs between the NP object
+and the VP:
+O[-TOP]
+(52) S[+TOP]
+Pomkwo hokwe
+hno
+nene se
+pomkwo hok-kwe
+hwon-o nene s-e
+bat
+3S.F-SUB-TOP 2S-GEN eye 3S.M-OBJ
+ADVVPpuraw mon swapreir yay.
+puraw mon swapreir lyay
+nothing do
+hit
+place
+‘The bat dropped her (droppings) on your eye for no good
+reason.’
+(53) S[+TOP]
+Ney lowpwarowp skul
+ko homkwe
+ney
+lowpwarowp skul
+ko hom-kwe
+child all
+school GEN 2/3PL-TOP
+ADVO[-TOP]Sapo
+Sapo
+SapoVPse
+yaprue nan.
+s-e
+yaprue nan
+think/like
+3S.M-OBJ good
+‘All the children of the school think well of Sapo.’
+6.5.4.2 Incorporated nouns preceding the VP
+In (54) and (55), the incorporated nouns eheyr ‘crying’ and kar
+‘gladness’ occur between the NP object and the VP. An incorporated noun
+does not refer to a specific identifiable entity, but helps to define or
+complete the meaning of the verb.","[222, 223]"
+"3.4.1 Numerals and NP order
+Numerals follow the head noun of a noun phrase, and agree in class
+with the noun they modify. (The twelve noun classes are discussed in
+section §3.4.3). The Abau number system is limited in its scope. English
+and Tok Pisin numbers are used for numbers above twelve, and often even
+for numbers lower than twelve. Traditionally, there was no easy way to
+express quantities above 20 or even above 12. The use of higher numbers
+has been mainly introduced through the formal school system which is in
+English. Abau speakers will therefore use the English forms of the
+numerals even if the pronunciation of the numerals is affected by their use
+of Tok Pisin and Abau. The use of the loanword numeral apparently
+triggers English and Tok Pisin grammatical ordering. When an Abau
+numeral is used the numeral will follow the noun as in (41).
+(41) Hakwe
+yeyk kreys
+se
+lira.
+Ha-kwe
+yeyk kreys
+s-e
+lira
+1S.SUB-TOP canoe two.CL2 3S.M-OBJ see
+‘I saw two canoes’
+In (42), the loan word numeral ‘201’ precedes the noun under
+influence of English and Tok Pisin grammatical ordering.
+(42) Hohkwe
+hane
+kokwe
+sawk 201 kina
+hoh-kwe
+han-e ko-kwe sawk 201 kina
+3DU.SUB-TOP 1S-OBJ GL.F-TOP CHD 201 kina
+senkin
+kow.
+so-enkin
+kow
+DDEM-MAN give
+‘The two of them gave me 201 kina.’3.4.2 Abau numbers above three
+Abau numerals are in reasonably frequent use up to five. The numbers
+six to twelve are used to a much lesser extent. Above that, the numeral for5520 is sometimes used. Table 18 indicates the various ways numbers from
+4-12 as well as 20 can be expressed.
+TABLE 18: ABAU NUMBERS 4-12, 20NumberAbauCalculation4iha iha-aw
+hand hand-RSTR (= four fingers)44iha yorpow lopa
+hand thumb NEG5-15iha sirom
+hand one1x56iha sirom pruw
+hand one
+navel7
+85+1non
+CMTiha sirom mu
+nareys-ar
+hand one
+breast two-INTFCMTiha sirom mu
+nareys-ar
+hand one
+breast two-INTFpruw
+navel9iha sirom iha
+hand one
+handiha-aw
+hand-RSTR9iha sirom iha
+hand one
+handyorpow
+thumb5+2non
+non5+2+1CMT5+4
+lopa5+5-1NEG2x510iha
+handseys
+two11iha
+handseys
+twopruw
+navelnon12iha
+handseys
+twomu
+breastsnareys-ar
+two-INTF2x5+220iha
+handseys
+twosune
+footseys
+two2x5+2x52x5+1CMTLaycock distinguishes between true ‘number systems’ and ‘tally
+systems’. He says “the latter are used only for direct counting, or
+‘mapping’ of a set of objects against some other measuring code. There
+are no ‘numerals’ in a tally system, so that one may not receive a reply to56the question ‘how many?’, or find the points of the tally-system qualifying
+nouns, as do true numerals. The typical tally-systems of languages of the
+New Guinea area are the ‘body-parts’ counting systems.” (Laycock 1975:
+219). Later, he mentions Abau as an example of a language which has
+both a body-parts tally-system and a numeral system which is quinary (i.e.
+has distinct numbers up to 5) (Laycock 1975: 222).
+The numbers below have been observed in contexts where they
+qualify nouns. This might not have been always the case. Abau speakers
+have been observed to think for a short while before they can match
+numbers above five with the corresponding Abau number expressions.
+The attempt to use Abau number expressions to modify nouns might be
+the result of education and numeracy in the English language. It has been
+observed that many Abau speakers use English numerals for quantities
+above five. Abau numerals are used as the following example from a
+written story illustrates:
+(43) Aiai
+mokwe
+sankaw
+lwawk, nar iha
+Ai-ai
+mo-kwe
+so-ankaw
+lwawk nar iha
+fish-fish GL.PL-TOP DDEM-degree go.into pike hand
+sirom,
+an
+imon,
+weir
+iha seys
+sirom
+nar
+imon
+weir
+iha
+seys
+one.CL4 catfish one.CL7 fish.sp. hand two.CL4
+senkin
+lwawk.
+so-enkin
+lwawk
+DDEM-MAN go.into
+‘Fish got into (the net) to this degree, five pikes, one catfish
+and ten weir fish.’3.4.3 Abau numerals one, two and three
+Nouns can be divided into two groups on the basis of their gender
+(masculine and feminine). They can also be divided into twelve groups on
+the basis of what numeral they occur with. These numerals are in
+Aikhenvald’s terminology numeral classifiers (Aikhenvald 2000: 17).
+Whereas the gender of a noun is indicated through noun phrase
+markers, the numeral class of a noun is determined by the set of numerals
+used for 1, 2, and 3. These class concordances are only expressed by the57first three numbers. Numbers above four (see Table 18) can be used to
+modify all countable nouns.
+The order in which the twelve numeral classes are listed below
+follows Laycock and Z’graggen (1975: 745-746). The numeral classifiers
+in class 1 to 7 mark relatively large groups of nouns, while the numeral
+classifiers in class 8 to 12 can only be used with a small number of nouns.
+This is in all likelihood caused by the fact that the numeral classifiers in
+class 8 through 12 express many more specifics than only quantity. Not
+only their number, but also their grouping (e.g. bundles), or their partition
+(e.g. chopped-up parts) can be in focus. In English, grouping words like
+flock, bunch, bundle, etc. only occur with a limited number of nouns.
+Similarly, it can be assumed that Abau numeral classifiers that express
+specifics about the form or compilation of the noun they modify have a
+very limited distribution.
+Criteria for the different classes are related to humanness, surface,
+grouping, dimensionality, and extendedness. Countable nouns which
+cannot be classified by their physical appearance are not restricted to one
+class; they belong to classes 2, 3 or 4.
+The distinction between human and non-human within the numeral
+classifiers is observed by all speakers, but young people do not seem to be
+aware of all the other distinctions. They tend to overuse class 2 as a
+default for nearly all non-human nouns.
+TABLE 19: NUMERAL CLASSIFIERSClass Characteristics
+1
+Human beings; spiritsOne
+pru-eynTwo
+pru-eysThree
+pru-ompri2Non-humanka-monk-reys3k-rompri43Small objects with some
+volumena-monna-reysna-rompri3
+4Based on the form nareys one would expect ka-reys.
+Based on the form narompri, the underlying form could be ka-rompri.","[68, 69, 70, 71]"
+"42(16) Homkwe
+homkiaw-ayay senkin
+pese
+hom-kwe
+hom-kiaw-ayay so-enkin
+pese
+2/3PL.SUB-TOP 2/3PL-SLCT-RCP DDEM-MAN PROH
+lohruw-a me
+o.
+lohruw-la me
+o
+talk-eat
+speak SP
+‘Do not talk like that among yourselves.’
+A personal pronoun can be modified simultaneously by three markers,
+which occur in a set order: selective marker -kiaw, reciprocal marker
+-ayay and finally the emphatic marker -aw. This ordering can be seen in
+(17):
+(17) Uwr homkwe
+sawk hom-kiaw-ayay-aw
+kasaw
+uwr hom-kwe
+sawk hom-kiaw-ayay-aw
+kasaw
+man 2/3PL.SUB-TOP CHD 2/3PL-SLCT-RCP-EMPH nose
+lon hohuaw.
+lon hohuaw
+do be.angry
+‘The men were angry with each other.’3.2NounsThe following sections discuss nouns. Nouns are treated early in this
+chapter, in spite of the fact that many of the NP markers which carry
+information on the gender and number of a noun have not been discussed.
+This order has nevertheless been chosen, since a treatment of the NP final
+markers, numerals and adjectives cannot be done without a proper
+understanding of the noun word.","[55, 56]"
+"3.2.4 Exocentric noun compounds
+At least two types of exocentric compound nouns have been observed
+where the constituents making up the compound noun belong to different
+word classes.
+1. A juxtaposed verb and noun forming a compound noun, whereby
+the verb modifies the noun for category. (30)
+2. A juxtaposed modifier and noun forming a compound noun,
+whereby the modifier modifies the noun category. (31)
+(30) Sawk lous-uwr homkwaw
+hin.
+sawk lous-uwr hom-kwaw
+hin
+CHD hunt-man 2/3PL.SUB-RSTR shoot
+‘But just the hunters shot (it).’
+(31) Homkwe yaprue-uwrsa
+korey.
+hom-kwe yaprue-uwr-sa
+korey
+2/3PL-TOP good-man-woman NEG
+‘They were not “good people”.’3.3Nouns and genderAbau has both gender (masculine/feminine) and a cross-cutting
+system of numeral classifiers, as do the related languages Iwam,
+Wogamusin and Chenapian (Laycock and Z’graggen 1975). This feature
+is also characteristic of some Indic, Dravidian, Iranian and Arawak (South
+America) languages (Aikhenvald 2000: 185). As stated before, number
+and gender are not marked on the noun word itself but are indicated by
+pronouns, demonstratives, numerals and other grammatical markers that
+follow the noun. The relationship between gender and number classifiers
+is discussed §3.4.6.",[60]
+"1.7 Typological overview of Abau
+Abau has nominative-accusative orientation in both its syntax and its
+case marking. Default ordering of arguments is Subject Object Verb
+(SOV). This ordering frequently varies for pragmatic reasons. Topic is
+overtly marked on noun phrases, and is clearly distinguished from subject.
+The presence or absence of topic marking on NPs divides every
+predication into a left-located topic-marked component and a right-located
+comment.",[22]
+"32
+TABLE 14: FOUR TYPES OF REDUPLICATIONExample of reduplication
+lowp-a-lowp‘all’Contrasting example in similar
+environment
+me piap-ma-piap
+‘to slander’me sor-a-sor‘to discuss’me wowr-pa-wowr ‘to rebuke’me wor-a-wor‘to give advice’nan kwor-pa-kwor‘think and fret’mei-a-mei‘long’me hne-ma-hne‘to defame’me hok-a-hok‘to scare’me loh-loh‘to persuade’me weih-a-weih‘to convince’wayh-wayh‘friends’me kwan-a-kwan ‘to speak very
+me sian-sian
+friendly’
+nan-pa-nan
+‘to contemplate’ me mon-ma-mon‘to stir up’me ku-pa-ku‘to warn’lira pe-ma-pe‘to speak
+offensively’
+‘to stare’nan seyr-pa-seyr‘to be puzzled’weyr-weyr‘to scream’3. Nouns and noun phrases
+De Vries (2005: 367) makes the point that Papuan languages
+generally give the noun phrase a low priority.
+In the majority of Papuan languages the verb is the head
+of the verbal clause, and the only obligatory constituent.
+The nominals in the clause could be considered optional
+modifiers of this head… Many Papuan languages avoid
+nouns and anaphoric use of independent pronouns to an
+extreme extent in referent tracking, especially in the
+tracking of active or given subject and object referents.
+Abau does not fit this particular categorization of Papuan languages.
+Clauses in Abau without a noun phrase are extremely rare. Also noun
+phrases which are not overtly marked for their specific role are relatively
+rare. The vast majority of noun phrases are marked for their pragmatic,
+semantic or syntactic function to such an extent that the unmarked noun
+phrase stands out because of its relative rareness.
+Abau has a rich inventory of markers which occur by themselves NP
+finally and which contain much grammatical information. Himmelmann
+(2001: 838-839) calls these syntactic noun phrase markers pronominal
+articles and Tupper (2009) makes mention of the usage of similar
+pronominal articles in the neighbouring Namia language.
+The vast majority of Abau noun phrases occur with a terminal phrase
+marker. They can be non-syntactic pragmatic markers (§3.6 and Table
+23), syntactic markers (§3.7, §3.8 and Table 28), and semantic markers
+indicated by postpositions (§3.9 and Table 29). The tables referred to give
+exhaustive lists of the various categories. We have analysed all the
+pronominal forms listed in §3.6 through §3.9 as NP markers rather than as
+a pronominal copy NP.
+Noun phrases with zero marking are relatively rare. Within a narrative
+text less than 10% of the noun phrases have zero marking (see §3.11).
+3334Pragmatic marking is realised with the help of the topic marker -kwe
+which cannot occur by itself, but is always suffixed to a pronoun.
+The NP final marking not only marks the NP for its syntactic, semantic
+and/or pragmatic role, but in most cases also reflects the gender and/or
+number of the head of the NP. Many of these markers are also affixed for
+demonstrative force. These demonstratives need to be explained against
+the background of their counterparts which do not have deictic force. For
+that reason the demonstratives are not in one section but are discussed in
+various sections. The manner demonstrative in §3.5.5, the non-syntactic
+demonstrative in §3.6.2, the syntactic demonstrative in §3.8.
+Summary overview of Chapter 3:
+It basically describes the structure and function of nouns and noun
+phrases. It includes sections on the form and use of personal pronouns
+(§3.1); the form, use and gender of the noun (§3.2, §3.3); numerals (§3.4)
+and adjectives (§3.5). An extensive overview of all pragmatic (§3.6),
+syntactic (§3.7, §3.8) and semantic (§3.9) noun phrase markers. The
+chapter concludes with a full discussion of the structure of the noun
+phrase (§3.10) and the absence of NP marking (§3.11).","[45, 46, 47, 48]"
+"6.5.1 Positioning of subject and object
+Neutral or frequently observed order within the clause places the
+subject before the object. The verb phrase occurs clause-finally. In (39),
+the object kuey me ‘grubs PL-OBJ’ follows the subject hano sa ko orih
+hiykwe ‘my wife’s father’.
+(39) S[+TOP]
+Hano
+sa
+ko
+orih
+hiykwe
+han-o sa
+k-o
+orih
+hiy-kwe
+1S-GEN woman 3S.F-GEN father 3S.M.SUB-TOP
+O[-TOP]VPkuey me
+lowk.
+kuey m-e
+lowk
+grubs PL-OBJ cut
+‘My wife’s father cut the grubs (from the inside of the sago
+palm).’
+Placing kuey me ‘grubs OBJ’ before hano sa ko orih hiy (my wife’s
+father) yields a syntactically ill-formed structure.
+(40) O[-TOP]
+S[-TOP]
+VP
+*Kuey me
+hano sa ko orih hiy
+lowk.
+‘The grubs were cut by my wife’s father.’
+The order of subject and object can be reversed, and that nearly
+always results in the topicalisation of the object NP. As a result of the
+reversal the subject will immediately precede the verb phrase and cannot
+be topicalised any longer. In (41), kuey me ‘grubs PL-OBJ’ is marked by
+the feminine topic marker kokwe and precedes the non-topicalised subject.
+As a result the subject becomes more prominent and emphasised.",[215]
+"132(11) Hohkwe
+nwoh non ki
+hiy-ey,
+sapa mon.
+hoh-kwe
+nwoh non ki
+hiy-ley, sapa mon
+CMT ground CAUS-go forest LOC
+2DU.SUB-TOP dog
+Hoh
+non-hiy-naw
+nok liok
+menkin,
+Hoh
+non-hiy-naw
+nok liok
+menkin
+2DU.SUB DU-CAUS-roam DUR unsuccessful when
+sawk Kupe hiykwe
+sok
+se
+sawk Kupe hiy-kwe
+sok
+s-e
+CHD Kupe 3S.M.SUB-TOP snake S.M-OBJ
+ar-ira,
+now mon.
+ar-ira
+now mon
+DIR:upward-see tree LOC
+‘The two of them went hunting with the dog in the forest.
+When the two of them roamed together leading on (the dog) being unsuccessful - Kupe looked up and saw a snake in a
+tree.’
+(12) Kupe hiy
+ka-me
+sau ne,
+“Ara,
+Kupe hiy
+ka-me
+sau ne,
+ara
+Kupe 3S.M.SUB DIR:side-speak run SUB>OBJ 3S.M.ADDR
+sok
+sohokwe
+pokon ha
+sowk
+sok
+so-ho-kwe
+pokon ha
+sowk
+snake DDEM-GL.S.M-TOP today 1S.SUB sago.jelly
+non po
+nak-a
+a.”
+non po
+nak-a
+a.”
+CMT IMM.FUT ACC-eat FUT
+‘Kupe speaking sideways and running towards (it) said,
+“Man, in regard to this snake, I will eat it today along with
+sago jelly.”’
+The prefix hiy- ‘CAUS’ implies a subject which controls or causes the
+event or state expressed by the predicate. In (11), the prefix hiy- occurs
+twice. In both instances it refers to the fact that the agent controls or
+causes the dog to hunt. Ki ley ‘hunting’ (literally ‘ground go’) is expressed
+as ki hiy-ey to convey the control of the hunters over the dog. The same is
+true for hiy- in non-hiy-naw. The prefix hiy- implies the presence of a
+constituent that is under the control of the agent. The constituent that is
+under the control of the agent is always animate and frequently human, as133can been seen from other examples in this paper: e.g. (53), (12) in §5.2.1,
+and (46) in §5.3.2.
+The prefixes saw- ‘SPD’ and kor- ‘LIM’ assign to the verb increased
+speed and limitation of involvement, respectively. Examples can be found
+elsewhere: (15), (73) in §7.4.2, (53) in §8.6.2, and (62) in §10.2.3, and
+Table 5: Deletion of verb-initial l when prefixed.
+4.2.1.1 Preferred order of verbal prefixes
+The preferred order of verbal prefixes observed in natural texts is
+summarised in Table 35. The prefixes kor- ‘LIM’ and hiy- ‘CAUS’ have
+been placed on separate levels of the table, since their ordering in relation
+to the other prefixes could not be established. These two prefixes have not
+been observed to co-occur with kiy- ‘ACT’, saw- ‘SPD’, non- ‘DU’ or with
+each other.
+TABLE 35: ORDER OF CO-OCCURRING PREFIXESInitialMiddle partkiysawDirectional ma‘RPT’ ‘ACT’ ‘SPD’
+prefixesFinal
+non‘DU’nuw‘INT’nakverb
+‘ACC’kor‘LIM’
+hiy‘CAUS’
+Directional prefixes do not co-occur with each other and always precede
+all non-directional verbal prefixes. While the relative ordering of the
+prefixes in Table 35 is established, there are no examples of a complete
+string of all possible combinations. Examples (13), (14) and (15)
+demonstrate the ordering of prefixes in natural speech.
+Manner prefixes can co-occur, e.g. (13): ma- ‘RPT’, non- ‘DU’ and
+nak- ‘ACC’ with the verb nekiok- ‘crawl’.","[145, 146, 147]"
+"19
+TABLE 6: ALLOWED AND NON- ALLOWED SEQUENCESNon-allowed sequences:
+Pairs of identical vowels or semi-vowels* ii, aa, yy, ee, etcPairs of low vowels* ae, ea, oe, eo, etcA low vowel followed by a semi-vowel or high
+vowel with an opposing [Front/Back] value.* oi, oy, eu, ewAllowed sequences:
+High vowels and semi-vowels can be followed
+by all low vowelsia, ya, ie, ye, ua wa, io,
+yo, uo, wo, etcThe central vowel /a/ can be followed by all
+semi-vowels and high vowelsai, ay, au, aw/e/ or /o/ can be followed by all semi-vowels or
+high vowels with identical [Front/Back] value.ei, ey, ou, owThe non-exhaustive list below gives a picture of the wide distribution
+of semi-vowels and high vowels co-occurring with another vowel.
+/ri/>GL@spear/riy/>Ǵ@able to/rei/>ӪHL@cut/rey/>ӪHM@go/rie/>GLȳ@climb/hye/>ҸLȳ@him (OBJ)/ru/>ӫX@copulate/ruw/>ӫօ@bone of a cassowary/rows/>ӫRZV@fill up (water)/rous/>ӫRXV@chase/ros/>ӫƥV@mold (stove)/kuor/>NXƥӫ@sore, wound/kwor/>NZƥӫ@cane bangle20/kior/>NLƥӫ@frog (sp.)/kyor/>NMƥӫ@down/kuan/>NXDQ@cross over/kwan/>NZDQ@flattery/san/>VDQ@chewed food/sawn/>VֺZQ@lung/saun/>VֺXQ@to dig/say/>VֺM@throw/sai/>VֺL@planting stick2.3Tone, stress and syllablesBailey (1975: 33) states that “nouns exhibit lexemic tone, although
+relatively few examples of contrastive lexical tone pairs have been
+discovered so far”. Laycock and Z’graggen (1975: 744-5) queried the
+correctness of Bailey’s claim that Abau was tonal, since it countered a
+previous statement by Laycock (1965b) that Abau, Iwam and Wogamusin
+are not tonal. Foley cites Bailey’s observations (1986:64). We have found
+no evidence of a system of lexical tone or for the tone distinctions on
+nouns and verbs that were presented by Bailey (1975: 32-37). The
+minimal pairs Bailey listed all proved to be incorrect interpretations, see
+Lock (2007: 21-22).
+The stress in Abau always occurs word initially. Bailey never
+commented on stress. Laycock (1965b) states that stress occurs word
+initially, or occurs on the second syllable when the word contains /ə/. As
+stated before, the current analysis does not have this central vowel. Six of
+the seven examples with /ə/ mentioned by Laycock (1965b:117) are
+analysed currently as /o/. These words have the stress on the first syllable
+(e.g. hohkwe ‘the two of them’). The phoneme /ə/ in the seventh word is
+analysed as /ow/ (low ‘to defecate’).
+In defining the syllable we will rely on a basic phonological
+assumption, that the same sequential constraints which operate at the
+beginning of a word are also operative at the beginning of a syllable, even
+if this syllable does not occur word initially. Similarly, the same21sequential constraints which operate at the end of a word should be
+operative at the end of a syllable.
+The following word initial consonant clusters have been observed.
+When they occur word medially, they are analysed as occurring syllable
+initially.
+TABLE 7: CONSONANT CLUSTERSConsonant clusters formed with
+/y/ and /w/Consonant clusters formed with
+/r/, /m/ and /n//hw/ /hy/ /pw/ /py/
+/kw/ /ky/ /sw/ /sy/
+/nw/ /mw/ /my/ /rw/ /ry//hr/ /hn/ /hm/
+/pr/ /pn/ /kr/ /kn/
+/sr/ /mr/The following rules apply to divide words into syllables:
+1. Keep consonant cluster together
+2. Syllable break for words containing a VV string: V-V
+3. Syllable break for words containing a VCV string: V-CV
+/ankin/an.kin‘if’no initial or final /nk/
+possible/rownriy/rown.riy‘share’no final or initial /nr/
+possible/hiywayr/hiy.wayr‘look after’no final or initial /yw/
+possible/poya/po.ya‘many’no final /oy/ possible/omok/o.mok‘later’syllable break: V-CV/huonok/hu.o.nok‘get’syllable break: V-V./lohre/lo.hre‘change into’keep consonant cluster
+/hr/ together/apuayr/a.pu.ayr‘wife’s sister’s
+husband’syllable breaks: V-CV
+and V-V222.4OrthographyIn 1989, when most of the phonological analysis was done, a week
+long orthography conference was organised in Yabru village which was
+attended by educated and influential Abau speakers. The goal was to
+determine the orthography of the Abau language on the basis of long word
+lists that focused on phonemes in various environments and on particular
+contrasts and minimal pairs. It also exposed the conference participants to
+the various ways Abau people had spelled in testing situations. See Lock
+(1993) for more information on the procedures and the reasons behind this
+orthography conference.
+Based on the recommendations of this conference, the orthography
+follows the phonemic analysis with two exceptions:
+1. The phoneme /r/ is represented in the orthography by <r>,<l> and <d>.
+The following spelling rules determine the available alternatives:
+a. Word initial /r/ is written as <l>.
+e.g. /reir/ ‘take out’ is spelled as: <leir>
+b. /r/ is written as <d> preceding /n/
+e.g. /yorney/ ‘finger’ is spelled as: <yodney>
+c. /r/ is written as <r> elsewhere.
+e.g. /hror/ ‘the two of us’ is spelled as: <hror>
+2. Word initial clusters of a high vowel and a low vowel are written with
+an extra word initial semi-vowel that will agree with the high vowel for
+the feature [back]. Thus:
+a. /#iV/ is written as <yi>V
+e.g. /ia/ ‘fire’ is spelled as: <yia>
+b. /#uV/ is written as <wu>V
+e.g. /ueir/ ‘garden’ is spelled as: <wueir>2.5Word boundaries and stressThe phonological word is defined as a unit with one primary stress. In
+Abau, primary stress is associated with the first syllable of the
+phonological word. The syllable with primary stress is assigned higher
+pitch and intensity than the other syllables. The lowest pitch occurs on the
+last syllable.","[32, 33, 34, 35, 36]"
+"8.2Sentence structureDik’s language-independent pattern-schema can be applied to the
+Abau sentence structure. His basic schema is: THEME, PREDICATION,
+TAIL (Dik 1980: 15).
+The same schema expressed with more detail (Dik 1980: 20)
+P2, P1 (V) S (V) O (V), P3
+This can be adopted for the Abau language to: P2 , P1 S O V , P3
+The THEME is expressed by the left-dislocated P2 position and the
+TAIL by the right-dislocated P3 position. The PREDICATION is everything293in between. In this schema, S and O stand for the neutral or unmarked
+positions of Subject and Object. The V indicates the position of the verb
+phrase. P1, P2, and P3 indicate special positions used for special purposes,
+and the commas stand for breaks in the intonation. P1 is the clause
+internal topic, the P2 position is used for elements which are leftdislocated, i.e. they are outside the intonational boundaries of the clause
+(cf. Dooley and Levinsohn 2001: 67-69) and the P3 is the right-dislocated
+constituent or tail.
+Dik (1980: 16) defines THEME and TAIL as follows:
+The theme specifies the universe of discourse with respect
+to which the subsequent predication is presented as
+relevant.
+The tail is defined as an “afterthought” to the predication,
+information meant to clarify or modify it.
+Dik gives an English example that follows the schema THEME,
+PREDICATION, TAIL.
+(1) Theme (P2)
+Predicate (P1 S O V)
+Tail (P3)
+As for my brother, he never saw her again, the poor child.
+He adds that in certain languages, constructions like this may be
+strongly marked or even at the fringe of grammaticality, whereas in other
+languages, they may almost represent the usual way of constructing a
+sentence. He also states that the theme will very often be some term
+presented in “absolute” form, i.e. without any specified semantic or
+syntactic function (1980:16).
+As for the predication marked by P1 S O V, Dik (1980:20-21) states
+the following:
+The positions marked by S, V and O are called “pattern
+positions” for Subj, Verb and Obj. These are the positions
+where constituents of this type end up if they have not
+been brought into P1 by the rules determining the use of
+this special initial position.
+Dik further comments about the P1 position that “either Topic or
+Focus, or both will often favour the initial position in the clause, if this is
+available.” In Abau, the P1 position is always a topicalised constituent and
+never belongs to the comment part of the sentence.","[306, 307]"
+"206(46) NP[+TOP]
+Pokon kokwe
+pokon ko-kwe
+today GL.F-TOPNP[+TOP]S[-TOP]hyo
+pion hokwe
+ha
+hiy-o
+pion ho-kwe
+ha
+3S.M-GEN meat GL.M-TOP 1S.SUBVPpo
+pola a.
+la a
+IMM.FUT eat FUT
+‘Today, as for his meat, I am about to eat it.’
+As stated above, NPs consisting of a topicalised personal pronoun
+could be analysed as having both syntactic and pragmatic marking, or as
+having only pragmatic marking. Their position within the clause is the
+determining factor. The personal pronoun NP needs to be followed by at
+least one other topicalised constituent before it can be analysed as a
+constituent that has lost its syntactic role.
+The NP homkwe in (47) hosts the subject personal pronoun hom and
+the topic marker -kwe. Since the topicalised NP immediately precedes a
+phrase that is not topicalised (wayh seme ‘these yams’) one can conclude
+that the topicalised NP homkwe ‘you’ functions as the subject of the
+clause.
+O[-TOP]
+PP[-TOP]
+(47) S[+TOP]
+Homkwe wayh seme
+yia
+mon
+hom-kwe wayh so-m-e
+yia
+mon
+LOC
+2/3PL-TOP yam DDEM-PL-OBJ fire
+modal VPkwa
+kwanaws.
+naws
+HOR cook
+‘As for you, just cook those yams over the fire.’6.5.3 Inclusion of indirect object NP
+In ditransitive clauses the marking on the NP object and NP indirect
+object is identical. The neutral or most frequently observed order of the
+two arguments has the indirect object preceding the direct object, as in
+(48). This feature of Abau syntax is consistent with the universal tendency
+for indirect objects to precede direct objects, since indirect objects tend to
+be higher on the animacy hierarchy (Hopper and Thompson2071980: 259-261). Usually indirect objects are [+human, +animate], in
+contrast to direct objects, which are usually [-human, ranimate].
+(48) S[+TOP]
+IND.O[-TOP]
+Hyo
+wayh hiykwe
+hye
+hiy-o
+wayh hiy-kwe
+hiy-e
+3S.M-GEN friend 3S.M.SUB-TOP 3S.M-OBJ
+O[-TOP]VPkuey-seik
+se
+nak-yay
+kow a.
+kuey-seik
+s-e
+nak-lyay kow la
+grubs-dried 3S.M-OBJ ACC-place BEN eat
+‘His friend gave him semi-dried grubs to eat.’
+In (48), neither direct object nor indirect object is topicalised by -kwe.
+They both mark information that the speaker treats as new. It is possible to
+topicalise the indirect object and not the object. In (49), the topicalised
+indirect object precedes the topicalised subject, while the object
+immediately precedes the verb phrase without any topic marking. This
+construction reduces the prominence of the recipient and raises the
+prominence of the patient, since it is the only non-topicalised role within
+the clause.
+S[+TOP]
+(49) IND.O[+TOP]
+Uwruh
+nawp se
+kokwe
+hokwe
+uwr-ih
+nawp s-e
+ko-kwe hok-kwe
+man-KIN old
+3S.M-OBJ GL.F-TOP 3S.F.SUB-TOP
+O[-TOP]VPmnow aio se
+nwaws yay
+kow.
+mnow aio s-e
+nwaws lyay kow
+eel
+big 3S.M-OBJ cook
+place BEN
+‘In regard to her old husband, she cooked a big eel for him.’
+Although the indirect object usually precedes the direct object, the
+speaker can move the indirect object closer to the verb phrase. The result
+is that the prominence of the recipient is raised at the expense of the
+prominence of the patient. In (50), the direct object (hno yeyk se kokwe) is
+treated as given information, but the indirect object (hane) as new
+information.","[219, 220, 221]"
+"4.1.1 Determining the boundaries of the verb phrase
+Verb phrase boundaries are defined with the help of three important
+features. They are listed here in order of their usefulness in the
+determination of verb phrase boundaries:
+a. The beginning of the verb phrase is easily recognisable since it
+always carries the most salient stress which is associated with the
+highest pitch within the clause, see (1);
+b. A number of markers which are not part of the verb phrase work
+together to form negation and interrogative constructions that
+enclose the entire verb phrase, see (2) and (3);
+c. Phrases in Abau are frequently separated by distinct pauses. If
+there is a pause, one can assume it marks the end of a phrase,
+since a pause does not occur within a phrase. Not every phrase is
+clearly separated by pauses, but there is often a distinct pause
+between the last topicalised constituent within the clause and the
+non-topicalised constituent following, see (4).
+In (1), yaprue ‘good’ is not part of the VP since it does not carry the
+most salient stress within the clause. The most prominent stress within the
+clause is on lie ‘go.up’ and this signals the beginning of the VP. Therefore,
+yaprue ‘good’ is analysed as a separate adverbial modifier modifying the
+verb phrase.
+PEAK(1) Aiai hiy ma saro somokwe
+yaprue 'lie.
+aiai hiy ma saro so-mo-kwe
+yaprue lie
+food 3S.M RCM plant DDEM-GL.PL-TOP good
+go.up
+‘The food that he planted grew really well.’
+Secondly, a number of constructions that mark negation or questions
+make use of constituents that enclose the entire verb phrase.
+In (2), the VP is embraced by two constituents that express negated
+dynamic modality liy … ley ‘DYN … NEG’. The modal marker liy ‘DYN’ is
+not part of the VP since it does not carry the highest pitch. The negation
+word ley is not part of the verb phrase since it functions at sentence level.
+The VP is underlined and the onset of the VP is marked by an apostrophe.",[138]
+"104(141) Hiykwe
+yoh-ney
+senkin
+senkin
+hiy-kwe
+yoh-ney
+so-enkin
+so-enkin
+3S.M.SUB-TOP banana-small DDEM-MAN DDEM-MAN
+me
+nak-anio saro wayr, hyo
+wueir iwon
+m-e
+nak-lanio saro lwayr hiy-o
+wueir iwon
+PL-OBJ ACC-walk plant stay
+3S.M-GEN garden new
+mon kokwe.
+mon ko-kwe
+LOC GL.F-TOP
+‘He went around planting various banana shoots in his new
+garden.’
+In (142), the feminine topic marker kokwe occurs phrase finally in a
+NP that is marked by nion ‘accompaniment’. The head of the NP is
+masculine, but NPs already marked for syntactic or semantic case are
+always topicalised by the feminine topic marker.
+(142) Mowr
+hiykwe
+sawk aw sehe
+mowr
+hiy-kwe
+sawk aw so-h-e
+hornbill 3S.M.SUB-TOP CHD fight DDEM-3S.M-OBJ
+lono, wayp se
+nion kokwe.
+lono wayp s-e
+nion ko-kwe
+fight eagle 3S.M-OBJ with GL.F-TOP
+‘So the hornbill started a fight with the eagle.’
+As in (141) and (142), topicalised NPs which also host a semantic
+marker often occur in tail position. It is possible though, for a topicalised
+NP with a semantic marker to occur more sentence initially, as is shown in
+(143).
+(143) Hiykwe
+sapa mon kokwe
+aiai ki
+lanio
+hiy-kwe sapa mon ko-kwe aiai ki
+lanio
+3S.M-TOP forest LOC GL.F-TOP food ground walk
+a e
+ley.
+la e
+ley
+eat PURP go
+‘He went into the forest in order to hunt around for food.’1053.9.9 Subject demonstrative in postpositional phrases
+The subject demonstrative can occur in constructions with the
+semantic case markers sok (exactness) and non (comitative) where the
+demonstrative loses its subject force (compare §3.8.3). The construction
+of a subject demonstrative followed by a topicalised semantic case marker
+is rare and has only been observed for these temporal phrases. The bolded
+NPs contain the subject demonstrative sohiy with the semantic markers sok
+(144) and with non (145).
+(144) Enekwei sohiy
+sok kokwe
+hiykwe
+Enekwei so-hiy
+sok ko-kwe hiy-kwe
+time
+DDEM-3S.M.SUB EXCT GL.F.TOP 3S.M.SUB-TOP
+now hyo
+oryay
+hiy
+hye
+ma
+now hyo
+oryay
+hiy
+hye
+ma
+tree 3S.M.GEN older.brother 3S.M.SUB 3S.OBJ RCM
+mesous,
+serey lwak.
+me-sous,
+serey lwak
+speak-forbid there be
+‘At that specific time, he was at the tree that his brother had
+forbidden him.’
+(145) Enekwei sohiy
+non kokwe
+hiykwe
+Enekwei so-hiy
+non ko-kwe hiy-kwe
+DDEM-3S.M.SUB CMT GL.F.TOP 3S.M.SUB-TOP
+time
+Hai Skul
+mon mon-sorasor.
+Hai Skul
+mon mon-sorasor
+High School LOC do-study
+‘During that particular time he was studying at the High
+School.’3.10 Noun phrase structure
+This section outlines the structure of the noun phrase. Four noun
+phrase types are posited.
+a. The standard noun phrase
+b. Headless noun phrase
+c. Noun phrase headed by a personal pronoun
+d. Conjoined NP+Head
++noun /
++Qualifier
+compound N
+Single noun Descriptive
+or two nouns words
+juxtaposed+Pre-head+Genitive
+modifierConstituent
+with Genitive
+marker -oNumerals,
+Indefinite
+quantifier+QuantifierSubject,
+Object and
+Genitive
+markers+Gram.
+Marker+Post HeadTABLE 30: THE STANDARD NOUN PHRASELocative,
+Comitative,
+Accompaniment+PostpositionsSuffix -kwe,
+General
+Topic
+markers+Topic
+marker1061073.10.1 Standard noun phrase
+The standard NP occurs with an obligatory head, an optional pre-head
+and potentially five optional post-head modifying constituents. The head
+consists of a noun or a nominal compound. The highest pitch within the
+noun phrase is on the first syllable of the head. The pre-head constituent is
+a possessive modifier, realised by a genitive pronoun or by a genitive
+prepositional phrase. The post-head modifying constituents describe the
+nominal head, or its deictic position in the communication situation. The
+constituents of the standard noun phrase are ordered in Table 30.
+3.10.1.1 Pre-head constituents
+The only phrase constituents able to appear before the head are
+independent pronouns or phrases marked with the genitive suffix -o. In
+(146), the first hano ‘my’ is an independent personal pronoun with
+genitive marking, modifying the head noun sa ‘woman’. The second hano
+is a genitive pronoun modifying kam ‘uncle’. The noun phrase hano kam
+‘my uncle’ itself is modified by the genitive marker so. Together they
+form a possessive phrase modifying the head noun ney ‘child’:
+(146) Hano
+sa
+hokwe
+hano
+kam so
+han-o sa
+hok-kwe
+han-o kam s-o
+1S-GEN woman 3S.F.SUB-TOP 1S-GEN uncle 3S.M-GEN
+ney korey.
+ney korey
+child NEG
+‘My wife is not the daughter of my maternal uncle.’
+In (147), the head of the noun phrase is the final noun ney ‘child’,
+which is modified by four underlined genitive constructions.
+(147) Hiykwe
+hano
+ipey
+ko
+hiom
+hiy-kwe
+han-o ipey
+k-o
+hiom
+3S.M.SUB-TOP 1S-GEN mother 3S.F-GEN brother
+so
+ney ko
+ney.
+s-o
+ney k-o
+ney
+3S.M-GEN child 3S.F-GEN child
+‘He is my mother’s brother’s daughter’s son.’1083.10.1.2 Head constituent
+The head of the noun phrase is either a noun or a compound noun. All
+standard noun phrases are underlined and the head constituent is bolded.
+(148) Enekwei kamon hokwe,
+hiykwe
+ku ke
+enekwei kamon ho-kwe
+hiy-kwe ku k-e
+time
+one.CL2 GL.M-TOP 3S.M-TOP axe 3S.F-OBJ
+lway nok, sapa mon nak-ey.
+lway nok sapa mon nak-ley
+carry SEQ forest LOC ACC-go
+‘One day, after taking his axe, he went to the forest.’
+Example (149) has two compound nouns: nop-uwr ‘ironwood man’
+and yoh-wueir ‘banana garden’.
+(149) Enekwei kamon hokwe,
+nop-uwr
+hiy
+enekwei kamon ho-kwe
+nop-uwr
+hiy
+time
+one.CL2 GL.M-TOP ironwood-man 3S.M.SUB
+le
+nayr nok, yoh-wueir
+se
+lanio
+le
+nayr nok yoh-wueir
+s-e
+lanio
+come night SEQ banana-garden 3S.M-OBJ walk
+ira nayr.
+lira nayr
+see night
+‘At one time, the man from the ironwood tree (= spirit) came
+and looked around at the banana garden during the night.’
+3.10.1.3 Post-head constituents
+Constituents following the head of the noun phrase include qualifiers,
+numeral/quantifier, object/subject marker, semantic case role markers, and
+topic markers.
+The noun phrases in (146) and (149), as well as most of the NPs in
+(150-153) have been analysed for constituent types in Table 31.","[117, 118, 119, 120, 121, 122]"
+"362(32) Enekwei kamon hokwe,
+uwr prueyn hiykwe
+enekwei kamon ho-kwe
+uwr prueyn hiy-kwe
+GL.M-TOP man one
+3S.M-TOP
+time
+one
+sapa mon ley e
+nan.
+sapa mon ley e
+nan
+forest LOC go PURP think/like
+‘One day a certain man thought (= wanted) to go to the
+forest.’
+(33) Hiykwe
+kiaw lowk meio e
+mon.
+hiy-kwe kiaw lowk meio e
+mon
+work PURP do/plan
+3S.M-TOP drum cut
+‘He planned (= wanted) to make a drum.’
+Goal is expressed by an object complement clause marked by e ‘OBJ’
+preceding any motion verb like ley ‘go’ (34) or hiok ‘paddle’ (35) or
+loway ‘scoop’ (36).
+(34) Enekwei kamon hokwe
+hano
+aio
+hiykwe
+enekwei kamon ho-kwe
+han-o aio
+hiy-kwe
+time
+one
+GL.M-TOP 1S-GEN father 3S.M-TOP
+now lowk e
+ley nayr.
+now lowk e
+ley nayr
+PURP go night
+tree cut
+‘One day my father went out in order to cut down trees while
+it was still dark.’
+(35) Enekwei kamon hokwe
+uwrsa
+lowpwarowp
+enekwei kamon ho-kwe
+uwr-sa
+lowpwarowp
+time
+one
+GL.M-TOP man-woman all
+homkwe
+masi lorowh e
+hiok.
+hom-kwe masi lorowh e
+hiok
+2/3PL-TOP vine dig
+PURP paddle
+‘One day all the people paddled upstream in order dig out
+(poisonous) vines.’363(36) Hokwe
+man
+mokwe
+la e
+loway pa.
+hok-kwe man
+mo-kwe
+la e
+loway pa
+3S.F-TOP crayfish GL.PL-TOP eat PURP scoop NEG.PFTV
+Hokwe
+huk sakeyn
+e
+loway.
+hok-kwe huk sakeyn
+e
+loway
+3S.F-TOP hook throw.in.water PURP scoop
+‘She did not scoop (her net) for crayfish in order to eat them.
+She scooped (her net) in order (to have bait) to throw out
+fishing hooks.’9.4.1 Object complement clauses
+It is possible to modify the head of a noun phrase with an embedded
+clause that consists of an object complement clause plus the verb modified
+by the complement clause. In order to demonstrate this a basic object
+noun phrase is given in (37).
+(37) Hiykwe
+sawk sa-sokruan
+prueyn ke
+lira.
+hiy-kwe sawk sa-sokruan
+prueyn k-e
+lira
+3S.M-TOP CHD woman-young one
+3S.F-OBJ see
+‘He saw a young woman.’
+A noun phrase can be modified by an adjectival clause that marks
+simultaneous or current action (§6.6.5). In (38), the underlined adjectival
+clause hok le ‘3S.F come’ modifies the head of the noun phrase sa-sokruan
+‘young woman’.
+(38) Hiykwe
+sawk sa-sokruan
+prueyn hok le
+hiy-kwe sawk sa-sokruan
+prueyn hok le
+3S.F come
+3S.M-TOP CHD woman-young one
+ke
+lira.
+k-e
+lira
+3S.F-OBJ see
+‘He saw a young woman coming.’
+In (39), the object complement clause hu lows e is embedded within
+the adjectival clause hok le. The complement clause modifies the
+embedded clause for purpose. The noun phrase marker ke continues to
+agree in gender and number with the head of the noun phrase sa-sokruan
+‘woman-young’.","[375, 376, 377]"
+"8.3.1NPs with a noun as headIn Table 52, topicalised noun phrases are divided into seven
+categories based on the NP final marking:297
+TABLE 52: TOPICALISED NPS WITH A NOUN AS HEAD OF THE NPType of NP markingPhrase final marking for NPs
+with a noun as head of the NP
+M. SF.SPL1 General topic pronounhokwekokwemokwe2 Demonstrative topic pronoun
+(proximal)
+Demonstrative topic pronoun
+(distal)ohokweokukweomokwesohokwesokukwesomokwe3 Topic marked subject pronounhiykwehokwehomkwe4 Topic marked object pronounse
+kokweke
+kokweme
+kokwe5 Topic pronoun after postpositional
+phrase (PP)PPPPPPkokwekokwekokwe6 The temporal pokon ‘today future’
+and peyr ‘firstly’ are zero markedZero marking7 NPs with zero marking but
+followed by a distinctive pause,
+separating the NP from the rest of
+the predication (§3.11)Marked by distinctive pauseThe first five types of NPs are placed in a graded order for the degree
+of background status. Noun phrases only marked for pragmatic role
+(category 1 and 2) are likely to occur first within the topic slot of the
+sentence. Topicalised noun phrases marked for syntactic or semantic case
+(category 3, 4, and 5) will normally follow the NPs from the first two
+categories. The last two categories mentioned (6 and 7) do no occur
+frequently but are mentioned for the sake of completeness.
+In general, the noun phrases in category 1 and 2 are higher in
+background status than the noun phrases represented by category 3, 4 and
+5. However, the decisive factor in determining the degree of background
+status is not the marking but the position of the topicalised NP constituent
+within the topic part of the sentence. The closer the constituent is near the
+comment part of the sentence, the more it is removed from background298status. The last topic constituent of the topic part of the sentence is the
+topicalised constituent that immediately precedes the comment part of the
+sentence. This constituent is analysed as the P1 constituent in Dik’s
+formula. In Abau, the P1 constituent is always topicalised, and so are all
+the constituents preceding it, unless they are constituents belonging to
+category 6 and 7. All constituents that precede this P1 constituent are
+analysed as P2 constituents, although – as stated before – the Abau P2
+seems to be too heavily marked to fit Dik’s definition of the P2 or Theme
+constituent.
+8.3.1.1 Category 1 to 5
+As stated before, topicalised noun phrases marked for syntactic or
+semantic case (category 3,4,5) normally follow NPs which are only
+marked pragmatically (category 1 and 2).
+In (2), the temporal NP, pokon kokwe, is only marked pragmatically
+(category 1). It is followed by a NP that is both syntactically and
+pragmatically marked (category 3). These two noun phrases together form
+the topic slot of the sentence.
+P1(cat.3)
+(2) P2(cat.1)
+Pokon kokwe
+hano
+aio
+hiykwe
+pokon ko-we
+han-o aio
+hiy-kwe
+today
+GL.F-TOP 1S-GEN father 3S.M.SUB-TOP
+Commentyeyk
+kamon se
+meio ley.
+yeyk
+kamon s-e
+meio ley
+canoe
+one.CL2 3S.M-OBJ work go
+‘As for today, my father is going to make a canoe.’
+In (3), the expected order is observed: a topicalised NP only marked
+pragmatically is placed before a NP marked pragmatically and
+syntactically. The initial noun phrase is marked by the general masculine
+topic marker, hokwe. The second NP is marked for subject and topic by
+hiykwe.","[310, 311, 312]"
+"6.6.1 Relative clauses preceding the head noun
+Relative clauses preceding the head they modify are normally marked
+by ma preceding the first verb. The relative clause follows SOV order and
+it is important to note that the constituents of the relative clause cannot be
+topicalised. The relative clause functions as a modifier for a head noun
+that can be topicalised, but modifiers themselves (including the relative
+clause as modifier) cannot be topicalised. In the examples below the
+relative clauses are underlined, the head of the NP is bolded and if this NP
+has a syntactic, semantic or pragmatic phrase marker it is bolded as well.
+In (69) the head of the containing NP is yier. The relative clause
+mango-now ma lorok precedes it. This construction, where the relative
+clause precedes the head it modifies, occurs less frequently than the
+construction where the relative clause follows the head it modifies.",[229]
+"382Also the tail should not contain new information as the second clause in
+the construction above clearly does.
+Alternatively, analysing the first clause as a subordinate clause is also
+problematic. This is because the first clause has no final clause marking
+that is comparable to other subordinate clauses, but ends with a VP, like all
+verbal main clauses.
+In spite of their dependence on each other, it is deemed best to treat
+both clauses as main clauses which together express the concept of ‘until’.
+In (75), the first clause occurs with the restrictive manner adverb
+senkinaw to express duration. This time the first clause is not marked by
+the imperfective as in (74), but by the modal marker ey ‘INTN’ which often
+has future reference. The second clause is marked for the perfective.
+Together they express the concept of ‘until’.
+(75) Heyn sohokwe
+hano
+lian mon-aw
+heyn so-ho-kwe
+han-o lian mon-aw
+sin
+DDEM-GL.M-TOP 1S-GEN own LOC-RSTR
+senkinaw
+lwak ey,
+ha lokruè.
+so-enkin-aw
+lwak ey
+ha lokrue
+DDEM-MAN-RSTR be
+INTN 1S die.PFTV
+‘That guilt will continue to be on/with me, until I die.’10. Discourse types
+10.1 General discourse features and
+organisation
+Common features of nearly all oral and written discourses include:
+1. an introduction;
+2. a plot or a theme with its supporting arguments;
+3. a conclusion.
+Many texts also have a final formulaic closing statement, which often
+includes the restrictive manner adverb senkinaw ‘that is all’. For some
+discourse genres the introduction and conclusion can be as short as one
+sentence.
+Discourses are organised either
+a. iconically, mirroring the order of events in the real world; or
+b. thematically around major topics and supporting points.
+Iconically ordered narrative discourses and legends usually have a plot
+(build-up, crisis, resolution) for the main body of the discourse. Other
+discourse genres (descriptive, explanatory, hortatory) have a set of
+supporting points or arguments centred around a macro-theme. Even
+though either time-iconicity or thematicity is the primary organising
+strategy, most discourses manifest elements of both strategies.","[395, 396, 397]"
+"136
+TABLE 36: THE VERB PHRASE STRUCTURE12HEAD Free andbound
+Up to qualifiers
+four
+verbs3
+Reciprocal, temporal and evaluative modifiers
+(mostly in order given below, but not obligatorily)
+Reciprocal
+Time
+participant and
+position interactionEvaluativeExamplesMembersMembers Memberspopriy
+‘correct’huon object moves
+to subjectnayr
+‘night’liok ‘attempt
+(unsuccessfully)’yaprue
+‘good’ne subject moves to
+objectlapay
+‘afternoon’lokruok ‘attempt
+(repeatedly
+unsuccessful)’sowkriy
+‘plenty’ha object moves
+away from subject
+(or subject moves
+away from location
+in intransitive
+constructions)kok
+‘day
+time’lowpway
+hains moves away
+‘completely’ from object
+-leior
+‘deceptive’kow ‘BEN’ (object
+towards recipient)-piapmapiap naruok ‘ANTCP’
+‘badly’
+subject acts in
+expectation of other
+participant
+wayr ‘CON’
+(continuous, subject,
+and possibly object
+remain in same state
+or event)nerie
+‘morning’137In (16), a serial verb construction of four verbs is demonstrated. The
+numbers above the constituents of the verb phrase indicate to what type of
+verb constituent they belong. They refer to the three categories outlined in
+Table 36.
+(16) Hromkwe
+mu
+me
+Hrom-kwe
+mu
+m-e
+1PL.SUB-TOP crocodile PL-OBJ
+1111ley anio okin à.
+ley lanio lokin la
+go walk hit
+eat.PFTV
+‘We went and walked and hit (= killed) and ate crocodiles.’
+Example (17) contains a series of three verbs and a temporal modifier.
+(17) Worim homkwe eypok seyn
+worim hom-kwe eypok seyn
+bat
+2/3PL-TOP day
+HAB
+1113sian
+anio a kok
+pey.
+sian
+lanio la kok
+pey
+get.up walk eat day.time NEG.IPFTV
+‘The bats are not in the habit of flying around to find food
+during the day time.’
+At least one single verb occurs obligatorily in the VP. Qualifiers and
+modifiers can follow optionally.
+(18)1
+2
+3
+Hiy
+saro lowpway
+hain
+nok,
+hiy
+saro lowpway
+hain
+nok
+3S.M.SUB plant completely SUB<OBJ SEQ
+1
+3
+a
+mon ma-ley lapây.
+a
+mon ma-ley lapay
+house LOC RPT-go afternoon. IPFTV
+‘He finished planting everything and left (that place) and then
+was going back to his house in the afternoon.’Modifiers from category three that signal participant interaction, time
+and process evaluation can occur together as is shown in (19).","[149, 150, 151]"
+"443.2.2 Compound nouns
+There are many compound nouns in Abau. They are simply formed by
+noun roots placed in juxtaposition. They can be distinguished from singlemorpheme nouns with the same number of syllables by their intonation
+patterns. For example ompiy ‘skirt (grass)’ is a regular two syllable word,
+but om-pi ‘village-ridge’ is a two syllable compound noun. The pitch
+contrast between the two syllables within the first word is relatively small,
+but very distinct in the compound noun. The second noun of a compound
+noun sequence always carries a very distinct low pitch. This is further
+exemplified by (22), where the pitch on the second noun yok ‘shoot’ is the
+lowest within the utterance. This low pitch is marked with number 3 to
+contrast with the last syllable of other two-syllable words that do not have
+such a low pitch.
+(22) 1
+2
+1
+3
+1
+1 2 1
+Hiy.kwe yoh.yok
+me
+sa.ro pa.
+hiy-kwe yoh-yok
+m-e
+saro pa
+3S.M-TOP banana-shoot PL-OBJ plant NEG.PFTV
+‘He did not plant the banana shoots.’3.2.3 Endocentric noun compounds
+There are four types of semantic relationship encoded by endocentric
+noun compounds in Abau. (The noun compound is called an endocentric
+construction as both constituents are nouns and therefore belong to the
+same word class.) Endocentric compounds encode four types of semantic
+relationship, which are listed below.
+1) Whole-part. The first noun modifies the second noun in a whole-part
+relationship.
+In (23) the compound noun omku-saw ‘banyan tree hole’ represents a
+whole-part relationship.
+(23) Homkwe hreme omkuw-saw
+mon hiy-wayr.
+hom-kwe hrom-e omkuw-saw
+mon hiy-lwayr
+2/3PL-TOP 1PL-OBJ banyan.tree-hole LOC CAUS-stay
+‘They looked after us in a hole of the banyan tree.’
+Other examples where the first noun modifies the second noun in a
+whole-part relationship:45(24) now-ma
+mango-i(lit. tree-leaf)‘leaf of a tree’(lit. mango-fruit)‘fruit of the mango tree’2) Specifier. The first noun modifies the second noun for category, e.g.
+yeyk-yier ‘place to moor canoes’.
+In (25), the initial noun of the compound noun yeyk-yier ‘place to
+moor canoes’ specifies the category of the subsequent noun.
+(25) Sawk omok yeyk-yier
+mon hiy-ey.
+sawk omok yeyk-yier
+mon hiy-ley
+CHD later
+canoe-place LOC CAUS-go
+‘Later they led us to the place where canoes are moored.’
+Other examples where the first noun modifies the second noun for
+category:
+(26) mango-now (lit. mango-tree)
+‘mango tree’
+hoyow-wayh(lit. fun-friend)‘friend one jests with’3) Size. The second noun modifes the first noun for size, e.g. a-ney ‘small
+house’.
+Other examples:
+(27) sa-ney
+huok-waw(lit. woman-child) ‘girl’
+(lit. pig-round)‘round sturdy pig’4) Generic category. Both nouns function equally in the compound to
+express a generic category of entities e.g. uwr-sa ‘people’ (lit. manwoman) and ney-sa ‘family’ (lit. child-woman).
+Other examples where two equal nouns combine to indicate a generic
+category:
+(28) yeik-ompow spear-arrow
+‘weapons’
+sune-ihaleg-hand‘body, or: body parts’In (29), two semantically different compound nouns are listed with
+identical constituents in different order. Ney-sa is literally
+‘child (or: small)-woman’
+and
+sa-ney
+is
+literally
+‘womanchild (or: small)’. The meaning of each compound noun is determined by
+its compound noun type.","[57, 58, 59]"
+"222(83) Hano sa-nawp
+kokwe
+makromawe hiy
+han-o sa-nawp
+ko-kwe makromawe hiy
+3S.M.SUB
+1S-GEN woman-old GL.F-TOP iguana
+kros
+a.
+kros
+la
+tear.apart eat
+‘As for my old woman (= wife), an iguana tore her apart.’
+In (84), the head of the noun phrase sa-nawp ‘woman-old’ is modified
+by an embedded relative clause and is still marked by the same feminine
+topic marker kokwe.
+(84) Hano
+sa-nawp
+onkioh
+ma lousne
+han-o
+sa-nawp
+onkioh
+ma lousne
+woman-old yesterday RCM appear
+1S-GEN
+kokwe,
+makromawe hiy kros
+a.
+ko-kwe makromawe hiy kros
+la
+GL.F-TOP iguana
+3S.M tear.apart eat
+‘As for my old woman (= wife), who returned yesterday, an
+iguana tore her apart.’
+In (85), the embedded relative clause is negated. It is not possible for
+the feminine topic marker kokwe to immediately follow an embedded
+clause that has a negation marker. This is not surprising since the
+imperfective negation marker pa is a clause marker, while the feminine
+topic marker kokwe is a phrase marker. Based on the fact that the relative
+clause marker ma occurs twice within the noun phrase, we need to
+conclude that we have two embedded clauses within the noun phrase. The
+first relative clause marker is part of the relative clause that modifies the
+head of the noun phrase sa-nawp. ‘old woman’ The second relative clause
+marker ma is part of the relative clause ma lwak, which has as its scope
+the NP head plus the negated first relative clause. The feminine topic
+marker kokwe terminates the NP and, as in the other two examples, agrees
+in gender and number with the head of the NP sa-nawp ‘old woman’.
+(85)
+NPhead
+Rel.Cl1
+Hano
+sa-nawp
+onkioh
+ma lousne pa
+han-o sa-nawp
+onkioh
+ma lousne pa
+1S-GEN woman-old yesterday RCM appear NEG.PFTV223
+Rel.Cl2NPmarkerma
+malwak kokwe,
+makromawe hiy kros
+a.
+lwak ko-kwe makromawe hiy kros
+la
+RCM
+be
+GL.F-TOP iguana
+3S.M tear.apart eat
+‘As for my old woman (= wife), who did not return yesterday,
+an iguana tore her apart.’
+In (86), the underlined embedded phrase relativises an ellipted noun
+which is understood as ‘the fact that’. It is possible to negate a relative
+clause that modifies an ellipted noun as is demonstrated in (87). A relative
+clause consisting of the relative clause marker ma and the stative verb
+lwak follows the first embedded relative clause. The second relative
+clause has as its scope the same head plus the first relative clause.
+(86) Hakwe hwon yia ma ley sian
+se
+ha-kwe hwon yia ma ley sian
+s-e
+1S-TOP 2S
+fire RCM go get.up 3S.M-OBJ
+lon hohuaw.
+lon hohuaw
+do angry
+‘I am angry with (the fact) that you lighted the fire.’
+(87)
+Rel.Cl1
+Hakwe hwon yia ma
+ley sian
+pa
+ha-kwe hwon yia ma ley sian
+pa
+fire RCM go get.up NEG.PFTV
+1S-TOP 2S
+Rel.Cl2NPmarkerma
+malwak se
+lon hohuaw.
+lwak s-e
+lon hohuaw
+RCM
+be
+3S.M-OBJ do angry
+‘I am angry with (the fact) that you did not light the fire.’6.6.5 Adjectival clause marking simultaneous or current
+action
+The adjectival clause discussed in this section is similar to the relative
+clause in that the modifying clause appears between the head noun and the
+NP marker which indicates the grammatical function of this head noun.
+However, relative clauses are marked by the relative clause marker ma
+and the adjectival clause discussed in the section does not make use of the224marker ma, which sets this modifying clause apart from the relative
+clause.
+The function of this modifying clause is not to identify a referent, but
+to add extra information to an already identified referent. The verbal
+action expressed in the adjectival clause takes place simultaneously with
+the action of the clause it is embedded in.
+In (88), the clause hyo wayh hiy kan ke lorok ho ‘his friend was
+standing and making a rope’ is an embedded adjectival clause which is not
+marked by the relative clause marker ma. The adjectival clause refers to
+an action that is in progress simultaneously with the action of the main
+clause as indicated by the verb phrase le ira ‘came look’. The object
+marker se agrees in number and gender with the head of the noun phrase
+wayh ‘friend’.
+(88) Hiykwe
+hyo
+wayh hiy kan ke
+hiy-kwe hiy-o
+wayh hiy kan k-e
+3S.M-TOP 3S.M-GEN friend 3S.M band 3S.F-OBJ
+lorok ho
+se
+le
+ira,
+lorok ho
+s-e
+le
+lira
+stand twist.around 3S.M-OBJ come see
+popo-meyk mon.
+popo-meyk mon
+papaya-root LOC
+‘He came and saw his friend, who was standing and twisting a
+ring rope (= used for climbing coconuts) at the base of a
+papaya tree.’
+In (89), the adjectival clause hiy naksaw ‘which was grunting’ is also
+formed without the relative clause marker ma. The clause is therefore
+analysed as indicating simultaneity in the actions of the main clause and
+the adjectival clause.
+(89) Peypey pa,
+hromkwe huok hiy
+naksaw
+peypey pa
+hrom-kwe huok hiy
+nak-saw
+pig
+3S.M.SUB ACC-grunt
+to.last NEG.PFTV 1PL-TOP
+se
+lonuayk.
+s-e
+lonuayk
+3S.M-OBJ hear
+‘It did not last long and we heard the grunting pig.’225In (89) above, the hearing and the grunting of the pig take place
+simultaneously. When the relative clause marker ma is used in the
+embedded clause simultaneity is no longer implied as is demonstrated in
+(90).
+(90) Peypey pa,
+hromkwe huok hiy ma
+peypey pa
+hrom-kwe huok hiy ma
+to.last NEG.PFTV 1PL-TOP
+pig
+3S.M RCM
+nak-saw
+se
+lira.
+nak-saw
+s-e
+lira
+ACC-grunt 3S.M-OBJ see
+‘It did not last long and we saw the pig which had grunted.’6.6.6 Relative clauses modifying the comment
+constituent of a verbless clause
+The comment constituent of a verbless clause can be modified with a
+relative clause. It requires the use of the comitative postposition non
+preceded by a syntactic NP marker. In order to understand this somewhat
+complex construction, it is helpful to look at some examples that do not
+contain relative clauses but that display a similar noun phrase marking.
+As stated before most verbless clauses can be divided into a topic part
+of often one, but possibly more topicalised constituents; and a comment
+part which is basically a non-topicalised constituent which supplies a
+comment on the most important topic constituent (See examples (1)-(4),
+(6) and §6.2).
+It is possible, though, to state only the comment, which means that the
+verbless clause has no expressed topicalised constituent, but only a nontopicalised constituent. This often happens for titles of stories, or for short
+headings that specify only the subject that will be discussed. The basic
+construction of these type of clauses is as follows:
+A noun word followed by a syntactic subject NP marker which is
+marked by the comitative non. The syntactic marker loses it subject force
+since it is marked by the postposition non.
+In (91), the entire clause is analysed as the comment part. Therefore,
+by definition, the NP marker hom ‘2/3PL’ is not topicalised. The NP marker
+marks the head noun for number.","[235, 236, 237, 238, 239]"
+"TABLE 53: SYNTACTIC MARKING AND TOPIC-MARKING ON PERSONAL PRONOUNSType of NPSubjectSubject and TopicTopicHead of NP is nounuwr hiy
+man 3S.SUBuwr hiykwe
+man 3S.SUB.TOPuwr hokwe
+man 3S.TOPHead of NP is
+personal pronounhiy
+3S.SUBhiykwe
+3S.TOP*Topicalised NPs that have a subject personal pronoun as head will
+always be given agent function within the sentence. However, a number307of examples have been observed in which the same personal pronoun
+occurs twice within the sentence. It seems that the first occurrence of the
+personal pronoun focuses on the topic function of the referred-to
+participant, while the second occurrence of the same personal pronoun
+focuses on the subject function of the referred-to participant.
+In (16), the noun phrase hunkwe occurs twice. The first hunkwe occurs
+before the topicalised noun phrase marked by mokwe. Although its
+marking already sets the NP apart for agent function, it still seems that the
+topic status rather than the agent function of the personal pronoun is in
+focus. It is therefore marked as a P2 constituent. The second hunkwe is the
+last topicalised constituent before the comment part of the sentence and is
+therefore analysed as a P1 constituent. Its subject function is central here.
+(16)
+P2
+P2
+Hai, hunkwe
+hano
+i-mawk
+mokwe,
+hai hwon-kwe han-o i-mawk
+mo-kwe
+1S-GEN bone-head GL.PL-TOP
+O.K. 2S-TOP
+P1=Shunkwe
+liy le
+ira o?
+hwon-kwe liy le
+lira o
+2S.SUB-TOP DYN come see Q.SP.IPFTV
+‘As for my skull, can you come and check it?’ (Lit. ‘As for
+you, as for my skull, can you come and check it?’)
+In (17), the NP preceding the temporal relative clause, hiykwe ‘he’ is
+topic-marked, and is therefore a separate sentential constituent in the P2
+position. The relative clause skul me ma lanio ira hokwe is also a P2
+sentential constituent. The second hiykwe is a P1 constituent with subject
+function within the main clause.
+P2
+(17) P2
+Hiykwe skul
+me
+ma lanio ira hokwe,
+hiy-kwe skul
+m-e
+ma lanio lira ho-kwe
+3S.M-TOP school PL-OBJ RCM walk see GL.M-TOP
+P1=SCommenthiykwe
+ihey
+mo
+youk
+non
+hiy-kwe
+ihey
+m-o
+youk
+non
+3S.M.SUB-TOP white.man PL-GEN paddle CMT308nak-hiok-keyn
+ira.
+nak-hiok-keyn
+lira
+ACC-paddle-in.the.water see
+‘When he was going around visiting the schools, he did the
+visiting with an outboard motor (lit. white man’s paddle).’
+In (18), the first hiykwe ‘3S.M-TOP’ occurs as a P2 constituent. It is
+followed by a NP modified by a relative clause marked by sokukwe. The
+second hiykwe ‘3S.M-TOP’ is a P1 constituent with clear subject function.
+(18) P2
+P2
+Hiykwe sawk sah-nawp hok
+hyo
+owh
+hiy-kwe sawk sah-nawp hok
+hiy-o
+owh
+3S.M-TOP CHD wife-old 3S.F.SUB 3S.M-GEN body
+P1=Smon ma
+mon maar-nuw-sawan
+sokukwe,
+hiykwe
+ar-nuw-sawan
+so-ko-kwe
+hiy-kwe
+LOC RCM DIR:up-INT-hang DDEM-GL.F-TOP 3S.M-TOP
+sawk preiryay hakan.
+sawk preiryay hakan
+CHD startled
+flee
+(Context: a frightened wife falls on her husband in the middle
+of the night) ‘As for him, in regard to his wife hanging on to
+his body, he got startled and fled.’8.4The comment part of the sentenceThe comment component of the sentence is marked by the obligatory
+absence of the topic marker -kwe. The comment part is preceded by the
+topic part of the sentence. The break between the topic component and the
+comment component of the sentence is in nearly all cases marked by the
+last constituent of the topic slot that hosts the constituent-final topic
+marker -kwe.
+Nearly all sentences occur with a topic and a comment part, but only
+the latter is obligatory, as can be seen in (19). The example is taken from a
+story in which a group of people cut trees in the forest until disaster hits.
+Neither object NP nor the subject NP are topicalised; both belong to the
+comment part of the sentence. It is very unusual to have a non-topicalised
+NP object in a clause with OSV order. It is generally regarded as incorrect
+grammar (see §6.5.1) but might be permitted here because it forms the309climax of the story. The speaker treats both noun phrases as new
+information, and no topic markers are used.
+OBJ
+SUB
+VP
+(19)
+Sawk uwr prueyn se
+now hiy yay
+sawk uwr prueyn s-e
+now hiy lyay
+CHD man one
+3S.M-OBJ tree 3S.M place.down
+kane
+kawk.
+kane
+kawk
+break.off put
+‘A tree came down on a certain man, breaking (his back).’
+The following table shows the various parts of the comment part of
+the predication.
+TABLE 54: CONSTITUENTS IN THE COMMENT PART OF THE PREDICATIONConstituentsAbbr.","[320, 321, 322, 323]"
+"Data Papers on Papua New Guinea Languages:
+Volumes 1–57
+Paper copies of the Data Papers can be ordered from lr-acpub@sil.org.pg, but
+volumes marked with * are out of print. Most of these materials are now available
+online at the following address:
+http://www.sil.org/pacific/png/index.asp (Volumes 1-31 were titled
+Workpapers in Papua New Guinea Languages.)Volume YearTitle of Volume, Languages, and Authors*11973*21973*31974*41974*5
+*61974
+1974*71974*8
+*9
+*101974
+1975
+1976*111975Three Studies in Sentence Structure (Maring by L. B.
+Woodward; Abulas by Patricia R. Wilson; Au by David
+Scorza)
+Phonologies of Three Languages of PNG (Biangai by
+Raymond and Marjorie Dubert; Nii by Al and Dellene
+Stucky; Yessan-Mayo by Velma Foreman and Helen
+Marten)
+Three Studies in Languages of Eastern Papua (Korafe by
+Jim and Cindi Farr; Louisiade Achipelago by Jim and Anne
+Henderson; Iduna by Joyce Huckett)
+Phonologies of Four PNG Languages (Baining by Jim and
+Diana Parker; Urii by Tom Webb; Boiken by Allen and
+Marlene Freudenberg; Dadibi by George and Georgetta
+MacDonald)
+Golin Grammar by Gordon Bunn
+Grammatical Studies in Three Languages of PNG (Washkuk
+by Orneal Kooyers; Agarabi by Jean Goddard; Kobon by
+Marcus and May Dawson)
+Studies in Languages of the Ok Family (Mianmin by Jean
+Smith and Pam Weston; Faiwol by Charlotte Mecklenburg;
+Telefol by Alan Healy)
+Suena Grammar by Darryl Wilson
+Abau Language Phonology and Grammar by D. A. Bailey
+Higher Level Studies of Two Related Highlands Languages
+(Agarabi by Jean Goddard; Gadsup by Chester Frantz)
+Studies on Literacy and Education (PNG Language and
+Literature Directory by Joice Franklin; Bilingual Education
+by Joy McCarthy; Language Learning Games by Rosemary
+Young)479480
+*121975*131975141975151976*16197617197618197619197720197721
+*221977
+1977231978Papers in Five Austronesian Languages (Kiriwina Idioms
+by John C. Noel; Tolai Comments by Karl J. Franklin; Dobu
+Text Analysis by David Lithgow; Banoni Orthography by
+Peter C. Lincoln; Iamalele Clauses by John and Margaret
+Beaumont)
+Phonologies of Five Austronesian Languages (Tinputz by
+Roman and Carolyn Hostetler; Petats by Jerry Allen and
+Matthew Beaso; Patep by Karen Adams and Linda Lauck;
+Kela by Ken and Margaret Collier; Sursurunga by Don and
+Sharon Hutchisson)
+Comparative Wordlists 1. (Gulf District by Karl J. Franklin
+and John Z’graggen; Admiralty Islands by W. E. Smythe
+and John Z’graggen)
+Grammatical Studies (Suena by Darryl Wilson; Iduna by
+Joyce Huckett)
+Surveys in Five PNG Languages (Eastern Trans Fly by
+Lillian Fleischmann and Sinikka Turpeinen; Ambulas by
+Patricia Wilson; Boiken by Allen Freudenberg; Schraeder
+Ranges by John Tonson; English-Wasembo Vocabulary by
+Kenneth McElhanon and Sigkepe Sogum)
+Grammatical Studies in Patep by Linda M. Lauck and
+Karen L. Adams
+Student Research Papers in Literacy and Education (articles
+by Yvonne Genat, Bruce A. Hooley, Gay Brown and
+Chester S. Street)
+Phonologies of Five PNG Languages (Orokaiva by Robert
+and Marlys Larsen; Yil by Mary Martens and Salme
+Tuominen; Ningil by Margaret Manning and Naomi
+Saggers; Dobu by Daphne Lithgow; Samo by R. Daniel and
+Karen A. Shaw)
+Proceedings of the SIL Consultants Seminar, Ukarumpa
+1976 (25 short articles)
+Language Variation and Survey Techniques (16 articles)
+Miscellaneous Papers in PNG Linguistics (Mianim by Jean
+Smith and Pam Weston; Selepet by Ken McElhanon;
+Oksapmin by Marshall Lawrence; Bine by Lillian
+Fleischmann and Sinikka Turpeinen)
+Grammatical Studies in Kunimaipa Morphophonemics to
+Discourse by Elaine Geary481
+*241978251979*26
+271980
+198028198029198130198231198532
+331987
+198734
+35
+361986
+1989
+1989Language Planning and Grammatical Typologies by Robert
+Litteral, Robert J. Conrad and Elizabeth Murane
+Miscellaneous Papers on Dobu and Arapesh (articles by
+David Lithgow, Robert J. Conrad and Joshua Lukas)
+Ambulas Grammar by Patricia R. Wilson
+Grammatical Studies (Fasu by Eunice Loeweke and Jean
+May; Mt Koiali by Susan Garland)
+Reports of Vernacular Literacy Programs, edited by Mary
+Stringer and Joice Franklin
+Sociolinguistic Surveys of Sepik Languages (Wom by Barry
+and Bonnie Moeckel; Kombio by Nate and Judi Baker;
+Mehek and Siliput by Robert D. Bugenhagen; Heyo, Pahi
+and Mayo Pasi by Ian Hutchinson; Beli, Yahang and Laeko
+Limgaut by Gregory Cooper; Namie by Ronald and Doris
+Jane Pappenhagen; Busa and Nagatman by Glenn Graham,
+Pagi and Kilmeri by Robert Brown; Abau by William H.
+Martin III)
+Orokaiva Language Lessons and Grammar Notes by Robert
+and Marlys Larsen
+Five Phonological Studies (Maiani, Miani, Mala and Maia
+by Jean May and Eunice Loeweke; Burum by Soini
+Olkkonen; Hewa by Paul W. Vollrath; Saniyo Hiyewe by
+Jenny Hepburn; Urim by Pirkko Luoma)
+Halia Grammar by Jerry and Jan Allen
+Studies in Melanesian Orthographies, edited by John M.
+Clifton (Kope by John M. Clifton; Mufian by Robert and Jo
+Ann Conrad, Gahuku by Ellis W. Deibler; Kire by David
+Pryor; Angave by Richard Speece; Karkar Yuri by Dorothy
+Price; Kamasau by Arden and Joy Sanders, Orthography
+Issues in New Caledonia by Stephen J. Schooling; Practical
+Spelling by David and Daphne Lithgow; Madak by Robert
+Lee; Patep by Linda Lauck Vissering)
+Manam Teaching Grammar by Blaine Turner
+Bound and Minor Words in Baruya by Richard Lloyd
+Studies in Componential Analysis, edited by Karl Franklin
+(Kalo by Ali Laeka; Dobu by Gail Edoni; Kara by Ginny
+Schlie; Mauwake by Kwan Poh San; Miniafia by David C.
+Wakefield; Kara by Perry Schlie; Folopa by Neil Anderson)482
+371989381991391992401993411994*421996431998*441999*452000*462000Two Grammatical Studies, edited by John R. Roberts
+(Tungak by Lesley Fast; Nend by Kyle Harris)
+Reference Grammar of the Karo/Rawa Language by Norma
+R. and Donald F. Toland
+Namia and Amanab Grammar Essentials, edited by John R.
+Roberts (Namia by Tom and Becky Feldpausch; Amanab by
+Andy Minch)
+Phonologies of Austronesian Languages No.2, edited by
+John M. Clifton (Misiman by Bill Callister; Sio by Dawn
+Soetenga Clark; Mengen by Daniel D. Rath; Kara by Perry
+and Ginny Schlie; Patep by Linda Lauck Vissering)
+Phonology and Grammar of Nankina by Craig and Pat
+Spaulding
+Two Non-Austronesian Grammars from the Islands, edited
+by John M. Clifton (Kuot by Chul-Hwa Chung and KyungJa Chung; Sulka by Doug Tharp)
+Orthography and Phonology Database: Islands and
+Momase Regions, compiled by Ritva Hemmilä (Ambulas,
+Amele, Boiken, Botn, Buin, Bukawa, Bukiyip, Central
+Buang, Gende, Guhu Samane, Halia, Kalam, Kobon, Kube,
+Kunimaipa, Kwanga, Lote, Manam, Menya, Mufian, Nahu,
+Nehan, Oksapmin, Olo, Patpatar, Ramoaaina, Selepet,
+Sissano, Sursurunga, Timbe, Tolai, Tungag, Urat, Vitu,
+Wantoat, Waskia, Yupna)
+Orthography and Phonology Database: Highlands and
+Papuan Regions, compiled by Ritva Hemmilä (Agarabi,
+Alekano, Chuave, Dadibi, Dobu, Enga, Ewage, Folopa,
+Fore, Fuyuge, Gadsup, Gimi, Golin, Huli, Kafe, KamanoKafe, Kanite, Kapau, Kewa, Kiriwina, Kiwai, Koriki,
+Kuman, Managalasi, Maring, Mekeo, Melpa, Misima, Motu,
+Narak, Nii, Orokaiva, Orokolo, Pawaia, Siane, Sinaugoro,
+Tairora, Tawala, Toaripi, Umbu-Ungu, Upper Asaro,
+Wahgi, Wiru, Yagaria)
+Sociolinguistics and Literacy Studies: Highlands and
+Islands, edited by John Brownie (Lembena by Paul
+Heineman; Pinai-Hagahai by Markus Melliger; Bariai by
+Steve and Carol Jean Gallagher)
+Sociolinguistics and Literacy Studies: South-West, Sepik and
+Morobe, edited by John Brownie (Kaluli by Andy and
+Sylvia Grosh; Konai by Sören and Britten Årsjö; Pouye by
+Steve Ferree; Hote by John and Amy Lindstrom)483
+47200548200549200550
+512005
+200652
+53
+542007
+2007
+200855200856
+572009
+2011Phonological Descriptions of PNG Languages, edited by
+Steve Parker (Baruga [Tafota] by James and Cynthia Farr;
+Kuman by Daryl and Mary Pfantz; Mato by Scot and Cherie
+Stober; North Wahgi [Yu We] by Don and Heather Mc
+Clean, Sam [Songum, Songumsam] by Dave and Sarah
+Troolin; Seimat [Ninigo] by Theresa Wilson and Beata
+Wozna; Kaluli by Sylvia and Andy Grosh; Koluwawa by
+Brad and Toni Guderian; Wuvulu-Aua by James A. Hafford;
+Arop-Lokepby Jeff D’Jernes and Mary Raymond; Gizrra by
+Nico and Elly van Bodegraven; Konai [Kalai] by Sören and
+Britten Årsjö; Migabac by Steve McEvoy; Pinai-Hagahai
+by Markus Melliger)
+Seimat Grammar Essentials by Beata Wozna and Theresa
+Wilson
+Bariai Grammar Sketch by Steve Gallagher and Peirce
+Baehr
+Siar-Lak Grammar Essentials by Karen Rowe
+Vitu Grammar Sketch by René van den Berg and Peter
+Bachet
+Mussau Grammar Essentials by John and Marjo Brownie
+Fuyug Grammar Sketch by Robert L. Bradshaw
+Lote Grammar Sketch by Greg Pearson with René van den
+Berg
+Kwomtari Phonology and Grammar Essentials, edited by
+Murray Honsberger, Carol Honsberger and Ian Tupper
+(Phonology Essentials of Kwomtari by Julia Drew;
+Kwomtari Grammar Essentials by Katharine Spencer)
+Iyo Grammar Sketch by Paul Minter
+Abau Grammar by Arnold (Arjen) Hugo Lock","[492, 493, 494, 495, 496, 497]"
+"134(13) Hoh
+hoh
+3DU
+mon
+monnaw non-mayr lowpway
+nok nok, yier
+naw non-mayr lowpway
+nok nok yier
+sago DU-scrape completely DUR SEQ place
+ma-non-nak-nekiok nok lopay.
+ma-non-nak-nekiok nok lopay
+LOC RPT-DU-ACC-crawl
+DUR afternoon
+‘The two of them finished scraping sago and then they went
+slowly back together (with sago) to the village in the
+afternoon.’Up to four verbal prefixes can co-occur as (14) illustrates.
+(14) Hiykwe
+sawk sehe
+hiy-kwe
+sawk so-h-e
+3S.M.SUB-TOP CHD DDEM-3S.M-OBJ
+ma-kiy-nuw-nak-weyrweyr.
+ma-kiy-nuw-nak-weyrweyr
+RPT-ACT-INT-ACC-scream
+‘And so he really screamed again then with a reason.’
+(nak- indicates that the screaming was accompanied by
+something - in this case ‘fear’)
+Directional prefixes do not co-occur with each other, but a directional
+prefix can co-occur with manner prefixes, as in (15), where the directional
+prefix am- ‘near’ co-occurs with the modal prefixes saw- ‘SPD’ and nak‘ACC’.
+(15) Sa
+kior hok
+hu
+mon
+sa
+kior hok
+hu
+mon
+then/and frog 3S.F.SUB water LOC
+am-saw-nak-owr
+swakeyn
+am-saw-nak-lowr
+swakeyn
+DIR:near-SPD-ACC-step move.into.the.water
+nok, nak-heyh kuan.
+nok nak-heyh kuan
+DUR ACC-swim cross.water
+‘And the frog jumped from nearby quickly into the water with
+something (nak- indicates that the swimming was done with
+something; here: a burning stick) and then crossed the water
+with it.’1354.3The structure of the verb phraseThe Abau verb phrase consists of members that come from three
+distinct constituent categories. The only nuclear constituent is a minimum
+of one verb from the first constituent category. Up to four verbs from this
+category have been observed to co-occur within the verb phrase. The
+second category consists of general qualifiers that qualify the verb for
+quality or quantity. They cannot occur by themselves within the verb
+phrase. The third category consists of a variety of modifiers that deal with
+the three subcategories of participant interaction, time and appraisal of
+process. The three subcategories can all be represented in a single verb
+phrase and mostly in the order given, though exceptions to this ordering
+have been observed.
+As stated before, the perfective and imperfective are marked by
+intonation contour. The basic contrast is the pitch over the final syllable of
+the verb phrase. A large number of verb phrases only consist of members
+of category one, but many verb phrases will also host members of
+category two and three. The last constituent of the verb phrase is marked
+for perfective or imperfective. This is not true when speech markers and
+negation markers are added to the sentence. These markers are not part of
+the verb phrase, but they (rather than the verb final constituent)
+distinguish between perfective and imperfective (see §7.3 and §7.4).
+Table 36 shows the three categories of constituent members along
+with a number of examples. It should be noted that the lists of words
+under the three subcategories of the third group are exhaustive. The
+examples under the second category however, are part of a much larger
+group with many members.
+The three categories in Table 36 can be labeled as follows: category 1:
+one or more verbs; category 2: qualifying adverbial modifiers; category 3:
+reciprocal, temporal and evaluative modifiers.","[147, 148, 149]"
+"6.6.2 Relative clauses following the head noun
+In most cases the relative clause follows, rather than precedes, the NP
+head it modifies. The relative clause comes between the head noun and
+the NP marker or postposition which indicates the grammatical function of
+the head.
+The order of the relative clause and the head of the NP in example (69)
+is reversed in (73) where the relative clause follows the head of the NP it
+modifies. The relativiser in these constructions is also ma, and, as in all
+relative clauses, none of the constituents of the relative clause can be
+topicalised. The relative clause functions as an embedded modifier clause
+within the NP, which has its own NP marking. In the examples below the
+relative clause is underlined, the head of the NP is bolded and if this NP
+has a syntactic, semantic or pragmatic phrase marker it is bolded as well.
+(73) Hoh sa
+sehe
+non-ey, yier
+hoh sa
+so-h-e
+non-ley yier
+2/3DU then/and DDEM-3S.M-OBJ DU-go place
+mango-now ma lorok mon.
+mango-now ma lorok mon
+mango-tree RCM stand LOC
+‘So the two of them went together to the place where the
+mango trees were.’
+The postposed relative clause functions as a constituent modifying a
+NP. The NP can be topicalised, but as stated before, the relative clause that
+functions as a modifier cannot. In (74), the modified NP is marked by the
+NP final marker seme ‘DDEM.OBJ.PL’. This marker agrees in number with
+the head of the NP now-i ‘tree fruit’ it modifies.",[231]
+"476Himmelmann, Nikolaus P. 2001. Articles. In Martin Haspelmath,
+Ekkehard König, Wulf Oesterreicher, and Wolfgang Raible, eds.
+Language typology and language universals: an international
+handbook, 831-841. Berlin: Walter de Gruyter.
+Hopper, Paul J. and Sandra A. Thompson. 1980. Transitivity in grammar
+and discourse. Language 56: 251-329.
+James, Deborah. 1982. Past tense and the hypothetical: a cross-linguistic
+study. Studies in Language 6:375-403.
+Keenan, Edward L. 1985. Relative clauses. In Shopen II:141-170.
+Laycock, Donald C. 1965a. The Ndu language family (Sepik District, New
+Guinea). Canberra: Australian National University.
+Laycock, Donald C. 1965b. Three Upper Sepik phonologies. Oceanic
+Linguistics 4: 113-118.
+Laycock, Donald C. 1972. “Looking westward: work of the Australian
+National University on languages of West Irian.” Irian 1(2): 6877.
+Laycock, Donald C. 1973. Sepik languages - checklist and preliminary
+classification. Canberra: Australian National University.
+Laycock, Donald C. 1975. Observations on number systems and
+semantics. In Wurm, ed. 219-233.
+Laycock, Donald C and John Z’graggen. 1975. The Sepik-Ramu phylum.
+In Wurm, ed. 731-763.
+Lewis, M. Paul, ed. 2009. Ethnologue: Languages of the world. 16th
+edition. Dallas: SIL International.
+Lock, Arjen. 1986. Abau grammar essentials. SIL Ukarumpa:
+Unpublished ms.","[489, 490]"
+"3.6 Pragmatic NP markers with and without
+demonstrative force
+The next four sections will deal with all the NP final markers. They are
+presented in order.
+Section §3.6 deals with all the NP markers that occur NP finally which
+are marked pragmatically but not syntactically. Table 23 gives an
+overview of all possible non-syntactic pragmatic NP markers with and
+without demonstrative force.
+Sections §3.7 and §3.8 deal with all the NP markers that give the NP
+syntactic function. For a summary overview of all syntactic NP markers
+including syntactic demonstrative markers, see Table 28.
+Section §3.9 deals with the markers for postpositional phrases. An
+overview of all postpositions is found in Table 29.",[89]
+"315In (30) above, the tail position is used for a participant that has been
+introduced already and can be deduced from the context. The speaker
+nevertheless adds the participant in the tail of the predication to rule out
+any confusion.
+Example (33) illustrates a similar point. One can delete the tail
+without causing the sentence to be grammatically incorrect. The semantic
+domain of the verb lwawk ‘step into’ anticipates an object that has sides.
+This verb is frequently used with the noun yeyk ‘canoe’. In spite of the
+fact that the listener can be expected to supply the location yeyk ‘canoe’,
+the speaker still adds the information to rule out confusion.
+(33) Sawk nyo-ar hiy lwawk
+pa,
+sa
+sawk nyo-ar
+hiy lwawk
+pa
+sa
+CHD lad-INTF 3S.M step.into NEG.PFTV then/and
+P3poup hiy lwawk, yeyk sohokwe.
+poup hiy lwawk
+yeyk so-ho-kwe
+spirit 3S.M step.into canoe DDEM-GL.M-TOP
+‘The real (= human) lad did not step in, but the spirit did - in
+regard to that canoe.’
+In (34), a temporal NP occurs in the tail position. It is different from
+example (33), where the information in the tail completes the thought
+expressed in the main clause. In (34), the tail contains additional
+information. Its absence would not lead to miscommunication, since the
+main information preceding the P3 constituent is complete in itself. By
+placing the additional information in the tail, the speaker keeps the central
+information in the main clause concise and together.
+P1
+Comment
+(34) P2
+Hakwe hnekwe
+skul
+mon hiy-ey
+ha-kwe hwon-e-kwe skul
+mon hiy-ley
+1S-TOP 2S-OBJ-TOP school
+LOC CAUS-go
+P3ey,
+eypokon-enekwei hokwe.
+pokon-enekwei ho-kwe
+INTN today-time
+GL.M-TOP
+‘I will bring you to school, today.’
+It is relatively rare for the tail position not to be topicalised. The
+pragmatic topic marker consigns background status to the topicalised316constituent. If the tail occurs without a topic marker, the status of the
+constituent changes and it starts to have the capacity to mark new
+information. Compare the following two examples:
+Example (35) is part of a dialogue between two sisters. The tail could
+have been deleted, as the listener only needed to keep track of two
+participants.
+(35) Pway-ih
+hokwe
+sawk ok piap ok
+pway-ih
+hok-kwe sawk ok piap ok
+older.sister-KIN 3S.F-TOP CHD talk bad talk
+P3sokwe
+nak-me,
+nay-ih
+so-k-e
+nak-me
+nay-ih
+DDEM-3S.F-OBJ ACC-speak younger.sibling-KIN
+ke
+kokwe.
+k-e
+ko-kwe
+3S.F-OBJ GL.F-TOP
+‘(Consequently) the older sister spoke bad words, to her
+younger sister.’
+In (36), the NP in tail position is not topic-marked and should
+therefore not be treated as background information. Without the
+information expressed in the tail, the listener could not have deduced with
+certainty the identity of the recipient that kow ‘benefactive’ anticipated.
+(36) Hiykwe
+hyo
+swawruh
+se
+hiy-kwe hiy-o
+swawr-ih
+s-e
+3S.M-TOP 3S.M-GEN brother.in.law-KIN 3S.M-OBJ
+mesopok, hyo
+huok kreysyar
+ke
+me-sopok hiy-o
+huok kreys-ar
+k-e
+speak-ask 3S.M-GEN pig
+two.CL2-INTF 3S.F-OBJ
+P3me
+kow e, hye.
+me
+kow e
+hiy-e
+speak BEN OBJ 3S.M-OBJ
+‘He asked his brother-in-law to give his two pigs, to him.’8.5.1 Clauses in tail position
+Although rare, a subordinate clause can be placed in tail position.
+These clauses contain given information or information that can be easily317accessed by deduction. These clauses can be deleted without affecting the
+grammatical correctness or intonation of the main clause.
+The following two examples have been taken from the story “The two
+brothers” (§11.1.1). In (37), a subordinate clause with ankin is placed in
+tail position. As the context of the story is the shooting of over-flying
+birds, the contents of the clause in P3 position can be deduced by the
+listener.
+(37) Ara
+pokon yaprue non-aw
+hin
+e,
+ara
+pokon yaprue non-aw
+hin
+e
+ADDR.M today good
+CMT-RSTR shoot OBJ.IMP
+P3ahney sian
+ne
+ankin.
+ahney sian
+ne
+ankin
+bird
+get.up SUB>OBJ if/when
+‘Man, you should only shoot your very best, when a bird flies
+near.’
+A noun phrase that contains a relative clause can also occur in tail
+position. In (38), the relative clause (bolded) modifies the head of the
+noun phrase now ‘tree’.
+(38) Hom wueir se
+lousne menkin,
+hom wueir s-e
+lousne menkin
+2/3PL garden 3S.M-OBJ appear when
+nay-ih
+hiy sa
+oryay-ih
+nay-ih
+hiy sa
+oryay-ih
+younger.sibling-KIN 3S.M then/and older.brother-KIN
+P3se
+sehe
+mesair kow, now aiopey
+s-e
+so-h-e
+mesair kow now aiopey
+3S.M-OBJ DDEM-3S.M-OBJ show BEN tree big
+wueir ompok mon ma lorok se.
+wueir ompok mon ma lorok s-e
+garden middle LOC RCM stand 3S.M-OBJ
+‘When they arrived in the garden, the younger brother
+consequently showed the older brother - the large tree
+standing in the middle of the garden.’318Examples (37) and (39) are taken from the same story about two bird
+hunters. In (39), the NP in tail position ahney senkin senkin ‘all kinds of
+birds’ is modified by the bolded relative clause. The P3 constituent (as all
+P3 constituents) can be deleted without loss of grammatical correctness.
+The object noun phrase in the P3 slot is not present in the main clause.
+However, the referent ahney ‘birds’ is signalled in the main clause by
+huon ‘OBJ moves to SUB’. The listener can deduce the arrival of the birds
+from the context, but the added tail constituent completes the information
+and rules out ambiguity.
+(39) Hoh non-ie
+yawriy iwak liok
+menkin, sa
+hoh non-lie
+lyawriy liwak liok
+menkin sa
+sit
+in.vain when
+then/and
+2DU DU-climb enter
+P3mei-aw
+ka-ira
+huon,
+ahney senkin
+mei-aw
+ka-lira
+huon
+ahney so-enkin
+DDEM-MAN
+long-RSTR DIR:side-see OBJ>SUB bird
+senkin
+hom lon-sian on-sian
+ne
+me.
+so-enkin
+hom lon-sian lon-sian ne
+m-e
+DDEM-MAN 2/3PL do-get.up do.get.up SUB>OBJ PL-OBJ
+‘When they had hardly climbed up and had entered and sat (in
+their shelter), they saw (them) from far away, all kinds of
+birds flying and coming towards them.’8.5.2 Tail constituents in clauses with transitive verbs
+Instead of occurring as clauses embedded in the main clause, cause
+and reason clauses are often extraposed from the main clause to P3, the
+tail position in the sentence.
+These cause and reason constructions are primarily encoded by
+clauses that look like headless relative clauses (see §6.6.3). The tail
+constituents are terminated by a demonstrative marked for either subject
+or object. A subject demonstrative in final P3 position indicates cause, an
+object demonstrative indicates reason. Both reason and cause P3
+constructions are preceded by an adverbial causal demonstrative in the
+main clause.
+These reason and cause clauses in the tail position have the following
+features:319a. The normal relative clause features: no internal topic marking on
+any of the constituents; the use of the relativiser ma preceding the
+verb phrase.
+b. Tail final marking consists of a demonstrative marker that is
+either marked for subject (cause) or object (reason).
+c. The tail construction makes the goal or cause explicit that the
+adverbial causal demonstrative (§4.4.3) in the main clause already
+referred to.
+In (40), the P3-final demonstrative marker sokwe signals object and
+therefore the tail functions as a reason clause. The main clause contains the
+adverbial causal demonstrative sokwe which expresses a causal relationship
+between this main clause and what went before in the previous sentence, or
+wider previous context. By adding the optional P3 constituent, the speaker
+makes the reason for the laughter explicit.
+(40) Man
+hokwe
+sawk mowkwar ke
+man
+ho-kwe
+sawk mowkwar k-e
+3S.F-OBJ
+crayfish GL.M-TOP CHD turtle
+P3sokwe
+nuw-kweyr kow, hok
+piaparaw
+so-k-e
+nuw-kweyr kow hok
+piaparaw
+DDEM-3S.F-OBJ INT-laugh
+BEN 3S.F.SUB bad
+ma nokriy keyn
+sokwe.
+ma nokriy keyn
+so-k-e
+RCM roll
+in.the.water DDEM-3S.F-OBJ
+‘So the crayfish laughed at the turtle, because she had rolled
+into the water.’
+The only difference between (40) and (41) is the final marking on the
+P3 constituent. In (41), the clause-final demonstrative sohok signals
+subject, and therefore the tail functions as a causal clause. The difference
+is reflected in the alternative translation of these two examples. Like in
+(40), the tail position is only added to avoid ambiguity, not to give totally
+new information.","[328, 329, 330, 331, 332, 333]"
+"287(139) “Hunkwe wueir-aiai
+pankaw
+hiy-a
+hwon-kwe wueir-aiai
+po-ankaw
+hiy-la
+garden-food Q-to.what.extent CAUS-eat
+2S-TOP
+kôk?”
+“Ha po hiy-a
+kôk.”
+kok
+ha
+po hiy-la
+kok
+day.time. IPFTV 1S
+PFT CAUS-eat day.time. IPFTV
+‘“Did you provide (the people) with food during the day?”
+“(Yes), I provided them with food during the day.”’
+3. Use of measurement and polar questions in verbless clausesVerbless clauses do differentiate between measurement and polar
+questions in spite of the fact that verbless clauses do not differentiate
+between perfective and imperfective aspect. When the interrogative
+speech utterance marker is needed, only so, ko and mo are selected but
+never o.
+In (140), the interrogative pankaw occurs clause-finally in a verbless
+clause. There is no co-occurring speech marker. The question is
+understood as a polar question.
+(140) “Hunkwe youk
+pankaw?”
+“Oo.”
+hwon-kwe youk
+po-ankaw
+oo
+paddle Q-to.what.extent yes
+2S-TOP
+‘“Do you have any paddles?” “Yes.”’
+When the interrogative speech utterance marker is added to a verbless
+clause, it marks a measurement question.
+(141) “Hunkwe youk
+pankaw
+mo?” “Iha sirom.”
+hwon-kwe youk
+po-ankaw
+mo
+iha
+sirom
+paddle Q-to.what.extent Q.PL hand one
+2S-TOP
+‘“How many paddles do you have?” “Five.”’
+7.5.3.4 Reason interrogative
+The interrogative pro-word encoding reason consists of the nonhuman interrogative pay ‘what’ (derived from po-ay ‘Q-what’) followed
+by the pronoun hokuaw ‘for what reason?’. Hokuaw ‘for what reason?’
+has as constituents: the general topical marker ho- and -kuaw ‘for reason
+of’. Hokuaw is used by itself at clause level. (See for further discussion
+§6.7)288In (142) payhokuaw is used as an adverbial phrase.
+(142) Homkwe hano
+owk
+kokwe
+hom-kwe han-o owk
+ko-kwe
+2/3PL-TOP 1S-GEN string.bag GL.F-TOP
+payhokuaw
+lopru
+mo?
+po-ay-ho-kuaw
+lopru
+mo
+Q-what-GL.M-for.reason.of destroy Q.SP.PFTV.PL
+‘Why did you (plural) destroy my string bag?’
+In (143), it functions as the comment of a verbless sentence.
+(143) Hai, sohokwe
+payhokuaw
+hai so-ho-kwe
+po-ay-ho-kuaw
+O.K. DDEM-GL.M-TOP Q-what-GL.M-for.reason.of
+so?
+so
+Q.SP.PFTV.M
+‘As for that (you just said), why is it?’
+In (144), payhokuaw functions as a conjunction. It is possible that this
+use of the interrogative ‘why’ as ‘because’ had been influenced by Tok
+Pisin, where the interrogatives bilong wanem ‘why’ and long wanem
+‘because’ are used as a reason conjunction. Although the constituents of
+payhokuaw ‘because/why’ correspond closely to the constituents of Tok
+Pisin long wanem ‘why’, people believe that the usage of this word is true
+Abau, pre-dating the advent of Tok Pisin in the area (§9.3.3).
+(144) Hiykwe
+nuw-hok, payhokuaw,
+hiy-kwe
+nuw-hok po-ay-ho-kuaw
+3S.M.SUB-TOP INT-fear Q-what-GL.M-for.reason.of
+yier sohokwe
+aiopey hay.
+yier so-ho-kwe
+aiopey hay
+very
+place DDEM-GL.M-TOP big
+‘He was really afraid, because that place was very big.’
+7.5.3.5 Goal interrogative
+The interrogative paneke ‘why’ is possibly derived from pay-nok e ‘in
+order to do what’. The following sentence is correct in some dialects of
+Abau.","[300, 301, 302]"
+"294Dik clearly distinguishes between the pragmatic functions of TOPIC
+and FOCUS, and comments that they can be only assigned to the
+constituents of the predication proper. (1980:16)
+The topic presents the entity “about” which the
+predication predicates something in the given setting.
+The focus presents what is relatively the most important
+or salient information in the given setting.
+Alternatively, and much more simply applied to Abau: topic is the
+given entity the sentence is about and comment is the new information
+stated about the topic. The concepts above are very helpful, since the
+majority of constituents are clearly marked for topic or comment function.
+The P3 (tail) position also features extensively. Furthermore, there is a
+clear tendency that all constituents containing background information are
+placed to the left.
+However, the formulaic distinction between P2 and the rest of the
+predication is too rigid and too absolute. Constituents that could
+potentially be analysed as setting the theme for the predication are indeed
+left-located, but these constituents are heavily marked for the pragmatic
+function of TOPIC. This contradicts Dik’s assumption that these THEME
+constituents are unmarked.
+In Abau there is, however, a very sharp separation between the topic
+part and the comment part of the sentence. The topic part contains
+constituents that are nearly all without exception topicalised by some
+marker that hosts the topic marker -kwe. In contrast, none of the
+constituents within the comment part of the sentence can be topicalised.
+The topic part of the sentence often contains more than one constituent
+and one could make further distinctions between them in how they relate
+to the rest of the clause. However, a distinction between a P2 (Theme)
+constituent as different from a topic-marked P1 constituent would seem to
+be artificial. It does more justice to the language to focus on the clear
+dichotomy between the topic part and the comment part of the sentence.
+In later discussions further distinctions between the constituents of the
+topic part will be made, but not with the goal to distinguish between a P2
+theme constituent and a topic-marked P1 constituent. In the examples
+below constituents are labelled P2 and P1. This distinction is made on the
+following basis: the last topicalised constituent within the topic part of the
+clause is labelled P1; all topicalised constituents preceding P1 are labelled295P2. The topicalised P1 also frequently displays syntactic or semantic
+marking. And even when not syntactically marked as subject or object, P1
+has agent or patient function within the predication. A P2 constituent is
+placed in the beginning of the clause and is overtly marked. Its relation to
+the rest of the sentence seems to be more than just “specifying the
+universe of discourse.” For our purposes it is best to divide the Abau
+sentence in TOPIC, COMMENT, TAIL. The topic part generally consists of
+P1 and P2 constituents and the comment part consists of only nontopicalised constituents. A predication nearly always consists of a topic
+part and a comment part, although it is possible that the predication only
+contains a comment part if the topic part is understood. The tail is not an
+obligatory part of the predication. It mostly hosts only one constituent
+which may occur with or without topic marking.
+The Abau sentence can be divided into three parts: TOPIC, COMMENT,
+TAIL as illustrated by Table 51.","[307, 308, 309]"
+"9Abau appears to be an extreme example of the tendency to
+“thematisation” described by de Vries (2005: 368). He notes that in a
+number of Papuan languages thematic constituents are “a juxtaposed
+series of thematic constituents that have pragmatic relations of relevance
+to the clauses that follow but are syntactically and intonationally separate
+units.” This pattern occurs often in Abau. However, whereas in many
+Papuan languages this pattern is associated with the beginning of a text
+and the number of noun phrases per verb declines drastically once the
+story is under way (de Vries 2005: 369), in Abau topic-marked noun
+phrases remain frequent throughout entire texts.
+In the typology of head-marking and dependent-marking languages
+introduced by Nichols (1986), Abau is an extreme example of a
+dependent-marking grammar.2 Examples of this tendency are:
+a. The high proportion of nouns to verbs already described.
+b. A complex system of dependent noun phrase markers which
+follow almost every noun, and establish its pragmatic, syntactic
+and semantic role.
+c. The existence of both a gender system (marked on the noun
+phrase markers), and a cross-cutting system of numeral classifiers,
+used with the numerals one, two and three.
+d. Verbs do not inflect for tense, aspect, mood or person. Verb stems
+are affixed only for direction and manner of action. The
+distinction between perfective and imperfective aspect is
+indicated by clause-final particles in the case of non-indicative
+clauses, and by intonation over the verb phrase for indicative
+clauses.","[22, 23]"
+"6.4.1 Verbal clause consisting only of VP and modal
+marker
+A verbal clause can consist of just a VP often accompanied by a modal
+marker in order to make a meaningful expression. In (24), the verb phrase
+is preceded by the prohibitive peie followed by a speech marker. In (25),
+the verb phrase is preceded by the hortative marker kwa.
+(24) Peie lira o!
+peie lira o
+PROH see EMPH.SP.IPFTV
+‘Don’t look!’196(25) Kwa ley!
+kwa ley
+HOR go
+‘Go!’6.4.2 Verbal clause consisting of VP preceded by an
+adverb or incorporated noun
+The VP in a verbal clause can be modified by an adverb that precedes
+the verb phrase as in (26) or by an adverbial interrogative as in (27). (See
+for more discussion §4.4 and §7.5.3)
+(26) Yaprue hin
+e!
+yaprue hin
+e
+well
+shoot OBJ
+‘Shoot well!’
+(27) Paneke hakan ko?
+paneke hakan ko
+Q.SP.PFTV.F
+why
+flee
+‘Why did you (female) flee?’
+Incorporated nouns, i.e. nouns that work in close corporation with a
+verb to establish one single meaning will precede the verb phrase without
+any syntactic or other marking. In (28), the noun kar ‘happiness’ occurs
+without any marking. Incorporated nouns always precede the verb phrase
+unless a modal marker like kwa ‘HOR’ intervenes. (See also §3.11.1)
+(28) Kar
+kwa ley e.
+kar
+kwa ley e
+happiness HOR go OBJ
+‘Be happy.’6.4.3 Verbal clause including non-syntactic topicalised
+constituents
+A verbal clause can be further extended by topicalised constituents
+that do not display any syntactic or semantic case marking. It was noted in
+§6.2 that verbless clauses consist of a topic and a comment part. The topic
+part of the verbless clause is mostly filled by a topicalised noun phrase
+and the comment part is often filled by a non-topicalised modifier. This
+internal clause division of a topicalised part and a comment part can be
+found in verbal clauses as well. The topicalised part is nearly always197expressed, but if it is not (like in §6.4.1 and §6.4.2) it is always
+understood. When the topicalised part is expressed, the topicalised
+constituent(s) will host the topic marker -kwe. In (29), the topic part of the
+clause is filled by the topicalised NP yeyk ohokwe ‘this canoe’. The rest of
+the clause is the comment part of the clause (see §8.4).
+(29) Topic
+Comment
+Yeyk ohokwe
+yaprue meio popriy pa!
+yeyk o-ho-kwe
+yaprue meio popriy pa
+work well
+NEG.PFTV
+canoe PDEM-GL.M-TOP good
+‘You did not make this canoe well!’
+The topic part of the sentence can be filled by a personal pronoun as
+in (30).
+Comment
+(30) Topic
+Hunkwe
+yaprue lwak o?
+hwon-kwe yaprue lwak o
+be
+Q.SP.IPFTV
+2S.SUB-TOP well
+‘Are you well?’
+It needs to be noted that topicalised nominal personal pronouns can be
+analysed as either topicalised subjects (marked both syntactically and
+pragmatically) or as personal pronouns that are only pragmatically marked
+for topic and not for subject. See discussion in §6.5.2.
+The topic part of a clause can be filled by more than one NP. In (31), a
+topicalised temporal phrase (pokon kokwe) and a topicalised subject
+phrase (hakwe) form together the topic part of the sentence.
+(31) Topic
+Topic
+Comment
+Pokon kokwe
+hakwe
+liwak nieys kok
+ey.
+pokon ko-kwe ha-kwe
+liwak nieys kok
+ey
+rest day.time INTN
+today GL.F-TOP 1S.SUB-TOP sit
+‘Today, as for me, I intend to sit down and rest during the
+day.’6.4.4 Verbal clause including constituents marked for
+semantic case
+Semantic case marking is realised by postpositional phrases. A
+postpositional locative noun phrase can occur in the topic part of a clause,
+as in (32). The postpositional phrase yier serey mon kokwe is marked for198location by mon and for topic by kokwe. The NP hiykwe is marked for
+topic and subject.
+Topic
+(32) Topic
+Hiykwe
+yier serey
+mon kokwe
+hiy-kwe
+yier so-rey
+mon ko-kwe
+3S.M.SUB-TOP place DDEM-THERE LOC GL.F-TOP
+Commentuwr
+prueyn se
+kar
+ley.
+uwr
+prueyn s-e
+kar
+ley
+man
+one
+3S.M-OBJ gladness go
+‘As for that place, he really liked one person (there).’
+A postpositional noun phrase is not always topicalised. Postpositional
+noun phrases like the Accompaniment NP and the Comparative NP (see
+§3.9.5 and §3.9.6) are often not, since their semantic meaning makes them
+more candidates for the comment part of the clause.
+The Accompaniment NP (hano aio se nion) and the Comparative NP
+(aio se hieyn) are not topicalised; therefore, they are part of the comment
+in (33) and (34) respectively.
+(33) Topic
+Comment
+Hakwe hano
+aio
+se
+nion ley.
+ha-kwe han-o
+aio
+s-e
+nion ley
+1S-TOP 1S-GEN father 3S.M-OBJ ACC go
+‘I am going with my father.’
+(34) Topic
+Comment
+Hakwe aio
+se
+hieyn liy lanio ley.
+ha-kwe aio
+s-e
+hieyn liy lanio korey
+3S.M-OBJ COMP DYN walk NEG
+1S-TOP father
+‘I cannot walk like father.’
+Locative NPs are often topicalised when they contain background
+information, but they occur without topic marking when they are part of
+the comment as in (35).
+Comment
+(35) Topic
+Huok kamon aiopey hokwe
+ki
+sapa kamon
+huok kamon aiopey ho-kwe
+ki
+sapa kamon
+pig
+one
+big
+GL.M-TOP ground
+forest one199mon lanio.
+mon lanio
+LOC walk
+‘As for a certain big pig, it walked in a certain forest area.’6.4.5 Verbal clause including constituents marked for
+syntactic case
+NPs can be marked for subject and object. If they occur in the topic
+part of the sentence, they have topic marking as well. If they occur in the
+comment part of the sentence, they are without topic marking.","[209, 210, 211, 212, 213]"
+"82(89) Hakwe
+sok
+se
+hok, sawk hano
+ha-kwe
+sok
+s-e
+hok sawk han-o
+1S.SUB-TOP snake 3S.M-OBJ fear CHD 1S-GEN
+oryay
+hiykwe
+sok
+sehe
+oryay
+hiy-kwe
+sok
+so-h-e
+older.brother 3S.M.SUB-TOP snake DDEM-3S.M-OBJ
+hane
+hin
+kow.
+han-e hin
+kow
+1S-OBJ shoot BEN
+‘I was afraid of the snake, but my older brother killed that
+snake for me.’3.7.3 Object NP markers without demonstrative force
+Abau has three object NP markers without demonstrative force (se, ke
+and me), and six object NP markers which have it (the latter group is
+discussed in §3.8.2). All object NP markers display a final -e which signals
+object. They are all differentiated for gender and/or number. They mark
+the NP as a referential item or identifiable participant.
+In (90), the NP yeyk se is marked for object by the NP marker se. This
+marker also marks the noun for masculine singular. The NP aio hiykwe is
+marked for subject and topic by the NP marker hiykwe.
+(90) Aio
+hiykwe
+yeyk se
+meio.
+aio
+hiy-kwe
+yeyk s-e
+meio
+father 3S.M.SUB-TOP canoe 3S.M-OBJ work
+‘Father makes a canoe.’
+The use of the masculine object marker is also illustrated in (91). The
+marked NP refers to an identifiable referent.
+(91) Sawk uwr prueyn se
+now hiy
+sawk uwr prueyn s-e
+now hiy
+CHD man one
+3S.M-OBJ tree 3S.M.SUB
+yay
+kane
+kawk.
+lyay
+kane
+kawk
+place.down break.off put.inside
+‘And a tree fell and broke over a certain man.’83In (92), the object marker ke marks the feminine object hyo pisu ‘his
+knife’.
+(92) Kenu hiykwe
+hyo
+pisu ke
+Kenu hiy-kwe
+hiy-o
+pisu k-e
+Kenu 3S.M.SUB-TOP 3S.M-GEN knife 3S.F-OBJ
+lonok
+nok, ley.
+lonok
+nok ley
+take.one SEQ go
+‘Kenu took his bush knife and then he went.’3.7.4 Topicalisation of object NPs
+The topicalisation of object NPs is not straightforward. The
+topicalisation of object pronouns (§3.1.3) is slightly different from the
+topicalisation that occurs on object NP markers. NPs marked for object that
+have a noun as head of the NP are topicalised by the feminine topic marker
+kokwe regardless of gender and number.
+In (93), the bolded NP Keno se kokwe is marked syntactically for
+object and pragmatically for topic. The gender and number of the head
+noun is marked by the singular masculine object marker se and not by the
+NP final topic marker kokwe which has feminine gender. The topic marker
+kokwe takes into its scope the noun with its object marking.
+(93) Keno se
+kokwe
+ur
+hiy
+Keno s-e
+ko-kwe ur
+hiy
+Keno 3S.M-OBJ GL.F-TOP vine 3S.M.SUB
+way-a-way
+kuayk nayr.
+lway-a-lway
+kuayk nayr
+tangle-DUP-tangle fall
+night
+‘As for Keno, a vine tangled around causing him to fall in the
+night.’
+In (94), the NP Kupe se kokwe is both topicalised and marked for
+object. This double marking is in this example required, since the normal
+syntax order SOV is changed to OSV. (For more discussion see §6.5.1.)84(94) Enekwei sohokwe
+Kupe se
+kokwe
+enekwei so-ho-kwe
+Kupe s-e
+ko-kwe
+DDEM-GL.M-TOP Kupe 3S.M-OBJ GL.F-TOP
+time
+polis prueyn hiy
+huonok.
+polis prueyn hiy
+huonok
+police one.CL1 3S.M.SUB call
+‘As for that time, regarding Kupe, a certain policeman took
+him along.’
+In (95), the object kuey me ‘grubs PL-OBJ’ is topicalised by the topic
+marker kokwe. Again, the head of the noun phrase is marked for number
+by the object marker me and not by the feminine singular topic marker
+kokwe.
+(95) Kuey me
+kokwe
+hano
+sa
+ko
+orih
+kuey m-e
+ko-kwe han-o sa
+k-o
+orih
+grubs PL-OBJ GL.F-TOP 1S-GEN woman 3S.F-GEN father
+hiy
+lowk, Lapwan sopei
+mon.
+hiy
+lowk Lapwam sopei
+mon
+Lapwan river.mouth LOC
+3S.M.SUB cut
+‘As for the grubs, my wife’s father cut them out (of the tree)
+at the Lapwan’s river mouth.’
+Forms like se-kwe in (96) have been observed in some oral texts, but
+are not accepted by all.
+(96) *Uwr se-kwe
+hakwe lira pa.
+man 3S.M.OBJ-TOP 1S-TOP see NEG.PFTV
+‘As for the man, I did not see him.’
+The use of sekwe and even sokwe as a contraction of se kokwe has
+been especially observed in the central dialect. This usage is considered
+incorrect by other dialects since the usage of sekwe and sokwe, is similar
+or identical to the distal demonstrative object marker sokwe (§3.8.2).
+When editing texts, even speakers of the central dialect tend to change
+sekwe to se kokwe. Similar contractions of ke kokwe and me kokwe into
+shorter forms have not been observed.","[95, 96, 97, 98]"
+"478Pawley, Andrew, Robert Attenborough, Jack Golson and Robin Hide, eds.
+Papuan pasts: cultural, linguistic and biological histories of
+Papuan-speaking peoples. Canberra: Australian National
+University.
+Ross, Malcolm. 2005. Pronouns as a preliminary diagnostic for grouping
+Papuan languages. In Pawley et al, eds. 15-66.
+Shopen, Timothy, ed. 1985. Language typology and syntactic description,
+3 volumes. Cambridge: Cambridge University Press.
+Tupper, Ian. 2009. Transitivity and noun phrase marking in Namia. La
+Trobe Papers in Linguistics 12. (Posted at:
+http://www.latrobe.edu.au/linguistics/LaTrobePapersinLinguistics
+/Vol%2012/Contents.htm)
+von Wright, Georg Henrik. 1951. An essay in modal logic. Amsterdam:
+North Holland.
+Vries, Lourens de. 2005. Towards a typology of tail-head linkage in
+Papuan languages. Studies in Language 29: 363-384.
+Wurm, Stephen A., ed. 1975. Papuan languages and the New Guinea
+linguistic scene: New Guinea area languages and language study
+1. Canberra: Australian National University.
+Wurm, Stephen A. 1982. Papuan languages of Oceania. Tübingen:
+Gunter Narr Verlag.","[491, 492]"
+"289(145) Hunkwe
+paneke e
+le
+o?
+hwon-kwe paneke e
+le
+o
+why
+OBJ come Q.SP.IPFTV
+2S-TOP
+‘Why did you come? (Lit. In order to do what did you
+come?)’
+The analysis above is given with some hesitation. The interrogative is
+presently pronounced as paneke, while there seems to be no reason why
+the first syllable was reduced from pay to pa. In light of the lack of
+convincing evidence, the interrogative paneke will be simply labeled
+‘why’ in the interlinear examples.
+The interrogatives payhokuaw and paneke can be interchanged in
+most contexts. But some speakers make a distinction. If the above analysis
+on the semantic origin of both terms is correct it suggests a distinction
+between reason and (mental) goal. The former (payhokuaw) might be
+used when motives and explanations are asked for, the latter (paneke)
+when intentions and objectives are sought after. It has been noted that
+rhetorical questions tend to be constructed with paneke, although not all
+the time. This is probably not surprising since a rhetorical question
+sometimes focuses on the goal and sometimes on the reason of a certain
+issue. The three examples with payhokuaw above all seem to fit the
+definition here, since they can all be viewed as questions regarding
+background and source motive.
+Example (146) illustrates a rhetorical question. It is probably arbitrary
+whether the question zooms in on the reason (for what reason) or the goal
+(to what end).
+(146) Hano
+ai
+ey,
+pa po ley sie. Hakwe yayh
+han-o ai
+ey
+pa po ley sie
+ha-kwe yayh
+1S-GEN food EXCL CUR PFT go EXCL 1S-TOP song
+paneke lowk nayr soney?
+paneke lowk nayr so-ney
+why
+beat night SP.M-Q.wonder
+‘My food is gone completely. Why did I do a singsing during
+the night?’290Example (147) illustrates goal.
+(147) Hiykwe
+sawk hme
+senkin
+mesopok
+hiy-kwe
+sawk hom-e
+so-enkin
+me-sopok
+3S.M.SUB-TOP CHD 2/3PL-OBJ DDEM-MAN speak-ask
+huon,
+“Homkwe paneke le
+mo?”
+huon
+hom-kwe paneke le
+mo
+OBJ>SUB 2/3PL-TOP why
+come Q.SP.PFTV.PL
+‘He then said to them while they were coming to him, “Why
+did you come?”’8. Structure and function of
+sentence topic and comment
+Constituents within the sentence are marked or positioned in such a
+way that the sentence can be easily divided in a topic part and a comment
+part. Some sentences also have a third part: a phrase or clause in tail
+position. The division between the topic and comment part is a prominent
+feature of the language and plays an important role in the creation of
+comprehensible and logical communication.
+The focal point of this chapter is to shed light on the distinctions in
+relative prominence of the various phrase constituents within a sentence.
+It starts with a discussion on the concept of topic (§8.1) and the overall
+structure of an Abau sentence (§8.2). This is followed by a presentation of
+the structure and the internal ordering of the constituents within both the
+topic part (§8.3) and the comment part (§8.4) of the sentence. A
+discussion about the tail position (§8.5) is also included. The chapter
+concludes with discussions how constituents within the sentence can be
+given less or more prominence (§8.6), how participants are tracked (§8.7),
+and lastly, what features distinguish the backgrounding, foregrounding
+and climax within a discourse (§8.8).","[302, 303, 304, 305]"
+"48b. Abstract and non-material nouns are nearly always
+feminine
+Non-material and abstract nouns like ok ‘talk’, aw ‘fight’, weyn
+‘behaviour’, yayh ‘song’, mey ‘work’, oksa ‘sound’, hay ‘magic’,
+nonkway ‘knowledge’ are all feminine. One exception observed is the
+word prawk ‘smell, scent’ which is masculine. It is possible that smell is
+considered material rather than non-material.
+c. Objects regarded as two-dimensional are feminine
+No object is of course truly two-dimensional, but thin objects like
+leaves, tablets and coins are feminine. Insects, possibly on the basis that
+they are regarded as two-dimensional, are also feminine nouns. The
+contrast between two-dimensionality (feminine) and three-dimensionality
+(masculine) is essential in gender determination. Two other features,
+however, play a role in determining the gender of objects for which it is
+hard to determine whether they should be classified as two-dimensional or
+as three-dimensional. Objects with regular three-dimensional features tend
+to be masculine, except if they have a very flat surface (see c1) or if the
+roundness of the object (not in a 3- but only in a 2-dimensional way) is a
+very salient feature (see c2).
+c1. Objects with a flat surface which are not too voluminous
+are feminine
+An object that has a flat surface and not too voluminous is regarded as
+feminine. In the Abau world view, all fish are regarded as having a flat
+surface and are therefore feminine. The feature of a flat surface is also
+dominant in nouns like howk ‘lake’ and iwa ‘swamp’, but not in yawp
+‘river’. The latter is masculine, because here the feature of extendedness is
+predominant. Body parts that have a flat surface and which are not too
+voluminous are regarded feminine, e.g. iha ‘hand’, sune ‘foot’, nweyk
+‘ear’. Most other body parts are considered three-dimensional and are
+assigned masculine gender. This includes makwey ‘head’, kasaw ‘nose’,
+nene ‘eye’, and uron ‘heart’.
+c2. Objects which are round from a two-dimensional
+perspective are feminine
+When objects have two dimensional roundness as the predominant
+feature, they are classed as feminine. The generic word for ‘snake’ sok is49masculine. Apparently, its extendedness is in focus. However, a particular
+green garden snake wondeis is referenced with feminine pronominal
+markers. This snake is often coiled up in the form of a circle and this
+feature might be in focus here. Also included in this set of twodimensional roundness are the nouns hne ‘bird’s nest’ and kan ‘a vine
+woven into a circle’. However, the loan word bal ‘ball’ is masculine,
+because the roundness is here three-dimensional.
+d. Objects regarded as three-dimensional are masculine
+When the feature three-dimensionality is regarded as predominant the
+noun is marked masculine. This depends on the perception of the speaker,
+which may vary as is illustrated in examples (32) and (33). Truly threedimensional entities are certain fruits: su ‘coconut’ am ‘breadfruit’. As
+long as the three-dimensional feature is predominant the entity can be
+small, e.g. nene ‘eye’. This set also includes all liquids, e.g. hu ‘water’,
+nioh ‘blood’, sueyr ‘rain’.
+The distinction between two-dimensional or three-dimensional
+depends on the perception of the speaker. The choice is sometimes
+arbitrary, e.g. the word mein ‘stone’ occurs in a wide variety of forms and
+sizes. When features like flatness and roundness are in focus the noun
+mein is regarded as feminine. When, however, the features of threedimensionality or large size are in focus the noun mein is regarded as
+masculine.
+The word a ‘house’ is masculine, in spite of the fact that the object
+has a number of flat surfaces. The predominant features which are in
+focus are its large size and its three-dimensionality.
+e. Animal categories are distinguished according to size
+Larger animals tend to be masculine, smaller animals tend to be
+feminine. Large animals, like mu ‘crocodile’, pareis ‘wallaby’, nwoh
+‘dog’ are masculine. Animals that have as the salient feature
+extendedness, like sok ‘snake’ , mnow ‘eel’ and kie ‘lizard’, are all
+masculine.
+Larger birds, like worim ‘flying fox’, wayp ‘eagle’, and mowr
+‘hornbill’ are masculine, but a moderate-sized bird like sokua ‘cockatoo’
+is regarded as feminine and so are all birds that are smaller than the
+cockatoo.","[61, 62, 63]"
+"1.10 Acknowledgements
+This current grammar write-up is based on research conducted by me
+over a period of more than 20 years under the auspices of the Papua New
+Guinea Branch of SIL International. My wife and I learned to speak the
+language, collected stories and studied the local culture. We were able to
+involve a large number of Abau speakers in the establishment of the
+current orthography and in the development of a three year curriculum in
+the vernacular for the 25 Abau speaking villages along the Sepik River.
+The vast majority of the examples in this grammar paper have been taken
+from a corpus of non-elicited texts of 85,000 words.
+We want to thank the Yabru community for allowing us to live among
+them since September 1982. We especially thank our friends and fellowworkers Obow Inaru and Alex Nomben, who, along with many others,
+have helped us to gain many valuable insights into the language.
+A special word of thanks goes to our colleagues within SIL whose
+encouragement and input have been essential in gaining insights in the15structure of the Abau language. I want to thank Bob Conrad not only for
+his assistance in producing the Abau Grammar essentials in 1985
+(unpublished manuscript) but also for his willingness to be one of the
+editors in the final stages of the current document. Secondly, I want to
+thank the late Cindi Farr for her enthusiasm and keen insights into how
+information is marked for relative prominence within Abau texts. A major
+part of this paper was finished under her supervision in 1999.
+In 2007, I was encouraged to make the research available to the wider
+public. SIL colleague Ian Tupper probed me with many questions about
+the wording of certain sections that needed further work. He also kindly
+gave me many suggestions and editorial comments for the other sections. I
+believe they have improved the overall clarity of this grammar. Thanks
+are also due to Lisa Halverson who did a fine job in preparing the
+manuscript for publication, John Carter who produced two of the maps,
+several people in Ukarumpa who did the final proofreading and René van
+den Berg who oversaw the whole process as series editor.
+Lastly, I want to thank my wife Maija for her encouragement and
+support. The current grammar write-up does not reflect sufficiently the
+many warm and meaningful friendships she helped to develop with our
+Abau friends.","[28, 29]"
+"389(8)P2P1CommentWayh-om,
+hakwe pokon kokwe,
+kuey
+wayh-om
+ha-kwe pokon ko-kwe kuey
+friend-group 1S-TOP today GL.F-TOP grubs
+mo
+okpey
+ke
+mesor
+ey.
+m-o
+ok-pey k-e
+me-sor
+ey
+PL-GEN talk-part 3S.F-OBJ speak-count/tell INTN
+P1CommentKuey homkwe
+ipey
+aio
+non.
+kuey hom-kwe ipey
+aio
+non
+grubs 2/3PL-TOP mother father CMT
+‘Friends, today I will tell the story (= information) about
+grubs. Grubs have parents.’
+Introductions to thematic texts can be very short since they are
+basically given to introduce the theme. In (9), the author has a very short
+introduction with only one topicalised NP hakwe (I) in the opening
+sentence that introduces the theme.
+(9) Hakwe ahney horuom
+mesor
+ey.
+ha-kwe ahney horuom
+me-sor
+ey
+1S-TOP bird
+crowned.pigeon speak-recount INTN
+Horuom
+mo
+owh penkin
+lwak e,
+horuom
+m-o
+owh po-enkin lwak e
+be
+OBJ
+crowned.pigeon PL-GEN body Q-MAN
+seyr
+hmo
+yor o, hmo
+aiai o,
+seyr
+hom-o
+yor o
+hom-o
+aiai o
+and/also 2/3PL-GEN way and 2/3PL-GEN food and
+hmo
+ney mow
+yier o, seme
+hom-o
+ney mow
+yier o
+so-m-e
+2/3PL-GEN child give.birth place and DDEM-PL-OBJ
+me
+sor ey.
+me
+sor ey
+speak tell INTN
+‘I am going to tell about the crowned pigeon. How the body
+of the crowned pigeon is, and also their customs, their food,
+their offspring, the place where they give birth, (I) am going
+to tell that.’39010.1.2 Iconic organisation in narrative and procedural
+texts
+If an Abau speaker’s communicative goal is to narrate or list a series
+of events, he or she will encode these events in sentences using temporal
+phrases, which chain the sentences in a coherent temporally ordered
+pattern. Changes in spatial and temporal settings and participants are
+significant elements in these discourses and may indicate new segments
+within a discourse.
+Of these last three elements, the change in temporal setting is the most
+important indicator of a discourse break in narrative texts. NPs that may
+mark a discourse section break are temporal NPs that are modified by the
+numeral one e.g. enekwei kamon ‘a certain day’, wik kamon ‘a certain
+week’ etc. Other temporal changes include predications that place the
+story line in a different time setting with a temporal constituent that is not
+dependent for its meaning on the rest of the discourse, e.g. a reference to a
+date or to a known time period, like childhood, the days of the ancestors,
+the day someone died, etc. In procedural texts the logical order rather than
+the temporal order is in focus, although they might overlap.
+Examples (10) and (11) are consecutive sentences in a story. The
+temporal phrase enekwei kamon hokwe ‘a certain time’ starts a new
+section within the discourse in (10). The next sentence (11) is part of the
+same paragraph, since it contains two references or links to the first
+sentence. Firstly, the temporal clause marked by menkin ‘when’ gives
+further detail to the time phrase already mentioned in (10). Secondly, the
+adverbial demonstrative sehe anaphorically refers to the previous sentence
+and establishes a logical connection between this sentence (10) and the
+main clause it occurs in.
+(10) Enekwei kamon hokwe,
+aio
+hiykwe
+a
+enekwei kamon ho-kwe
+aio
+hiy-kwe a
+GL.M-TOP father 3S.M-TOP house
+time
+one
+aiopey hay se
+meio e
+nanpanan.
+aiopey hay s-e
+meio e
+nanpanan
+big
+very 3S.M-OBJ work PURP think
+‘One day father thought of building a big house.’391(11) Leisnon lwak nerie
+menkin, hiykwe
+sawk
+leisnon lwak nerie
+menkin hiy-kwe sawk
+morning be
+morning when
+3S.M-TOP CHD
+a-now
+sehe
+ley kuw nerie.
+a-now
+so-h-e
+ley kuw nerie
+house-tree DDEM-3S.M-OBJ go cut morning
+‘So when it was morning he went out to do timber cutting (for
+the) house.’
+A number of devices can be used to mark time within a text. These
+time indications help to structure the text into a logical sequence of
+events. Subordinate clauses with clause-final markers can mark time, e.g.
+nok ‘SEQ’, menkin ‘when’, ankin ‘as/while’ (§9.5). Internal markers
+within the verb phrase also mark time, e.g. nayr ‘night’, kok ‘day time’
+etc. (§4.3.3.3). Temporal NPs like enekwei sohokwe ‘(at) that time’ or
+postpositional phrases (§3.9) are also used to mark or sequence time
+within a discourse.
+Examples (12) through (14) are part of the same text. All constituents
+that mark time have been bolded. In (12), the marker nok ‘SEQ’ places the
+events in the first clause in sequential order: The Yabru man (lit. riverman) spoke after they all ate. The temporal adverb kok ‘day time’ places
+the given command in a time frame.
+(12) Hom ai
+la lowpway
+nok, Yawpruw seirpey
+hom ai
+la lowpway
+nok yawp-ruw seirpey
+2/3PL food eat completely SEQ river-man fierceness
+hiy sah
+ke
+me
+hain,
+“Hunkwe
+hiy sa-uh
+k-e
+me
+hain
+hwon-kwe
+3S.M woman-KIN 3S.F-OBJ speak SUB<OBJ 2S-TOP
+wueir-aiai
+kwa hiy-a
+kok,
+hano
+wayh
+wueir-aiai
+kwa hiy-la
+kok
+han-o wayh
+garden-food HOR CAUS-eat daytime 1S-GEN friend
+so
+ney-sa
+me.”
+s-o
+ney-sa
+m-e
+3S.M-GEN child-woman PL-OBJ
+‘After they had eaten, the fierce Yabru man, said in parting to
+his wife, “Supply my friend’s family with garden food during
+the day.”’392In (13), the marker seseyn ‘it was done accordingly’ anaphorically
+refers to the command given in the previous sentence. It has therefore
+cohesive function and helps to keep track of the sequential order of the
+various events. The temporal adverb kok ‘daytime’ and the temporal NP
+enekwei sohokwe ‘that day’, supply the events of the sentence they occur
+in with a time setting.
+(13) Sah
+hok seseyn,
+wueir-aiai
+hiy-a
+sa-uh
+hok seseyn
+wueir-aiai
+hiy-la
+woman-KIN 3S.F accordingly garden-food CAUS-eat
+kok,
+enekwei sohokwe.
+Yawpruw
+kok
+enekwei so-ho-kwe
+yawp-ruw
+day.time time
+DDEM-GL.M-TOP river-man
+seirpey
+so
+sune non homkwe
+awia
+seirpey
+s-o
+sune non hom-kwe awia
+fierceness 3S.M-GEN group CMT 2/3PL-TOP enemy
+aw lono kok.
+aw lono kok
+fight fight day.time
+‘The wife did accordingly, and looked after (them) with food
+during that day. The fierce Yabru man and company battled
+enemies during the day.’
+In (14), the underlined temporal clause marked by menkin gives a
+time frame for the event described in the main clause.
+(14) Ey hiy now-mour eir sok lwak menkin, hiy
+ey hiy now-mour eir sok lwak menkin hiy
+sun 3S.M tree-end
+top EXCT be
+when
+3S.M
+ma-hiy-e,
+yier mon.
+ma-hiy-le
+yier mon
+RPT-CAUS-come place LOC
+‘When the sun set over the tree tops, he guided (the others)
+back to the village.’
+Procedural texts are often concerned with sequence rather than time,
+although the two overlap. The sequential marker nok, or postpositional
+phrases that indicate sequence, e.g. meyki mon ‘after’ are used very
+frequently. The adverbial verb phrase modifier pie ‘firstly’ also helps to393sequence events. These sequence indicators are demonstrated in (15) and
+(16) which are taken from a procedural text.
+(15) Seme
+lonhan
+lonhan
+so
+meyki
+so-m-e
+lonhan
+lonhan
+s-o
+meyki
+DDEM-PL-OBJ get.ready get.ready 3S.M-GEN after
+mon hokwe,
+ki
+se
+meir
+pie,
+mon ho-kwe
+ki
+s-e
+meir
+pie
+LOC GL.M-TOP ground 3S.M-OBJ measure firstly
+hno
+nop-i
+so
+meir
+mo
+hwon-o nop-i
+s-o
+meir
+m-o
+2S-GEN ironwood-post 3S.M-GEN measure PL-GEN
+liyliy-aw.
+liyliy-aw
+similar-RSTR
+‘After you have everything ready, the ground need be
+measured first, in accordance with the number of ironwood
+posts you have.’
+(16) Senkin
+lon lowpway
+nok, ki-eyh
+lopru
+so-enkin
+lon lowpway
+nok ki-eyh
+lopruw
+DDEM-MAN do completely SEQ ground-ditch dig
+nok, nop-i
+me
+way inon
+kreik
+nok nop-i
+m-e
+lway linon
+kreik
+SEQ ironwood-post PL-OBJ carry transport plenty
+lopalop ok.
+lopalop
+ok
+finish.off FIN.SEQ
+‘After having done that, dig holes and then finish (the job) of
+placing all of the ironwood trees.’10.1.3 Thematically organised texts
+Thematically organised discourses and texts include descriptions,
+expositions, hortatory discourses and letters. Rather than centring around
+the activities of participants, they centre around a global theme supported
+by local topics. Examples are listed below, including the appropriate
+section of the appendix: a descriptive text about a certain type snake
+(§11.4); an expository text about divorce (§11.5); a hortatory text about
+care for a local aid post (§11.6).","[402, 403, 404, 405, 406, 407]"
+"11Odiai (pop. 250) – also known as Busa; three village communities
+located Northeast of Green River, west of the Horden River; isolate
+(Lewis 2009).
+Yale (Yalë) (pop. 700) – also referred to as Nagatiman; located 30
+kilometres northeast of the Green River Station between the Horden and
+Senu Rivers; isolate (Lewis 2009).
+Amto (pop. 250) – also known as Ki; located in Rocky Peak Districts;
+Amto-Musan language family (Lewis 2009).
+Siawi (pop. 300) – also known as Musan; located toward the
+headwaters of the Left May River on the Samaia River east of Amto;
+Amto-Musan language family (Lewis 2009).
+Pyu (pop. 100) – only one village community, known as Biak 2 (Biak
+1 is an Abau speaking village); located near the Indonesian Border and
+along the Biak River, a tributary of the Sepik River (Laycock 1973;
+Conrad and Dye 1975). Laycock (1973) suggested that Pyu is related to
+Kwomtari, but Baron (1983) found no evidence for this.
+According to some sources (e.g. Laycock 1973; Lewis 2009), Yetfa
+(Biksi) also has speakers on the Papua New Guinean side of the border,
+west from the Abau language area. This was based on survey word lists
+from Biak 2 village, where the primary language is Pyu. The women
+surveyed had married into Biak 2 from a Yetfa-speaking village on the
+Indonesian side of the border, as documented in articles on the language
+by Laycock (1972), and Conrad & Dye (1975). 3 My own travels and
+surveys did not lend any support to the claim that there are mother-tongue
+Yetfa speakers in Papua New Guinea apart from those who have settled in
+Biak 2 as a result of marriage exchange.
+Namia, located east from Green River, belongs the Sepik language
+family but is too far away to be considered a geographic neighbour. The
+same is true for the Suganga (West-Miamin), located in the south, since
+none of their village communities is found close to any Abau speaking
+communities.","[24, 25]"
+"408(46) Hai, musow-now, pros-now,
+sowor-now,
+hai
+musow-now pros-now
+sowor-now
+O.K. bearer-tree
+floor.joist-tree roof.support-tree
+yakwa-now,
+kekie-yeyryeyr-now
+seme
+yakwa-now
+kekie-yeyryeyr-now
+so-m-e
+horizontal.beam-tree place-connectors-tree DDEM-PL-OBj
+lowk say
+koruay
+nok, mays me
+lowk say
+koruay
+nok mays m-e
+cut
+move.PL preparingly SEQ cane PL-OBJ
+lokrwe say.
+lokrwe say
+cut.PL move.PL
+‘OK, you cut in preparation all the bearers, floor joists,
+vertical and horizontal roof beams, and all the wall post
+connectors and then you cut all the vines.’
+The verbal modifier lowpway expresses the completion of an action.
+(47) Omeme somokwe
+yier mon-aw kekie
+omeme so-mo-kwe
+yier mon-aw kekie
+things DDEM-GL.PL-TOP place LOC-RSTR put
+kekie lowpway.
+kekie lowpway
+put
+completely
+‘All these things have to be completely stored in the village.’
+The postpositional phrase marked by the locative mon indicates time
+sequence here. Also the verbal modifier pie helps to establish the
+sequential order of the events.
+(48) Seme
+lonhan
+lonhan
+so
+meyki
+so-m-e
+lonhan
+lonhan
+s-o
+meyki
+DDEM-PL-OBJ get.ready get.ready 3S.M-GEN after
+mon hokwe,
+ki
+se
+meir
+pie,
+mon ho-kwe
+ki
+s-e
+meir
+pie
+LOC GL.M-TOP ground 3S.M-OBJ measure firstly
+hno
+nop-i
+so
+meir
+hwon-o nop-i
+s-o
+meir
+2S-GEN ironwood-post 3S.M-GEN measure409mo
+liyliy-aw.
+m-o
+liyliy-aw
+PL-GEN similar-RSTR
+‘After having prepared everything, you need to measure the
+ground first, in accordance to the number of ironwood posts
+you have.’
+In (49), the right order of the events is established with the help of the
+sequential marker nok and the final sequence-marker ok.
+(49) Senkin
+lon lowpway
+nok, ki-eyh
+so-enkin
+lon lowpway
+nok ki-eyh
+DDEM-MAN do completely SEQ ground-ditch
+lopru nok, nop-i
+me
+way inon
+lopruw nok nop-i
+m-e
+lway linon
+dig
+SEQ ironwood-post PL-OBJ carry carry
+kreik lopalop ok.
+kreik lopalop
+ok
+plenty finish.off FIN.SEQ
+‘After having done that, dig holes and then finish (the job) of
+placing all of the ironwood trees.’
+In (50), the first sentence is a temporal construction with senkinaw,
+marking a limited time span (§9.4.8). The NP mey pariawey-ar ‘very last
+work’ forms the end and the conclusion of the procedural text. The abrupt
+ending is not unusual within a procedural text, since there is often no need
+for evaluative comments once the description of the procedure is finished.
+(50) Senkin-aw-aw,
+a
+se
+nuw-piar
+so-enkin-aw-aw
+a
+s-e
+nuw-piar
+DDEM-MAN-RSTR-EMPH house 3S.M-OBJ INT-fence.in
+sakoum
+kawk
+lowpwày.
+Owah-mey
+sakoum
+kawk
+lowpway
+owah-mey
+turn.to.sides put.inside completely.PFTV sago.stalk-job
+somokwe
+mey pariawey-ar.
+so-mo-kwe
+mey pariawey-ar
+DDEM-GL.PL-TOP job last-INTF
+‘Keep going, until you have fenced in the house on all sides.
+The (wall) job with the sago stalks is the last one.’41010.2.3 Descriptive texts
+Descriptive texts are similar to procedural texts in that they are
+informative and non-emotive. Procedural and descriptive texts both make
+extensive use of the imperfective, since these texts often prescribe or
+describe general or habitual behaviour. This is in contrast with narrative
+texts which make extensive use of the perfective to describe unique events
+that in their totality took place in the past.
+Whereas procedural texts are concerned with the correct manner to
+perform a task, descriptive texts are concerned with the description of
+observed behaviour or characteristics. Descriptive texts centre around a
+global theme that is often a directly observable entity (e.g. animal, place,
+custom, activity).
+Descriptive texts make frequent use of verbless clauses: a topicalised
+entity is supplied with a comment that either gives additional information
+to that entity or supplies the entity with a certain identity. In (51), the first
+topic NP is further defined for attributive characteristics, the second topic
+NP is further identified for role.
+Comment Topic
+Comment
+(51) Topic
+Uwr sohokwe
+aiopey. Hiykwe
+tisa.
+uwr so-ho-kwe aiopey hiy-kwe tisa
+man DDEM-GL.M big
+3S.M-TOP teacher
+‘That man is big/tall. He is a teacher.’
+Descriptions of customary activities often feature the habitual modal
+marker seyn as illustrated in (52).
+(52) Homkwe iwar
+me
+aw seyn mon pey.
+hom-kwe iwar
+m-e
+aw seyn mon pey
+NEG.IPFTV
+2/3PL-TOP human PL-OBJ fight HAB do
+‘They are not in the habit of attacking people.’
+Descriptive texts tend to have very few non-topicalised NPs that are
+syntactically marked for subject or object. This in contrast to narrative
+texts where non-topicalised NPs occur frequently. In (53-60), there is no
+occurrence of a non-topicalised subject and only one example of a nontopicalised object.
+Descriptive texts are also characterised by a high number of verbless
+clauses or clauses formed with the stative verb lwak like e.g. (53) and411(54). The two topicalised NPs marked by mokwe occur in clauses that are
+formed with the stative verb lwak. (Below in (53-60), all topic markers are
+bolded.)
+(53) Wondeis mo
+owh mokwe
+ma me
+wondeis m-o
+owh mo-kwe
+ma m-e
+snake.sp PL-GEN body GL.PL-TOP leaf PL-OBJ
+hieyn lwâk.
+hieyn lwak
+like
+be. IPFTV
+‘The body of the wondeis snake is like leaves (= green).’
+(54) Hmo
+owh mokwe
+nompou nompou lwâk.
+hom-o
+owh mo-kwe
+nompou nompou lwak
+weak
+be. IPFTV
+2/3PL-GEN body GL.PL-TOP weak
+‘Their bodies are very soft.’
+Non-topicalised NPs with syntactic marking are relatively rare in
+descriptive texts. That is especially true for non-topicalised NPs marked
+for subject and to a lesser extent for non-topicalised NPs marked for
+object. The NP iwar me ‘people, human beings’ in (52) is an example of
+such an occurrence.
+The bolded NPs in (55) and (56) are respectively marked for object
+and subject, but are topicalised as well.
+(55) Hmekwe
+iha nonaw
+liy nekie wây.
+hom-e-kwe
+iha
+non-aw
+liy nekie lway
+2/3PL-OBJ-TOP hand CMT-RSTR DYN hold carry.IPFTV
+‘You can grab them with (your) hand and carry them around.’
+(56) Uwrsa
+homkwe
+senaw
+lâ.
+uwr-sa
+hom-kwe
+senaw
+la
+man-woman 2/3PL.SUB-TOP habitually eat.IPFTV
+‘People are in the habit of eating (them).’
+Participants and props that are referred to in a descriptive text often do
+not represent an individual, unique entity. This in contrast to narrative
+texts, where participants and props have their own identity and often play
+roles in specific, unique events. Many of the entities referred to in a
+descriptive text are not uniquely identifiable entities, but often function as
+representatives for their type or category. The marking on the NPs reflects
+this. In (57), hmo pion mokwe ‘their meat’ has patient role, but it is not412marked for object. It is only marked by the general topic marker mokwe.
+This is in line with the fact that the NP does not represent a single
+identifiable entity, but represents the meat of all other wondeis-snakes as
+well.
+(57) Hmo
+pion mokwe
+won
+non nuw-â.
+hom-o
+pion mo-kwe
+won
+non nuw-la
+2/3PL-GEN meat GL.PL-TOP grease CMT INT-eat.IPFTV
+‘As for their meat, it is eaten with grease (= tastes really
+good).’
+In (58-60), the subject homkwe occurs three times topicalised. No
+non-topicalised NPs that are syntactically marked occur in these sentences.
+(58) Homkwe
+now mon hoaho
+hom-kwe
+now mon ho-a-ho
+2/3PL.SUB-TOP tree LOC twist.around-DUP-twist.around
+inakrôk.
+linakrok
+stand. IPFTV
+‘They are located in trees, curled up.’
+(59) Homkwe
+aiai ki
+sankaw
+seyn
+hom-kwe
+aiai ki
+so-ankaw
+seyn
+2/3PL.SUB-TOP food ground DDEM-Degree HAB
+lanio sayok
+a pey.
+lanio sayok
+la pey
+walk to.and.fro eat NEG.IPFTV
+‘They don’t habitually go out to find their food.’
+(60) Enekwei kraiar mokwe
+homkwe
+anwaw-aw
+enekwei kraiar mo-kwe
+hom-kwe
+anwaw-aw
+time
+many GL.PL-TOP 2/3PL.SUB-TOP sleep-RSTR
+kor-iawon
+sokwây.
+kor-liawon
+sokway
+little-lie.down lie-many. IPFTV
+‘Most of the time they just sleep for long periods.’
+Descriptive texts can contain instructive sections that look very
+similar to sections of a procedural text, e.g. the text “The snake” (§11.4)
+moves from descriptive to instructive in the second part of the text. When
+a descriptive text becomes instructive, an addressee is needed. Below, the413addressee is referred to by hwon ‘2S.SUB’ which functions as a universal
+‘you’ taking into its scope all who hear or read this text.
+In (61-63), possible scenarios are given in subordinate clauses marked
+by ankin ‘if’ which are followed by a main clause expressing a command.
+In (61), the command is marked by the prohibitive marker pese, and in
+(63), the command is marked by the hortative marker kwa.
+(61) Hmo
+weyn
+kamon, senkin:
+Enekwei hwon
+hom-o
+weyn
+kamon so-enkin
+enekwei hwon
+DDEM-MAN time
+2S.SUB
+2/3PL-GEN custom one
+wondeis ke
+lira irway ankin, peyr pese
+wondeis k-e
+lira lirway ankin
+peyr pese
+snake.sp 3S.F-OBJ see meet if/when firstly PROH
+saw-okin kwor o.
+saw-lokin kwor o
+SPD-hit
+die
+NEG.IPFTV
+‘One of their habits is like this: if you happen to see a wondeis
+snake, do not be too quick in killing it.’
+(62) Peyr kwa mesopok, wayhih
+non senaw
+peyr kwa me-sopok wayh-ih
+non senaw
+firstly HOR speak-ask friend-KIN CMT habitually
+lwâk.
+lwak
+be. IPFTV
+‘First ask (the snake); they often have a companion along.’
+(63) Enekwei hwon mesopok ankin, woki
+mon
+enekwei hwon me-sopok ankin
+woki mon
+time
+2S
+speak-ask if/when mouth LOC
+kwa lira kraipakrài.
+kwa lira krai-pa-krai
+HOR see strong-DUP.strong
+‘When you ask (the snake), closely watch his mouth.’10.2.4 Hortatory and expository discourses
+Hortatory discourse resembles expository discourse in that they are
+both organised thematically and contain sentences that do not encode
+events and are not ordered iconically. Both types of discourse want to414inform, defend a particular course of action, or express the speaker’s
+viewpoint. The focus of an expository discourse is directed towards
+building a sound argument, while the focus of a hortatory discourse is to
+modify the addressee’s thinking or behaviour. Therefore, one will find
+that a hortatory discourse is often punctuated at various intervals by valuejudgements, commands or suggestions using hortative forms and
+assertions. An expository text deals with arguments and counter
+arguments and the author can give a conclusion with or without
+exhortation. For example, in the text on problems in childless marriages
+(§11.5), the author only states his disapproval of men sending their wives
+away in the final paragraph, after he has delineated arguments in favour
+and against this behaviour.
+Expository discourse deals with reasons, goals, contrasts,
+comparisons, conditions linked to consequences, etc. The expression of
+complicated ideas leads to the use of complex sentences with subordinate
+clauses. An individual clause might be complex as well when e.g. a noun
+is modified by embedded phrases or clauses, or when a subordinate clause
+is placed in tail position when the speaker fears that the sentence might
+not be fully understood.
+In (64), the sentence contains a NP modified by a relative clause. It
+also has an object clause in tail position. The modified NP is embedded at
+two levels. The head of the NP uwr ‘man’ is marked for number by the
+phrase final plural demonstrative somokwe. The NP head uwr is modified
+by an embedded NP of which the head is sa ‘woman’. This head is
+modified by the embedded relative clause ney lopa ma lwak. The
+demonstrative seme that precedes the verb phrase establishes a logical
+relationship between this clause and the previous one. The object clause in
+tail position gives more detail to the idea expressed in the main clause.
+(64) P1
+(+embed.NP) (+embed.NP)
+Uwr, hmo
+sa,
+ney lopa ma lwak
+uwr hom-o
+sa
+ney lopa ma lwak
+child NEG RCM be
+man 2/3PL-GEN woman
+Commentsomokwe,
+sa
+uron
+so-mo-kwe
+sa
+uron
+DDEM-GL.PL-TOP then/and heartirweyk seme
+irweyk so-m-e
+different DDEM-PL-OBJ415
+Tailkamahre
+kreik, hmo
+sa
+me
+lour
+kama-hre
+kreik hom-o
+sa
+m-e
+lour
+get.PL-turn.into plenty 2/3PL-GEN woman PL-OBJ step
+swaweyr
+yay
+ha
+e.
+swaweyr
+lyay
+ha
+e
+cause.to.move.away place.down OBJ<SUB OBJ
+‘As a result the men whose wives do not have children are
+coming up with different ideas to send their wives away.’
+Apart from the fact that the hortatory and the expository text differ in
+focus, the discourse types have many similar features. Cohesive
+connectives like seyr and sawk (§9.1) which are relatively rare in
+descriptive and procedural texts often link or contrast arguments that
+support the speaker’s main contentions. Conjunctions encoding reason
+(payhokuaw §9.3.3), condition/circumstances (ankin §9.5.3), or logical
+consequence (sehe, sokwe, seme §4.4.3) are used often.
+In (65), the speaker makes use of reason and conditonal conjunctions
+and links his argment to (66) by means of the contrastive connective sawk.
+The speaker contrasts the group of men with children and the group of
+men without children. All the conjunctions and cohesive markers in (6568) are bolded.
+(65) Har, ney non ma lwak somokwe,
+kar
+har
+ney non ma lwak so-mo-kwe
+kar
+DDEM-GL.PL-TOP gladness
+some child CMT RCM be
+ley. Payhokuaw
+hom uwr nawp lwak
+ley po-ay-ho-kuaw
+hom uwr nawp lwak
+go Q-what-GL.M-for.reason.of 2/3PL man old
+be
+ankin, hmo
+ney homkwe
+hme
+ankin
+hom-o
+ney hom-kwe hom-e
+if/when 2/3PL-GEN child 2/3PL-TOP 2/3PL-OBJ
+ma-hiymon.
+ma-hiy-mon
+RPT-CAUS-do
+‘Those who have children are happy. Because, when they are
+old men, their children will look after them.’416(66) Sawk har, ney lopa somokwe
+honon
+sawk har
+ney lopa so-mo-kwe
+honon
+CHD some child NEG DDEM-GL.PL-TOP difficult
+honon, omok hom uwr nawp lwak ankin.
+honon
+omok hom uwr nawp lwak ankin
+difficult later 2/3PL man old
+be
+if/when
+‘But those without children experience hardships, when they
+have become old men.’
+Subordinate clauses normally precede the main clause, but in (66) the
+temporal clause is placed in tail position. As stated before, the tail position
+is not used for new information. The speaker simply wants to avoid
+ambiguity and adds the subordinate clause to make explicit what could
+have been understood from the context already.
+Quotes are introduced by the adverbial manner demonstrative senkin
+(§4.4.2). The two consecutive arguments in (67-68) are linked by the
+cohesive marker seyr ‘and, also’. The marker seyr links entities that are
+similar to each other (§9.1.3). In this case it links two quotes that argue in
+favour of the same point.
+(67) God so
+ok senkin
+me,
+“Uwr, sa
+God s-o
+ok so-enkin
+me
+uwr
+sa
+God 3S.M-GEN talk DDEM-MAN speak man
+woman
+ke
+huon our swaweyr
+yay
+ha
+k-e
+huon lour swaweyr
+lyay
+ha
+3S.F-OBJ marry step push.away place.down OBJ<SUB
+ankin, hiykwe
+yokun-yor ke
+meio.
+ankin
+hiy-kwe yokun-yor k-e
+meio
+if/when 3S.M-TOP theft-way 3S.F-OBJ work
+‘God’s word says this, “The man who marries his wife and
+gets rid of her again, he commits adultery (lit. works the steal
+custom).”’417(68) Seyr
+Pol so
+mamey
+kokwe
+senkin
+seyr
+Po s-o
+ma-mey ko-kwe so-enkin
+and/also Pol 3S.M-GEN leaf-write GL.F-TOP DDEM-MAN
+me,
+“Enekwei ohokwe
+uwrsa
+me
+enekwei o-ho-kwe
+uwr-sa
+speak time
+PDEM-GL.M-TOP man-woman
+hmo
+yokun-yor mokwe
+pa kraiar nuw-wak.
+hom-o
+yokun-yor mo-kwe
+pa kraiar nuw-lwak
+2/3PL-GEN theft-way GL.PL-TOP CUR many INT-be
+Uwr lowpwarowp homkwe
+hmo
+sa
+uwr lowpwarowp hom-kwe hom-o
+sa
+man all
+2/3PL-TOP 2/3PL-GEN woman
+arian non lwak e.”
+arian non lwak e
+own CMT be
+OBJ
+‘Paul’s letter states as follows, “In the present time the
+people’s adultery is abundant. Let all men have their own
+wife.”’
+A hortatory text is marked by frequent exhortations. The examples
+below are taken from a speech by the local government member exhorting
+the people to show up for the village work party the next Monday (§11.6).
+The arguments used are a combination of veiled threats and appeals to
+parental concern for the well-being of their children. The speaker portrays
+himself both as the village leader they need to obey and as the concerned
+father figure who looks after everyone’s well-being.
+His discourse expresses three times a general command to look well
+after the Aid Post. This can be done by an adhortative command (§7.1)
+with the clause-final goal marker e as is done in (69).
+(69) Hromkwe enkin ohokwe
+Aid Post se
+hrom-kwe enkin o-ho-kwe
+aid post s-e
+MAN PDEM-GL.M-TOP aid post 3S.M-OBJ
+1PL-TOP
+nekie kraiay
+e.
+nekie krai-ay
+e
+hold strength-PL OBJ
+‘At this time we should really hold on to (= look after) our
+Aid Post in a strong way.’418The speaker’s arguments are also made forceful by rhetorical
+questions that underline his arguments. Example (70) is a question which,
+though answered, is rhetorical in nature. It emphasises the fact that no
+alternatives for medical help are available. In (71), the speaker emphasises
+this point by listing the potential difficulties the people are likely to
+encounter if no action is taken.
+(70) Hai, hwon peik nakwon, hunkwe
+perey
+hai hwon peik nak-won hwon-kwe po-rey
+ill
+ACC-lie
+2S-TOP
+Q-there
+O.K. 2S
+nakey
+a?
+nak-ley a
+ACC-go INDEF
+‘If you are down with some illness, where would you go to?’
+(71) Haus Sik aiopey hay hokwe
+meiaw-ar
+haus sik aiopey hay ho-kwe
+mei-aw-ar
+house sick big
+very GL.M-TOP long-RSTR-INTF
+lwak, seyr
+yerki yaprue-ar lopa.
+lwak seyr
+yerki yaprue-ar lopa
+be
+and/also road good-INTF NEG.NOMS
+Seyr
+meinowon non.
+seyr
+meinowon non
+and/also money
+CMT
+‘The big hospital is far away, and also the road is not very
+good. And it will (cost) money.’
+Example (72) is another rhetorical question, with no need for further
+commentary.
+(72) Hromkwe meinowon pay
+non nakey
+a,
+hrom-kwe meinowon po-ay non nak-ley a
+money
+Q-what CMT ACC-go INDEF
+1PL-TOP
+hrom peik lwak mokwe?
+hrom peik lwak mo-kwe
+be
+GL.PL-TOP
+1PL ill
+‘With what money would we go, when we are ill?’
+It is very rare that the main point of a public hortatory speech is made
+in the opening lines and then followed by supporting evidence. A speaker
+prefers to pave the way for his main point by mentioning supporting419reasons and arguments first. He anticipates potential resistance to his
+opinion or proposal and tries to answer these objections before he comes
+to his main point.
+The local parliament member in his speech about the Aid Post had as
+goal to make the village people show up for community work on Monday.
+This point is only made towards the end of the speech (73), after the
+benefits of having the Aid Post have been mentioned and negative
+scenarios of the village without an Aid Post have been stressed. Even
+then, the speaker stays away from a direct command, but rather describes
+what should happen when he asks the people to work on the Aid Post.
+(73) Hme
+ha senkin
+me
+ankin, ‘Ama,
+hom-e
+ha so-enkin
+me
+ankin
+ama
+2/3PL-OBJ 1S DDEM-MAN speak if/when ADDR.PL
+Yabru-om,
+hromkwe Mande mokwe
+Aid
+Yabru-om
+hrom-kwe mande
+mo-kwe
+aid
+Yabru-group 1PL-TOP
+Monday GL.PL-TOP aid
+Post-mey meio e’,
+homkwe
+hano
+ok
+post-mey meio e
+hom-kwe han-o ok
+post-job work OBJ.IMP 2/3PL-TOP 1S-GEN talk
+ko
+meyki ley nok, meiò.
+k-o
+meyki ley nok meio
+3S.F-GEN after go SEQ work.PFTV
+‘When I say to you, “Yabru people, every Monday we should
+work on the Aid Post”, you should then listen to my words
+and do the work.’10.2.5 Personal letters
+Personal letters have several features which distinguish them from
+other thematically organised texts. They have five components:
+a. name of the addressee;
+b. introductory greetings;
+c. stage setting or introduction to the main point;
+d. main point or request;
+e. closing, which has the writer’s signature.","[421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433]"
+"474475Craig, B. 2008. ‘Sorcery divination among the Abau of the Idam Valley,
+Upper Sepik, Papua New Guinea’, Journal of Ritual Studies 22,
+pp. 37-51.
+Craig, B. 1976. ‘The Keram Style in the Abau area of the Upper Sepik,
+PNG’. Baessler-Archiv 24: 181-95 (with a 1983 postscript in Vol.
+31: 351-55).
+Dik, Simon C. 1980. Studies in Functional Grammar. New York:
+Academic Press.
+Dik, Simon C. 1981. Functional grammar. Third edition. Dordrecht:
+Foris.
+Dixon, R.M.W. 2003. Demonstratives: a cross-linguistic typology. Studies
+in Language 27: 61-112.
+Dooley, Robert A. and Stephen H. Levinsohn. 2001. Analyzing discourse:
+a manual of basic concepts. Dallas: SIL International.
+Fyfe, Andrew and Jill Bolton. 2010. “An analysis of associations between
+string bag variability language and geographical distance in the
+upper Sepik basin and Border Mountains.” Working paper, posted
+at: http://www.uscngp.com/papers/an-analysis-of-associationsbetween-string-bag-variability-language-and-geographicaldistance-in-the-upper-sepik-basin-and-border-mountains/.
+Foley, William A. 1986. The Papuan languages of New Guinea.
+Cambridge: Cambridge University Press.
+Foley, William A. 2005. Linguistic prehistory in the Sepik-Ramu basin. In
+Pawley et al, eds. 109-144.
+Givón, Talmy. 1987. Beyond foreground and background. In Russell S.
+Tomlin, ed. Coherence and grounding in discourse. 175-188.
+Amsterdam/Philadelphia: John Benjamins.","[488, 489]"
+"192The comment NP in (11) was written above a text that described how
+to build a house.
+(11) Comment
+A
+meio yor.
+a
+meio yor
+house
+work way
+‘The way of house building.’
+In (12), the title of a well-known legend is given at the beginning of
+the story.
+(12) Comment
+Uwr-oryay-kiy
+mo
+okpey
+ok.
+uwr-oryay-kiy
+m-o
+ok-pey ok
+man-older.brother-two PL-GEN talk-part talk
+‘The story of the two brothers.’6.3Stative and existential verb lwak ‘to be’6.3.1 Stative verb relating comment to topic
+The stative verb lwak ‘to be’ can be placed after comment constituents
+with minimal semantic difference. Its presence basically changes an
+utterance stated in absolute terms (13) into an utterance that is placed into
+a time frame (14). (The verb lwak is marked for imperfective.)
+(13) Wawp
+mokwe
+weyspey.
+wawp
+mo-kwe
+weyspey
+bird.sp GL.PL-TOP white
+‘As for wawp birds, they are white.’ (General truth stated
+absolutely.)
+(14) Wawp
+mokwe
+weyspey lwâk.
+wawp
+mo-kwe
+weyspey lwak
+bird.sp GL.PL-TOP white
+be. IPFTV
+‘As for wawp birds, they are being white.’ (A present truth
+that may or may not change.)
+The presence of the existential verb lwak in (14) gives the comment a
+time reference. Comrie (1976: 103-106) describes the difference in terms
+of the distinction between contingent state and absolute state. In (14), the
+existential verb lwak marks the whiteness of the birds as contingent. This
+fact can potentially change whereas the absence of the stative verb lwak in193(13) gives the utterance an absolute timeless truth value. Compare also
+(10) and (17) where (10), without lwak, states a timeless truth or state of
+affairs. There is no indication that the state described was ever different.
+Example (17) places the predicate in a time frame which suggests
+uncertainty whether this state was different in the past or will be different
+in the future.
+Existential clauses encode temporary, contingent conditions. The
+topic constituent is by definition topicalised. The verb lwak ‘to be’ relates
+the comment to the topic in terms of characteristics.
+(15) Pruam
+mokwe
+ahney me
+hieyn-aw lwâk.
+pruam
+mo-kwe
+ahney m-e
+hieyn-aw lwak
+PL-OBJ like-RSTR be. IPFTV
+cassowary GL.PL-TOP bird
+‘As for cassowaries, they are just like birds.’
+(16) Woyo mo
+i
+mokwe
+haraw lwâk.
+woyo m-o
+i
+mo-kwe
+haraw lwak
+fowl PL-GEN leg GL.PL-TOP short be. IPFTV
+‘As for the legs of fowls, they are short.’
+In (17), two topics are given and the comment yaprue ‘good’ fits with
+either one.
+(17) Enkin kokwe
+aio
+so
+irowp hokwe
+enkin ko-kwe aio
+s-o
+irowp ho-kwe
+MAN GL.F-TOP father 3S.M-GEN arm
+GL.M-TOP
+yaprue lwâk.
+yaprue lwak
+good
+be. IPFTV
+‘At this time, as for father’s arm, it is alright.’
+Existential clauses having the verb lwak can occur with a topic marker
+and be either marked or unmarked for subject. In (18), the topic
+constituent is marked with the NP subject marker hom ‘2/3pl’ which is
+suffixed with the topic marker -kwe. The verb lwak can be marked for the
+imperfective (18) or perfective (19).
+(18) Wawp
+homkwe weyspey lwâk
+Wawp hom-kwe weyspey lwak
+bird.sp 2/3PL-TOP white
+be. IPFTV
+‘Wawp birds are white’194(19) Wawp homkwe weyspey lwàk
+Wawp hom-kwe weyspey lwak
+be.PFTV
+bird.sp 2/3PL-TOP white
+‘Wawp birds were white’6.3.2 Existential verb relating topic and comment
+If lwak ‘to be’ relates the topic to the comment in terms of
+characteristics, it can be deleted. See (13) and (14). If lwak ‘to be’ relates
+the topic to the comment in terms of time or location, it cannot be deleted.
+In (20), the verb lwak functions not as a stative verb that relates the topic
+with characteristics, but as an intransitive verb that relates the topic with
+location. The verb lwak relates the comment (the locative NP) to the topic
+(a participant within the story). The motion verb lanio ‘walk’ in (21)
+fulfils a similar function in regard to location.
+(20) Huok kamon aiopey hokwe
+ki
+sapa kamon
+huok kamon aiopey ho-kwe
+ki
+sapa kamon
+pig
+one
+big
+GL.M-TOP ground forest one
+mon lwak.
+mon lwak
+LOC be
+‘As for a certain big pig, it was (= lived) in a certain forest
+area.’
+(21) Huok kamon aiopey hokwe
+ki
+sapa kamon
+huok kamon aiopey ho-kwe
+ki
+sapa kamon
+pig
+one
+big
+GL.M-TOP ground forest one
+mon lanio.
+mon lanio
+LOC walk
+‘As for a certain big pig, it walked in a certain forest area.’
+The verb lwak ‘to be’ has the existential meaning ‘to live’ in contexts
+that refer to time and location. This was already shown in (20) where a
+topicalised participant was related to a comment that expressed location. It
+is also possible to topicalise the location or temporal and relate this
+constituent to a comment that signals the participant. If this is done, the
+modifier senkin ‘DDEM-MAN’ is obligatorily present preceding lwak.
+In (23) and (22) the topic constituents relate respectively to location
+and time. In order to relate these topic constituents to a comment195constituent that signals an animate participant, the manner demonstrative
+senkin needs to precede lwak.
+(22) Om
+kamon hokwe
+uwr nawp prueyn
+om
+kamon ho-kwe
+uwr nawp prueyn
+GL.M-TOP man old
+one
+village one
+senkin
+lwàk.
+so-enkin
+lwak
+DDEM-MAN be.PFTV
+‘At a certain place, a certain old man lived thus.’
+(23) Paraw paraw-ar kokwe
+wayp so
+ney
+paraw paraw-ar ko-kwe wayp s-o
+ney
+past
+past-INTF GL.F-TOP eagle 3S.M-GEN child
+prueyn senkin
+lwàk.
+prueyn so-enkin
+lwak
+one
+DDEM-MAN be.PFTV
+‘A long time ago, a certain son of an eagle lived thus.’6.4Verbal clausesThe verbal clause is discussed in the following sections, starting with
+the most nuclear part of the clause: the verb phrase. More phrase
+constituents will be added to the verb phrase in the following sections,
+starting with non-topicalised constituents that have no syntactic or
+semantic case marking, working towards a fully developed verbal clause
+that has constituents that display all variations of topic, syntactic and
+semantic markings. In the examples below all the verb phrases are
+underlined for easy recognition.","[205, 206, 207, 208, 209]"
+"386(4) P2
+Ok-pey-ok
+okukwe,
+ok-pey-ok
+o-ko-kwe
+talk-part-talk PDEM-GL.F-TOPP2P1pokon hromkwe
+pokon hrom-kwe
+today 1PL-TOPCommentuwr
+prueysyar so
+okpey
+ke
+uwr
+prueysyar s-o
+ok-pey k-e
+man
+two
+3S.M-GEN talk-part 3S.F-OBJ
+lonuayk ey.
+lonuayk ey
+hear
+INTN
+‘As for this story, we are going to hear now the story of two
+men.’
+The main point of hortatory and expository texts, and also letters, is
+normally not revealed in the introduction, and not even early in the body
+of the text. The main point of these three text types is often subjective and
+might be controversial. The speaker tries to anticipate and overcome
+potential resistance with introductory observations and statements. Only
+after stating these presuppositions will the speaker make his main point.
+(Examples are given in the sections dealing with hortatory and expository
+texts, and letters.)
+This is not the case with procedural and descriptive texts, since their
+contents are mostly non-controversial and neutral. The theme of the text is
+therefore often mentioned in the introduction. The topic of procedural
+texts and descriptive texts can often be contained in a noun phrase or short
+clause. See (3) and (5).
+Example (5) is taken from a descriptive text (§11.4) which was
+produced as a written text. The author gave it a title consisting of one nontopicalised NP that immediately relays the theme of the descriptive text.
+The title is sufficient introduction, so the description of the topic starts
+immediately in the next sentence. This is realised by a clause formed with
+the stative verb lwak ‘be’.
+(5) Comment
+P1
+Wondeis mo
+me-nonkway-ok. Wondeis mo
+wondeis m-o
+me-nonkway-ok wondeis m-o
+snake.sp PL-GEN speak-know-talk snake.sp PL-GEN387
+Commentowh mokwe
+ma
+me
+hieyn lwak.
+owh mo-kwe
+ma
+m-e
+hieyn lwak
+PL-OBJ like
+be
+body GL.PL-TOP leaf
+‘The information about wondeis snakes. The body of the
+wondeis snake is like leaves (= green).’
+The introduction to the content in time-iconic ordered texts often
+takes the form of
+a. a temporal (nearly always) or spatial setting, or
+b. an introduction of the principal participants.
+Example (6) is taken from a non-fiction narrative which was produced
+as a written text. The time setting and the participants are introduced as
+background information and are therefore topicalised. The first line
+functions as an introduction to the story, but it also starts the story line.
+The second sentence moves the story line further along, which is
+exemplified by the fact that there is only one short topicalised constituent
+in the topic part of the clause versus various constituents in the long
+comment part of the sentence.
+P1=Sub
+(6) P2
+Enekwei kamon hokwe,
+Peni
+o, Jon o,
+enekwei kamon ho-kwe
+Peni
+o
+Jon o
+time
+one.CL2 GL.M-TOP Peni
+and Jon and
+CommentP1=Subhohkwe arawh nonaw
+ley nayr. Hohkwe
+hoh-kwe arawh non-aw
+ley nayr hoh-kwe
+3DU-TOP night CMT-RSTR go night 3DU.SUB-TOP
+Commentsawk ki-mawk
+kamon mon huk
+sawk ki-mawk
+kamon mon huk
+CHD ground-head one
+LOC hook
+non-sakeyn
+e
+ley nayr.
+non-sakeyn
+e
+ley nayr
+DU-throw.in.water PURP go night
+‘One time Peni and Jon went out during the night. The two of
+them went to a certain headland in order to throw out both
+their hooks during the night.’388Example (7) is taken from the beginning of a story. The first sentence
+is framed with the stative verb lwak which is an indicator of background
+information. Two topicalised NPs give the setting for the comment that is
+expressed by the comment part of the first sentence. It is important to note
+that in the second sentence the participant ohi-weys prueyn ‘a white
+person’ is not introduced as background information. The second sentence
+has no topicalised constituents and the newly introduced participant is
+marked for subject. This is a clear indication that the story line has
+changed from background to foreground and that this sentence points
+towards a climactic event within the story line.
+P1=Sub
+Comment
+(7) P2
+Paraw paraw-ar kokwe
+hromkwe ai
+uru
+paraw paraw-ar ko-kwe hrom-kwe ai
+uru
+past
+past-INTF GL.F-TOP 1PL-TOP
+food
+name
+popo
+ok ma me
+sehiy
+lopa lwak.
+popo
+ok ma me
+s-o-hiy
+lopa lwak
+papaya talk RCM speak PDEM-3S.M NEG be
+CommentTailSawk ohi-weys prueyn hiy lousne, hromo
+sawk ohi-weys prueyn hiy lousne hrom-o
+CHD skin-white one
+3S.M appear 1PL-GEN
+P1Commentyier mon. Sawk hiykwe
+popo
+kamon
+yier mon sawk hiy-kwe popo
+kamon
+place LOC CHD 3S.M-TOP papaya one
+senkin
+nak-e.
+so-enkin
+nak-le
+DDem-MAN ACC-come
+‘Long ago we did not have this food called papaya. But a
+white person came to our place. He brought a papaya like
+this.’
+An introduction to the contents of a thematically oriented text is
+usually done in the very beginning of the text with a clearly stated
+reference to the global theme. In (8) and (9), the author introduces the
+theme for the whole discourse in the opening sentence and then continues
+to give details related to this theme.","[399, 400, 401, 402]"
+"346(3) Hohkwe sawk sehe
+ma-non-nakey
+hoh-kwe sawk so-h-e
+ma-non-nak-ley
+3DU-TOP CHD DDEM-3S-OBJ RPT-DU-ACC-go
+kie.
+Sawk man
+non loway
+kie
+sawk man
+non loway
+go.downstream CHD crayfish CMT scoop
+sakeyn
+kie.
+sakeyn
+kie
+throw.in.water go.downstream
+‘So consequently the two of them now went back going
+downstream. And/but they threw out (the hooks) with the
+crayfish (being) downstream.’
+(4) Sawk hyo
+wayh-ih
+Peni so
+huk
+sawk hiy-o
+wayh-ih
+Peni s-o
+huk
+CHD 3S.M-GEN friend-KIN Peni 3S.M-GEN hook
+hokwe,
+man
+aiopey hay ke
+hin.
+ho-kwe
+man
+aiopey hay k-e
+hin
+GL.M-TOP crayfish big
+very 3S.F-OBJ shoot
+Sawk Jon hiykwe
+sa
+sehe
+sawk Jon hiy-kwe
+sa
+so-h-e
+CHD Jon 3S.M.SUB-TOP then/and DDEM-3S.M-OBJ
+am-saw-uwray
+nekie liok.
+am-saw-luwray
+nekie liok
+DIR:near-SPD-pull hold in.vain
+‘But the hook of his friend Peni caught a big crayfish. And
+consequently Jon now tried - unsuccessfully - to pull it in very
+quickly.’9.1.2 Sequential cohesion marker sa
+The cohesion marker sa indicates sequential cohesion between two
+events. It encodes temporal succession. The sequencing sa expresses is
+not related to contrast or change in focus or direction, but to the iconic
+order of the events in the real world.
+When sa occurs after a NP, it takes this NP into its scope and
+highlights its importance as participant in the subsequent action. In (5),
+the connective sa is placed after the NP homkwe ‘2/3PL.TOP’. The
+connective takes this NP into its scope and marks its importance as a347participant in the event following. The connective itself sequences the two
+events mentioned in the two sentences.
+(5) Ipey-aio
+homkwe
+sawk kar
+ley pa.
+ipey-aio
+hom-kwe sawk kar
+ley pa
+mother-father 2/3PL-TOP CHD gladness go NEG.PFTV
+Homkwe sa
+eheyr lyuk, hmo
+hom-kwe sa
+eheyr lyuk hom-o
+2/3PL-TOP then/and crying cry 2/3PL-GEN
+ney se.
+ney s-e
+child 3S.M-OBJ
+‘The parents were not happy. Then they mourned for their
+child.’
+When sa occurs clause or sentence-initially, it encodes temporal
+succession.
+Example (6) contains the sequential cohesion marker sa twice. It
+marks the event in the clause it is part of as subsequent to the event
+mentioned in the previous clause.
+(6) Kenu hiykiaw
+seyr
+pa po ley, wueir
+Kenu hiy-kiaw seyr
+pa po ley wueir
+Kenu 3S.M-SLCT and/also CUR PFT go garden
+mon kokwe.
+Sa
+Jon hiykwe
+yoh
+mon ko-kwe sa
+Jon hiy-kwe yoh
+LOC GL.F-TOP then/and Jon 3S.M-TOP banana
+se
+lok
+liok.
+Sa
+Kenu hiykiaw
+s-e
+lok
+liok
+sa
+Kenu hiy-kiaw
+3S.M-OBJ move in.vain then/and Kenu 3S.M-SLCT
+sehe
+le
+nok, lira, yokun-uwr se.
+so-h-e
+le
+nok lira yokun-uwr s-e
+DDEM-3S.M-OBJ come SEQ see theft-man
+3S.M-OBJ
+‘(Context: Jon had already secretly gone to Kenu’s garden)
+Kenu himself had also left for the garden. Then Jon tried unsuccessfully - to take away bananas. So then Kenu himself
+came and saw the thief.’
+It is worthwhile to compare the sequential cohesion marker sa with
+the clause-final sequential marker nok (§9.5.4). Whereas the cohesion348marker sa can be used when there is a change of subject, the sequential
+conjunction marker nok can only be used to describe a series of events
+when there is no change of subject. The sequential marker sa is used in
+two different clauses in (6) and both clauses host a subject that is different
+from the previous clause. The sequential marker nok is used once to
+connect two clauses which both have the same subject, though the subject
+is only expressed in the first clause.
+Example (7) illustrates the same point. The conjunction marker nok
+connects two clauses with the same subject. The sequential cohesion
+marker sa starts a clause which has a different subject than the preceding
+clause.
+(7) How hom loum menkin, ine-ih
+hok or
+how hom loum menkin ine-ih
+hok or
+sister-KIN 3S.F blackness
+taro 2/3PL burn when
+me
+lowr
+say nok, liwak a. Sa
+m-e
+lowr
+say nok liwak la sa
+PL-OBJ scrape off SEQ sit
+eat then/and
+sok
+hiy
+lousne.
+sok
+hiy
+lousne
+snake 3S.M.SUB appear
+‘When the taros were cooked, the sister scraped off the black
+(burned parts) and then sat down to eat. Then a snake
+appeared.’9.1.3 Addition cohesion marker seyr
+Like sawk and sa, the cohesion marker seyr occurs clause-initially or
+following a NP. It expresses added or extended information, and can often
+be translated in English by ‘also’ or ‘as well’. The added information is
+not time oriented. It supplies more information about an already
+introduced participant. This information will never contradict what was
+already known.
+In (8), a town is described as having a large number of people. The
+description of the town is extended. The cohesion marker seyr is followed
+by the comment ki ko yeyk mokwe kraiar ‘a large number of cars’. This
+does not contradict the information already given about the town, but is in
+harmony with it.","[359, 360, 361, 362]"

@@ -1,0 +1,3446 @@
+Paragraph,Page number
+"47(55) a. tejæ
+nəkale
+tejæ
+nəkə-a-le
+PRO:1SG sit-1SG.SBJ-IND
+‘I sit.’
+b. tejæ
+Onsá ərəj
+tejæ
+onsa ərəj
+PRO:1SG PN
+see
+‘I see Onsá.’
+The above template is subject to many changes and movements since constituent order is
+variable dependent on the assignment of syntactic roles and information structural operations.
+Additionally, distinctions between intransitive, transitive and ditransitive verbs are semanticsbased, formally not being distinguished, but contextually by (implicit) object arguments and
+optional object marking(s) on the verb.
+Section 4.1 discusses the word order, section 4.2 details the intricate verb complex including
+the ventive marker, verbal negation and the habitual (4.2.1), markers of affectedness and
+directionality (4.2.2), tense-aspect (4.2.3), person-number marking (4.2.4) and mood (4.2.5),
+and finally clauses with non-verbal predication (4.3) and particles (4.4).
+4.1 Word order and focus
+Although the most unmarked word order is SOV, word order in Sentani is quite free, with all
+non-verbal constituents having at least some maneuverability dependent on information
+structure. While all non-verbal constituents can and do move frequently, the verb itself cannot
+move. That is to say, in some cases the object is placed after the verb (56a),23 or a particle is
+placed after the verb to indicate its sentence-level scope (56b) to focalize the respective
+element, but the verb itself stays in place. Additionally, a locational clitic can be attached to
+the verb when a locational referent is un(der)specified, which indicates that the action takes
+place in a direction from or to some location, but that this location is not relevant to the
+discourse (56c).
+(56)a.næko
+wəwnə
+n-æko
+wə-w-nə
+3.POSS-father ask-3SG.SBJ-3SG.OBJ
+‘The father said to his son:’b.","[48, 49]"
+"The possessive prefixes may initially look like the regular independent pronouns,
+phonologically reduced through fast speech, but the fact that, in cases where the possessed
+noun does not start with a vowel, an epenthetic vowel, [ə], is inserted rather than the vowel
+present in the independent pronouns (52b), in this case /e/, shows that this cannot be the case.
+(52) a. taj
+taj
+PRO:1SG.POSSmæko
+m-æko
+1PL.POSS-father‘my father’
+c. taj
+taj
+PRO:1SG.POSSmənakə
+m-nakə
+1PL.POSS-mother‘my mother’
+This, in combination with the optional double possession marking in the obligatorily possessed
+nouns (53), shows that they are synchronically prefixes rather than phonologically reduced
+independent pronouns. However, they are historically clearly related to the independent
+pronouns and take their form from the first consonant of the respective independent pronoun.
+This means that in some cases a pronominal distinction has been lost, for example for the first
+46and second person plural, both of which are m-. This ambiguity is resolved by the use of
+independent pronouns.
+(53) wejæ
+wataj
+rusise
+afæw?
+wejæ
+w-ataj
+rusise
+afæw
+PRO:2SG 2SG.POSS-knowledge Russian language
+‘Do you know Russian?’
+In addition to the nouns noted above, there is one instance of a lexical noun being possessively
+prefixed, (54), but the speaker noted that, although it was grammatical, it was somewhat
+strange. This may mean that either this possession construction is spreading to a broader set of
+lexical nouns, or that the instance in (54) is a vestige of a previously widespread but now
+restricted possession construction.
+(54) pele
+pele
+DEMto
+ukəwnə
+to
+ukə-w-nə
+man tell-3SG.SBJ-3SG.OBJna
+nahekerə
+nobo
+kajarə
+heke=rə
+n-obo
+kaja=rə
+PRO:3 garden=TO 3.POSS-pig guard=TO
+‘The man told him to be his pigs’ guard.’ (lit. ‘guard of pigs’4 Verbs and basic clauses
+This chapter discusses the verb complex and the basic clause. By basic clause I mean the most
+sentence construction, minimally consisting of one noun and one inflected verb complex
+(although see section 4.3), which can function without context. This thus excludes complex
+sentential operations such as complement clauses as well as discourse-based operations such
+as tail-head linkage (which is very briefly discussed in section 5.3).
+As said, the basic template of a full-fledged sentence is a (nominal) subject and a verb inflected
+for tense. However, there are several constituents that can be added to expand this basic
+template, such as objects, particles, or temporal/locational phrases:
+[(particle) [(temporal/location phrase)] [subject] [(object(s))] verb (particle)]
+Thus, the most standard word order is SOV. While the verb is typically also inflected for person
+and number as well as mood, this is not strictly necessary. Additionally, the present tense is
+unmarked, which means that, although the verbal complex can be very intricate and expansive,
+very little morphology is obligatory. Of course, within context it is possible for a sentence to
+consists only of a single lexical word, particle, or (inflected) verb. There is no dedicated case
+marking on the nominal arguments, meaning that the assignment of syntactic roles is based on
+context, pronominal case marking on the verb (55a), and constituent ordering (55b; although
+see the use of locational enclitics to mark objects in section 3.3.1 above). In other words, the
+role of a noun phrase is usually not explicitly marked on the noun phrase itself, but follows
+from the other elements in a sentence.","[47, 48]"
+"48must attach to an overt constituent. If the clitic were to attach to fa ‘young’, this would imply
+that this is the location (object) argument, and thus cannot occur. Therefore, the clitic moves
+to the ‘post-verb focal position’ and attaches to the verb (see section 3.3.1 for further discussion
+of the locational clitics).
+For the subject and object constituents, the most typical movement is the fronting of the object
+constituent in order to focalize it. This differs from the post-verbal position in that it does not
+necessarily emphasize the undergoer status, i.e. emphasizing that the action takes place unto
+this argument, but rather discourse-level focalization, such as in a contrastive sentence, or when
+it is unexpected in the context. Where (57a) is in an unmarked constituent ordering and thus
+gives a standard reading, (57b) indicates “I have said something to you, as opposed to someone
+else”, giving contrastive focus to the object. Since the subject’s standard position is often
+already sentence-initial, focalization of the subject is achieved with particles rather than
+movement (see section 4.4.2). However, if a temporal/locational noun phrase is present, and
+thus the subject is no longer sentence-initial in unmarked word order, this movement can still
+take place, as in (57c).
+(57)ələkoke
+ələ-ko-kə-le
+say-PLU-PST-INDa.tejæ
+ware
+a
+tejæ
+wa=re
+a
+PRO:1SG PRO:2SG=TWDS word
+‘I have said something to you.’b.ware
+tejæ
+a
+ələkoke
+wa=re
+tejæ
+a
+ələ-ko-kə-le
+PRO:2SG=TWDS
+PRO:1SG word say-PLU-PST-IND
+‘I have said something to you.’c.","[49, 50]"
+"A grammar sketch of Sentani
+Clemens J. Mayer – S1897039
+Leiden UniversityThesis Research Master’s Linguistics
+Under supervision of Prof. Dr. M.A.F. Klamer
+June 202121Introduction ...................................................................................................................... 6
+1.1The Sentanic family and the Sentani dialects.............................................................. 71.2Current linguistic situation near Lake Sentani ............................................................ 81.3Methodology ............................................................................................................... 81.3.1 The data & data collection ..................................................................................... 8
+1.3.2 The speaker, his language attrition, and its effects on this sketch ....................... 10
+2Phonology........................................................................................................................ 11
+2.1Introduction ............................................................................................................... 112.1.1 Consonants ........................................................................................................... 12
+2.1.2 Vowels ................................................................................................................. 14
+2.1.3 Allophony and allomorphy .................................................................................. 15
+2.2Syllables & Syllable structure ................................................................................... 222.2.1 Closed syllables ................................................................................................... 2332.3Stress ......................................................................................................................... 252.4Orthography/Orthographical conventions ................................................................. 29Nouns and the noun phrase ........................................................................................... 31
+3.1Nouns ........................................................................................................................ 313.1.1 Common Nouns ................................................................................................... 31
+3.1.2 Mass Nouns .......................................................................................................... 32
+3.1.3 Proper nouns ........................................................................................................ 32
+3.1.4 Kinship terms ....................................................................................................... 33
+3.1.5 Temporal/locational nouns & demonstratives ..................................................... 35
+3.1.6 Compounds .......................................................................................................... 37
+3.2Pronouns .................................................................................................................... 383.3The Noun Phrase ....................................................................................................... 393.3.1 Nominal morphology ........................................................................................... 40
+3.3.2 Adjectives ............................................................................................................ 43
+3.3.3 Numerals .............................................................................................................. 44
+3.3.4 Possession ............................................................................................................ 45
+4Verbs and basic clauses ................................................................................................. 47
+4.1Word order and focus ................................................................................................ 484.2The Verb complex ..................................................................................................... 494.2.1PRE & Habitual ..................................................................................................... 534.2.2SFX1 ...................................................................................................................... 544.2.3 Tense-aspect ......................................................................................................... 59
+34.2.4 Person-number Marking ...................................................................................... 60
+4.2.5 Mood .................................................................................................................... 62
+4.3Clauses with non-verbal predication ......................................................................... 634.4Particles ..................................................................................................................... 644.4.1 Question words .................................................................................................... 64
+4.4.2 Discourse particles ............................................................................................... 65
+5Interrogation, multi-verb constructions and interclausal relations .......................... 67
+5.1Interrogation .............................................................................................................. 675.2Multi-verb constructions ........................................................................................... 695.3Interclausal relations ................................................................................................. 726Summary and Conclusion ............................................................................................. 747References ....................................................................................................................... 76Appendix A: Texts ................................................................................................................. 78
+Ebalə Jakali .......................................................................................................................... 78
+Fa Nundewboke ................................................................................................................... 91
+Appendix B: Dictionary......................................................................................................... 994Glosses and Abbreviations
+Gloss
+1, 2, 3
+AT
+AU
+CONJ
+CONNCSet
+DEM
+DIR.TO
+DIR.FRM
+DIST
+DL
+E
+EMPHESet
+EXCLFOB
+FROM
+FUTFYB
+HAB
+IMPF
+INCL
+IND
+IN
+LOCMB
+MEDN
+NEG
+OBJ
+PN
+PL
+PLU
+POSS
+PRO
+PROX
+PST
+REFL
+SBJ
+SG
+TO
+TWDS
+VENTWSetMeaning
+first, second, third person
+ablative
+affected undergoer
+conjunction
+connective
+Central Sentani
+demonstrative
+direction towards
+direction away
+distal
+dual
+epenthetic vowel
+emphatic particle
+Eastern Sentani
+exclusive
+father’s older brother
+away from
+future
+father’s younger brother
+habitual
+imperfect
+inclusive
+indicative
+in or at
+locative
+mother’s brother
+medial
+unspecified nasal phoneme
+negative
+object
+proper noun
+plural
+plural undergoer
+possessive
+independent pronoun
+proximal
+past
+reflexive
+subject
+singular
+general movement
+towards
+ventive
+Western Sentani5Foreword
+This Research Master’s thesis, a sketch grammar of the Sentani language, was born out of the
+exceptional circumstances created by the COVID-19 pandemic. The pandemic prevented the
+on-site fieldwork on a different Papuan language originally planned as my thesis project, and I
+thus had to find an alternative project. Since I wanted to write a sketch grammar of a Papuan
+language I contacted people from or in contact with people from New Guinea to see if there
+were any native speakers of Papuan languages living in the Netherlands; I came into contact
+with Gershon Kaigere, or Kələw nikíban, and together with him we were able to discuss the
+Sentani language and collect the data on which this sketch grammar is based. I am extremely
+grateful to have worked with my friend Gershon, and his knowledge and joy of language,
+culture and life has taught me much about how to approach the study of language and myself.
+Clemens Mayer
+Leiden, 20211 Introduction
+This chapter introduces the Sentani language, its dialects and speakers (section 1.1), and its
+linguistic area (section 1.2), as well as the methodology and research data that form the basis
+on which this sketch grammar is written (section 1.3). Sentani is an endangered and relatively
+underdescribed language spoken around the Sentani Lakes area near Jayapura in western New
+Guinea (see Figure 1).","[1, 2, 3, 4, 5, 6, 7]"
+"74Particles are frequently used and can have several functions, such as emphasis, discourse
+organization, or even adverb-like. Question words can function as particles or can be placed in
+situ in an interrogative construction.
+The unmarked word order is SOV, but all non-verbal constituents have the option to be moved,
+depending on information structural processes.
+There are three types of multi-verb constructions: Serial verb constructions, verbal compounds,
+and Close Event Sequences. The latter is a construction that indicates that two events are
+immediately sequential, but are distinct actions nonetheless, contrary to serial verb
+constructions. They are characterized by two verb complexes, each in their own verbal clause,
+with no interfering constituents.
+While only being very briefly discussed in this grammar sketch, tail-head linkage is present in
+Sentani and occurs regularly, although infrequently.
+This sketch grammar has given an exploratory insight into the complexities of the Sentani
+language. Many aspects of the language have been discussed, but for the vast majority of them
+restrictions in data, the nature of the data collection and space a detailed and expansive analysis
+was not possible. Thus, many areas of the language and its culture remain underexplored, such
+as affix ordering, the exact function of particles, or multi-verb constructions, or completely
+unexplored, such as complex clauses, most discourse-level processes, pragmatics, and
+indigenous knowledge. Nonetheless, I believe that the sketch grammar contains interesting and
+useful data and analyses, and provides many novel insights or re-analyses of previous linguistic
+works published on Sentani, as well as a small amount of comparative historical phonology
+that further supports the established Sentanic language family.","[75, 76]"
+"58b.məkə
+m-ə-kə
+VENT-go-PSTnaj
+naj
+PRO:3.POSSto
+to
+manu
+u
+bodyja
+ja
+alreadypənəwhoke
+nəkəwole
+pə-nə-w-ho-kə-le
+nəkə-wo-le
+return-3SG.OBJ-E-DIR.FRM-PST-IND
+sit-IMPF-IND
+‘Coming back, he returned back [from a woman] to a man.’
+In summary, the markers in the SFX1 category are the first suffix that follows the verb root, in
+regular circumstances, and consist of two functional categories: One emphasizing different
+forms of affectedness, and one emphasizing the direction in which the action takes place.
+Almost all markers in this cateogry seem to stem from previous verb roots or nominal
+compounds, but they are no longer formally connected to these, and a number of them have
+also started to move from their literal meanings to more grammatical, abstract meanings. Due
+to their varied origin and in some cases highly specific meaning, it is possible that further SFX1
+markers will be found in the future.
+4.2.3 Tense-aspect
+In this category, there is a functional overlap between tense and aspect. This does not
+necessarily mean that there are markers that express both tense and aspect, but that they express
+either tense or aspect while belonging to the same formal category. Of the four markers, three
+express tense, the present, past and future, while one expresses aspect: the imperfect. The
+present tense is unmarked, and can thus be recognized by the absence of any of the other tense
+markers (72a). The past tense and the imperfect aspect are both marked with a suffix, -kə PST
+(72b) and -wo IMPF (72c) respectively, which is placed after the SFX1 marker and before the
+subject and object markers and/or mood marker. It could be argued that the imperfect aspect
+occurs together with the present tense, but since it is mutually exclusive with and occurs in the
+same position as the past tense, and there is no further formal ‘aspect’ category, it must be
+analyzed as part of the same category as the tenses.
+The future tense, as is further discussed in section 4.2.4 below, consists of a dedicated
+pronominal subject suffix paradigm, which combines syntactic role, person and number, and
+tense (72d). The future tense is also used to indicate desire rather than strictly tense.
+(72)a. tejæ
+ware
+tejæ
+wa=re
+PRO:1SG
+PRO:2SG=TWDS
+‘I tell you a traditional story.’akojkoj
+a
+akojkoj
+a
+trad.singing wordukawale
+ukə-aw-a-le
+tell-2SG.OBJ-1SG.SBJ-INDb. wena
+məhǽ-məhǽ obo
+hopowkoke
+wena
+məhǽ-məhǽ obo
+hə-po-w-ko-kə-le
+yesterday
+how.much
+pig
+hit-strike-E-PLU-PST-IND
+‘How many pigs were slaughtered yesterday?’
+c. məhinə
+hakowale
+məhi=nə
+hako-wo-a-le
+sadness=IN sorrow-IMPF-1SG.SBJ-IND
+‘I am feeling sad.’
+59d. Awansi
+awansimajnə
+məkəne
+maj=nə
+m-ə-kə-ən-le
+PN
+PRO:2PL.POSS=IN VENT-go-PST-3SG.SBJ.FUT-IND
+‘Awansi will come to you all.’The vowel of the past tense marker is often obscured due to assimilation or vowel harmony,
+most frequently with a third person singular, i.e. unmarked, subject in the combination /kə-le/
+PST-IND, which surfaces as [ke]. Similarly, the vowel of the imperfect marker is obscured when
+the following suffix starts with a vowel. However, due to their predictable position and their
+consonants remaining relatively robust, there are few instances of ambiguity tense-wise, in
+which instance the context usually resolves it.
+4.2.4 Person-number Marking
+There are several pronominal paradigms for both subject and object suffixes. The subject
+paradigms are divided into a neutral, non-future paradigm (Table 29), and the future paradigm
+which combines person and tense marking (Table 30).
+Singular Dual Plural
+1
+-a
+-ən
+-an
+2
+-j
+-ew
+-aw
+3
+-ej
+-aj
+∅
+Table 29 Sentani non-future subject suffixesSingular Dual Plural
+1
+-te
+-a
+-ma
+2
+-ew
+-əm
+∅
+3
+-ən
+-nej
+-naj
+Table 30 Sentani future subject suffixes (Adapted from Elenbaas 1999, 54)The object paradigms are divided along similar, but crucially different lines: The first paradigm
+is used when the subject is first or second person singular and the sentence is in a non-future
+tense (Table 31), and the second paradigm is used for third person singular subject, plural
+subject, and future tense (Table 32). (73) shows both paradigms:
+(73) warə
+wa=rə
+2SG=TOmokowbokawale
+moko-w-bo-kə-aw-a-le
+do-E-AU-PST-2SG.OBJ-1SG.SBJ-INDwa
+wa
+PRO:2SGtarə
+əwətəmmæ
+ta=rə
+ə-wə-j-lə-əm
+PRO:1SG=TO NEG-say.to-NEG-1SG.OBJ-2PL.SBJ.FUT
+‘Do not call me your son.’kəlu jæ
+kəlu jæ
+son EMPHjæ
+EMPH60Singular Dual Plural
+1
+-ar
+-am
+-am
+2
+-aw
+-p
+-am
+3
+-an
+-ame -ame
+Table 31 Sentani object suffixes for non-future and first/second person singular subject26Singular Dual Plural
+1
+-lə
+-mə
+-mə
+2
+-ej
+-ə
+-əm
+3 -nə/-no
+-mi
+-mi
+Table 32 Sentani object suffixes for future, third person singular subject, or plural subjectIn addition to using separate object suffix paradigms, the order of the subject and object suffixes
+is reversed along the same conditions. If a sentence is in future tense and/or has a third person
+singular or plural subject, the order is subject-object (74a), but if it is in first or second person
+singular subject and not in the future tense the order is object-subject (74b). Since the latter is
+more restricted I assume that this is the marked affix order, while the former is the unmarked.
+(74)a. …towkajnəle
+tow-kə-aj-nə-le
+take-PST-3PL.SBJ-3SG.OBJ-IND
+‘…they found him.’
+b. tejæ
+ware
+a
+ukawale
+tejæ
+wa=re
+a
+ukə-aw-a-le
+PRO:1SG
+PRO:2SG=TWDS word tell-2SG.OBJ-1SG.SBJ-IND
+‘I have said something to you.’This occurs in the vast majority of cases, but there are some cases in which constructions that
+require a different suffix ordering, such as the imperative, override the affix ordering above:
+(75) atæj
+atæj
+fatherjetoko
+je-j-lə-ko
+give-2SG.SBJ-1SG.OBJ-PLUtaj
+tajmej
+mejPRO:1SGPRO:1PL.INCL.POSSkətə-nalə
+kətə-nalə
+thingstom
+tom
+as.for
+‘Father, give me my things.’
+This is because the imperative construction requires the subject marker to be attached directly
+to the root, which overrides the ordering due to the subject configuration. The imperative is
+further discussed in section 4.2.5 below. Additionally, if the syntactic subject is first or second
+person singular, but the verb is unmarked for subject and marked for object, the ‘unmarked’
+object paradigm, i.e. the one from Table 32, is used. This shows that this is a morphological
+alternation rather than one based on semantics.","[59, 60, 61, 62]"
+"Onsá
+onsáninæ
+tare
+ninæ
+ta=re
+PN
+already PRO:1SG=TWDS
+‘Onsá already saw me.’ərəjkobo
+ərəj-j-kə-bo
+see-E-PST-AU4.2 The Verb complex
+Verbs in Sentani are by far the most morphologically complex word class. Besides being
+marked for subject and object, they can also be marked for tense-aspect and mood, as well as
+several other inflectional categories. These inflectional categories do not always have a
+functional overlap and are thus determined by their shared formal property, which is their
+position relative to the verb root, i.e. the ‘slot’ they take. Because of the amount of possible
+marking, as well as the frequent occurrence of several verb roots together, I refer to an inflected
+verb root or roots as the ‘verb complex’ rather than just verb. The verb roots are most frequently
+mono- or disyllabic, although trisyllabic verb roots also occur occasionally. If there are multiple
+roots in the verb complex, a number of disyllabic roots can also be shortened, e.g. moko- ‘to
+do, make’ can be shortened to mo- or ko- depending on the phonological context. However,
+this shortening seems to be verb-specific and does not occur in the majority of verb roots. While
+some verbs occur predominantly in either intransitive or transitive constructions, the valency
+of verb roots is not lexically determined. That is to say, while the verb nəkə- ‘to sit’ can and
+does often occur without an object, a location can morphologically be marked as the object on49the verb. Thus, the valency of a verb is determined by the argument marking and, more often,
+the context.
+The affixes on the verb are primarily suffixes, with the exception of the PRE category of verbal
+markers and the habitual, which consist of prefixes and circumfixes. All morphology on the
+verb is dependent on the construction and context and there is no marking that is obligatory on
+each verb. However, completely unmarked verb forms cannot occur. For example, while it is
+possible to leave out subject and object marking when the referents are clear from the context
+(58a), the imperative construction has a subject suffix directly attached to the verb root (58b;
+see section 4.2.5). Note that in (58a), while there is no object marking on the verb, the indirect
+object (the addressee) is disambiguated with a locational clitic.
+(58) a. tejæ
+ware
+a
+ələkoke
+tejæ
+wa=re
+a
+ələ-ko-kə-le
+PRO:1SG PRO:2SG=TWDS word speak-PLU-PST-IND
+‘I have said something to you.’
+b. honoj!
+hono-j
+sit-2SG.SBJ
+‘Sit down!’
+It is possible to distinguish a verb root from the rest of the morphology, and thus verb roots can
+be given in isolation, but are marked with a hyphen afterwards to indicate the root status, e.g.
+ələ- ‘say’.
+In this section I will first review the types of formal verbal affixation from most basic to most
+complex, and then discuss each formal category individually, in order from position closest to
+furthest from the verb root: The PRE category and the habitual (section 4.2.1), SFX1 (section
+4.2.2, tense-aspect (section 4.2.3), and mood (section 4.2.5).
+The affixes in some of the verbal template slots, i.e. the formal property of their position
+relative to the verb and mutual exclusivity, form a form-function paradigm, meaning that they
+overlap in both formal and functional properties. These categories are thus named according to
+their functional category, e.g. person-number marking and mood. However, there are two slots
+in which the affixes occupy the same slot, but are functionally diverse. Because it would be
+inaccurate to discuss the individual markers as separate categories due to their formal overlap,
+but also inaccurate to assign a single term to these functionally diverse markers, I have called
+these categories PRE and SFX1 after their formal morphosyntactic property: their relative
+position to the verb root.
+The most basic verb complex consists only of a verb root, tense-aspect, and mood:
+verb root -tense -mood
+Figure 3 Basic verbal configurationIt occurs in the most basic sentences that describe simple events where the syntactic roles of
+the arguments can easily be garnered from the context (59). Since the present tense is unmarked
+(see section 4.2.3), this configuration only features a single morphological marker on the verb
+root in the present tense, as in (59b).
+50(59) a. Awansi imæna
+əke
+Awansi imæ=na
+ə-kə-le
+PN
+house=AT go-PST-IND
+‘Awansi goes to the house.’
+b. Awansi imænə
+nəkəle
+Awansi imæ=nə
+nəkə-le
+PN
+house=IN sit-IND
+‘Awansi lives in the house.’
+The first step up from the most basic verbal configuration is the addition of person-number
+marking (section 4.2.4), which can take the following forms:
+verb root
+verb root
+verb root
+verb root
+verb root
+verb root
+verb root-tense
+-subject.tense
+-tense
+-tense
+-tense
+-tense
+-subject-subject
+-mood
+-object
+-object
+-subject
+-object
+-tense-mood
+-mood
+-subject -mood
+-object -mood
+-object -subject -mood
+-moodTable 26 Verbal configuration with person-number marking.","[50, 51, 52]"
+"6 Summary and Conclusion
+To summarize this grammar sketch and give an overview of the elements of the Sentani
+language discussed therein is a short typological overview of the language.
+Sentani is a Papuan language consisting of three dialects, West, East, and Central, belonging
+to the Sentanic family, and is spoken in northern New Guinea on and around Lake Sentani. It
+has seven vowels, /i, e, æ, ə, a, u, o/ and eleven consonants, /p, m, f, t, n, s, l, j, k, w, ɦ/.
+Especially the consonants have considerable allophony depending on their phonological
+context, which in some instances occurs across word boundaries, and position in the word.
+There is a relatively small number of syllable types, V, CV, CVCglide and CVCnasal, the latter
+two of which have arisen relatively recently due to easily detectable phonological change.
+Underived words consist of minimally one and maximally three syllables, but a prosodic word
+can be up to six syllables, and eight moras. Primary stress is mora-based trochaic penultimate,
+which means that stress is placed on the penultimate syllable, unless the final syllable is heavy,
+i.e. CVCglide or CVCnasal, in which case stress is regularly placed on the final syllable.
+Nominal morphology is minimal, with the only morphemes available to most nouns being the
+locational enclitics which attach to the noun phrase. One of these locational clitics, the
+‘direction towards’ marker =re TWDS, is showing grammaticalization towards becoming an
+object marker. There is a small number of obligatorily possessed nouns, chiefly kinship terms,
+which have pronominal possessive prefixes. The noun phrase is head-initial. There are three
+sets of independent pronoun, one neutral, one emphasizing subject, and one emphasizing
+possession. The pronouns of the first person plural has an inclusive and exclusive pronoun, and
+there is no distinction in number for the third person pronouns.
+Verbal morphology, on the other hand, is very elaborate. There is one prefix, two circumfixes,
+and a large number of suffixes, and, in some contexts, the locational enclitics can attach to the
+verb complex as well. The verb complex template contains five slots in which several markers
+can be put. These slots are categorized according to their formal properties, as in some cases
+formally identical markers belong to different functional categories. Functional categories
+include affectedness, movement, habitual, tense-aspect, mood, and person-number marking.
+Most slots can only be occupied by one marker, but there can be up to three person-number
+marking suffixes on each verb root. Two verb roots can occur in a single verb complex, but in
+this case only the final verb root is fully inflected. Existential, identifying and equative
+constructions are verbless clauses that consist of a subject and a nominal predicate; there are
+no copulas or auxiliary verbs, although one verb ə- ‘go’ seems to be moving in this direction,
+albeit currently only within the verb complex.",[75]
+"Onsá
+Onsánaj
+najmænggə
+mænggə
+PN
+PRO:3.POSS girl
+‘Onsá has a daughter.’
+nejæ imæna
+nejæ imæ=na
+PRO:3 house=AT
+‘He is in the house.’4.4 Particles
+There are several non-lexical words that perform a number of functions. These can best be
+subdivided into question words (section 4.4.1), which are used in the construction of content
+question sentences, and the broader category of discourse particles (section 4.4.2), which have
+diverse functions, but have similar syntactic properties.
+4.4.1 Question words
+There are four question words: hinə ‘what, who’, məka ‘why’, məhǽ ‘how’, and mbə ‘where’.
+They are placed either in situ (83a), or at the front of the sentence to have scope over the whole
+sentence (83b). Note that in the latter case, movement of the constituents is still possible, for
+example fronting the subject for focalization as in (83c; interrogative constructions are further
+discussed in section 5.1).
+(83)a.waj
+wajto
+to
+PRO:2SG.POSS name
+‘What is your name?’hinə
+hinə
+what
+64b.məkanə
+wejæ
+tarə
+məka=nə wejæ
+ta=rə
+why=IN
+PRO:2SG PRO:1SG=TO
+‘Why are you asking me?’c.wa
+waməkanə
+hinə
+məka=nə hinə
+PRO:2SG why=IN
+what
+‘Why are you asking me?’hinə jæ
+hinə jæ
+what EMPHjære
+jæ=rə
+EMPH=TOThe question words themselves can also be fronted. In (84), mbə ‘where’ is the syntactic object
+in both cases, but in (84a) it remains in the unmarked position, whereas in (84b) it is fronted.
+(84) a. wa
+wambəra
+mbə=ra
+PRO:2SG
+where=FROM
+‘Where did you come from?’b. mbəna
+botol jæ
+mbə=na
+botol jæ
+where=AT bottle EMPH
+‘Where is the bottle?’
+The general question particle hinə ‘what’ is a lexicalized root form of the verb hinə- ‘to ask’,
+while the others are etymologically opaque. There are no morphological operations possible
+on these particles save for the locational clitics, but the reduplicated form of məhǽ is the
+(lexicalized) word for ‘how many’. Question constructions with question particles are always
+content questions, rather than polar questions, meaning that the answer must be a sentence or
+lexical item rather than əhə ‘yes’ or uuja ‘no’ (85; see section 5.1).
+(85) wa
+waməhǽ
+məhǽ
+PRO:2SG how
+‘How are you?’
+foj
+foj
+good
+‘[I am] good.’Note that using question particles is one of two question constructions, the other being prosody.
+Both are discussed in more detail in section 5.1 below.
+4.4.2 Discourse particles
+The main functions of discourse particles are discourse organization and governing information
+structure. They are typically placed after a noun or verb phrase, depending on their scope, in
+order to modify certain elements, either temporally or information structurally. For example,
+jæ EMPH, has many functions and can occur after virtually every element in a sentence in order
+to emphasize it. For example, it can emphasize the temporal sequence of events (86a), or65marking an unexpected turn of events (86b). Multiple instances of jæ may appear in one
+sentence, although not within one clause.
+(86)a. fa
+nundewbokera
+jæ
+towkajnəle
+fa
+nunde-w-bo-kə-le=ra
+jæ
+tow-kə-aj-nə-le
+young get.lost-E-AU-PST-IND=FROM EMPH take-PST-3PL.SBJ-3SG.OBJ-IND
+‘A little boy was lost, but they were able to find him again.’
+b. Jahimo
+toboni
+pele towejmæke
+jahimo
+toboni
+pele tow-ej-mæ-kə-le
+next.day
+bride.price DEM take-3DL.SBJ-paddle-PST-IND
+‘The next day, they brought the bride price to the village.’
+Ebalə Jakali
+Ebalə Jakaliahi
+jæ
+ahi
+jæ
+PN
+not.want EMPH
+‘But Ebalə Jakali didn’t want it.’
+The other particles have functions within the realm of discourse organization, e.g. nə ‘then’
+(87a), verbal (temporal) semantics, e.g. ninæ ‘already’ (87b), and referent semantics, e.g. mo
+‘only’ (87c).
+(87)a. nə
+fa
+pəna tom
+hekenə
+əkənəkəwole
+nə
+fa
+pəna
+tom
+heke=nə
+ə-kə-nəkə-wo-le
+then child oldest as.for garden=IN go-PST-sit-IMPF-IND
+‘Then, [the king’s] oldest child was made to live in the gardens.’
+b. tejæ
+ninæ
+Onsá ərəwbokale
+tejæ
+ninæ
+Onsá ərəj-w-bo-kə-a-le
+PRO:1SG already
+PN
+see-E-AU-PST-1SG.SBJ-IND
+‘I have already seen Onsá.’
+to
+mbaj fəm narə
+əjej
+to
+mbaj fəm na=rə
+ə-je-j
+DEM
+EMPH man
+one
+even PRO:3=TO NEG-give-NEG
+‘Not even one person gave [it] to him.’c. pele
+pelejæ
+jæThe negation particle pam NEG functions distinctly more noun-like than the other particles, in
+that it can be marked with the third person possessive in order to form a word meaning
+‘badness’ (88), separate from the lexical noun himi ‘bad’.
+(88) atæj, tejæ
+nəpam
+atæj
+tejæ
+n-pam
+father PRO:1SG 3.POSS-NEGpa Waloforə
+pa Walofo=rə
+just Satan=TOmokownobokale
+moko-w-nobe-bo-kə-a-le
+do-E-be.near-AU-PST-1SG.SBJ-IND
+‘Father, I did not do good because my thoughts are like demons.’
+Additionally, it is used in an emphatic possessive construction to mean ‘not knowing’, possibly
+66with an elided noun ataj ‘knowledge’, (89ab). Interestingly the possession that is present on
+the presumably elided noun is now featured on the independent pronoun.
+(89) a. naj
+naj
+PRO:3.POSSpam
+pam
+NEG‘S/he/they doesn’t/don’t know.’
+b. nejæ nataj
+nejæ n-ataj
+PRO:3 3.POSS-knowledge
+‘S/he/they know(s).’5 Interrogation, multi-verb constructions and interclausal relations
+5.1 Interrogation
+Questions are generally created using the question words, which were briefly discussed in
+section 4.4.1 above. The question words are: hinə ‘what’, məka ‘why’, məhǽ ‘how’, and mbə
+‘where’, and they are placed either in situ, or at the beginning of a sentence. In the former
+position, the question word indicates which element must be answered, either simply with the
+lexical word that is being questioned (90b), or by repeating the sentence with the correct lexical
+word replacing the question word (90c).
+(90) a.waj
+wajto
+to
+PRO:2SG.POSS name
+‘What is your name?’b.","[65, 66, 67, 68]"
+"29Where examples from a source other than the collected data are given, the orthographical
+conventions used by that author are copied.
+Below is the full list of the graphemes and their corresponding phonological value:
+Phoneme
+Phonological Value
+Consonants
+/p/
+[p~b]
+[b~β]
+/t/
+[t~d~r]
+[d]
+[r]
+/k/
+[k~k͡x~x~ɣ]
+[g]
+/m/
+[m]
+/n/
+[n]
+[ɲ]
+[ŋ]
+[m]
+/ɦ/
+[ɦ]
+[s]
+/l/
+[l]
+/j/
+[j]
+[ɟ]
+/w/
+[w]
+Vowels
+/i/
+[i~ɪ]
+/u/
+[u]
+/e/
+[e]
+/ə/
+[ə]
+/o/
+[o~ɔ]
+/æ/
+[æ~œ]
+/a/
+[a]
+Other
+Stress
+CompoundGrapheme
+<p>
+<b>
+<t>
+<d>
+<r>
+<k>
+<g>
+<m>
+<n>
+<n>
+<ng>
+<m>
+<h>
+<s>
+<l>
+<j>
+<dj>
+<w>
+<i>
+<u>
+<e>
+<ə>
+<o>
+<æ>
+<a>
+<´>
+<->Table 17 Sentani Orthographical conventions303 Nouns and the noun phrase
+3.1 Nouns
+Nouns function typically as the heads of NPs and as the arguments in a clause. They are
+separated grammatically from other word classes because they can have and/or be possessors,
+they have a fixed referent, and they cannot take any suffixes. In fact, the only morphology
+nouns can take is infrequent possessive prefixes, and the locational clitics (see section 3.3.1),
+which can in turn attach to more word classes than just nouns. The majority of underived nouns
+in Sentani are disyllabic. Monosyllabic and trisyllabic nouns do occur with regularly, but no
+bare noun exceeds this length. Based on the possible morphology as well as syntactic and
+semantic restrictions, several classes can be distinguished. These classes are: Common nouns
+(section 3.1.1), mass nouns (section 3.1.2), proper nouns (section 3.1.3), kinship terms (section
+3.1.4), and temporal/locational nouns and demonstratives (section 3.1.5).
+Note that some nouns are (almost) homophonous with verb roots. However, there seem to be
+no synchronic processes of deriving nouns from verbs (or vice versa), and it does not
+necessarily mean that they are semantically related, although this is possible (24ab). In practice,
+however, verb roots appear rarely without verb-specific morphology,17 meaning that
+ambiguous cases are virtually impossible. Lastly, there is a small number of nouns that were
+historically derived from verbs, such as akojkoj ‘traditional dancing’ from akoj- ‘tell a
+traditional story’.18
+(24) a. hikæ
+hikæb. wali
+wale-‘leech’
+‘to say’
+‘life’
+‘to live’3.1.1 Common Nouns
+Sentani common nouns are the most ‘basic’ word class in that they are least restricted. They
+can function as syntactic subject and object, be modified with adjectives, demonstratives,
+numerals, and locational clitics, and, with the exception of one (see below), they are optionally
+possessed. Unsurprisingly, common nouns are found in almost all semantic domains and vary
+phonologically. It also seems to be the only word class that incorporates loanwords (see e.g.
+potol in Table 18).
+ko
+moko
+nimbæ
+kaja
+mijǽ
+potol‘coconut’
+‘mountain’
+‘Sago tree trunk’
+‘guard’
+‘woman’
+‘bottle’ < Ind. botol ‘bottle’Table 18 Examples of Sentani common nouns17This only occurs in a few instances where verbs are derived into adjectives or adverb-like words, in which the
+verb root is always reduplicated.
+18
+It is possible that this verb was in turn derived from a ‘word’ and (mo)ko- ‘do’.","[30, 31, 32]"
+"614.2.5 Mood
+There are three moods: indicative, imperative and irrealis. They are expressed as the indicative
+mood suffix, -le IND, a change in the verbal suffix order, and an unmarked verb, respectively.
+The indicative, which appears on by far the most verb complexes, indicates that the speaker is
+convinced of the truth value of the event they are describing. However, it is not required that
+the action in the event has finished or even has started, but simply that they are convinced that
+the event in the sentence is true. Thus, the indicative is not bound by tense-aspect and occurs
+in present, past, future tenses and in the imperfect aspect (76a-d, respectively). The indicative
+mood suffix always attaches to the very end of the verb complex.
+(76) a. tejæ
+ware
+tejæ
+wa=re
+PRO:1SG 2SG=TWDS
+‘I tell you something.’a
+a
+wordukawale
+ukə-aw-a-le
+tell-2SG.OBJ-1SG.SBJ-INDb. tikənə
+na
+kətə-nələ əwsajəwboke
+tikə=nə
+na
+kətə-nələ ə-w-sajə-w-bo-kə-le
+DEM.DIST=IN
+PRO:3 things
+go-E-squander-E-AU-PST-IND
+‘There, he went and squandered his things.’
+c. tejæ
+waj
+imænə
+tejæ
+waj
+imæ=nə
+PRO:1SG 2SG.POSS house=IN
+‘I will come to your house.’mərəle
+m-ə-te-le
+VENT-go-1SG.SBJ.FUT-INDd. məhinə
+hakowfolale
+məhi=nə
+hako-w-folo-wo-a-le
+sadness=IN sorrow-E-cut-IMPF-1SG.SBJ-IND
+‘I am feeling pity.’
+In an imperative construction the verb can consists minimally of a verb root and a subject
+suffix, and maximally of that suffix, an object suffix, and an SFX1 suffix. The subject marker
+always attaches directly to the root, with the SFX1 marker, if present, being placed after it,
+overriding the suffix ordering required in an indicative verb formation and the suffix
+paradigms. As (77a,b) shows, the imperative mood is mutually exclusive with the indicative
+mood.
+(77) a. wejæ
+tikənə
+nəkəne
+wejæ
+tike=nə
+nəkə-n-le
+PRO:2SG DEM.DIST=IN sit-3SG.OBJ-IND
+‘You sit there.’
+b. nəkəjbo
+nəkə-j-bo
+sit-2SG.SBJ-AU
+‘Sit down!’
+Cowan (1965) notes that the imperative can also occur for the first person with an adhortative
+meaning, but this does not occur in my data, and is thus probably quite rare. The construction
+62does, however, occur with a third person subject in an optative meaning (78). In this instance
+the subject is morphologically singular, but referentially unspecified and contextually plural,
+as (78) is an order directed towards servants.
+(78) ojbona
+ojbo=na
+ring=ATmənə
+mə=nə
+hand=INmənnənə
+m-ə-ən-nə-nə
+VENT-go-3SG.SBJ.FUT-3SG.OBJ-3SG.OBJodo məmalu mənnahidənko
+odo məmalu m-ə-ən-nə-hidə-nə-ko
+leg footwear VENT-go-3SG.SBJ.FUT-3SG.OBJ-clothe-3SG.OBJ-PLU
+‘Let them put rings on his fingers, put shoes on his feet!’
+The irrealis is unmarked both morphologically and in suffix ordering. It is called the irrealis
+because, in contrast to the indicative, it is used when the speaker is unsure whether something
+has or will happen. It occurs mainly in question sentences (79a), but also in desiderative
+construction (79b), in which case it is combined with future tense. Note that hinə is used both
+as a general question particle (see section 4.4.1) as well as a verb root, hinə- ‘to ask’ or ‘to
+question’.
+(79) a. məkanə
+tare
+wejæ
+hinejæ
+məka=nə ta=re
+wejæ
+hinə jæ
+why=IN PRO:1SG=TWDS PRO:2SG ask EMPH
+‘Why are you asking me?’
+b. tejæ
+ware
+ukəte
+tejæ
+wa=re
+ukə-te
+PRO:1SG
+PRO:2SG=TWDS tell-1SG.SBJ.FUT
+‘I want to tell you something.’
+4.3 Clauses with non-verbal predication
+Existential, identifying and equative constructions consist of a subject and a nominal predicate.
+The construction has subject-predicate order, and both the subject and the predicate NPs can
+have varying levels of complexity:
+(80) a. Awansi
+Awansimænggə fa
+mænggə fa
+PN
+girl
+young
+‘Awansi is a girl.’b. Awansi
+AwansiJacobus
+Jacobusmænggə
+mænggə
+PN
+PN
+girl
+‘Awansi is Jacobus’ daughter.’fa
+fa
+youngc. mænggə fa
+naj
+to
+mænggə fa
+naj
+to
+girl
+young
+PRO:3.POSS name
+‘The girl’s name is Awansi.’Awansi
+Awansi
+Awansi63In some cases, multiple interpretations are possible for a sentence such as (81a) out of context;
+it can be a complex NP, a possessed NP, or a nominal predicate. When there is more context,
+and/or the construction more complex, as in (81b), word order can disambiguate the
+interpretation, in addition to prosodical clues.
+(81) a. pu
+wali
+water
+life
+‘living water’ or ‘the water is alive’ or ?‘the life of water’
+b. Kələw Nikíban Ohəj
+jakobá
+ondofolo
+[Kələw Nikíban [Ohəj jakobá]
+ondofolo]
+PN
+Asei
+island
+chief
+‘Kələw Nikíban is the chief of Asei island.’
+For (81b), were ondofolo ‘chief’ to be placed directly after Kələw Nikíban, thus directly
+modifying it, that noun phrase’s meaning would be ‘Kələw Nikíban is a chief’, and the
+interpretation of the whole sentence would be difficult, but Ohəj jakobá ‘Asei village’ could
+be interpreted as a locational argument.
+Another way to disambiguate is using pronouns from different sets (see section 3.2), which
+either emphasize the possessive nature and excludes an identifying construction (82a) or
+emphasize the subject to indicate that it is not a possessive construction (82b):
+(82) a.b.","[62, 63, 64, 65]"
+"Onsá
+Onsáb.tejæ
+mare
+a
+ələkonde
+tejæ
+ma=re
+a
+ələ-ko-n-le
+PRO:1SG PRO:2PL=TWDS word say-PLU-3SG.OBJ-IND
+‘I have said some things to you all.’c.tejæ
+ware
+a
+ukawale
+tejæ
+wa=re
+a
+ukə-aw-a-le
+PRO:1SG PRO:2SG=TWDS word tell-2SG.OBJ-1SG.SBJ-IND
+‘I have told you something.’d.ojbona
+ojbo=na
+ring=ATmənə
+mə=nə
+hand=INAwansi
+Awansimənnənə
+m-ə-ən-nə-nə
+VENT-go-3SG.SBJ.FUT-3SG.OBJ-3SG.OBJodo
+məmalu mənnəhidənko
+odo
+məmalu m-ə-ən-nə-hidə-nə-ko
+leg
+footwear VENT-go-3SG.SBJ.FUT-3SG.OBJ-clothe-3SG.OBJ-PLU
+‘Put rings on his fingers, put shoes on his feet!’
+51Subject and object affixes are not in a fixed slot relative to the verb. However, all variation in
+the relative position is governed by regular processes: The future tense subject pronominal affix
+paradigm consists of a portmanteau morpheme that incorporates both person-number and tense
+(61a; see section 4.2.4); the inversion of subject and object affix order occurs when the subject
+is first or second person singular (61b; see section 4.2.4); and lastly in the imperative mood the
+subject is always placed directly behind the verb stem (61c; see section 4.2.5).
+(61)a. ta
+ta
+PRO:1SGatununde
+atunə-nu-n-le
+connect-REFL-3SG.OBJ-INDmækore
+m-æko=re
+1PL.POSS-father=TWDSpukore
+puko=rə
+presence=TOərəlere
+ərəj-te-le
+see-1SG.SBJ.FUT-IND
+‘I will go to my father.’
+(b)b. tejæ
+ware
+akojkoj
+a
+tejæ
+wa=re
+akojkoj
+a
+PRO:1SG PRO:2SG=TWDS trad.dance word
+‘I have told you a traditional story.’(c)c. ələjko
+ələ-j-ko
+speak-2SG.SBJ-PLU
+‘Say something!’ukawale
+ukə-aw-a-le
+tell-2SG.OBJ-1SG.SBJ-INDFrom person-number marking, the next step up in complexity is the addition of SFX1 markers.
+They are the first suffixes that follow the verb root in all constructions except the imperative.
+They perform several functions such as emphasizing affectedness of the undergoer or
+directionality of the action, which are discussed in more detail in section 4.2.2.
+verb root -SFX1 -tense -object -subject -mood
+Figure 4 Verbal configuration including SFX1.","[52, 53]"
+"‘Gershon.’c.taj
+tajhinə
+hinə
+whatto
+Gershon
+to
+Gershon
+PRO:1SG.POSS name
+PN
+‘My name is Gershon.’Multiple question words can be placed in one sentence (91c). Additional information structure
+strategies can be applied as well, such as placing a discourse particle after the question word
+(91c), or the fronting of a pronoun in order to focalize it (91d).
+(91) a. məkanə
+obo kəndin
+məka=nə obo kəndin
+why=IN
+pig small
+‘Why is the pig small?’
+b. nejæ
+hinə?
+PRO:3
+what
+‘Who is he?’67c. məkanə
+wejæ
+tarə
+məka=nə wejæ
+ta=rə
+why=IN
+PRO:2SG
+PRO:1SG=TO
+‘Why are you asking me?’
+d. wa
+waməkanə
+hinə
+məka=nə hinə
+PRO:2SG
+why=IN
+what
+‘Why are you asking me?’hinə jæ
+hinə jæ
+what alreadyjare
+ja=rə
+already=TOAs seen above, question words can appear in object position, however, there are no instances
+of a question word in subject position in the data. In cases where the subject is interrogated,
+either an independent pronoun is used (92a), or the subject is left out altogether (92b). It can
+currently not be said whether this is due to the dataset, simply a preference or a grammatical
+feature.
+(92) a. məjæ
+tare
+məjæ
+ta=re
+PRO:2PL
+PRO:1SG=TWDS
+‘Who can trick me?’wabənsehinde?
+wabə-n-he-hi-n-le
+trick-3SG.OBJ-break-CONN-3SG.OBJ-INDb. takənə
+jæ
+tare
+takə=nə
+jæ
+ta=re
+DEM.MEX=IN EMPH PRO:1SG=TWDS
+‘Here, who can trick me?’wabənsehinde?
+wabe-n-he-hi-n-le
+trick-3SG.OBJ-break-CONN-3SG.OBJ-INDSome questions, specifically polar questions, are formed with prosody. While question
+sentences, regardless of their construction, are usually accompanied by rising intonation, this
+intonation can also function as a question marker in itself when added to an otherwise indicative
+sentence, in which case the result is a polar question (93a). Additionally, the emphatic particle
+jæ EMPH can be placed at the end to indicate that the scope of the question is over the whole
+sentence (93b). In the examples, the question marker <?> indicates rising intonation.
+(93) a.wa
+wafoj?
+foj
+PRO:2SG good
+‘How are you?’b.wa
+wahamam
+hamam
+PRO:2SG food
+‘Have you eaten?’anokokæ?
+anə-ko-kə
+jæ
+eat-PLU-PST EMPHWhile these are polar questions, the minimal answer consisting of əhə ‘yes’ or uuja ‘no’, replies
+can also consist of a portion or the entirety of the posed question, as in (94a) and (94b), which
+are replies to the questions in (93a) and (93b), respectively.","[68, 69]"
+"8consisted of weekly visits of about two hours to the speaker’s home, reading and/or translating
+stories, discussing semantics, or eliciting lexemes and paradigms (for a discussion of types and
+strategies of elicitation see section 1.3.2). The reason I conducted the fieldwork in the
+Netherlands rather than at the Sentani Lakes was due to the impossibility of foreign travel
+during the COVID-19 pandemic. Due to this pandemic, I took extra care to conduct the sessions
+in a safe manner, which included attentive health monitoring for both myself and the speaker,
+keeping distance, as well as postponing the sessions when cases spiked, e.g. for several weeks
+in December 2020.
+While I usually broadly planned the sessions, e.g. checking phonemes, elicitation and
+discussion of some semantic domain, translation, etc., often with a sheet of questions or topics,5
+I allowed a loose structure in order to create a natural flow, which significantly increased the
+amount of valuable data collected (see section 1.3.2 below).
+The two stories used in this sketch grammar (see Appendix A), which were previously written
+down by other authors; one (Cowan 1965) in the Eastern Dialect, and one (Onde et al. 1979)
+in the Central Dialect. They were first read aloud by the speaker, which was recorded.
+Subsequently, the speaker and I went through the text line by line, where he translated each
+line and gave corrections where necessary. The corrections were in most cases either a mistake
+in the original orthography6 or substituting a word for a more commonly used one in the Eastern
+Dialect. While in the vast majority of cases there were already recorded instances of these
+words, if there were any unrecorded ones they would be noted and included in the following
+session(s) in order to not interrupt the translation workflow. In order to best facilitate the
+speaker’s linguistic abilities, the speaker translated the Sentani text into Malay, which I
+subsequently translated to English. Of the stories, the first is the biblical story of the Prodigal
+Son (Luke 15:11-32), which was written down in the Eastern Dialect by Cowan (1965), and
+the second is a traditional story about Ebalə Jakali, a folk hero trickster who is the main
+character of several stories (Cowan 1952b), which was originally written down in the Central
+Dialect, but adapted to the Eastern Dialect during the translation process.
+All sessions were conducted in a mix of Dutch and Malay as contact languages.7 In the case of
+reading stories, discussing semantics and elicitation, the sessions were recorded on audio and
+video using a Sony HDR-CX625 Camcorder and a Sennheiser MKE 400 attachable
+microphone. While the video recorder was planned to be set up to capture both the mouth and
+hands, there are several recordings where the former was not accurately captured due to the
+positioning of the recorder. The recorded video files were converted to .mp4 files using
+Windows Video Editor as well as a separate, audio-only .wav file using Audacity, which were
+consequently stored in a personal and secure OneDrive.8 The total of recorded data is around
+8 hours, but it must be emphasized that the amount of Sentani language data is relatively low
+in the majority of these recordings. The recordings were subsequently transcribed and
+5This sheet was usually kept by the speaker in order to go over and (re)consider what was discussed that session.
+The texts were read and translated from their originally given orthography, but I have updated them to the
+orthography used in this sketch. The corrections in the original mostly were regarding the removal of spaces for
+clitics.
+7
+The speaker expressed an explicit dislike of the term ‘Indonesian’ or ‘Bahasa Indonesia’ and preferred (Indo)Malay. While I mainly spoke Standard Indonesian, the speaker spoke Papua Malay (see Kluge 2014), to which I
+tried to adapt in cases where there were structural differences.
+8
+The data will be uploaded to Kaipuleohone Language Archive hosted at the University of Hawai’i at some point
+in the future.
+69translated in ELAN. In the early stages of the analysis, each segment was then imported into
+an Excel master sheet, and later the ELAN files were imported into a FLEx database. In total,
+excluding the stories, there are around 1200 transcribed utterances, ranging from single words
+to short sentences, with many repetitions.
+The ample periods between recording sessions allowed me to transcribe and briefly analyze the
+previous sessions, and prepare the next session based on this. This was a large boon, since it
+allowed me to analyze not only what linguistic areas to pursue further, but also to assess what
+stimulated the speaker’s linguistic ability, and, crucially, what did not (further detailed in
+section 1.3.2 below). Additionally, I used information from the works published on Sentani in
+the past both to prepare further areas of inquiry as well as to corroborate analyses in this sketch
+grammar. I emphatically note that none of the analyses in presented in this work were given
+without testing them either to/with the speaker directly, or sourcing corroborating evidence
+from the previously data collected by myself. However, it must also of course be emphasized
+that the collected data are from a single speaker who has been living outside of his linguistic
+context for several decades.
+Initially, I tried to come to an agreement with the speaker about monetary compensation, he
+adamantly refused any money whenever I raised the point, stating that speaking and working
+with the language was enough for him. Thus ‘compensation’ only consisted of giving the
+speaker bound copies of all Sentani-language material I have found, as well as helping out with
+small (technological) issues around the house such as setting up an internet connection. The
+speaker signed an informed consent form (formulated in understandable language) which was
+scanned and is stored in the aforementioned OneDrive.
+1.3.2 The speaker, his language attrition, and its effects on this sketch
+As stated above, the data were collected with a single speaker of the Eastern Sentani dialect
+living in Leiden, the Netherlands. He has been living in the Netherlands since 1962, before
+which he was already working as a medical professional in mainly non-Sentani language
+contexts. Sentani is his first language, being born on Pulau Ase [Asei Island], but he was only
+fully immersed in the language context until about nine or ten years old. After this, he moved
+to nearby Hollandia (now Jayapura/Port Numbay) to pursue further education, and
+consequently worked in healthcare in Hollandia and the surrounding regions. His emigration
+to the Netherlands in 1962 was not planned to be permanent, as he was only supposed to go
+there for further education, with a supposed return in 1963. Due to the hostile socio-political
+environment that occurred after the withdrawal of the Dutch government from western New
+Guinea, he has not been able to return. This lack of socio-cultural and linguistic context for
+Sentani, in combination with the bilingualism means that he has had few chances to speak
+Sentani outside of a few words for decades.
+At the beginning of the fieldwork, I quickly noticed that production of lexical items posed the
+main challenge to the speaker, while inflection, paradigms, and their explanation were much
+easier: The speaker showed immediately that he had a keen understanding of not only the
+semantics in Sentani morphological structure and function words, but also how these may differ
+from Dutch and/or Malay. Understandably, the confrontation of not being able to recall certain
+words in his first language was emotional and frustrating, so I quickly moved away from asking
+for direct translations. Rather, I tried to explore semantic domains and phonological contexts
+with the speaker, prompting things such as “are there other things like this?”, “what else is
+10there to eat?”, or “are there any words that sound like this?” and “are there any words that start
+with this sound?”. This proved to be even more effective than visual stimuli (pictures), since
+the (semi-)free association meant he was less restricted in word choice. When working through
+the stories, there was not a single instance in which the speaker did not know how to translate
+a specific lexical item, and many of them, e.g. toboni ‘beads, currency, often given as a bride
+price’, prompted extensive cultural explanations of their place and function in daily life.
+Thus, the speaker has abundant cultural and sociolinguistic knowledge, but shows heavy signs
+of language attrition. As laid out above, his passive linguistic knowledge as well as his event
+and concept construal show confidence and is generally corroborated by the other available
+data, but active production is a much larger challenge.9 In this, he follows the generally
+established pattern in language attrition, meaning the areas that ‘remain’ can be taken as valid
+linguistic judgements (see Hutz 2004 and references therein). I am keenly aware of the possible
+problematic nature of the data that I collected as a result of this, i.e. the relatively low amount
+of natural speech, which I took into account in each step of the analysis.","[9, 10, 11, 12]"
+"Some kinship terms are also semantically extended for a more general reading. For example,
+aka ‘older brother’ is combined with the demonstrative pækə DEM to address a gathered group
+of people as in (28).
+(28) aka
+pækənə
+maj
+nanəmən,
+hələm foj
+pækənə
+aka
+pækə=nə maj
+nanəməndə hələm foj
+pækə=nə
+older.brother DEM=IN PRO:2PL.POSS all
+much good DEM=IN
+məkawwe
+m-ə-kə-aw-le
+VENT-go-PST-2PL.SBJ-IND
+‘Ladies and gentlemen, you all together, thank you for coming here.’
+The vast majority of obligatorily possessed nouns are kinship terms, as body parts do not
+require possession, but there is one non-kinship noun that is obligatorily possessed without
+exception: ataj ‘knowledge’. This noun is used in the constructions for knowing and not
+knowing, which always requires an independent pronoun and a possessive prefix on the noun.
+For this noun, unlike the obligatorily possessed kinship terms, there is no possibility for an
+underspecified or general possessor, and the possessive prefix must thus always be congruent
+with the (specified) referent (29a-c).
+(29) a. məjæ
+mataj
+məjæ
+m-ataj
+PRO:2PL 2PL.POSS-knowledge
+‘You all know.’
+b. wejæ
+wataj
+akojkoj
+diærman?
+wejæ
+w-ataj
+akojkoj
+diærman
+PRO:2SG 2SG.POSS-knowledge traditional.singing German
+‘Do you know any traditional German stories?’34c. tejæ
+tataj
+pam
+tejæ
+t-ataj
+pam
+PRO:1SG 1SG.POSS-knowledge NEG
+‘I don’t know (it).’
+3.1.5 Temporal/locational nouns & demonstratives
+Temporal nouns appear in variable positions throughout the sentence (see section 4.1) and do
+not function as arguments to the verb complex, but they are syntactically the head of an NP.
+This means that the locational clitics (see section 3.3.1) can be attached to them (30a). The
+temporal NP, however, cannot be extended with further elements besides particles, meaning
+that they cannot take adjectives nor be possessed.
+(30) a. huænə
+mərəle
+huæ=nə
+m-ə-te-le
+evening=IN
+VENT-go-1SG.SBJ.FUT-IND
+‘This evening I will come.’
+b. nejæ
+wena
+tare
+habokoke
+nejæ
+wena
+ta=re
+ha-pə-ko-kə-le
+PRO:3
+yesterday PRO:1SG=TWDS take.along-hit-PLU-PST-IND
+‘Yesterday he hit me.’
+Locational nouns can also take the locational clitics. Contrary to temporal nouns, however,
+they can appear in complex NPs as they can modify nouns (31a). In cases where the (relative)
+location is emphasized, a possessed locational noun may appear instead of the common noun,
+for example (31b) where puma ‘top’ is used instead of jam ‘roof’.
+(31) a. aje
+o
+pumanə
+aje
+o
+puma=nə
+bird tree
+top=IN
+‘A bird is on top of the tree.’
+b. aje
+imæ
+pumanə
+aje
+imæ
+puma=nə
+bird house
+top=IN
+‘A bird is on top of a house.’
+A subcategory of locational nouns are the demonstratives (see Table 20):
+pele
+pækə
+takə
+tikəDEM
+DEM.PROX
+DEM.MED
+DEM.DISTTable 20 Sentani DemonstrativesThey cannot formally be distinguished from nouns as they can take all nominal morphology,
+such as the locational clitics, and, interestingly, the possessive prefixes in certain contexts (32ab). However, they form a subcategory within the word class as they do have several restrictions
+compared to common nouns: They do not appear as the head in a complex NP, and they cannot
+35take a lexical possessor or adjectives. Examples (32ab) also show that a demonstrative is not
+strictly required if an underspecified ending point is implied by the verbal semantics, as in this
+example the demonstratives indicate the origin. However, verbal morphology can give further
+deictic information about the ending point (in this case the ventive m- VENT; see section 4.2.1).
+(32) a. nakənə
+məke
+n-takə=nə
+m-ə-kə-le
+3.POSS-DEM.MED=IN VENT-go-PST-IND
+‘[s/he/it] went from there to here.’
+b. nakənə
+əke
+n-takə=nə
+ə-kə-le
+3.POSS-DEM.MED=IN go-PST-IND
+‘[s/he/it] went from there to there.’
+Additionally, the demonstratives can be in a complex NP, in which they precede the modified
+noun (33a), as well as form an NP by themselves and function as an argument (33b). This is
+restricted to the object argument only, but it can undergo further information structural
+operations such as focalization (33c). The difference in order between (33a) and (33b) in
+addition to the attachment of the locational clitic is what distinguishes demonstratives in
+complex NP from those that form an NP by themselves.
+(33)a. nejæ
+tikə
+imærə
+nejæ
+tikə
+imæ=rə
+PRO:3
+DEM.DIST house=TO
+‘He went to yonder house.’əke
+ə-kə-le
+go-PST-INDb. mæko
+tikə
+mokowbokə
+m-æko
+tikə
+moko-w-bo-kə
+1PL.POSS-father DEM.DIST do-3SG.SBJ-AU-PST
+‘My father was working over yonder.’
+c. takənə
+jæ
+tare
+takə=nə
+jæ
+ta=re
+DEM.MED=IN EMPH
+PRO:1SG=TWDS
+‘Here, who can trick me?’wabənsəhinde?
+wabə-n-hə-hi-n-le
+trick-3SG.OBJ-hit-CONN-3SG.OBJ-INDThe demonstratives themselves denote a fixed location, but they often occur together with a
+locational clitic to indicate movement towards or from an underspecified location. Finally, pele
+DEM also has a function in discourse organization, often appearing at the start of a sentence to
+indicate a connection between the previous sentence.
+(34) pele
+pelejæ
+jænækorə
+wəwnə:
+pənə
+nəkəw
+n-æko=rə
+wə-w-nə
+pənə
+nəkə-əw
+DEM EMPH 3.POSS-father=TO ask-3SG.SBJ-3SG.OBJ thought sit-2SG.SBJ.FUT
+‘Then the son said to his father: you must think.’363.1.6 Compounds
+There is a number of exocentric compounds which generally denote the broader semantic class
+of the members (35a,b). Because compounds function as one phonological unit, they are
+marked with a hyphen to indicate this status.
+(35) a. obo-joku
+obo joku
+pig dog
+‘Animal(s)’
+b. to-mijǽ
+to
+mijæ
+man woman
+‘people’
+c. abu-ako
+abu
+ako
+grandfather friend
+‘grandparent(s), family’
+For (35c) there are several ways in which the compound is semantically extended: It is used to
+refer to a non-specific grandparent or both grandparents, but also for direct family. Other
+compounds are endocentric, meaning that one of the nouns modifies the other for the resulting
+meaning. This is differentiated from other modified NPs by the fact that both members are
+nouns, and that they are in turn modified as a whole (36a).
+(36) a. moni-maj
+kabam
+[[moni maj]
+kabam]
+hunger disaster big
+‘great famine’
+b. obo kabam
+obo kabam
+pig big
+‘big pig’
+In some cases, the form only appears as a compound, with the meaning of the individual words
+being lost (37a). While the original meanings cannot be retrieved, they cannot be assumed to
+historically be a single lexical noun, since these are never longer than three syllables. This also
+occurs on reduplicated forms, where the meaning of the original noun has been lost (37b).
+(37) a. kəte-nalə
+‘possessions’
+b. mohi-mohi
+‘dirt, refuse’373.2 Pronouns
+There are three sets of independent pronouns and one set of possessive prefixes in Sentani (see
+Table 21).
+1SG
+1PL.INCL
+1PL.EXCL
+2SG
+2PL
+3IIIIIIPFXta
+me
+e
+wa
+ma
+natejæ
+mejæ
+ejæ
+wejæ
+məjæ
+nejætaj
+mej
+aj
+waj
+maj
+najtmwmn-Table 21 Sentani pronoun setsSet I contains the unemphasized pronouns, these are the most neutral pronouns and thus occur
+often in discourse where enough context is present to have established referents. They are also
+the set of pronouns most often used in object position, optionally with a locational clitic. Set II
+are the emphatic pronouns, underlyingly consisting of a pronominal base and the emphatic
+particle jæ. It is used in situations with little context or in a corrective/contrastive manner. In
+practice, these occur very frequently in sentences that are uttered in isolation or otherwise have
+little context, but are much less frequent in discourse. Both sets I and II can fulfil all syntactic
+roles, and can function as possessors; their use depends on the information structure of the
+sentence. Set III are the pronouns that are emphasized for possession. While all pronouns can
+function as possessives, the ones in set III emphasizes the possessive relation. Additionally,
+pronouns in set III can express the referent as being the direct object in a ditransitive
+construction, since there is no specific morphology marking the different roles in these
+constructions, which can thus resolve ambiguities (38ab). Pronouns from set III cannot occur
+as the subject argument or as the object argument in a transitive construction, where the
+possessed lexeme is left out. In cases where it is ambiguous whether it is a sentence with a nonverbal predicate or a possessive construction, the choice between a pronoun from set I or III
+can be used to disambiguate (see section 4.3).
+(38)a. atæj
+atæj
+fatherjetoko
+je-j-lə-ko
+give-2SG.SBJ-1SG.OBJ-PLUtaj
+taj
+PRO:1SG.POSSmej
+mejkətə-nalə tom
+kətə-nalə tom
+PRO:1PL.INCL.POSS
+things
+as.for
+‘Father, give me my things.’ (lit. ‘mine of our things’)
+b. maj
+majhamam
+hamam
+PRO:2PL.POSS food
+‘your food’ (as opposed to my food, and *‘you are food’)While there is a singular-dual-plural distinction on the verbal morphology (see section 4.2.4
+below), for the independent pronouns there is only a singular-plural distinction for the first and
+second person and no number distinction for the third person.","[35, 36, 37, 38, 39]"
+"The enclitics express a spatial relation to the noun phrase, indicating (to) where an action takes
+place. When movement is implied, i.e. =rə TO, =re TWDS, and =ra FROM, they are most often
+combined with a verb that includes motion/movement semantics, but this is not a strict
+necessity (as is shown below). It is clear from Table 22 that there is a functional overlap, as
+there are two clitics that cover ‘general’ movement and static location, =rə TO and =na AT,
+respectively. This means that, in instances where the exact locational relation is not emphasized
+(or is clear from the context), they are somewhat interchangeable. For example, both imæ=na
+‘house=AT’ and imæ=nə ‘house=IN’ mean ‘in the house’, but the former can also mean ‘on the
+house’, ‘at the house’ or ‘near the house’, whereas the latter can only mean ‘in the house’ or
+‘touching/attached to the house’. The majority of combinations of the locational clitics,
+however, are clearly mutually exclusive (41a-b), and in some instances there is a subtle
+difference in meaning due to the context, meaning that they are also not interchangeable (42ab).
+(41) a. wa
+wambəre?
+mbə=re
+PRO:2SG
+where=TWDS
+‘Where are you going?’40b. wa
+wambəra?
+mbə=ra
+PRO:2SG
+where=FROM
+‘Where did you come from?’(42) a. joku tajna
+məke
+joku taj=na
+m-ə-kə-le
+dog PRO:1SG.POSS=AT VENT-go-PST-IND
+‘A dog came to me (my general vicinity).’
+b. joku tajnə
+məke
+joku taj=nə
+m-ə-kə-le
+dog PRO:1SG.POSS=IN VENT-go-PST-IND
+‘A dog came to me (at my feet).’
+Interestingly, there is a clear subdivision in the locational clitics regarding their form and
+function: One category, =rə TO, =re TWDS, and =ra FROM, involves movement to or from, and
+the other, =na AT and =nə IN, denotes a static location. The categories each share an initial
+phoneme, [t]21 and [n], respectively. Interestingly, there is also an overlap in the vowels
+between the two categories, although this is not perfect since the static category is smaller.
+In addition to this, one of the clitics, =re TWDS, has a more semantically extended function, in
+which it disambiguates the object argument, without necessarily being congruent with the
+locational semantics of the verb complex or action. Ambiguous here means that the syntactic
+roles are not clear from the verbal marking or context, or the syntactic roles are unexpected or
+marked. For example, when a speech-act participant (SAP; first and second person) and a third
+person or lexical noun are present in a sentence, the expected scenario is that the SAP acts upon
+the third person or noun (43a). If, however, this is not the case, the SAP is marked with the
+clitic =re TWDS to indicate this object status (43b), since the word order does not provide
+enough context to disambiguate the syntactic roles, since the non-SAP could have been fronted.
+As (43a,b) show, the ‘unexpected object’ is marked even when the verb complex has overt
+subject/object marking.
+(43) a.b.tejæ
+obo hapokokale
+tejæ
+obo ha-po-ko-kə-a-le
+PRO:1SG pig
+take.along-strike-PLU-PST-1SG.SBJ-IND
+‘I have hit the pig.’
+nejæ
+tare
+nejæ
+ta=re
+PRO:3
+PRO:1SG=TWDS
+‘He has hit me.’hapoləkoke
+ha-po-lə-ko-kə-le
+take.along-strike-1SG.OBJ-PLU-PST-IND21The orthographical considerations here dictate the spelling of the locational clitics with <r> as they always
+appear intervocalically, thus being realized as such.","[41, 42]"
+"First, in an SVC (95a), the verb roots share an argument structure, and the subject is marked
+on both verbs. Second, a verbal compound (95b) consists of two juxtaposed verbs without any
+interfering morphology whatsoever, and subsequently they are treated morphologically as a
+single verb root in the verb complex. Finally, a Close Event Sequence (95c) differs from a
+multi-clausal construction in that there can be no interfering elements between the two verbs.
+(95a-c) give examples of the three constructions, and each type of multi-verb construction will
+be discussed individually below:
+(95) a.ta
+tapækənə
+pækə=nə
+PRO:1SG
+DEM.PROX=IN
+‘Here I live hungrily.’moninə
+moni=nə
+hunger=INməkakalæle
+m-nəkə-a-kale-a-le
+VENT-sit-1SG.SBJ-suffer-1SG.SBJ-IND69b.wena
+məhǽ-məhǽ
+obo
+hopowkoke
+wena
+məhǽ-məhǽ
+obo
+hə-po-w-ko-kə-le
+yesterday how.much
+pig
+hit-strike-E-PLU-PST-IND
+‘How many pigs were slaughtered yesterday?’c.na
+na
+PRO:3hokolo
+hokolo
+young.personfa
+fa
+youngtom
+tom
+as.forna
+na
+PRO:3kətə-nalæ
+kətə-nalə
+jæ
+possessions EMPHtom
+nanəmənə atiləwole
+alownokoke
+tom
+nanəmənə atilə-wo-le
+alo-w-moko-ko-kə-le
+as.for all
+gather-IMPF-IND go.to-E-do-PLU-PST-IND
+‘His young son took all his belongings and went to live alone.’
+In an SVC, the explicit marking of arguments tends to be only on the second verb root, but it
+is possible to mark arguments on each individual verb root. This marking does not need to be
+identical on both verb roots (see section 4.2). This follows the general optionality of argument
+marking across all verbs in Sentani. That being said, SVCs do underlyingly always share the
+same argument structure, meaning that, for example, an argument that serves as the subject of
+the first verb root cannot be (marked as) the object of the second verb root.
+Verbal Compounds, on the other hand are not very frequent, and they seem to be used for
+highly specific constructions, such as the slaughtering of pigs (96a). In this case, simply using
+the verb root hə- ‘to hit’ would indicate only hitting the pig, non-lethally (96b), whereas the
+verb compound indicates the lethality of the action. Thus, the juxtaposition of two verb roots
+modifies the semantics of one or even both of them. In this sense, they can in some cases be
+seen as a form of exocentric compounds, as the resulting semantics of the compound does not
+necessarily strictly follow from each individual verb root. Other verbal compounds are not as
+restricted; the compound in (96c-d) can be used as long as the object is animate.
+(96) a. tejæ
+obo
+məhini-pe
+tejæ
+obo
+məhini-pe
+PRO:1SG pig
+seven
+‘I slaughtered seven pigs.’hopowkale
+hə-po-w-kə-a-le
+hit-strike-E-PST-1SG.SBJ-INDb. hənəjbo
+hə-nə-j-bo
+hit-3SG.OBJ-2SG.SBJ-AU
+‘Hit him/her/it!’
+c. tejæ
+nare
+hapəkokale
+tejæ
+na=re
+ha-po-ko-kə-a-le
+PRO:1SG PRO:3=TWDS take.along-strike-PLU-PST-1SG.SBJ-IND
+‘I have beaten him up.’
+d. tejæ
+obo
+hapokokale
+tejæ
+obo
+ha-po-ko-kə-a-le
+PRO:1SG pig
+take.along-strike-PLU-PST-1SG.SBJ-IND
+‘I have beaten up the pig.’
+70The morphological status of po- ‘to strike’ is still clearly verbal in (96), but it is possible that
+this verb root is developing into an affectedness marker, a process we have seen in other verb
+roots as well as the historic origin of some other markers (see section 4.2.2).
+The Close Event Sequence indicates a sequence of two events that occur in an immediate
+sequence. More specifically, since it is a monoclausal construction, it describes two smaller
+actions, which are closely connected sequentially, occurring within one event. It may initially
+seem that this is a multi-clausal construction where the second clause consists only of a verb,
+there is a crucial difference between the two: A Close Event Sequence can have no interfering
+arguments between the two verb complexes, as in (97a). If constituents are placed between two
+inflected verbs (97b), the events, while still sequential, do not necessarily follow each other
+immediately and/or are spread out over a longer time span. (97b) can thus not be considered a
+Close Event Sequence but are two individual clauses. In a Close Event Sequence, both
+arguments are independently inflected and can thus feature all regular verbal morphology, but
+there is a tendency to have one verb with fewer morphological elements than the other.27
+(97) a. pele
+pele
+DEMjona
+jo=na
+village=ATto
+to
+manmbajrə
+mbaj=rə
+one=TOəke
+ə-kə-le
+go-PST-INDəwnəhikæwnuke
+ə-w-nə-hikæ-w-nu-kə-le
+go-E-3SG.OBJ-say-3SG.SBJ-REFL-PST-IND
+‘Then, one man from the village came and told [him]:…’
+b. ta
+ta
+PRO:1SGatununde
+atunə-nu-n-le
+connect-REFL-3SG.OBJ-INDmækore
+m-æko=re
+1PL.POSS-father=TWDSpukore
+puko=rə
+presence=TOərəlere
+mækorə
+ələnwənde
+ərəj-te-le
+m-æko=rə
+ələ-an-wə-an-le
+see-1SG.SBJ.FUT-IND 1PL.POSS-father=TO say-3SG.OBJ-ask-3SG.OBJ-IND
+‘I will go to my father and [then] say to him:…’
+(97a) shows that a combination of a Close Event Sequence and an SVC is also possible, which
+is in this case especially interesting since the same verb stem, ə- ‘go’, appears both in the Close
+Event Sequence verb and in the SVC, which clearly delineates two separate events, i.e. one of
+‘coming’ and one of ‘telling him’. It also shows that, while in an SVC the valency of the mostvalent verb is followed, the roots themselves are not ambivalent, since the verb root ə- ‘go’ by
+itself is strictly intransitive. Note that the reflexive marker -nu REFL in this example is a verbspecific construction to get ‘to order’ from hikæ- ‘to say’. (98) also shows that the first verb
+complex in the Close Event Sequence can be an SVC as well. In this example, the second verb
+complex, with the verb root ə- ‘go’, expresses the continuing, or perhaps repetitive, manner of
+the first event. While Close Event Sequences seem to require at least one of the verb complexes27A structural study of the specific number and type of different markers on the verb roots could perhaps shed
+light on the syntactic hierarchy of both the verb root order and the markers themselves; but further data is necessary
+for this to be possible.","[70, 71, 72]"
+"41The basic hierarchy of unexpected agents is 1,2 > third person pronoun > animate referent >
+inanimate referent; Table 23 gives a schematic overview of the different conditions in which
+object disambiguation is required, given that the context does not provide this.
+Arguments
+1>2
+2>1
+1, 2 > 3
+3 > 1,2
+3>3Object marking
+~
+~
+X
+V
+V if inanimate > animate
+X if animate > inanimate
+~ if animate > animateTable 23 Obligatoriness of object disambiguation with =re TWDS. V = yes, X = no, ~ = optionalAlthough the obligatoriness of the marker is still dependent on specific argument combinations,
+its ‘new’ function is a clear indication that =re TWDS has developed characteristics of a case
+marker, and it is possible that it will further develop as such.
+Lastly, the locational enclitics clearly share a common origin due to their formal overlap, but
+the word class they originate from is difficult to establish. The main two contenders for origins
+are verbs and postpositions. Firstly, there are several motion verbs and we have seen that the
+(normally) disyllabic verb roots can be shortened to a single syllable in the correct
+circumstances. Additionally, there are some synchronic verb forms that are formally and
+functionally related to the locationals, e.g. ərə ‘walk’ and =rə TO, and nəkə ‘sit’ and =nə IN.
+However, verb roots, especially shortened ones, cannot occur in their base form synchronically,
+which means that the language must have undergone a major typological change from the
+supposed moment that these verb roots were integrated into nominal morphology, which does
+not necessarily shine through from other elements of the verbal morphology.22 Additionally,
+we see that monosyllabic shortenings of verb roots have a tendency to develop into verbal
+rather than nominal morphology (see section 4.2.2). Instead, I believe they may have stemmed
+from earlier postpositions. The main evidence for this is that there are no postpositions in the
+language, the only possible instance being əj ‘inside’ (44a). As can be seen there, əj is marked
+with the locational clitic =nə IN, and is thus most likely a locational noun, similar to puma ‘top’
+(44b). Note that even this category is relatively very small, as the function normally occupied
+by locational nouns and/or adpositions is instead carried out mainly by the locational clitics.
+jo
+əjnə
+moni-maj
+kabam
+jo
+əj=nə
+moni
+maj
+kabam
+DEM
+village inside=IN hunger
+disaster big
+‘In that village there was a great famine.’(44) a. pele
+pelenəke
+nəkə-le
+sit-INDb. aje
+imæ
+pumanə
+aje
+imæ
+puma=nə
+bird
+house
+top=IN
+‘A bird is on top of a house.’22The relative lack of rigidity in the suffix ordering of the verb may point to this, but I do not suppose this as
+sufficient evidence.","[42, 43]"
+"As is clear from Table 26, any configuration of subject and object marking is possible, i.e.
+marking only the subject (60), only the object (60b), or both the subject and the object(s) (60cd). The examples in (59) and (60) also show that there is no morphosyntactic operation required
+for a change in valency. Rather, valency of the verb is determined by the number of (implicit)
+arguments and the event context.
+(60)ə
+əa
+ələwate
+a
+ələ-wo-aj-le
+PN
+CONJ
+PN
+word say-IMPF-3PL.SBJ-IND
+‘Onsá and Awansi are saying something [to me].’a.",[52]
+"38The possessive prefixes can be attached to a limited number of nouns in order to indicate
+otherwise unemphasized possession. Additionally, the first person plural can be used for an
+underspecified possessor or, often, as a polite alternative to the first person singular possessor.
+This occurs both with independent possessive pronouns (38a) and prefixed possession (39).
+The possessive prefixes are further discussed in section 3.3.4.
+(39) taj
+tajmæko
+m-æko
+PRO:1SG.POSS 1PL.POSS-father
+‘my father’ or ‘It is my father.’3.3 The Noun Phrase
+The noun phrase consists minimally of a lexical noun or pronoun, which can be conjoined with
+another noun or pronoun (40a), compounded (40b; this acts as a noun syntactically), or
+modified with demonstratives (40c), numerals (40c), quantifiers (40d)20 adjectives (40e), and,
+if the noun phrase is the object, locational clitics that attach to the right edge of the noun phrase
+(40e). The noun phrase itself is left-headed, meaning that the main noun is at the left-most edge
+of the phrase, and all modification, with the exception of the demonstratives, is placed after it.
+Multiple adjectives can modify the noun (or compound), the resulting meaning of which is
+dependent on the semantics of the nouns and the adjectives (40f). Within the modifiers to the
+noun, the ordering is as follows: modifying noun, adjective(s), numeral, and
+postposition/demonstrative.
+(40)a. wejæ
+æ
+tejæ
+wejæ
+æ
+tejæ
+PRO:2SG
+CONJ PRO:1SG
+‘you and I’
+b. o
+fi
+o
+fi
+tree
+sago
+‘Sago palm’
+c. ja
+ja
+daymbaj
+mbaj
+onenəkəwole
+nəkə-wo-le
+sit-IMPF-INDmo
+mo
+justHələna
+hələ=na
+Sere=ATto
+pele mijæ
+pele
+kajse
+hawejboke
+to
+pele mijæ
+pele
+kaji=re
+hawə-ej-bo-kə-le
+man DEM woman
+DEM
+pirogue=TWDS embark-3DL.SBJ-AU-PST-IND
+‘One day, a man and a woman came by canoe from Sere to Ebale’s village.’
+d. talo hələm
+talo
+hələm
+year much
+‘many years’20nəm
+nəmə
+allNon-numeral quantifiers are formally adjectives, and are thus generally subsumed under this category.","[39, 40]"
+"56The reflexive -nu REFL, indicates that the action takes places unto the agent, i.e. the undergoer
+is the same as the agent. It occurs chiefly in intransitive clauses (68a), but can also occur in
+transitive clauses (68b,c). In the latter instances, the resulting meaning is more similar to a
+benefactive, as the action itself is performed unto another argument, but for the benefit of the
+agent.
+(68) a. mejæ
+angukande
+mejæ
+a-nu-kə-an-le
+PRO:1PL.INCL take-REFL-PST-1PL.SBJ-IND
+‘We stand up.’
+b. bele
+bele
+DEMjo
+na
+jo
+na
+village PRO:3to
+mbajrə əke
+to
+mbaj=rə ə-kə-le
+man one=TO go-PST-INDəwnəhikæwnuke
+ə-w-nə-hikæ-w-nu-kə-le
+go-W-3SG.OBJ-say-3SG.SBJ-REFL-PST-IND
+‘One man from the village came and ordered him.’
+c. ta
+ta
+PRO:1SGatununde
+atunə-nu-n-le
+connect-REFL-3SG.OBJ-INDmækore
+m-æko=re
+1PL.POSS-father=TWDSpukore
+puko=rə
+presence=TOərəlere
+mækorə
+ələnwənde
+ərəj-te-le
+m-æko=rə
+ələ-an-wə-an-le
+see-1SG.SBJ.FUT-IND 1PL.POSS-father=TO say-3SG.OBJ-ask-3SG.OBJ-IND
+‘I will go to my father and [then] say to him:…’
+In (68b) for example, the reading of ‘to order’ is dependent on the presence of the reflexive, as
+the verb hikæ- ‘say’ by itself does not imply the power dynamic required for the correct reading.
+(68b) remains transitive, and the undergoer of the ‘ordering’ action is a different referent from
+the man that orders. However, the reflexive does not occur very often in transitive sentences,
+and it remains unclear whether this benefactive reading is inherent to the marker, or based on
+context.
+The plural undergoer marker, -ko PLU, expresses that there are multiple undergoers to the
+action. This can mean that the action takes place unto a (large) group of undergoers as a whole
+(69a), or that the action takes place unto each of the undergoers separately (69b). In some
+specific constructions, it is also possible to have a singular undergoer in combination with the
+marker, which indicates that the action iteratively affects the singular undergoer (69c).
+(69) a.tejæ
+əmfæw anokokale
+tejæ
+əmfæw ano-ko-kə-a-le
+PRO:1SG banana eat-PLU-PST-1SG.SBJ-IND
+‘I have eaten bananas.’57b.na
+nakətə-nalə wahewmikoke
+kətə-nalə wahe-w-mi-ko-kə-le
+PRO:3 things
+divide-E-3DL.OBJ-PLU-PST-IND
+‘He divided his goods to them (each individually).’c.nejæ tare
+hapələkoke
+nejæ ta=re
+ha-po-lə-ko-kə-le
+PRO:3 PRO:1SG=TWDS take.along-strike-1SG.OBJ-PLU-PST-IND
+‘He has beaten me up.’Finally, the connective marker, -hi marks that the objects are connected, united or bound
+together in some way. This connection can be quite literal, as in (70a), but it can also be
+somewhat more broad, as in (70b) where the marker more broadly indicates that the undergoer
+is the people of Sere, rather than the village itself.
+(70a) na
+nau
+pənə
+məwnənəkəwfike
+u
+pənə
+m-ə-w-nə-nəkə-w-hi-kə-le
+PRO:3 body
+thought VENT-go-E-3SG.OBJ-sit-E-CONN-PST-IND
+‘He came to his senses.’ (lit. ‘his body went and stayed with his thoughts’)(b)Jakali Serere
+wabəwmihike
+Jakali Sere=re
+wabə-w-mi-hi-kə-le
+PN
+PN=TWDS trick-E-3DL.OBJ-CONN-PST-IND
+‘Jakali played tricks on [the man and woman from] Sere.’The second subcategory of SFX1 suffixes is Directionality. This category consists of two
+suffixes: the direction towards marker, -mə DIR.TO, and the direction away from marker, -ho
+DIR.FRM. Both markers indicate that the action takes place towards or away from the
+object/undergoer. This is different from the ventive m- VENT since this marks direction towards
+the speaker’s location, and from the locational clitics since these indicate locations rather than
+direction.25 As with the connective marker, the directional meaning can be both more literal
+(71a), and more abstract (71b).
+(71) a.pækə
+pækə
+DEMtalo
+talo
+yearhələm
+hələm
+muchnəm
+nəm
+evenpaj
+paj
+justware
+mo
+wa=re
+mo
+2SG=TWDS onlyuhejməjawale
+uhe-j-mə-jə-aw-a-le
+observe-HAB-DIR.TO-HAB-2SG.OBJ-1SG.SBJ-IND
+‘I always listen to you.’25More specifically, the locational clitics indicate either the location at which an action takes place, or imply
+movement towards a location, whereas these markers only indicate the direction in which an action takes place,
+without movement being necessarily implied.","[57, 58, 59]"
+"Figure 2 The Sentanic language familyAll languages in the family are spoken around the Cyclops mountain range at the north-eastern
+coast of Papua province, Indonesia, with Sentani being spoken the furthest from the coast.
+Sentani itself is divided into three dialects: Western, Middle, and Eastern Sentani. The three
+dialects are quite similar and mutually intelligible, but have some differences in term of their
+phonology (M. Hartzler 1976). Additionally, there seems to be an acute awareness of the
+differences between the dialects, which is sometimes a minor point of contention. For example,
+the speaker I worked with often mentioned that speakers of Central Sentani purposely change
+their language every few years because they want to differentiate from the other dialects. This
+1The Japanese established several military bases on the norther coast of New Guinea during World War II, one
+of which in Hollandia [Jayapura] from 1942-44 (Hughes et al. 2021).
+2
+Some sources (e.g. Eberhard, Simons, and Fennig 2020) call this family ‘Sentani’. In this grammar, however,
+‘Sentanic’ and ‘Nuclear Sentanic’ will be used following Glottolog (Hammarström, Forkel, and Haspelmath 2021)
+in order to avoid confusion with the language proper.",[8]
+"42It may also very well be the case that these postpositions in turn stemmed from verb roots, but
+much more (comparative) data are required in order to establish this, and the hypothesis above
+as well.
+3.3.2 Adjectives
+Adjectives are placed after the noun they modify. While they generally cannot occur by
+themselves, in cases where there is enough context, the noun can be elided. Additionally, there
+are some adjectives, such as fa ‘young’, that can occur by themselves with a predetermined
+meaning regardless of context (45a). In the same vein, some compounds consist of two
+adjectives, the result of which functions as a noun (45b).
+(45) a. fa
+nundewbokera
+fa
+nunde-w-bo-kə-le=ra
+young get.lost-E-AU-PST-IND=FROM
+‘A little boy got lost.’
+b. kələw
+nikíban
+glimmering spotless
+‘Morningstar’
+Adjectives can be (fully) reduplicated, although this happens infrequently. The resulting
+meaning is augmentative to the original meaning, e.g. kələw ‘glimmering’ vs. kələw-kələw
+‘continuously glimmering’. Some adjectives, such as moj-moj ‘kind’, seem to be a clearly
+reduplicated form, but there is no corresponding unreduplicated form. In some cases, the
+unreduplicated form may have been present previously and has since been lost, but in other
+cases, such as (46), the adjective likely has an ideophonic origin.
+(46) obo pumpum jæle jahi
+jæle towən
+obo pumpum jæle jahi
+jæle tow-ən
+pig fat
+with round with take-3SG.SBJ.FUT
+mənnənsa!
+m-ə-ən-nə-n-ha
+VENT-go-3SG.SBJ.FUT-3SG.OBJ-3SG.OBJ-INS
+‘Bring a fat and round pig to slaughter for him!’
+Non-numeral quantifiers, as mentioned above, are formally the same as. By this I mean that
+their syntactic position in the NP is exactly that as occupied by adjectives (47a,b). In cases
+where the quantifier occurs only with an adjective, such as in the (lexicalized) greeting phrase
+in (47c), it is placed before the adjective. Lastly, multiple non-numeral quantifiers can be
+placed after each other as well (47d)
+(47) a. aj
+aj
+PRO:1PL.EXCL.POSSəmfæw nanəmən
+emfæw nanəmən
+banana all‘all of our bananas’43b. na
+nahələm jæle
+hələm jæle
+PRO:3
+much with
+‘with many of them’c. hələm foj
+hələm foj
+much good
+‘very good’
+d. məhǽ-məhǽ hələm nəmə
+məhǽ-məhǽ hələm nəmə
+how.much
+much all
+‘how many [people] altogether?’
+3.3.3 Numerals
+Sentani has a base-four numeral system based on the hands. That is to say, the first four
+numerals are base forms, while larger numbers are complex. For example, məhǽ-mbaj ‘five’
+consists of mə ‘hand’, hæ ‘with’ and mbaj ‘one’, and məhini-pe ‘seven’ of mə, hi ‘other’ and
+=nə IN. The first numeral also functions as an indefinite determiner, especially for introducing
+human referents in the discourse with the phrase to mbaj ‘a man/person’. In everyday language,
+Indonesian numerals are generally used, especially for larger numbers.
+Numeral
+mbaj
+pe
+nami
+kəli
+məhǽ-mbajMeaning Gloss & Literal translation
+‘one’
+‘two’
+‘three’
+‘four’
+‘five’
+mə
+hæ
+mbaj
+‘with one hand’
+hand with oneməhini-mbaj ‘six’mə
+hi
+=nə
+hand other =INmbaj ‘on the other hand one’
+one‘seven’mə
+hi
+=nə
+hand other =INpe
+twoməhini-nami ‘eight’mə
+hi
+=nə
+hand other =INnami ‘on the other hand three’
+threeməhini-kəli‘nine’mə
+hi
+=nə
+hand other =INkəli
+fourmə-pe‘ten’mə
+pe
+hand twoməhini-pe‘on the other hand two’‘on the other hand four’
+‘two hands’
+‘two hands one’mə-pe-mbaj‘eleven’mə
+pe
+hand twombaj
+oneTable 24 Sentani numerals44Numerals are placed at the right edge of a noun phrase, meaning they appear after the noun and
+adjective, if present (48).
+(48) to
+mbaj na
+kəlu fa
+pe
+[[to mbaj] [na
+[kəlu fa
+pe]]]
+man one
+PRO:3 son
+young two
+‘A man had two sons.’
+3.3.4 Possession
+There are three ways to express possession in Sentani: juxtaposition, emphatically possessive
+pronouns, and possessive prefixes. These ways are grammatically not mutually exclusive and
+can be combined with one another.
+The simplest way to express possession, often employed when the possessor is a lexical noun,
+is by juxtaposing the possessor and the possessed (49a). The ordering runs contrary to the
+general noun phrase ordering in that the possessor precedes the possessed, i.e. the modifier
+precedes the head. When the possession is not emphasized, one of the unmarked pronouns can
+also be used in a juxtaposition (49b). Additionally, when the possessor is clear through the
+context, the possessor can be left out altogether (49c).
+(49) a. imæ
+pumanə
+imæ
+puma=nə
+house
+top=IN
+‘on the top of the house’
+b. na
+nato
+Ebalə Jakali
+to
+Ebalə Jakali
+PRO:3
+name
+PN
+‘His name was Ebalə Jakali.’c. ojbona mənə
+mənnənə…
+ojbo=na mə=nə
+m-ə-ən-nə-nə
+ring=AT hand=IN VENT-go-3SG.SBJ.FUT-3SG.OBJ-3SG.OBJ
+‘Put rings on [his] hand…’
+One of these juxtaposed possessive constructions, name the possessed u ‘body’, has been
+conventionalized and is used in contexts where the body of the referent is emphasized:
+(50)tene jare
+tene ja=re
+early day=TWDSmohəwboke
+mohə-w-bo-kə-le
+crush-E-AU-PST-INDEbalə Jakali mijǽ
+ebalə jakali mijǽ
+PN
+womanu
+u
+bodyjæ
+jæ
+EMPHmolowboke
+molo-w-bo-kə-le
+prepare-E-AU-PST-IND
+‘In the morning, Ebalə Jakali dressed himself like a woman.’45The second way to express possession is the emphatically possessed pronoun paradigm, as was
+already discussed in section 3.2 above. In addition to emphasizing the possessive relation, see
+(51a), it can also disambiguate it from a nominal predicate construction (see section 4.3). It is
+also common to express possession in an appositional construction; first introducing the lexical
+referent, and then using the possessive pronoun (51b).
+(51)a.waj
+wajjoku
+joku
+PRO:2SG.POSS
+dog
+‘Your dog’ (as opposed to my dog, or ‘you are a dog’)b.","[43, 44, 45, 46, 47]"
+"71expressing motion, this does not seem to be a prerequisite to the construction, since either the
+first, the second or both can contain the motion verb.
+(98) mojra
+na
+u
+pənə
+moj=ra
+na
+u
+pənə
+after=FROM PRO:3 body thought
+məwnənəkəwfike
+ələle
+m-ə-w-nə-nəkə-w-hi-kə-le
+ə-le=re
+VENT-go-E-3SG.OBJ-sit-E-CONN-PST-IND go-IND=TWDS
+‘After that, he came to his senses, saying:’
+Further research can reveal whether the presence of a motion verb is a strict requirement of the
+construction or if it is prevalent due to the semantic circumstances, e.g. it is required to move
+to a certain location in order to speak to someone. Additionally, a Close Event Sequence can
+consist of more than two verb complexes, as shown in (99b), but this is relatively rare.
+(99) a.məkate
+m-ə-kə-aj-le
+VENT-go-PST-3PL.SBJ-INDhabəkaj
+habəkaj
+tobaccowahewate
+wahe-wo-aj-le
+divide-IMPF-3PL.SBJ-INDhulunə-hulunə
+hiwnewate
+hulu=nə
+hulu=nə
+hiwne-wo-aj-le
+string=IN string=IN string.up-IMPF-3PL.SBJ-IND
+‘They went, and divided the tobacco, tying it into parcels.’
+b.pajwate
+kalawate
+paj-wo-aj-le
+kala-wo-aj-le
+hang.up-IMPF-3PL.SBJ-IND dry-IMPF-3PL.SBJ-IND
+‘They hung it [the tobacco] up and cured it.’mokowate
+moko-wo-aj-le
+do-IMPF-3PL.SBJ-IND5.3 Interclausal relations
+Due to the nature of this sketch grammar, it is not possible to go into much detail about supraclausal aspects of the language, such as referent tracking, discourse organization or narrative
+styles. In this section, however, I will give a very brief overview of a few strategies used in
+narratives to link clauses. Discourse particles are frequently used to continue a narrative and/or
+link two clauses, and some of their functions have been discussed in section 4.4.2. Additionally,
+temporal indications, such as ja mbaj ‘one day’ and jahimo ‘the next day’28 can serve to
+progress the time in a narrative, but demonstratives are also very prominently used, especially
+the general demonstrative pele DEM. While in some cases they function to track referents
+established in the previous sentence (100a-b), they can also be used more generally, for
+example in the often occurring pelena ‘then’, which consists of the demonstrative and the
+general static locational enclitic =na AT (100c-d).","[72, 73]"
+"757 References
+Anderbeck, Karl. 2015. “Portraits of Language Vitality in the Languages of Indonesia.”
+Papers from Language Documentation and Cultural Practices in the Austronesian
+World, 19–47.
+Bisang, Walter. 2009. “Serial Verb Constructions.” Linguistics and Language Compass 3 (3):
+792–814. https://doi.org/10.1111/j.1749-818X.2009.00128.x.
+Cowan, H. K. J. 1952a. “De Austronesisch-Papoea’se Taalgrens in de Onderafdeling
+Hollandia (Nieuw Guinea).” Tijdschrift Nieuw-Guinea 13 (1–6): 133–43, 160–77, 201–
+6.
+———. 1952b. “Drie Verhalen in Sentani-Taal.” Bijdragen Tot de Taal-, Land- En
+Volkenkunde 108 (4): 347–64.
+———. 1965. “Grammar of the Sentani Language with Specimen Texts and Vocabulary.”
+Verhandelingen van Het Koninklijk Instituut Voor Taal-, Land- En Volkenkunde 47.
+https://doi.org/10.2307/412395.
+Eberhard, David M., Gary F. Simons, and Charles D. Fennig, eds. 2021. Ethnologue:
+Languages of the World. 20th ed. Dallas, Texas: SIL International.
+https://www.ethnologue.com/.
+Elenbaas, Nine. 1999. “A Unified Account of Binary and Ternary Stress: Considerations
+from Sentani and Finnish.” Utrecht: LOT-Netherlands Graduate School of Linguistics.
+“Festival Danau Sentani.” 2008. Indonesia: Dinas Pariwisata Seni Dan Budaya Papua.
+Gregerson, Kenneth, and Margaret Hartzler. 1987. “Towards a Reconstruction of ProtoTabla-Sentani Phonology.” Irian: Bulletin of Irian Jaya Development 26 (1): 1–29.
+Hammarström, Harald, Robert Forkel, and Martin Haspelmath. 2021. Glottolog 3.0. Jena:
+Max Planck Institute for the Science of Human History. https://glottolog.org/.
+Hartzler, Dwight. 1976. “A Study of Sentani Verb Structure.” Irian: Bulletin of Irian Jaya
+Development 5 (2): 18–38.
+Hartzler, Margaret. 1976. “Central Sentani Phonology.” Irian: Bulletin of Irian Jaya
+Development 5 (1): 66–81.
+———. 1983. “Mode, Aspect, and Foregrounding in Sentani.” Language and Linguistics in
+Melanesia 14: 175–94. http://www.sil.org/resources/archives/37755.
+———. 1986. “Theme and Focus in Sentani Discourse.” Workpapers in Indonesian
+Languages and Cultures 3: 17–43. https://www.sil.org/resources/archives/37751.
+Hughes, Thomas A., John Graham Royde-Smith, The editors of Encyclopaedia Britannica,
+and Hector Parra. 2021. “World War II: The War in the Pacific, October 1943 - August
+1944; Western New Guinea.” In Encyclopaedia Britannica, Chicago: Encyclopaedia
+Britannica, inc. https://www.britannica.com/event/World-War-II/The-war-in-thePacific-October-1943-August-1944.
+Hutz, Matthias. 2004. “Is There a Natural Process of Decay.” In First Language Attrition:
+Interdisciplinary Perspectives on Methodological Issues, 189–206. Amsterdam: John
+Benjamins.","[76, 77]"
+"The table shows that stress regularly falls on the first mora of the right-most foot. If this foot
+consists of two light syllables, each having one mora, the stress is thus placed on the first
+syllable. If the foot consists of one heavy syllable, stress is assigned in a similar way, i.e., on
+the first mora, landing on the vowel, stressing the syllable as a whole. This works for the
+majority of word forms, but some run into problems: For example, in a disyllabic word
+consisting of a heavy and a light syllable, e.g., CVC.CV, stress cannot be assigned to the
+penultimate mora, since this is a consonant. In these cases, stress is then assigned to the final
+mora, showing that the rule for not stressing the first syllable is stronger than the preference of
+not having stress on the final mora. Conversely, if both syllables in the word are heavy, there
+is no such clash and stress can be assigned regularly to the penultimate mora, landing on the
+final syllable. To clarify, this restriction is specifically for disyllabic words where the first
+syllable is heavy, if the heavy syllable is not word-initial, e.g., CV.CVC.CV, the stress can be
+placed on the heavy syllable without any issues.
+To summarize, stress in Sentani is assigned to syllable containing the penultimate mora, unless
+this is the first syllable of the word, in which case it is placed on the following syllable.
+The last four forms in Table 15 show non-penultimate stress that cannot be explained by the
+regular stress pattern. While Onsá PN and məɦǽ ‘who’ can be explained by that personal names
+and function words more often behave differently than other word-types, jakobá ‘island’ and
+kelá ‘area’ cannot be explained this way. Although it is currently unclear, I suspect that these
+are historically complex forms and/or contractions.
+In order to explain, at least in part, why heavy syllables have this influence on stress
+assignment, we must turn to the formation of the highly restricted CVC syllables to explain the
+current forms. As we have seen in section 2.2.1 above, there are two sets of rules that have led
+to the appearance of CVCnasal and CVCglide syllables. In both cases the original stress has not
+27moved, but rather the lexeme has resyllabified without changing the number of mora’s. This
+can be proven contemporarily by creating contexts in which stress is moved, since, as we have
+seen above, stress is assigned on the word-level. This is difficult on non-verbs, since there is
+very little non-verbal morphology that can be used to create these contexts, but looking at verbs
+that show non-penultimate stress in one form can show that the stress assignment does in
+actuality follow the regular penultimate pattern, by adding additional suffixation. For example,
+while the basic imperative form nəkəj ‘sit!’ has ultimate stress, the more complex form nəkəjbo
+‘keep sitting!’ follows the regular pattern and has penultimate stress. Initially it may seem that
+the stress is linked to the final syllable, but (22) shows that the regular stress pattern is observed
+in cases with additional morphology.
+u
+kaban də
+əke
+nəkəˈwole
+nə
+u
+kabam də
+ə-kə-le
+nəkə-wo-le nə
+PRO:3 body big
+DEM go-PST-IND sit-IMPF-IND then
+‘There he lived lavishly.’ (lit. ‘His body lives in a big way.’)(22) na
+naThis pattern, where atypical stress in the imperative verb form disappears with additional
+suffixation, is found in all instances where the imperative form is disyllabic, following the
+regular stress assignment rules. This does not necessarily mean that it applies to all disyllabic
+verb roots as some of roots (of varying length) always require additional morphology (23),
+making a disyllabic form impossible. This also means that ultimate stress can be excluded as a
+feature of the imperative.
+(23) hoˈbojko
+ho-bo-j-ko
+kill-AU-2SG.SBJ-PLU
+‘Kill!’
+To summarize, the analysis can be distilled into three processes that explain both emergence
+of nasals and glides in the syllable coda, and the seemingly atypical stress assignment in some
+word forms. The processes are, chronologically ordered, as follows:
+A. Vowel deletion after nasals in from pre-proto-Nuclear-Sentanic onwards led to the
+emergence of nasals in syllable codas, creating the syllable type CVCnasal.
+1. CV1CnasalV1 > CV1Cnasal
+i. /kanapu/ > *kanpu > [ˈkam.bu] ‘root’
+B. The deletion of /ə/ after a glide or nasal in proto-Sentani-Nafri led to the emergence of
+glide in syllable codas, creating the syllable types CVCglide and CVCnasal.
+1. *CVCnasal/glideVə > CVCnasal/glide
+i. *nəkənˈdəjə > /nəkənˈdəj/ > [nə.xən.ˈdəj] ‘mosquito’
+ii. *kənˈdiNə > /kəndin/ > [kən.ˈdiŋ] ‘small’
+C. Regular penultimate stress is not reassigned in the forms resulting from either A. or B.,
+creating surface forms with ultimate stress.
+1. (*)/CV.ˈCV.Cnasal/glideV/ > CV.ˈCVCnasal/glide
+These three processes explain that forms that may seem to break the regular penultimate stress
+assignment pattern in Sentani, the forms are actually the result of (historical) phonological
+developments and underlyingly do follow the regular stress assignment. While it is difficult to
+pinpoint whether A. or B. has had the largest effect on the instances of CVC nasal, comparative
+28data shows that A. must precede B., since the latter is proposed only from proto-Sentani-Nafri
+onwards.
+Since there is little contemporary data on the Sentanic languages, and the historical sources
+discuss stress or mark it stress in their orthographies, it remains to be seen whether penultimate
+stress assignment is a feature of proto-Sentanic and thus of the Sentanic family as a whole.","[28, 29, 30]"
+"Note that, since phonological rules function across word boundaries, although irregularly and
+only in fast speech, the variation can also be seen at the onset of the first syllable. Table 10
+gives examples of these variations and their position in the word, although not all positions are
+covered in the data. For the velar plosive, /k/, the fricative variant appears both voiced and
+unvoiced, [x~ɣ], although the latter variant is extremely infrequent. Note that these examples
+only showcase the semi-free variation, not the specific conditions which determine the
+appearance of one particular allophone.
+InitialPhonetic form
+[ˈte.jæ]~[ˈde.jæ]~ [ˈre.jæ]
+[ˈkə.lu]~[ˈk͡xə.lu]~[ˈxə.lu]Underlying form
+/tejæ/Translation
+tejæ ‘I’/kəlu/kəlu ‘son’[pu]~[βu]/pu/pu ‘water’[ˈbu.lu]/pulu/pulu ‘hole’/m-ataj/mataj ‘your knowledge’Medial [ma.ˈtaj]2PL.POSS-knowledge
+[di.ˈkæ.da]/tikə=ra/tikera ‘from yonder’DEM.DIST=FROM[m.ˈbə.ra]/mbə=ra/mbera ‘from where’where=FROM
+[u.ˈkə.te]~[u.ˈk͡xə.te]~[u.ˈxə.te] /ukə-te/ukəte ‘I will tell’tell-1SG.SBJ.FUT
+[pa.ˈpe.da]/papeda/papeda ‘cooked taro’[ˈo.bo]~[ˈo.βo]/opo/obo ‘pig’Table 10 Variable phonetic realizations of /p/, /t/, /k/15There is one environment, however, where a single variant always appears: when the preceding
+syllable ends in a nasal, the plosive is always voiced. For /t/ and /p/, these variants are already
+present in the alternation in (5), but for /k/ the additional variant /g/ appears (5). Additionally,
+the nasal assimilates to the same position as the plosive.
+Phonetic form
+(5) a. [nə.xən.ˈdəj]
+b. [ˈkam.bu]
+c. [ˈmæŋ.gə]Underlying form
+/nəkəntəj/
+/kampu/
+/mænkə/Translation
+nəkəndəj ‘mosquito’
+kambu ‘root’
+mænggə ‘girl’Note that these word forms are the result of a historical vowel elision process where vowels
+after a nasal may be deleted if it is of the same quality as the previous vowel or no previous
+vowel is available, and, subsequently, the nasal assimilating in location to the consonant it is
+now next to. For example, the historical formation of (5) is as follows: *mænækə > /mænkə/ >
+[ˈmæŋ.gə]. This process is further detailed in section 2.2.1.
+In some words, in isolation, a glottal stop infrequently appears at the end, e.g. [pe]~[peʔ] ‘two’.
+Hartzler (1976, 73) analyzes this as an allomorph of /k/, but since it appears so infrequently
+and I could not find any instances in which its presence or absence had any semantic impact.
+Additionally. it contradicts the possible syllable types (see section 2.2). Therefore, I do not
+include it in the allophone set of /k/.
+Since there are many phonetic fricatives that arise from phonological operations, it is important
+to distinguish the phonemic position of the two underlying fricatives, /f/ and /ɦ/.
+/f/ may initially seem like a candidate for a lenited form of the stop /p/, but it appears without
+variation in contexts that make this impossible, as well as being less restricted by other
+phonological rules that apply to (lenited) stops such as assimilation. (6) and (6) show /f/
+appearing word-initially and word-medially, respectively, without (possible) variation.
+Additionally, (6c) shows /f/ following a nasal, where the nasal is homorganic, but /f/ remains
+unvoiced. Since the stops are always voiced when following a nasal, this is evidence for /f/ as
+a separate phoneme.
+Phonetic form
+(6) a. [foj]
+b. [on.do.ˈfo.lo]
+c. [əm.ˈfæw]Word
+foj
+ondofolo
+əmfæwTranslation
+‘good’
+‘chief’
+‘banana’As noted in section 2.1.1above, [ɦ] and [s] are closely connected since the former is the result
+of a historical phonological change from the latter: /s/ changed into /ɦ/ in every environment
+except when following a nasal, in which case it remains /s/. This change is easy to detect since
+it is restricted to the Eastern Dialect and in part to the Central Dialect; Cowan (1965) notes that
+in the Western dialect [s] appears in each case of [ɦ] in Eastern Sentani, meaning that */s/ must
+have been the phoneme historically. This is easily seen in the name for one of the islands in
+Lake Sentani: WSet. Asej and ESet. Ohəj, and this analysis is included in Gregerson and
+Hartzler’s (1987) reconstruction of proto-Tabla-Sentani phonology. It is at this point difficult
+to pinpoint when exactly this change took place, but since it is present in the Eastern and Central
+Dialect, although not in all cases in the latter, but not in the Western Dialect, it must be
+relatively recently, i.e. after the split of Sentani-Nafri, and after Dialects started to diverge.
+16As mentioned above, the nasals, /n/ and /m/, are prone to allophony based on the surrounding
+consonants. Most variation occurs word-finally: both nasals in word-final position freely vary
+when the word is uttered in isolation, e.g. /n/ can word-finally be realized as [n~ŋ], and /m/ as
+[m~n~ŋ], but there are certain environments in which this variation is restricted, although this
+is a tendency rather than a strict phonological rule:
+/m/ most frequently appears as [m] word-finally (7a), but if the following word starts with a
+vowel (7b) or a nasal (7c), it appears as [ŋ]. If the following word starts with /t/, /m/ is realized
+as [n] (7d).
+Phonetic form
+(7) a. [ɦa.ˈmam]
+b. [ɦa.ˈmaŋ
+a.no.ko.ˈxan.de]
+c. [ˈte.jæ ɦa.ˈmaŋ ˈninæ
+a.no.ko.ˈxa.le]
+d. [ˈjo.ɣu xa.ˈban ˈtaj.ɲə
+mə.ˈɣe]Underlying form
+/ɦamam/
+/ɦamam ano-ko-kə-an-le/
+food eat-PLU-1PL.SBJ-INDTranslation
+hamam ‘food’
+hamam anokokande
+‘we have eaten’/tejæ ɦamam ninæ ano-kokə-a-le/
+PRO:1SG food already eatPLU-PST-1SG.SBJ-IND
+/joku kabam taj=nə m-ə-kəle/
+dog big PRO:1SG.POSS=IN
+VENT-go-PST-INDtejæ hamam ninæ
+anokokale
+‘I have already eaten’
+joku kabam tajnə məke
+‘A big dog came to me’/n/ may appear as [n~ŋ] word-finally. However, in isolation, the variant [ŋ] is by far the most
+frequent, and [n] always appears when the word ends on /n/ due to elision of the final vowel
+(see section 2.2.1 below), i.e. /nanəmənnə/ > [na.ˈnə.mən], but not *[na.ˈnə.məŋ~m].
+Gregerson and Hartzler (1987, 14–15) propose that word-final nasals are a reflex of the ProtoTabla-Sentani general final nasal *-N, and state that, in Central Sentani, it is always realized
+as [m] in isolation. However, in my data for Eastern Sentani there are certain words that never
+appear with a final [m] (8a-b), whether in isolation or not, and even influence the realization
+of other word-final nasals (8c). Therefore, although this may historically have been the case,
+the appearance of word-final nasals cannot be subsumed under a single phoneme in presentday (Eastern) Sentani, as proposed by Gregerson and Hartzler (ibid.).
+Phonetic form
+(8) a. [kən.ˈdiŋ]
+b. [ˈkə.lu xən.ˈdiŋ
+row.ˈka.le]
+c. [ro.ˈmi.jæ xən.ˈdiŋ
+xa.ˈbaŋ]Underlying form
+/kəndin/
+/kəlu kendin tow-ke-a-le
+son small take-PST1SG.SBJ-IND
+/to mijæ kəndin kabam/
+man woman small bigTranslation
+kəndin ‘small’
+kəlu kəndin towkale
+‘I cradle my small son’
+to mijæ kəndin kabam
+‘big and small people’/n/ appear as [ɲ] when following /j/:
+Phonetic form Underlying form Translation
+(9) [ˈmaj.ɲa]
+/maj=na/
+majna ‘at you all’
+PRO:2PL.POSS=AT17Thus, /m/ and /n/ are both influenced by their environment, and they have quite a lot of overlap
+in their surface realizations, but their distribution is somewhat different: /m/ surfaces as
+[m~n~ŋ], while /n/ surfaces as [n~ŋ~ɲ].
+/l/ appears as [t] when following the glide /j/, which is in turn generally elided (10a). In some
+cases, however, the glide remains, which shows that it is an ongoing phonological change since
+the glide is fully deleted in the Central Dialect (e.g. D. Hartzler 1976, 37). If /l/ follows /w/, it
+assimilates and appears as [w]. Note that it does not form a geminate, as the syllable boundaries
+remain preserved.
+Phonetic form Underlying form
+(10) a. [ə.lə.ˈwa.te]
+/ələ-aw-aj-le/
+say-2SG.OBJ-3PL.SBJ-IND
+b. [mə.ˈxaw.we]Translation
+ələwate ‘They have spoken to you.’/m-ə-kə-aw-le/
+məkawwe ‘You all came here’
+VENT-go-PST-2PL.SBJ-INDAdditionally, /l/ appears as [d] when following a nasal consonant, but this may be a secondary
+change from *[t] due to assimilation, which was further detailed in section 2.2.1.
+Phonetic form Underlying form
+Translation
+(11) [ə.lə.ko.ˈxan.de] /ələ-ko-kə-an-le/
+ələkokande ‘We said something.’
+say-PLU-PST-1PL.SBJ-IND
+In some words where /t/ and /l/ appear intervocalically in sequence, metathesis takes place
+(12a), with an additional optional cooccurrence of /e/ as [ə]. The likely reason for this is to
+disambiguate from another verb form (12b), which would look identical had metathesis not
+taken place. In my data, this combination of consonants is the only instance of metathesis, and
+it is thus not likely that this is a regular, structural operation.
+Phonetic form
+Underlying form
+Translation
+(12) a. [ə.ˈle.re]~[ə.ˈlə.re] /ə-te-le/
+ətele ‘I will go.’
+go-1SG.SBJ.FUT-IND
+b. [ə.ˈrə.le]/ərə-le/
+see-INDərəle ‘He sees.’In contrast to the infrequency of /l/, the two glides /j/ and /w/ are highly frequent and play an
+important role in Sentani phonology. They occur both in many lexemes and are very prominent
+in the pronominal affixation paradigms, and are the only consonants besides nasals allowed to
+appear in the syllable coda. Contrary to the nasals, however, they are not as heavily influenced
+by their phonological environment and generally appear as [j] and [w]. As noted above, when
+a nasal follows /j/, it assimilates to [ɲ]. However, optionally /j/ may subsequently be elided as
+well (13a). The second variant of /j/ is [ɟ], which appears when following /i/ or /j/, and is thus
+a dissimilation. Note that for the latter, the rule occurs across word boundaries (13b).
+Phonetic form Word Translation
+(13) a. [ˈaj.ɲu]~[ˈa.ɲu] ajnu
+‘Stand up!’
+b. [o.ˈɦəj ɟo]
+ohəj jo ‘Asei village’18In (13a), the underlying form is /a-j-nu/ ‘take-2.SBJ-REFL’, where the juxtaposition of the
+second person subject suffix -j and the nasal of the reflexive suffix -nu lead to the interaction
+resulting in [jɲ]~[ɲ].
+There is one case (14) which features [ɟ] but does not seem to be in the correct environment to
+warrant this. However, Hartzler (1976, 74) gives this word as CSet. [oi.ɟo] /oijo/, meaning that
+the lack of /i/ may be due further phonological developments in Eastern Sentani. As mentioned
+for /j/ preceding /l/ above, the deletion of /i/ or /j/ preceding a consonant occurs in other
+conditions as well. Additionally, some verb stems having an optional but not frequent /j/ in the
+verb stem, e.g. ərə(j)- ‘to see’. All of this shows that the deletion is an ongoing phonological
+process and is still productive.
+(14) [ˈo.ɟo] odjo ‘chicken’
+In the data, /w/ does not show any variation whatsoever, but it could be expected that it may
+appear as [u] due to resyllabification. This process is, however, rather rare contemporarily in
+Sentani and generally only occurs on the verb due to affixation creating word structures
+incongruent with word-formation rules. In most cases the incongruency is solved by removing
+a vowel and/or the merging of two affixes.
+Although vowels themselves do not seem to influence their direct surroundings with the
+exception of /i/ preceding /j/, the interaction of syllables in verbal affixes results in certain
+vowels appearing above others. However, this is usually not governed by vowel quality, but
+rather by the order of the affixes: For example, if the order is /-kə-le/ PST-IND, the resulting
+surface form is [ke], but if the order is /-kə-a-le/ PST-1SG.SBJ-IND the form is [kale]. This occurs
+most frequently on the affixes, but it is not restricted to this; the final vowel of a verb stem also
+undergoes this assimilation e.g. /ələ-a-le/ speak-1SG.SBJ-IND ‘I speak’ surfaces as [ə.ˈla.le].
+Besides this, there is optional vowel harmony, where any vowel may harmonize with one of its
+surrounding vowels. While it is optional in all cases, it occurs more frequently in fast speech
+or a sentence context than in isolation, and is much more frequent in the verbal complex than
+other words. Of the vowels, /ə/ is by far the most susceptible to the vowel harmony, assimilating
+by far the most often to its surrounding vowels. Conversely, other vowels rarely assimilate to
+[ə].
+Additionally, there is a set of interacting phonological rules where, among other things, vowels
+are deleted. These rules also interact with the syllable structure, which will be further discussed
+in section 2.2.1. Therefore, based on the proposal by Hartzler for Central Sentani (1976, 77–
+79), I propose the following ruleset for Eastern Sentani:
+1. A vowel may be deleted if the consonant in the onset of the syllable is a nasal, and the
+preceding vowel is of the same vowel quality.
+2. If a nasal and a voiceless stop or /l/ appear next to each other, the nasal assimilates to
+the homorganic position and the stop becomes voiced or /l/ becomes the voiced stop
+[d].
+3. In fast speech a stop may optionally assimilate fully to the preceding nasal.","[16, 17, 18, 19, 20]"
+"A Sentani prosodic word can minimally consist of a single syllable from any of these types,
+e.g., a ‘word’, fi ‘sago’, waj ‘your (sg.)’, and pam ‘nothing’, and maximally of six syllables,
+see e.g. (18).12 For monomorphemic, i.e. underived, forms the maximum word length is three
+syllables, but the majority of monomorphemic forms are mono- or disyllabic.
+(18) bele jo
+na
+to
+mbajrə əke
+bele jo
+na
+to
+mbaj=rə ə-kə-le
+DEM village PRO:3 man one=TO
+go-PST-IND
+əwnəhikæwnuke
+ə-w-nə-hikæ-w-nu-kə-le
+go-E-3SG.OBJ-say-3SG.SBJ-REFL-PST-IND
+‘One man from the village came and ordered him.’
+When considering this from a mora-based perspective, prosodic words consist of minimally
+one and maximally eight moras (see Table 13), given that light syllables (C, CV) consist of one
+mora and heavy syllables (CVCglide, CVCnasal) consist of two. Mora’s also form the basis of
+stress assignment in Sentani, which is further discussed in section 2.3. As above, a distinction
+must be made between underived and derived forms: (historically) underived forms (a-c in12Elenbaas (1999, 58) gives the maximum number of syllables as seven, but these must be very rare as they do
+not appear in my data.",[23]
+"2.4 Orthographical conventions
+Generally, the graphemes in the Sentani orthography used in this grammar sketch are based on
+the Indonesian alphabet (i.e. the Latin alphabet with the sound correspondences used in
+Indonesian orthography), supplemented by a few additional graphemes and digraphs where
+there is none available. One exception to this is the grapheme for /j/, which corresponds to <y>
+in the Indonesian alphabet, but for this sketch grammar, <j> is used instead, which corresponds
+to [ɟ] in the Indonesian alphabet. The main reason for this is that the allophone of [ɟ] occurs
+only very infrequently in a specific context (preceded by /i/), in which it is written with <dj> if
+the surrounding graphemes do not provide enough context for the correct pronunciations, e.g.,
+in odjo ‘chicken’. Additionally, when reading texts that used Cowan’s (1965) orthography, it
+was never misinterpreted by the speaker. Therefore, in order to cover both allophones as well
+as emphasize its status as a consonant rather than a vowel, <j> was chosen as the corresponding
+grapheme.
+A similar exception is /n/ realized as [ɲ]. Since the preceding consonant, /j/, gives enough clue
+for the pronunciation, it is unnecessary to use the digraph <nj>, e.g., rowkajnəle ‘they have
+found something’ instead of *<rowkajnjəle>. While this is an aesthetic choice, it does not
+impact readability since there is no alternative realization for /n/ in this context.
+If a phoneme is in a position where free variation is possible, e.g., phrase-initial /t/ realized as
+[t~d~r] or /k/ in an unrestricted position (see section 2.1.1 above) realized as [k~k͡x~x], the
+underlying phoneme is written, i.e., <t> and <k>, respectively. If, however, the condition
+allows only one allophone, e.g., /t/ after a nasal which may only be [d], the grapheme
+corresponding to this allophone is used. An exception to this is where the phonological
+condition is across word boundaries, e.g., with word-final nasals, in which case the underlying
+phoneme is used.
+The accent aigu (´) is used to indicate stress on a word where it is not regularly assigned as
+described in section 2.3 above.
+Lastly, personal names are distinguished from their non-name counterparts by capitalization of
+each element, e.g. Kələw Nikíban ‘PN’ versus kələw nikíban ‘Morningstar’ (lit. ‘spotless
+glimmer’), and exocentric or lexically opaque compounds are marked with a hyphen (-).
+The orthographical choices were based on two considerations. Firstly, and mainly, it strives to
+write words as consistently as possible while allowing for the variant pronunciations. Secondly,
+it is based on the orthography used by the speaker, although admittedly somewhat loosely. As
+said, its main design function was to keep spelling as consistent and concise as possible, thus
+it is not necessarily designed for everyday use, especially since it contains some graphemes
+that are not familiar to most non-linguistics, such as <æ> and <ə>.",[30]
+"55Lastly, there is a handful of instances where the person-number marker appears before SFX1 in
+a non-imperative-optative construction. This may be connected with the affectedness markers,
+but its origin and purpose currently remain unknown.
+The first of SFX1’s subcategories I am discussing here is Affectedness. The markers in this
+category express degree of affectedness of the undergoer, affected undergoer -bo AU (66) and
+reflexive -nu REFL (66b), or the number of undergoers, connective -hi CONN (66c), or can
+express either (or both), depending on the context, plural undergoer -ko PLU (66d).
+(66)a. fa
+nundewbokera
+fa
+nunde-w-bo-kə-le=ra
+young get.lost-E-AU-PST-IND=FROM
+‘A young boy got lost.’
+b. Awnuke
+nækore
+pukorə
+əwole
+a-w-nu-kə-le
+n-æko=re
+puko=rə
+ə-wo-le
+take-E-REFL-PST-IND 3.POSS-father=TWDS presence=TO go-IMPF-IND
+‘He got up and went to before his father’s presence.’
+c. na
+nau
+pənə
+məwnənəkəwfike
+u
+pənə
+m-ə-w-nə-nəkə-w-hi-kə-le
+PRO:3 body
+thought VENT-go-E-3SG.OBJ-sit-E-CONN-PST-IND
+‘He came to his senses.’ (lit. “his body went and stayed with his thoughts”)
+d. na
+kətə-nalə
+wahewmikoke
+na
+kətə-nalə
+wahe-w-mi-ko-kə-le
+PRO:3 things
+divide-E-3DL.OBJ-PLU-PST-IND
+‘He divided his goods to them.’
+The affected undergoer marker -bo AU emphasizes the affectedness of the undergoer. In the
+case of intransitive constructions, the undergoer is the subject, and in the case of transitive
+constructions it is the object. There are no instances of a ditransitive construction with this
+marker. Thus, while (67a) means generally cutting into something, (67b) means to fully cut
+through something, emphasizing the affectedness of the object.
+(67) a. foloj
+folo-j
+cut-2SG.SBJ
+‘Cut it!’
+b. o
+folojbo
+o
+folo-j-bo
+tree cut-2SG.SBJ-AU
+‘Cut the wood in half!’
+For intransitive constructions, it emphasizes the (lack of) agency the subject has over the action,
+which can take on several meanings. For example, from the verb root hono- ‘lie down’ you get
+honoj ‘lie down!’ and honojbo ‘go to sleep!’, while from nəkə- ‘to sit’ you get nəkəj ‘sit down!’
+and nəkəjbo ‘keep sitting (even though you may not want to)!’. Thus, the expression of some
+events is dependent on the affected undergoer marker.","[56, 57]"
+"They use the term “proto-Tabla-Sentani”, but in order to keep in line with the updated classifications, the above
+term is used in this grammar.
+14
+Based on Arthur Capell’s fieldnotes on Nafri, archived at Paradisec (ID: AC2-OFNB101). Retrieved from:
+https://paradisec.org.au/fieldnotes/OFNB.htm#OFNB101
+15
+<-i> here most likely refers to /-j/ in a non-intervocalic position and thus analyzed as a consonant.
+1324However, the historical processes described in the section above also interact with stress in
+Sentani, causing some forms that seem to stray from the regular stress assignment pattern
+observed.
+There is also a small number of lexemes with the syllable structure CnasalCV(Cglide) or
+alternatively N.CV(Cglide), namely mbə ‘where’, and mbaj ‘one’ and its derivates (see section
+3.3.3). However, the words often surface with an epenthetic vowel, e.g. [əm.ˈbaj]. It is unclear
+what the exact origin of these forms is, but it is specific to Eastern Sentani. In Central Sentani
+the rules laid out above also apply, but with the additional restriction that it cannot occur in the
+first syllable of a prosodic word (M. Hartzler 1976, 79).16 The differences in some of the
+cognates are, among other things, based on the deletion of the vowel, cf. CSet. makei (ibid.)
+versus ESet. mbə ‘where’, however Central Sentani does have the form mbai and its
+derivatives, meaning that it is not a strict distinction between the two dialects. Whether this is
+directly connected to the specific vowel deletion rules above is unknown, as they do not seem
+to adhere to the required pattern; since these forms are highly infrequent, it can also be
+attributed to idiosyncratic and/or ongoing developments.","[25, 26]"
+"313.1.2 Mass Nouns
+Mass nouns are distinguished from other nouns in that they cannot be quantified by numerals.
+They generally denote things that are either physically uncountable, such as pu ‘water’, or a
+general term for a foodstuff, e.g. fi ‘sago’. It is, however, still possible for the locational clitics
+to be attached to the noun phrase containing the mass noun (25a), as well as modify it with an
+adjective (25c). Additionally, the mass noun can serve as the modifier for another noun, and
+the resulting compound takes on the noun class of the left-most element in the noun phrase, i.e.
+the head (25d). The noun phrase is further discussed in section 3.3 below.
+(25) a.puna
+əwole
+pu=na
+ə-wo-le
+water=AT
+go-IMPF-IND
+‘[He] is swimming.’ (lit. he is going while in the water)b.*pu
+pe
+water twoc.fi
+nuku
+fi
+nuku
+sago
+cold
+‘cold sago congee’d.o
+fi
+o
+fi
+tree
+sago
+‘Sago Palm’3.1.3 Proper nouns
+Personal names are often based on other, lexical, nouns or noun phrases, but are distinguished
+from them morpho-syntactically in that they cannot possessed, and semantically in that they
+can function as the agent argument in a clause regardless of the animacy of the lexical noun(s).
+Sentani people often have two names: one Sentani name, to ‘man, name’, usually referred to
+with Ind. nama tanah ‘land name’, and one Biblical name, although the former are becoming
+less frequent. The Sentani names can change throughout one’s life, for example due to major
+achievements, and consist of either a single noun, a noun plus an adjective, or two adjectives.
+They generally have positive meanings, describing something considered beautiful, e.g. kələw
+nikíban ‘Morningstar’ (lit. ‘spotless glimmer’), or something having positive properties, e.g.
+aje rəmbu ‘owl’. However, not all personal names are contemporarily based on other nouns:
+for example, Onsá and Awansi are ancestral names with no further meanings contemporarily
+and Kambu, which originally meant ‘root’, is now a (nick)name given to a chief.19 In this
+grammar, personal names are distinguished from their non-name counterparts with
+capitalization.
+While two juxtaposed nouns may be read as an attributive noun phrase, possessive noun phrase,
+or an existential clause (see section 4.3), a personal name can only be read as simple noun
+phrase (26a-b).
+19The non-name meaning of the word is still in use in Central Sentani.","[32, 33]"
+"20Although it seems that the rule is no longer fully productive, owing to the fact that there are
+many words ending in a nasal + /ə/, Cowan (1965, 10) noted that multisyllabic verb roots tend
+to drop word-final /ə/ when it is preceded by a glide or nasal, regardless of vowel quality of the
+preceding vowel. He, however, restricts this rule to verbal roots only. This restriction is most
+likely due to that the variation can best be observed in variable contexts, i.e., morphology,
+which is much less extensive and common on non-verbs. I, however, propose that this process
+took place on all words with a word-final glide-/ə/ combination historically, and that the
+variable application on verbs is a vestige of this. The main evidence for this is that there are
+virtually no instances of this word-final glide-/ə/ combination in the data, whereas there are
+many examples of a combination of a glide and different vowels. These four phonological rules
+are also important in the (historical) formation of closed syllables, discussed in section 2.2.1.
+To summarize, Table 11 gives an overview of all the synchronically productive allophonies
+and their respective conditions:
+Phoneme Variants Condition(s)
+/p/
+[p~b~β] Free
+V_V
+[b~β]
+Cvoiced_V/t//k//m//n//l/[m]Cnasal_[t~d~r]
+[d~r]Free[n]Cnasal_V_V
+Cvoiced_V[k~k͡x~x] Free
+V_V
+[k͡x~x]
+[g]Cvoiced_V[ŋ]Cnasal_[n]_# /n/
+_/n/
+_ /t/[ŋ]_# V
+_# Cnasal
+_/k/[m]
+[n~ŋ]Else[ŋ]_/k/
+_# /t/[m]_/p/[ɲ]/j/_[n]
+[t]Else[d]Cnasal__#/j/_21[w]/w/_[l]
+∅~[j]Else∅_/n/[ɟ]/i/_
+ElseV[j]
+∅V1V2V2C_
+_CV2V1∅V1.Cnasal_/j/_/l/_VTable 11 Sentani Phoneme allophonies and their conditions2.2 Syllables & Syllable structure
+Sentani has a relatively small inventory of possible syllables: There are no consonant clusters,
+syllables have maximally one vowel, and codas are restricted to glides and nasals (see Table
+12).
+Syllable
+V
+CV
+CVCglide
+CVCnasalExample
+[ˈo.bo]
+[pu]
+[taj]
+[k͡xa.ˈbam]Word
+obo
+pu
+taj
+kabamTranslation
+‘pig’
+‘water’
+‘my’
+‘big’Table 12 Sentani syllable structure.","[21, 22, 23]"
+"19To illustrate both the process and the variable nature of the rules above, we can take the case
+in (15): 11
+Phonetic form
+Underlying form
+(15) [na.nə.ˈmən.də]~[na.nə.ˈmən.nə]~ /na nəmə-n-le/
+[na.ˈnə.mən]
+PRO:3 all-3SG.OBJ-INDTranslation
+nanəməndə
+‘all together’Here, /l/ assimilates to [d], as described above, following rule 2, making the environment
+suitable for rule 3. to take place; the final syllable can become [nə]. This in turn creates the
+appropriate conditions for rule 1. to take place, leading to the final form in which the final /ə/
+is deleted. The fact that all three forms are possible and have been found in the data shows that
+although the rules require specific environments to take place, they are still optional. However,
+there are several words where the process has been lexicalized, such as kambu ‘root’, which I
+analyze as historically /kanapu/ > *kanpu > [ˈkam.bu] ‘root’. This shows that these rules have
+been productive for a long time, especially since the syllable *CVCnasal has been postulated for
+proto-Tabla-Sentani (Gregerson and Hartzler 1987; further discussed below).
+Besides contemporary variation and lexicalization on non-verbs, affixation on the verb shows
+that at least rule 1. and 2. are still fully productive without variation in some domains:
+Phonetic form
+(16) [ˈte.jæ a
+ə.ləw.ˈkon.de]Underlying form
+/tejæ a ələ-w-ko-no-le/
+PRO:1SG word say-E-PLU3SG.OBJ-INDTranslation
+‘I want to say something to
+him.’In (16) the combination of the plural undergoer, third person object, and indicative mood
+suffixes, -ko, -no and -le respectively, creates an environment where both rules 1. and 2. can
+apply. To clarify, the third person object suffix contains a nasal, and the plural undergoer and
+third person object suffixes both have the same vowel, /o/. This means that the combination of
+the two, /-ko-no/ fulfills the conditions for rule 1. to apply, resulting in [kon]. Because of this,
+the /l/ of the indicative suffix now directly follows the nasal, */ko-n-le/, which means rule 2.
+can take place, resulting in the final form [konde]. Thus, the development of the underlying
+form to the surface form for (16) is as follows: /ələwkonole/ > */ələwkonle/ > [ə.ləw.ˈkon.de].
+(17) as well as a number of underived forms such as mana ‘today’ and ana ‘mother’, however,
+show that these rules are not without exception:
+Phonetic form
+Underlying form
+Translation
+(17) [ˈte.jæ a u.ka.ˈna.le] /tejæ a ukə-an-a-le/
+‘I told him.’
+PRO:1SG word tell- 3SG.OBJ-1SG.SBJ-IND
+In the case of the underived form it is most likely the idiosyncratic application of the ruleset,
+but for (17) it may also stem from the fact that the deleted vowel would result in the entire
+morpheme no longer being detectable, which would thus influence the semantics.
+Finally, there is a historical rule in which word-final /ə/ is deleted:
+4. Historically, word-final /ə/ is deleted if it follows a nasal consonant or a glide.","[20, 21]"
+"2 Phonology
+2.1 Introduction
+The Sentani phoneme inventory consists of 7 vowels and 11 consonants. Sentani syllables are
+generally open, consisting of V or CV, but some consonants may appear in the coda. Stress is
+chiefly penultimate, but weight-sensitive. Consonants and vowels are discussed in sections
+2.1.1 and 2.1.2, respectively. There is a relatively complex system of allophony and allomorphy
+in Sentani, so in order to keep things clear, these sections only present the phonemes and their
+minimal pairs, and all their phonological operations are detailed in section 2.1.3. The syllable
+is further detailed in section 2.2, and stress is discussed in section 2.3. Finally, section 2.4
+discusses the orthography used in this grammar sketch. Although the analysis here is based
+only on data for which recordings were available, i.e. my own field recordings, several other
+sources (Cowan 1952; 1965; M. Hartzler 1976; D. Hartzler 1976; Elenbaas 1999) were used to
+corroborate data and in some cases theoretical underpinnings to the analysis.
+Table 1 and Table 2 provide an overview of the consonant and vowel inventories, respectively:
+Bilabial (Post)Alveolar Palatal Velar Glottal
+Plosive
+p
+t
+k
+Nasal
+m
+n
+Fricative
+f
+s
+ɦ
+Approximant
+l
+j
+w
+Table 1 Sentani consonant phonemes.",[12]
+"1.2 Current linguistic situation near Lake Sentani
+Sentani as a whole is not immediately endangered: 30,000 people (Eberhard, Simons, and
+Fennig 2021)of all ages speak and write it in addition to Papuan Malay (Anderbeck 2015;
+George Saad, pers. comm.), in addition to Sentani-language schooling being available for at
+least grades 1-3. Furthermore, there are some language revitalization efforts by local language
+centers (e.g. Jubi, Portal Berita Tanah Papua No.1 2016). However, the number of speakers
+is disproportionally spread over the dialects: The vast majority of Sentani speakers are from
+the Central dialect area, and the speaker I worked with states that virtually nobody still actively
+speaks the Eastern dialect, likely caused by its proximity to Jayapura and a number of
+unfortunate early deaths that caused a disruption in the linguistic transmission in Asei. Since it
+is impossible to gauge the actual language profile of the people in eastern Lake Sentani without
+carrying out a sociolinguistic survey, some secondary assessments must be made stemming
+from the speaker. There are two major clues to the likely decline of Sentani language usage:
+first, the fact that the speaker only spoke Papua Malay with relatives on the phone, and second
+that he states that he has not spoken Sentani since the death of his sister, who is claimed to have
+had much expertise in the language. Several exploratory works have been published on both
+the Eastern dialect (Cowan 1952a; 1952b; 1965) and especially the Central dialect (D. Hartzler
+1976; M. Hartzler 1976; 1986; 1983; Mehuwe, Hartzler, and Hartzler 1993), there is very little
+information available about the Western dialect, with no works published and not enough data
+available to make an accurate dialectal comparison. Therefore, virtually all dialectal
+comparison in this sketch grammar is between the Eastern and Central dialects.",[9]
+"The name Sentani, although generally used to denote the language and the area, is not an
+endonym. Cowan (1965) states that it “…probably originates from the coastal tribes of the
+Humboldt [Yos Sudarso] bay.”, but it could also possibly be a loan from Japanese 千谷 sen
+tani ‘thousand valleys’, referring to the surrounding Cyclops mountain range (“Festival Danau
+6Sentani” 2008).1 There seems to be no historical word for the language or Sentani-speaking
+peoples as a whole, but Sentani or həndani ‘Sentani’ are now generally accepted as endonyms.
+Lake Sentani itself is referred to as pu jakala ‘clear water’, with some sources giving pu jaka
+afǽw ‘clear water language’ as the endonym for the language specifically (e.g. Onde et al.
+1979), and individuals are generally connected to the village or house they are from, rather than
+the area as a whole. Contemporarily, these village or house names practically function as clan
+names and/or surnames and həndani afæw ‘Sentani language’ is used as the name for the
+language.
+1.1 The Sentanic family and the Sentani dialects
+Sentani (ISO 639-3: set ) belongs to the small Sentanic2 language family (Gregerson and
+Hartzler 1987, inter alia). Although higher-level classification remains debated (e.g. Wurm,
+Voorhoeve, and McElhanon 1975; Ross 2005), the internal organization of the Sentani family
+has been established as in Figure 2 since the 1960s (Cowan 1965).","[7, 8]"
+"32(26) a.b.pu
+wali
+water life
+‘living water’ or ‘the life of water’ or ‘the water is alive’
+Pu Wali
+‘Pu Wali’Place names function similarly to personal names morphologically, but official place names
+generally do not have a lexical noun counterpart, e.g. Ohəj ‘Asei’ or Həndani ‘Sentani’.
+However, some village names incorporate the name of the chief, e.g. Ebalə Hunu jo ‘Ebalə
+Hunu village’, from the chief’s name Ebalə Jakali.
+3.1.4 Kinship terms
+Not all kinship terms can be distinguished from common nouns on morpho-syntactic grounds,
+but because they form a closed class with the majority seeming to have a shared origin due to
+their phonological form, as well as a number of kinship terms behaving different to other noun
+types, I have grouped them together here. Some of the kinship terms, namely those for ‘father’
+and ‘mother’ are obligatorily possessed. While the unpossessed form can be elicited, in natural
+speech these nouns are always possessed with the relevant pronominal prefix (27a). If the
+possessor is underspecified, the first person plural marker m- is used (27b), but this marker may
+also occur with a first person singular possessor. Interestingly, the two obligatorily possessed
+kinship terms also have a separate lexeme for term of address, meaning that the word choice is
+different when referencing one’s father or mother than when addressing them. The latter terms
+are not obligatorily possessed (27c).
+(27) a. næko
+n-æko
+3.POSS-father
+‘his/her/their father’
+b. mæko
+m-æko
+1PL.POSS-father
+‘my/our/the father’
+c. atæj
+atæj
+‘father (addressee)’
+For kinship terms as a whole, there are lexical distinctions for both female and male relatives
+of ego. However the distinctions for male relatives are somewhat more expansive than those
+for female relatives (see Table 19).","[33, 34]"
+"22Table 13) consist of one, two and three mora’s, whereas derived forms (d-h in Table 13)
+minimally contain two mora’s and can be up to eight mora’s.
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)[μ]
+[μμ]
+[μμμ]
+[μμμμ]
+[μμμμμ]
+[μμμμμμ]
+[μμμμμμμ]
+[μμμμμμμμ]Phonetic form
+[pu]
+[hə.ˈləm]
+[o.ˈno.mi]
+[ɦa.bo.ˈxa.le]
+[a.no.ko.ˈxa.le]
+[row.kaj.ˈɲə.le]
+[mo.xow.bo.ka.ˈwa.le]
+[məw.ja.ka.law.ˈbo.ke]Word
+pu
+hələm
+onomi
+habokale
+anokokale
+rowkajnəle
+mokowbokawale
+məwjakalawbokeTranslation
+‘water’
+‘much’
+‘life, health’
+‘I have hit him’
+‘I have eaten/drank it’
+‘They have found it’
+‘I say to you’
+‘They found it’Table 13 Sentani Mora distributionSome words that are contemporarily used as underived forms have more than three mora’s, e.g.
+akojkoj ‘traditional dance’. However, all of these forms are historically clearly based on derived
+forms and/or reduplication, showing that the restriction for formation of underived forms no
+longer seems productive, or at least not in these specific circumstances.
+Although it is perfectly possible for a CV.V(C) sequence to occur within a word, and these do
+occur regularly, e.g. [a.bu.ˈa.xo] abuako ‘traditional doctor/close relative’, the data contains no
+instances of a V.V(C) sequence within a word. Across word boundaries, however, this
+sequence is frequent and requires no epenthetic consonant to resolve hiatus (19). Since several
+other aspects of Sentani phonological interaction take place across word boundaries, it is
+therefore difficult to establish V.V(C) as an impossible sequence within the word; its absence
+rather may be due to the dataset.
+Phonetic form
+Word
+Translation
+(19) a. [ˈme.jæ a ə.lə.ko.ˈxan.de] mejæ a ələkokande ‘You (pl.) said something.’
+b. [ˈjo.ɣu ˈræ.ɲa ˈə.xe]
+joku tæjna əke
+‘The dog came to me.’
+The vast majority of syllables in Sentani are open, and the two closed syllables types, CVCnasal
+and CVCglide can be explained through historical developments, discussed in the following
+section.
+2.2.1 Closed syllables
+There are some words with syllables containing more than a single vowel and a consonant, i.e.
+CVC. The vast majority of these are closed syllables with a nasal or a glides in the coda. In
+some cases these are the result a set of productive phonological rules, but others are the result
+of historical developments. The first is a set of rules in which vowels may be deleted following
+a nasal if they are of the same quality as the vowel preceding the nasal, and the second is a
+historical rule in which the vowel /ə/ is deleted after a glides, both of which were discussed in
+section 2.1.3 above. Since consonant clusters are not allowed in Sentani phonology, it seems
+unlikely that either the two nasal phonemes may form a syllable by themselves, or that there
+are homorganic nasal + consonant clusters phonemically, and therefore they must be the result
+of the aforementioned ruleset.
+The first ruleset is a good starting point, showing that a process of vowel elision is productive
+in the language, but it does not explain all instances of CVCnasal and do not cover CVCglide
+syllables. It is possible to suppose that all forms ending in CVCnasal had the vowel pattern
+23required for rule 1., but this would require us to suppose that all the above forms adhered to,
+and subsequently lexicalized, the rules that we have seen to be somewhat variable
+contemporarily.
+The existence of CVCglide and especially CVCnasal as underlying syllable structures in presentday Sentani cannot be argued against. Nonetheless, we can determine with some accuracy the
+developmental process, and can thus determine the historical depth of the phonological rules
+proposed here: Gregerson and Hartzler (1987, 15) propose with sufficient evidence that protoNuclear-Sentanic13 had the syllable types *V, *CV, and * CVCnasal. This means that, due to the
+absence of CVCglide, rule 4. can only have taken place after the split of proto-Nuclear-Sentanic.
+Although there is very limited data available about Nafri, Sentani’s closest related language, it
+seems to also have CVCglide syllables,14 whereas cognate forms in Tabla do not have CVCglide,
+e.g., Tabla tə-, Sentani ərəj ‘to see’ and Tabla datə məwə vs. Sentani məj ‘come’ (Gregerson
+and Hartzler 1987, 19). This means that the process that gave rise to CVCglide syllables can be
+determined as a feature of proto-Sentani-Nafri. Reversely, Cowan (1952a, 162) gives several
+forms for Demta, the language furthest from Sentani within the Sentanic family, which show
+several syllable types and word-formations not found in Sentani:
+Demta
+namguai15
+kikir
+komtou
+ngama
+aip
+ei
+ana
+pini
+népCVC.CCVC
+CV.CVC
+CVC.CVC
+CCV.CV
+VVC
+VC
+V.CV
+CV.CV
+CVCSentani
+namə
+hikæ
+kadu
+mejæ
+əm
+aje
+a
+fi
+niməCV.CV
+CV.CV
+CV.CV
+CV.CV
+CV
+V.CV
+V
+CV
+CV.CVTranslation
+‘s/he/it’
+‘frog’
+‘cheek’
+‘we’
+‘banana’
+‘bird’
+‘voice’
+‘sago’
+‘breast’Table 14 Demta and Sentani words and syllable structure. Adapted from Cowan (1952a, 162).","[23, 24, 25]"
+"There are two instances in which the SFX1 does not attach directly to the verb root: Firstly, in
+the imperative-optative construction (see section 4.2.5) the subject marker is always placed
+directly after the verb root, and SFX1 thus follows this. Secondly, epenthetic -w E appears
+directly after one or more of the verb roots when SFX1 is present in a sentence with a singular
+subject (65). The function of the epenthetic seems to be solely to indicate the above, and is not
+based on phonology.
+(65) a. ələkonde
+ələ-ko-n-le
+say-PLU-3SG.OBJ-IND
+‘[You all] say something.’
+b. ələwkonde
+ələ-w-ko-n-le
+say-E-PLU-3SG.OBJ-IND
+‘[You] say something.’
+Additionally, there seems to be some variability in its occurrence: While it appears almost
+without exception on the first root if there are multiple roots present in the verb complex, this
+is not always the case if there is only one verb root. This seems to either be free variation or
+the result of phonological reduction due to fast speech, but specific conditions may be found
+in the future.",[56]
+"76Jubi, Portal Berita Tanah Papua No.1. 2016. “Dicanangkan, Wajib Berbahasa Sentani Setiap
+Tanggal 1,” September 5, 2016. https://jubi.co.id/dicanangkan-wajib-berbahasa-sentanisetiap-tanggal-1/.
+Kaigere, Gershon M. n.d. “De Bevolking van Asei En Ajapo.” Unpublished Manuscript.
+Kaigere, Gershon M, and Nick Stanley. 2011. “My Life and Art in Lake Sentani.” The Asia
+Pacific Journal of Anthropology 12 (4): 405–10.
+Kluge, Angela Johanna Helene. 2014. A Grammar of Papuan Malay. Edited by Martin
+Haspelmath. Studies in Diversity Linguistics. Vol. 11. Berlin: Language Science Press.
+https://doi.org/10.17510/wjhi.v16i1.373.
+Mehuwe, Chris, Dwight Hartzler, and Margaret Hartzler. 1993. Kamus Sentani-IndonesiaInggris. Jayapura: Summer Institute of Linguistics.
+https://www.sil.org/resources/archives/37492.
+Onde, Yotam Yolam, Usiel Falo, Edison Yoku, and Dwight Hartzler. 1979. A Eleilei Buyaka
+Afaeu. Percetakan Universitas Cenderawasih.
+Ross, Malcolm. 2005. “Pronouns as a Preliminary Diagnostic for Grouping Papuan
+Languages.” In Papuan Pasts: Cultural, Linguistic and Biological Histories of PapuanSpeaking People, edited by Andrew Pawley, Robert Attenborough, Jack Golson, and
+Robin Hide, 15–66. Canberra: Pacific Linguistics.
+Wurm, Stephen A., Clemens L. Voorhoeve, and Kenneth A. McElhanon. 1975. “The TransNew Guinea Phylum in General.” New Guinea Area Languages and Language Study 1:
+299–322.","[77, 78]"
+"The nasals, /m/ and /n/, although relatively frequent, are extremely susceptible to their
+phonological environment, especially consonants. Although there is a number of conditions in
+which the underlying form of the nasal is obscured, a single nasal phoneme, */N/, cannot be
+presupposed for present-day Sentani, since both [m] and [n] appear in unrestricted, lexically
+determined, conditions, such as word-initially or intervocalically. The variation is further
+detailed in section 2.1.3.
+Because of its relatively low frequency, a minimal pair could only be found for word-initial /f/,
+with a near-minimal pair for word-medial position:12Phonetic form
+Initial [fa]
+[wa]
+Medial [afæw]
+[aɦaw]Underlying form
+/fa/
+/wa/
+/afæw/
+/aɦaw/Translation
+fa ‘young’
+wa ‘you (sg.)’
+afæw ‘language’
+ahaw ‘far’Table 5 /f/ (near-)minimal pairs.","[13, 14]"
+"2.3 Stress
+Primary stress in Sentani is mora-based trochaic penultimate, meaning that stress is on the
+penultimate syllable unless the first syllable in a disyllabic word or the final syllable is heavy,
+in which case it is placed on the ultimate syllable. In other words, the stress falls on the syllable
+that contains the penultimate mora of a word. Stress is assigned on the prosodic word-level
+rather than on the lexical level. By prosodic word here I mean the surface form of a lexical
+root, including affixation and clitics. This means that suffixation, or a phrasal enclitic, moves
+the stress further to the right (20a-b).
+(20) a. ˈtoko
+‘store’
+b. toˈkore
+‘to the store’
+toko=re
+store=TWDS
+It also means that, with the large number of suffixes generally present, stress on the verb
+complex is on one of the suffixes in most cases (21). Note that stress does not interact with the
+phonemes in the syllable it is on, i.e. does not influence vowel or consonant quality.
+(21) əwnundewboˈkera
+jæ
+ə-w-nunde-w-bo-kə-le=ra
+jæ
+go-W-get.lost-3SG.SBJ-AU-PST-IND=FROM EMPH
+məwjakalawˈboke
+m-ə-w-jakala-w-bo-kə-le
+VENT-go-W-find-3SG.SBJ-AU-PST-IND
+‘He was lost, but he was found again.’16Although note that in the example given there as proof for this restriction does not seem to adhere to the correct
+condition, having vowels of two different qualities.",[26]
+"1.3 Methodology
+This grammar sketch is mainly based on work done with a single speaker, Gershon Kaigere, 4
+who has been living outside of a Sentani language context for a substantial time. Thus, several
+additional considerations to ‘regular’ documentation, detailed in the following section, had to
+be made to ensure the quality of the data, as well as working with the speaker to improve his
+linguistic confidence and ability.
+1.3.1 The data & data collection
+The data used as a foundation of this sketch grammar were collected with one speaker of
+Sentani in Leiden, the Netherlands, in the period between September 2020 and May 2021. It3This article only contains an abbreviated version of the story, but the unpublished manuscript by Kaigere (n.d.)
+gives a more detailed overview, including a chronology and more place names
+4
+Gershon has given explicit permission for his name being used in this work.",[9]
+"Though there is no evidence to propose a complementary distribution of the vowels, some
+combinations, all of which include /u/, have not been attested. However, because /u/ is by far
+the least frequent vowel, this seems to be a data issue rather than a phonological interaction.
+(3) presents an incomplete list of monophonemic minimal pairs (3) as well as several other
+minimal pairs (3b-d):
+Phonetic form
+(3) a. [i]
+[ə]
+[o]
+[a]
+[u]
+b. [ˈme.jæ]
+[ˈmə.jæ]
+c. [ˈmæ.xo]
+[ˈmo.xo]
+d. [jæ]
+[ja]Underlying form
+/i/
+/ə/
+/o/
+/a/
+/u/
+/mejæ/
+/məjæ/
+/m-æko/
+1PL.POSS-father
+/moko/
+/jæ/
+/ja/Translation
+i ‘fire’
+ə ‘and’
+o ‘tree, stick’
+a ‘word’
+u ‘body’
+mejæ ‘we (incl.)’
+məjæ ‘you (pl.)’
+mæko ‘my/our father’
+moko- ‘to make’
+jæ EMPH
+ja ‘day, rain’Although there is no monomorphemic minimal pair in the data to distinguish /e/ and /æ/, there
+is strong evidence from the verbal complex for this distinction: when the emphatic marker jæ
+EMPH is placed after the verb (see section 4.4.2 below), the /j/ is removed and the last vowel of
+the verb is replaced by [æ]. Thus, there is a semantic difference between [e] and [æ] as the last
+vowel of the verb (4).",[15]
+"5.2 Multi-verb constructions
+There are three multi-verb constructions in Sentani: Serial Verb Constructions, Verb
+compounds, and what I am calling Close Event Sequences.
+Serial Verb Constructions (SVCs), where two (or more) verbs share one argument structure
+and inflection and describe a single event (e.g. Bisang 2009), are extremely common in Sentani.
+So common, in fact, that it is generally easier to refer to the verb complex rather than simply
+the ‘verb’. Additionally, there are verb compounds, in which the presence of an additional verb
+modifies the action of another verb rather than the event as a whole. Lastly there are Close
+Event Sequences, which share at least one argument but have separate argument structure and
+denote separate events. Table 33 shows the differentiating factors of the three constructions.
+SVC
+Verbal Compound
+Close Event SequenceShared Argument Structure Single Event Single Action
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes/No
+No
+NoTable 33 Differentiating elements of the three multi-verb constructions.",[70]
+"Jahimo
+jahimo
+next.daypaj
+paj
+justJakali janewfoke
+jakali jane-w-fo-kə-le
+PN
+run.and.hide-E-cross-PST-INDjore
+əwole
+jo=re
+ə-wo-le
+PRO:3.POSS
+village=TWDS go-IMPF-IND
+‘The next day, Jakali ran away back to his village.’
+naj
+najb.məkə
+m-ə-kə
+VENT-go-PSTnaj
+naj
+PRO:3.POSSto
+u
+to
+u
+man bodypənəwhoke
+pə-nə-w-ho-kə-le
+return-3SG.OBJ-E-DIR.FRM-PST-IND
+‘He returned as a man.’ja
+ja
+alreadynəkəwole
+nəkə-wo-le
+sit-IMPF-IND73Due to its relative infrequency (likely also caused by the type of data collected for this
+grammar), it is impossible to see whether tail-head linkage is conventionalized or
+grammaticalized in any way, but there seems to be a preference for linkage when the last verb
+of the first clause is a motion verb, specifically ə- ‘to go’. The position of the repeated verb in
+clause-initial position in addition to one or more other verbs in regular position do indicate that
+these are instances of clause linkage, rather than coincidental use of the same verb root twice.","[74, 75]"
+"7also plays into other sociolinguistic factors: In the origin story of Sentani, the originator of the
+Sentani people, Dohajo, rides a giant snake from near Vanimo (PNG) to Lake Sentani, first
+landing on Asei island on the eastern side of the lake. From here the group gradually split up
+into several subgroups with their own ondofolo ‘chief’, but the Asei ondofolo retains a certain
+higher status based on seniority (Kaigere and Stanley 2011, 407).3 The Asei group, speaking
+Eastern Sentani, thus also see themselves as stewards of the language, and any deviation from
+their dialect is seen as an effort from the other dialects to differentiate themselves, and in some
+cases undermine their linguistic authority.","[8, 9]"
+"High
+Mid
+LowFront Central Back
+i
+u
+e
+ə
+o
+æ
+aTable 2 Sentani vowel phonemes9It must be noted that his (active) language skills have exponentially improved since the start of the fieldwork.",[12]
+"Jakali
+Jakalijo
+əjnə
+moni-maj
+jo
+əj=nə
+moni
+maj
+DEM village
+inside=IN hunger disaster
+‘In that village there was a great famine.’PNd.nuwəwboke
+nuwə-w-bo-kə-le
+rest-E-AU-PST-INDPelena
+mo
+pele=na mo
+DEM=AT justtæfetæfetæne
+tæfetæfetæne
+chucklingawnguke
+a-w-nu-kə-le
+take-E-REFL-PST-INDkabam
+kabam
+bignəke
+nəkə-le
+sit-INDhalewole
+hale-wo-le
+laugh-IMPF-INDməke
+m-ə-kə-le
+VENT-go-PST-INDnəkəkoke
+ələle:
+nəkə-ko-kə-le
+ə-le=re
+sit-PLU-PST-IND go-IND=TWDS
+‘Jakali sat down and cackled. Then, he stood up again and said:…’
+Note that, for the reference tracking use of the demonstrative(s), the clauses can be, but are not
+necessarily, adjacent. For example, there are three sentences between (100a) and (100b), which
+are all in the same location, but concern the actions of the agent in (100a). The reintroduction
+of the referent jo ‘village’ in (100b) thus serves to indicate that the narrative is moving forward,
+e.g. a new section is starting, while showing the connection with the previous events.
+Tail-head linkage also occurs regularly, although not very frequently. Linkage here means that
+the final verb of a clause is repeated at the beginning of the succeeding clause. While the verb
+stem remains the same, the inflection can change (101a-b).
+(101)a.",[74]
