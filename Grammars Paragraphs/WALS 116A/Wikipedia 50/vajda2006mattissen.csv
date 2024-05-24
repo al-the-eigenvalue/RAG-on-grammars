@@ -1,0 +1,3066 @@
+Paragraph,Page number
+"CHAPTER 3
+DEPENDENT-HEAD SYNTHESIS AND W O R D H O O D IN NIVKHAfter having studied the morphophonemics characteristic of Nivkh, the crucial questions
+to explore are (i) which status do the entities in which we observed these mechanisms
+have? and (ii) which morphological type does Nivkh exhibit? The first question can be
+reformulated in the following way: Are the complexes single words? The answer to this
+question is of course the basis for any discussion about the morphological type. It is,
+however, not easy to determine, and constitutes a topic carefully avoided in grammatical
+sketches of Nivkh after a first dispute on it ended without agreement between the parties.
+We will therefore proceed to study the evidence for the morphological status of Nivkh
+complexes.
+3.1
+The old dispute
+The question of wordhood in Nivkh was first raised by Krejnovič (1934, 1937) and was
+discussed in the 1950s and 1960s by the two Russian 'Nivkhologists' Krejnovič and
+Panfilov in a series of articles dealing with ""incorporation in Nivkh"" (Krejnovič 1958,
+1966;Panfilov 1954,1958,1960a, 1963,1966). Their dispute prompted phonetic experi­
+ments carried out by Bondarko & Zinder (1962), but did not lead to any agreement.
+Panfilov's position, as it emerges from his articles and his grammar (1962:2533, 1965:23-30), is based on a morphosyntactic and semantic argumentation. Although
+he does not contest the ""tight phonological units"" in Nivkh, pointed out by Bondarko
+and Zinder (1962; their results will be taken up below), he considers these phonological
+properties first not to be sufficient ( 1960a), later not to be decisive (1963:157), and final­
+ly not even to be relevant (1965:27-28) for the recognition of word units. The word, in
+his view, is neither a phonologically nor a morphologically defined entity, but a lexicogrammatical unit (1963:27-28). As such, he continues, it is characterized, in contrast to
+morphemes and components of compounds, by having a relatively autonomous meaning,
+by being a member of a paradigm, and by contracting syntactic relations with other parts
+of a sentence; and it is characterized by a semantic and syntactic integrity in contrast to
+what he calls 'word unions'. His 'word unions' are our complexes of modifier + head
+and undergoer + verb, which undergo consonant alternation as described in chapter 2.
+The complexes are thus, in his view, loose syntactic concatenations of free words by
+means of sandhi and do not form a single word unit together (1966:62-63). Evidence for
+the independence of the parts of a complex are, according to Panfilov, the facts that each
+part of the complex preserves its lexical semantics, that each part is inflectable and
+focusable (but see section 3.8.1), and that it can bear a syntactic relation to an element in
+the sentence outside the complex, e.g. to an adverb, another 'direct object' or modifier,
+or any other constituent. Furthermore, Panfilov claims that the elements of a complex
+need not be adjacent and that there can be, as he puts it, more than one modifier,66DEPENDENT-HEAD SYNTHESIS IN NIVKHmodified, direct object or verb, i.e. in the case of coordination. In the cases of both nonadjacency and coordination, Panfilov goes on, a form occurring outside a complex has
+the same form and function as the corresponding form inside, and he postulates that
+identical forms have identical status. From this he concludes that the components of a
+complex are not roots or stems, but free words, and that the phenomenon in question
+therefore can be neither incorporation nor composition (1960a).
+These arguments will be treated in detail in this chapter as they require minute
+exposition in order to be made comprehensible. Suffice it here to say that Panfilov's ar­
+gumentation suffers from methodological shortcomings instigated by a strict structuralis­
+tic and largely Russocentric approach.
+Compounds do exist in Nivkh, as Panfilov shows (1958), and he is of the opi­
+nion that they express single lexical meanings and concepts, that any component prece­
+ding another one may not be inflected (but see section 3.8.1), and that none of their parts
+may be focused separately. Panfilov does not present further formal differences between
+complexes and compounds, and does not discuss consonant alternation at the compoundinternal morpheme boundary. Incorporation, as he understood it in accordance with the
+then-valid doctrine of the Soviet Academy of Sciences, is characterized by the compo­
+nent parts preserving their lexical semantics and their mutual syntactic relations within
+the incorporation unit, but having a different form from their free occurrence, losing
+their independent word status and forming one morphological word together, as eviden­
+ced, for instance, by vowel harmony, consonant alternation, etc. (1960a: 51). Further­
+more, they do not contract relations to parts of the sentence outside the incorporating
+unit; in other words, Panfilov postulates that an incorporated noun may not be modified
+by an attribute outside of the noun-verb complex (the concept of stranding is not known
+to Panfilov).
+For him, any paradigmatic noun form and any paradigmatic verb form are free
+word forms because they can occur as such in a sentence (Panfilov does not discriminate
+between categories in this respect, see also chapter 6.1) and because all allomorphs of
+one morpheme must have the same morphological status. There cannot be both free and
+bound forms of one morpheme in one paradigm (1966). In particular, Panfilov considers
+the suffixless attributive form of the verb in the Amur dialect to be a participle and a free
+form. This claim is based primarily on treating the suffixless Amur form as equivalent to
+the attributive form in the Sakhalin varieties, which has a suffix and is therefore consi­
+dered to be a participle, because the Sakhalin participle ending is represented by the
+nasal which has elided on the Amur (see chapter 2.3). In the Amur variety, however, the
+attributive form is formally identical to the verb root (see chapter 2.4.1), and thus no par­
+ticiple form exists.
+Panfilov further deduces the free-form status of the attributive form from his
+erroneous claim that the finite ḍ-form, which doubtless is a free form, is used as an attri­
+bute in the same way his so-called 'participle' (suffixless attributive form) is, a claim
+which he believes is proven by the following example.","[75, 76, 77]"
+"In polar questions, a complex is marked by the question particle, again without otherwise
+changing:
+(74)(Krejnovic 1934:212)
+ţi
+tdḑ-xna-l
+2s
+this_one-spread-Q
+""do you paint it?""
+eynaḑ ~ -xnaḑ ~ -k'naḑ ""s.o. paints sth.""",[124]
+"224(16)DEPENDENT-HEAD SYNTHESIS IN NIVKH(Krejnovič
+tә-laŋr
+hә-laŋr
+a-laŋr
+aehә-laŋr
+ku-iaŋr1960:89)
+""this seal""
+""that seal""
+""that seal over there""
+""that seal far over there""
+""that aforementioned seal (out of sight)""A possessor may be questioned with aŋ) ""who"" or řaḑ ""which one"" (see chapter 8.1 be­
+low), and a determiner may be questioned by substituting the interrogative root řa""which/where"" without dissolving the noun form.
+(17)(Panfilov 1962:254)
+řa-dәf
+Rajgun-dәv-ŋa?
+which-house
+R.-house-Q
+""which house is Raj gun's?""","[234, 235]"
+"(Krejnovic 1966:39)
+demonstrative possessor
+hәḑ -rәf
+that_one-house
+""the house of that person""
+tәf~ -tәf~ -rәf~ -dәf ""house""b.determiner prefix
+hә-dәf
+that-house
+""that house""225If the possessor is questioned, a suitable interrogative pronoun occurs in its place in the
+complex. The integration of question words (parallel to the noun + verb complex), which
+are supposed to be inherently focused elements, is a rather unexpected fact, but is evi­
+dent from consonant alternation. The complex is not split up if any component is ques­
+tioned, but instead remains intact.
+(20)
+a.",[236]
+"DEPENDENT-HEAD SYNTHESIS AND WORDHOOD91In the question in (38c), the waveform shows a greater amplitude in the verbal element
+stretch. This may be influenced by the question enclitic, which has the greatest ampli­
+tude in the complex. The emphatically lengthened vowel in (38f) also has a conspicuous­
+ly high amplitude, which fits in nicely with Panfilov's observation that emphatic leng­
+thening attracts stress (see above).
+As is obvious from sentences (38a), (38b), and (38e), all exhibiting a structure
+not represented in Bondarko & Zinder's sample, amplitude is greater for the verb root
+than for the noun root in attributive verb + noun complexes. This leads us to suspect that
+stress falls on the attributive verb, which is confirmed by the auditive impression.
+In the fundamental frequency plots (the 'pitch contours'), which suggest the
+location of stress, there are visible stretches in all plots which start around 220 to 250 Hz
+and drop to around 140 Hz. In some of these stretches, fundamental frequency decreases
+rather continuously: mer-umgu-k'ezḍ ""told our woman"" (possessor + undergoer noun +
+verb), ţaq-xir ""with a trident"", q otr-t'ər-lovř-ţevḍ ""stabbed the bear in its left armpit"" (a
+rather large complex containing a possessor, an attribute, the undergoer noun and the
+verb), imŋ-k'imḍ ""gave them"" (undergoer and ditransitive verb), ţaq-mi-fiḍ ""is lying in its
+cradle"" (noun + relational morpheme + local transitive verb), řaŋzlu ţo-voḍ ""took some
+fish"" (copredicate + undergoer-verb complex). In others, fundamental frequency first
+rises to some extent, then drops. The latter behavior is true of subjects (Vagun, aŋa
+""who"", vo-ñlami ""half the village"" (nominal possessor + noun), maţkilk-ōla ""small
+child"" (attribute + noun), ţo-ŋəŋ-ñivy-ux ""from the fisherman"" (inflected compound
+noun)) and discourse markers (haŋan ""then""), as well as of amra-qauḍ ""has no taste""
+and ţaj-ra-ja ""drink tea!"" (undergoer + verb). These stretches of a recurring fundamen­
+tal-frequency contour (which we perceive as pitch contour units) are thus highly charac­
+teristic in that they end in an extreme section and always start anew at the same medium
+height. In other words, pitch contour units are formed by discourse markers (like haŋan
+""then""), the subject complex (e.g. Vagun, maţkilk-ōla ""small child"", tuzyət-ţaj ""cooled
+down tea""), the undergoer-verb complex (mer-umgu-k'ezḍ ""told our woman"", q'otr-t'ərlovř-ţevḍ ""stabbed the bear in its left armpit"", ţaq-mi-fiḍ ""is lying in its cradle""), and also
+compounds (amra-q'auḍ ""has no taste"", ţo-ŋəŋ-ñivy-ux ""from the fisherman""), which
+may become quite complex as well. The spontaneous utterance is no different than the
+ones read from the cards.
+Somewhat less clear are ku-ena-umgu ""that other woman"" (determiner +
+attribute + noun) with an unexpected rise at the end, hays-ku-fχojḍ-ŋa ""is washing the
+clothes?"" (inflected undergoer noun + verb), and dlf-yo verax-ko ""servants and slaves""
+(coordinated nouns), which all lack an overall falling contour. In the question in (38c),
+frequency starts decreasing in the predicate, but then rises to over 350 Hz in the question
+enclitic; the whole contour is obviously influenced by the question intonation at its end.
+Interestingly, fundamental frequency decreases in the roots of the two coordinated nouns
+in (37d), but the coordinating associative morphemes display level frequency as a sort of
+additional phonological marker of coordination. Thus, an overall principle of stretches
+characterized by a falling pitch contour seems to be justifiable and applies to all three
+structural types of complexes, noun + noun, noun + verb, and verb + noun.","[101, 102]"
+"(Panfilov 1965:12)
+rәu-әr
+teach-time
+""studying time""b.nәḑnә-uski
+work-pay
+""wages""(79)(Panfilov 1965:12)
+Karl
+amam-ḑәu-mә-ḑ
+K.
+walk-sound-hear-lND/NML
+""Karl heard the sound of someone walking""
+ţәu ~ -ţәu~ -zәu ~ -ḑәu ""sound""238(80)DEPENDENT-HEAD SYNTHESIS IN NIVKH(Panfilov 1965:63)
+hoʁoŋan
+if
+xa-ñivx
+then
+3s
+shoot-person
+""then came the person he had shot at""p'řә-ḑ
+come-iND/NMLFinally, verbal attributes may be questioned. Nivkh has the question verbs jaḑ ""what is
+s.o. doing?"" (with its inflected stem jaya-) and jaʁoḑ ""what is s.o./sth. like, how is s.o./
+sth.?"". These verbal interrogatives may be integrated into verb + noun complexes. This
+construction is analogous to nominal interrogatives in noun + verb and noun + noun
+complexes.
+(81) (Otaina 1978:16)
+jaʁo-dәf?
+how-house
+""what kind of house?""
+tәf~ -tәf~ -rәf~ -dәf ""house""
+(82)(83)(84)(Panfilov 1968:419)
+jaʁo-ŋir?
+how-dish
+""what kind of dish?""","[248, 249]"
+"The case of coordination nicely supports the general principle of complex formation in
+Nivkh: only adjacent constituents in a dependent-head relation synthesize. Coordinated
+forms, however, are not in a dependent-head relation to each other. We therefore should
+not expect synthesization.
+Coordination is different from other cases of non-synthesization as there is still
+a noun + verb complex (with the last coordinated undergoer). Syntactic mechanisms and
+pragmatic reordering of constituents in the sentence result in the complete dissolution of
+the complex, i.e. undergoer and verb are two separate and usually non-adjacent consti­
+tuents, as we will see. In this situation, the transitive verb, for which a reflex of its under­
+goer is obligatory, takes a 3s undergoer prefix or (if it is single obstruent initial) appears
+in its fricative-initial allomorph. A noun which is 'excorporated' from a primary objectverb complex never triggers a bound allomorph or an alternated initial sound of the verb.
+Thus, there are then two elements in the sentence referring to one and the same partici­
+pant, the undergoer. The important question arising from this situation concerns the ar­
+gument and referentiality status of the elements referring to that participant. Remember
+that the undergoer prefix is obligatory in the absence of a nominal undergoer synthesi­
+zing to the verb, but mutually exclusive with this nominal undergoer in the undergoer
+slot of the verbal template. This question will be discussed in chapter 5.
+4.4.1
+Word order permutation
+The usual word order in Nivkh is, as was shown in chapter 1.3.7,
+(125)topic - embedded clause _ adverbials ~ subject_ causee _ secondary
+object_ primary object-predicateConstituents are permuted for three reasons: they may either be moved into the topic po­
+sition, dislocated, or focused. Generally this is possible for central and peripheral partici­
+pants as well as adverbials; we are concerned here with the undergoer or primary object.
+A topic is understood to be the constituent in the leftmost position of a sentence,
+dislocated from the simple clause, and the participant which is established as the predica­
+tion base about which the rest of the sentence makes a predication (see Sasse 1987).
+Focus is used in the sense of Dik et al. (1981) here.
+The following examples show an undergoer in the topic position. The topic is
+not case marked, but may bear scalar operators.",[166]
+"TABLE 1.3: Nivkh relational morphemes
+Scalar operator suffixes and focus suffixes, which are next in the template, are two cate­
+gories which are not differentiated nor addressed in detail in the extant Nivkh grammars.
+Their allomorphs are triggered by the final sound of the preceding inflectional suffix in
+the same way allomorphs of other inflectional suffixes are. They are mutually exclusive
+in the final slot of the nominal word form, but are distinct categories. We will return to
+this distinction in chapters 3.8.1,4.3, and 8.3. Suffice it here to say that (i) up to two sca-INTRODUCTION11lar operators may be chained, while at most one focus suffix occurs in a noun form, and
+(ii) focus suffixes never occur within a word complex, only at its right edge. Both scalar
+operators and focus suffixes, however, may also be marked on adverbial particles, as in
+nav-at ""just now"", ñřak-veřk ""only once"" (cf. Gruzdeva 1997b: 169), and on converbs
+(for examples see Krejnovič 1934:216). The scalar operators are shown in table 1.4:
+-an""also""-park ~ -vark ~ -bark""only""-para ~ -vara ~ -bara""still, yet""-ti ~ -ri ~ -di (A), -ţiŋ ~ -ziŋ ~ -diŋ (ES)
+-tə ~ -ra ~ -de (A)""even"" (focal),
+negation focus-aqr ~ -""even"" (topical)• ~ -aχr ~ -ār ~ -ar-avr ~ -uvr ~ -əvr""maybe""TABLE 1.4: Nivkh scalar operators
+These suffixes fit into the category which König (1991) has termed 'focus particles', but
+in order to prevent possible confusion with the Nivkh focus suffixes, a distinctive term
+has been chosen here.
+The focus suffixes (table 1.5) encode focus values as established by Dik et al. (1981).
+verum (question) focus
+question focus-la
+-lo""whether""without interrogative
+pronoun-ata (A), -ara (ES) ""...exactly?""with interrogative pronoun
+in the clauseinquiry focus-qa ~ -tía ~ -/a ~ -Ga""what about... ?""completive/highlighting
+focus-ta ~ -ra ~ -daparallel focus-lu""be it...""-at""it is ... who/that""-ŋaexhaustive focus
+quotational/evidential""nevertheless""4-qan ~ -~ ~xan ~ -Gan-rej ~ -de] ~ -vejon subject of embedded
+quotation with converb in
+-vut/-vur
+in mocking surpriseTABLE 1.5: Nivkh focus suffixes
+4This morpheme could alternatively be considered a case suffix. The data are too scarce to allow
+a definite statement.","[21, 22]"
+"Interrogatives questioning an undergoer synthesize to the verb in spite of their usually
+assumed focal status. An undergoer interrogative is external only of a topical verb: ex­
+amples (111) and (113) contrast different uses of interrogatives.
+(111) (Bondarko/Zinder 1962:85)
+a.
+aη
+Xa-ḑ
+?
+whoshoot-IND/NML""who shot at it?""
+Xaḑ ~ -xaḑ ~ -qaḑ ""s.o. shoots sth.""
+b.if
+3saη-qa-ḑ?who-shoot-IND/NML""who did he shoot at?""
+In example (111a), the interrogative is in subject position and therefore a free consti­
+tuent, in (b) the interrogative is in the undergoer relation to the verb and synthesizes, as
+consonant alternation triggered by a weak nasal shows (see also Bondarko & Zinder for
+the accentual unit of this complex, as presented in chapter 3.4). The same is true for siḑ
+""what"" attaching to the bound allomorph of ""cook"" below.
+(112)(Gruzdeva 1998:60)
+ţi
+siḑ-he-ḑ-ηa ?
+2s
+what-cook-IND/NML-Q
+""What are you cooking?""
+jeḑ ~ -heḑ"" ""s.o. cooks sth.""",[162]
+"A:Xevgun tuki-ra
+i-y-ḑ
+X.
+sturgeon-HlLl 3sU-kill-lND/NML
+""Xevgun caught a STURGEON""Compare again in this context the two question examples given above (in section 4.3).
+The interrogative is not integrated into the verb complex if focus-marked.
+(136)(Panfilov 1965:166)
+ţi
+siḑ-ηa
+j-әrsu-?
+2s
+what-Q 3sU-pursue-lND/NML
+""WHAT do you pursue?""jәrsuḑ ~ -әrsuḑ ""s.o. pursues sth.""
+(137)(Gruzdeva 1998:60)
+ţi
+siḑ-he-ḑ-ηa?
+2s
+-what-cook-lND/NML-Q
+""what are you cooking?""
+jeḑ ~ -heḑ ""s.o. cooks sth.""",[169]
+"34DEPENDENT-HEAD SYNTHESIS IN NIVKHThus a complex is a synthetic unit consisting of at least one head constituent and one
+dependent constituent. The basic complexes may be enlarged by recursively substituting
+a simple dependent (noun or verb form) for a complex one of which the same category
+is the head. The verb + verb construction will be treated separately in chapter 6; the other
+types are described in detail in chapters 2, 3, 4 and 8.
+Although modifier+modified and object+verb coalescence has already been
+identified by Krejnovič and Panfilov, who discussed the status of the construction with
+respect to incorporation (see chapter 3.1), the phenomenon has not been systematized,
+the pervasiveness of the principle within Nivkh grammar has never been treated in any
+detail, and the question of its syntactic and typological relevance has not been settled.
+The present study tries to fill these gaps.
+I will now proceed to the prerequisites for the recognition of complexes, namely
+Nivkh phonology and morphophonemics.","[44, 45]"
+"152DEPENDENT-HEAD SYNTHESIS IN NIVKHIn (113), the interrogative is adjacent to the verb but does not synthesize: it may not do
+so because of the focus marking it bears (the interrogative suffix) and accordingly, the
+verb bears the 3su prefix. At the same time, the interrogative suffix on the interrogative
+pronoun signals that only the undergoer is questioned, while the verb is topical.
+(113)(Panfilov 1965:166)
+ţi
+siḑ-ηa j-әrsu-ḑ ?
+2s
+what-Q 3sU-pursue-IND/NML
+""what is it that you pursue?""
+jәrsuḑ ~ -әrsuḑ ""s.o. pursues sth.""","[162, 163]"
+"297REFERENCESCLS
+UAL
+VJaPapers from the Regional Meeting of the Chicago Linguistic Society
+International Journal of American Linguistics
+Voprosy JazykoznanijaAikhenvald, Alexandra Y. 1998. ""Warekena"". Derbyshire & Pullum (eds). 1998. 225439.
+1999. ""Multiple marking of syntactic function and polysynthetic nouns in
+Tariana"". CLS 35:2. 235-248.
+Allen, Barbara J. & Donna B. Gardiner & Donald G. Frantz. 1984. ""Noun incorporation
+in Southern Tiwa"". UAL 50:3. 292-311.
+Andersen, Henning. 1986. ""Introduction: Sandhi"". Andersen (ed). 1986. 1-8.
+(ed). 1986. Sandhi Phenomena in the Languages of Europe. Berlin: Mouton de
+Gruyter.
+Andrade, Manuel J. 1933. Quileute. [Extract from Handbook of American Indian
+Languages III]. New York: Columbia University Press. 151-292.
+Andrews, J. Richard. 1975. Introduction to Classical Náhuatl. Austin: University of
+Texas Press.
+Aoki, Haruo. 1970. Nez Perce Grammar. Berkeley: University of California Press.
+Asher, R.E. & J.M.Y. Simpson (eds). 1994. The Encyclopedia of Languages and Lin­
+guistics. 10 Vols. Oxford etc.: Pergamon Press.
+Austerlitz, Robert. 1956. ""Gilyak Nursery Words"". Word 12:2. 260-279.
+1958. ""Vocatif et impératif en ghiliak"". Orbis 7:2. 477-481.
+1959a. ""Semantic components of pronoun systems: Gilyak"". Word 15:1. 102109.
+1959b. ""Gilyak Religious Terminology in the Light of Linguistic Analysis"". The
+Transactions of the Asiatic Society of Japan, 3rd series, Vol 7. 207-223
+(Tokyo).
+1980. ""On the penumbra of questions surrounding the internal reconstruction of
+Gilyak"". International Review of Slavic Linguistics (Edmonton) 5. 75-87.
+1982. ""Gilyak internal reconstruction, I: Seven etyma"". Folia Slavica 5:1-3.8188.
+1983. ""Studies of Paleosiberian languages"". International Journal of Slavic
+Linguistics and Poetics 27, supplement. 72-76.
+1984. ""Gilyak internal reconstruction, II: Iron and questions related to metal­
+lurgy"". Folia Slavica 7:1-2. 38-48.
+1985. ""Etymological frustrations: Gilyak"". UAL 51:4. 336-339.","[308, 309]"
+"219With respect to the last point, we can specify that nominal material is integrated in the
+form of lexical noun roots (not affixes like in Quileute or Spokane) into a lexical verb
+form (and that noun roots are not verbalized as in Eskimo) which corresponds to
+Drossard's type C3, represented by Takelma and Chukchi.
+The peculiarity of Nivkh within this classification, however, is that whereas
+some of the necessary categories are encoded via non-root bound morphemes on the
+verb, it is the basic structural principle of dependent-head synthesis which chiefly contri­
+butes to the complexity of a Nivkh verb form through the integration of lexical roots,
+whether they represent nominal material (undergoers in the case of Nivkh) or adverbial
+material (manner or location). The question is whether this structural principle is an in­
+stance of polysynthesis or of something different.
+We will return to this point in the last chapter, after an examination of Nivkh
+nominais. As polysynthesis is understood to be a phenomenon rotating around the verbal
+complex only, dependent-head synthesis stands out against it as being operative in the
+nominal complex as well.",[230]
+"(Savel'eva/Taksami 1970)
+osps
+""harpoon for spearing fish from a distance""
+murɖas
+""whip""
+ŋaqr
+oγf
+""snow melting gadget""
+ŋaqr
+oγf
+""melted hole in the snow""=
+=
+==[o-sp]-s
+fish-stab-INSNML
+[mur-ɖa]-s
+horse-hit-INSNML
+[ŋaqroγ]-s
+snow-melt-INSNML
+[ŋaqr- oγ]-f
+snow-melt-LOCNMLThe bracketing indicates that, e.g., osps is not a compound of o ""fish"" and *sps, nor aDEPENDENT-HEAD SYNTHESIS AND WORDHOOD111derivation of *} ospţ""s.o. spears fish""; there are no such words as *sps ""stabber"", *ţas ~
+ḑas ""hitter"", * oγs ""melter"", * oγf ""melting place"". Furthermore, forms as (70) may be
+found in the lexicon with two translations, one the regular 'sum of its parts' meaning, the
+other an integral, more specialized meaning, e.g.
+(70)(Savel'eva/Taksami 1970:443)
+am-ŋəvi-lət-f
+eagle-nest-make-LOCNML
+a. ""place where the eagle nests""
+b. ""eagle's eyrie""This means that such a word is systematically ambiguous between a lexicalized form and
+an ad hoc formation. This phenomenon has been described for a polysynthetic language,
+Cayuga (Iroquoian), by Sasse (1993). He points out that the lexicalized forms
+(71)(Sasse 1993:207)
+kaotan hkwih
+ehyátohkhwa 'a. ""it habitually carries logs""
+a. ""she/one writes with it""b. ""horse""
+b. ""pencil""are forms frozen from different inflectional paradigms in their (b) reading which exist
+alongside their productively formed non-lexicalized source (a) (1993:207,213). The nor­
+mal inflectional form which translates as ""it habitually carries logs"" does not necessarily
+refer to horses.
+The morphological evidence thus does not suggest any fundamental difference
+between complexes and compounds in Nivkh, in particular with respect to wordhood.
+3.8.2 The diachronic perspective
+In addition to these criteria, there is an interesting diachronic perspective opened up by
+Austerlitz. In several papers (1959a, b, 1980, 1982, 1984, 1985, 1990a, b, 1994), he
+ventures an analysis of synchronic simplex lexical morphemes not as atomic, but as
+historically polymorphemic forms. He tries to extract a common root from the phonemic
+representations of lexemes belonging to one semantic field on the basis of Nivkh phonotactics, consonant alternations, and extant or assumed derivational morphemes (such as
+nominalizing -ř, -ŋ, -q and -ϰ, 1980:79, and -f LOCNML; see also Panfilov 1962:59-62).
+To cite some representative and less subtle studies, he observes that the string /ŋa/ ""oc­
+curs in over 40 biological, warm-blooded terms"" (1990:28), e.g. ŋa ""animal"", ŋa ţϰ ""foot,
+leg"" (ES), ŋaf ""thigh"", ŋasq ""seal's flipper"", ŋaϰ ""milt"", ŋafq ""comrade"", and he lists
+several terms having something to do with the sea which begin with /ke/ (1959b:220221), e.g. keřqŋ ""sea"" (< *ke + heŋqŋ ""side""), keϰ ""gull"" (which can be imagined as <
+*ke + -ϰ NML), keř (a. shell; which can be imagined as < *ke + -řagent NML), ket (Nivkh
+living at the seashore in South Sakhalin). He also compares the /Ik/ in milk ""monster"",
+mulk ""birchbark bucket"" and nuγlk ""needle case"" and defines it as a derivational mor­
+pheme on the basis of the lexical morphemes mi ""center""/ mi-f ""earth"" (with -f LOCNML),112DEPENDENT-HEAD SYNTHESIS IN NIVKHmu ""boat"" (in view of the shape), and nux ""needle"" (1959b:217-218).
+An interesting set of examples of his reconstructions centers around the semantic
+field ""arm/hand"". Austerlitz offers the following segmentations (simplified):
+(72)
+(Austerlitz 1980:81)
+SS tamk ""hand""
+takñ ""fingernail""
+toqñ ""claw""
+tomϰ ""elbow""
+tot""arm""
+torpŋ ""lower arm""
+tuñmŋ ""finger""tam-k
+ta-k-ñ
+to-q-ñ
+tom-q
+tot
+toř-p-ŋ
+tu- ñm-ŋ(A) təmk(A) tot ""lower arm""
+(A) tuñThe first element (/ta/, /to/, /tu/), which Austerlitz calls the 'starter', refers to the extremi­
+ty; the following velar elements /k/ and /q/ he considers to be formants with the meaning
+""isosceles shape""; the segment /ñ/ he analyzes as an element meaning ""tapered and poin­
+ted""; /t/ as a reduplicated segment; /m/ as a formant meaning ""mobile-joint""; and finally
+/k/, /q/, and /ŋ/ as nominal clotures, i.e. nominalizing elements (1980:81-82).
+Panfilov (1962:87) adds some more etymologies, e.g. he analyzes məñḑx ""soft
+boots"" as composed of məñḑ ""fish skin"" and ki ""footwear"", with the appropriate conso­
+nant alternation (*məñḑ-γi), and məx ""bow"" as made up of mu ""boat"" + əx ""end"".
+On the basis of this assumed historical segmentability of modern non-transparent
+forms, Austerlitz imagines the Nivkh proto-language to be ""something like a class-lan­
+guage, with definite slots for specific grammatical and lexical parcels - something like
+Nootka"" (1980:83), with Nootka being a polysynthetic Native North American language
+(Wakashan), which forms words out of bound morphemes.
+As early as 1906, Sternberg, who did extensive field work on Nivkh, pointed out
+the greater morphological similarity of Nivkh and Native American languages than of
+Nivkh and Ural-Altaic languages. He mentions (1906:138-139)
+(i)
+the existence of prefixes (which are absent in Ural-Altaic languages),
+(ii)
+the ""incorporation"" [sic!] of pronouns into nouns and verbs,
+(iii)
+the existence of nominal classification and numeral classifiers,
+(iv)
+the derivation of nouns by verbal suffixes,
+(v)
+the complex verbal inflection,
+(vi)
+the existence of verbal classifiers, and finally
+(vii)
+that ""Das direkte Objekt wird in der Form eines reinen Stammes unmit­
+telbar vor das Verbum gestellt, mit welchem es eine Einheit bildet, die
+der amerikanischen sogenannten Inkorporation sehr nahe steht."" (1906:
+139)
+[The direct object appears in a bare stem form immediately in front of
+the verb, with which it forms an entity reminiscent of incorporation in
+American languages].
+Unfortunately, Sternberg does not go into detail nor does he cite examples or evidenceDEPENDENT-HEAD SYNTHESIS AND WORDHOOD113for his claims. His idea, however, is taken up by Korsakov (1939), who compares the
+structure of the 'incorporation' constructions of Chukcho-Kamchadal languages, Nivkh,
+and several Native American languages, such as Lakhota, Delaware, Paiute, Nahuatl,
+and Yana. He concludes that these languages have different types of complex forms
+made up of (i) two noun roots, (ii) an attributive adjective or verb root plus a noun, (iii)
+noun incorporation into a verb and (iv) more complex types containing more than two
+lexical roots.
+The conception of Nivkh words as having been internally complex at an earlier
+stage of the language indicates that Nivkh may be similar to the polysynthetic language
+system of forming complex words from bound morphemes (see chapters 7 and 10).
+3.8.3 The complex in the clause
+Turning now to the syntactic behavior of words, Nivkh complexes are permuted in a
+clause as wholes, and their rightmost constituent, the head, is inflected for the gramma­
+tical categories a simplex lexeme of the same lexical category is. In particular, it is the
+only constituent to bear the markers of the obligatory categories of case, mood or converb, which mark the right edge of a complex.
+Complexes are also questioned and substituted as wholes. A nominal complex
+is questioned with the interrogative pronouns aŋ ""who"", siḑ ""what"", or řaḑ ""which one"",
+and can be substituted by the demonstrative pronouns, such as təḑ ""this one"", həḑ ""that
+one"", etc. A verbal complex is questioned by jaḑ (~jā- -jaγa-) ""what does s.o./sth. do?""
+(for dynamic verbs) or jaʁoḑ ""how is s.o./sth./what is sth. like?"" (for static verbs) and
+substituted by haḑ ""s.o./sth. does so"" or toyaḑ, hoγaḑ, etc. ""s.o./sth. is thus"" (see e.g.
+Panfilov 1962:255, Otaina 1978:16). The verbal question and substitute forms are verbs
+themselves, as their inflectional paradigms show.
+(73)(Panfilov 1962:255)
+qan
+k'eq-řu-ivi-ḑ.
+→
+dog
+fox-pursue-PROG-IND/NML
+""the dog is pursuing the fox""qan
+jaya-ivi-ḑ?
+dog
+what_do-PROG-IND/NML
+""what is the dog doing?""","[121, 122, 123, 124]"
+"(Otaina 1978:33)
+larq
+umgu-dox
+kәl-ɖ
+shirt
+woman-ALL
+long-lND/NML
+""the shirt is too long for the woman""13 6DEPENDENT-HEAD SYNTHESIS IN NIVKHNon-transitive verbs do not participate in the dependent-head synthesis as heads, with
+the exception of intransitive verbs (expressing value, dimension, color, or quantity) that
+incorporate the noun which would be their theme in a clause construction (cf. chapter
+2.1). The mechanism as such is productive, as can be seen in a whole series of forms
+from a handful of verbs, urɖ ""sth. is good"", qoɖ ""sth. hurts"", pilɖ ""sth. is big"", kәlɖ ""sth.
+is long"", verd ""sth. is wide"", ulɖ ""sth. is high"", ţarjɖ ""[pelt] is white"", piuɖ ""[hair/skin]
+is black"", tamɖ ""there are a lot"" (cf. Otaina 1978:36-38, 17-23). In addition, intransitive
+verbs can incorporate body part nouns. All resulting incorporating forms seem to be lexicalized, as the nominal component cannot be questioned or substituted, which is possible
+in noun + verb complexes (cf. Otaina 1978:32; chapter 3.8.3).
+(45)
+a.","[146, 147]"
+"Greenlandic
+(Fortescue 1984:301)
+Maniitsu-mu-kar-pugut
+M.-ALL.SG-gO-IND:lp""we are going to Maniitsoq""Aasian-nu-kar-pugut
+A.-ALL.PL-go-IND:lp
+""we are going to Aasiaat""For goals in the singular, such as the name of the city of Maniitsoq, the allomorph of the
+verbalizer starts with a string identical to the allative singular case suffix on nouns (-raw),
+whereas for plural goals, such as the name of the city of Aasiaat, a plurale tantum, the
+verbalizer starts with a string identical to the allative plural on nouns {-nú). Altogether
+there are four such verbalizers in Greenlandic. The Greenlandic case shows that inflec­
+tion is not incompatible with derivation and gives rise to the question of whether noun
+incorporation may resemble word formation in this respect. Nivkh is less spectacular
+than Greenlandic in that case is never integrated into a complex.
+Iturrioz (2001:721) claims that in Huichol (Uto-Aztecan), nouns may be incor­
+porated with number and case marking, but only gives examples for number marking.
+(25)Huichol
+(Iturrioz 2001:721)
+'ayɨweka
+ne-p-u-ti- 'ɨka-te-hai-pi
+fortunately
+1 s-ASS-visible-PL.u-leg-PL-water-take_away
+""fortunately, the swelling of my legs has gone down""(ii)Nivkh nouns may even synthesize together with their modifier and determiner
+(see chapter 8), whereas determiners and modifiers are claimed to be ""not nor­
+mally incorporated with the noun"" (Mithun 2000:917).",[190]
+"As Hall (1999b: 106-107) shows, however, it suffices for a form to be a possible phono­
+logical word in German, i.e. to meet the constraints of a minimal phonological free form,
+to be uttered on its own. Such a phonological word need not coincide with a word on the
+lexical or morphological level.
+(84)German
+be- und entladen=beladen
+und
+entladen
+load_on
+and
+unload
+""to load and unload sth. (with sth.)""In this example, the preverb be- is a minimal phonological free form, but is definitely not
+a lexical or morphological word.
+Native speakers of German have a feeling for the ambiguous status of the
+remnant. When asked how many words Eröffnungs- und Schlußwort are, informants said
+three; the explanation for this assessment was: ""because that is the way you write it"".
+The third question, whether *Eröffnungs then constitutes a word, prompted hesitation
+and finally denial, the informants' explanation being that ""the word is actually/is
+abbreviated from Eröffnungswort"" ""opening address"".
+Such a clash between phonological and morphological word status could be at
+the heart of Nivkh complex splitting under coordination as well (note that we already
+distinguished phonological and morphophonological wordhood in 3.7). Evidence for this
+assumption is constituted by the behavior of personal prefixes. As we saw above, perso­
+nal prefixes are always the leftmost element in a word form and need a host to attach to.
+If, for example, a nominal head is modified by two coordinated attributes and is pos­
+sessed, the possessor is marked on the first, non-synthesizing attribute, while the second118DEPENDENT-HEAD SYNTHESIS IN NIVKHattribute is marked on the head noun (Krejnovic 1966:40).
+(85)(Krejnovic 1966:40)
+ñ-urla
+pila-mu
+ls.P'OR-good- big-boat
+""my good, big boat""There are no constructional alternatives, e.g. *urla ñ-vila-mu is not grammatical, thus the
+bracketing function of the prefix still persists. Such a frame construction is paralleled in
+German coordinate gapping in ad hoc formations.
+(86)
+=German
+Markenkurz- und -langarmhemden
+Marken-kurz-arm-hemd-en
+und
+brand-short-sleeve-shirt-PL
+and
+""short- or long-sleeved brand shirts""Marken-lang-arm-hemd-en
+brand-long-sleeve-shirt-PLMarken- ""brand"", which is not a free morphological word in this form and meaning, mo­
+difies both Kurzarmhemden and Langarmhemden, and kurzarm- ""short-sleeved"", again
+no free form, modifies Hemd ""shirt"" in the same way langarm- ""long-sleeved"" does,
+with the two modifiers in a coordinate relationship. Only the element -langarm- is
+actually compounded with Hemden, forming a single word with it. Marken- and kurzform a single phonological word together which would be ungrammatical as a morpholo­
+gical word. The German example contains one further complication not paralleled in the
+Nivkh example above: kurz- ""short"" is also related to Arm ""sleeve"", modifying it in the
+same way as lang- ""long"" does.
+In this light, Panfilov's claim seems to be too strict when he postulates that any­
+thing occurring as a free form must be a separate word (morphologically). In addition,
+the splitting up of complex word forms does not seem to be a trait unique to Nivkh; and
+although it may not be easy to handle for existing linguistic theories, it is stable and does
+not block the synthesization of elements. Thus, the problematic splitting up of comple­
+xes under coordination does not prove the non-wordhood of Nivkh complexes. Rather,
+their behaviors in relation to morphophonemics, stress, inflection, and in permutation
+and substitution tests provide strong evidence for the wordhood of complexes in Nivkh.
+One tends not to hesitate to recognize word entities as long as bound morphemes
+are involved. Their boundedness - the fact that they need a host to attach to - makes
+them part of a longer word. It does not matter then how long a chain of bound mor­
+phemes actually is, cf. non-polysynthetic agglutinating or polysynthetic languages. In
+the case of morphologically compounded forms, i.e. constructions containing mor­
+phemes which may otherwise form free words, one tends to be reluctant to identify them
+as single words. Also it seems to be tempting to allow oneself to be inspired by the or­
+thography of one's own language in determining the status of a compounded construc­
+tion in a foreign language.","[128, 129]"
+"Kaalat tikik-kallan-nngi-laq
+K.
+arrive-yet/still-NEG-lND:3s
+""Kaalat still has not arrived""At the same time, the verb form is not restricted in its complexity and length (compare
+Greenlandic examples above and in chapter 7). Scope-ordered organization is found
+Kwakwala (Boas 1911c), Tarasco (Foster 1969) (affixal), Maidu (Dixon 1911), Capanawa (Loos 1999 ms.: 14), Yagua (Payne/Payne 1990:383) (mixed with verb root serializa­
+tion), Lakhota (Boas/Deloria 1979:52) and Pano (Loos 1999:244, Payne 1990:226-229)
+(compositional). The lack of mixed languages with noun incorporation may be an acci­
+dental gap due to the limitation of the sample. Altogether, type (ii) seems to be represen­
+ted by significantly fewer languages than the other.
+The fact that languages of all strategies may be organized in both ways (cf. table
+10.3) proves that the two axes are indeed independent.
+TemplaticScope-orderedAffixalNavaho, KlamathGreenlandic, KwakwalaMixed IYimas, ChinookYaguaMixed IITakelma, BlackfootCompositional| Ket, WichitaLakhota, PanoTABLE 10.3: Polysynthetic typesThis classification into several different types of polysynthesis seems to allow for a re­
+conciliation of diametrically opposed claims with respect to the delimitation of polysyn­
+thesis. The classification presented here is, however, still a rough one (for an elaboration
+see Mattissen (to appear)); a closer look at the languages classified together shows a
+great heterogeneity. Greenlandic, for instance, stands out on account of its derivational288DEPENDENT-HEAD SYNTHESIS IN NIVKHformation of complex words with multiple changes back and forth between the nominal
+and verbal category (see chapter 7.3) and by its single inflectional morpheme per word.
+Other languages, like Navaho, divide morphemes expressing meanings of apparently one
+domain over several different positions. Algonquian languages are known for the three
+(at least diachronic) stem positions (see Mithun 1999:339). Moreover, the differences in
+the semantic fields expressed by affixes on the verb are manifold. The classification is
+meant to show, however, that there are larger structural tendencies which are shared
+across continents that allow an assessment of where Nivkh fits into the big picture.
+10.3
+A wider view of polysynthesis
+The study of different aspects of Nivkh morphosyntax has shown how structure is orga­
+nized by a consistent principle according to which complex word forms are formed from
+the concatenation of nouns and verbs in strictly defined relationships, and that the single
+compositional mechanisms resemble or partly overlap with noun incorporation and poly­
+synthesis. By just describing them as such, however, the concepts of incorporation and
+polysynthesis would have to be broadened, but the general principle behind the mecha­
+nisms would still not be grasped.
+The comparison of dependent-head synthesis with noun incorporation showed
+that tests or criteria of referential activeness and argumenthood of the synthesizing noun,
+of polysynthesis, head marking and configurationality do not necessarily apply the way
+they are expected to just because the primary object synthesizes with its governing verb
+and, as a dependent, is directly marked on its head. This insight suggests that the Nivkh
+root concatenation phenomenon should be described in terms of what it actually is, viz.
+dependent-head synthesis, and recognized as an organization principle in its own right.
+The question then arises of whether this organizational principle, general as it is,
+may be found underlying the structure of other languages as well. This, however, cannot
+be determined based only on extant materials.
+A further question concerns the status of dependent-head synthesis with respect
+to polysynthesis. The reconciliation of both structural types is subject to the discrepancy
+between the homogeneity of the principle of dependent-head synthesis and the heteroge­
+neity of the ingredients and cross-linguistic moldings of polysynthesis. It first has to be
+decided how broadly or narrowly polysynthesis is to be interpreted.
+The structural parallelisms of Nivkh with Chukchi, Ket, So:ra, Wichita, Nez
+Perce, Lakhota, Comanche, Kiowa, and Ainu, besides the differences in the internal
+organization of the verb forms and in the role non-root bound morphemes with fairly
+concrete, 'lexical' meanings play, lie in the complex verb forms arising from the synthesization of noun and verb roots. Especially between Chukchi and Nivkh, differences
+seem to be of degree rather than kind. The parallelism among the languages mentioned
+would be veiled by a sharp delimitation of polysynthesis. On the other hand, such a deli­
+mitation from non-polysynthetic agglutinating languages by way of minimality con­
+straints seems desirable.
+For complex noun forms, formed by integrating modifiers such as lexical roots
+or non-root bound morphemes in addition to the expected categories of number, case,TYPOLOGICAL OUTLOOK289definiteness or gender, the notion of polysynthesis would have to be enlarged, as sug­
+gested in chapter 9. Polysynthesis then would actually assume the status of a separate
+morphological type. Complex noun forms, however, exist in otherwise non-polysynthetic languages as well, such as Sanskrit and German, which suggests that they follow a
+principle of their own, independent of the verb form. A separate term for this phenome­
+non would then be needed.
+All the languages mentioned above manifest both complex (polysynthetic) verb
+forms and noun forms all of which arise from root concatenation (see chapters 8 and 9;
+Spencer 1995, Werner 1997, Rood 1976, Boas/Deloria 1979, Charney 1993, Watkins
+1984, Tamura 2000; Nez Perce, however, has non-root bound morphemes only, see Aoki
+1970). This means that a uniform formation principle is valid for both verb and noun
+forms in these languages (as is the case with Nivkh), which is not taken into account in
+the traditional approach to polysynthesis.
+Furthermore, a uniform formation principle is found in Greenlandic, Kwakwala,
+Tsimshian, and Tariana, in which both noun and verb complexes arise from the affixing
+of non-root bound morphemes (see chapter 9; Fortescue 1984; Boas 1911c, 1911b;
+Aikhenvald 1999).
+Thus, both the compositional and the affixal strategies are not only valid for
+both verb and noun forms, but may also apply to both at the same time and thus describe
+an overall structural principle of a language.
+Such languages stand in contrast to (verbal) polysynthetic languages such as
+Karok (Bright 1957:56-57), in which noun forms are barely inflected or derived at all.
+Languages such as the latter seem to be a minority, however, since in most polysynthetic
+languages examined here nouns (if they can be delimited as a separate lexical category
+at all) are not so simple (see chapter 9; in contrast to what Mithun predicts 1988:443). In
+fact, no language in the sample lacks number, case, possessive marking or derivational
+affixes (such as diminutive or 'tense') altogether, even if these categories are less salient
+than in e.g. some European languages (with the exception of English) in disposing of
+few or no central cases, in marking collective instead of number or number on animate
+nouns only, etc. Nevertheless, the noun form in a polysynthetic language is generally
+more simply structured than the verb form if templates are compared, but this applies to
+non-poly synthetic languages as well.
+It seems to make sense to acknowledge the overall structural principle as a type
+in its own right, perhaps even as a morphological type, as it is superordinate to polysyn­
+thesis (as it is presently understood). We might call this overall principle polysynthesis,
+but in that case the delimitation to verb-only polysynthesis must be reinterpreted.
+Leaving these points for further reflection, we close with the final observation
+that it is on such a superordinate principle, independent of polysynthesis and operating
+on both noun and verb forms, that Nivkh dependent-head synthesis is cast as well.","[298, 299, 300]"
+"Turkish
+(Dede 1986:447)
+accusative marked direct object
+Pinar
+kitab-l
+oku-du
+P.
+book-ACC
+read-PST
+""Pinar read the book""b.no marking on the direct object
+Aytiil bir
+kitap
+oku-yor
+A.
+a
+book read-PROG
+""Aytiil is reading a book""Applying the above-mentioned characterizations to Nivkh, we observe that, because the
+Nivkh verb complex is a word unit (see chapter 3) and the integrated noun may be in­
+flected (see chapter 4.3), noun stripping and differential object marking may not ad­
+equately describe it. Also the verb complex is formed independently of the referential
+status of the noun, as we will see below, and does not have a constructional alternative
+with a case-marked participant, which excludes differential object marking. It is dis­
+solved only for pragmatic reasons (topicalization, focusing, dislocation). Furthermore,
+since lexical noun stems and lexical verbs are combined, we have to compare dependenthead synthesis in Nivkh to noun incorporation in the narrow sense of Sapir (1911).
+5.1
+Parallels of dependent-head synthesis in Nivkh to noun incorporation
+In Nivkh noun-verb complexes, a lexical noun stem and a lexical verb stem are com­
+bined productively to form one single word, which may be the finite predicate. The noun
+represents an undergoer of the verb which is the patient/theme, standard of comparison,
+or location of transitive verbs and the goal of some ditransitive verbs (see chapter 4.2.2).
+In addition, 'subjects' of intransitive verbs may be incorporated if they are body parts, or
+if the verb expresses a quantity, color, value, or dimension (""long"", ""big"", see chapter
+4.2.1); they may alternatively be interpreted as locations rather than subjects. Only one
+participant at a time forms a complex with its verb. The noun-verb complex may be
+paraphrased analytically for pragmatic reasons. Thus far, Nivkh dependent-head synthe­
+sis is in line with approaches to incorporation (Sapir 1911; Gerdts 1996; Mithun 1984,
+Mithun/Corbett 1999; de Reuse 1994b; Baker 1988). Only Rosen (1989) excludes goal
+relations from being incorporated, whereas Hagège (1980) includes them. Neither of
+them furnishes details. Goal incorporation is extant, however, for instance in Chukchi
+(see Spencer 1995:458, 481), Southern Tiwa (Tanoan; Allen/Gardiner/Frantz 1984),
+Kiowa (Kiowa-Tanoan; Watkins 1984:227), and Bininj Gun-wok (Gunwinjguan; see
+Evans 1996:73, 75).
+Further characteristics are not as easy to decide on. A point of debate which be­
+gan with Sapir (1911) is the linguistic level on which incorporation takes place, i.e.
+whether incorporation is a morphological, word-formation process (Sapir 1911, Mithun172DEPENDENT-HEAD SYNTHESIS IN NIVKH1984, Mithun/Corbett 1999; Rosen 1989) or a syntactic mechanism (Sadock 1980,1985,
+1986; Baker 1988, 1996). The discussion between Mithun and Sadock on this point has
+suffered from two shortcomings: first, the idea held by Mithun that morphological for­
+mation of word-units implies lexicalization (1984, Mithun/Corbett 1999; see chapter
+3.8); and second, the fact that the linguistic traits which motivated the recognition of
+incorporation as a syntactic mechanism by Sadock, such as modifier stranding, have
+been shown so far to be true only of Greenlandic1, which has denominal verbs only and
+no nominal incorporation. Thus the syntactic mechanism postulated by Sadock may be
+more adequately ascribed to denominal verb formation and is therefore not necessarily
+valid for Nivkh. Compare an example from Japanese, which has denominal verbs as well
+as modifier stranding:
+(6)Japanese
+niwa-o
+garden=ACC(Martin 1988:105)
+kirei-na
+hana-darake-ni
+pretty-ATTR
+flower-full_of-ADVsi-te
+do-CVok-u=no=ga
+yume des-u
+put-NPST=NML=NOM
+dream COP-NPST
+""it is my dream to make my garden into a mass of pretty flowers"" (lit.
+""make it nice flower-full"")
+Kirei-na hana ""pretty flowers"" is an NP, kirei-na an attributive form only (adverb: kireini, converb: kirei-de), and -darake a non-root bound morpheme deriving a special sub­
+class of adjectives (which are themselves a verbal subclass; cf. Mattissen 1995).
+On the other hand, it has already been shown in chapter 3.8 for German ad hoc
+word formations that word formation does not entail lexicalization (pace Mithun); Majewicz (1980:140) claims that both incorporation and polysynthesis form words ad hoc.
+Even Baker (1995, 1996) distinguishes between lexical and syntactic incorporation, al­
+though his classificatory criteria lead to conflicting results. So the basic question concer­
+ning the level on which incorporation takes place is still undecided. It is even unclear
+whether the question is adequately posed in this form. In Nivkh, based on the evidence
+presented in chapter 3, the noun and verb synthesize ad hoc on the morphological level
+without necessarily being lexicalized.
+On the semantic level, a distinction between incorporation denoting ""permanent
+or general activity"" and ""predicating a single act"" is made by Sapir (1911:259), a point
+which has not been elaborated upon in subsequent incorporation models. Some studies
+mention that noun incorporation in their respective languages is used for habitual or
+projective events (e.g. Sullivan 1984 on Yucatec Maya, Rigsby 1975:349 on Nass-Gitksan (Tsimshian)); however it seems unreasonable to assume that, in languages where
+1
+The phenomena claimed to be modifier stranding in Mohawk and Southern Tiwa (Mithun 1986,
+Baker 1988,1996) seem to be equal in translational effect but different in construction, since the
+'modifiers' are full-fledged predicative forms (cf. Sasse 1993).","[182, 183]"
+"Moreover, a participant may be introduced to the discourse or even questioned within a
+complex (see chapter 4.3). In the following extract of a narrative discourse about the life
+of a brother and sister, a bear is introduced as the synthesizing undergoer and is the ante­
+cedent of anaphoric reference without having occurred as a free form in between. No
+prefix of a 3 su is marked on 1әr- ""divide"" because of the initial lateral, ʁoñḑ- ""load"" and
+veryi- ""drag"" are transitive verbs with the initial fricative indicating a 3sU.
+(16) (Beffa 1982a:87)
+context: The brother grew up.
+hoηgut'umke mūv-ñaqr
+pal-rox
+mәr-ra
+qotr-k'u-ra
+living_thus
+day-one_CLF mountain-ALL ascend-ENU:3s bear-kill-ENU:3s
+ho
+thenʁorotlәr-yәt-ra.
+divide_up-CPL-ENU:3sťu-in
+ʁfoñḑfi-ror
+vayi-ř
+mәy-ḑ.
+sledge-LOC
+load-ACV:3s
+drag-CV:3s
+descend-IND/NML
+""Living thus, one day he went up into the mountain woods and killed a bear and
+then cut it fully up. He loaded it onto the sled and, dragging it along, descen­
+ded.""
+With respect to anaphor, the Nivkh noun-verb complex thus resembles Greenlandic de­
+nominal verbs, as in:
+(17)Greenlandic
+(Sadock 1986:24)
+puisi-k-kaangami=li
+ursu-ata
+ila-a
+niri-sar-paa
+seal-huntdown-ANC:3s>3s=but fat-ERG.P'OR:3s part-P'OR:3s eat-HAB-lND:3s> 3 s
+""but whenever he caught a seal he would eat part of its fat""and Chukchi incorporation, where an incorporee may be contrasted with an NP outside
+the verb (cf. Polinsky 1990, see also chapter 3.8.3), as in
+(18)Chukchi
+(Polinsky 1990:361)
+?orawetl?-an lon-qaa-l?et-g?e
+әtrec
+?ina
+man-ABS.SG
+NEG-reindeer-come-AOR:3s
+rather wolf(ABS.SG)
+""it was a wolf, not a reindeer, that came up to the man""As we saw in chapter 3.8.3, synthesizing Nivkh nouns may be coordinated to outsideNOUN INCORPORATION IN NIVKH ?","[187, 188]"
+"THE VERB + VERB COMPLEXb.toy-ko
+a-kikkik
+thorough-ADV lss-beat
+""I beat him up""
+(paraphrase)(4)Japanese
+(Jacobsen 1992:241)
+henzi=o
+dasi-sibut-ta 1
+answer=ACC
+send-hesitate-PST
+""I hesitated to send a response (to the letter).""
+free verbs: das-u ""put out"", sibur-u ""hesitate""(5)Thulung
+(Kiranti; Ebert 1994:65)
+ro-m-pha-mu
+come-[copy]-reach-lNF
+""arrive""(6)Yamphu
+(Kiranti; Rutgers 1998:180)
+uks-e
+Rokhiemba
+iuη-mrap-led-e
+come_down-IMP
+R.
+beer
+drink-assist-stop-IMP
+""Come down a minute and join Rokhiemba for a beer.""","[193, 194]"
+"92DEPENDENT-HEAD SYNTHESIS IN NIVKHThe intensity level plots (representing loudness and displayed in the 'magnitude' dia­
+grams) show a certain correlation to the fundamental frequency plots in their peaks.
+Compare the diagrams for hagan ""then"", mer-umgu-k'ezḍ ""s.o. told our woman"", tuz-yətţaj ""cooled down tea"", pq-mi-fiḍ ""s.o. is lying in the cradle"", Vagun, vo-ñlami ""half of
+the village"", imŋ-k'imḍ ""s.o. gives them"", as well as the question word aya and the ques­
+tion enclitic -ŋa. The string tuz-yət-ţaj ""cooled down tea"" is a nice example.
+Fundamental frequency starts at 325 Hz and drops continuously. Intensity also
+peaks on the first syllable and never reaches this level again in that string. This is true
+mutatis mutandis for the first syllables of the other complexes listed above. Pitch and in­
+tensity seem to correlate in marking the stressed syllable in these cases; their peaks,
+however, do not necessarily coincide in our diagrams, e.g. in ţoŋsŋñivyux ""from the
+fisherman"", q'otr-ţ'ər-lovř-ţevḍ ""stabbed the bear in its left armpit"", and ţaqxir ""with a
+trident"".
+The spectrograms allow us to identify pausing (in contrast to the waveforms
+against background noise). Krejnovič (1979), Jakobson (1971:78) and Watanabe (1992:
+185) point out that within a complex, pauses are inadmissible. The spectrograms display
+some telling pause units between (exceptionally) black stretches wherever there is no
+energy output during a sound chain, e.g. ku-ena-umgu ""that other woman"", containing
+determiner, attribute and head noun; pq-mi-fiḍ ""s.o. is inside the cradle"", consisting of
+a local transitive verb and its complement, a noun + relational morpheme; ţaj-ra-ja
+""drink tea!"", with a monotransitive verb and its patient; and imŋ-k'imḍ, a ditransitive
+verb with its recipient. They each have continuous spectrograms just like the compound
+ţoŋəŋñivyux ""from the fisherman"".
+The individual pause structures of the utterances analyzed here confirm the pitch
+contour units we identified above, as there are pauses before each medium fundamental
+frequency onset and after each extreme offset.
+Hence, there is good evidence for the existence of accentual units in Nivkh that
+are also pause units and which are co-extensive with the complexes identifiable on morphophonemic and structural grounds. As accentual and pause units, complexes are no
+different in status than inflected forms or compounds.
+3.5
+Nivkh morphophonemic alternations as sandhi
+Disregarding the evidence for the wordhood of Nivkh complexes for the moment and
+approaching them from the reverse angle, we must examine what else they could con­
+ceivably be.
+Panfilov considers morphophonemic alternation in Nivkh to be a case of sandhi
+between independent words (1966:62). In the current linguistic apprehension, sandhi is
+a rather loosely defined term, comprising a wide range of different phenomena, as
+Andersen (1986:1-2) and Ternes (1986:11) admit, even including allomorphic alterna­
+tion and cliticization. To demonstrate this heterogeneity, a range of phenomena descri­
+bed as sandhi in the literature are presented in (39) to (45), to be referenced throughout
+this section.","[102, 103]"
+"20DEPENDENT-HEAD SYNTHESIS IN NIVKHcategoryformnegation-ʁavrrestrictions
+qavr- NEG (A, Sakh.)-lәyә-NEGnegative experiential / habitual-yzuksuintentional-inәINTdesiderative-aʁñi- ""want"" DESnegative desiderative-molo- ""not want""negative disposition-gernegative potential-jiki- ""cannot""in A in the future onlyxsu-on Sakhalin onlyker- ""unwilling""-iruţez- ""fail, not manage""
+negative purposive-ilәkr-epistemic-bәñevo- ""apparently""""lest""on converbs onlyTABLE 1.7: Negation and deontic modality
+Epistemic modalities are expressed with different inflectional forms of the auxiliary haḑ
+""it is so"" following the ḑ-form. Verb and auxiliary are usually contracted to yield the
+following forms.
+(38)(39)(Panfilov 1965:124)
+-aaneḑ1
+<V-ḑ
+ha-nә-ḑ
+-aaira
+< V-ḑ ha-i-ra
+-aari
+< V-ḑ ha-ri
+-aajaqana
+< V-ḑ ha-jaqana
+- ara
+< V-ḑ ha-ra""s.o. probably does""
+""s.o. surely does""
+""s.o. does indeed""
+""s.o. obviously does""
+""s.o. apparently does""(Panfilov 1965:124)
+әtәk
+p fa-no- aira
+father come-FUT-surely
+""surely father will come""The last slot in a Nivkh verb form is occupied by mood suffixes, scalar operators, focus
+suffixes or converb suffixes, which are all mutually exclusive. Mood suffixes are presen­
+ted in table 1.8 (cf. Panfilov 1965:96-133; Krejnovič 1937:316; Gruzdeva 1998:34-35):INTRODUCTIONIndicative-ḑ ~ -/(A), -nt ~ -d ~ -nd (NS, ES, SS)Imperative(l>2s)
+(l>2p)Hortative( 1 > 1 d) -nәte (A), -nate (ES)
+(l>lp) -daPermissive(> 1 s/p) -nәkta ~ -nәxta
+(>2s)
+-gira
+(>2p)
+-girlaSubjunctive-ʁar ~ -qarOptative-ʁazo (A), -ʁaro ~ -χqjro (ES)Narrative-ʁan(a) ~ -qan(a)21IND/NML-ja~-j
+-ve ~ -be ~ -pe (A), -nave (ES)-kitle ~ - yitle ~ -xitle
+-kitla ~ -yitla""it is natural that, there is no
+doubt that""Negative
+assumption-tla/-rla (A)
+| -tlo/-rlo (ES)e.g. in apodosis after
+conditional converb -ŋanPreventive(>2s)
+(>2p)-jra ~ -nәra
+-jtlaTABLE 1.8: Nivkh mood suffixes
+The function of the narrative is quite obscure. It is frequently encountered in the opening
+lines of narrative discourse (see Gruzdeva 1998:33).
+(40)(Panfilov 1965:116)
+imy
+tәf-lәt-jaqan
+3p
+house-make-NAR
+""they built a house""Note that the person of the actor is not marked on most mood forms, i.e. finite verbs. The
+most commonly occurring verb form ends in -ḑ, traditionally called indicative. The suf­
+fix is a nominalizer in origin, and the indicative form is characterized by both nominal
+and verbal properties. To the left of the suffix, any verbal suffix may appear. To the
+right, the ḑ-form can inflect for the full nominal paradigm. It is used as the predicate
+form of a complement or adjunct clause.
+(41)(Krejnovič 1979:308)
+ñi
+iñ-ḑ-roxp're-ḑIsCOme-IND/NMLeat-IND/NML-ALL""I came to eat""22DEPENDENT-HEAD SYNTHESIS IN NIVKH(42)(Otaina 1978:72)
+p-rәf-p'i-ḑ-yu
+sәk
+morqa-ḑ-yu
+REFL-house-be_in-lND/NML-PL all
+alive-lND/NML-PL
+""those who stayed in their houses are all alive""As the predicate form of a matrix or complement clause, the ḑ-form is never casemarked; however, a restricted set of scalar operators, focus or modal suffixes (as in table
+1.9) may be attached.
+number
+scalar
+operatorfocus
+(on
+matrix
+predicate
+only)modal-yuplural (on matrix predicate only)-ri""even""-әvr""maybe""-ar ~ -er ~ -aʁr (~ -ar ~ -aqr)""even"" (on complement of evaluative verbs)-lu""be it""-laverum focus-ñaquestion word focus-ata, -ara""Q exactly""-rahighlighting-ñihere & now focus-rej ~ -vej""nevertheless""-forirreal apodosis-furuhearsay marker-ā~ -ō~ -ēexclamatory
+TABLE 1.9: Suffixes on the 4-formBesides by mood suffixes, the last position of a Nivkh verb form may alternatively be
+occupied by a scalar operator or focus suffix attaching to the verb stem (see table 1.10).
+They are distinguished from mood here because they are identical in form to suffixes of
+the nominal paradigm.
+Note that question and highlighting focus markers are attached to both the verb
+stem and the finite ḑ-form. The difference in semantics is not easy to pinpoint (cf. Krejnovič 1979:315).","[30, 31, 32, 33]"
+"306DEPENDENT-HEAD SYNTHESIS IN NIVKHKing, Duane Harold 1975. A Grammar and Dictionary of the Cherokee Language. Ann
+Arbor: UMI.
+Kinkade, M. Dale. 1983. ""Salish evidence against the universality of 'noun' and 'verb'"".
+Lingua 60. 25-39.
+Klausenburger, Jürgen. 1974. ""Rule inversion, opacity, conspiracies: French liaison and
+elision"". Lingua 34. 167-169.
+König, Ekkehard. 1991. The meaning of focus particles. London: Routledge.
+Korsakov, G.M. 1939. ""Inkorporirovanie v paleoaziatskix i severo-amerikanskix indejskix jazykax [Incorporation in Paleosiberian and North American Indian lan­
+guages]"". Sovetskij Sever [Soviet North] 4. 27-51.
+Kozinsky, Isaac S. & Vladimir P. Nedjalkov & Maria S. Polinskaja 1988. ""Antipassive
+in Chukchi: oblique object, object incorporation, z e r o ' object"". Passive and
+voice, Masayoshi Shibatani (ed). 1988. Amsterdam: Benjamins. 651-706.
+Krejnovic, E.A. 1934. ""Nivxskij (giljackij)jazyk [The Nivkh (Gilyak) language]"". Jazyki i pis'mennost' narodov Severa III [Languages and writing of the peoples of
+the North], E.A. Krejnovic (ed). 1934. [= Trudy po Lingvistike 3]. Leningrad:
+Instituta Narodov Severa. 181-222.
+1937. Fonetika nivxskogo (giljackogo) jazyka [Nivkh phonetics]. [= Trudy po
+Lingvistike 5]. Moscow, Leningrad: Institut Narodov Severa. 1-102.
+1955. ""Giljacko-tunguso-man'czurskie jazykovye paralleli [Gilyak-ManchuTungusic language parallels]"". Doklady i soobscenija Instituta Jazykoznanija
+AN SSSR [Reports and newsletter of the Institute of Linguistics, Moscow] 8.
+135-167.
+1958. ""Ob inkorporirovanii v nixvskom jazyke [Incorporation in Nivkh]"". VJa
+7:6.21-33.
+1960. ""Vyraženie prostranstvennoj orientacii v nivxskom jazyke (k istorii orientacii v prostranstve) [The expression of spatial orientation in Gilyak (toward a
+history of orientation in space)]"". VJa 9:1. 78-89.
+1966. ""Ob inkorporirovanii i primykanii v nixvskom jazyke [Incorporation and
+concatenation in Nivkh]"". VJa 15:3. 33-51.
+1973. ""O deepricastii v nivxskom jazyke [Converbs in Nivkh]"". Voprosy nemeckoj dialektologii i istorii nemeckogo jazyka [Questions of German dialecto­
+logy and language history]. Omsk: Ministry of Education RSFSR.
+1976. ""O sposobax dejstvija v glagole nivxskogo jazyka"" [Modes of action in
+the Nivkh verb]. Jazyki i toponimija (Tomsk) 1. 141-151.
+1979. ""Nivxskij jazyk [Nivkh]"". Jazyki Azii i Afriki [Asian and African lan­
+guages], Vol. III. Moscow: Nauka. 295-329.
+1983. ""Ob odnoj unikal'noj konstrukcii sloznopodcinennogo predloženija v
+nivxskom jazyke [A unique construction of the complex sentence in Nivkh]"".
+Voprosy leksiki i grammatikijazykov narodov Krajnego Severa SSSR [Questions
+on lexicon and grammar of the languages of Soviet Northern peoples], Ju.A.
+Sem and A.I. Gamilov. 1983. Leningrad: LGPI, Ministerstvo prosvescenija
+RSFSR. 105-116.","[316, 317]"
+"These findings should serve to remove any reservations about the wordhood of Nivkh
+complexes.
+Having studied different cases of complex nouns cross-linguistically, we have
+found two basic types: (i) languages which form complex nouns with a chain of deriva­
+tional or inflectional morphemes, and (ii) languages which form complex nouns by con­
+catenation of lexical roots. This classification fits the picture of polysynthesis well,
+where we observed a type which chains affixes and a type which coalesces lexical roots
+(see chapter 7). The existence of complex nouns does not necessarily presuppose a polysynthetic language, as Sanskrit and German show.
+Here we will again take up the question posed at the end of chapter 8: How are
+such noun complexes to be interpreted in linguistic theory? Is there such a thing as a polysynthetic noun? The complex nouns in all the languages we have presented at least ex­
+hibit the principle of head marking in the sense of Nichols (1986).
+Looking at the situation from the perspective of the concept of polysynthesis, we
+find that while the ideas about polysynthetic verb complexes are fairly congruent, there
+is no unanimity as to what nominais should look like in polysynthetic languages.
+Mithun, working on Native American languages, points out that nouns are for the most
+part not inflected for number, gender, or case, and that there are no obligatory NPs or
+number agreement (1988:443, 444). Baker, restricting the domain of polysynthesis to a
+phenomenon consisting, roughly, of polypersonalism and incorporation (and thereby ex­
+cluding languages such as Greenlandic; 1996:18-20), adds that word order is free and
+that there are no true quantifiers or determiners in polysynthetic languages. Nichols
+(1986:105) explicitly states that ""there are no polysynthetic nouns"", relegating complex
+noun forms in languages like Eskimo, Algonquian, Sioux, and Iroquoian to word forma­
+tion. She also considers the ""adjective-noun"" relation to be ""least prone to be headmarked"" (1986:76). As a quintessence, the noun in a polysynthetic language leads a life
+in the shadow of the highly complex verb form due to its presumed simplicity. As we
+have seen in the last two chapters, however, nouns need not be that simple, as evidenced
+e.g. by Greenlandic, Tariana, Chukchi, and Wichita.
+The only authors who allow for such complex nouns in polysynthetic languages
+are Fortescue and Aikhenvald. Fortescue (1994:2601) includes, in his catalogue for the
+identification of polysynthesis, criteria such as the incorporation of an adjectival stem
+into a noun and the marking of the possessor on a noun, which correspond to the features
+observed in this chapter. This different viewpoint is understandable when taking into
+account that Fortescue has Eskimo in mind. Aikhenvald (1999) explicitly describes the
+structure of the complex noun form in Tariana as polysynthetic, as we saw above,
+without discussing the theoretical implications of this claim.",[281]
+"Object-verb synthesis and the integration of adverbial and modal elements such as we
+have observed in Nivkh in the last three chapters are found in polysynthetic languages in
+the conception fostered by Boas (191 la:74-75). Thus it is worthwhile to examine whe­
+ther Nivkh fulfills any further polysynthesis criteria.
+Polysynthesis is known from languages of North, Meso-, and Lowland South
+America, Australia (Bininj Gun-wok (Gunwinjguan), Tiwi (Non-Pama-Nyungan)),
+Siberia (Chukchi and Koryak (Chukcho-Kamchadal), Ket), Munda languages (So:ra,
+Gorum) and also from Papua New Guinea (Yimas, Awtuw). Although there is no en­
+compassing definition of polysynthesis to date, a set of criteria may be compiled from all
+the conditions which have been adduced by different scholars for different types of poly­
+synthetic languages (Mithun 1988, Fortescue 1994, Drossard 1997), according to which
+a polysynthetic language is basically characterized by:
+(i)
+'word-sentences' (holophrasis), i.e. complex word forms which translate as
+whole sentences into other languages as they comprise the encoding of a predi­
+cate's arguments (polypersonalism), adverbial concepts, what would be auxilia­
+ries in more analytic languages, and optionally noun incorporation,
+(ii)
+complex verb forms featuring a high number of morphemes or potential slots
+per word, and
+(iii)
+the prominent role of morphology due to the existence of a fair amount of nonroot bound morphemes with rather concrete ('lexical') meanings, and a signifi­
+cant entanglement of derivation and inflection.
+Not all of these criteria must be fulfilled for a language to be considered polysynthetic,
+but the questions of which parameters are essential or how many of them must be ful­
+filled in which combination is usually not discussed in the literature. An exception is
+Drossard (1997:253), who postulates as a minimal condition that a language must inte­
+grate adverbial material in a bound form within the verb form in order to be counted as
+polysynthetic, even without polypersonalism or the integration of nominals (via noun in­
+corporation or denominal verbs). This condition seems to be designed too broadly in
+view of the fact that languages possessing preverbs,. such as German, Russian, or South
+Caucasian, also fulfill it but are otherwise not convincing polysynthetic languages. Com­
+pare some examples:NIVKH - A POLYSYNTHETIC LANGUAGE ?","[213, 214]"
+"(37)(Panfilov 1965:112)
+N-V-NML-V
+әtәk
+aqr-pi-ḑ-ama-ja!
+father downriver_space-be_in-lND/NML-watch-lMP. s
+""look, father is downriver""213All aspects of complexity of a Nivkh verb form and all parameters of polysynthesis
+tested so far lead us back to the original structural principle in Nivkh, namely dependenthead synthesis. It is from the dependent-head synthesis of lexical morphemes that Nivkh
+draws its complexity, and this principle is actually superordinate to aspects of incorpora­
+tion and polysynthesis.
+7.4
+Role of morphology
+Morphology plays a more prominent role in polysynthetic languages than syntagmatic
+rules on the clause level, as word forms are highly complex and encode syntactic rela­
+tions within them. From a syntagmatic perspective, however, these word forms tend to
+be controlled by pragmatics rather than by syntax. This is especially true of languages
+like Cayuga in which, except for particles and some simplex 'nouns', all word forms are
+predicative (cf. Sasse 1993:203-204), and their interrelations in discourse entities which
+are translated as sentences into English are clause-like, not constituent-like.
+Polysynthetic languages, e.g. in the Americas, are head-marking (in the sense of
+Nichols 1986), contain a rich inventory of non-root bound morphemes, such as Greenlandic (Eskimo; see Fortescue 1980), Klamath (see Barker 1964), Slave (Athapaskan;
+see Rice 1989), Tarasco (see Foster 1969), Capanawa (Panoan; see Loos 1999 ms.).
+These affixes tend to have fairly concrete meanings, represented by lexical morphemes
+in more analytic languages (compare e.g. the semantics of the Greenlandic suffixes,
+Fortescue 1980:274-278; see (66) of chapter 6.4 and table 9.1 of chapter 9.1). Further­
+more, the already weak distinction between derivational and inflectional morphology in
+polysynthetic languages is further blurred by the fact that obligatory categories are
+marked closer to the root than derivational ones (Fortescue 1994:2601).
+Nivkh is a head-marking language, in line with Fortescue's postulation about
+polysynthetic languages (1994:2601, point (i)), but not a non-configurational one. The
+asymmetry between the free subject constituent and the synthesizing object, together
+with the fact that undergoer marking is obligatory and that the non-discontinuous objectverb-complex is permuted, questioned and substituted as a whole (see chapter 3.8), are
+good arguments in favor of the existence of a VP and of configurationality. Configurationality contradicts Fortescue's postulation (h) (1994:2601), but as the combination of214DEPENDENT-HEAD SYNTHESIS IN NIVKHhead-marking and configurationality is obviously rare cross-linguistically1 (cf. Van Valin 1985:406 vs. 1987:380), it is conspicuous in itself, not only in relation to polysynthesis.
+Interestingly, Nivkh exhibits exactly (see chapters 2, 3.8, 4.1) the ""productive
+morphophonemic processes resulting in several allomorphs (phonological shapes) for
+both lexical stems and bound morphemes"", Fortescue's criterion (g) for polysynthesis
+traits (1994:2601; cf. also Mithun 1988:442). In this, Nivkh resembles, for instance,
+Greenlandic.
+As opposed to languages such as Greenlandic and Klamath, Nivkh has a compa­
+ratively small set of non-root bound morphemes, viz. for aspectoid (seven suffixes), de­
+gree (three suffixes), modality (eleven suffixes), scalar and focal (at least seven suffixes
+on the verb root), as well as numeral (five suffixes) and locational categories (twelve
+morphemes), but these affixes do fulfill the criterion of having a ""fairly concrete
+meaning"" (cf. chapters 1.3.4, 6.4). Besides, they outnumber the corresponding category
+of suffixes in Chukchi, see chapter 10.2.1.
+An entanglement of derivation and inflection in Nivkh is due in part to the suffix
+-ḑ. This suffix is basically found in three contexts:
+(i)
+on predicative verb forms ('indicative');
+(ii)
+for the nominalization of verbs, both for the productive formation of comple­
+ment forms and as lexicalized nouns; and
+(iii)
+on deictic roots, forming lexicalized demonstratives, and on personal pronouns,
+forming possessive pronouns.
+The use of the indicative ḑ -form as the most common matrix predicate form is wellknown to us by now. Turning to point (ii), clausal complements are exemplified in (114)
+- (122) of chapter 4.3 and in (39) - (40) of chapter 8.4 in the subject and undergoer func­
+tions. Here is a peripheral one:
+(38)(Panfilov 1965:112)
+ni
+fi
+ñ-morqa-u-ḑ-roxfxuz-na-ḑl-raIsreward-FUT-IND/NML-HILI2slsU-live-TR-IND/NML-ALL""I'll reward you for reanimating me'
+The verbal nominalized form is formed fully productively and is systematically ambi­
+guous to the 'indicative' ḑ-form. The ḑ-form of a verb is compatible with all nominal in­
+flection if used as an argument or adverbial.In the predicate position of a matrix or com­
+plement clause, however, the inflectional potential is restricted to the suffixes listed in
+table 1.9 of chapter 1.3.4, while additional non-nominal suffixes are possible on matrix
+forms.","[224, 225]"
+"168DEPENDENT-HEAD SYNTHESIS IN NIVKHSecondary objects (the patient of ditransitive verbs) are free constituents which are never
+marked on the verb.
+The undergoer-verb complex may be dissolved under certain syntactic condi­
+tions. The lexico-morphological status of a noun, however, does not cause such a disso­
+lution: noun roots inflected for number, scalar operator, or relational morpheme (but ne­
+ver for case or focus) synthesize to their governing verb, as do proper names, non-singu­
+lar personal, demonstrative and interrogative pronouns, and nominalizations.
+If two or more undergoers are coordinated, each one bears the associative mar­
+ker and the last item synthesizes to its governing verb; all others are phonological words
+outside (and preceding) the complex.
+If the undergoer is topicalized, dislocated, or focused or if any other constituent
+is focused, the undergoer-verb complex is dissolved, i.e. the undergoer appears in the
+clause-initial position while a prefix takes its place on the verb. Any focused constituent
+other than the undergoer is found in the immediate pre-verbal position. Complex dissolu­
+tion also occurs under resultative or reciprocal formation or under the demotion of a par­
+ticipant of a ditransitive verb.
+Demotion of the primary object does not lead to the promotion of another parti­
+cipant, however. Instead, the undergoer prefix is found on the verb. Demotion of or re­
+sultative formation to the secondary object does not change relations otherwise.
+Thus, the dissolution of a complex is a systematic mechanism occurring under
+well-defined syntactic and pragmatic conditions, and not an arbitrary or a sheer surface
+phenomenon, as Panfilov believed (1960a, 1966). The question of whether Nivkh nounverb-synthesization constitutes a case of noun incorporation will be tackled in the
+following chapter.","[178, 179]"
+"According to a by now well-known principle, only the rightmost conjunct of coordinated
+modifiers is integrated into a nominal complex. This is true for both coordinated verbal
+attributes (without coordination marking) and nominal attributes (in the associative; see
+the discussion in chapter 3.8.3).
+(123)
+ES(Krejnovic 1937:28)
+pila
+hәta-fi-n-taf-ñař-tox
+bigmiddle-be_in-PTCL-house-one_CLF-ALL
+""to the one big house in the middle""(124)
+ES(Krejnovic 1937:30)
+waʁŋ-urlaŋ-tfuz-vara
+Kargin-ḑoŋqř
+plane-good-shaft-similar K.-head/pigtailŋaʁri-meqř-tayř
+shoulder-two_CLF-betweenal-ŋan
+reach-cv:when
+""when Kargin's pigtail, looking like a well-planed down shaft of an
+arrow, reached down between his shoulders ...""
+8.9
+Conclusion
+As the preceding sections have shown, there is a nominal complex in Nivkh which
+parallels the verbal complex. The general principle for the noun complex structure, ana­
+logous to the verb complex, is that adjacent elements in a dependent-head relation syn­
+thesize; thus the Nivkh noun is head-marked as well. The nominal complex may contain
+determiners, possessors, different kinds of attributes (nominal, verbal, quantificational),
+and relational morphemes. Again, possessors and attributes may be roots, but may also248DEPENDENT-HEAD SYNTHESIS IN NIVKHbe inflected for all categories except case, focus, mood or converb.
+Moreover, the synthesizing non-head elements may be proper names, personal,
+demonstrative or interrogative pronouns, or interrogative verbs. Excluded from integra­
+tion into the complex are adverbial material and non-last coordinated elements.
+It is important to note that synthesization in the nominal complex is absolutely
+parallel to synthesization in the verbal complex, subject to the same morphophonological
+rules. Therefore, if we accept the existence of a verbal complex, with its similarities to
+noun incorporation, we have to accept the existence of a nominal complex as well. This
+principle is also stressed by Krejnovic (1934, 1937). With determiners, possessors, and
+attributes being integrated into a single nominal complex, the whole complex contains
+components which form noun phrases in other languages. We may thus say that the com­
+plexes resulting from dependent-head synthesis in Nivkh, both verbal and nominal, cor­
+respond to phrases in more analytic languages and are 'word-phrases' in that sense.
+If the Nivkh verb complex is thought to be polysynthetic, however, and the
+Nivkh noun complex parallels it in complexity and in evidence for wordhood, are we
+then dealing with polysynthetic nouns in Nivkh? We will concern ourselves with this
+question in the next chapter after studying complex noun word forms in a preliminary
+cross-linguistic overview.","[258, 259]"
+"CHAPTER 1
+INTRODUCTION1.1
+The aim of this study
+Determining which morphological type a language exhibits does not seem to pose too
+many difficulties, especially as the catalogue of types is a fairly fixed and widely agreed
+upon entity in linguistics. Nevertheless, languages may, upon closer examination,
+challenge the established order in that they manifest a synthetic organization of a quality
+not covered by the traditional types of isolating, agglutinating, fusional, root-inflecting,
+and polysynthetic languages.
+One such language is Nivkh (also known as Gilyak), which stands out from
+other languages because of its highly complex word forms of both verbs and nouns.
+They are formed from the fully-productive and ad hoc concatenation of lexical roots
+which stand in fixed relationships of dependent and head (in the sense of Nichols 1986)
+to each other. These complex word forms represent either the most common or even the
+only way of encoding the syntactic relations of undergoer / verb and modifier / noun or
+verb, in the absence of any morphology specifying the precise kind of the relation within
+a complex form.
+There are various morphological synthesis phenomena in linguistics - one or
+more of which Nivkh could instantiate - viz. noun incorporation, a construction type
+concatenating noun and verb, as has been described by Sapir (1911), Mithun (1984,
+1994), Baker (1988,1996), Rosen (1989), de Reuse (1994b), and Gerdts (1996) (to name
+only the broadest approaches). Furthermore there are verb root serialization (the
+concatenation of more than one verb root in one verbal word form; Bisang 1995), and
+polysynthesis (Mithun 1988, Fortescue 1994, Baker 1996, Drossard 1997), which both
+lead to complex word forms. Noun incorporation and verb root serialization, however,
+focus on single domains of morphosyntax, whereas in Nivkh, one single principle domi­
+nates the whole of morphosyntax. Polysynthesis is an organizational principle which en­
+compasses a larger area of morphosyntax, but which comprises a range of heterogeneous
+phenomena such as polypersonalism, noun incorporation, verb root serialization, deriva­
+tion, and affixation.
+In contrast to this, a single homogeneous structural principle is active in Nivkh.
+This principle consists of a systematic and consistent synthesis of heads and their
+dependents under adjacency in the order dependent-head, both for modifier and modified
+and for governee and governor, and leads to the complex word forms characteristic of
+Nivkh.
+To my knowledge, such a structural principle of dependent-head synthesis has
+not been described for any language heretofore, although any other languages which
+could be adequately described by such a principle are of great typological interest. The
+principle will be studied here by analyzing Nivkh construction types in detail, and its2DEPENDENT-HEAD SYNTHESIS IN NIVKHaffinity to noun incorporation, verb root serialization and different types of polysynthesis, for which this study furnishes a systematization, will be discussed.
+Since not only verb forms but also noun forms manifest a complex structure in
+Nivkh, they will be compared to complex noun structures in a range of (mostly polysynthetic) languages. The classification of complex noun structures observed in the context
+of different polysynthetic structures opens up a new perspective on the morphological
+organization of languages, in particular an overall uniform formation principle domina­
+ting several polysynthetic languages which has so far not been acknowledged in the ap­
+proaches to polysynthesis. My study concludes with an assessment of the status of the
+principle within morphology.
+The study is organized as follows: Chapter 1 furnishes an overview of the Nivkh
+people and introduces an outline of Nivkh grammar, including the four basic moldings
+of dependent-head synthesis, viz. the noun + verb, noun + noun, verb + noun, and verb
++ verb complexes, with which we will deal throughout this study. Chapter 2 gives a de­
+tailed account of Nivkh morphophonemics, which dominate the morphosyntax of the
+language and are instrumental in the identification of complexes. This prepares the way
+for Chapter 3, which addresses the phonotactic, accentual, morphophonemic, morpholo­
+gical, and psychological evidence for the wordhood of the different Nivkh complexes.
+Chapter 4 is dedicated to the structure and use of the noun + verb complex; Chapter 5
+examines its affinities to noun incorporation. Chapter 6 deals with the verb + verb com­
+plex in Nivkh as an example of verb root serialization. Chapter 7 discusses the question
+of whether Nivkh exhibits polysynthesis on the basis of the findings of Chapters 4
+through 6. Chapter 8 is concerned with the structure and use of the nominal complex
+(noun + noun and verb + noun complexes) in Nivkh, and Chapter 9 contains a crosslinguistic study of complex noun forms, helping to assess the Nivkh phenomenon. The
+final chapter presents a summary of the morphosyntactic structure of Nivkh, an attempt
+at a typology of polysynthesis and an interpretation of the dependent-head synthesis in
+Nivkh in light of this typology.
+1.2
+The Nivkh
+The term Ñivx, 'Nivkh' in Russian transcription, is the autonym for the Nivkh people
+and their language. Both are also known by the xenonym 'Gilyak'.
+The Nivkh live in Far East Asia in the territory of the Russian Federation. They
+reside in non-compact settlements of mixed ethnic populations in the Lower Amur basin,
+along the estuary north and south of the mouth of the Amur river, and on the north, west
+and east coasts of the offshore island of Sakhalin with a small settlement in Poronaisk.
+Historically, their habitation also extended into some central parts of Sakhalin (Wurm et
+al. 1996: Map 115).
+According to the 1989 census, 1,079 of 4,631 ethnic Nivkh, i.e. 23,3%, consi­
+dered Nivkh to be their native language (Itogi 1990). For the Khabarovsk kray, which
+comprises the Amur region, the number of ethnic Nivkh is given as 2,386, of which 544
+declared themselves to be speakers of Nivkh (22,8%; Itogi 1990). On Sakhalin, 447 of
+2,008 ethnic Nivkh (22,3%) considered Nivkh their mother tongue (de Graaf 1992:196).","[11, 12, 13]"
+"The example forms show that -mas- attaches to the -/-stem (or root of vocalic verbs) to
+yield a parallel construction to verb root serialization, with the i being an epenthetic
+vowel on consonantic verb roots which brings about the open syllable form characte­
+ristic of Japanese. Modality, converb suffixes and serialized roots are attached to this -istem. The non-past tense suffix -u following -mas- comes from the verbal paradigm, and
+is also triggered by the (non-extant) source verb. The negational suffix, on the other
+hand, follows the -a-stem, to which suffixes for the causative, passive, and irrealis are
+attached (which gives rise to my term 'non-control stem'). It triggers the adjectival nonpast suffix, as does its (still extant) source. If negation and honorative are to be com­
+bined, however, -mas- triggers the special negational suffix -en, which does not occur in
+any other context. Thus, there is evidence for a grammaticalization out of a verb root se­
+rial construction in Japanese.
+In Japanese, we also encounter full verbs in the second verb root position in se­
+rialization which both recur in lexicalized formations and have been grammaticalized,
+parallel to Nivkh -jiki-, e.g. kakeru ""attach"" and dasu ""take out"". In the example below,
+they are combined with hanasu ""speak"" and warau ""laugh"".
+(64)Japanese
+phase verb (grammaticalized)
+hanasi-kakeru ""begin to speak""
+warai-dasu
+""start laughing""lexicalized
+hanasi-kakeru
+warai-dasu""address s.o.""
+""burst out laughing""Compare also Ainu:
+(65)Ainu (Tamura 2000:195)
+i-pe-rusuy
+sth.-eat-want
+""be hungry""In Greenlandic, polar, modal, aspectual, and adverbial morphology are integrated into
+the polysynthetic verb form in the form of optional suffixes. The morphemes number in
+the hundreds and have quite concrete meanings, but a lexical source cannot be recon­
+structed for them (see Fortescue 1992a:245). Here are some suffixes, including the se­
+mantic domains Nivkh expresses with verb root serialization and modals:THE VERB + VERB COMPLEX(66)Greenlandic
+-nngit-juit-niar-niinnar-sinnaa-siriar-llaqqig-199(Fortescue 1980:274-278)
+""not""
+-juma""want to""
+""cannot, never""
+-rusug""would like to""
+""try""
+-sariaqar""must""
+""try at all costs""
+-gasuar""quickly""
+""can""
+-lluar""well, a lot""
+""be easy to""
+-jurtur""one after another""
+""be good at""
+-galuar- (contrary to expectance)In light of these phenomena, we imagine that Nivkh modals started out as second roots
+in a serial root construction, lost connection to their sources to different degrees (we do
+not know how old the different modals are) and underwent further changes until some
+reached a state comparable to the Greenlandic non-root bound morphemes. The greatest
+formal change has occurred in -yzu-, the negative experiential and negative habitual. It
+has lost phonological substance and become bound in comparison to its source verb
+j-әyzu-a1 ""s.o. ignores sth."", and it has developed its own allomorphy -yzu- ~ -ksu- ~ -xsu(in line with the usual consonant alternation and parallel to the completive -yet-, for
+example).
+In terms of semantics, there is a change from jdyzua1 ""ignore"" via ""not know how
+to V"" (with a verbal complement) to Negative Experiential (""never have V-ed"") and fi­
+nally to Negative Habitual. In East Sakhalin, it is even close to a simple negation marker.
+Compare the following examples illustrating the different meanings:
+(67)(Panfilov 1965:71)
+hd-ñivx
+p-otíla-syzu-yet-ra
+that-person
+REFL-child-ignore-CPL-HlLl
+""he did not know his child at all""
+full verb: jәyzuḑ ~ -әyzuḑ ""s.o. does not know sth.""","[209, 210]"
+"170DEPENDENT-HEAD SYNTHESIS IN NIVKHLanguages with what are traditionally called 'lexical affixes' attach non-root bound mor­
+phemes to the verb conveying meanings translated as nouns or adverbials in European
+languages, but having no synchronic relation to nouns in the language in question. Salish
+and Wakashan languages are two examples.
+(3)Spokane
+(Salish; Carlson 1972)
+lexical affix
+-e ïxw ""house, skin, hide, shell, blanket""
+-etkw ""water""
+séwikɬíɬ
+-éɬce? ""meat body, animal, inside of body""free form
+citxw
+qel""house""
+""water""
+""body""Finally, denominal verbs are derived from lexical nouns with verbalizers, i.e. non-root
+bound morphemes without any relation to free-standing verbs (cf. Gerdts 1996:97). Such
+denominal verbs are found in Greenlandic (Eskimo; Sadock 1985, Fortescue 1984),
+Kwakwala (Wakashan; Boas 1911c), Abkhaz (North-West Caucasian; Hewitt 1989), Ja­
+panese (Martin 1988), etc. In the examples below, all morphemes glossed with verbs are
+verbalizers, not free verbs.
+(4)
+a.b.denominal verbs
+Greenlandic
+(Fortescue 1984:320-324)
+nuna-kkuminar-puq
+(land-live_well-lND:3s) ""it is a good land to live in""
+savi-irsir-puq
+(knife-lose-lND:3s)
+""he lost a knife""
+nannu-p-puq
+(bear-hunt_down-lND:3s) ""he caught a bear""
+Japanese
+(Martin 1988:282-286)
+kanemoti-bur-u (rich_person-pose_as-NPST) ""s.o. plays the rich man""
+otona-bir-u
+(adult-become_like-NPST) ""s.o. shows signs of precocity""In a number of languages, denominal verbs occur in addition to incorporation: Hupa
+(Athapaskan; Goddard 1911), Panare (Cariban; Payne 1995), So:ra (Munda; Steever
+1986:273) and Chukchi (Chukcho-Kamchadal; Kämpfe/Volodin 1995). They are present
+in Nivkh, as well (see chapter 1.3.6), formed e.g. with the verbalizers -varkf ""sth. con­
+tains sth. exclusively"", -varaḑ ""sth. is similar to N"", -valaḑ ""sth. is N-colored"", -ʁfavrg
+""sth. is N-less"", and -etţ ""N begins"", which are not or no longer free verbs.
+In distinction to noun incorporation, the three other phenomena either do not
+have morphological N+V units or do not combine both a lexical noun and verb form.
+A fifth phenomenon which is not clearly delimited from noun stripping in
+Gerdts (1996:99), Mardirussian (1975), and Mithun (1984), is differential object mar­
+king (cf. Lazard 1984), as in Turkish, Finnish, etc. In these languages, the direct object
+is marked in two different ways depending on its animacy, definiteness or referential
+status, or on the verb class, tense or aspect of the governing verb. This is the case in Tur­
+kish with accusative or without case marking (Dede 1986) and in Finnish with accusa­
+tive or partitive case (Chesterman 1991). The non-case-marked (and non-coalescing
+though adjacent) direct object in Turkish differs from noun stripping, as it occurs in'NOUN INCORPORATION IN NIVKH ?","[180, 181, 182]"
+"Non-root bound morphemes with 'quite lexical meaning' are understood to be affixes
+with meanings which would be expressed by independent forms, especially lexical roots,
+in more analytic languages. Polypersonalism, in conjunction with the discussion in chap­
+ter 7.1 and in line with Boas (1911a) and Drossard (1997), is not considered a necessary
+condition here. A language with TAM, polarity markers, polypersonalism and valencerelated morphology on the verb is not considered polysynthetic if no other categories
+from the catalogue can be marked on the verb.
+When examining languages which fulfill these criteria we observe that quite dif­
+ferent sets of criteria apply out of the pool of ingredients and that the categories in (3),
+such as central participants, instrument, quantification, location/direction/motion, moda­
+lity, manner, chronology, and phase, may be encoded in basically two different forms:
+either as lexical morphemes, which are understood to be roots, i.e. forming word forms
+on their own outside of a larger complex, or as non-root bound morphemes. Participants
+(except person marking), classifiers, instruments, and location encoded by non-root
+bound morphemes on a lexical verb root are usually termed 'lexical affixes' or 'fieldaffixes'.
+Lexical morphemes, depending on the number of lexical categories that are di­
+stinguished in a language, may be nominal, verbal, adjectival stems, adverbs or even adpositions. In most of the languages in question, however, only noun and verb roots seem
+to be involved. The morphological and phonological integration of a (lexical) noun root
+into a verb complex then is known as noun incorporation (cf. Gerdts 1996). The morpho­
+logical and phonological integration of an additional verb root into a verb complex cor­
+responds to verb root serialization (see Bisang 1995).
+At this point, it is important that an essential distinction be drawn. Noun incor­
+poration and verb root serialization are phenomena which are independent of one
+another and of poly synthesis. Languages that have either
+(i)
+noun incorporation alone (e.g. Danish, Dutch and Frisian (Weggelaar 1986)) or
+(ii)
+verb root serialization alone (e.g. Yamphu (Kiranti; Rutgers 1998), Yuchi
+(North America; Mithun 1999:571-573))
+without further polysynthetic traits included in the above-mentioned catalogue (e.g. locational affixes) are not considered polysynthetic. Noun incorporation and verb root seria­
+lization contribute to the polysynthetic character of a language, however, and it seems
+that most noun incorporating languages are indeed polysynthetic, since non-polysynthetic noun incorporating languages are not so easy to find.
+The third possibility, languages with both noun incorporation and verb root se­
+rialization, is more difficult to decide on, as both mechanisms together lead to fairly278DEPENDENT-HEAD SYNTHESIS IN NIVKHcomplex verb forms, even leaving the additional criteria aside. Yucatec Maya, for in­
+stance, manifests noun incorporation, polypersonalism and suffixes for aspect and va­
+lence-changing categories, but quantificational, chronological or manner material seems
+to-be integrated into the verb via verb root serialization only (or possibly via adjective
+incorporation), not in the form of affixes (cf. Blair 1964:65, Bricker/Po?ot Yah/Dzul de
+Po?ot 1998). According to the criteria in (3), Yucatec is a borderline case. It lacks nonroot bound morphemes with fairly 'lexical' meaning, but verb root serialization may be
+considered a sort of compensation for that, as categories out of the catalogue (quantifica­
+tion, manner, chronology) are expressed this way.
+Swedish is a similar case, with noun and adjective incorporation as well as verb
+root serialization. Adjectives integrated into the verb form also express degree and chro­
+nology.
+(4)
+a.","[288, 289]"
+"THE NOUN + VERB COMPLEX(130)157(Panfilov 1965:69)
+i-viţ
+tux-kir
+xәfk'әvu-r
+lavәñ-mi-si-ḑ
+3s.P'OR-body hatchet-INS cut_asunder-CV:3s cauldron-inside-put-lND/NML
+""she cut up its body with a hatchet and put it into a cauldron""Focusing of a participant of adverbial other than the primary object is signalled either by
+putting it in the position directly in front of the predicate or by marking it with focus
+markers (in any position). If any other constituent is focused and moved to the pre-predicate position, the primary object-verb complex is dissolved. The object is moved to the
+topic position or dislocated, and the verb appears in its 3su form.
+(131) (Savel'eva/Taksami 1970:501)
+p'-otila
+maη-gu-r
+REFL-child
+strong-CST-CV:3s
+""he OVERFEEDS his child""j-ar-ḑ
+3 sU-feed-lND/NML(132) (Panfilov 1965:75)
+ñeη-un
+tef-ku
+ţir-kir
+lәt-t'a-ḑ-yu
+lp.excl-LOC
+house-PL
+wood-INS
+make-HAB-IND/NML-PL
+""here (at our place), we build houses with WOOD""
+Focusing is also achieved by attaching focus suffixes (see table 1.5 of chapter 1.3.1) to
+the participant in question:
+(133) (Panfilov 1965:91)
+ñ-ηafq
+ls.P'OR-comrade
+tә-plakat
+that-billaη
+whop'rә-r
+come-CV:3sj-oţţ
+3sU-ask-lND/NMLlәt-řum-ḑ-ηa?
+make-RES-IND/NML-Qñi
+Isηafq-a
+comrade-VOCe-rx
+it-ţ.
+3s-ALL say-lND/NMLñi-ra plakat-lat-p
+ls-HlLl bill-make-lND/NML
+""my comrade came and asked: comrade, that bill, who made it? I told
+him: I made it""
+If the primary object itself is to be focused, it has to be marked with focus suffixes and
+is usually moved to the clause-initial position.
+(134) (Krejnovic 1934:200, Savel'eva/Taksami 1970:146)
+tux-qa
+ţ
+i
+ye-l? ţaqo-ʁa?
+hatchet-IQY
+2s
+take-Q knife-IQY
+""did you take the HATCHET? and the KNIFE?""
+yea1 ~ -yea1 ~ -keḑ ~ -geḑ ""s.o. takes, buys sth.""","[167, 168]"
+"DEPENDENT-HEAD SYNTHESIS IN NIVKHclassifier as attribute
+(Savel'eva/Taksami 1970:200, Panfilov 1962:250)
+mxoŋ-Gan (ten_CLF-dog) ""ten dogs"" (qanŋ ~ -qanŋ ~ -ḑanŋ ~ -Ganŋ ""dog"")
+hә-claqr-ñivx (that-three_general.CLF-person) ""those three people""
+(ţaqr ""three human beings"")Non-numeral quantifiers are more often than not encountered outside a complex as copredicates; once in a while, however, they may be found synthesizing to a noun as attri­
+bute or head (after the model of classifiers).
+(32)(Panfilov 1965:86)
+huin
+sәk-ru-yu
+veu-ḑ
+there all-lake-PL
+deep-lND/NML
+""all the lakes there are deep""
+tu ~ -tu ~ -ru~ -du ""lake""(33)(Panfilov 1965:149)
+v-әkәn
+ţuz-eryali
+3s.P'OR-elder_brother
+meat-a_lotřәk-ţ
+bring_in-lND/NMLhә-antx-umgu-k'im-ḑ
+ţus-he-guin
+that-guest-woman-gi ve-lND/NML
+meat-cook-Cv:in_order_to
+""his elder brother brought in a lot of meat and gave it to the visiting
+woman for her to cook the meat""
+ţus ~ ţiz- ""meat"", řәkţ- -řәkţ~ -t'әkţ""s.o. brings sth. in"", imyḑ ~ -ximḑ
+~ -k'imḑ ""s.o. gives s.o. sth."",jeḑ ~ -heḑ ""s.o. cooks sth.""
+Interrogative pronouns questioning attributive nouns and quantifiers are themselves
+found in the attributive slot, synthesizing to a noun (see Panfilov 1962:242, 254-255).
+They may not be constructed as free forms, despite their inherent focusing.
+(34)
+(Panfilov 1962:254, Krejnovic 1934:191)
+a.
+siḑ-zif (what-track)
+""what track, track of what?""
+->
+k'eq-zif
+(fox-track)
+""a fox('s) track""
+(ţif~ -ţif- -zif~ -ḑif ""track"")
+b.
+siḑ-xu (what-missile) ""what missile?""
+-► vәţ -xu (iron-missile) ""a bullet""
+(k'u ~ -k'u ~ -xu ""missile"")
+c.
+iaijz-mu (how_many-boat) ""how many boats?"" (řags ~ řaŋz- ""how many/much"")
+8.3
+Inflection of possessor and attributive nouns
+In a noun+noun complex, the first noun may not only be in its root form, it may also be
+inflected for number and/or scalar operators, but never for case or focus, just like the
+noun in the noun+verb complex (see chapter 4.3). Nevertheless, inflection in the noun +
+noun complex very rarely occurs. Correlative-associative number is marked on two co­
+ordinated possessors or nominal attributes. The last item of a series of conjuncts synthe­
+sizes to its head with the associative suffix (a peculiarity we anticipated in chapter 3.8.3).",[239]
+"| subjectadverbialshead-marking (dependent-head synthesis) **,***
+head-marking (dependent-head synthesis) ***
+head-marking (dependent-head synthesis) *, ***
+head-marking (dependent-head synthesis) ***
+dependent-marking (converbs) **relational morpheme
+attribute
+complement clause
+attributive clause
+adverbial clauseadpositionaladjective + nounrelative
+constructionclause chaining* see chapter 4
+**
+see chapters 1.3.1, 1.3.4, 1.3.7
+***
+see chapter 8TABLE 10.1: Ranking ofNivkh constructions with respect to head markinghead-marking (dependent-head synthesis, possessor prefix) ***possessorpossessivedependentdependent-marking (case) **causee, adverbials1sentenceno marking *secondary objectphrasehead-marking (dependent-head synthesis, undergoer prefix) *| primary objectarguments /clausehead-marking (some converbs), no marking (on mood forms) **Type of morphological markingNivkh constructionConstructionLevelAdaptation to NivkhAheadFavored
+markingNichols (1986:75)TYPOLOGICAL OUTLOOK
+275276DEPENDENT-HEAD SYNTHESIS IN NIVKHNivkh fulfills a considerable number of polysynthesis criteria, viz. the integration of ma­
+terial expressing one undergoer, causative, aspectoids, tense, degree, modality, mood,
+scalar operators, focus values, manner, quantification, and location into a complex verb
+form. These categories are partly encoded by non-root bound morphemes, of which there
+is only a moderate number, and partly by dependent-head synthesis. Nivkh exhibits a
+templatic organization of the suffixal domain of the verb complex and a root-chaining
+organization to the left of the head morpheme.
+With its highly synthetic word complexes and its head-marked pattern, the
+Nivkh structure is reminiscent of polysynthesis. Still, we have not yet reached a conclu­
+sion as to whether or not Nivkh really fits into the picture of polysynthetic languages.
+10.2
+Basic structural types of polysynthesis - an attempt at a classification
+As there is no accepted definition of polysynthesis, and polysynthesis in the traditional
+sense is a 'feeling' rather than a clear-cut class, we have to compare Nivkh to the lan­
+guages which make a polysynthetic impression in a heuristic approach according to the
+parameters listed in chapter 7. In the same chapter, we already alluded to the heteroge­
+neity of such languages. It has led Fortescue to set up a first classification of different
+types of polysynthesis as follows (1994:2602)1:
+(a) pure incorporating (Chukchi, Onondaga)
+(b) recursive affixing (West Greenlandic, Yupik)
+(c) field-affixing (Atsugewa, Kalispel)
+(d) mixed 1+3 (Koyukon)
+(e) mixed 2+3 (Kwakwala)
+(f) mixed 1+2 (Nahuatl).
+Based on an examination of approximately 75 languages, we will rearrange and
+modify this classification somewhat, restricting us to verbal polysynthesis for the
+moment.2
+First, based on the catalogue of polysynthesis traits (by Mithun 1988, Fortescue 1994,
+and Drossard 1997; see chapter 7), I use the following set of formal and semantic criteria
+for polysynthesis:
+(3)
+(i)1A language is acknowledged to be polysynthetic because of
+the existence of complex, polymorphemic verb forms which allow, within one
+word unit, for components in the form of non-root bound morphemes with quite
+'lexical' meaning or optionally for the concatenation of lexical roots;The numbers 1, 2, and 3 are obviously meant to refer to the small letters (a), (b), and (c) by
+Fortescue.
+2
+In order to assess these languages, I had to rely on grammars that varied in their extent of detail.
+It may well be that the classification reached in this study will need future correction because
+relevant information on the classificatory parameters used here was misinterpreted or is not expli­
+citly or unambiguously mentioned in the grammars consulted. When there was any doubt, the
+language in question was left out of the classification.","[285, 286, 287]"
+"Welsh mutation
+lexical trigger (possessive)
+eu cath
+""their cat""
+ei gath
+""his cat""
+ei chath
+""her cat""
+fy nghath
+""my cat""b.lexical trigger (particle)
+ni
+welodd Rhodri='r
+NEG
+saw:3s Rh.=the
+""Rhodri didn't see the cat""c.syntactic trigger (modifier)
+(Ball/Müller 1992:163)
+cath
+fawr
+oedd yno,
+dewaf yn
+y
+byd
+cat
+big
+was
+there fattest in
+the
+world
+""a big cat was there, the fattest in the world""
+(mawr ""big"", tewaf ""fattest"")d.syntactic trigger (post-subject direct object)
+gwelodd
+hi
+gath
+saw:3s
+she
+cat
+""she saw the cat""(Ball/Müller 1992:1)
+/i kaθ/ (no mutation)
+/i gaθ/
+/i xaθ/
+/və
+ŋhaθ/
+(Ball/Müller 1992:128-129)
+gath
+cat
+(gwelodd ""he saw"")(Ball/Müller 1992:147)DEPENDENT-HEAD SYNTHESIS AND WORDHOOD95Finally, in Kimatuumbi (Bantu), a long vowel in a word is shortened if the word is the
+head of a phrase and followed by a constituent of the same phrase, e.g. the noun head of
+a NP followed by a modifier or determiner, the verbal head of a VP followed by a com­
+plement, or the preposition of a PP (Odden 1987).
+(45)Kimatuumbi vowel shortening (Odden 1987:15)
+kįkólombe
+ya-as¡koópų
+kįkúlú
+shell
+of-bishop
+large
+""large shell of the bishop""
+(kįkóloombe
+""shell"")The common denominator of these examples of sandhi phenomena (as they are called)
+seems to be that they are defined with respect to a word boundary (Hooper 1976:17,
+Clayton 1981, see e.g. the contributions in Andersen 1986). This introduces the first re­
+levant parameter, viz. the domain in which sandhi applies. Sandhi phenomena have been
+described in domains ranging from the word via the phrase to the sentence and even
+across sentence boundaries (such as the English linking-r, Vogel 1986).
+If we restrict sandhi to a morphophonemic process applying across a word boun­
+dary, as Ternes (1986:14-16) proposes, the identification of word boundaries must pre­
+cede the recognition of sandhi. For Nivkh this would mean that we would have to prove
+independently where the word boundaries are. The question still remains though: which
+boundaries count, the phonological word boundaries or the morphological ones?
+The original phenomenon for which the term 'sandhi' was coined in Sanskrit is
+observed both within words as well as across word boundaries, known as internal and
+external sandhi (cf. Ternes 1986:11). The actual processes consist of different pheno­
+mena such as voicing or vowel hiatus elimination, but are largely identical for internal
+and external sandhi (Bucknell 1994:5). Furthermore, the fact that identical sandhi pro­
+cesses occur both within a word and across a word boundary is not unique to Sanskrit:
+this also occurs with, for instance, the English linking-r (Vogel 1986) and Italian Gorgia
+Toscana (Nespor/Vogel 1982:238). Phenomena such as these seem to have inspired
+Basbøll's claim that the ""boundaries surrounding a non-phonologically defined word
+have no special status with respect to sandhi"" (1986:24).
+With this in mind, the status of Nivkh complexes remains hard to determine,
+since the consonant alternations in Nivkh apply, as we saw in sections 3.3 and 3.3.1, at
+inflectional boundaries, i.e. word-internally, as well. Nivkh cannot be said to lack a
+phonetic word boundary, as Ternes (1986:20) proposes for Spanish with respect to its
+voicing of any intervocalic stops. The final devoicing of fricatives and the restriction to
+initial clusters of at most two consonants establishes such a phonetic word boundary in
+Nivkh. The boundaries between the elements of complexes could thus be word-internal,
+paralleling inflection, or could be found between words. In the latter case, consonant
+alternations would be sandhi occurring both word-internally and across word bounda­
+ries, but only across 'words' without finite or case inflection and in a syntactically welldefined relation to one another. These relations roughly define domains which are
+phrases in European languages. Otherwise there are not any morphophonemic processes96DEPENDENT-HEAD SYNTHESIS IN NIVKHin Nivkh occurring in domains larger than the complex, e.g. after discourse markers,
+case-marked nouns, mood-marked verbs, converbs, between subject and predicate, or
+between adverbials and anything preceding or following them. This is worth noting if it
+is taken into account that sandhi phenomena which have been described as applying
+within phrases, e.g. Italian raddoppiamento sintattico, also occur across phrases (see
+Nespor/Vogel 1986:38-40,165-174). Suspending a conclusion for the moment, we turn
+to further parameters describing sandhi phenomena.
+A second parameter concerns the obligatoriness of morphophonemic processes.
+Both obligatory processes, such as Sanskrit sandhi, as well as register-dependent (e.g.
+English linking-r, Vogel 1986:60pp) or speech rate-dependent ones are subsumed under
+the term sandhi. One sandhi phenomenon can even be both obligatory and optional
+under different conditions, e.g. French liaison (see below) or Danish nasal alternation,
+which is obligatory on the syllabic and morphemic levels, but register-dependent on the
+utterance level (Basbøll 1986:23). In Nivkh, all morphophonemic processes are obligato­
+ry, and not dependent on the speaker or the occasion.
+Further, sandhi may be conditioned phonologically only, as in Sanskrit, where
+it applies in any syntactic constellation with only a handful of minor exceptions (see
+Bucknell 1994:4); morphologically or syntactically only (e.g. Kimatuumbi vowel shorte­
+ning of the phrasal head, Odden 1987; Welsh mutations, Ball/Müller 1992); or both pho­
+nologically and morphologically/syntactically, e.g. Italian raddoppiamento sintattico
+(Nespor/Vogel 1982). Nivkh consonant alternation is conditioned by both the phonologi­
+cal (final and initial sound constellations) and the syntactic context (undergoer-verb, at­
+tribute-noun, possessor-noun).
+Finally, whereas most sandhi processes occur under adjacency of the target and
+trigger, Welsh mutations, which are termed sandhi, occur under both adjacency and nonadjacency (syntactic triggers). With respect to this criterion, Nivkh consonant alterna­
+tions occur strictly under adjacency.
+Besides these defining parameters, the actual morphophonemic processes recog­
+nized as sandhi are quite heterogeneous. Among them are assimilation (Sanskrit), vowel
+harmony (e.g. in Hungarian), elision (French), epenthesis (French liaison, English lin­
+king-r), resyllabification (French enchaînement), lenition (Gorgia Toscana, Welsh muta­
+tions), fortition of segments (Welsh word-internal mutations) and also of suprasegmentals, e.g. tone sandhi in Chinese (Chen 1987).
+These varied features make sandhi a very vague concept, or rather a melting pot.
+In view of the variety of the phenomena, a more concise classification is missed if all of
+them are subsumed under the one term sandhi which conceals their status and functiona­
+lity. While Kimatuumbi vowel shortening seems to be a strict phrase marker, Welsh mu­
+tations are not consistently so, and Italian raddoppiamento sintattico is consistent within
+phrases, but also applies between constituents of different phrases (Nespor/Vogel 1986:
+228). English linking-r and Sanskrit sandhi, on the other hand, obviously do not define
+syntactic units.
+A case in point is the French liaison, which at first seems to bear a resemblance
+to Nivkh in that it leads to a coalescence of independent words in a phrase. However, aDEPENDENT-HEAD SYNTHESIS AND WORDHOOD97distinction is to be made in French between environments in which liaison (and analo­
+gously, enchaînement) is obligatory, optional or impossible; furthermore, liaison (conso­
+nant epenthesis), enchaînement (resyllabification), and vowel elision complement one
+another in a common functionality, a fact which is not of interest to a number of studies
+concerning French (see for example De Jong 1990, Klausenburger 1974:175, Kaisse
+1985:162-168).
+Liaison, enchaînement, and elision are obligatory in two environments (ignoring
+frozen expressions): (i) between the determiner (articles; several indefinite determiners;
+possessive, demonstrative, and interrogative adjectives; quantifiers; and numerals (De
+Jong 1990:79)) and the following element (modifier or head), and (ii) with pronominal
+markers directly preceding or following the verb as well as with the negation marker on
+the verb (cf. Malécot 1975:163-166). In both cases, all three mechanisms operate on dif­
+ferent forms constituting one paradigm, as exemplified below.
+(46)
+a.b.c.","[105, 106, 107, 108]"
+"310DEPENDENT-HEAD SYNTHESIS IN NIVKH1958. ""Složnye suščestvitel'nye v nivxskom jazyke i ix otlicie ot slovosocetanij
+(k probleme slova) [Compound nouns in Gilyak and how they differ from wordconcatenations (the problem of the word)]"". VJa 7:1. 105-111.
+1960a. ""Problema slova i ""inkorporirovanie"" v nivxskom jazyke [The problem
+of ""word"" and ""incorporation"" in Nivkh]"". VJa 9:6. 50-58.
+1960b. ""O zaloge glagola v nivxskom jazyke [On voice in the Gilyak verb]"".
+Voprosy grammatiki. Sbornik statej k 75-letiju akademika LI. Meš čaninova
+[Questions on Grammar. In Honor of I.I. Mescaninov], P. Ja. Skorik (ed). 1960.
+Moscow, Leningrad: AN SSS.R. 103-121.
+1962,1965. Grammatika nivxskogojazyka [Nivkh Grammar]. 2 Vols. Moscow,
+Leningrad: Nauka.
+1963. ""O proisxoždenii sklonenija v nivxskom jazyke [The source of declension
+in Nivkh]"". VJa 12:3. 74-82.
+1966. ""K tipologiceskoj xarakteristike nivxskogo jazyka [Typological characte­
+ristics of Nivkh]"". VJa 15:5. 48-63.
+1968. ""Nivxskij jazyk [Nivkh]"". Jazyki Narodov SSSR, Vol. 5. Mongol'skie,
+Tunguso-Man'čžurskie i Paleoaziatskie jazyki [Languages of Soviet Peoples,
+Mongolian, Manchu-Tungusic and Paleosiberian languages], P.Ja. Skorik (ed).
+1968. Leningrad: Nauka. 408-434.
+1974a. ""O proisxoždenii sklonenija v nivxskom jazyke (k probleme proisxoždenija affiksov i stanovlenija grammaticeskix kategorij v aggljutinativnyx jazykax)
+[The source of declension in Nivkh. On the problem of the source of affixes and
+the development of grammatical categories in agglutinating languages]"". Skorik,
+P.Ja. (ed). Sklonenie v paleoaziatskix i samodijskix jazykax [Declension in
+Paleosiberian and Samojedic languages]. Leningrad: Nauka. 78-94.
+1974b. ""O svjazjax nivxskogo jazyka s nekotorymi jazykami Jugo-Vostocnoj
+Azii [Connections of Nivkh to South East Asian languages]"". Geneticeskie i
+areal'nye svjazijazykov Azii i Afriki. Tezisy dokladov [Genetic and areal con­
+nections between Asian and African languages]. Moscow.
+Payne, David L. 1990. ""Accent in Aguaruna"". Payne (ed). 1990. 161-184.
+Payne, Doris L. 1990. ""Morphological characteristics of Lowland South American lan­
+guages"". Payne (ed). 1990. 213-241.
+(ed). 1990. Amazonian Linguistics. Studies in Lowland South American Lan­
+guages. Austin: University of Texas Press.
+& Thomas E. Payne. 1990. ""Yagua"". Derbyshire and Pullum (eds). 1990. Vol.
+2. 249-474.
+Payne, Thomas E. 1995. ""Object incorporation in Panare"". UAL 61:3. 295-311.
+Pinnow, Heinz-Jürgen. 1966. ""A comparative study of the verb in the Munda lan :
+guages"". Studies in Comparative Austroasiatic Linguistics, Norman H. Zide
+(ed). 1966. The Hague: Mouton & Co. 96-193.
+Pitkin, Harvey. 1984. Wintu Grammar. Berkeley: University of California Press.
+Plank, Frans, (ed). 1984. Objects. London: Academic Press.","[320, 321]"
+"REFERENCES309Nakagawa Hiroshi & T. Sato & K. Saito. 1993. ""Saharin ni okeru Nivkhgo kisogoi no
+chiikisa [Regional differences in the basic vocabulary of the Nivkh language in
+. Sakhalin]"". Saharin no shôsûminzoku [Ethnic Minorities in Sakhalin]. Kokusai
+Gakujutsu Kenkyû (Kyôdô Kenkyû) Kenkyû Seika Hôkokusho, Murasaki Kyôko (ed). 1993. Sapporo: Hokudai (Hokkaido University) Press. 209-254.
+Nedjalkov, V.P. & B. Comrie (eds). 1988. Typology of Resultative Constructions. Am­
+sterdam: Benjamins.
+& S.Je. Jaxontov. 1988. 'The Typology of Resultative Constructions"". Nedjal­
+kov and Comrie (eds). 1988. 3-62.
+& G.A. Otaina. 1988. ""Resultative and continuative in Nivkh"". Nedjalkov and
+Comrie (eds). 1988. 135-151.
+& G.A. Otaina & A.A. Xolodovic. 1969. ""Morfologiceskij i leksiceskij kauzativy v nivxskom jazyke [Lexical and morphological causatives in Nivkh]"".
+Tipologija kauzativnyx konstrukcij. Morfologičeskij kauzativ [Typology of cau­
+sative constructions. Morphological causatives], A.A. Xolodovic (ed). 1969. Le­
+ningrad: Nauka. 179-199.
+& G.A. Otaina & A.A. Xolodovic. 1974. ""Diatezy i zalogi v nivxskom jazyke
+[Diathesis and voices in Nivkh]"". Tipologija passivnyx konstrukcij. Diatezy i
+zalogi [Typology of passive constructions. Diathesis and voices], A.A. Xolodo­
+vic (ed). 1974. Leningrad: Nauka. 232-251.
+Nespor, Marina & Vogel, Irene. 1982. ""Prosodic domains of external sandhi rules"". The
+Structure of Phonological Representations. Vol. I, H. van der Hulst and N.
+Smith (eds). 1982. Dordrecht: Foris. 225-255.
+& Irene Vogel. 1986. Prosodic Phonology. Dordrecht: Foris.
+Newman, Stanley. 1967. ""Classical Nahuatl"". Handbook of Middle American Indians.
+Vol. 5, Norman A. McQuown (ed). 1967. Austin: University of Texas Press.
+179-199.
+Nichols, Johanna. 1986. ""Head-marking and dependent-marking grammar"". Language
+62:1.56-119.
+& Anthony C. Woodbury (eds). 1985. Grammar Inside and Outside the Clause.
+Cambridge: Cambridge University Press.
+Odden, David. 1987. ""Kimatuumbi phrasal phonology"". Ewen and Andersen (eds).
+1987. 13-36.
+Osborne, C.R. 1974. The Tiwi Language. Canberra: Australian Institute of Aboriginal
+Studies.
+Otaina, G.A. 1976. ""Slova so znaceniem kacestva v nivxskom jazyke [Words with
+qualitative meaning in Nivkh]"". VJa 25:3. 107-117.
+1978. Kacestvennye glagoly v nivxskom jazyke [Nivkh verbs denoting quality
+and properties]. Moscow: Nauka.
+Panfilov, V.Z. 1954. ""K voprosu ob inkorporirovanii. Na materialax nivxskogo (giljackogo) jazyka [The question of incorporation - the case of Nivkh]"". VJa 3:6.627.","[319, 320]"
+"194DEPENDENT-HEAD SYNTHESIS IN NIVKHSome verbs, such as urḑ ""sth. is good"", are found in both ad hoc and lexicalized forma­
+tions.
+6.4
+The modal verb construction
+Modalities are expressed in Nivkh either in auxiliary or complement constructions, with
+suffixes, or in a construction which originated in verb root serialization. The latter form
+is typical for deontic modality, and more specifically for negative modality and negation
+itself in the Amur variety (whereas complement-taking modal verbs are both affirmative
+and negative). It is fully productive and formed ad hoc, and the first verb root is not
+subject to any restrictions. The modal verbs take the position of the second root. The
+modals are (cf. Krejnovic 1934:217-218,1979:317; Panfilov 1965:105,156-163; Otaina
+1978:93):
+(50)-ʁavr-ləyə-yzu-ger-NEG
+NEG
+NEG.EXP, NEG.HAB
+""not be willing to""-molo- ""not want""
+-jiki""cannot""
+-iruţez- ""fail, not manage""
+-ilskr- ""lest"" (on the general converb)In the East Sakhalin variety, verb root serialization is used with at least one affirmative
+modal, viz. -ami- ""want"" (see (51)), which takes a complement in the Amur dialect, see
+(52).
+(51)
+ES(Gruzdeva 1998:43)
+ñi
+ra-i-n-aʁñi-d
+1s
+drink-FUT-PTCL-want-IND/NML
+""I want to drink sth.""","[204, 205]"
+"If a complex is dissolved, a change in stress pattern accompanies the change in form (see
+chapter 4.4). In the example below, the (a) version displays a N+V complex with its
+typical noun stress; in the (b) version, the undergoer is encoded as a topic outside the
+verb, and a coindexed undergoer marker is found on the verb. Topic and predicate are
+stressed separately.
+(31)
+a.
+NS(Krejnovič 1979:311)
+ñ-an-vara
+qónd-hajm-d
+1s-also-yet
+pain-know-IND/NML
+""yet, I, too, know pain""b.ñ-an-vara
+qónd
+j-âjm-d
+ls-also-yet
+pain
+3su-know-IND/NML
+""yet, as for pain, I, too, know that""It is obvious from the examples that stress is morphologically conditioned in complex
+word forms in Nivkh and is a valid criterion for morphological wordhood.
+Jakobson, like Krejnovič, considers the complexes (his 'syntactic sections') to
+be stress and pause units (1971:78).
+Furthermore, in 1962, at the time when the question of incorporation in Nivkh
+was being hotly debated by Krejnovič and Panfilov, Bondarko & Zinder examined com­
+plex structures in Nivkh in phonetic experiments. They submitted 30 test sentences to
+five native speakers each and evaluated the waveforms of the recordings. The test sen­
+tences represent the following types of syntactic constructions:
+(i)
+(32)[subject predicate], e.g.
+aŋ χa-ḍ
+whoshoot-IND/NML""who shot it?""
+(ii)
+(33)and
+(34)[subject undergoer-verb-complex], e.g.
+if
+aŋ-q'a-ḍ
+3s
+who-shoot-IND/NML
+""whom did he shoot?""
+ñivx
+ləyi-ŋəŋ-ḍ
+person salmon-hunt-lND/NML
+""man hunts salmon""88DEPENDENT-HEAD SYNTHESIS IN NIVKH(iii)
+(35)[undergoer-attributive verb-noun complex], e.g.
+ləyi-ŋəŋ-ñivx
+salmon-hunt-person
+""salmon fisher""(iv)
+(36)[noun-noun compound], e.g.
+vəi-zif
+iron-track
+""railway""(v)
+(37)[attributive noun-noun complex], e.g.
+k'eq-zif
+fox-track
+""fox('s) track""Their results, illustrated in part by waveforms, are as follows: In type (i) subject-predi­
+cate constructions, ""both words have the same intensity"" (1962:85) [actually referring to
+the amplitude instead of the intensity], i.e. the waveforms show two stretches of acoustic
+signal, one for /aŋ/ ""who"" and one for /χaʤ/ ""s.o. shoots it"", with the amplitudes of the
+two (identical) vowels being equal. In type (ii), with the assumed undergoer-verb com­
+plex, there are three sections of which the first two, /if/ ""s/he"" and /aŋ/ ""who"", show
+equal vowel amplitudes, while for the section /qhaʤ/ ""shoot"" the amplitude is clearly
+lower. This pattern constitutes a regularity observed in all speakers, differing only in de­
+gree (Bondarko/Zinder 1962:85). The problematic point about this interpretation is that,
+because the low-amplitudinal section is at the sentence boundary, it may represent a
+sentence-final creaky voice phase.
+Bondarko & Zinder see their findings confirmed by an evaluation of the duration
+of the vowels. In type (ii) constructions, the duration of the vowel of the verb forming a
+complex with its undergoer is shorter than in the corresponding type (i) constructions
+with the bare verb. For three speakers, the vowel of the 'non-incorporating' verb in type
+(i) constructions was 1.5 to two times longer; the minimal difference of duration,
+observed with a fourth informant, was 20 ms. This vowel reduction is not dependent on
+the phonetic context of the utterance (Bondarko/Zinder 1962:85). Amplitudinal and du­
+rational differences, if accepted as significant, support Krejnovič's stress rule that in
+noun + verb complexes, stress falls on the noun (see above).
+For constructions of both type (iv) (lexicalized noun compounds) and (v) (nonlexicalized complexes), Bondarko & Zinder note a low amplitude for vowels in the
+second element of both types in comparison to the same element as a simplex form, but
+the overall difference is less clear-cut. The duration analysis, too, shows less consistent
+and more ambiguous results (Bondarko/Zinder 1962:85-89).
+In comparing type (ii) and type (iii) constructions, Bondarko & Zinder point out
+that in ñivx ləyi-ŋəŋḍ ""man hunts salmon"", there are two amplitudinal maxima, one on
+the /i/ of ñivx and one on the /a/ of ləyi (as is typical for construction type (ii)), whereasDEPENDENT-HEAD SYNTHESIS AND WORDHOOD89in ləyi-ŋəŋ-ñivx ""man who hunts salmon"", there is only one, namely on the first /ə/
+(1962:89).
+Bondarko & Zinder conclude from these results that independent word forms are
+distinguishable from elements in word complexes. They also find that in word-comple­
+xes, such as aŋ-q'aḍ ""s.o. shoots whom?"", two (or more) elements are ""fused into one
+whole"", constituting a phonetic unit (Bondarko/Zinder 1962:85). This experimental re­
+search supports Krejnovič's analysis of the Nivkh complexes as 'wholes'. It has not re­
+ceived, however, much attention among Nivkhologists.
+Elaborating on this experimental basis, we will now proceed to an analysis of
+Nivkh speech material. The speaker is a middle-aged Nivkh teacher of Nekrasovska
+(North Sakhalin), whose linguistic background comprises North Sakhalin and Amur
+Nivkh. She read out a sample of 55 different sentences (taken from the extant language
+materials), which were written on cards, to the non-native speaker interviewer, repeating
+each item about ten times in random order. On the cards, the modern conventional ortho­
+graphy was used which follows Panfilov's tradition of writing as separate words as much
+as possible. The speaker's articulation was clear and rather slow. The recordings were
+analyzed digitally with regards to different parameters. For this presentation, a number
+of the more complex sentences which illustrate different structural types of complexes
+have been chosen, as well as inflected word forms and compounds.
+(38)
+a.","[98, 99, 100]"
+"8(5)DEPENDENT-HEAD SYNTHESIS IN NIVKHpossessor prefixes
+1 s ñ - ~ ñi- ~ñe2s3s
+REFLi- ~ v- ~ vi- (~ e-)
+p-~pi-~pe-Nivkh distinguishes singular and plural number, the latter signalled by -ku ~ -yu ~ -xu ~
+-gu in the Amur dialect and by -kun ~ -yun« ~ -xun ~ -gun on Sakhalin. In addition, there
+are two categories, whose suffixes stand in the number slot (not in the case slot), that
+encode correlative-associative number, viz. -ke ~ -ye~ -xe ~ -ge (-kin ~ -yin ~ -xin ~ -gin
+in Sakhalin) expressing association of single items and -ko ~ -yo ~ -xo ~ -go3 expressing
+association of pluralic items. Associative number suffixes can be combined with case
+suffixes (like the plural suffix), but not with the plural suffix, and may occur in the same
+contexts as plural suffixes, but not as case suffixes (see chapters 3.8.1, 3.8.3, 8.3).
+(6)(Panfilov 1962:169)
+hə-ñivx
+lur-ko
+seta-yo
+ma-yo-gir
+qotr-ar-d
+that-person ice-ASC.p sugar-ASC.p dried_fish-ASC.p-lNS bear-feed-lND/NML
+""he fed the bear with pieces of ice, sugar and dried fish""As in the example, correlative-associative number is marked on each conjunct, whereas
+case is marked only once on the last item. Thus, associative, which is known as 'comitative' from other sources, is analyzed as belonging to the category of number here. The
+only deviation in behavior from number lies in a positional alternative. Panfilov pre­
+sents, without further explanations, two examples of associative marking outside of case
+marking as a possible variant to the usual morpheme order [associative_number-case]
+(1962:167).
+(7)(Panfilov 1962:169)
+hə-ñivy-gu
+mur-gir-ko
+qan-gir-ko
+p're- -γu
+that-person-PL horse-lNS-ASC.p
+dog-lNS-ASC.p come-lND/NML-PL
+""those people came by horses and dogs""Note that in this case both conjuncts are case and number marked, in contrast to example
+(6). A plural meaning can also be indicated by the reduplication of nouns: erieri ""rivers"",
+ñivyñivx ""people"" (see Gruzdeva 1997a: 143, Panfilov 1962:97).
+The case system is as in table 1.2. There are no central or adnominal cases, as
+these relations are encoded by word complexes.","[18, 19]"
+"TYPOLOGICAL OUTLOOK287In organization type (ii), the components of a verb form are not fixed in their position,
+but rather in their scope, which allows them to be ordered according to the intended mea­
+ning. This can be seen in Greenlandic (in which only the first (root) and the last (inflec­
+tion) slot are determined, cf. Fortescue 1980:260) especially with the causative, passive
+and with negation, as in the example below in which different orderings of suffixes yield
+different meanings (in type (i), on the other hand, there are no ordering alternatives at
+all).
+(21)
+a.","[297, 298]"
+"TYPOLOGICAL OUTLOOK(6)279Japanese
+(Mattissen 1995:7)
+tabe-sase-rare-na-katta-roo
+eat-CST-PASS-NEG-PST-SUPP""it seems that s.o. was not made to eat it""
+So far, Japanese does not look very polysynthetic. Relevant categories from the cata­
+logue in (3), however, may be expressed within a complex verb form via verb root seria­
+lization (as in Yucatec Maya), viz. phases of states of affairs, manner, direction, chrono­
+logy, degree, and valence-changing (cf. the list by Martin 1988:441-455). Compare the
+following examples:
+(7)Japanese
+(Martin 1988:441-455)
+hataraki-kake-ru work-attach-NPST
+""set to work""
+nori-hagure-ru
+board-separate-NPST ""miss [public transport vehicle]""
+tobi-das-u
+fly-send_out-NPST
+""fly out""
+yomi-kaes-u
+read-return-NPST
+""re-read""
+tabe-sugi-ru
+eat-pass-NPST
+""overeat""
+home-a-u
+praise-meet-NPST
+""praise each other""Instruments are not expressed on the verb.
+Even if no more than two verb roots occur in series (larger constructions are
+disliked by native speakers), the effect of verb root serialization is comparable to that of
+affixes in polysynthetic languages (remember that apersonalism does not prevent a lan­
+guage from being polysynthetic).
+Is there then anything delimiting Japanese from polysynthetic languages? Note
+that the overall complexity of the verb form (measured by morpheme count, something
+often cited as a means to identify polysynthesis, see Fortescue 1994:2601) is not a valid
+distinctive feature. Most examples of verb forms cited in grammars of and papers on po­
+lysynthetic languages are not very complex and contain only two to four morphemes
+(see examples e.g. in Fortescue 1984, Mithun 1999). What Japanese, Swedish, and Yu­
+catec Maya clearly lack, in contrast to those languages which are considered polysynthe­
+tic without a doubt, are adverbial elements in the form of non-root bound morphemes in
+the verb form, such as locational, instrumental, or manner ones.
+If we want to exclude Japanese, Swedish, and Yucatec Maya from polysynthetic
+languages, then the existence of at least one non-root bound morpheme with a fairly 'le­
+xical' meaning in the locational, instrumental or manner domain (the latter two are
+sometimes difficult to keep apart) must be made a necessary condition for polysynthesis,
+in line with what Drossard (1997) postulates. The problem with this criterion, besides its
+still being vague, is that the ideas about 'lexical' (or 'concrete' as it is sometimes called)
+meaning and ontological domains are conceived from a Eurocentric or Anglocentric
+viewpoint.
+Nevertheless, we do not seem to gain anything by trying to concretize the crite­
+rion, e.g. by fixing which kind of non-root bound morpheme constitutes a minimal con-280DEPENDENT-HEAD SYNTHESIS IN NIVKHdition for the recognition of polysynthesis.
+The comparison of the 62 languages of our sample which look sufficiently polysynthetic in the heuristic approach shows that 56 of these have at least one local or direc­
+tional affix, with Chinook (Boas 191Id), Sarcee (Athapaskan; Cook 1984), Tonkawa
+(Hoijer 1933), Wintu (Wintuan; Pitkin 1984), and So:ra (Munda; Pinnow 1966) having
+locationals to the exclusion of instrumental and manner elements (where the adverbial
+domain is concerned). Chukchi (Chukcho-Kamchadal; Kämpfe/Volodin 1995), So:ra
+and Arabana-Wangkangurru (Pama-Nyungan; Hercus 1994) each have a single local/di­
+rectional morpheme, and Classical Nahuatl (Uto-Aztecan; Andrews 1975) and Iroquoian
+languages have two (called 'cislocative' and 'translocative' in Iroquoian).
+Instrumentals, on the other hand, occur considerably less often (in 24 lan­
+guages). Languages with instrumentais have locationals as well, with the exception of
+Washo (see Kroeber 1907), which has instrumentais only (where the adverbial domain
+is concerned). Manner elements occur in 25 languages, four of which do not have loca­
+tionals and only seven of which have instrumentais as well. Other affixes are even less
+common. Chronology affixes, for instance, occur in 19 languages (all with locationals,
+but only three which also have instrumentais), and degree affixes are found in 17 lan­
+guages, four of which lack locationals and instrumentais. Kwakwala (Wakashan; Boas
+1911c), Yana (Mithun 1999:565), and Paumari (Arawan; Chapman/Derbyshire 1991)
+have four of the five categories examined and no instrumentais. Thus, the findings do
+not allow any implicational hierarchy to be set up.
+The overwhelming results for locationals suggest that the existence of such ma­
+terial should be made a necessary condition for polysynthesis. By this criterion, how­
+ever, not only Yucatec Maya, but also Washo, Kiowa (Kiowa-Tanoan; see Watkins
+1984), Cahuilla (Uto-Aztecan; see Seiler 1977), Yuki (see Kroeber 1911), Pirahä (MuraPirahã; see Everett 1986), Urubu-Kaapor (Tupí-Guaraní; see Kakumasu 1986), Ainu (see
+Tamura 2000), and, last but not least, Nivkh, would be excluded from polysynthetic lan­
+guages, even though they all have non-root bound morphemes encoding more than one
+of the categories of manner, degree, modality, valence-changing, instrument, motion,
+phase and chronology, and fit into the heuristic idea of poly synthesis. Washo, Kiowa,
+Cahuilla, and Yuki, however, have motional affixes which might substitute for locatio­
+nals to fulfill the condition. Compare examples from Kiowa and Pirahä to Chukchi and
+Greenlandic below.
+(8)Kiowa (Watkins 1984:180)
+now 3 sAc> 1 sU.PL-Kiowa-speak-adept-become-go
+""I am getting better at speaking Kiowa""(9)Pirahã (Everett 1986:219-220)
+xik-oho-a-bo-i-sogi-hiab'iig-áhá-taío
+3s-eat-DUR-CST-INCMPL-DES-NEG-CONT-IMMED-RES""therefore, he remained not wanting to make it eat at that moment""TYPOLOGICAL OUTLOOK281In addition, a highly problematic case is Greenlandic, with its exemplary verbal comple­
+xity, since it seems to lack local elements. The only candidates are -umisaar- ""back and
+forth"", -jaar- ""early"", and -jaallu- ""early (habitually)"", which do not qualify as local but
+rather as frequency and manner, according to Fortescue (1990). Greenlandic undoubted­
+ly lacks instrumentais.
+In any case, the existence of a locational bound morpheme on the verb could not
+be a sufficient condition for polysynthesis, as it is true of languages with local preverbs
+such as South Caucasian, German, Russian, and Hungarian (see chapter 7). Therefore, it
+needs to be tied to further criteria from the catalogue in (3).
+If we postulated the existence of at least one non-root bound morpheme in the
+domains of location, instrument or manner, Nivkh, Pirahã, and Urubu-Kaapor would still
+be excluded. Because of the shortcomings of the discussed postulations, the best solution
+is to leave this point open until the candidate languages for polysynthesis have been
+compared on the basis of the details of their ingredients. Alternatively, we can broaden
+the perspective, which will be done in section 10.3 of this chapter. The discussion has
+shown, however, how decisive the fixation of delimiting criteria is in our assessment of
+Nivkh, putting Nivkh in a borderline area of polysynthesis.
+For the classification of polysynthesis we will depart from languages which are
+not marginal with regards to the catalogue of criteria in (3).
+It is easily observed that languages assign categories from the polysynthesis
+catalogue to either lexical roots (via noun incorporation or verb root serialization) or to
+non-root bound morphemes (including lexical affixes). Participants may be encoded via
+person marking, noun incorporation or lexical affixes, while motion and phases of states
+of affairs can be via verb roots or affixes; instrument, quantification, manner, or direc­
+tion may be expressed by a nominal or verbal root, or by an affix. Furthermore, polysynthetic languages differ with respect to how many lexical roots they allow in a complex
+verb form. These constitute the two basic parameters of one axis of our classification:
+(i)
+the assignment of categories of the polysynthesis catalogue to lexical roots or
+non-root bound morphemes, and
+(ii)
+the number of lexical roots allowed in a complex word form.
+This axis describes the word-formational type exhibited by a polysynthetic language.
+10.2.1 Affixal and compositional polysynthesis
+The application of these parameters to the languages in question results in different formational types with two extremes, either
+(i)
+languages which use non-root bound morphemes for all of the above-mentioned
+categories in catalogue (3) and allow only one root per verb complex, which we
+will henceforth call the affixal strategy, or
+(ii)
+languages which ad hoc combine more than one lexical root in a verb form to
+attain a polysynthetic verb form, called the compositional strategy.
+'Affixal' and 'compositional' have been chosen here as handy terms for the phenomena,
+based on the terminology for the mechanisms of word formation. The former strategy is
+not generally inflectional since most affixes are not obligatory, nor do they represent in-282DEPENDENT-HEAD SYNTHESIS IN NIVKHflectional categories. They are fully productive and marked on the verb ad hoc, so their
+status is actually somewhere in the grey area between derivation and inflection. Affixal
+and compositional poly synthesis are not complementary types: affixes (non-root bound
+morphemes) are a necessary condition for the recognition of poly synthesis.
+Before proceeding to a finer-grained classification, let us consider an example of
+both types: Greenlandic, an affixally polysynthetic language, and Chukchi, a compositionally polysynthetic one.
+Greenlandic (Eskimo-Aleut; Fortescue 1984) allows only one root morpheme
+per word form (in the initial position) while all other categories are expressed using nonroot bound morphemes or the final inflectional suffix (for mood and person). Fortescue
+(1990:321-332) lists 262 suffixes that are non-root bound morphemes and which express
+categories from the catalogue (excluding category-changing, nominal affixes and inflec­
+tion; see also (66) in chapter 6.4 and table 9.1 in chapter 9.1). Noun incorporation and
+verb root serialization are absent in Greenlandic. There are, however, denominal verbs
+(formed from lexical noun roots with verbalizing suffixes).
+(10)Greenlandic
+(Fortescue 1983:97)
+aliikku-sirsu-i-llamma-ssua-a-nirar-ta-ssa-galuar-paal=li
+entertainment-provide-AP-one_good_at-big-be-say-HAB-FUT-but-lND:3p>3s=but
+""However, they will say that he is a great entertainer, but...""","[289, 290, 291, 292, 293]"
+"THE NOUN + VERB COMPLEX13 3Panfilov, as an orthographic 'splitter', always writes prefixes and the following noun or
+verb as a single word, but writes non-singular pronouns and the noun denoting the possessee or the verb by which they are governed as separate words.
+Because of these different pieces of evidence, it seems safe to assign two
+different statuses to the singular and non-singular possessor and undergoer markers:
+tighter bound prefixes to the former and pronouns to the latter, the only allomorph of
+which may be used as a free constituent or in a noun or verb complex, in the same way
+as a noun.
+4.2
+Valency
+A prefix, pronoun or noun attached to a transitive verb not only fills an obligatory slot,
+it also saturates one place of the verb's valency. Several valency classes are observed in
+Nivkh. It has to be taken into account, however, that, in contrast to the undergoer reflex
+on the verb, central participants outside the verb complex need not be encoded overtly,
+i.e. in the form of nouns or pronouns (cf. Krejnovic 1958:27). If they are, only the
+causee is case-marked. There are, in addition, overt verb-external participants licensed
+by the verb's valency, which bear peripheral cases (Otaina 1978:32-34, Krejnovic 1934:
+198, Panfilov 1960b). This leads to a systematization of valency types as in table 4.2,
+which is based on the valency types established by Otaina (1978:32-34; see also
+Panfilov 1965:46-47).
+non-transitiveavalent
+intransitive
+intransitive with peripheral participanttransitivemonotransitive
+ditransitive
+TABLE 4.2: Valency typesWe will study these types and labile verbs in turn.
+4.2.1 Non-transitive verbs
+Non-transitive verbs are characterized by the absence of an undergoer slot. Avalent
+verbs, such as weather expressions, e.g. lajuɖ} ""it is stormy"", do not license a participant.
+There are labile verbs which allow two constructional alternatives, an avalent and an
+intransitive use (i.e. with a subject), e.g.tivaɖ""it is cold"", qavɖ ""it is hot"",vukvukuaɖ""it
+darkens"", Ŋɖ ""it is dark"",k'unuaɖ""it is bright, clear"",letBd""it is slippery"", rjalsqo ""it is
+dirty"", hoñtíaa1 ""it is empty"", kuyә ""it is spacious"" (cf. Otaina 1978:32). The two uses
+are contrasted below, with the avalent use shown in the (a) version.","[143, 144]"
+"DEPENDENT-HEAD SYNTHESIS AND WORDHOOD99tion only occurs at morpheme boundaries within a word, not across word boundaries.
+As we saw above, however, these alternations are not phonologically conditioned and
+even occur under the non-adjacency of trigger and target word, which are both separate­
+ly inflected. Thus the question of wordhood does not come up as it does in Nivkh.
+Consonant alternation is also common in the West-African Mande and Bantu
+languages. In the Bantu language Fula, only initial plosives alternate with homorganic
+continuants and nasals, but the alternations are not synchronically motivated phonologi­
+cally. The initial sound of nouns changes depending on the suffix on that noun; for suffi­
+xes, it changes depending on the stem they are attached to (cf. Skousen 1972). The alter­
+nating initial sound of verbs now functions as a number agreement marker (cf.
+Gottschligg 1995). The situation is obviously not comparable to Nivkh.
+In Mande languages, initial consonant change taking place under the adjacency
+of trigger and target is obligatory, and both phonologically and syntactically condi­
+tioned. Hence a comparison to Nivkh seems worthwhile.
+Let us consider two examples, Kpelle and Mende, which represent two subclas­
+ses of alternation languages within Mande. In Kpelle (and Manya, Manessy 1964:165168), a final nasal triggers alternation of a following initial non-nasal; in Mende, Loma
+and Bandi, alternation takes place after a preceding final vowel, i.e. in the intervocalic
+position.
+In Kpelle, the alternating consonants are non-nasal plosives and fricatives as in
+Nivkh, but also glides and laterals (Bird 1971). Nasals and voiced obstruents (except for
+Ibl and lyl) do not alternate. The initial voiceless plosives and fricatives of nouns, nume­
+rals and verbs are voiced, and initial /b/, /y/ and sonorants change into a homorganic
+nasal if they follow a syllable consisting of a syllabic nasal with a low tone.
+(47)Kpelle (Bird 1971:153)
+→
+/b/ /f/
+/p/
+→
+/t/
+/d/ /s/
+/k/
+/kp/→→/g/
+/gb/→
+→/v/
+/z//b/
+/l/
+/y/
+/y/
+/w/→
+→
+→
+→/ṁ/
+/ṅ/
+/ὴ/
+/ὴ/
+/ὴw/This low tone nasal is the prefix for a 3s possessor, undergoer or intransitive subject, or
+for a determiner, and elides before a voiced obstruent, but not before a nasal.
+(48)Kpelle (Bird 1971:160, Manessy 1964:166)
+→
+gá pál ""he comes""
+ṅ + ká pái ""come""
+bili ""throw it""
+ṅ + pili ""throw""
+→
+ṅ + yílí ""cook""
+ἠili ""cook it""
+→
+źààbà ""three of them""
+ṅ + sààbà ""three""
+→
+ṅ + lee ""mother""
+ṅee ""his mother""
+→
+ṅ + pὲrὲ ""house"" + i DET
+bὲrὲi ""the house""
+→
+ṅ +bɔ""wax""
+ṁmɔ""the wax""100DEPENDENT-HEAD SYNTHESIS IN NIVKHThe same alternations occur after the 1 s marker, only that this marker is a non-eliding
+high tone nasal which assimilates to the alternating consonant in place.
+(49)Kpelle (Manessy 1964:167)
+ń + p ""possession"" →
+ń + toll ""call""
+→
+ń + láá ""name""
+→ḿb ""mine""
+di ndòli ""they called me""
+ńáá ""my name""Alternation contexts are thus more restricted in Kpelle than in Nivkh, and concern prefixation only. So far, we have seen parallels in phonological, but hardly in syntactic effect.
+Conteh, Cowper & Rice (1986) give an overview of initial consonant change in
+Mende. There, the changes target the initial consonants of verbs, nouns, adjectives, and
+postpositions, and the changes are syntactically conditioned. The phonological trigger
+seems to be the final vowel of the preceding element (Cowper/Rice 1987:193). The alter­
+nations are:
+(50)Mende (Conteh/Cowper/Rice 1986:107-108)
+/p/
+→ /w/
+/mb/→ /b/
+/t/, /nd/
+→ /l/
+/nj/
+→ /y/
+/k/
+→ /g/, but Av/ before lul /ng/ → /y/, but /w/ before /o, u/
+/kp/
+→ /gb/
+/f/
+→ /v/
+/s/
+→ /j/Otherwise nasals are not involved. In contrast to Nivkh, alternation is unidirectional, and
+consists of simple intervocalic lenition and assimilation of segments. Lenition takes
+place in the following environments, where it affects the initial consonant of the consti­
+tuent in boldface (cf. Conteh/Cowper/Rice 1986:108-109, Cowper/Rice 1987:189-190):
+(51)Pronoun (possessor) + N (head)
+N (possessor) + N (head)
+N (modifier) + N (head)
+(compounds)
+N (head) + ADJ (modifier)
+N (complement) + postposition
+preposition + N (complement, unmodified)
+N (undergoer) + transitive V
+N (subject) + intransitive V (without further participants)Examples are:DEPENDENT-HEAD SYNTHESIS AND WORDHOOD(52)101Mende (Bird 1971:171, Manessy 1964:176)
+nya + pɛlɛ + i
+→
+nya wɛlɛ í ""my house""
+ngi +fɛlɛ + i
+→
+ngi
+vɛlɛi
+""his fan""
+ngi + t Kpɔ + i → ngi l, Kpɔ i ""his tobacco""
+màhâ + pέlέ +
+i
+→
+màhâ wέlέí ""chief's house""
+màhâ + i + t
+→
+màhâέi
+l
+""that's the chief'These mutation conditions resemble the Nivkh situation. In Nivkh, alternations occur in
+possessor + noun constructions, modifying noun + noun constructions, attribute + noun
+constructions, noun + relational morpheme constructions, and undergoer + verb con­
+structions as well. In Mende, lenition occurs within phrases, with the exception of
+subject + intransitive verb contexts. In such a context in Nivkh, there is never consonant
+alternation. Another basic difference between Mende and Nivkh is that, although the
+element following a trigger undergoes alternation in both languages, this element is
+always the head in Nivkh. In Mende, the attributive adjective and determiner follow the
+head noun, and the adjective shows initial mutation. A further difference is the fact that
+in Mende proper names, relational nouns and numerals are excluded from mutation (cf.
+Conteh/Cowper/Rice 1986:116, Manessy 1964:176).
+The two languages are again parallel in contexts where mutation does not apply.
+If the undergoer is not represented by phonological material or if it is left-dislocated into
+the focus position, there is no verb mutation. This is also true of Nivkh (see chapter
+4.4.1). Particles do not trigger mutations, either (cf. Conteh/Cowper/Rice 1986:116).
+(53)extracted object in Mende
+(Conteh/Cowper/Rice 1986:109)
+ngúlsí miá
+ndòpói kpàndià
+vs.
+ndòpói ngúlέí gbàndià
+oil
+CLEFT child heated
+child oil
+heated
+""it is the oil that the child heated""
+""the child heated the oil""Note that both Nivkh and Mende lack case marking and have a fixed SOV word order
+(cf. Conteh/Cowper/Rice 1986:110). Nivkh is predicate-final (SXOV), however, while
+in Mende the peripheral material follows the verb (SOVX). In light of this far-reaching
+parallelism both in phonological as well as in syntactic matters of consonant alternation
+in Nivkh and Mende, it would be interesting to know more about wordhood in Mende.
+Unfortunately, neither Conteh, Cowper & Rice (1986), Manessy (1964), nor Bird (1971)
+discuss this topic. Cowper & Rice (1987:188) view mutation as external sandhi.
+Manessy (1964) indicates that for the application of alternation syntactic con­
+texts are generalized, overriding phonology, the role of which is weak because the origi­
+nal (nasal) trigger has been lost. This is reminiscent of what Gottschligg claims about
+Fula, viz. that the originally phonologically conditioned phenomenon was grammaticalized (1995:14-26). In Nivkh, however, phonological conditioning is stable. One reason
+for this stability could be that the phonological processes are protected within a morpho­
+logical unit, i.e. that they are word-internal.","[109, 110, 111, 112]"
+"Library of Congress Cataloging-in-Publication Data
+Mattissen, Johanna
+Dependent-Head synthesis in Nivkh : a contribution to a typology of
+polysynthesis / Johanna Mattissen.
+p. cm. (Typological Studies in Language, issn 0167–7373 ; v. 57)
+Originally presented as the authors doctoral thesis (Cologne) 2001
+Includes bibliographical references and index.
+1. Gilyak language--Grammar. 2. Typology (Linguistics) I. Title. II.
+Series.
+PM15.M38 2003
+494’.6-dc22
+isbn 90 272 2965 1 (Eur.) / 1 58811 476 7 (US) (Hb; alk. paper)2003062993© 2003 – John Benjamins B.V.
+No part of this book may be reproduced in any form, by print, photoprint, microﬁlm, or
+any other means, without written permission from the publisher.
+John Benjamins Publishing Co. · P.O. Box 36224 · 1020 me Amsterdam · The Netherlands
+John Benjamins North America · P.O. Box 27519 · Philadelphia pa 19118-0519 · usaCONTENTSABBREVIATIONS
+ACKNOWLEDGEMENTSviii
+xChapter 1: INTRODUCTION
+1.1
+The aim of this study
+1.2
+The Nivkh
+1.3
+Characteristics of the Nivkh language
+1.3.1 Nouns
+1.3.2 Pronouns
+1.3.3 Quantifiers
+1.3.4 Verbs
+1.3.5 Landmark roots
+1.3.6 Word formation
+1.3.7 Syntax1
+1
+2
+4
+7
+12
+15
+16
+26
+27
+30Chapter 2: NIVKH PHONOLOGY AND MORPHOPHONEMICS
+2.1
+Nivkh phoneme inventory
+2.2
+Fricative devoicing
+2.3
+Final nasal loss
+2.4
+Initial consonant alternation
+2.4.1 Alternation in the different complex types
+2.4.2 Initial consonant alternation after determiner prefixes
+2.5
+The morphophonemics of personal prefixes
+2.5.1 Allomorphy of personal prefixes
+2.5.2 Alternation of the initial sounds of prefixed nouns and verbs
+2.6
+Functionality of consonant alternations in syntax35
+35
+40
+41
+44
+46
+53
+55
+55
+58
+62Chapter 3: HEAD-DEPENDENT SYNTHESIS AND WORDHOOD IN NIVKH
+3.1
+The old dispute
+3.2
+The phonological word in Nivkh
+3.2.1 Syllables, medial plosives and final fricatives in Nivkh
+3.2.2 Clusters
+3.3
+Morphophonemics
+3.3.1 Diachronic perspective on morphophonemics
+3.3.2 Complexes and compounds
+3.4
+Stress placement
+3.5
+Nivkh morphophonemic alternations as sandhi
+3.6
+Consonant alternations outside Nivkh65
+65
+70
+72
+76
+78
+82
+83
+85
+92
+98viDEPENDENT-HEAD SYNTHESIS IN NIVKH3.7
+3.8
+3.8.1
+3.8.2
+3.8.3
+3.9
+3.10A preliminary conclusion
+The morphological word in Nivkh
+Evidence from the internal organization
+The diachronic perspective
+The complex in the clause
+Psychological reality
+Conclusion102
+102
+106
+111
+113
+119
+120Chapter 4: THE NIVKH NOUN PLUS VERB COMPLEX
+4.1
+Transitivity and verb classes in Nivkh
+4.1.1 Nasal and lateral-initial verbs
+4.1.2 Vowel-initial verbs
+4.1.3 /h/-initial verbs
+4.1.4 Single obstruent-initial verbs
+4.1.5 Cluster-initial verbs
+4.1.6 Ablauting verbs
+4.2
+Valency
+4.2.1 Non-transitive verbs
+4.2.2 Transitive verbs
+4.2.2.1 Monotransitive verbs
+4.2.2.2 Ditransitive verbs
+4.3
+Noteworthy properties of synthesizing nouns
+4.4
+Non-synthesization of undergoer and verb
+4.4.1 Word order permutation
+4.4.2 Reciprocal formation
+4.4.3 Resultative formation
+4.4.4 Demotion
+4.5
+Conclusion122
+122
+123
+124
+124
+125
+126
+129
+133
+133
+137
+137
+140
+147
+154
+155
+159
+160
+164
+167Chapter 5: IS THERE NOUN INCORPORATION IN NIVKH?
+5.1
+Parallels of dependent-head synthesis in Nivkh
+to noun incorporation
+5.2
+The syntactic and pragmatic status of noun-verb
+complexes in Nivkh
+5.3
+Traits incompatible with incorporation theory
+5.4
+Conclusion169Chapter 6: THE NIVKH VERB PLUS VERB COMPLEX
+6.1
+Verb root serialization in Nivkh
+6.2
+Ad hoc verb root serial formations
+6.3
+Lexicalized verb root serialization
+6.4
+The modal verb construction
+6.5
+Summary182
+185
+188
+193
+194
+200171
+173
+178
+181CONTENTSviiChapter 7: IS NIVKH A POLYSYNTHETIC LANGUAGE?
+7.1
+Participant reflex on the verb: polypersonalism and incorporation
+7.2
+Modality, adverbial and locational elements
+7.3
+Complexity of the verb form
+7.4
+Role of morphology
+7.5
+Conclusion202
+203
+206
+209
+213
+218Chapter 8 : THE NIVKH NOMINAL COMPLEX
+8.1
+Synthesizing possessor
+8.2
+Synthesizing nominal attribute
+8.3
+Inflection of possessor and attributive nouns
+8.4
+Synthesizing verbal attribute
+8.5
+Nominal complement clauses
+8.6
+Elaborated noun complexes
+8.7
+The noun complex in the clause
+8.8
+Paraphrasability and limitations of the noun complex
+8.9
+Conclusion220
+224
+226
+228
+229
+238
+239
+243
+246
+247Chapter 9: COMPLEX NOUN FORMS IN THE WORLD'S LANGUAGES
+9.1
+Noun complexity due to non-root bound morphemes
+9.2
+Noun complexity due to root concatenation
+9.2.1 Chukchi and Ainu
+9.2.2 Sanskrit
+9.2.3 Less well-described root concatenating nouns
+9.2.4 Root concatenation in nouns underlying lexical restrictions
+9.3
+Inflection and derivation internal to a noun complex
+9.4
+Implications for a typology of poly synthesis249
+249
+254
+255
+259
+261
+265
+268
+269Chapter 10: TYPOLOGICAL OUTLOOK
+10.1
+The structure of Nivkh
+10.2
+Basic structural types of polysynthesis
+- an attempt at a classification
+10.2.1 Affixal and compositional polysynthesis
+10.2.2 Templatic and scope-ordered organization
+10.3
+A wider view of polysynthesis273
+273APPENDIX
+REFERENCES
+BIBLIOGRAPHY ON NIVKH
+INDEX290
+298
+315
+341276
+381
+386
+388ABBREVIATIONSA
+ABL
+ABS
+Ac
+ACC
+ACV
+ADJ
+ADV
+AHON
+ALL
+ANC
+AOR
+AP
+APPL
+ART
+ASC(.s)
+ASS
+AUG
+BEN
+C
+CLF
+CND
+COLL
+COM
+COMP
+CONT
+COP
+CPL
+CST
+CV
+d
+DEP:TRANS
+DES
+DET
+DETV
+DIM
+DIR
+DU
+DUR
+ELA
+EMPHword boundary
+Amur dialect
+ablative
+absolutive
+actor
+accusative
+anterior converb
+adjective
+adverb marker
+addressee honorification
+allative
+anterior non-projective CV
+aorist
+antipassive
+applicative
+article
+correlative-associative (sg)
+assertive
+augmentative
+benefactive
+consonant
+classifier
+conditional
+collective
+comitative
+standard of comparison
+continuative
+copula
+completive
+causative
+converb
+dual
+dependent:transitive
+desiderative
+determiner
+determinative
+diminutive
+directional
+dual
+durative
+elative
+emphaticENU
+EQU
+ERG
+ES
+EVID
+excl
+EXH
+EXP
+EXPL
+f
+FAC
+FUT
+GEN
+HAB
+HILI
+HOR.P
+IMMED
+IMP(.s)
+IMPF
+incl
+INCMPL
+IND
+INDEF
+INF
+INS
+INSNML
+INT
+INTR
+IP
+IQY
+IRR
+ITER
+LOC
+LOCNML
+m
+n
+N
+NAR
+NEG
+NML
+NOM
+NPenumerative
+equative
+ergative
+East Sakhalin dialect
+evidential
+exclusive
+exhaustive focus
+experiential
+expletive
+feminine
+factitive
+future
+genitive
+habitual
+highlighting focus
+hortative plural
+immediate
+imperative (singular)
+imperfective
+inclusive
+incomplete
+indicative
+indefinite marker
+infinitive
+instrumental
+instrumental nominalization
+intentional
+interrogative
+intransitive participle
+inquiry focus
+irreal apodosis
+iterative
+locative
+local nominalization
+masculine
+neuter
+noun
+narrative
+negation
+nominalization
+nominative
+noun phraseABBREVIATIONSNPST
+NS
+0
+OBJ
+OJ
+P
+PART
+PASS
+PERM
+PL
+P'OR
+POSS
+POT
+PRF
+PRL
+PRM
+PROG
+PROH
+PRS
+PST
+PTCL
+Q
+QUO
+REAL
+RECI
+REDnon-past
+North Sakhalin dialect
+object
+objective
+Old Japanese
+plural
+partitive
+passive
+permanent property (-la)
+plural
+possessor
+possessive
+potential
+perfect
+perlative
+permissive
+progressive
+prohibitive
+present
+past
+participle
+question marker
+quotative
+realis
+reciprocal
+reduplicationREFL
+REL
+REMPST
+RES
+s
+S
+S/A
+SBJ
+SCON
+SEQ
+SG
+SING
+SS
+SUP
+SUPP
+TAM
+TERM
+TNS
+TR
+U
+V
+VBL
+VERT
+VOC
+VP
+XCLixreflexive
+relative
+remote past
+resultative
+singular
+subject
+single participant / actor
+subjunctive
+Stative continuative
+sequential marker
+singular
+singulative
+South Sakhalin dialect
+supine
+suppositive
+tense, aspect, mood
+terminative
+tense
+transitivizer
+undergoer
+verb; vowel
+verbalizer
+vertical
+vocative
+verb phrase
+exclamativeACKNOWLEDGEMENTSThis thesis was accepted as a doctoral dissertation by the Philosophische Fakultät of the
+University of Cologne, Germany in Summer 2001.
+While writing it, I have profited from the support of many people. First of all, I would
+like to express my gratitude to Hidetoshi Shiraishi and Svetlana Filimonovna Polet'eva.
+Hidetoshi Shiraishi so very kindly conducted field work for me, too, during his own
+research trip. From the materials I sent him, he wrote filing cards, did the interviews with
+the consultant and recorded and documented the spoken language. Svetlana Polet'eva
+kindly read out the materials on the cards. I am very much obliged to both of them for
+the pains they took and time they sacrificed on my behalf.
+I am very grateful to Hans-Jürgen Sasse and Elisabeth Löbel, my supervisors, for their
+valuable comments, and to the other members of my doctoral committee, Franziska
+Ehmcke, Ursula Stephany, Fritz Serzisko, and Frank Heidermanns. Hans-Jürgen Sasse
+let me work on Nivkh freely within the parameters of the projects on lexical categories
+and polysynthesis. It was through Werner Drossard's structural course, however, that I
+first came to be interested in Nivkh.
+My work profited greatly from discussions with and comments by Daniel Abondolo,
+Christoph Benden, Bernard Comrie, William Foley, Ekaterina Jur'evna Gruzdeva, Tôru
+Kaneko, Martin Haspelmath, Siri Tuttle and several audiences in Cologne, Leipzig,
+Zurich, Tübingen, Leuven, and Berlin, for all of which I am really thankful. A thousand
+thanks to Tarek Ahmed, Antje Casaretto, Michael Dunn, Mats Exter, Sevim Genç,
+Claudia Leto, Andreas Mühlhäusler, Tomiko Murata and Georg Sachse for sharing their
+expertise in Swedish, Sanskrit, Chukchi, Laz, Wichita, Japanese and phonetics with me.
+Also, I appreciated so much that Hiroshi Nakagawa shared his materials with me and
+introduced me to the Japanese community of Nivkh linguists. Elena Skribnik sent me
+papers from Russia that I could not get ahold of here, and Carmen Dawuda showed me
+the audio software which was really helpful.
+To Pamela Perniss and Aria Jackson I am greatly indebted for correcting my English. I
+lived through the whole thing thanks to Karsten Piaszenski's support, both moral and
+technical.
+Finally, I gratefully acknowledge the financial support of the Deutsche Forschungsge­
+meinschaft (DFG). It funded the project on ""Lexikalische Kategorien und Argumentlinking in polysynthetischen Sprachen"" [Lexical categories and argument linking in po­
+lysynthetic languages] as part of the special research program SFB 282 ""Theorie des Le­
+xikons"" [Theory of the Lexicon] I have been working on during the writing of this
+thesis.","[5, 6, 7, 8, 9, 10, 11]"
+"ND/NMLb.ηalsqo-hontq-xu
+tol-hupu-yatadirty-sack-PL
+body_of_water-plunge-RES-lND/NML
+""the dirty sacks are plunged into the water""c.*tol
+galsqo-hontq-xu
+j-upu-yәta-ḑ
+body_of_water dirty-sack-PL
+3su-plunge-RES-lND/NML
+""the water is plunged the dirty sacks into""With human patients, the objective resultative is rarely construed.
+(147) (Nedjalkov/Otaina 1988:143)
+a.
+if
+ōla-gu-vetau-ḑ
+3s
+child-PL-dress-lND/NML
+""she dressed the children""
+b.ōia-gu
+vetau-yәta-ḑ
+child-PL
+dress-RES-IND/NML
+""the children are dressed""On the whole, the resultative construction is passive-like in its case frame, but not in its
+verbal morphology.
+Turning to ditransitive verbs, we find the following two alternative objective
+resultative constructions:
+subject (= recipient/goal)_secondaryobject_3su-verb_yәtaḑ
+subject (= patient)_primary object-verb-yәta-ḑ
+The primary object principle behind these patterns is straightforward. Take a non-resultative example like
+(148) (Nedjalkov/Otaina 1988:145)
+if
+vәť
+p'-huxt-ay-ḑ
+3s
+iron
+REFL-gown-sew_on-IND/NML
+""she sewed metallic ornaments to her gown""
+jayḑ ~ -ay
+ax- ""s.o. sews sth. on sth.""",[173]
+"PHONOLOGY AND MORPHOPHONEMICS51(42)
+noun + verb
+(Jakobson 1971:91)
+a. potaḍ ""s.o. prepares dried fish""
+řək-votaḍ ""s.o. dries goby""
+ləyi-votaḍ ""s.o. dries autumn salmon""
+b.kiurḍ ""s.o. pads footwear with grass""
+ki-yiurḍ ""s.o. pads his shoes with grass""In the third case, the verb + noun complex, a reduced set of alternation conditions
+applies due to the fact that an attributive verb forn. is assumed to have lost the weak final
+nasal (corresponding to the participle suffix on Sakhalin).
+(43)Noun alternation: post-verbal initial sounds of set A
+p t ţ kq
+root-initial consonant and following a voiceless obstruent-final root
+bdḍg Gfollowing a verbal root not ending in a voiceless obstruent (al­
+ternation due to lost nasal)(44)Attributive verb form (lost weak nasal) + set A initial
+urla-bəñx ""good soup""
+(urḍ
+""sth. is good"", pəñx ""soup"")
+maţki-dəf""small house""
+(maţkiḍ""sth. is small"", tef""house"")
+kəŋ-ḍoŋr ""frozen head""
+(kəŋḍ
+""sth. freezes over"", ţoŋr ""head"")
+kəla-gəlmr ""long board""
+(kəlḍ
+""sth. is long"", kəlmr ""board"")
+jətŋu-Gan ""guard dog""
+(jətŋuḍ
+""s.o. guards sth."", qan ""dog"")(45)Voiceless obstruent-final root + set A initial
+ñi j-ərp-təf
+(1s 3su-close-house)
+""the house I closed""
+ñi lət-təf
+(1s make-house)
+""the house I built""
+ñi it-ţif
+(1s say-word)
+""the word I uttered""
+noknok-pityə-gu (thin-book-PL)
+""thin books""
+ñi zosq-ţaqo
+(1s break-knife)
+""the knife I broke""
+qatx-ki
+((become)_bald-footwear) ""winter seal boots""(jərpţ)
+(lətţ)
+(itţ)
+(noknokţ)
+(zosqţ)
+(qatxţ)Nouns beginning with an aspirated plosive (alternation set B) or a fricative do not show
+alternate forms after a verbal attribute, regardless of the final sound, as is to be expected.
+(46)Attributive verb form + set B initial
+u-maŋgla-t'om (burn-strong-fat)
+kəŋla-to
+(freeze-fish)
+ŋəŋg-yir lət-k'e (hair-INS make-net)
+i-fk-t'uyrmu
+(3SU-tow-steamer)""fuel""
+""frozen
+fish""
+""a net made of hair""
+""tugboat""(torn)
+(ţo)
+(k'e)
+(t'uyrmu)52(47)DEPENDENT-HEAD SYNTHESIS IN NIVKHAttributive verb form + fricative-initial noun
+(Krejnovič 1958:31, 1937:60)
+pila-zat'uyr ""big flintstone"" (zat'uyr ""flintstone"")
+urla-rəuñivx ""good teacher""
+(rəuñivx ""teacher"")The behavior of the initial sound of a noun after an attributive verb form as shown in
+(45) lies fully within the bounds of the general principle if it is taken into account that an
+attributive verb form is conceived of as ending in an elided final nasal in the Amur va­
+riety. In the absence of the nasal, a noun-initial voiced plosive of set A assimilates in
+voice, as a secondary morphophonemic change, to a verb root-final voiceless sound.
+This occurs because phonotactics do not allow plosive or fricative+plosive clusters of
+unequal voice (cf. Krejnovič 1937:62):
+(49)root -ərp- ""close"" + participial -Ŋ + plosive-initial noun root təv- ""house""
+→ *jərp-n-dəf participial suffix assimilates and triggers nasal alternation
+→ *jərp-dəf
+nasal elides
+→ jərp-təf
+plosive in cluster assimilatesThe same alternation of voiced and voiceless initials as in postverbal set A sounds is
+found in verbal inflectional morphology, e.g. indicative -ḍ ~ -ţ and causative -gu- ~ -ku-.
+(50)ra-ḍ
+""s.o. drinks sth.""
+ŋəf~ţ
+""s.o.
+tangles up sth.""
+in-ḍ
+""s.o. eats sth.""
+hatx-ţ
+""sth. flakes off'
+jiv-ḍ
+""sth. exists (as s.o.'s possession)"" jərp-ţ ""s.o. closes sth.""
+pan-ḍ ""s.o. grows up"" (root pand-)
+lət-ţ
+""s.o. makes sth.""
+maŋg-ḍ ""s.o. is strong""
+ifk-ţ
+""s.o. ties sth.""
+zosq-ţ ""s.o. breaks sth.""","[61, 62, 63]"
