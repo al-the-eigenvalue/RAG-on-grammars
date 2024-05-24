@@ -1,0 +1,486 @@
+Paragraph,Page number
+"Declarative clauses:
+Verb-DYNAMIC Subject-DECLARATIVE              (Current or on-going events)
+Subject Verb-DYNAMIC                          (Current or on-going events)
+Subject Verb-DECLARATIVE                      (Events not immediately concurrent with the
+                                              speech moment or frame of reference)Interrogative clauses:
+Verb-DYNAMIC Subject                          (Polar questions)
+Q word Subject Verb-INTERROGATIVE             (Constituent questions)
+Subject Verb-INTERROGATIVE                    (Polar constituent-focused questions)Imperative clauses:
+(Subject) Verb-Ø (plus high tone)
+17.3. Declarative clausesThis section treats the declarative clause in Hup. Declarative clauses are defined both byconstituent order and morphological marking, and include both affirmative and negativestatements, as well as non-verbal clauses involving predicate nominals, adjectives, andlocatives.
+                                                                                          905
+17.3.1. Constituent order in the declarative clauseConstituent order in Hup is relatively free, but the formally least-marked pattern is clearlyverb-final. Defining the order of nominal arguments in the transitive clause is moredifficult, but the ‘basic’ constituent order can arguably be identified as AOV. The actualorder of all constituents appears to be determined primarily by pragmatics, with the mostimportant parameter being the fronting of new information. Other relevant factors thatcorrelate with word order are verbal tense and aspect, and the identity of nominalconstituents as pronouns or full lexical nouns. Both context and the existence ofmorphological core case-marking (see §4.3.1), which corresponds to a consistentlynominative-accusative alignment system, help to disambiguate syntactic arguments.","[921, 922]"
+"        Declarative verb-final constituent order is illustrated in the intransitive clauses in(7-8). As these examples show, intransitive (and also transitive) clauses are frequentlyinitiated by an adverbial word or clause (often denoting temporal sequence), followed bythe subject, and finally the verb.
+                                                                                              909(7)     bˆ‡g=mah=yˆ¤/            tˆh nˆ¤h-ˆ¤h,     ham-g’ó/-óh
+        long.time=REP=TEL 3sg         be.like-DECL go-go.about-DECL
+        ‘For a long time, it’s said, he did thus, wandered about.’ (H.TY.81)(8)     tã/ãêy    nˆ‡h    w´‡ç        ká-át=mah,        ta‡h   y’Q/-tu/-ní-h
+        woman     POSS    fish.trap barricade-OBL=REP tapir defecate-immerse-INFR2-DECL
+        ‘On the woman’s fish-trap (in the water), the tapir defecated.’ (H.TY.79)        In the transitive clause, the basic order of nominal arguments (where these areexplicitly stated at all) is difficult to ascertain definitively. In cases where there areabsolutely no other clues to the identity of subject and object, Hup speakers prefer AOVconstituent order, which suggests that this order is in some sense the most basic:
+(9)     a)       m’Q‡h    ya/ám mQ¤h-Q¤y
+                 snake    jaguar     kill-DYNM
+                 ‘The snake kills the jaguar.’        b)       ya/ám m’Q‡h           mQ¤h-Q¤y
+                 jaguar    snake       kill-DYNM
+                 ‘The jaguar kills the snake.’ (EL)It is, however, extremely rare for constituent order to be the only clue to the identity ofsubject and object in a transitive clause, even in elicitation contexts. Grammatical objectsthat are human entities, pronouns, and NPs involving demonstratives are obligatorilymarked with Object case in Hup (see §4.3.1.1), so their identity as subject or object isalways clear. On the other hand, inanimate entities in object function are not generallyobject-marked; yet inanimate entities can hardly ever be interpreted as agents, hencehardly ever as subjects, so this lack of object marking rarely leads to confusion. Cases ofpotential ambiguity are therefore for the most part limited to interactions between twoanimal entities, for which object marking is optional. Even in these cases, if context-
+                                                                                               910
+related clues to the identity of the participants are inadequate or lacking, speakersprefer to use the optional case markers rather than simply to rely on constituent order.","[925, 926, 927]"
+"        Actual Hup discourse provides few clues to establishing one order of corenominal arguments as more ‘basic’ than another, because clauses containing both a full(non-pronominal) nominal subject and object are extremely rare. When these do occur,the order of subject and object is flexible, and is subject to pragmatic considerations—ingeneral, newer or more focused information is fronted, while more topical constituentstend to come later in the clause. However, a text count of such clauses does suggest thatAOV order is at least twice as common as OAV order, which supports the apparentpreference for AOV order found in elicitation contexts, as discussed above. A textexample of AOV order is given in (10); the alternative OAV order (in which the speakeris focusing on the object, Curupira) in (11).
+(10)    yúp=mah          yúp,       tˆh=tQ‚h/íp    b’a‡/    cim’-d’o/-yQ‚h-Q‚h
+        that.ITG=REP that.ITG 3sg=child.father beiju        claw-take-FRUST-DECL
+        ‘Then, it’s said, her husband reached for the beijú in vain.’ (P.CR.7)(11)    doh/ãêy-a‡n=mah /ayu‡p=/i‚h, húp=/i‚h              kéy-éh
+        Curupira-OBJ=REP one=MSC              Hup=MSC      see-DECL
+        ‘A man, a Hup man saw Curupira, it’s said.’ (P.CC.81)        The order of pronominal objects relative to other nominal constituents alsodepends on pragmatics; they tend to follow full nominal subjects in the clause (example12), but this is not obligatory (13):
+(12)    yˆ¤t j’´¤b hQyhç¤=mah          j’ám       ba/tˆ‡b’ tˆ¤h-a‡n   wˆdnQn-pó-ay-áh
+        thus   night   middle=REP      DST.CNTR spirit      3sg-OBJ   arrive.come-EMPH1-INCH-DECL
+        ‘So in the middle of the night, it’s said, a spirit came to him.’ (M.NS.65)
+                                                                                              911
+(13)   /a‡n       ba/tˆ‡b’    wQd-tQ‚/ê -Q‚êy         páh        /a‡n-áh !
+       1sg.OBJ spirit         eat-CNTRFACT-DYNM PRX.CNTR 1sg.OBJ-DECL
+       ‘A spirit nearly ate me up!’ (M.NS.68)       As is common in many languages, pronominal subjects in Hup (which tend to behighly topical) almost always immediately precede the verb in the clause (examples 14-15) (resulting in a default OAV order). Because pronominal objects are obligatorilycase-marked, ambiguity in the identity of core syntactic arguments is always avoidedwhen one argument is a pronoun. Probably as a result of this preference for pronominalsubjects to directly precede the verb, they have acquired some of the characteristics ofproclitics when in this position in the clause (i.e. lack of stress, and a tendency for thethird person singular pronoun tˆh to be phonologically dependent on the verb in theUmari Norte dialect; see §3.4.2.1 and §6.1).
+(14)   páti-a‡n     húp-út      /ãh /ˆ¤d-ˆh´¤/
+       Pattie-OBJ Hup-OBL 1sg          speak-TAG2
+       ‘I speak Hup to Pattie, you know.’ (P.Sp.109)(15)   yˆ¤t=mah    ha‡t-a‡n       tˆh d’o/-yˆ¤/-ˆ¤h
+       thus=REP    alligator-OBJ 3sg     take-TEL-DECL
+       ‘Then he grabbed the alligator.’ (M.BY.96)       Despite the strong preference for subject pronouns to precede the verb, this is notabsolutely obligatory in the Hup clause (although this order appears to be more fixed inthe Umari Norte dialect, in keeping with the pronouns’ more clitic-like identity in thatdialect). Highly salient, emphasized pronominal subjects may precede objects (especiallywhere these are themselves pronominal), as in example (16)—where the subject receivesadditional emphasis through its clause-final repetition as an external argument.
+                                                                                            912
+(16)   /ãêh tˆ¤h-a‡n      mQh-yˆ¤/-ˆ¤y=tih,            /ãêh-ãêh!
+       1sg    3sg-OBJ kill-TEL-DYNM=CNTRFCT2 1sg-DECL
+       ‘I would kill him, I (would)!’ (P.CC.86)Nevertheless, Hup has a number of strategies for maintaining its preference forimmediately preverbal pronominal subjects in transitive clauses. For example, subjectsare often referred to initially via a pronoun, and only made explicit post-verbally as anexternal argument to the main clause:
+(17)   t ˆh   hehé/-éh,           tˆ¤h-a‡n,   yúp      doh/ãêy-ãêh
+       3sg    laugh.loudly-DECL 3sg-OBJ       that.ITG Curupira-DECL
+       ‘She laughed loudly at her, (did) that Curupira (wife).’ (P.CR.3)It is also fairly common to have a full nominal subject and a co-referential (resumptive)pronoun together in same clause, as in (18), especially in the Umari Norte dialect.
+(18)   yˆ¤-nˆ¤h-yó/=mah            ba/tˆ‡b’ tˆh     pe/pe/-kót-óh
+       that.ITG-be.like-SEQ=REP spirit        3sg   grope-go.in.circles-DECL
+       ‘Then, it’s said, the spirit went groping around.’ (M.NS.65)This prevalence of pronominal subjects, which appear to be marginally procliticized tothe verb, may represent an early step towards the historical development of a system ofpronominal clitics—a process which, when further developed, often gives rise to verbalperson agreement. Such systems of person-marking on the verb are fairly common inAmazonian languages.","[927, 928, 929]"
+"       The dropping of arguments is common in Hup when they can be recovered fromthe discourse context; this is particularly true for objects (example 1). Subject droppingalso occurs (example 2), but is less frequent. In general, Hup speakers seem to preferclauses with only one full nominal (i.e. non-pronominal) argument, and will sometimeseven repeat the clause, dropping an argument each time, in order to conform to this(example 3). In providing information in response to a question or related solicitationfrom an interlocutor, an utterance may consist of only a verb (plus inflection), or only anoun or adjective, but in most other discourse contexts a predicate with at least onenominal argument (usually the subject) is the norm.
+(1)    yo-cak-wob-ni-yó/,          póh tˆh w’ob-yˆ¤/-ay-áh,        nukán,   wáb-an
+       pull-climb-rest.on-be-SEQ   high 3sg   set-TEL-INCH-DECL over.here jirau-DIR
+       ‘Having pulled (her children) up, she set (them) up high, here, on the jirau.’
+       (P.BT.95)
+                                                                                             906
+(2)    cet-ham-tubud-yˆ¤/-ˆ¤y,                  hup=/ãêy-a‡n!
+       carry.on.back-go-INTS3-TEL-DYNM person=FEM-OBJ
+       ‘(The tapir) carried the woman a long way off!’ (H.TY.79)(3)    nút=mah, ba/tˆ‡b-a‡n        g’´ç-g’et-pó-h!
+       here=REP       spirit-OBJ   bite-stand-EMPH1-DECL
+       ‘Here, it’s said, (he) bit the spirit!               ha‡t        g’´ç-g’et-pó-h,            [ba/tˆ‡b’ hoho‡/-ót]
+               alligator bite-stand-EMPH1-DECL         spirit   rib.cage-OBL
+               The alligator bit (him), on the spirit’s ribs.’ (M.BK.75)       While verb-final constituent order is basic in Hup, an alternative order, in whichthe verb precedes the subject in the declarative clause, is also in use. This order is oftenfavored when the clause encodes an ongoing or currently relevant event, and particularlywhen the subject is a pronoun; these clauses are therefore common in everydayconversation, but quite infrequent in narrative and other types of discourse. In suchcases, the verb is usually marked with the Dynamic suffix -Vêy, but other BoundarySuffixes are possible (e.g. Inchoative -ay, Negative -nˆ¤h, etc.).","[922, 923]"
+"       Examples of this clause type are given in (4-5).
+(4)    /amˆ‡h       tegcá/     d’ó/-óy       páh      /ãêh-ãêh!
+       2sg.POSS wood.box take-DYNM           PRX.CNTR 1sg-DECL
+       ‘I took your matches!’ (B.Cv.136)(5)    tˆ¤h-ˆ¤y     yúw-úh,          páti!
+       lie-DYNM that.ITG-DECL Pattie
+       ‘That one’s lying, Pattie!’ (B.Cv.136)       The functional and historical motivations for this Verb-Subject constituent ordervariant in the declarative clause may be several. Fronting the verb in relation to thesubject places focus on the event itself; this is consistent with the verb’s typical aspectualvalue in such cases (usually Dynamic; i.e. action in progress or otherwise relevant to thespeech moment), and with the fact that the pronominal subject is relatively giveninformation. That this constituent order strategy reflects the information structure of theclause is supported by the fact that subjects which are full nominals are more likely to beclause-initial (example 6). Subject-final order also makes it possible both for the clauseto receive Declarative marking and for the verb to be marked with the Dynamic markeror some other Boundary Suffix (which otherwise cannot co-occur with the Declarative onthe verb), such as Negative -nˆ¤h.
+(6)    wç‡h         pQcQ¤w=d’´h b’ˆ¤yˆ/       ní-íy
+       river.indian youth=PL          only     be-DYNM
+       ‘There are only River Indian boys.’ (B.Cv.131)
+                                                                                              908
+        It is important to note that while this subject-final constituent order strategy istypical in Hup discourse when expressing events in progress, it also has a parallel in thegeneral information-packaging conventions of Hup, whereby arguments are oftenexpressed (or re-stated) as external arguments to the main clause, following the predicatein little appositional packages which are independently marked with the Declarativesuffix (while the preceding clausal material may also take the Declarative marker; seebelow). The predicate-final subjects in examples such as (4-5) should probably not beconsidered as external to the main clause, however; they are not co-referential with anyother subject nominal in the clause, and Declarative marking on the verbal predicate inthese cases is not grammatical, suggesting that the predicate is understood to be reallyclause-internal.","[924, 925]"
+"Inanimate actors in these constructions occur in Oblique case (see §4.3.4.1.D).
+(18)   /am ya/ám-a‡n hup=wQd-té-h
+       2sg    jaguar-OBJ     RFLX=eat-FUT-DECL
+       ‘A jaguar will eat you!’ (OS)
+E. Discussion: multiple object marking in the clauseBecause Hup uses the same object-marking strategy for different core participants of aclause, as many as three identically marked participants can co-occur when theanimacy/definiteness requirements are met. However, this is very rare in normaldiscourse, where participants that can be recovered from the context are typically leftunstated. Elicited examples are provided in (19-21).
+                                                                                            229
+(19)   hoca‡y      deníci-a‡n tˆh=dó/-a‡n d’o/-be-yQ‚êh-Q‚êy,       teréca-a‡n
+       Rosalino Denise-OBJ 3sg=child-OBJ take-show-order-DECL Teresa-OBJ
+       ‘Rosalino makes Denise show the child to Teresa.’ (EL)(20)   /ectedimá pawdína-a‡n hç‚Ùp d’o/-nç/-/u‚êh-u‚êy,        yubínu-a‡n
+       Esterimar     Paulina-OBJ    fish   take-give-APPL-DYNM Jovino-OBJ
+       ‘Esterimar gives fish to Paulina for Jovino.’ (EL)(21)   núp      hç‚p-a‡n /a‡n      nç/-/u‚h-/áy         hám,    pawdína-a‡n
+       this     fish-OBJ   1sg.OBJ give-APPL-VENT.IMP go.IMP Paulina-OBJ
+       ‘Go give this fish to Paulina for me.’ (EL)       Constituent order in these examples is fairly free, as it is generally in Hup (see§17.3.1), and the respective roles of participants would under normal circumstances belargely recoverable from the discourse context. In elicitation, however, the generalpattern seems to be that the least prototypically ‘core’ participant is clause-final,following the verb. This pattern can be avoided without ambiguity in (21), where thedirectional verb form makes it clear that the speaker cannot be the recipient, but only thebeneficiary. The identity of the -a‡n-marked nominal as direct object vs. recipient seemsto be primarily dependent on pragmatics, rather than word order, with consultantsmaintaining that the interpretation of ‘show the child to X’ was the same whether theword order was Recipient-Object or vice versa, and preferring a more complex series ofclauses to communicate ‘show X to the child’.","[245, 246]"
+"§4.3.1.2.F) (see example 68 above).
+(71)        yu‚Ù   g’o‡g         [/ãh kéy-ep]=/i‚h-a‡n           mQh-yˆ¤/-ˆ¤y
+            João    titi.monkey 1sg see-DEP=MSC-OBJ               kill-TEL-DYNM
+            ‘John killed the titi monkey, the one I saw.’ (EL)            Other features of the relative clause in Hup apply regardless of nominalizationstrategy or headedness. Constituent order is generally like that of the declarative clause,but is consistently verb-final (whereas the declarative clause is more variable), with notacked-on arguments external to the main part of the clause permitted. The order ofsubject and object in transitive relative clauses depends on their topicality, just as it doesin declarative clauses, and subjects are frequently dropped. Most Inner Suffixes canoccur in a relative clause (preceding the Dependent marker, plural morpheme, or casemarker), e.g. Future/purpose -teg- / -te-, Habitual -bˆg- / -bˆ-, and Ventive -/ay-.",[1018]
+"When both objects are present, their order is governed mainly by pragmatics. Theirrespective identities are usually not in question, since recipients/beneficiaries are morelikely to be human or at least animate (and receive differential object marking), whiledirect objects tend to be inanimate. However, even if both objects are human—leading topotential ambiguity between object and recipient/beneficiary—their order is quite flexibleand is determined by pragmatics and context. For example, consultants interpret both of
+                                                                                                916
+the elicited options in (26) to mean ‘I show you the child’, since this is the morepragmatically expected scenario:
+(26) a) tˆh=dó/-a‡n /ám-a‡n /ãh bé-éy                       b) /ám-a‡n tˆh=dó/-a‡n /ãh bé-éy
+       3sg=child-OBJ 2sg-OBJ 1sg show-DYNM                      2sg-OBJ 3sg=child-OBJ 1sg show-DYNM
+                                     ‘I show you the child’ (EL)Where a ditransitive clause involves a causitivized transitive verb, there seems to be somepreference (in elicitation contexts) for the object of the main predicate to precede theobject of the embedded transitive, but consultants judge both interpretations to beacceptable:
+(27)   tã/ãêy    tˆh=dó/-a‡n         páti-a‡n     key-yQ‚êh-Q‚êy
+       woman     3sg=child-OBJ Pattie-OBJ see-request-DYNM
+       ‘The woman tells the child to look at Pattie.’
+       (Or: ‘The woman tells Pattie to look at the child’) (EL)       In actual discourse, however—in these cases where both ditransitive objects areactually present—their respective order is highly interchangeable. This is particularlyapparent in example (28), where the speaker switches the order of the object nominals(‘drink’ and ‘him’) between repetitions of the same clause:
+(28)   /´‡g     tˆ¤h-a‡n     t ˆh    g’çp-çh,       b’ç‡/      po‡g-ót!
+       drink    3sg-OBJ      3sg     serve-DECL     cuia       big-OBL
+       ‘She served drink to him, in a big cuia!                b’ç‡/      po‡g-ót    nút=mah       tˆ¤h-a‡n     /´‡g      t ˆh   g’çp-çh!
+                cuia       big-OBL    here=REP      3sg-OBJ        drink   3sg serve-DECL
+                In a cuia this big she served him drink! (P.CC.85)Further examples of the flexible ordering of ditransitive objects are given in (29-32); ingeneral, newer, more focused information precedes older, more topical information. In
+                                                                                              917
+(29-30), the recipient or indirect object precedes the direct object (as it also does in 31below):
+(29)   ‘máy!     teghç‚=/ãêy-a‡n              dadánya /ˆn       du-wQd-/áy-ay-áh
+       let’s.go Non.Indian=FEM-OBJ orange                 1pl   sell-eat-VENT-INCH-DECL
+       ‘C’mon! Let’s go sell some oranges to the Non-Indian girl.’ (P.txt.92)(30)   nˆ¤N-a‡n yˆ)ê-n’ˆ‡h              /ˆd-tuk-nˆ¤h      /ãêh-ãêh
+       2pl-OBJ that.ITG-NMZ speak-want-NEG 1sg-DECL
+       ‘I don’t want to say this to you all.’ (P.Sp.111)In (31-32), the direct object precedes the recipient or indirect object:(31)   /amˆ‡h      kág’          /a‡n         be-kQ‡m!
+       2sg.POSS forehead         1sg.OBJ      show-IMP2
+       ‘Show me your forehead!’ (M.NS.65)(32)   yúp=mah         yawa‡ç              kág’=mah       ba/tˆ‡b-a‡n tˆh bé-éh
+       that.ITG=REP    Titi.Monkey forehead=REP spirit-OBJ           3sg   show-DECL
+       ‘So he showed the monkey’s forehead to the spirit.’ (M.NS.66)Note that pronominal subjects in these clauses tend to immediately precede the verb, justas they do in mono-transitive clauses; non-pronominal subjects, on the other hand—whileinfrequent—are more likely to be clause-initial (supporting the argument that basicconstituent order is AOV):
+(33)   tˆh=tQ‚h/ín           tˆ¤h-a‡n      wQ‡d   nç¤/-ay-áh
+       3sg=child.mother 3sg-OBJ food              give-INCH-DECL
+       ‘His wife gave him food’ (P.CC.85)       Finally, objects of ditransitive clauses may be tacked on behind the predicate asexternal arguments (example 34), just as in mono-transitive clauses. In the very rarecases in which a clause has more than three explicitly stated arguments (i.e. a tritransitiveapplicative construction), then at least one argument (usually the beneficiary of theapplicative) occurs in this external or clause-final position.
+                                                                                              918(34)   yúp      mi‡h   kinim hç‚k-d’o/-yó/=mah tˆh           d’´h-d’´h-wáy-áh,       ba/tˆ‡b’-a‡n
+       that.ITG turtle wrist    saw-take-SEQ=REP       3sg send-send-go.out-DECL spirit-OBJ
+       ‘So having cut off the turtle’s foot, it’s said, he passed (it) out to the spirit.’
+       (M.NS.66)
+17.3.2. Declarative marker -VêhThe vowel-copying Boundary Suffix -Vêh—perhaps the most ubiquitous bound morphemein Hup—marks the declarative clause. While it is not obligatory on every declarativeclause in Hup (its place may be filled by other Boundary Suffixes) it is very oftenpresent. Conversely, it is obligatorily absent from all other major clause types in thelanguage: interrogative, imperative, optative, apprehensive, and subordinate, as well as(in most circumstances) negative.187 The Declarative marker is a member of the subset ofparallel vowel-copying suffixes defined in Table 17.1 above, which exist in a mutuallyexclusive relationship on clause-final verbs and mark each of the various clause types.","[932, 933, 934, 935]"
+"         The most basic morphosyntactic patterns that define the various types of mainclauses are listed below. Because the order of subject and object arguments in transitive186
+    Exceptions to this rule may occur in cases of clause linkage, principally regarding the suffixes -Vêy and
+-Vêh; see §18.1.2 and below.
+                                                                                          904
+clauses is highly flexible (as discussed in §17.3.1 below), objects are not included inthis schema. The patterns are indicated using the subset of Boundary Suffixes given inTable 17.1 above, which are the most common markers of clause type, but it is importantto note that other Boundary Suffixes may appear in their place. For example, verb-finaldeclarative clauses may be marked with the Negative suffix -nˆh (or various other forms)instead of the Declarative or Dynamic markers, and imperative clauses may take thestrong imperative suffix -kQ‡m instead of the -Ø form and high tone.","[920, 921]"
+"Nevertheless, the verb or predicate of the clause is often separated from its clause-finalargument (whether subject or object) by a slight pause (as is the case in 24-25),suggesting a juncture. The actual status of these post-verbal arguments as inside oroutside the main clause will have to await future research.
+(24)   /ˆd-cˆ‚êw-ˆê‚y          j’ám          tˆ¤h-a‡n,   /ãêh-ãêh
+       speak-COMPL-DYNM DST.CNTR 3sg-OBJ                 1sg-DECL
+       ‘I already spoke to her.’ (B.Cv.87)(25)   /ãh hipãh-cˆ‚w
+                    ê -ˆ‚êy,          hˆ¤d-a‡n
+       1sg     know-COMPL-DYNM 3pl-OBJ
+       ‘I already know (how it is with) them.’ (P.Sp.109)       The order of constituents in ditransitive clauses follows similar guidelines to thatin transitive clauses. The dropping of one or even both objects from the clause is quitecommon, since the participants can usually be recovered from the discourse context.",[932]
+"        Despite the fact that both subjects and some objects are unmarked and thatconstituent order is fairly free in Hup (see §17.3.1), ambiguity is easily avoided. Giventhat differential object marking reflects the fact that humans are more prototypical agents,whereas inanimate objects are more prototypical patients, any potential ambiguitybetween agents and patients in Hup discourse is mostly limited to cases of interactionbetween animals. When such cases do come up, context and the optional application ofobject marking are the primary means of differentiating agents from patients, but if noother clues are available speakers interpret the clause according to SO constituent order(see §17.3.1).",[248]
+"       A crucial feature of clause-final subjects in declarative clauses is their inability tostand by themselves without additional morphology—a feature that sets apart this VSconstituent order as clearly more marked than the more neutral verb-final order (inaddition to the fact that the clause-final subject is frequently a pronoun). In this context,subjects are obligatorily marked by an inflectional suffix, most often the Declarative -Vêh(§17.3.2 below), but other markers are also possible. If an unmarked subject does occurin clause-final position, the clause can only be interpreted as a polar interrogative (see§17.4.2 below). Third person pronouns in post-verbal position are typically the
+                                                                                           907
+‘intangible’ demonstrative variants (yu), rather than the regular personal pronominalforms (cf. §6.3).","[923, 924]"
+"       This external argument strategy is common with objects, as illustrated in thefollowing examples. In (20) both subject and object are stated as pronouns in the mainclause, and then restated more explicitly in the string of arguments that follow.(19)   de‡h   hç¤n-çp=mah          tˆh kéy-éh,       tˆ¤h-a‡n-áh
+       water vomit-DEP=REP 3sg         see-DECL      3sg-OBJ-DECL
+       ‘While (ritually) vomiting water, he saw her (reflected in the water).’
+       (M.KTW.99)(20)   yˆ¤t=mah tˆ¤h-a‡n      tˆh g’´ç-d’o/-póg-b’ay-áh,
+       thus=REP 3sg-OBJ 3sg bite-take-EMPH1-AGAIN-DECL
+       ‘So then he bit him,               ha‡t=b’ay-áh,            tˆnˆ‡h        mumuy=cúm, ba/tˆ‡b’-a‡n-áh
+               alligator=AGAIN-DECL 3sg.POSS arm=beginning          spirit-OBJ-DECL
+               (did) the alligator, on his upper arm, (bit) the spirit.’ (M-BY.96)This strategy of expressing arguments externally to the main clause also applies tooblique constituents, as in (21), where the demonstrative ‘here’ of the main clause iselaborated following the predicate.
+(21)   nút    h ˆd     ni-/e‡-h,        núp      mç‡y-ç¤t
+       here   3pl      be-PERF-DECL     this     house-OBL
+       ‘They lived here, in this house.’ (B.Cv.134)
+                                                                                           914
+         This tendency to restate nominal arguments as little self-contained packages ofinformation, external to the main clause, is especially frequent in narrative discourse inthe Umari Norte dialect (examples 22-23). This probably has to do with the fact thatverbs in this dialect almost always occur with their pronominal subjects (often clearlyprocliticized), which are then clarified as co-referential external arguments marked with-Vhê .
+(22)     mih-a‡n=maám              tu-hup-y´¤d-´¤h,         tˆ¤h-ˆw-ˆ¤h,   tah-áh
+         turtle-OBJ=REP.DST.CNTR 3sg-RFLX-hide-DECL 3sg-FLR-DECL tapir-DECL
+         ‘He hid himself from the turtle, he (did), the tapir.’ (JA.AJ.70)(23)     maca-cák-maám              tˆh-a‡n    tˆh    wçn-hám-ay=mah       yúp,
+         heal-climb-REP.DST.CNTR    3sg-OBJ 3sg       follow-go-INCH=REP   that.ITG
+         ‘Having got well and climbed out (of the hole), he followed after him,                mih-íh,       tah-a‡n-áh
+                turtle-DECL tapir-OBJ-DECL
+                (did) the turtle, (after) the tapir.’ (JA.AJ.65)         Not every post-predicative NP can easily be interpreted as external to the mainclause, however, especially when the NP is not co-referential with another NP statedwithin the main clause (as opposed to cases like examples 20 and 23, where the externalsubject and object reference pronouns in the main clause). Subjects, as noted above,frequently appear post-verbally, and there often is little or no evidence that this isanything more than a variation in clause-internal constituent order (although subjectscertainly can and often do appear as external arguments, as the examples aboveillustrate). In many of these cases of Verb-Subject constituent order, Declarative -Vêh isnot acceptable on the preceding verb (which may take the Dynamic or some otherBoundary Suffix), suggesting that the verb is clause-medial (example 24; see also 4-5
+                                                                                             915
+above). Post-verbal objects are likewise not always clearly external to the mainclause, as in (24-25); again, this is the case when the clausal chunks are not distinguishedfrom each other by the Declarative marker (which tends to be optional on clause-finalobjects, unlike clause-final subjects) and the object is not co-referential with another NP.","[930, 931, 932]"
+"Depending on the formative, there is some flexibility in this order. A general schema ofthe slot series that makes up the verbal template is given below, in which the numberscorrespond to the order of formatives when moving from left to right in the verb word.
+                                                                                             473
+Forms appearing under the same numbered slot are usually mutually exclusive (withcertain exceptions), but many forms that fall in different slots also do not co-occur (oftenfor reasons that are probably semantic, rather than morphosyntactic). For this reason thenumber of slots in the template is much higher than the number of morphemes present ina given word.","[489, 490]"
+"        Compounds of this type represent a set of distinct sub-events (each indicated by acomponent stem) that are conceptualized (often loosely) as a single, unified event. Bydefinition (and in contrast with the relatively more integrated compounds discussed in§9.4.2 below), the events encoded by the stems are temporally distinct; that is, they arenot simultaneous. The order of verb stems reflects the chronological order of sub-events,111
+  Ospina (2002: 381) reports that in Yuhup, old peoples’ speech occasionally suggests traces of the basic
+TAM suffix -i occurring between verb stems within compounds. She observes that this may reflect a prior
+                                                                                           492
+or a cause-effect relationship between them, and in many cases the compound can bebroken up into a series of multiple, coordinated predicates without changing the generalmeaning of the utterance. The type of event that may be conceptualized as unitary variesfrom language to language (Durie 1997: 326-9); for example, the chain of eventsrepresented in the compound in (8) below could not be represented in a single serial verbconstruction in some African languages, such as Fongbe (Claire Lefebvre, p.c.).","[508, 509]"
+"       The most commonly used causativizing stems in verb compounds are somewhatgrammaticalized, and contribute a semantics to causative constructions that is distinctfrom their meanings as independent verbs. Among the most productive of these are thecompound-initial transitive stems d’o/- (literally) ‘take’ (causation with directinvolvement), as in d’o/-/ç‚h- (take-sleep) ‘put to sleep’ (i.e. a child); d’´h- ‘send’(causation with less direct control over the event), as in tac-d’´h-ye- (kick-send-enter)‘cause to go into (house, etc.) by kicking’; and g’et- ‘stand’ (oversee, bring aboutanother’s action), as in g’et-bˆ/- (stand-work) ‘lead/oversee in working’. Severalcompound-final roots are also used productively to create causative verb compounds;these include bˆ/- ‘work’ (bring about through effort), as in pe/-bˆ/- (sick-make) ‘make(someone) sick’; and yQ‚h- ‘compel, request, order’ (force or request another’s action), asin wQd-yQ‚h- (eat-order) ‘compel or order to eat’. Note that different causative verb rootscan sometimes also be substituted for each other, resulting in variations in meaning, such
+                                                                                         629
+as g’et-wQd- (stand-eat-) ‘feed, provide with food’, vs. wQd-yQ‚h- (eat-order/compel)‘make, order to eat’.","[645, 646]"
+"       Hup has nominative-accusative alignment and employs morphological casemarking. In general, it favors dependent marking (realized mainly as nominal casemarking and possession marked on the possessor). Hup grammar shows sensitivity to ananimacy hierarchy and particularly to humanness; this is particularly evident in itssystems of differential object case marking and differential or ‘split’ plural/collectivemarking, which reflect the animacy of the referent. Such differential grammaticalmarking is a feature of the languages of the Vaupés region generally.
+                                                                                            3
+       Other features of Hup grammar include a basically verb-final constituent order;this is best characterized as AOV, although the relative order of A and O is highlyflexible. In addition, Hup has developed a complex evidentiality system (with fivedistinctions) and an incipient system of noun classification; these features also fit theregional profile, and their development in Hup has probably been motivated by contactwith Tukano. Finally, an intriguing aspect of Hup grammar is the significant and evenexuberant polyfunctionality of many morphemes, which in most cases reflects traceablehistorical processes of grammaticalization.","[19, 20]"
+"9.4.2.2. Order of stems in compoundsIntegrated compounds formed from the stems in the classes above are very common inHup. The order of combination of stems follows specific conventions based on theirclass membership. Since these are semantically defined classes, it is possible to make asemantic generalization about the stem-ordering conventions: the most time-stableconcept is the last in the string of stems. The members of the two closed classes,motion/path and position, are relatively time-stable and tend to be last when they occur.",[525]
+"       Intonation in polar questions tends to be relatively high throughout the clause(compared to declarative and other Hup clause types); it is fairly level, but falls slightly atthe end of the clause (as does intonation on constituent questions). The fact that Huppolar questions in general have a relatively higher intonation than declarative clauses is atypologically common pattern; even the placement of the higher intonation at thebeginning of the clause rather than at the end is typologically not unusual (cf. Siemund2001: 1013).
+                                                                                         946
+       Examples of predicate-focused polar questions are given in (123) (posed on themorning after a drinking party), and (124), which was uttered by a grandmother,exasperated by the younger men’s liquor-drinking.
+(123) /´g-na/-yˆ¤/-ˆ¤y                          nˆ¤N?
+       drink-lose.consciousness-TEL-DYNM 2pl
+       ‘Did you all get drunk?’ (OS)(124) wQ‡d=yˆ¤/ nˆ¤h-ˆ¤y            nˆ¤N-a‡n      tˆ¤h ?!
+       food=TEL      be.like-DYNM 2pl-OBJ 3sg
+       ‘Is it just like food for you all?!’ (B.Cv.90)Because predicate-focused polar interrogatives require a pronominal subject, the subjectreferent can only be referred to by non-pronominal means externally to the interrogativeclause (i.e. in cases where it is not already clear from the discourse):
+(125) mangá         tá/-ay,          hˆ¤d-a‡n      yamhidç/-nˆ¤h    tˆ¤h ?
+       Margarita    REL.INST-INCH 3pl-OBJ sing-NEG                  3sg
+       ‘What about Margarita, did she sing to them?’ (TD04.Cv)       The interrogative discourse-marker =b’ay (see §17.4.1 above) is very common inpolar questions, where it follows the clause-final subject:
+(126) hi-wag-yˆ/-pó-y                    hˆ¤d=b’ay,         /ána?
+       FACT-day-TEL-EMPH1-DYNM 3pl=AGAIN                    Ana
+       ‘Did they stay up all night, Ana?’ (TD.Cv.97)(127) nutQ‡n bˆ/-ní-íy             nˆ¤N=b’ay?
+       today       make-be-DYNM 2pl=AGAIN
+       ‘Did you all work today?’ (B.Cv.90)       Negatively biased polar questions are phrased as negative predicates within theinterrogative clause (example 128). A negative polar interrogative can also be used as apolite invitation (example 129).
+                                                                                        947(128) ham-nˆ¤h-ay      /ám?
+       go-NEG-INCH     2sg
+       ‘Are you not going?’ (OS)(129) wQd-nˆ¤h-ay      /ám?
+       eat-NEG-INCH 2sg
+       ‘Won’t you eat something?’ (OS)       Emphasis in polar questions can be signaled via the clause-final Focus marker-áh, as well as the predicative Emphasis form -pog:
+(130) ham-pog-tég       nˆ¤N-áh?!
+       go-EMPH1-FUT 2pl-FOC
+       ‘Will/would you really go?!’ (B.Cv.81)       Polar interrogatives involving predicate nominals are typically identity questions,and are most commonly formed with the ‘intangible’ demonstrative yúp (often yúp=b’ayin Barriera; yú in Tat Deh):
+(131) mçhç‡y=yˆ/     yúp?
+       deer=TEL      that.ITG
+       ‘Is that a deer?’ (EL)       Perhaps the most frequent use of polar questions is the standard Hup greeting,which involves asking a question about whatever the addressee is obviously engaged in atthe time. These questions are clearly not really requests for information—the formulavirtually requires the answer to be obvious—but are a conventionalized speech act for thepurpose of social interaction. The standard answer is an affirmative repetition of the verbphrase (see §17.4.5 below). One of the most conventionalized of these questions is thestandard morning greeting (example 132). Other common greetings are provided in(136-38); (133) is often said when entering a house where a number of people are
+                                                                                        948
+gathered, and (135) is conventionally used to greet a visitor from another communityon his/her arrival in one’s own village. As expected, addressing more than one personrequires the second person plural pronoun nˆ¤N in place of singular /ám, as in (133).(132) c´w´¤/-´¤y          /ám?
+       awake-DYNM 2sg
+       ‘Are you awake?’ (OS)(133) ní-íy        nˆ¤N?
+       be-DYNM 2pl
+       ‘Are you all here?’ (OS)(134) g’ãê/-ãêy            /ám?
+       suspend-DYNM 2sg
+       ‘Are you lying in a hammock?’ (OS)(135) nQ¤n-Q¤y           /ám?
+       come-DYNM 2sg
+       ‘Have you arrived?’ (OS)Likewise, situation-specific questions regarding the addressee’s current (observable)activity are perfectly acceptable greetings:
+(136) te‡g    t´¤/-´¤y            /ám?
+       wood light.fire-DYNM 2sg
+       ‘Are you lighting a fire?’ (OS)(137) hQ¤w-Q¤y           /ám?
+       scrape-DYNM 2sg
+       ‘Are you scraping (manioc)?’ (OS)       The word order inversion strategy used in these predicate-focused polar questionsis undoubtedly the most typologically striking feature of Hup. Such use of word orderinversion in polar questions is common in European languages, but it is relativelyuncommon elsewhere in the world. Moreover, the fact that it is the only interrogativesubtype in Hup to use a word order inversion strategy violates—at least marginally—
+                                                                                                            949
+Greenberg’s (1966) universal 11, which states that inversion with polar interrogativesonly occurs in those languages which use inversion to mark constituent interrogatives.193However, inversion in polar questions is restricted in Hup; it involves only pronominalsubjects, and does not occur in constituent-focused polar questions (see §17.4.3 below).","[962, 963, 964, 965, 966]"
+"Comparative Note          Verb compounding is an areal feature in the Vaupés region. It is a veryproductive process in East Tukanoan languages, in which—as in Hup—verb compoundsmake up a single phonological word, and roots tend to follow a fixed order, inseparableby other morphemes (cf. Miller 1999: 88, Aikhenvald 2002b: 137). Tukanoan verbcompounds likewise often involve the combination of both a transitive and an intransitivestem, resulting in a construction with complex valency—and like Hup, the Tukanoan
+                                                                                        483
+languages are verb-final. Verb compounding in East Tukanoan languages alsodiachronically yields markers of aspect, valency-changing, and Aktionsart. Unlike Hupcompounds, on the other hand, compounds in Tukano normally have no more than twoco-occurring verbs (Ramirez 1997: 375, Aikhenvald 2000: 9). Both productive verbserialization and limited verb compounding exist in Tariana (Aikhenvald 2002b: 136-7).","[499, 500]"
+"The order of the Plural and Object markers in this form is important; compare the distinct58
+  Note that the fusion results in a phonologically monomorpheme-like form which is fully nasalized, in
+keeping with nasality’s role as a morpheme-level prosody in Hup generally (see §2.3.1).
+                                                                                         238
+form -a‡n-d’´h (Associative plural, §4.4.6 below), which is apparently formed from thesame two morphemes in the opposite order.","[254, 255]"
+"       A basic phrase structure template for the NP (in which the noun stem N may beeither compound or simple) is provided here. The order of the constituents is fairly rigidwithin the NP itself; when numerals, demonstratives, or possessors follow the noun, theyare probably best interpreted as appositional NPs in their own right, or even as predicatenominals.",[378]
+"        Below, I introduce the different semantic classes of stems. While there is noformal indication in the stem itself regarding its semantic class, the class membershipdoes play an important role in determining the order of stems in a compound (whentemporal sequence is not a factor). There is thus is a language-internal formal realitybehind the semantic class assignments listed here. These ordering principles arediscussed in the following section (§9.4.2.2).a) Motion/path. Closed class.",[521]
+"17.4.3. Polar questions with focus on constituentThis interrogative strategy is typically used in questions involving a focused constituent,and is also very common for rhetorical purposes, such as when responding to a speaker(i.e. a ‘backchanneling’ strategy akin to ‘really?’, ‘is that right?’, ‘uh-huh’, etc. inEnglish). Its formal organization is essentially like that of the constituent or ‘question-word’ question, but without the initial question word; however, like the predicate-focusedpolar questions discussed above, it solicits a yes-no answer. Its constituent order is thesame as that of the typical declarative clause, from which it is formally distinguished bythe presence of the Interrogative Boundary Suffix -V/ (or the unreduced form of theFuture suffix -tég) on the clause-final verb, in place of the Declarative marker -Vêh.",[966]
+"       When the grammatical subject has a high level of responsibility and agency inbringing about the event, the semantic overlap between the reflexive and passiveinterpretations is particularly clear. For example, (23) is frequently said as a warning tosomeone—especially a child—who is venturing out in the woods alone:
+(23)   /ám ya/ám-a‡n hup-wQd-té-h
+       2sg    jaguar-OBJ    RFLX-eat-FUT-DECL
+       ‘You’ll get (yourself) eaten by a jaguar.’ (OS/EL)Constructions with Reflexive hup- are nevertheless often neutral as to the degree of thesubject’s agency in bringing about the event, and may take a quite straightforwardpassive interpretation. Further examples are provided in (24-26). Example (24) comesfrom a story in which the jaguars have just thrown their victim’s head into the river, onlyto witness it floating in the current and making a spooky sound, foretelling their owncoming demise.
+(24)   hˆ¤d-a‡n     tˆh    nín’-iw-ay
+       3pl-OBJ      3sg    bad.omen-FLR-INCH
+       ‘It ‘bad-omened’ them.                  “hup-nín’-íy,          /ˆ¤n-ˆ¤h,”   nç-yó/=mah
+                   RFLX-bad.omen-DYNM 1pl-DECL        say-SEQ=REP
+                  “We’ve gotten ‘bad-omened’,” they said…’ (H.71)(25)   hup-hipo/-nˆ¤h-ay=nih=mah                 yˆ-d’´‡h-´¤h
+       RFLX-meet-NEG-INCH=EMPH.CO=REP            that-PL-DECL
+       ‘And they were not caught, they say (by their mother).’ (I-M.20)
+                                                                                             587
+(26)    nu-cá/-áy=n’a‡n         /ãh      hup-/ˆd-muhu‚ê/-u)ti/
+        this-side-DYNM=PL.OBJ    1sg      RFLX-speak-play-EMPH.TAG
+        ‘I get scolded by the people around here.’ (T-PN.3)        Note that the occurrence of the preform hup- as separated from the verb by astated direct object is acceptable with the passive interpretation, as in the moreprototypical reflexive case (see §11.1.1 above):(27)    hˆd=báb’ hup=yág               w’ˆ¤t-ˆ¤y
+        3pl=sibling RFLX=hammock tie.hammock-DYNM
+        ‘Their brother is having his hammock tied (by someone else).’ (EL)        As discussed above, the interpretation of hup as a prefixed verbal Reflexive or anencliticized nominal Reflexive intensifier may be ambiguous. Where the subjectundergoer of the (passive) clause outranks the actor (agent of the corresponding activeclause; now an oblique argument) in terms of person or humanness, a passive reading istypically the default interpretation of a clause with hup (regardless of word order, as inexample (23) above). On the other hand, in the case where the oblique actor outranks thesubject undergoer, the interpretation of hup can be sensitive to variation in word order.","[603, 604]"
+        Verb-final constituent order is the norm when clauses encode events that are notcurrently in progress or otherwise concurrent with the temporal frame of reference.,[925]
+"        In addition to the quotative function of the Reportive evidential, commands andrequests in Hup can be related indirectly by the verb yQ)h- ‘request, order’, which usuallyappears in compounds such as bˆ/-yQ)h- ‘request/order to work’ (see §9.4.1.2).
+                                                                                           990
+18.2.2. Cosubordination and predicate reduplication with ni-Hup relies on the verb ni- (which is idiosyncratic in a number of ways, see §8.4) to forma particular strategy of clausal cosubordination. According to this strategy, which isstrictly limited to ni- among Hup verbs, a string of dependent clauses is followed byutterance-final ni-. While ni- is inflected normally with a Boundary Suffix, thusconstituting a main clause predicate, the verbs in the preceding predicates all lack theBoundary Suffix that is otherwise obligatory for verbs in Hup (except for those inapprehensive and imperative clauses; cf. §3.4 and §8.3). These dependent predicatescarry the main information of the utterance, whereas ni- acts as a kind of ‘light’ or‘dummy’ verb, conveying no particular semantics but carrying the required inflection, theBoundary Suffix.","[1006, 1007]"
+"Apparently, given that Plural =d’´h is only grammatical with nominals in Hup, theadditional default nominalizer -Vp is unnecessary. Relativization with =d’´h isillustrated in the following example:
+(67)   /ecáp      có/    hˆd nQ¤n-ay-áh,        [hˆ¤d=n’a‡n   mQ¤h]=d’´h-´¤h
+       tomorrow LOC     3pl   come-INCH-DECL 3pl=PL.OBJ kill=PL-DECL
+       ‘The next day they arrived, those who (would) kill them.’ (E-SB.2)Note that while Plural =d’´h typically takes the place of the [-Vp + Head.nominal] unit inthe relative clause, it may also follow it. Both of these options ([Verb=d’´h] and [Verb-Vp + Head.nominal=d’´h]) are possible for most animate plural referents, as example
+                                                                                            999
+(68) illustrates; however, the masculine/ gender-neutral bound noun =/i‚h is virtuallynever followed by =d’´h (whether in a relative clause or in a compound noun, see§4.4.1.A).
+(68)   a)      tã/ãêy=n’a‡n   tˆh mQ¤h-Q¤y,     [tˆh ní=]n’a‡n-áh
+               woman=PL.OBJ 3sg beat-DYNM        3sg be=PL.OBJ-DECL
+               ‘He hits the women, those with whom he stays.’       b)      [tˆh ní-ip]=/ãêy=n’a‡n      tˆh mQ¤h-Q¤y
+                3sg be-DEP=FEM=PL.OBJ 3sg beat-DYNM
+               ‘He hits the women with whom he stays.’ (EL)       Hup’s third strategy for creating a relative clause relies on nominalization via acase marker (Object -a‡n or Oblique -Vêt). These relative clauses are fully headless, and(like those nominalized by Plural =d’´h) they lack the Dependent marker -Vp. They arenominalized by the addition of the case marker directly to the verb stem, with the Fillersyllable -Vw- (cf. §15.2.4) appearing obligatorily in the middle. Crucially, these relativeclauses must occupy the object or oblique position within the main clause in order toreceive the corresponding case marker. Headless relative clauses are extremely commonin object or oblique positions within the main clause (more common, in fact, than areheaded clauses in these positions), whereas they are very rare in subject position (wherethey are nominalized by -Vp only, as discussed above).","[1015, 1016]"
+"       Only two causative stems are used productively and regularly in theseconstructions: -bˆ/- ‘make, work’ (example 38), and -yQ‚h- ‘order, request, compel’(examples 39-40). These compounds resemble the relatively less ‘iconic’ constructionsdescribed below in §9.4.2, in that the order of stems does not reflect the order of events.",[518]
+"9.1. The verb compound and its component stemsSeveral different classes of compound verbs can be distinguished by the degree to whichthe events or states encoded in stems are integrated with each other. These form acontinuum that ranges from the least integrated, where the order of stems reflects atemporal sequence of conceptually linked events, to the most integrated, where somestems serve only to modify other stems by supplying aspectual or modal information. Inaddition, some compounds are highly lexicalized forms—presumably learned as units byspeakers—whereas others represent fully productive combinations of stems. Because ofthese differences from one compound verb to another, compounds in general are noteasily classified as either essentially lexical or essentially phrasal items. In other words,some compounds are essentially lexical items (to be learned as units), while others arefreely coined word-level ‘phrases’. A similar situation is reported for Yuhup (see Ospina2002: 334).",[497]
+"        However, we may still ask why Hup would have recourse specifically to classifierforms in naming these new items, given that classifiers are not required on other nouns inthe language generally. This question points to a second catalyst for the development ofthe system. This is linguistic conservatism—namely, the perceived need to avoidwholescale lexical borrowing in order to maintain linguistic identity. As discussed in(§1.5), it appears to be a feature of the Vaupés region as a whole (probably fostered bythe linguistic exogamy system among River Indian groups) that speakers of variouslanguage groups consider their identity to be intrinsically connected to their primary (or
+80
+  The Hupd’´h do use animal bone, turtle shell, stone, and (untanned) animal hide for a few items (such as
+the deer-bone flute mentioned above), but these are minimal. Traditionally, plants have provided gourds
+and leaves for bowls and cups, bark (softened by pounding) for native ‘cloth’, the materials and venom for
+blowpipes and darts, bows and arrows, etc.
+                                                                                         358
+father’s) language. This cultural focus on the emblematic function of language has ledspeakers of many Vaupés languages to consciously resist lexical borrowing, even whileunconsciously allowing their languages to converge on a structural level (e.g. Sorensen1967, Jackson 1983, Aikhenvald 2002). Probably for this reason, Hup speakers oftencreate a word from all-Hup components (verb/noun stem + classifier) for a new item,even when they are aware of its name in Tukano or Portuguese. Likewise, when Hupspeakers do use a borrowed word, they typically tack on an extra piece of Hupmorphology, a classifying term, to give the new name a clear Hup stamp.","[374, 375]"
+"9.4.1.1. Temporal sequenceThese compounds are the lowest on the scale of conceptual integration of events. Theorder of stems reflects the temporal succession of events, and may incorporate ‘nested’compounds. In (8), for example, the mythical figure’s penis was rubbed, broke off, fellinto the water, and was sent away by the current. Other examples are given in (9-12).
+(8)      tˆnˆ‡h       tˆ¤b,     t ˆh    yçyçp-j’ap-tu/-[d’´h-hám]=b’ay-áh
+         3sg.POSS penis 3sg             rub-snap-go.into.water-send-go=AGAIN-DECL
+         ‘His penis rubbed until it broke off, fell into the water, and was swept away.’
+         (LG-C.17)(9)      /Q‡ytQn=yˆ¤/ hˆd mQh-[b’uy-d’´h-ham]-yˆ¤/-ay-áh!
+         together=TEL          3pl     kill-throw-send-go-TEL-INCH-DECL
+          ‘Together they killed them and threw them out.’ (H.76)(10)     yú-uw-ˆ¤t=yˆ/=mah                 tˆ h   coh-tud-[k´dcak]-yˆ¤/-ay-áh
+         that-FLR-OBL=TEL=REP              3sg    pole-push-pass.climb-TEL-INCH-DECL
+         ‘With this (stick) he poled, pushed, and sent himself flying up into the air.’ (H.76)(11)     n’ikán /u‚hníy          nQn-g’et-yó/=mah...
+         there     maybe        come-stand-SEQ=REP
+         ‘Having come and stood about there, maybe...’ (P.BT.93)
+stage of verb serialization.
+                                                                                            493
+(12)   /ˆ¤n-a‡n ci/-mQh-yˆ¤/-ˆ¤y=mah!
+       1pl-OBJ urinate-kill-TEL-DYNM=REP
+       ‘He (Curupira) urinates on us to kill us, they say!’ (TD.Cv.04)
+       According to the temporal-sequence compounding strategy, the order of the verbstems must iconically reflect the order of events:
+(13)   a)         kayak=ti‡g         t´h-ci‚y’-yˆ¤/-ˆ¤y
+                  manioc=stem        break-poke.in-TEL-DYNM
+                  ‘(Someone) planted the manioc.’ (EL)
+                  (NB: manioc is planted by breaking the woody stems of adult plants into
+                  sections, which are then thrust into the ground to root)       b)         * kayak=ti‡g        ci‚y’-t´h-yˆ¤/-ˆ¤y
+                  manioc=stem poke-break-TEL-DYNM(14)   a)         hu‡d         núh       j’ap-wQ¤d-Q¤y
+                  sauva.ant    head      divide-eat-DYNM
+                  ‘Breaking the heads off sauva ants and eating (the ants’ bodies).’ (EL)       b)         * hu‡d       núh        wQd-j’áp-áy
+                  sauva.ant    head       eat-break-DYNM       It is common for transitive, ditransitive, and intransitive stems to occur togetherwithin a single compound, and for the different stems to take different objects. Inexample (14), the verbs ‘break’ and ‘eat’ cannot be understood as taking the same object,since the activity involves breaking the heads off sauva ants in order to eat the rest of theant (while the head is not eaten). In (15), the stem ‘pull up’ has the object ‘manioc’,while the ditransitive stem ‘give’, within the same compound, has the object ‘her’ (3sg):
+(15)   tˆ¤h-a‡n    kaya‡k     tç¤/       hˆd    kç/-nç¤/-ç¤y
+       3sg-OBJ      manioc     tuber 2pl        pull.up-give-DYNM
+       ‘They’ve pulled up manioc and given it to her.’ (EL)
+                                                                                          494
+          In many cases, however, it is ungrammatical for multiple transitive componentstems to take different objects (although this is common in certain causative compounds;see §9.4.1.2 below). As noted in §9.3 above, an alternative is a serial-like constructionwith the verb ni- ‘be’. The ungrammatical form in (16a) is contrasted with thegrammatical, non-compound construction in (16b) (repeated from (7) above):(16)      a)     *kayak=ti‡g,   yu‡b   hˆd ci)y’-d’úp-úh
+                  manioc=stem   cipó   3pl   poke.in-pull.down-DECL
+                 (Intended meaning: ‘We’ll both plant manioc and pull cipó.’)          b)     yub‡ d’u‡p,      kayak=ti‡g    c)iÙy’   /ˆn ni-té-h
+                 cipó pull.down manioc=stem poke.in 1pl       be-FUT-DECL
+                 ‘We’ll both pull cipó and plant manioc.’ (EL)9.4.1.2. Compounds encoding a cause-effect relationshipCausative compounds are relatively low on the scale of conceptual integration of events,although considerably less so than are those compounds that encode temporal succession.","[509, 510, 511]"
+"        The verb ni- thus appears to be a case in which an actual form – rather than agrammatical category – has diffused, probably moving from Tukanoan (although this isat present unclear) into the Nadahup languages and possibly into Tariana. For a form, aswell as a grammatical function, to spread by contact is relatively rare in the Vaupésregion, where borrowing of forms tends to be actively resisted (cf. §1.5). That a varietyof languages have apparently adopted this form may be due to its extremely commonoccurrence in discourse (e.g. in Tukano; cf. Ramirez 1997a: 116).
+                                                                                           480
+9. The compound verb
+       Verb compounding is an extremely productive process in Hup. Out of a cross-section of narrative and conversational texts, over 50% of verbs in the sample containedmore than one stem. This chapter defines the Hup compound and the principles by whichthe order of stems are determined.","[496, 497]"
+"       Content interrogatives are illustrated in the following examples. Note thatemphatic questions often involve the Emphasis particle -pog, as in (99).
+(96)   hˆ¤-n’ˆ‡h /am bˆ¤/-ˆ/ ?
+       Q-NMZ 2sg          work-INT
+       ‘What are you doing?’ (OS)(97)   hˆ‚ê-/a‡p   g’ˆ¤       /ám tç¤n-ç/ ?
+       Q-QTY       hot(season) 2sg   hold-INT
+       ‘How many years do you have (i.e. how old are you)’?’ (OS)
+                                                                                            940(98)    /u‡y yˆ‚ê         nç¤-ç/ ?
+        who   that.ITG give-INT
+        ‘Who said that?’ (B.Cv.86)(99)    /u‡y yˆê‚         nˆ¤h-pog-pˆ¤d-ˆ/ ?!
+        who   that.ITG be.like-EMPH1-DIST-INT
+        ‘Who the heck did that?!’ (B.Cv.94)Only one question word can be used per clause, but it is possible to append additionalquestion words to the main clause as external arguments:
+(100) hˆ‚ê-n’ˆ‡h    tˆh nç¤/-ç/ ?     /u‡y-a‡n/ ?
+        Q-NMZ       3sg   give-INT    who-OBJ
+        ‘What did she give? To whom?’ (EL)        Where Inner Suffixes are present, most (such as Applicative -/u‚h- andDistributive -pˆd- above) take the -V/ suffix, as would any verb stem. However, theFuture suffix pair -teg / -te- is exceptional: whereas clause-final verbs in declarativeclauses generally take the reduced form -te- followed directly by Declarative -h, only theunreduced form -teg can appear in an interrogative clause, as illustrated in (101-4). It ispossible (although rare) for the Future suffix -tég to receive an additional -V/ suffix, butthe reduced counterpart -te-/ cannot occur (example 103). This is not true ofphonologically reduced suffixes generally, as illustrated by the reduced sequence -bˆ-/ ofHabitual bˆ¤g / -bˆ¤- in (104). Note that the Future suffix is irregular in other ways as well;this may be due to its unusual historical origin (see §13.1).
+(101) hˆ-n’ˆ‡h /am bˆ/-tég?
+        Q-NMZ 2sg         make-FUT
+        ‘What are you going to make?’ (OS)
+                                                                                           941
+(102) hˆ‚ê-có/       /uê‚h       /ãh ham-tég     páh?
+        Q-LOC        EPIST 1sg         go-FUT    PRX.CNTR
+        ‘Where can I go now?’ (H-81)(103) hˆ¤nˆ¤y-keyó/                   /am ham-tég-(e/) (*ham-té-/) ?
+        Q.be.like.DYNM-cause 2sg             go-FUT-INT
+        ‘Why are you going?’ (EL)(104) n’ikán          hˆd cak-bˆ¤-/ ?
+        over.there 3pl          climb-HAB-INT
+        ‘They always climb up there?’ (TD.Cv.04.36)        With predicate nominals, no clause-final Interrogative suffix -V/ occurs. Theclause begins with the question word, and ends with the noun being questioned; this maybe a demonstrative, a demonstrative NP, or a full lexical noun (examples 105-07). In theTat Deh dialect, the ‘intangible’ demonstrative yúp has a special interrogative variantyúw, as example (105b) illustrates.
+(105) a)           hˆê‚-n’ˆ‡h     yúp ?
+                   Q-NMZ          that.ITG
+                   ‘What’s that?’ (OS; Barreira)        b)         hˆ‚ê-n’ˆ‡h     yúw ?
+                   Q-NMZ          that.ITG
+                   ‘What’s that?’ (OS; Tat Deh)(106) /u‡y yúp=/ãêy?
+        who   that.ITG=FEM
+        ‘Who’s that woman?’ (EL)(107) hˆ‚ê-n’ˆ‡h      yág?
+        Q-NMZ         hammock
+        ‘What hammock (is it)?’ (EL)        The enclitic =b’ay, which appears with nominal arguments as a topic-switchmarker (§7.1.3) and with verbal predicates as an aspectual marker of a repeated action orreturn to a state (§12.9.2), occurs frequently in interrogative clauses. It is always clause-
+                                                                                          942
+final, and it usually occurs on a noun, as in predicate nominal content interrogatives(examples 108-9), and also in polar questions (see below). Its function in interrogatives,where it attaches to a nominal constituent, appears to be linked to its function withnominal constituents more generally; that is, it may focus attention on a selection amonga group of possible referents or options, especially in relatively emphatic contexts.
+(108) hˆ‚ê-n’ˆ‡h=pog          yúp=b’ay,     c´¤c?!
+       Q-NMZ=EMPH1 that.ITG=AGAIN INTERJ
+       ‘What the heck is that?!’ (B.Cv.83)(109) /u‡y    yúp=b’ay?
+       who    that.ITG=AGAIN
+       ‘Who’s that?’ (B.Cv.90)In addition to appearing with clause-final nouns in interrogatives, =b’ay can also attachdirectly to some question words when these occur as independent utterances:
+(110) hˆ‚êp=b’ay,      hiê‚    tˆh /´g-pQ¤m-Q¤y /a‡p !
+       how=AGAIN only 3sg drink-sit-DYNM             NEG:ID
+       ‘How is this? She’s not just sitting there drinking!’ (TD.Cv.102)Although the normal function of =b’ay on verbal predicates is aspectual, it cannevertheless serve its discourse-marking function when it occurs on an interrogativeverbal predicate. In this case, it always follows the interrogative inflection on the verb, asin examples (111-13).
+(111) /u‡y    d’o/-yˆ/-pó-/=b’ay?
+       who    take-TEL-EMPH1-INT=AGAIN
+       ‘Who the heck stole it?’ (B.Cv.93)(112) hecinádo way-hu‚Ùy/ah=b’ay… /u‡y           yQ‚h-tég=b’ay?
+       Reginaldo go.out-after=AGAIN        who   order-FUT=AGAIN
+       ‘After Reginaldo leaves… who will send another (teacher)?’ (P.Sp.99)
+                                                                                                          943
+(113) hˆ‚êt     t ˆh    nç-d’o/-nˆh-tQê‚/-Q‚/=b’ay?
+         how 3sg        say-take-be.like-CNTRFACT-INT=AGAIN
+         ‘How could she respond?!’ (TD.Cv.104) (rhetorical)         In general, all nominal constituents of the main clause can be questioned, whetherthey are core or peripheral, as can heads within nouns phrases. For example, while (114)questions a locative phrase, (115) selects the nominal element within the locative.
+(114) hˆ‚ê-có/          cug’Q‡t     cúd-u/?
+         Q-LOC          paper      be.inside-INT
+         ‘Where is the book?’ (EL)(115) hˆ‚ê-n’ˆ‡h g’od-an            cug’Q‡t cúd-u/
+         Q-NMZ         inside-OBJ paper          be.inside-INT
+         ‘Inside what is the book?’ (EL)On the other hand, locative postpositions cannot themselves be directly questioned:(116) *cá/ hˆ‚ê-n’ˆ‡h           cug’Q‡t    ní-i/
+          box    Q-NMZ          paper      be-INT
+         (Intended meaning: ‘Where in relation to the box is the book?’)         Questions in Hup can involve embedding. For instance, a question word canoccur in a subordinate clause, embedded within an interrogative main clause:
+(117) hˆ‚ê-n’ˆ‡h       kéy-ep /am yé-e/ ?
+         Q-NMZ         see-DEP 2sg        enter-INT
+         ‘What did you come in for?’ (lit. ‘what did you come in to see’) (OS)Also, in quoted speech (see §18.2.1), an interrogative clause can itself be embeddedwithin a declarative main clause:
+(118) hˆ‚ê-n’ˆ‡h        yup        g’çê‚h-ç‚/,    nç¤-çy         /ˆ¤n-ˆ¤h
+         Q-NMZ          that.ITG be-INT          say-DYNM 1pl-DECL
+         ‘“What’s that?” we say.’ (B.Cv.84)192192
+   The speaker, a teenaged girl from Barreira, uses the verb g’ç‚h- ‘be’ here instead of ni-, in joking
+imitation of the Vaupés dialect.
+                                                                                                944        As discussed in §6.2, the interrogative particle hˆ‚ (like Hup’s demonstratives)occurs as a quasi-free particle when followed by the verbs nç- ‘say’ and nˆh- ‘be like’whereas in all other contexts it is obligatorily inflected. Interrogative clauses formedwith hˆ) plus ‘say’ or ‘be like’ are irregular syntactically, as well as morphologically—theclause is subject-final, as is typical of the polar interrogative subtype (see below), despitethe fact that this is a content question (examples 119-20). This non-canonical constituentorder is probably due to the fact that hˆ) is essentially inflected by the verb itself and istherefore morphosyntactically bound to it; although certain bound morphemes can comebetween hˆ) and the verb stem ‘say’ or ‘be like’, the subject of the clause cannot and istherefore unable to precede the verb in the clause.
+(119) hˆ‚ê=yˆ¤/     nç-nˆ¤h-ˆ¤y       /ám?
+        Q=TEL       say-be.like-DYNM 3sg
+        ‘What does this (word) mean?’ (lit. ‘What/how are you saying?’) (P.Sp.110)(120) hˆ‚ê   bˆ/-nˆ¤h-ˆ¤y         /ám=b’ay, /amˆ‡h              k´w´‡g?
+        Q    make-be.like-DYNM 2sg=AGAIN             2sg.POSS     eye
+        ‘What have you done with your eyes?’ (H-CO.2)        An additional minor subtype of interrogative clause that solicits a contentresponse involves the ‘Related Instance’ particle tá/ as its predicate (see §7.6):
+(121) dúdu-nˆ‡h          tá/ ?
+        Pedro-POSS REL.INST
+        ‘What about Pedro’s?’ (B.Cv.80)(122) pˆhˆ¤t,     cãêp    tá/,    hˆ‚ê-n’ˆ‡h   tˆh key-ní-i/ ?
+        banana other REL.INST Q-NMZ            3sg   see-be-INT
+        ‘She went to check the bananas, and what else?’ (EL)
+                                                                                            94517.4.2. Polar questions with focus on predicate       This interrogative subtype solicits a yes/no answer, and is formally quite differentfrom the content questions. It does not involve a question word, and constituent order issubject-final rather than verb-final; moreover, this clause-final subject can only be apronoun (a fact that is consistent with the de-focused subject in this interrogative clausetype). Also—presumably because there is no clause-final verb—the InterrogativeBoundary Suffix -V/ is not present in this type of question. Crucially, it is the obligatorylack of the Declarative marker on the subject that defines the clause as an interrogativerather than a subject-final declarative (see §17.3.1). The clause-medial verb must take aBoundary Suffix other than Declarative -Vêh or Interrogative -V/, such as the Dynamic,Future, Negative, or Inchoative. Direct objects usually occur clause-initially; otherobjects may either precede the verb or follow it as a tacked-on external argument.","[956, 957, 958, 959, 960, 961, 962]"
+"        On the other hand, it seems much less plausible to assume that a noun-adjectiveNP containing a full noun—such as tiyi/ po‡g (man big) in 129b—should have the orderof [(Nom) Modifier + (Adj) Head]; that is, that the adjective should be the head of theconstruction. Yet could the adjectival NP in Hup be internally inconsistent, in that onetype has one order, and the other the opposite order?",[429]
+"         While soliciting a yes-no answer, these questions front a non-predicativeconstituent of the clause, which is understood (via this fronting strategy) to be the focusof the question.194 In many cases, this results in a semi-rhetorical question—i.e. a
+193
+    Note that word order inversion is attested in Hup constituent questions, but only those involving the
+exceptional interrogative verb forms ‘say’ and ‘be like’ (§17.4.1).
+194
+    Note that the strategy of fronting a focused constituent of the clause is common to Hup clauses
+generally, not just interrogatives (see §17.3.1).
+                                                                                                          950
+question to which one already knows the answer and is simply soliciting agreement orconfirmation, rather than more substantial information. Thus in Hup this type ofinterrogative, which is the least formally marked subtype, also corresponds to the leastinformation-oriented interrogative—a cross-linguistically common pattern (Sadock andZwicky 1985: 180).195         Examples of this interrogative strategy are given in (138-40); in all cases, thequestion is focused on the clause-initial constituent.
+(138) j’´b-tQ¤=yˆ/ tˆh          y’Q¤t-Qw-Q¤/?
+         night-still=TEL 3sg lay-FLR-INT
+         ‘He left it this morning?’ (B.Cv.93)(139) yˆ¤t=yˆ/       nˆN hipãh-hç‚ê-/,             yúw-a‡n?
+         thus=TEL 2pl       know-NONVIS-INT that.ITG-OBJ
+         ‘You all think thus, about this?’ (P.Sp.99)(140) b’ç‡t-an        /am hám-a/ ?
+         roça-DIR 2sg      go-INT
+         ‘You’re going to the roça?’ (OS)         In this type of interrogative, it is common for the -V/ Interrogative suffix to occurtwice in the clause: both clause-finally on the verb, as expected, and also directly on thefronted, queried nominal entity, giving it special interrogative focus. In this case, itattaches to the final element of the queried noun phrase (as is consistent with nominalmorphological patterns generally), and receives stress—unlike the clause-finaloccurrence of -V/ on the verb, which is unstressed. This focus function of -V/ isillustrated in examples (141-44).","[966, 967]"
+"However, in the context of a ditransitive verb with a stated direct object (i.e. a non-beneficiary/recipient), it may optionally occur as a phonologically free prepositionalparticle, detached from the verb stem (a similar phenomenon is attested for the Reflexiveprefix hup-; see §11.1 above). In this context (and only this context) /u‚h- may beseparated from the verb stem by the object nominal, and receives independent stress(rising tone). Consultants describe this construction as semantically equivalent to thealternative order of [Obj /u‚h-Verb] (e.g. hˆd nám /u‚h-nç¤/-ç¤y). The phenomenon isillustrated in example (39); see also (54) and (55) below.",[610]
+Thus interpreting one type of adjectival NP as having head-modifier order while the otherhas modifier-head order is not inconsistent with the facts of Hup more generally.,[430]
+"        The causative compounds in §9.4.1.2b, in which the causative stem follows thestem representing the caused event (V-bˆ/- [V-make] ‘make sick’ and V-yQ‚h- [V-compel]‘compel, order to V’), represent a similar ‘inversion’ of the temporal order of events. Inthese compounds, the causative component is final, even though (at least as a distinctevent) it is temporally prior and less resultative than the effect. However, the case ofyQ‚h- ‘compel, order, request’ is like the ‘purpose’ forms above in that it does not entailthat the activity be actually carried out (its uses range from straightforward requests toactual causatives). A similar situation may be behind the causative bˆ/-, whichpresumably entails only the act of the causer, and not necessarily the resulting effect.",[535]
+"Instead of functioning primarily as an enclitic, Inferred -ni- occurs only as a verbal InnerSuffix, combining directly and exclusively with verb stems. Its morphosyntacticdistribution is highly restricted in comparison with that of the enclitics: it must occur on aclause-final predicate—even in an interrogative clause (making it ungrammatical in polarinterrogatives using a word order inversion strategy, see §17.4.2). It does not occur at allin negative clauses, cannot appear together with other evidentials in the same verb word,and is used exclusively in reference to a past event.",[814]
+"          An intriguing feature of Hup phonology is the fact that variation in the surfacerealization of a given consonant is determined largely by its position in the morpheme,rather than by its position in the syllable (as onset or coda). While there is someisomorphism in Hup among syllable, morpheme, and phonological word, they frequentlydo not overlap—especially in the case of verbs. In these cases, it is the morphemeboundary that is the most relevant to determining the surface realization of the consonant.
+                                                                                            68
+        One of the most important contexts for defining consonantal alternations andallophony is the morpheme boundary between a consonant-final stem and a vowel-initialsuffix. The vowel-initial suffixes, discussed in detail in §3.4.1, include Oblique case -Vêt,Object case -a‡n, Dynamic -Vêy, etc. Driven by Hup’s constraint that all syllables haveonsets (where possible), these suffixes condition the gemination of the final consonant ofthe stem, where one exists, in order to provide an onset for the suffix (examples 1-2).","[84, 85]"
+"       The range of more or less conceptually unified events reflected in Hup compoundverbs resembles the ‘iconic’ and ‘non-iconic’ types of serial verbs defined by Durie(1997: 330-1), and the ‘symmetric’ and ‘asymmetric’ classes of serial verbs thatAikhenvald describes for Tariana (1999, 2000: 4-5). Like serial verbs, Hup compoundsoften follow iconic principles, where verb order corresponds to temporal succession ofactions, including sub-events in a cause-effect relationship. Also like serial verbs, othercompounds in Hup do not follow temporal iconicity, but represent coincident motion,posture, and manner (cf. Durie 1997: 336). Verb serialization, according to Durie (1997:322), is “universally characterized by heavy lexicalization”, but this exists alongsideproductivity of serialization “because many events can be typed in terms of certainpredictable internal structures and structural components”. Moreover, serial verbconstructions are subject to cross-linguistic constraints against duplicate participant roles,such as two agents (Durie 1997: 343). These are all properties of Hup compound verbs.",[506]
+"However, it is possible to make some broad generalizations relating to form-functionpatterning (see §3.4). The small set of prefixes is functionally quite consistent in that itsmembers all relate to adjusting the valency of the verb (although not all valency-adjustingforms are prefixes). Of the Inner Suffixes, many (though still not a majority) relate toaspect, and in general the aspectual markers tend to come earliest in the verb (i.e. closestto the stem), while Hup’s tense suffix (the future marker) comes later. Markers ofmodality and discourse tend to appear later still in the verb, appearing as enclitics,particles, and in some cases Boundary Suffixes (while those that can optionally occur inInner Suffix position typically fall into one of the final Inner Suffix slots when they doso). This relative order of aspect-tense-mood is consistent with the typical ordering ofthese morphemes relative to the verb stem cross-linguistically, according to the survey byBybee (1985: 35).",[490]
+"       Code switching into Tukano does occur in the speech of ordinary adult Hupd’´h,but this is fairly constrained. While the Hupd’´h do not seem to be as anxious aboutlanguage mixing as the River Indians are reported to be, most do in general avoidunrestrained borrowing and code switching, and sometimes respond negatively to others’use of a Tukano word. In the context of narrative, on the other hand, spirits and animalsoften speak in Tukano (cf. Aikhenvald 1996: 79, who notes that the Tarianas use Wananoor Tukano in this context). People who are speaking about River Indians in a narrativewill occasionally mix in some Tukano words, especially when recounting a RiverIndian’s part in a dialogue, and a few speakers will throw in bits of Tukano somewhatmore indiscriminately. Certain adults speak Tukano now and then to children with theexplicit intention of helping them learn the language, and once in a while young peoplespeak Tukano to me in order to tease me.
+                                                                                          44
+1.5.3. Bilingualism and language contactThe Hup language and its speakers must be understood within the full context of theVaupés linguistic area, especially vis-à-vis the relationship of the Hupd’´h with Tukanospeakers; Hup should not be considered as a self-contained system. In the Vaupés, boththe Hupd’´h and the River Indians effectively belong to two different kinds of speechcommunity at once: one defined by a language or dialect group, the other by a group ofpeople in the immediate locale who interact on a regular basis. Arguably, the type ofspeech community that is more of an everyday reality in the Vaupés is this second one: ageographically and socially defined group of people who communicate with each otheron a regular basis, using multiple languages. Thus the discourse-defined ‘speechcommunity’ is not isomorphic with the language group, but rather cross-cuts it. It is evenpossible that certain features of discourse or even of grammar or lexicon may have arisenamong one particular group of Tukano and Hup speakers, before spreading to othergroups of speakers of both these languages.","[60, 61]"
+"       A number of aspects of Hup grammar are typologically unusual, as well asintriguing from an areal perspective. These include the treatment of possessed body parts(animal body parts are inalienably possessed, while human body parts are alienable; see§5.4.5), word order inversion patterns in question formation (see §17.4), thepolyfunctionality of many morphemes (e.g. §3.3), and several unusual paths ofgrammaticalization that create such unique historical links as between the noun ‘stick,tree’ and a verbal future suffix (§13.1), and between an evidential and a nominal markerindicating a deceased referent (§14.9.3). Other features, such as the heavy effects of arealdiffusion on Hup grammar (but much less on its lexicon) are also interesting from both across-linguistic and a regional point of view. Hup is a good illustration of the value ofresearch on little-known and endangered languages, which can provide us with new waysof thinking about languages in general.
+                                                                                             4
+1.2. Hup within the Nadahup (Maku) language familyHup belongs to the Nadahup or Maku family (see §1.2.1 below for a discussion of thefamily name). Its closest relative is Yuhup, followed by Dâw, then Nadëb, as shown inFigure 1.1. This tree is based on lexical correspondence percentages, and is alsosupported by the regular sound changes identified by Martins (2005) in his preliminaryphonological reconstruction of the Nadahup family.","[20, 21]"
+"        A few other exceptional cases of stem ordering exist in my corpus, although theseare not common. They illustrate that—for certain compounds—the order of stems maybe relatively flexible, and probably depends largely on the speaker’s construal of theevent, particularly which aspect he/she considers more salient or more continuous. In(72) (from the Origin Story), for example, the simultaneous events of exiting-while-
+                                                                                         519
+seated and crying are presented in an order opposite to that which their semanticclasses would predict—the activity/manner verb ‘cry’ would be expected to come first,but is compound-final. Consultants judge the more expected variants /çt-way-pQm-(cry-go.out-sit) and /çt-pQm-way- (cry-sit-go.out) to be grammatically and semanticallycomparable; other combinations are considered to be more questionable.
+(72)   hˆd   way-pQm-/ç¤t-çp=mah       j’ãêh        yúw-úh
+       3pl   go.out-seated-cry-DEP=REP DST.CNTR     that-DECL
+       ‘They went out seated, crying.’ (H.26)9.4.2.4. Auxiliary and ‘vector’ stems: aspect, mode, and Aktionsart in compoundsThe most highly integrated type of verbal compound involves a stem whose mainfunction is to modify another stem (or multiple stems within a compound), therebyusually providing aspect, Aktionsart, or modal information. The prototypical position ofthese modifying stems is compound-final (although the resulting compound may itself benested inside a larger, less-integrated compound). These compounds have much incommon with the ‘ambient’ serial constructions that Aikhenvald (2003: 424) describesfor Tariana, in which one verb serves as a modifier to the other.","[535, 536]"
+"Also, in the comparative sections of the grammar involving the other Nadahup languages(Yuhup, Dâw, and Nadëb), I have adapted the orthographies of Martins, Ospina, andWeir to correspond as much as possible to that used with Hup, in order to facilitatecomparison on the part of the reader. In some cases, however, the changes necessarilyreflect my own analysis of phenomena in Hup phonology, and do not always accuratelyrepresent the analyses of these authors. Finally, the orthographic conventions used in thisgrammar to write the Hup language are discussed in §2.5.
+                                                                                                           61
+2. Phonology         Hup phonology is fairly complex, and relies on contrasts on both the segmentaland the prosodic levels. Not only does Hup have a relatively large inventory ofsegmental phonemes relative to the neighboring Tukanoan languages, but it also makesuse of contrastive tone (realized within a word-accent system)20 and nasalization asmorpheme- or syllable-level prosodic features. Hup demonstrates a strong preference forisomorphism between the morpheme and the syllable. The majority of syllables take theform CVC, but CV, CV:, and VC syllables also exist, although in somewhat more limitedcontexts.","[77, 78]"
+"9.3. Compounding compared to serializationCross-linguistically, verb compounding and serialization have been identified as sharingmany common features, which suggest that they are closely related phenomena (ClaireLefebvre, p.c.; Nishiyama 1998). Both represent forms of cosubordination, as defined byFoley and Van Valin (1985), in which non-embedded verbal constituents join together ina dependence relationship. They differ in that compounding is generally understood toform a single phonological word, within which the component verb roots cannot bebroken apart by intervening morphology, whereas the components of serial verbconstructions are normally independent phonological words and can in most cases takeintervening morphology such as a direct object.
+                                                                                            488
+       Hup has only one marginal process that could perhaps be considered a form ofverb serialization. In this construction, the verb ni- (see §8.4) is required as the final verbin the series, and takes the Boundary Suffix and any other inflectional marking. Thepreceding verbs are bare, lacking a Boundary Suffix or peripheral formatives (althoughthey may take certain Inner Suffixes). They are clearly distinct words; they takeindependent stress, and are often preceded by nominal subject or object arguments. Thismost common realization of this phenomenon involves the repetition of the same bareverb to form a ‘reduplicative predicate’ (example 6); this phenomenon is discussed inmore detail in §18.2.2. However, the phenomenon can also involve different verbs, as inexample (7). This is rare, but it seems to be the preferred choice when expressing anevent that is perceived as relatively conceptually unitary, and using transitive verbshaving different objects to do so (these verbs are not usually expressed as a compound;see §9.4.1.1, example (16) below).(6)    hˆ¤d-a‡n    wQd-nç‡/,    hˆ¤d-a‡n       wQd-nç‡/,
+       3pl-OBJ eat-give         3pl-OBJ          eat-give
+       ‘(He) would give them food, (always) give them food,                  ni-yó/   pˆ¤d=mah        tˆh      way-yˆ/-pˆ¤d-ˆ¤h
+                  be-SEQ   DIST=REP        3sg      go.out-TEL-DIST-DECL
+                  having done thus he would go out again, it’s said.’ (P.BY.85)(7)    yu‡b d’u‡p,         kayak=ti‡g      c)iÙy’     /ˆn ni-té-h
+       cipó pull.down manioc=stem poke.in 1pl               be-FUT-DECL
+       ‘We’ll both pull cipó and plant manioc.’ (EL)       Other than this phenomenon—which may be better described as cosubordinationor chaining on the predicative level, rather than on the nuclear level (cf. §18.2.2)—Huphas no distinct process of verb serialization. However, because Hup compound verbs are
+                                                                                           489
+neither fully lexical, nor fully phrasal entities, they themselves have much in commonwith other cross-linguistically defined processes of verb serialization.","[504, 505, 506]"
+"            Table 17.1. Subset of parallel clause-final Boundary Suffixes in Hup
+       Declarative clauses       -Vêh (Aspect-neutral)
+                                 [-Vêy] (Dynamic; concurrent with speech moment)
+       Interrogative clauses     -V/
+       Imperative,               -Ø (plus high tone for imperative)
+       Apprehensive clauses
+       Dependent clauses         -Vp
+17.2. The morphosyntax of main clauses         The relative order of subject and verb plays an important role in definingdeclarative, interrogative, and imperative clauses. In general, more than one orderingoption is available for a given clause type, but it is the interaction of syntax and clause-final morphological marking that is crucial in distinguishing one from another.",[920]
+"[Manner-Position]-Motion/path:(64)    tˆ¤h   [nçh-d’ak]-kót-op
+        3sg    [fall-stick.against]-travel.in.circles-DEP
+        ‘It went knocking around (inside the box)’. (H.R.108)Manner/activity-[Manner-Motion/path] (the nested manner-path form is semi-lexicalized;
+see discussion in §9.4.2.4c below):(65)    dó/-n’a‡n          t ˆh      cet-[wˆd-ye]-pˆ¤d-ˆ¤h
+        child-PL.OBJ       3sg       carry.on.back-[arrive-enter]-DIST-DECL
+        ‘He always entered carrying (food) for the children.’ (P85)113
+   But note that in this example the opposite order g’çp-yamhidç/- is also acceptable. The verb ‘sing’ is a
+lexicalized form containing the root yam- ‘dance, sing kapiwaya’; the rest of the compound may be hi-dç/-
+‘FACT-count, keep track of’.
+                                                                                                517
+[Manner-Position]-Activity/manner linked in temporal sequence:(66)   hˆd      [nçh-d’ak]-g’´¤ç-ay-áh
+       3pl      [fall-stick.against]-bite-INCH-DECL
+       ‘They (jaguars) would fall on (the people) and bite them.’ (H.75)[Activity/manner-Activity/manner]-AUX (see below for discussion of auxiliary stems)(67)   tˆnˆ‡h         mumu‡y ta‡h        yç‚/mçy-an     [yaN-m’Qc]-d’o/-yˆ¤/-ˆ¤h
+       3sg.POSS      arm        tapir    anus-DIR       [suck.in-squeeze.tight]-take-TEL-DECL
+       ‘Her arm had been swallowed up and stuck in the tapir’s anus.’ (H.80)In example (68), two nested compounds are linked together in temporal sequence:
+(68)   [way-d’o/]-[nçh-d’a‡k]=d’´h,             de‡h    dadáp=d’´h
+       [go.out-take]-[fall-stick.against]= PL   water   roach=PL
+       ‘The ones who had taken flight and hit against (the sky), the water-roaches…’
+       (LG.13)
+       In a few cases, however, stems appear to follow the opposite order from that ofthe temporal sequence of the events. This resembles the “inverse relationship” of stemsin Barasana and Tatuyo compounds, as described by Gómez-Imbert (1988: 103). In Hup,these are all compounds whose stems have a relationship based on purpose, as we see in(69-71). All the examples of this ‘inverse’ ordering type encountered have a motion/pathverb as the second stem.(69)   hˆd      [yam]-[cak-g’et]-/é-h
+       3pl      dance/sing-[raise.up-stand]-PERF-DECL
+       ‘They used to stand up in order to sing/dance.’ (T.int.5)(70)   /ayu‡p=/i‚h [key]-[wçn-hám]-ay-áh
+       one=MSC          see-[follow-go]-INCH-DECL
+       ‘A man followed after in order to see (where the spirit went).’ (P87)(71)   wç‡h=n’a‡n (…)            d’o/-[hup-hipãh]-[nQn]-ní-h
+       River.Indian=PL.OBJ       take-[RFLX-know]-[come]-INFR2-DECL
+       ‘He made the River Indians come in order to be educated.’ (H)
+       (repeated from (95) above)
+                                                                                             518        These examples are probably not as exceptional as they might appear at firstglance. First, since the compounded meaning is one of purpose, and the compound itselfis neutral as to whether or not the intended activity was actually carried out, the final verbis actually more grounded in real time and real events, hence in a sense more ‘stable’.","[533, 534, 535]"

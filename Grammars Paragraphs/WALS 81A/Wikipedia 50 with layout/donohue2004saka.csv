@@ -1,0 +1,2675 @@
+Paragraph,Page number
+"
+6. 1.2 Interrogative clauses and the word order offocus
+   The word order of interrogative clauses differs from that of declarative clauses. In an
+interrogative clause an interrogative pronoun (illustrated here with amo 'who') will appear in
+the preverbal focus position. This is true even if the referent of the question word is the
+subject of the clause, and mirrors the ordering of constituents under focus in questions,
+mentioned above.
+   (249)    Tra              bie     amo b-ei?
+            sago.delight.NM that     who QSG-do
+            [ OBJ ]          [SUBJ] [VERB]
+            'Who made that sago delight?'
+    An A-P-V order is not possible when the subject is a question-word pronoun:
+88      Chapter 6     (250)     *amo tra ble bei?
+   This suggests that there is a structural position for pragmatically prominent core elements
+of the clause, which is immediately preverbal, a phenomenon not uncommon in SOV
+languages. Note that a questioned oblique still occurs in the normal postverbal position:
+     (25 1 )   Sit  b-akale kaung-ri?
+               sago 2SG-wrap what-INSTR
+               'What will you wrap the sago with?'
+   Combined with the topic position data seen in §6 . 1 . 1 , the adjunct nominal information
+from §5 . 3 .2, and the knowledge we have about the position of oblique arguments in I'saka
+(see §6. 1 ), we can conclude that the phrase structure is as seen in (252):
+     (252)                         SI
+                          ------
+                       NPTO P             S
+                                �
+                         NPSUBJ          VP      NPOBL
+                                ------
+                            NPOBJ               VI
+                                          �
+                                        'pac'          VI
+                                                �
+                                        N(I)ADJ. NOM        V     Other factors relevant to phrase structure are presented in the following sections.","[105, 106]"
+"
+6. 1. 1 Declarative word order
+   The basic order of elements in a declarative sentence is SOY, with Oblique participants
+(including those that may be encoded on the verb by the dative suffix) appearing after the
+verb (these include nominals bearing the following semantic roles: instrument, companion,
+recipient, beneficiary, goal, and location, and also possessor of P). If more than one oblique
+is present, then goal and location will follow other peripheral arguments. Temporals are
+usually clause-initial.
+   (23 5)   S 0    TIME    NPSUBJ    NPOBJ     V NPASSOC, BEN, REC, INSTR NPGOAL, LOC
+   None of these elements are obligatory. Some examples of the practical consequences of
+these rules governing word order are exemplified in (236}-(240) below.
+            Postverbal oblique:
+  (236)     Numupu         di- 0          ku      wei.
+            I pL.NOM        I PL-(sleep) be.at house
+            [Np Subject ] VERB - - VERB [Np Location
+            'We were all sleeping in the house. '                                             85
+86      Chapter 6     (237)     Wi              to.     wei     tru .
+               water           be.at house inside
+               � Subject ] VERB � Location
+               'The water is inside the house. '
+     (238)     Tani '          dina       k-ung        wi'.
+               father          1 SG.POSS 3G.M-go.down sea
+               � Subject ] VERB           � Location ]
+               'My father went down to the sea.'
+               Clause-initial temporal:
+     (23 9)    Kelie      tra       sle n-am-ung                   moni' dina-e.
+               yesterday s.delight this 1 SG-cook-3SG.NM .DAT mother 1 SG.POSS-EMPH
+               TIME       � Object ] VERB                          � Beneficiary ]
+               'Yesterday I cooked this sago delight for/with my mum. '
+               Instrument precedes locations:
+     (240)     Depu               d-ele '-le '  yang-ri        I 'saka i '.
+               1 SG.NOM           1 SG-gO-<IRR> leg-INsTR      Krisa village
+               � Subject ] VERB                 � Instrument ] � Goal ]
+               'I 'll walk to Krisa village.'
+   Deviations from the word order presented here are rare, although preverbal constituents
+are occasionally found either at the end of the clause for emphasis, or in the pragmatically
+marked preverbal 'focus' position in which elements are pragmatically salient, and, with the
+exception of nominals or pronouns that simply double a clause-external topic, do appear to be
+necessarily focused. This is most commonly found if that constituent is the answer to a
+content question. Furthermore, there is a pre-sentential topic position, which is filled with
+any NP (subject, object, or an oblique) from the clause. The topic NP in the main clause can
+optionally be doubled in the clause, in the preverbal focus position (unless the clause contains
+another argument with the pragmatic function 'focus').
+     (24 1 )   S'   �    NPTO P S(lNP)
+    Note that an NP in the topic position retains its normal case-marking possibilities, as seen
+in the following examples:
+               SUBJ as topic:
+     (242)     Dapu,      a       hIe dapu        n-ou.
+               1 SG.NOM pig.M that 1 SG.NOM 1 SG-eat
+               'Me, I want to eat (some of) that pork.'
+     (243)     Dupu,    kelia       n-oru .
+               1 PL.NOM yesterday 1 PL-come
+               'We came yesterday.'
+               OBI as topic:
+  (244)        Kie,         amo m-a?
+               3SG.M.ACC who QSG-hit
+               'And him, who hit him?'
+                                                                                   Syntax     87   (244)'   *kie, amo kie rna ?
+   (244)' is ungrammatical because the question word amo already appears in the preverbal
+focus position, and so it is impossible for the topic to be doubled there. The examples below
+show that even an oblique, if it is doubled, appears in the preverbal focus position, not in the
+expected postverbal oblique position. Note that an instrument, which is normally marked not
+just by postverbal position but also by the case marker -ri, when topic ali sed requires that a
+pronoun remain behind in the original position to carry the case marking.
+            OBL location as topic:
+   (245)    ['      bie, nesing i'       s-eie '-ie'.
+            village that I DU village I Du-go-RED
+            'That village, we two're going there. '
+            OBL instrument a s topic:
+   (246)    D6 bie tei d-akai omu-ri.
+            axe this tree l SG-cut 3SG.NM-INSTR
+            'This axe, I chop trees with it (her). '
+   (247)    P6i     bie a d-o             omu-ri.
+            arrow this pig l SG-shoot 3SG.NM-INSTR
+            'That arrow, that I shoot pigs with it (her).'
+   (247)'   *d6 bie tei dakai
+   (247)"" *d6-ri bie tei dakai
+    If the topic can appear repeated in the preverbal 'focus' position (because there is no other
+specified focused element), then overt case marking there (as nominative or accusative)
+licenses a pronoun in topic position to be unmarked for case:
+   (248)    Mama, bi           k-eiei  ya ?
+            2SG     2SG.ACC 3SG.M-see COMP
+            'And you, did he see you?'
+  The preverbal focus position is shown in the following section.","[103, 104, 105]"
+"
+5.2. 1 Morpheme ordering
+   Morphemes are strictly ordered in the verb in I'saka, though the reduplicative element
+used to mark irrealis mood applies a template to a segmental string that includes both the root
+and the prefix. Section 5 .7.1 discusses some variation in the order of the final morphemes in
+this verbal string with sentence final particles. The order of the different morphemes on the
+verb is as follows:
+                SUBJ-VROOT(.OBJ) - (Human OBJ), (EVID) - (DAT)
+                       « IRR»
+   Subject is obligatorily encoded either prefixally or through suppletion of the verb root,
+with different verb stems being used for subjects of differing number or gender. The most
+extreme example of this is the verb 'do', which uses apparently completely unrelated forms
+- see Table 26. Objects are encoded either suppletively (in which case they determine the
+vowel of the syllable reduplicated for irrealis verbs - see §2.4 and §2 . 5 ), or suffixally. It is
+not known whether human object suffixes are placed before or after the evident morpheme,
+though the semantics of the evident morpheme and the limited class of verbs that can take
+human object suffixes would not appear to be compatible. The dative suffix is always placed
+word-finally, as in the examples below, which show the dative suffix in combination with the
+human object suffix in (99), and the evident temporallrealis morpheme combined with the
+dative suffix in (100) (there is, however, some doubt as to the status of the dative suffix as
+suffix or as clitic: see § 5 .7.1).
+58      Chapter 5     (99)      Nai m-opa-ke-na.
+               boy 2SG-carry.on.shoulder-3sG.M.H.OBJ- 1 SG.DAT
+               'You're carrying my son (on your shoulders). '
+     ( 1 00)   Nana yoko d-epe-re-ka                        duwe.
+               l SG    stone l SG-put-EvID- 3SG.M.DAT dog.M
+               'I threw a stone at the dog (and hit him). '
+   All verbs must inflect for subject, in all syntactic environments, using the paradigm shown
+in §5 .2.2. There is a suffix that marks object, seen in (99), but it is extremely restricted
+lexically, and so cannot be thought of as fully productive and is certainly not obligatory on
+verbs (for further details, see §5.2.3). The only other productive agreement marking on verbs
+is the set of dative suffixes, which index a non-core argument of varying semantic
+relationships and are extremely frequent. The different types of morphology are described in
+the sections that follow.","[75, 76]"
+"
+6. 1. 4 Noun phrase order
+   The order of elements in the noun phrase is tightly constrained; when sequences of NP­
+elements appear outside this normal ordering, the usual interpretation is that they are not
+actually an NP unit, but rather an NP + predicate. Of course, if there is a further predicate,
+then the ill-ordered string renders the sentence ungrammatical, or at best the result of false
+starts.
+   Normal (that is, non-elicited) discourse rarely presents any adjectives or relative clauses as
+modifiers in the NP (though possessives and demonstratives are not unusual). It is certainly
+the case that an NP with all four of the positions listed below have never been attested, nor
+are we claiming that they are possible. Based on the observed orders of elements in smaller
+NPs, however, we can formulate the normal order of elements in the NP:
+     (26 1 )   NP 0     N    ADJ RC/NUM        POSS/DEM
+   In many cases the possessor is not marked inside the NP, but rather on the verb of the
+clause in the form of dative suffixes. Deictics and possessive pronouns must be placed after
+the noun they modify, and following any numerals, but are freely ordered with respect to
+each other.
+   Examples of NPs illustrating these various types of modifiers can be found in the
+following clauses (note the variant nua for the more common nuo 'big'):
+               N - ADJ - DEM
+     (262)     A        nua hie d-o-ma .
+               pig.M big this l SG-shoot-2SG.DAT
+               'I shot this big pig of yours. '
+               N - ADJ - NUM
+     (263)     a       nua sia.
+               pig.M big two
+               'two big pigs'
+               (Note that many modifiers, especially numerals, appear most naturally
+               separated from the head noun, following the verb, as described in §6. 1 .3 .)
+               N - RC
+     (264)     B-au,     a        nua [d-o            kelie]    sesing.
+               2SG-come pig.M big         l SG-shoot yesterday 1 DU:eat-RED
+               'Come on, let's eat that large pig I shot yesterday. '
+   Relative clauses have not been observed in conjunction with other modifiers in the NP;
+attempts to elicit this sort of structure have been met with biclausal translations, such as 'The
+                                                                                    Syntax      91big pig there, I shot it yesterday. Let's eat it'. More information on relative clauses is in
+§6.8.","[108, 109]"
+"
+Copyedited by Basil Wilson
+Typeset by Jeanette Coombes
+Cover design by Emily Brissenden
+Printed by Ciril's Printers, Fyshwick, Canberra
+           Table of contents
+  Lists of photographs, figures and tables                    IX
+  Abbreviations and conventions                               xi
+  Acknowledgments                                            X 111
+  Photographs                                                xiv1 Introduction                                                  1
+  1.1          Background                                      2
+       1.1.1        Contact history                            3
+       1 . 1 .2     Modern environment                         4
+  1 .2         Recent history                                  5
+  1 .3         Languages                                       6
+       1 .3 . 1     Language use                               8
+       1 .3 .2      Language attitudes                         9
+       1 . 3.3      Previous work on the language             10
+  1 .4         Literacy and formal education                  11
+       1 .4 . 1     Acquiring literacy                        11
+       1 .4.2       Adult literacy                            11
+       1 .4.3       Vernacular literacy                       122 Phonology                                                   13
+  2. 1      Inventory: segmental                              13
+     2. 1 . 1    Consonants                                   13
+     2 . 1 .2    Vowels                                       14
+  2.2       Inventory: suprasegmental                         16
+     2.2. 1      Tone                                         16
+     2.2.2       Nasalisation                                 17
+  2.3        Intervocalic lenition of voiceless consonants    20
+     2.3 . 1      V oiceless bilabial                         20
+     2. 3 .2      Voiceless alveolar fricative                21
+     2.3.3        V oiceless velar                            21
+     2.3.4        V oiceless alveolar stop                    22
+  2.4        Rules affecting voiced consonants                23
+                                                    v
+vi         2.4. 1    Nasalisation                                            23
+         2 .4.2    Other allophones of /d/                                 24
+         2.4.3     Fricativisation of initial glides                       25
+     2. 5      Concerning vowels, glides and epenthesis                    26
+         2.5. 1    Allophones of the cardinal vowels                       26
+         2.5.2     Glide insertion                                         27
+         2. 5.3    Glide deletion                                          27
+         2.5.4     Schwa epenthesis                                        28
+     2.6       Phonotactics                                                29
+         2.6. 1    Segmental restrictions                                  29
+         2.6.2     Supra segmental restrictions                            32
+         2.6.3     A note on contrasts and positions                       33
+     2.7       Orthography                                                 34
+         2.7. 1    Speakers' views on the graphic representation of tone   343 Word classes                                                             38
+     3. 1      Major word classes                                          38
+     3. 2      Nouns                                                       39
+     3 .3      Verbs                                                       39
+     3.4       Adjectives                                                  41
+     3. 5      Minor word classes                                          42
+         3.5.1     Demonstratives                                          43
+         3. 5.2    Numerals                                                43
+         3. 5.3    Pronouns                                                43
+         3. 5.4    Epistememes                                             434 Pronominal forms                                                         45
+     4. 1       Personal pronouns                                          45
+        4. 1 . 1     Unmarked pronouns                                     47
+        4. 1.2       Nominative pronouns                                   48
+        4. 1.3       Accusative pronouns                                   48
+        4. 1 .4      Possessive pronouns                                   49
+        4. 1.5       Non-singular pronouns                                 49
+     4.2       I nterrogative pronouns                                     515 Morphology                                                               54
+     5.1        Nominal morphology                                         54
+        5. 1 . 1    Instrumental suffix /-di/                              54
+        5. 1.2      Accompaniment and location                             55
+        5. 1.3      Possession                                             56
+     5.2        Verbal morphology                                          57
+                                                                      Vll       5 .2. 1    Morpheme ordering                                   57
+       5.2.2       Subject inflection                                 58
+       5.2.3       Object inflection                                  60
+       5 .2.4     Argument inflection using the dative suffix         63
+       5.2.5      Reduplication: irrealis                             69
+  5.3         Other verbal morphology                                 70
+       5 .3 . 1    Dependent verbs                                    70
+       5 . 3 .2    Adjunct nomina Is                                  71
+       5.3.3      Verbs of location                                   73
+  5 .4        Further verbal morphosyntax                             75
+       5.4. 1      Causation and resulting states                     75
+       5 .4.2      Valency reduction                                  76
+  5.5          Functions of pronouns                                  77
+       5.5.1       Personal pronouns                                  78
+       5 . 5 .2    Possessive pronouns                                79
+  5 .6        Adjectives                                              80
+  5.7         Clause-final particles                                  80
+       5.7. 1      Completive                                         81
+       5.7.2      Negative                                            82
+       5.7.3      Imperative                                          82
+       5. 7.4      Prohibitive                                        83
+       5.7.5      Dubitative                                          846 Syntax                                                              85
+  6.1         Word order                                              85
+      6. 1 . 1    Declarative word order                              85
+      6 . 1 .2    Interrogative clauses and the word order of focus   87
+      6 . 1 .3    Ordering of adjectives                              88
+      6 . 1 .4    Noun phrase order                                   90
+      6 . 1 .5    Non-verbal predicates                               91
+  6 .2        Involuntary state subjects                              91
+  6.3         Negation                                                92
+  6 .4        Nominal conjunction                                     93
+      6 .4. 1     Adjacency                                           93
+      6.4. 2      Postpositional accompaniment                        94
+  6. 5        Clause chaining                                         95
+  6.6         Verb serialisation                                      96
+  6.7         Verbs and the postposition tro                          97
+  6. 8        Relative clauses                                        98
+viii7 Texts                                            99
+   7. 1        Sago                                 99
+   7.2        H unt                               1 00
+   7.3        Descriptions of the world           1 00
+        7.3 . 1    Waus (prawns)                  101
+        7.3 .2     We (fish)                      101
+   7.4        Three little pigs                   1 018 Irregular verb paradigms                        1 049 C omparison with related languages              1 061 0 Wordlists and list of grammatical morphemes   1 09
+   10.1    Basic I'saka word list                 1 09
+   1 0.2   Wou Wake's supplementary lists         1 15
+   1 0.3   I 'saka-English finderlist             1 17
+   1 0.4   Grammatical morphemes                  1 23References                                        1 24
+Index                                             1 28
+                                                                                    ixPhotographs
+  Picture 1 :   Willy Wou Wake and family                                         XIV  Picture 2 :   Bush house i n the valley                                          xv
+  Picture 3 :   Yanu Bau and family                                                xv
+  Picture 4:    Watching soccer                                                   xvi
+  Picture 5 :   Collette with a pig                                               xvi
+  Picture 6 :   Watching the soccer ball vanish                                   XVllFigures
+  Figure 1 : Map of Krisa and surrounding villages and the I'saka language area     2
+  Figure 2 : The location of the Krisa-Vanimo area i n New Guinea                   3
+  Figure 3 : The Macro-Skou family                                                  7
+  Figure 4: The (smaller) Skou family                                               7
+  Figure 5 : Syllable types and nasalisation i n different languages               19
+  Figure 6 : Tautosyllabic[+highjrhymes and syllable structure violations          26
+  Figure 7 : Ambiguities i n underlying syllable structure                         27
+  Figure 8 : I'saka word and syllable structure                                    30
+  Figure 9: Assumption of rhyme features of the prefix                             60
+  Figure 10: Subgrouping based on pronominal evidence                             108Tables
+  Table 1 : I'saka consonants                                                     13
+  Table 2 : Contrasts i n initial position                                        14
+  Table 3 : I'saka vowels                                                         14
+  Table 4: Vowel patterns on disyllabic words                                     15
+  Table 5 : Contrastive tone: (near-)minimal pairs                                16
+  Table 6 : Tone patterns on disyllabic words                                     17
+  Table 7 : Nasalisation contrasting on vowels and consonants                     18
+  Table 8 : Phonological representation of nasalisation contrasts                 18
+  Table 9 : Types of syllables                                                    18
+  Table 10: Degrees of nasalisation on vowels                                     19
+  Table 11 : Hypothesised development of the lsi phoneme                          22
+  Table 1 2 : Examples of irrealis reduplication                                  25
+  Table 1 3 : Vowel allophones                                                    26
+  Table 1 4: Illustrations of word and syllable types                             31
+  Table 1 5 : Nasalisation and consonant clusters                                 33
+  Table 1 6 : Segmental phonemes + the representation of nasality                 35
+  Table 1 7: Tone representation in the orthography                               36
+  Table 1 8 : Uses of the grapheme <ng> in I'saka, Tok Pisin and English          37
+  Table 1 9 : Phonotactic shape of verbs                                          41
+x    Table 20:     Singular personal pronouns                                         46
+    Table 2 1 :   Non-singular personal pronouns                                     50
+    Table 22:     Features of the unmarked pronouns                                  51
+    Table 2 3 :   Form and function of the pronominals                               51
+    Table 24:     Interrogatives                                                     52
+    Table 25:     I'saka subject prefixes                                            58
+    Table 26 :    Object prefixes                                                    61
+    Table 27:     Human object suffixes                                              62
+    Table 28:     The dative suffix in I'saka                                        63
+    Table 29:     Irregular verbs                                                  1 04
+    Table 30:     Sample cognates between I'saka and other members of Macro-Skou   1 06
+    Table 3 1 :   Pronominal consonant correspondences                             1 08
+            Abbreviations and conventions
+     The usual conventions for glossing first, second and third person as 1 , 2 and 3 have been
+followed. A, S and P have been used descriptively to represent the syntactic roles of most
+agentive arguments of a primary transitive verb (and other arguments that pattern as it does),
+single argument of an intransitive predicate, and most patientive argument of a primary
+transitive verb (and other arguments that pattern as they do), respectively, following Comrie
+( 1 978) and Andrews ( 1 985:6 8). The following additional abbreviations are used in the text
+and in glosses of examples:  ACC          accusative                          N      weak phonetic nasalisation
+  ACCOM        accompaniment                       N      phonological nasalisation
+   ADJ         adjective                           NEG    negative
+   BEN         beneficiary                         NM     non-masculine
+   c           coda                                NN     strong phonetic nasalisation
+   C           consonant                           NOM    nominative
+   COMP        completive                          NP     noun phrase
+  DAT          dative                              NPL    non-plural
+   DEIC        deictic                             NSG    non-singular
+  DEM          demonstrative                       NUM    number
+   DU          dual                                0      onset
+  EMPH         emphatic                            OBI    object
+  EVID         evidentiality                       PL     plural
+  F            Falling tone                        poss   possessive
+  F            feminine                            PROHIB prohibitive
+  G            glide                               Q      interrogati ve
+  H            H igh tone                          r      rhyme
+  H            human                               R      Rising tone
+  IMP          imperative                          REC    recipient
+  INSTR        instrumental                        RED    reduplication
+  INTENSE      intensifier                         RC     relative clause
+  IRR          irrealis                            s      syllable
+  L            Low tone                            SG     singular
+  LOC          location                            SUBJ   subject
+  M            masculine                           V      vowel
+  n            nucleus                             w      word                                              xi
+Xli   Abbreviations   Standard glossing conventions are used to break up vernacular text and its equivalent on
+the morpheme line: the hyphen '- ' is used to separate morphemes forming one phonological
+                       ,
+word, and a space ' is used to mark off separate words. Punctuation marks are used
+according to English conventions. The usual star ' *' is used to indicate an ungrammatical
+utterance, while a hash '#' is used for one that is either infelicitous for a particular context, or
+else acceptable only for some speakers, or one about which speakers vacillate in their
+judgements from time to time.","[4, 5, 6, 7, 8, 9, 10, 11, 12]"
+"
+6.1 Word order   rsaka clauses and phrases exhibit a quite strict word order, though there are pragmatic
+alternatives for many constructions. This section starts with an overview of clausal word
+order, and then proceeds into noun phrases. This order of presentation has been chosen to
+follow the possibilities for adjectives, which can in many instances appear outside the NP of
+the noun they modify.",[103]
+"                                                  All
+                                   �
+                                I'saka            Skou       Serra-Piore
+                                                             �
+                                                   Serra Hills        Piore River
+                     Figure 10: Subgrouping based on pronominal evidence     The regular sound changes, evidenced in part in the data seen in Table 30, are not clear
+enough to posit a subgroup that joins the Serra Hills and Piore River groups together, and so
+the tree presented in Figure 3 has shown these two groups, along with the Skou group, as
+sisters. On the other hand the phonological changes do suggest that I'saka forms a first-order
+subgroup within the family.
+ 1 0 Word lists and list of
+                grammatical morphemes    No lexicographic materials are available in popular print for the I'saka language, and it is
+unlikely that they will appear in the near future. Partly in order to counter this dearth of
+materials, we have included some word lists of the basic elements of the language.
+    We have presented a comprehensive basic word list in § 1 0. 1 , followed in § 1 0.2 by several
+lists of species names and natural world terms. These are words which have been recorded by
+Willy Wou Wake, of Krisa village. Some of these terms were not checked, and have been
+presented in Willy's orthography as he wrote it. These are listed in a different font,
+appearing sans serif: the word list that has been checked appears in italics, as a checked
+form, following the conventions used for transcribing other I'saka sentences in this book.
+    Following this is an alphabetically sorted list of these same words, and a short summary
+of the grammatical morphemes in the language, including references to where they are
+discussed.","[126, 127]"
+"
+6. 1.3 Ordering of adjectives
+   Adjectives exemplify a more complex and changeable set of ordering rules, with speakers
+varying with respect to adjective usage. Essentially, in addition to appearing inside the NP in
+which a nominal occurs, an adjective can also be found postverbally; this is a quite frequent
+strategy. The two options for word order can be seen in the following sentences. In the first
+sentence we can see an NP with both the noun and the adjective inside it. I t occurs
+preverbally, as we would expect of a P.
+     (253)     INP A     nuo ] k-ani-ung                Ros.
+                  pig.M big       3SG.M-give-3sG.NM.DAT Rose
+               'He gave a big pig to Rose.'
+  The next sentence also has an element which is translated as 'big pig', but in this case the
+noun a 'pig' occurs preverbally, and the adjective is found postverbally:
+     (254)     Daka asongpa INP a ]         k-o             �DJ nuo].
+               Man stealth(y)       pig.M 3SG.M-do.SG.M.OBJ     big
+               'The stealthy man shot a big pig.'
+  This section shall discuss the possibilities and restrictions of this split-modification
+construction.
+                                                                                   Syntax      89   In monovalent clauses, a subject-linked adjective occupies the peripheral (i.e. non­
+subcategorised) postverbal slot, functioning as a secondary predicate (25 5):
+   (255)    D-elel asongpa nil.
+            l SG-go stealth(y) INTENSE
+            'I go along, very stealthily. '
+   In realis bivalent clauses a subject-linked adjective i s placed i n the noun phrase with the
+subject, and the object-linked adjective fills the postverbal position, as seen earlier in (254).
+We can thus conclude that the ability of an adjective to appear in a postverbal position is
+dependent on the nominal that it refers to being the S or the P of the clause, that is, an
+absolutive argument. This can be shown to be the case by examining the following clauses,
+using the quantifier purupa 'all, complete' in a postverbal position. The first sentence has a
+singular subject, so the interpretation of the quantifier as modifying the P is not surprising. In
+the second clause, daka u is the only argument of the monovalent clause, and so the
+interpretation is not in question.
+   (256)    Su     n-ou      purupa.
+            sago 1 SG-eat all
+            'I ate all the sago. '
+   (25 7)   Dakau onde purupa .
+            children go.PL all
+            'All of the children went.'
+   This third clause shows a plural A and a potentially (and pragmatically likely) plural P; the
+postverbal quantifier can only be interpreted as modifying the P, not the A, showing that this
+quantification applies to an absolutive grouping: S and P, as opposed to A.
+   (258)    Dakau su        oung purupa.
+            children sago eat       all
+            'The children ate all of the sago.'
+            *'All of the children ate the sago. '
+   It should be noted, however, that if a peripheral argument is already present postverbally,
+both subject and object-linked adjectives must occur in the NP of the argument that binds
+them, as seen in (25 3). One example, however, shows both a postverbal nominal and a
+postverbal adjective: the post-verbal nominal is the apparent P of the sentence, but the scope
+of the adjective is over the chaser duwe, not the chased yung-paul. This is evidence that the
+clause is monovalent, not bivalent, and the nominal yung-pa ul is a true oblique, and not
+simply an obliquely-coded P.
+   (259)    Duwe abli yung-paul            amopa.
+            dog     chase bird-chicken many
+            'Lots of dogs are chasing after the chicken.'
+   The following example illustrates the apparent unacceptability (at least prescriptively) of a
+preverbal object-linked adjective when the postverbal position is empty.
+   (260)    *depu       su     takau n-ou
+            l SG.NOM sago hot        l SG-eat
+            'I ate hot sago. '
+90      Chapter 6   Although the above pattern is robustly attested (particularly the postverbal placement of
+object-linked adjectives), exceptions have been observed. More data is necessary to be sure
+of the rules of adjective placement, particularly with reference to the ordering of deictics and
+possessive pronouns, and the presence of additional tense/aspect information (e.g. irrealis or
+completive morphemes) in the clause. The current data suggests that all these elements are
+relevant to adjective ordering.","[106, 107, 108]"
+"                                             1 24
+                                                                         References     1 25  2002a, Which sounds change: descent and borrowing in the Skou family. Oceanic
+      Linguistics 4 1 ( 1 ): 1 57-207.
+  2002b, The tonal system of Skou, New Guinea. Paper presented at the symposium Cross­
+      linguistic Studies of Tonal Phenomena, Tokyo University of Foreign studies, Tokyo,
+      1 7- 1 9 December 2002.
+  2003, Morphological templates, headedness, and applicatives in Barupu. Oceanic
+     Linguistics 42( 1 ): 1 -3 3 .
+  to appear, A grammar of the Skou language of New Guinea .
+ Donohue, Mark and Lila San Roque, 2000, Patterns of nasa lisa tion in languages near
+      Vanimo. Paper presented at ALS2k (Conference of the Australian Linguistic Society,
+      Melbourne 2000).
+Donohue, Mark and Melissa Crowther, 2000, Meeting in the middle: interaction in central­
+     north New Guinea. Paper presented at the Papuan Pasts conference, 27-30 November
+     2000. The Australian National University, Canberra.
+Dryer, Matthew S., 1 988, Object-verb order and adjective-noun order: dispelling a myth.
+     Lingua 74: 1 8 5-2 1 7.
+Ezard, Bryan, 1 997, A grammar of Tawala, an A ustronesian language of the Milne Bay
+     area, Papua New Guinea . Canberra: Pacific Linguistics.
+Foley, William A., 1 986, The Papuan languages of New Guinea. Cambridge: Cambridge
+     University Press.
+  1 998, Toward understanding Papuan languages. In Jelle Miedema, Cecilia Ode and Rien
+     A.c. Dam, eds Perspectives on the Bird 's Head of Irian Jaya, Indonesia 503-5 1 8 .
+     Amsterdam: Rodopi BV.
+  2000, The languages of New Guinea. Annual review of Anthropology 29:357-404.
+Hombert, Jean-Marie, 1 978, Consonant types, vowel quality, and tone. In Victoria Fromkin,
+     ed. Tone: a linguistic survey 77- 1 1 1 . New York: Academic Press.
+Innes, Gordon, 1 966, An introduction to Grebo. University of London: School of African
+     and Oriental Studies.
+Klappa, Stefanie, 1 999a, Summary report ofpresentation to APFT Brussels workshop.
+     1 5- 1 8 January 1 999.
+  1 999b, Cultivating (for)fallows. Published on the APFTI FRP website at
+     http://lucy . ukc.ac. uk/Rainforest/frp-websitelPublicationslklappa/fallow cult.html.
+                                                                         _
+  1 999c, ""Pigs are dirty, pork makes sick"" - a taboo on pork and its meaning for the new
+     millennium. In Serge Bahuchet, Daniel Bley, Helene Pagezy, Nicole Vernazza-Licht,
+     eds L 'Homme et la Foret Tropicale; Travaux de la Societe d 'Ecologie Humaine 1 999:
+     1 1 3-1 22.
+  1 999d, The Road to Development: Krisa. In Collectif APFT, ed. La route en foret
+     tropicale: porte ouverte sur l 'avenir? APFT Working Paper No. 6: 2 1 -2 3 . Brussels:
+     APFT.
+Kocher Schmid, Christin, 1 996, Krisa/Isaka History. Unpublished manuscript.
+  1 999, Vanimo-Kilimeri: FRP Site of Intensive Interdisciplinary Research. Report
+     1 996- 1 999 for the European Commission, DG VIII.
+ 1 26   References Kocher Schmid, Christin Klappa and Stefanie Klappa, 1 999, Profile of a leader, or the world
+      according to Yulu Nuo. In Christin Kocher Schmid, ed. Expecting the day of wrath:
+      versions of the millennium in Papua New Guinea. The National Research Institute in
+      association with the European Commission programme 'Avenir des Peuples des Forets
+      Tropicales' 89-1 1 0. Port Moresby: National Research Institute of PNG Monograph 36.
+Kocher Schmid, Christin, with Members of the Future of The Rainforest Peoples Papua New
+      Guinea Working Group, 2000, Money, food and time: constructions of the future in
+      Papua New Guinea. In Focaal, Tijdschrift voor Antropologie (3 5):53-6 8 .
+Lang, Adrianne, 1 975, The semantics of classificatory verbs in Enga (and other Papua New
+      Guinea languages). Canberra: Pacific Linguistics.
+Laycock, Donald c., 1 970, Krisa. In Laycock notebook D- 3 : 340-3 8 8 . MS, Department of
+      Linguistics, Research School of Pacific and Asian Studies, The Australian National
+     University.
+  1 973, Sepik languages: checklist and preliminary classification. Canberra: Pacific
+     Linguistics.
+  1 975, Sko, Kwomtar, and Left May (Arai) phyla. In Wurm et aI., eds New Guinea area
+     languages and language study, vol. 1 : Papuan languages and the New Guinea
+     linguistic scene, 849-8 5 8 . Canberra: Pacific Linguistics.
+Moxness, Mike, 2002, Auye phonology. MS, SIL (Irian Jaya branch). Abepura.
+MUhlhiiusler, Peter, 1 996, Linguistic ecology: language change and linguistic imperialism
+     in the Pacific region. London: Routledge.
+Newman, Paul, 1 986, Contour tones as phonemic primes in Grebo. In Koen Bogers,
+     Harry van der Hulst and Maarten Mous, eds The phonological representation of
+     suprasegmentals: studies in Aftican languages offered to John M. Stewart on his 60th
+     birthday. Dordrecht: Foris.
+Phillips, Donald J., 1 976, Wahgi phonology and morphology. Canberra: Pacific Linguistics.
+Ross, Malcolm D., 1 98 8 , Proto Oceanic and the Austronesian languages of Western
+     Melanesia. Canberra: Pacific Linguistics.
+San Roque, Lila, 200 1 , Setting the tone: orthographic experimentation in two New Guinea
+     tone languages. Honours thesis, Department of Linguistics, University of Sydney.
+Schultze Jena, Leonhard, 1 9 1 4, Forschungen im Inneren der Insel Neuguinea (Bericht des
+     FUhrers Uber die wissenschaftlichen Ergebnisse der Deutschen Grenzexpedition in das
+     westliche Kaiser-Wilhelmsland 1 9 1 0). Mitteilungen aus den Deutschen Schutzgebieten,
+     Erganzungsheft 1 1 . Berlin.
+Simet, Jacob and Joseph Ketan, 1 992, Trans-Pual study: Vanimo local group structures
+     and territorial claims. NRI Report. Port Moresby.
+Thomas, K.H. , 1 942, Notes on the natives of the Vanimo coast, New Guinea. Oceania
+     1 2 : 1 63- 1 86 .
+Voorhoeve, c.L., 1 965, The Flamingo Bay dialect of the Asmat language. Verhandelingen
+     van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde, deel 46. 's-Gravenhage:
+     Martinus Nijhoff.
+Whitehead, Carl R., 1 98 1 , Subject, object, and indirect object: towards a typology of Papuan
+     languages. Language and Linguistics in Melanesia 1 3( 1 -2):32-6 3 .
+                                                                  References    1 27Wou Wake Willi, Angela Wami, Fabian Wami, Jack Wou and Patrisia Wou with Lila San
+   Roque, 2000, A, Yung, 0, We. Department of Linguistics, University of Sydney.
+            Index
+  Because of the brevity of this grammatical description language names, authors and topics
+have all been combined into the one index .abbreviations xi                                     chai ning 95
+absolutive 89                                     Clouse 6
+accompaniment 55, 79, 92, 94                      Clouse and Clouse 1 , 1 9
+adjectives 4 1 , 7 1 , 80, 88, 96                 completive 8 1 , 95
+    experiential construction 42, 66, 80          Comrie xi
+    intensifying particle 4 1                     conjunction 93
+    morphological complexity 4 1                     adjacency 93
+adverbial 70, 92                                     postposition 94, 97
+agreement 38, 58, 93 , 97                         consonants
+    dative 63                                        cl uster 29
+    object inflection 60                             contrasts 1 3
+    subject inflection 58                                word-initial 33
+Andrews xi                                               word-medial 33
+animacy 40, 64, 74                                   gl ides 23, 30
+Asmat 1                                                  epenthetic 27
+aspect 70, 80                                            extrametrical 30
+attitudes to language 6, 9, 34                       lateral 24
+Bentinck 23                                          nasals 23
+Border Languages 2                                   rhotic 25
+   Fakmo (Bewani) 6, 40                           contact history 3
+    Man'm 40                                      contact languages 6, 1 4, 40
+    Mbo (Kil meri) 6, 8, 32                          loan words 8, 29, 32, 72
+    Mnanki 40                                        orthographies 36
+   Ningera 6, 8, 1 4                              Crowther 1 7
+Bourke 4                                          cultivation 4
+Bromley 22                                        dative 54, 57, 63 , 8 1
+case 45, 54                                          adjectives 38, 80
+causation 75                                         beneficiary 64
+Cheesman 4                                           experiencer 64, 66, 75, 9 1
+church , 5 , 8, 9                                    goal 64
+classification 1 , 6, 1 06                           location verbs 74
+clause                                               low-transitivity 65, 68
+   coordinate 97                                     possessor 56, 64, 79                                           1 28
+                                                                    Index    1 29     recipient 64                       literacy 1 1 , 34
+ deictic 38, 90                         location 5 3 , 55, 85, 87
+ Donohue 8, 1 7 , 22, 1 05 , 1 06       logging 5, 1 1
+ Donohue and Crowther 8                 Macro-Skou family 6, 1 06
+ Donohue and San Roque 1 , 1 9              cognates 3 3 , 4 1 , 95 , 1 06
+ dubitative 84                              proto Macro-Skou 2 1 , 33
+ Dryer 2                                map 2, 3
+ employment 5                           Moxness 22
+ endangerment 1 , 9                     Miihlhausler 9
+    vernacular literacy 1 2             nasalisation 1 7
+Enga 74                                    consonantal allophony 23
+English 6, 69, 73, 9 1 , 1 1 0             contrasts 1 7
+    literacy 1 1                           orthographic representation 36
+    nasali sation contrast 1 9             phonetic 1 9
+    orthography 36                         phonological representation 1 8
+    use in Krisa village 8, 1 0            restrictions 32
+evidential 69, 84                          syllable level 1 8
+experiencer 9 1                         negation 82, 92
+exploration 4                           Newman 23
+Ezard 22                                noun phrase 85, 90
+finderlist 1 17                         nouns 39
+focus 86, 87                            one village, one language 9
+Foley 1 , 22, 60                        orthography 1 2 , 34
+French 1 9                              Phil lips 36
+Future of Tropical Rainforest Peoples   phonology 1 3
+  (FTRP) 5 , 9                             assimilation (tone) 1 6
+gender 39, 45                              deletion (glide) 27, 30
+give 47, 64                                dissimilation (vowel) 26
+grammatical morphemes 1 23                 epenthesis 27, 28
+history 3 , 5                              fricativisation 20, 25
+Hombert 32                                 historical 1 5 , 22
+hunti ng 4, 1 00                           lenition 20, 30, 3 3 , 62
+identity 1                                 segmental 1 3 , 20
+imperative 82                              suprasegmental 1 6, 23
+Innes 23                                   syllable 1 8, 26, 27, 29, 59
+instrument 54, 56, 85, 87               phonotactics 29
+interrogative clauses 87                phrase structure 88
+involuntary state 66, 9 1               Piore River languages 6, 7
+irreal is 24, 3 1 , 69, 82                 Barupu 1 , 7, 1 7 , 1 06
+Japanese 1 9                               Nouri 7
+Klappa 3 , 4, 5, 6, 1 2                    Sumo 7, 1 07
+Kocher Schnlid 5 , 6, 1 1 , 32, 40      prefix overwriting verb root 59
+Kocher Schmid and Klappa 6, 9           prohibitive 83
+Lakes Plains languages 1 , 6            pronoun 45, 77
+Lang 74                                    accusative 46, 48, 62, 65 , 72
+Laycock 1 , 1 0                            dual 50
+linguistic relationship 6, 1 06            interrogative 5 1
+1 30   Index    nominative 46, 48, 50               time 39
+    non-singular 49                     Tok Pisin 1 , 6, 1 4, 97
+    possessive 46, 49, 50, 79              literacy 1 1
+    unmarked 46, 47, 50, 5 1               loan words 72, 1 1 1 , 1 1 3
+recipient 64, 78                           local pronunciation 24, 29
+reciprocal 76                              orthography 34, 36
+reduplication 24, 28, 30, 69               use in Krisa village 8, 9
+references 1 24                         tone 1 6
+reflexive 76                               (near-)minimal pairs 1 6
+related languages 6, 1 06                  orthographic representation 34, 37
+relative clause 90, 98                     patterns on disyllabic words 1 6
+Ross 7                                     word level 1 7
+sago 4, 99                              topic 72, 86, 88, 1 0 1
+San Roque 1 , 34, 36                    transitivity 65, 68, 75
+Sandaun Province 2                      typology 1
+school S, 1 1 , 1 2, 34                 valency reduction 76
+Schultze lena 4                         van Belle and van Langendonck 65
+sequential marker 95                    verbs 40
+serial verbs 96                            adjunct nominal 67, 7 1
+Serra Hills languages 6, 7                 dependent 70
+   Puare 1 , 7, 1 7, 1 05, 1 06            irregular 1 04
+   Rawo 1 , 7, 1 0, 1 07                   locational 73
+   Sumararu 7, 33, 1 07                    phonotactics 40
+    Womo 7, 1 06                           postural 74
+Simet and Ketan 4                          serial 96
+Si mon Tapi 9                              suppletive 1 04
+Sko Phylum 1                            V oorhoeve 1 , 1 9
+Skou languages 6                        vowels 1 4
+    pronominal forms 1 07                  allophones 1 5, 26
+    Dumo 7, 1 4, 3 3 , 36, 1 06            contrasts 1 5
+    Dusur 7, 1 4, 1 06                     correlations with tone 32
+    Leitre 7, 1 7 , 1 06                   epenthetic 28
+    Nyao 95                                nasalisation 1 9
+    Skou 7, 1 7, 3 3 , 4 1 , 95, 1 06      patterns on disyllables 1 5
+    Wutung 7, 33, 95, 1 07              Whitehead 65
+sonority hierarchy 30                   word classes 38
+split-modification 88                   word order 85
+sports 9                                   adjectives 88, 96
+suffixes 57                                declarative 85
+switch reference 97                        focus position 86, 87
+Tami l 73                                   interrogative 87
+texts 99                                    non-verbal predicates 9 1
+    fish 1 0 1                              Noun Phrase 90
+    hunting 1 00                           topic position 86, 88
+    prawns 1 0 1                        word li sts 1 09
+    sago 99                                 animals 1 1 1
+    Three little pigs 1 0 1                 artefacts 1 1 2
+                                                                                                                                                                         Index   131                                                      body parts 1 1 0                                                                             plants 1 1 1
+                                                      colours 1 1 3                                                                                pronouns 1 1 1
+                                                      counting terms 1 1 3                                                                         properties 1 1 3
+                                                      kin terms 1 1 0                                                                              verbs 1 1 4
+                                                      location terms 1 1 3                                                                         Wou Wake xiv, 1 1 5
+                                                      miscellaneous items 1 1 5                                                                       animals 1 1 5
+                                                      natural world terms 1 1 2                                                                       trees 1 1 6
+Donohue, M. and Roque, L.S. I'saka: A sketch grammar of a language of north-central New Guinea.
+PL-554, Pages: xvii + 131 pages. Pacific Linguistics, The Australian National University, 2004. DOI:10.15144/PL-554.1
+©2004 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
+","[142, 143, 144, 145, 146, 147, 148, 149]"
+"
+6. 1.5 Non-verbal predicates
+   The word order in non-verbal predicates parallels that found in verbal predicates in terms
+of the functions of the elements of the clause. The predicative noun or adjective is found in
+the same final position, just as the verb is in verbal clauses, and the subject of the predicate is
+again in initial position.
+   Examples of these predicates have already been given in the sections on nouns and
+adjectives, and some additional examples are shown in the following sentences:
+   (265)    Kia    sami dina.
+            3SG.M WF       I SG.POSS
+            'He's my father-in-law.'
+   (266)    Ongni dina       bua       wini-ka.
+            MBW I SG.POSS woman MB-3SG.M.DAT
+            'My aunt by marriage is a (my) mother's brother's wife.'
+   Numerous other examples can be found elsewhere in the grammar.",[109]
+"
+10. 1 Basic I'saka word list
+   The following list of basic lexemes is given as a guide to the lexical diversity of the
+language, and as an aid to comparative work. It is not intended to be exhaustive (nor is it),
+but it does contain a good deal of lexical material that is not accessible through other sources,
+and so represents a valuable contribution to studies of New Guinea languages.
+   The list has been arranged by semantic fields, and is intended to cover as much of a basic
+survey word list as possible, with these items appearing first within each semantic domain,
+followed by a selection of more specialised items. Verbs appear inflected for first person
+singular, with the prefix d- or, if the initial syllable of the verb root is nasalised, n- (§5.2.2),
+since this makes the representation of nasalisation in an initial syllable most simple. Where
+known, the gender of the noun has been indicated, with masculine nouns marked by 'M ', and
+non-masculine marked with 'NM '. All examples appear in the orthography described in §2.7;
+the phonological forms may be reconstructed from these orthographic representations with no
+ambiguities.
+   The abbreviations used in the section on kin terms follow standard anthropological usage,
+and can be summarised as follows: C - child, D - daughter, e - elder, F - father, H - husband,
+M - mother, P - parent, S - son, Si - sibling, ss - same-sex, os - opposite sex, Sp - spouse,
+W - wife, y - younger, Z - sister. These may be used in combinations such that each operator
+applies t9 the following term. As an examples of this, the gloss CSp for duwoko indicates
+that the term can be used for a child's spouse. Some terms cover reference of what would be
+                                                1 09
+1 10    Chapter 1 0conceived of as two separate categories in English, such as PP, CC yani', which covers both
+grandparents (of either sex, thus in English both grandfather and grandmother) and
+grandchildren. Clearly the relevant characteristic in I ' saka is that the referent is two
+generations removed from Ego.
+   The following word list is organised into the following categories (in order of
+presentation): Body parts, Humans and kin terms, Pronouns, Animals, Plants, Natural world,
+Human artefacts, Location, Colours, Counting, Properties, Verbs, Miscellaneous.","[127, 128]"
+"                                                1 04
+                                                           Irregular verb paradigms         1 05   The plural of the verb 'go' is found in two forms. In addition to, for instance, yore ', the
+form yinore ' has also been recorded. The meaning difference, if any, between these two
+forms is not known. The similarity of the root for 'go' in I'saka to the cognate forms in Skou
+(re) makes it very likely that the apparently prefixal in- has historically borne some function,
+which might possibly have been lost, or else fused into the root, in the case of the 3PL form.
+   It is worth pointing out that some of the verb forms described here show some degree of
+mUltiple exponence of agreement marking for subject. This is particularly noticable with the
+verbs of going. For example, when the 2PL form of the verb is given as yinore ', the
+morphological breakdown of the verb must be something like the following:
+   (303)   yinore'
+           yi-n-ore'
+           2PL-PL-go.PL
+           'You all went.'
+   The mUltiple marking of the same features, or subsets of the same set of features, at
+different points in a verb is common to other members of the Skou family (though it is by no
+means universal). I t has been described in Skou (Donohue 1 999b) and Barupu (Donohue
+2003), and has also been observed, with pragmatic functions, in Puare (Donohue's
+fieldnotes, 2002).
+9            Comparison with related
+             languages    As mentioned in § 1 . 3 , there are no languages with a particularly close linguistic
+relationship to I'saka. Despite this lack of near siblings, I'saka is demonstrably a member of
+the Macro-Skou family, as has been seen in Figure 3, and numerous cognates and
+paradigmatic matches can be found with languages in other, more populous, branches of this
+family (see Donohue 2002a, to appear). In this section some of the similarities between
+I'saka and various of the other languages of the family will be described.
+    Recall from Figure 3 in § 1 . 3 that I'saka is a first-order subgroup within the Macro-Skou
+family. As such, there are not many cognates with any one language from the other branch
+of Macro-Skou, but taken as a whole there are quite a few. Table 30 presents a non­
+exhaustive list of representative examples, with the non-I'saka words shown in IPA .","[122, 123, 124]"
+"
+5. 7.5 Dubitative
+   The dubitative marker wo is found at the end of clauses as a marker of uncertainty on the
+part of the speaker about the truth of the utterance. It may be used as a marker of
+evidentiality, to indicate that the speaker is not vouching for the veracity of the statement, or
+it may be a marker of uncertainty about the future plausibility of the sentence:
+     (23 3)     Tra           bima       ble nu ble w-oung            wo . . .
+                sago.delight 2SG.POSS that girl that 3SG.NM-eat DUB
+                'That sago delight of yours, that girl might have eaten it (I think;
+                but I don't know either). '
+     (234)      Bala      tu-tu              wo . . .
+                tomorrow 3SG.NM.come-RED DUB
+                'She might come tomorrow (but I 'm not sure).'
+    As indicated in the examples above, the dubitative particle is often lengthened, [WJ:::] .
+Further, it is associated with a slow down-gliding intonation contour, both on the particle
+itself and to a lesser extent on the rest of the preceding clause. An additional example of this
+particle, in a richer context, can be seen in the text in §7.4.
+6           Syntax
+   In this section we shall discuss various basic elements of the syntax of rsaka that are not
+easily described in terms of morphological possibilities or morphological restriction. These
+include the word order of elements of the clause and of the noun phrase, and some simple
+features of clausal conjunction. By no means are the syntactic structures of rsaka
+completely described in this section, but rather only a small and immediately salient selection
+of constructions are presented, selected more for their frequency of appearance than
+necessarily for their typological unusualness.","[102, 103]"
+"
+6. 4. 1 Adjacency
+   Subject or object nominals may be conjoined through adjacency in the clause, provided
+that, where appropriate, the verb shows agreement for the sum of the features represented by
+both constituents. In the first example below the subject of the monovalent verb is the two
+nouns moni and tani; they are conjoined in the NP by adjacency, and the verb agrees with the
+combined dual category.
+   (274)    Moni' tani' s-eZe '     AwakaZi.
+            mother father 3DU-go Vanimo
+            'Mum and dad are going to Vanimo. '
+   The following example shows two nouns conjoined as the object of the clause. Since
+objects do not show any agreement (other than the limited set of 'envelopment' verbs and the
+light verbs 'do' and 'get' - §5.2.3), there is no overt indication of the shared phrase structure
+of the two nouns.
+   (275)    Sit     wesie n-ou.
+            sago greens I SG-eat
+            'I ate sago and greens.'
+  The dative argument in a clause behaves similarly to the subject, with respect to behaviour
+when conjoined: simple apposition is enough, with no overt conjunction being required, as in:
+   (276)    D-ele '-le '-sa         ba '           pungo
+            1 SG-go-RED-3DU.DAT elder.sibling younger.sibling
+            'I'm going to my brother and sister. '
+   In addition to these strategies, it is also possible to conjoin dative nominals with the
+postpostion tro, described in the following section and in §5. 1 .2 and §6 .7, necessarily
+following the verb.
+94      Chapter 66. 4.2 Postpositional accompaniment
+   Subject or object NPs may be conjoined using the postposition tro 'with' . The behaviour
+of the conjunct differs depending on the syntactic role it bears. A second non-subject noun
+phrase may appear as a modifier to the first object, in the preverbal object NP position, as in:
+     (277)     Wesie sit      tro n-ou.
+               tulip sago with 1 SO-eat
+               'I ate greens and sago. '
+  Alternatively, the conjunct may appear as an oblique argument in the postverbal oblique
+position, as in:
+     (278)     Sit    n-ou     wesie tro.
+               sago 1 SO-eat tulip with
+               'I ate sago with greens. '
+   When a subject argument consisting of two nominals appears with one conjunct marked
+by tro, the second noun must be coded as an oblique argument, and appear in the postverbal
+oblique position, as in the following examples.
+     (279)     Ba      dina      sit   k-oung   nana tro.
+               brother I so.poss sago 3S0.M-eat I so with
+               'My brother ate sago with me. '
+     (280)     Tani' k-ele '     moni' tro pll.
+               father 3S0.M-go mother with garden
+               'Dad went to the garden with mum. '
+   Notice that the verbs in these cases do not inflect for the combined dual number, but
+rather only show agreement for the person, number and gender of the preverbal �rgument in
+the subject NP. This suggests that the postverbal NP is in fact truly an oblique, since the
+agreement does not include it, as it did with the simple adjacency conjunction type seen in
+§6.4. 1 . This suggests that it is not possible for a tro-marked oblique to modify a noun in
+an NP if the NP is the subject of the clause, but only if it is the object.
+   There is some evidence to suggest whether or not it is permissible to link two subject
+nominals with tro on the same side of the verb. The unacceptability of (28 1 ) below may be
+partly caused by the attempt at subject co-ordination, but in truth we would expect this
+sentence to be ungrammatical in any case, as the verb is inflected for the first person subject
+only.
+     (28 1 )   *nana ba        dina        tro sit n-ou
+                I so  brother I so.poss with sago I SO-eat
+               'My brother and 1 ate sago. '
+     Even with non-singular number agreement, the sentence is still ungrammatical:
+     (282)     *nana ba        dina       tro sit sing
+                I so  brother I so.poss with sago 1 DU:eat
+               'My brother and 1 ate sago.'
+   This sentence makes it clear that a tro-marked accompaniment is not grammatical in a
+preverbal position.
+                                                                                 Syntax     956.5 Clause chaining
+   Adjacent verbs may sometimes share constituents, even when they do not form a serial
+verb construction. Object noun phrases are normally obligatory in bivalent clauses, but may
+be omitted if the clause immediately prior has the same object. Intonation patterns show that
+these are distinct clauses, rather than serial verbs:
+   (283)    Sit    d-ai,   n-ou.
+            sago l SG-get l SG-eat
+            'I got some sago, and ate [it]. '
+   I n the following sentence the oblique argument i s represented by a full independent
+pronoun in the second clause, even though it is completely recoverable from the verbal
+agreement:
+   (284)    Sani      b-o        n-rlni-ma                     mama.
+            like.that 2SG-do.M l SG-be.angry.at-2sG.DAT 2SG
+            'If you behave like that, I 'll be cross at you. '
+   The following example shows that the clause-final completive particle y a may also be
+shared over two clauses. Again, we see the object noun phrase omitted in the second clause:
+   (285)    Sit    bima       ble d-akai, n-ou         ya .
+            sago 2SG.POSS that l SG-cut l SG-eat COMP
+            'I prepared that sago of yours, and ate [it]. '
+  It is, of course, possible to link two monovalent clauses. The following sentence shows
+two clauses with a shared oblique nominal, appearing final in the chain of verbs:
+   (286)    Dapu       d-ele ' d-iy         wfysau pule.
+            l SG.NOM l SG-go l SG-sleep forest bush.camp
+            'I went and slept in the bush camp. '
+   Another option for linking clauses involves the use of the sequential marker -pa (see also
+the texts in Chapter 7). This can be seen in the following textual extracts:
+   (28 7)   D-ele ' asong-pa       nil,         tau d-ei      mi.
+            l SG-go stealthy-SEQ INTENSE noise l SG-do NEG
+            'I went along very stealthily, I didn't make any noise.'
+   (288)    Dapu       d-ele' pli-pa        dapu      Wl d-akai,         d-ele ' wfysau.
+            l SG.NOM l SG-go road-SEQ l SG.NOM river l SG-cross l SG-go forest
+            'I went along the road, then I crossed the river and went into the forest. '
+   A phonologically identical conjunction is found, with various uses, in Skou, Nyao and
+Wutung, genetically rather distantly related languages found to the immediate north-west and
+west of Krisa. The fact that the cognate conjunction shows a Ipl in Wutung and Nyao, where
+we would espect Itfl, and the lack of any evidence for this morpheme in any other related
+languages, points to some evidence for the spread of this morpheme involving diffusion
+rather than simple descent (Nyao also displays the case marker -tJi in a role that -pa is found
+with in Skou, marking an instrument. This would be the expected cognate for a Proto Skou
+form *pV . Skou also has a light verb fa 'make use of', which might be cognate, but for
+which there is no comparative support).
+96      Chapter 6     Clauses marking purpose or reason are not marked in any particular way:
+     (289)     Nana d-ele ' ubiy             n-afung, d-alai              ya,     Wl.
+               l sG l SG-go fish.poison l sG-uproot l SG-get.pL.OBJ COMP water
+               'I went to pull out the fish poison roots, and when I 'd collected them,
+                (went to) the river.'
+     (290)     Mama b-akai-na             mou,      nana wii-na.
+               2SG         2SG-wait- l sG not.exist l SG 3SG.NM.do- 1 SG.DAT
+               'If you wait for me, and I don't come, (it'll be because) I 'm sick.'
+               (lit. '(If) you wait for me, and there's no (result), (it'll be because) I 'm
+               sick. ')
+   Sharing an argument between two verbs is also characteristic of serial verb constructions,
+and this is discussed in the following section.","[111, 112, 113, 114]"
+"
+        Picture 5: Collette with a pig in a bag, brought to the regular market day.
+                                                                        Photographs       XVll
+Picture 6: Watching the soccer ball vanish over the edge of the plateau. Since there is
+only one ball in the village, this then calls for one of the more agile players to scramble
+down and fetch it. All the players get a well-earned break while the volunteer looks for
+the ball and retrieves it. The Pual valley in the background of the photograph, south of
+the Oenake plateau, ends with the Bewani mountains on the horizon.
+Donohue, M. and Roque, L.S. I'saka: A sketch grammar of a language of north-central New Guinea.
+PL-554, Pages: xvii + 131 pages. Pacific Linguistics, The Australian National University, 2004. DOI:10.15144/PL-554.cover
+©2004 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
+                                                 1                                  Introduction
+                                                I'saka is the language spoken in the village of Krisa. It is also spoken in the off-shoot
+                                             settlement at Pasi, four hours' walk north near the coast and c loser to government
+                                             administration, and also at numerous temporary bush camps about the plateau lands near
+                                            Mount Asowa, which is the centre of the range of hunting and gathering for the people of
+                                            Krisa village. The language is endangered in all senses of the word, inconsistently used in
+                                            this one village, and sparsely used outside it. Close by in the larger population centre of
+                                            Vanimo, different languages are spoken. Tok Pisin, the lingua franca of most of Papua
+                                            New Guinea, has supplanted most of the traditional functions of I'saka. Nonetheless, I'saka
+                                            still serves as an icon of the separateness and identity of the Krisa people (§ 1 .3 .2), and is still
+                                            being passed on.
+                                                This is the first linguistic documentation of the I1saka language. Laycock ( 1 973)
+                                            tentatively classifies that language, which he calls Krisa , along with Rawo, Puari and
+                                            Warap u (now known as Puare and Barupu), as members of the Krisa branch of the
+                                            Sko phylum. In the light of more recent research this classification is not tenable: although
+                                            the languages are all related to each other, as well as to the closely related languages of the
+                                            coastal strip from Pasi to the Skou villages across the border into Papua, it is in a very
+                                            different configuration to that proposed by Laycock (the classification that is followed here
+                                            is described in § 1 . 3). Since the publication of Laycock ( 1 973), there have been occasional
+                                            references in print to the position of I'saka within his classification, but no material on or
+                                            references to the language have appeared, other than Donohue and San Roque (2000), and
+                                            San Roque (200 1 ).
+                                                The language of the people who live in Krisa village is more properly known as I'saka,
+                                            the name preferred by native speakers, and also a name that is phonotactically possible in the
+                                            language (see §2.6 . 1 ). In this work both terms will be used, but for different senses: the
+                                            language shall be referred to as I'saka, and the people and their village as Krisa.
+                                                I'saka is unusual not only in terms of general world typology, but also in terms of the
+                                            characteristics we might expect from a language of New Guinea, indeed even of the Macro­
+                                            Skou family in which it finds its nearest cousins. Using the characteristics of a 'typical'
+                                            Papuan language that Foley ( 1 998) proposes, we find that I'saka can be accommodated into
+                                            the phonological expectations for Papuan languages, but that is only because the prospect of
+                                            complete allophony between voiced stops and voiced nasals was not considered by Foley (see
+                                            §2.4. 1 for discussion). Asmat (Voorhoeve 1 9 65) also shows complementary and free
+                                            distribution between oral stops and nasal stops; Clouse and Clouse ( 1 993) describe just such a
+                                            situation in languages of the Lakes Plains of West Papua. The latter languages are much                                                                                                                                                   1
+Donohue, M. and Roque, L.S. I'saka: A sketch grammar of a language of north-central New Guinea.
+PL-554, Pages: xvii + 131 pages. Pacific Linguistics, The Australian National University, 2004. DOI:10.15144/PL-554.1
+©2004 Pacific Linguistics and/or the author(s). Online edition licensed 2015 CC BY-SA 4.0, with permission of PL. A sealang.net/CRCL initiative.
+2     Chapter 1more likely candidates for genetic relatedness to I'saka than is Asmat or any of its relatives.
+Morphologically, I'saka shows more similarities with the Melanesian Austronesian pattern
+than the 'typical' Papuan pattern (that is, the highlands Trans New Guinea pattern that is
+usually evoked when referring to Papuan languages), with strict word order, no case-marking
+particles, and relatively simple morphology. Syntactically, I'saka is mainly right-headed at
+the clause level, but left-headed within the NP, as is to be expected (Dryer 1 98 8). The
+language makes extensive use of light verbs (§5.3 . 1 , 5 . 3 .2), sometimes with a semantically
+specifying nominal, and sometimes without, relying on either discourse-contextual knowledge
+or on shared cultural knowledge concerning the activities performed with different things to
+resolve ambiguities. These points will all be examined in detail from Chapter 2 on, following
+a discussion of the sociolinguistic factors that are at play in the Krisa community.","[16, 17, 18, 19, 20]"
+"
+4. 1. 1 Unmarked pronouns
+   The unmarked pronoun is the most common and flexible form of the pronoun, appearing
+in a wider range of contexts than any of the other pronominal sets. The referent can be a
+subject or dative referent, and at times the unmarked set of pronouns is even used as
+possessive pronouns. Additionally, an overtly marked oblique pronoun must be drawn from
+the unmarked set (such as accompanying participants, which are marked with tro attached to
+a pronoun from the unmarked set, as in (95) in §5 . 1 .2). The only restriction on the function
+of this pronominal set is that it may not be used to mark a referent which is the object of a
+bivalent clause.
+   It is not yet well understood what motivates the choice of the unmarked pronominal forms
+when a more highly specified, and equally suitable pronominal set is available for the
+function required, such as the nominative pronouns for subjects or the possessive pronouns
+for objects.
+   Examples of the use of the unmarked pronouns in different syntactic contexts appear in
+the sentences below.
+           Unmarked pronoun as subject of a bivalent clause:
+   (62)    Nana tra              n-ou.
+           1 SG     sago.delight l SG-eat
+           'I ate sago delight.'
+           Unmarked pronoun as dative referent:
+   (63)    Buk n-ani-ma            mama .
+           book l SG-give-2SG.DAT 2SG
+           'I gave you the book. '
+           Unmarked pronoun a s possessor:
+   (64)    �p Nai nana ] b-asa-ke.
+              boy l SG      2sG-carry-3sG.M.H.OBJ
+           'You carried my child. '
+           Unmarked pronoun as un-indexed oblique:
+   (65)    Kapu k-ele '       umu.
+           3SG.M 3SG.M-go 3SG.NM
+           'He went to her.'
+           (The meaning encoded in this sentence would be more commonly
+           expressed with a dative suffix on the verb: Kapu k-ele-ung 'He went to
+           her', Kepu k-au-na 'He came to me'.)
+48      Chapter 4   From the wide range of functions in which the unmarked set of pronouns appears it is
+clear that they are not specified for grammatical features other than the pronominal ones that
+they exist to mark.","[65, 66]"
+"
+5. 1.2 Accompaniment and location
+   The case markers sa and tro appear on some oblique noun phrases to more closely specify
+the meaning than simply general oblique, which is implied by the NP appearing in a
+postverbal position. Sa is used to show accompaniment, and tro can be used with this
+function, or to indicate a specifically interior location (within). The former, sa, is used only
+infrequently, and not accepted by some speakers; for those that do use it, sa appears at the
+start of the NP, not final. Tro is often omitted from speech, with the simple locative coding
+sufficing for its sense.
+   Examples of these case markers can be seen in the following phrases:
+   (9 1 )   K-ele '-le'    sa        Dominic.
+            3SG.M-gO-RED ACCOM Dominic
+            'He went with Dominic. '
+   (92)     Bala     d-ele'-le '   Pasi Robert-tro.
+            tomorrow 1 SG-gO-RED Pasi Robert-ACCOM
+            'Tomorrow I 'm going to Pasi with Robert. '
+56     Chapter 5  Note that the order of the accompanier and the goal is not fixed, as can be seen by
+comparing the last sentence with the following:
+     (93)     D-ele '-le '   Simon-tro      Awakali.
+              l SG-gO-RED Simon-ACCOM Vanimo
+              'I 'm going to go to Vanimo with Simon.'
+   We can see in these examples that the postverbal accompaniment NP does not contribute
+to the set of pronominal features that are marked on the verb: in (93) the verb is marked for
+a singular subject, and indeed plural marking is ungrammatical in this case. I f the
+accompanier is presented in the subject position with the affix -sing, from sie 'two', then the
+verb takes dual marking, as in:
+     (94)     Bala     Simon-sing        s-ele '-le'       Pasi.
+              tomorrow Simon-DU.ACCOM I DU-go-RED Pasi
+              'Tomorrow Simon and 1 are going to Pasi. ' l
+  Another use of tro i s almost instrumental in function, though i t i s less of a n 'intermediary
+agent' than a -ri marked instrument. An example of this use is:
+     (95)     Ubuei        tey       omu-tro            we owai.
+              poison.root milk/sap 3SG.NM-ACCOM fish 3 PL.die
+              'Fish die because of the sap of the poisonous vine. '
+              (The regular form of the 3SG.NM pronoun is umu (see §4. 1 ); the lowered
+              initial vowel here might be due to the presence of the low vowel in the
+              suffix - tro , or it might be a dissimilatory effect brought on by the
+              preceding high glide in tey.)
+   Here we can see that a non-agentive effector is marked not as an A, but as an oblique
+cause, while the patient is marked as the S of the clause.
+   It is also worth noting the identity in form between the accompaniment marker tro and the
+locational noun tro 'inside'. Similar syncretism between duwe ' 'ground', 'outside' can also be
+found (see § l O. l ).","[73, 74]"
+"
+5.2.3 Object inflection
+   Independent bivalent verbs can be divided into two morphologically distinct classes. The
+first class, a minority pattern, marks the gender and number (singular/dual being relevantly
+grouped together as non-plural, NPL, opposed to plural, PL) of the object on the verb. This
+may be accomplished in one of two ways: either through the use of suppletive verb-forms, or
+through the use of more delimitable affixation - 'delimitable' in the sense that the
+correspondences of pronominal values to the segments employed for their encoding match
+the paradigms seen elsewhere. (In fact, calling this 'affixation' may be jumping the gun as
+there are too few examples known to be sure that we are really dealing with regular affixes
+that mean 'masculine non-plural object', etc., as opposed to patterns of lexical suppletion.)
+Table 26 shows two examples of the class of verbs that mark some value of the object by
+suppletive verb forms; the examples given here have been inflected for first person singular
+subject (d-) as well as the inflection for object. The first example, with the verb -ai 'get' ,
+shows what may b e analysable a s object affixes. The rightmost column illustrates the
+patterns found with the verb -ei 'do', and shows object-governed suppletion, or at best object
+                                                                                 Morphology   61affixation and major morphophonological changes. Although the prevalence of suppletive
+forms makes it difficult to posit a root for the verb 'do', the third person non-masculine
+object form -ei is considered to be the most unmarked, in terms of its range of application,
+frequency of occurrence, and appearance in elicitation. As such, it has been treated as the
+underlying form throughout.
+                                     Table 26: Object prefixes                     SUBJ      OBJ            'take, get', [-aj]   'do', [-ej]
+                      l SG     3NPL.NM           d-ai               d-ei
+                               3NPL.M            d-akai             d-o
+                               3PL               d-alai             d-ou   If the verb 'take' in the table above illustrates a productive (or at least regular, and not
+entirely suppletive) object marking pattern, then the morphemes used to index the values of
+                                                                                              ,
+the object are prefixal to the verb root; the morphological structure of 'I take (masculine)
+would most logically be PrefsuBJ-PrefoBJ-V, as in the following segmented example.
+   ( 1 07)   d-ak-ai
+             l SG-3SG.NPL.M-take
+                                 ,
+             'I take (masculine)
+   Here the use of the k consonant in the prefix is reminiscent of the appearance of this
+consonant in various places in paradigms involving third person singular masculine
+arguments. We would posit the prefixes ak- and al-, the only consonant-final morphemes in
+the language. With 'do', however, it is hard to isolate a single element that can be said to be
+added to an otherwise basically invariant verb root. It could well be the case that prefixes of
+the form V- and VG- are added and the rhyme of the prefix overwrites that of the verb root,
+in a process similar to that described for vowel coalescence when subject prefixes of the
+shape CV - are added to verbs (§5 .2.2). If this is the case, the prefixes are 0- '3NPL.M .OBJ'
+and ou- 'PL.OBJ' (/'Jw/). An example of the verb 'do' inflected for non-plural masculine
+object is given in:
+   ( 1 08)   [d'J]
+             /d-'J-Ej!
+             l SG.sUBJ-3SG.NPL.M.OBJ-do
+             'I do (masculine).'
+             (See §5.2.2 for a discussion of the process of rhyme replacement in verbs
+             following the syllabification of extrametrical elements, arguing that rather
+             than simply vowel replacement, there is a more complex process involved.)
+   For ease of glossing, only the features 'plural ' and 'masculine' will be indicated in the
+gloss lines, as these seem to represent elements that, historically at least, were added to the
+roots. Thus, d-ei will be glossed simply as l sG-do, not l SG-do.NPL.NM ; d-o will be glossed
+as l sG-do.M, and d-ou as l sG-do.pL. The features non-singular and non-masculine will not
+be explicitly marked in the glosses, as they represent the unmarked categories.
+   In addition to these verbs with irregular (in the sense of less easily segmentable) means of
+marking object values on the verb, a small and semantically distinct subset of this class takes
+a regular set of suffixes that indicate number, person and gender of a human object (H .OBJ).
+62       Chapter 5Those forms that are known are shown in Table 27, followed by some examples. It should
+be noted that the human object suffixes bear the same 'signature' person/gender phonemes
+(/dI: 1 sG, fb/: 2sG, 1kI: 3 SG.M and /w/: 3SG.NM) as the subject prefixes. These onsets tend not
+to lenite intervocalically, implying that there are different degrees of morpheme juncture
+involved here, possibly involving c1iticisation, compared to the lenition that occurs when
+subject prefixes are reduplicated (support, albeit circumstantial, for this position is the
+ambiguity of the position of the dative suffixes when in proximity to the completive marker
+- see §S.7. 1 ).
+                                   Table 27: Human object suffixes                                            SG           DU           PL                                1          -de           -si          ?
+                                2          -be           -se         -ye
+                                3 .M       -ke/-ki       -l          -l
+                                3 .NM      -wi   Examples of the use of these suffixes can be found in the following sentences; these
+represent examples from both of the only two verbs that have been consistently observed to
+occur with this set of object markers.
+     ( 1 09)    M-opa-wi.
+                2sG-carry.on.shoulder-3sG.NM .H.OBJ
+                'You carried her on your shoulders. '
+     ( 1 1 0)   Nai d-esi            d-epa-ki       yang-yang. 2
+                boy l SG-carry l SG-put-3sG.M.H.OBJ leg-leg
+                'I 'll hold the boy on my lap. '
+     All observed occurrences of the human object suffixes are on verbs of carrying and
+holding, such as shown with -opa 'carry on shoulder' and -epa 'place (on lap)' in sentences
+( 1 09) and ( 1 1 0), and also (not exemplified here) -aisuso 'carry on side, carry on hip' and the
+more generic -asa 'carry'. The use of the appropriate object suffix is obligatory in those
+constructions exemplified above, and has not been observed, or accepted, with any other
+verbs. We might reasonably assume that any bivalent verb that could satisfy the semantic
+criteria (which we might define as 'envelopment of an animate (human?) object') would also
+combine with the suffixes, but no verbs other than those listed here have been recorded with
+the object suffixes. The fact that another verb of carrying, -asei 'carry by attaching to a pole
+on shoulder', does not allow for object suffixes implies that the envelopment part of the
+semantics is important.
+     A few examples have been noted of 'carrying' verbs being used in an alternative
+construction, in series with the verb -ei 'do', as in example ( 1 1 1 ) below. In this instance, the
+human object suffix is omitted. The use of an accusative object-referencing pronoun, such as
+die, is, however, obligatory.","[78, 79, 80]"
+"
+5.5 Functions of pronouns
+   As described in §4. 1 , there are four pronoun sets in I'saka, with the maximum number of
+distinctions found on the singular pronouns. Their morphological structure has been
+presented in that section, and in this section we shall summarise their uses.
+78       Chapter 55.5. 1    Personal pronouns
+   We can note that the accusative pronouns bear a close resemblance to the human object
+suffixes shown in Table 27 (§5 .2. 3). However, unlike the suffixes, the accusative pronoun
+always precedes the verb. The recurrence of the sequence -pu in the nominative set is
+interesting, as this possible morpheme/formative is exemplified in the data in other contexts
+(most regularly, adverbs are also usually formed with -pu). Its putative independent meaning
+appears to be something like 'emphatic ' or 'means of action '. This can be seen in the
+following example, in which the appearance of the -pu seems to imply a strong causal link
+between the two clauses:
+     ( 1 90)   Bala         pz     k-ei       m6u-pu               d-ele '-le ' pili.
+               tomorrow rain 3S0.M-do not.exist-EMPH? I S0-gO-<IRR> garden
+               'If there's no rain tomorrow, then I 'll go to the garden. '
+   Other support for the argument that this i s a (fossilised) morpheme is the fact that the
+intervocalic /p/ is not prone to lenition - see §2 . 3 . 1 . The nominative form of the pronoun
+is restricted to referents serving as the subject of the verbal clause, either bivalent or
+monovalent, or the subject of a non-verbal clause. Some examples are:
+     (191)     Depu       tei d-akai.
+               I S0.NOM wood I so-cut
+               'I cut wood.'
+     (1 92)    Kepu          k-ele '  Awakali.
+               3S0.M.NOM 3S0.M-go Vanimo
+               'He's gone to Vanimo.'
+   The unmarked form is the most common and flexible form of the pronoun, as it can have
+a subject or dative referent, and may at times even be used as a possessive pronoun. It is
+absolutely restricted only in that it may not appear as the object of a clause; this is always
+reserved for the accusative pronominal set. Compare the sentence above with the following
+nearly identical version using an unmarked pronoun:
+     ( 1 93)   Kia     k-ele '   Awakali.
+               3S0.M 3S0.M-go Vanimo
+               'He's gone to Vanimo.'
+   It is not well understood what motivates the choice of the unmarked form over the
+nominative and possessive pronouns (or vice versa). Other examples of the unmarked
+pronouns can be seen below, and in §4. 1 . 1 .
+               Subject of verbal clause:
+     ( 1 94)   Nana tra              n-ou.
+               1 so     sago.delight 1 SO-eat
+               'I ate sago delight.'
+               Dative recipient:
+     ( 1 95)   Buk n-ani-ma            mama.
+               book I s0-give-2S0.DAT 2so
+               'I gave you the book. '
+                                                                            Morphology       79             Possessor in NP:
+   ( 1 96)   Nai nana b-asa-ke.
+             boy l SG      2SG-carry-3sG.M.H.OBJ
+             'You carried my child.'
+   The accusative pronouns are restricted to pronominal arguments serving as the object of a
+bivalent clause; this is the only morphosyntactic environment in which they may appear, and
+so they are the most restricted of the pronoun sets:
+   ( 1 97)   Pi      bi        k-ang.
+             rain.M 2SG.ACC 3SG.M-make.wet
+             'The rain wets you. '
+   A s mentioned above, the unmarked personal pronouns are able to carry a n inflection for
+accompaniment, -sa :
+   ( 1 98)   K -ele I  nana-sa.
+             3SG.M-go l SG-ACCOM
+             'He went with me. '
+   This cannot occur with pronouns other than the unmarked pronoun set, though it is
+grammatical with common and proper nouns (see §S . 1 .2):
+   ( 1 99)   *depu-sa,             *die-sa
+              l SG.NOM-ACCOM        1 SG .ACC-ACCOM
+    Like proper names, the unmarked personal pronouns may also occasionally combine with
+their corresponding dative suffixes. This creates yet another alternative possessive pronoun.
+It is not known what motivates a speaker's choice of the nominative pronoun + dative suffix
+combination over the possessive pronouns illustrated in Tables 20 and 2 1 .","[95, 96, 97]"
+"
+6.7 Verbs and the postposition tro   Coordinate clauses with the same subject in both may be linked using the postposition tro,
+already encountered in §5. 1 .2, as shown in:
+   (295)    Nana d-ele ' wang d-ei       tro.
+            1 SG    1 SG-go song l SG-do with
+            'I walked and sang. '
+   In these cases the identity of the subject must be total. Note that sentence (296) is not
+permissible even though the subject of the conjoined verb ( l SG) is included in the subject of
+the first clause ( 1 DU):
+   (296)    *si-Ie   wang d-ei      tro
+             1 Du-go song l SG-do with
+             'We two walked and I sang.'
+   When the subjects of the two clauses are different, they cannot be linked with tro, even if
+there is a logical connection between the two:
+   (297)    *nana su       n-ou     wei     b-ei   tro
+             1 SG    sago 1 SG-eat language 2SG-do with
+             'I ate sago and you talked.'
+   (298)    *nana sit     n-omo     m-ou       tro
+             1 SG sago 1 SG-cook 2SG-eat with
+             'I cooked sago and you ate (it).'
+   Instead, no overt linker is used:
+   (299)    Nana su      n-omo,      m-ou.
+            1 SG    sago 1 SG-cook 2SG-eat
+            'I cooked sago and you ate (it). '
+   We can see from these sentences that the use of the postposition tro serves a switch­
+reference function, monitoring the identity of subject (S, A) in the two clauses.
+98      Chapter 66.8 Relative clauses
+   Relative clauses follow the noun that they modify, and take the form of a clause with the
+head noun missing. There is no special marker of relativisation. Two examples of relative
+clauses in which the head of the relative clause is the object in that clause are shown below:
+     (300)     Bala      sit      [b-akai]    n-o-nou.
+               tomorrow sago [2SG-cut] I SG-eat-<IRR>
+               'Tomorrow I 'll eat the sago that you're making. '
+     (30 1 )   Sit       [nana d-akai] amo m-ou ?
+               sago.NM [ l sG I sG-cut] who QSG-eat
+               'Who ate the sago that I prepared?
+   The following example shows that the theme object of the verb may head the relative
+clause even when a dative argument is explicitly present on the verb:
+     (302)     Pa [n-ani-ka]                  nuo ml.
+               bag [ l sG-give-3sG.M.DAT] big NEG
+               'The bag I gave him wasn't big. '
+                (this sentence, with a different intonation, is also grammatical with the
+               reading 'I didn't give him a big bag.')
+   In this example the adjective nuo is licensed to appear following the relative clause
+because it is not part of the NP headed by pa , but rather is the predicate of the clause.
+7            Texts
+   The following texts are presented as examples of I'saka discourse in miniature.","[115, 116, 117]"
+"
+6.6 Verb serialisation
+    I ndependent verbs may be used in serial verb constructions, provided that they show
+identical subject agreement, and the same specifications for polarity, aspect, etc. Serial verb
+constructions are common constructions in the languages of New Guinea, and their use in
+I'saka can be seen in the following example, which shows both manner-of-motion and simple
+change-of-location verbs serialised together, each with their own inflection for subject,
+necessarily agreeing (if there is overt agreement - the 3PL subject in (292) evokes no overt
+agreement on the verbs because these verbs take no agreement prefix for 3PL).
+     (29 1 )   A       nuo k-alie       k-ele ' ya.
+               pig.M big 3SG.M-flee 3SG.M-go COMP
+               'The big pig ran away. '
+     (292)     Dakau onde akane w{ysau .
+               children go hide forest
+               'The children went and hid in the bush.'
+   Note that this is an example in which the adjective (nuo 'big') appears adjacent to the noun
+rather than after the verb, despite the fact that no peripheral argument is present. This may be
+because of the presence of the completive particle, or because subject-linked adjectives
+cannot follow serialised verbs. However, from (293) we can see that an object-linked
+adjective may follow this sort of complex predicate. Note that in this sentence there is no
+completive particle.
+     (293)     Yung d-asa         d-ei kaipa.
+               bird 1 SG-carry 1 SG-do one
+               'I brought one bird.'
+   Object suffixes (and presumably dative suffixes) need only be marked on the second verb,
+as is shown in the verb series -esi 'carry' + -epa 'put' ('hold') in example ( 1 1 0), though this
+may be a result of the first verb not being eligible to take the highly restricted object marking
+(recall that only a small minority of verbs inflect for (non-dative) object in I'saka).
+Restrictions on the compulsory sharing of irrealis inflection for serial verbs (that is, whether
+one or both must be inflected) are not known.
+                                                                                  Syntax       97   Some predicates appear to be expressed only by means of what is formally a serial
+construction; these are described in §5.3 . l as dependent verbs.
+   A maximum of two verbs in series has been attested, though logically complex events of
+taking (carry, do, go) would be possible. Serial verb constructions of the type 'cause + result',
+exemplified by the Tok Pisin Em i kilim man indai 'He hit the man dead' have not,
+surprisingly, been noted in I 'saka, where the most commonly attested serial verb
+constructions involve motion verbs serialising with either an elevational motion verb ('go up',
+'go down') or a manner of motion verb ('walk ', 'run').
+   (294)    Tani' dina       k-ele '     k-ung      wi'.
+            father l SG.POSS 3SG.M-go 3SG.M-go.down sea
+            'My father went down to the sea. '
+   A range of other examples of verb serialisation can be found i n the texts i n Chapter 7.","[114, 115]"
+"
+3.1 Major word classes   Nouns and verbs are the two major word classes, being most obviously morphologically
+distinct in that verbs show agreement and nouns do not, even when predicative. This can be
+seen in the following pair of sentences, in which the verb -oung 'eat' appears with a prefix
+that agrees with the subject of the clause, while tisa in (44), a noun, shows no such prefix,
+nor other (more plausible) morphology which is the norm on verbs.
+           Verbal predicate: agreement
+   (43)    Depu        sit     n-ou-ma.
+           I SG.NOM sago I SG-eat-2SG.DAT
+           'I ate your sago. '
+           Nominal predicate: no agreement
+   (44)    Depu        tisa(*-na).
+           I SG.NOM teacher(- l sG.DAT)
+           'I 'm a teacher. '
+   At least five further distinct classes can be distinguished. These include Adjectives,
+Temporals, Deictics, Clause-relevant particles and Postpositions.
+   The Adjective class (including quantifiers) displays elements of the morphological
+characteristics of both nouns and verbs. Like verbs, adjectives may encode arguments with
+the dative suffix. However, like nouns (and unlike verbs), they show no agreement for
+person, number and gender of subject or object.",[56]
+"                                          Proto Skou group
+                                   Sk
+                                     I                   Eastern Skou
+                                                West Coast
+                                         Border             Vanimo
+                                 Sa
+                                     I             W u Dm
+                                                                       I
+                                                                      Ds             Language codes:                Ba        Barupu              No        Nouri              Sk     Skou
+                Dm        Dumo                Pu        Puare              So     Sumo
+                Ds        Dusur               Rm        Ramo               Su     Sumararu
+                Le        Leitre              Rw        Rawo               Wm     Womo
+                Mo        Mori                Sa        Sangke             Wu     Wutung
+                                 Figure 4: The (smaller) Skou family
+8    Chapter 1   As can be seen in Figure 3, although I'saka shows a genetic relationship with the
+neighbouring Skou languages, it is a very distant one, in terms of structural diversity roughly
+on the order of the differences and similarities that can found between Russian and English.
+(Examples of some of the cognates that have led to the establishment of I'saka's position
+within the Macro-Skou family can be found in §9.) The people in Krisa have an oral
+tradition of having previously lived along a string of ridges that run south of their current
+plateau home down to the Pual river valley, and before that further to the west in the valley
+itself. It is likely that this tradition of previous occupancies accurately represents the history
+of the Krisa people as they were forced into the more marginal hill areas when the Mbo and
+Ningera people advanced down the Pual valley, displacing both the ancestors of the Krisa
+people and the ancestors of the speakers of Skou-Serra-Piore linkage language (Donohue &
+Crowther 2000; see also Donohue 2002a).","[25, 26]"
+"
+3.3 Verbs
+    Verbs in I'saka are the most highly restricted word class in terms of their phonotactic
+possibilities. This can be seen in the fact that all verbal roots are unexceptionally vowel­
+initial, which functionally serves to accommodate the obligatory consonantal prefixation that
+is found on all verbs (in both finite and non-finite constructions). This means that the
+following possibilities are found for the segmental phonotactics on verb roots:
+                                                                          Word classes     41                              Table 19: Phonotactic shape of verbs                       length         shape     example
+                       1 -0-          -V        -0          'dO.SG.M'
+                                      -VG       -oung       'eat'
+                       2-0-           -VCV      -omo        'cook'
+                                      -VCVG     -elei       'see'
+                       3-0-           -VCVCV    -akanu      'fill'
+                                      -VCVV     -alie       'flee'    Verbs can be maximally inflected for three referents (subject, object and dative) and for
+one mood distinction through reduplication. I n addition to these compulsory inflectional
+categories, several other verbal morphemes have been observed, mainly encoding aspectual
+information, but these occur only rarely in normal speech and texts. They are described in
+§5 . 3 .
+    Examples o f verbs in use with the obligatory pronominal inflection are given in the
+following sentences.
+   (49)    Sit     n-ou     ya .
+           sago I SG-eat COMP
+           'I 've eaten the sago. '
+   (50)    Kia     k-ele '   k-ung      taun.
+           3SG.M 3SG.M-go 3SG.M-go.down town
+           'He's gone to town. '
+   Issues i n verbal morphology and syntax are dealt with i n more detail i n many o f the
+following sections.","[58, 59]"
+"
+5.3.2 Adjunct nominals
+   Nouns also play a prominent role in building complex and explicit predicate semantics for
+clauses which use the light verb -ei 'do' as their main inflecting verb. This is done in two
+main ways: either through the use of a preverbal non-inflecting nominal specifier, for
+example makaing in the complex predicate makaing d-ei 'I help' ; or through knowledge of
+the nature of the main participants. For an example of this latter strategy, a clause consisting
+of a human subject, an animate animal object, and the verb -ei 'do' will be interpreted as
+'(Human) shoots/kills (animal)', based on the shared knowledge of the cultural world in
+which I'saka speakers live. In a sentence with a human subject and a normally human-made
+tool or artifact as the object, the verb -ei 'do' will be interpreted to mean 'make, process'.
+72      Chapter 5   Some examples of other adjunct nominals that are frequently found, and the verbs that
+they have been heard with, include (but are not restricted to):
+        wang       'song'                            wang k-ei          'He sings. '
+        sit        'sago'                            sit k-ei           'He processes sago.'
+        dou        'hand'                            dou k-ei           'He claps. '
+        susup      'grass'                           susup k-akai       'He cleans/cuts grass. ,t
+        kasue      'cassowary'                       kasue k-ei         'He shoots a cassowary.'
+        suwe       'laughter'                        suwe k-usue        'He laughs. '
+       t This collocation requires the plural object form of the verb 'get', since cutting
+          grass necessarily involves cutting more than just one blade - see §5 .2.3.
+   Although this area of I'saka syntax has not been investigated in detail, it is easy to note the
+ease with which independent nouns can be used with their culturally appropriate meaning,
+and the ease with which Tok Pisin loans are incorporated into the language by means of this
+construction, such as bal k-ei 'he plays with a ball', raitim k-ei 'he writes'Joto k-ei 'he takes
+a photo', helpim k-ei 'he helps' (a synonym with the construction using native I'saka
+morphemes makaing k-ei 'help(?) he-does'), we i k-ei 'he waits ' « Tok Pisin we tim;
+synonymous k-akaing 'he waits', with the same morphosyntax, involving a dative-coded P),
+or wari k-ei 'he worries'. For this last reading the native I'saka equivalent does not use an
+adjunct nominal, but rather a purely nominal construction:
+     ( 1 63)   Nana bou plai-na .
+               l SG   throat bad- 1 SG.DAT
+               'I'm worried. '
+    The accusative case may, for some speakers, also be used here: #Die bou plaina, though
+the apparently topic- like prominence of the l sG body-part possessor argument in this
+construction makes this a less common strategy; this is in contrast to the common use of the
+accusative pronouns in constructions with adjunct nominals (see, for instance ( 1 3 2), in which
+the accusative pronouns are more normal, because the subject position in the clause is not
+filled by the adjunct nominals ta l or nika nua.
+    This sort of nominal construction, using modified body parts to predicate an emotional or
+socially recognised condition, is found in other collocations as well without the dative
+suffixes:
+     ( 1 64)   Nana you              kaipa .
+               1 SG     stomach one
+               'I 'm cool about it. 'I 'I'm content. '/'I 'm not making a fuss over it. '
+   The fact that the patently recent loans are fully incorporated into the morphosyntactic
+system of I'saka, and are not (at least obvious) examples of code-switching, can be seen in
+their occurrence with the full range of inflection, as in the following two examples, in which
+the Tok Pisin nounsfoto 'photograph' and save 'knowledge' are used in I'saka sentences.
+     ( 1 65)   Foto k-ei-ma.
+               photo 3SG.M-do-2sG.DAT
+               'He's taking a photo of you. '
+                                                                            Morphology       73    ( 1 66) Save        d-ei  ml.
+            knowledge l SG-do NEG
+            'I don't know.'
+    The productivity of this construction with loan words, and the non-compositional nature
+of the semantics of the resulting complex verb, implies that it is a highly salient construction
+in need of more investigation. It should not be thought that the number of Tok Pisin
+borrowings in these constructions indicates that the language has a deficient or less rich
+system of expression, or that it is currently undergoing massive relexification and/or
+language shift. In addition to sentences like A d-o pig 1 SG-do, meaning 'I shot a pig', people
+in Krisa also say A sutim d-o, with Tok Pisin sutim 'shoot' incorporated into the structure as
+a semantically specific adjunct nominal. Even though there is a (clearly recent) explicit
+coding strategy for 'shooting', the non-adjunct nominal construction with nothing more than
+the light verb 'do' is also perfectly acceptable and normal, albeit (from a European linguistic
+perspective) highly underspecified semantically. The cultural context (what do people do to
+pigs?), given the discourse in which it occurs (what do people do to pigs, in the bush, when
+they've taken their dog and bow and a handful of arrows?), make the various, linguistically
+ambiguous, uses of the light verb perfectly communicative for I'saka speakers. A similar
+strategy has been noted in populous Dravidian languages such as Tamil, using English words
+as adjuncts to the light verb 'do', alongside native lexemes, with no evidence of language
+shift or even necessarily diglossia operating.","[89, 90, 91]"
+"
+5.3.3 Verbs of location
+   One further prominent class of verbs shall be mentioned. These are the verbs of location
+of inanimate things, such as 'be at ', and they are illustrated below. The verb of the first
+example, siakai, is commonly used for moveable objects, whereas ta in ( 1 68) and ( 1 69) is
+usually used to describe the location of less mobile items.
+   ( 1 67)   6   siakai ti'.
+             pot be.at fire
+             'The pot is on the fire.'
+   ( 1 68)   Wei   dina        ta    Aliakaw.
+             house l SG.POSS be.at Aliakau
+             'My house is in Aliakau. '
+   ( 1 69)   Tarie ta      yang mi.
+             ear     be.at leg NEG
+             '(Your) ear isn't located on (your) leg.'
+   ( 1 70)   *nana siakai wei
+              1 SG be.at house
+             'I'm at home.'
+   These words represent something of a conundrum for morphological analysis, as it is
+impossible to tell with certainty whether or not they are inflected for subject. Inanimates
+normally take 3SG.NM inflection on verbs, but the inflection for 3SG.NM on many verbs is
+irregular (see §5 .2.2 and Chapter 8). The fact that these verbs of location begin with [t] and
+74       Chapter 5[s] (which are probably etymologically related - see §2.3 .4) is suggestive of productive
+inflection for 3SG.NM, at least historically. This is because a large proportion of verbs with
+suppletive 3SG.NM forms are t-initial for 3SG.NM (e.g. tu 3SG.NM come).
+    Occurrences of the verb siakai such as that in ( 1 67) do not show variation for number, as
+is illustrated by the following sentence, which has a plural subject:
+     (1 71)    Tei     amopa ni'           siaka lu      wei  tru.
+               wood many INTENSE be.at be.at house inside
+               'There's a lot of firewood inside the house. '
+   Unlike inanimate things, animate subjects are 'located' using postural verbs that
+incorporate information about the stance or orientation of the object, such as -ana 'sit', -ung
+'be at', etc. (see below). Given this distinction in the verbs, the verbs exemplified above are
+perhaps inherently inanimate, rendering subject inflection irrelevant.
+   There are some instances of the dative suffix occurring on location verbs. In these cases it
+encodes the possessor of the sole argument of the verb:
+     ( 1 72)   Kap dina-e              sakai-na   wei.
+               cup 1 SG.POSS-EMPH be.at- 1 SG.DAT house
+               'My cup is in the (?my) house. '
+     ( 1 73)   6 sakai-na.
+               pot be.at- 1 SG.DAT
+                'That's my pot.'
+               (or possibly: 'My pot is there.')
+   Examples of this can be found in the following paradigms and sentences, showing
+different verbs being used with different nouns, depending on their relation to a human-style
+stance or posture. The unmarked verb collocation used to indicate existing for humans, lada!
++ lui 'sit + be.at', inflects as follows (shown with the unmarked pronominal set):     ( 1 74)   nana n-ana n-u            nesing si-na su   numu ni-na ku
+               mama m-ana m-u            lsang s-ana su    yumu yi-na ku
+               kie k-ana k-ung           esang s-ana su    ia ina ku/ana ku
+               omu (w)ona su
+   It is not the case that different kinds of inanimate nouns are found with the postural verbs,
+with the choice of verb acting as a covert classification system (as is seen commonly in other
+Papuan languages, e.g. Enga: Lang 1 975). Rather, in I'saka, the postural verbs are used only
+to show actual postural alignment for animate arguments that are capable of assuming
+different postures, and inanimate arguments, rather than utilising these postural verbs as a
+form of classification, simply employ a separate set of verbs. In a sense, then, there is a
+classification of nomina Is into animate versus inanimate, but it does not go beyond this. The
+one exception involves villages, which are coded as if they were animate, as the following
+example shows:
+     ( 1 75)   I 'saka        ana ku      i 'tanu.
+               Krisa.village sit be.at mountain
+               'Krisa village is on the mountain. '
+  Here I'saka occurs not with siaka , the verb used to code a n inanimate argument's location.
+Despite this ana is not inflected for person or number.
+                                                                                 Morphology   755.4 Further verbal morphosyntax   The previous sections have presented the regular, mono-predicative morphosyntax of
+verbs, with some complications in the use of dependent verbs. In this section we shall discuss
+valency-affecting operations such as causation and various means of valency reduction.","[91, 92, 93]"
+"
+5.3. 1 Dependent verbs
+   In addition to the independent verbs described above, there are a number of subject­
+inflecting verbs that are not able to function alone in a clause without another verb.
+Generally, they occur before an independent verb, agreeing with it in person, number and
+gender of the shared subject. There are no recorded instances of dependent verbs taking
+suffixes.
+   Some dependent verbs carry adverbial information, like -asu in example ( 1 57), which
+indicates whether the main verb is done well or badly:
+     ( 1 57)   B-asu            b-o!
+               2sG-do.well 2sG-do.sG.M.OBJ
+               'Shoot it properly !'
+               (In this example 'shoot' is taken as the meaning of - 0 from the context of
+               the discourse, and is not related to the appearance of -asu. This sentence
+               is a good example of the use of light verbs without any qualifying nominal
+                - see §5 . 3 .2.)
+   Some dependent verbs are used with an aspect-modifying function. Unlike the 'adverbial'
+function of dependent verbs, in which they appear preceding the main predicating verb, the
+dependent verb in an aspect-modifying function is positioned following the independent verb:
+   ( 1 58)     Sokaing k-ei                k-ela-pu             mi.
+               tobacco 3SG.M-do 3sG.M-do.habitually-? NEG
+               'He doesn't smoke.'
+               (It is likely that the final syllable pu of -elapu 'habit' is in fact the same
+               fossilised morpheme that is found on many other adverbs, and on the
+                nominative pronouns, as this syllable recurs word-final ly with notable
+               frequency throughout the data. The meaning of it is not known - see
+               §2.3 . 1 , §4. 1 and §5.5. 1 for discussion.)
+                                                                                Morphology     71   Adverbial sorts of functions are also formed with adjectives, as in the following example:
+   ( 1 59)    Bal b-ei     nuo!
+              ball 2SG-do big
+              '(Come on, you) play (soccer) with some vigour ! '
+   In addition to this use of dependent verbs with a n independent verb to specify 'adverbial'
+or 'aspectual ' functions, some dependent verbs provide the bulk of predicative semantics in a
+clause through combining with and specifying the ubiquitous light verb -ei 'do', as in the
+example below (in this example the suppletive verb form -ou, rather than the unmarked -ei, is
+used because of the plural object) (see also the verb -imi in §5.4. 1 ).
+   ( 1 60)    Kasue        n-akaing d-ou .
+              cassowary 1 SG-search 1 SG-do.PL
+              'I 'm going to look for cassowaries. '
+              (Note that -akaing bears a more than chance resemblance t o the nominal
+              nakaing 'eye', a semantically relevant item in searching. It does, however,
+              regularly inflect as a verb: m-akaing b-ou 'you search for them'.)
+   In the following example the verb -imgni 'be angry' does not occur monovalently without
+the verb -ou 'do (plural object)':
+   (1 6 1 )   Kia     k-imgni   k-ou.
+              3SG.M 3SG.M-angry 3SG.M-do.PL
+              'He's angry.'
+   For the bivalent alternations of this verb, see §5.4.
+   A logical subtype of the class of dependent verbs are those verbs that are only found
+together: their status as verbs may be deduced from the fact that they both take subject
+prefixes, but nonetheless they are only found in the fixed sequence. An example of this is
+-aung -angye 'stretch (one's body)':
+   ( 1 62)    Ta l n-au         n-aye.
+              skin 1 SG-stretch 1 SG-stretch
+              'I stretched. '
+   The verb -ana - u 'sit', described in §5. 3 . 3 , is another example of such a predicate.","[88, 89]"
+"
+6.2 Involuntary state subjects   In many languages of New Guinea an involuntary state is usually coded with the
+experiencer as the apparent object of the construction and the stimulus as a nominal (in
+contrast to reference-dominated languages like English in which the experiencer is coded as
+the subject of the event). In I'saka the construction most closely resembles the New Guinea
+norm, but the experiencer, while appearing in accusative case (if it is pronominal) is marked
+on the verb with dative suffixes. This might reflect the fact that dative suffixes are more
+productive than is strict object marking on the verb, but may also reflect the semantic role
+associated with the experiencer.
+   The predicate 'sick', for instance, is expressed with a morphological non-subject. We can
+call it a non-subject only because the morphology coding of the argument is not consistent:
+based on the form of the pronoun we would think that I SG was an object, but based on the
+fact that it is indexed by a dative suffix on the verb we are led to believe that it is an oblique.
+   (267)    Di           wii-na.
+            I SG.ACC 3SG.NM.do- l SG.DAT
+            'I 'm sick.'
+   A literal glossing of this sentence is impossible. The accusative pronoun, in preverbal
+position, signals that 'I ' should be glossed as 'me': '(it) sickens me'. Despite this, the dative
+suffixes following the verb imply that we are dealing with a possessor or beneficiary: '(it)
+sickens forlon me'. We are thus in a dilemma about the grammatical function associated
+with the first person singular participant in (267): the dative suffixes imply that it is an
+oblique, and the accusative case implies that it is object.
+   Other involuntary state sentences do not use dative suffixing:
+92      Chapter 6     (268)     Pi      di       k-ang.
+               rain.M l SG.ACC 3SG.M-wet
+               'The rain soaked me. '
+    In addition to sentences of the sort seen in (267) and (268) the experiencer may also
+appear in a nominative case (or, as is true of almost all constructions, the unmarked case,
+which for example (269) would mean coding the l sG pronoun as nana). This is found only
+if the argument in question appears before a causing event, and if an experiencer argument is
+called for by the construction. A nominative experience is illustrated in the following
+example, where the predicate ('sick') subcategorises for an experiencer, causing the sickness
+to be manifested in that experiencer.
+     (269)     Depu         wii-na.
+               l SG.NOM 3SG.NM.do- 1 SG.DAT
+               'I 'm sick.'
+   Other dative experiencers are described in §5 .2.4. The general construction that has both
+a nominal and an inflecting verb as part of the predicate is also found in the adjunct nominal
+construction, which has been described in §5.3.2.","[109, 110]"
+"
+3    An argument for treating postverbal nominals as truly oblique, and not simply obliquely coded core
+     arguments (such as the datives of many European languages) is presented in §6. 1 .2.
+64       Chapter 5                Recipient:
+     ( 1 1 2)   Pa n-ani-ka             Mak.
+                bag l sG-give-3sG.M.DAT Mark
+                'I gave a bag to Mark.'
+                Encoding beneficiary:
+     ( 1 1 3)   Kerosin d-ai-ma .
+                kerosene l sG-get-2sG.DAT
+                'I'll get some kerosene for you.'
+                Goal:
+     ( 1 1 4)   Depu        n-anu-ka .
+                l SG.NOM l SG-call-3sG.M.DAT
+                'I called out to him. '
+                (Note that a monovalent use of -anu 'call', with no goal, does not require
+                a dative suffix, as in Yung kanu 'The bird cried out'.)
+     ( 1 1 5)   Nana d-au           d-elei-ma    mama!
+                l SG l sG-come l SG-Iook-2SG.DAT 2SG
+                'I 've come to see you !'
+                Experiencer:
+     ( 1 1 6)   Susup      wii-na .
+                grass.NM 3SG.NM.do- 1 SG.DAT
+                'I'm itchy from the grass.'
+                Possessor of participant:
+     ( 1 1 7)   Nana a          d-o-ma .
+                l SG     pig.M l SG-do.M.OBJ-2SG.DAT
+                'I shot your pig. '
+     ( 1 1 8)   Amo b-au-ma              wei?
+                who QSG-come-2sG.DAT house
+                'Who's coming to your house?'
+                (Alternatively, this sentence might be better translated as 'Who's coming
+                to you (at (your) house)?', in which case the dative would be construed as
+                encoding a goal rather than a possessor.)
+   Note that -ani 'give' does not invariably occur with the dative suffixes marking the
+recipient. I n the following example the lack of dative suffixes on the verb was explained as
+marking the fact that the speaker is requesting to have a flaming stick or a stick with glowing
+coals passed to him, but does not want to get scorched: the use of dative suffixes on the verb
+would imply that the fire more overtly affected the recipient, in this case adversely (by
+burning the hand that accepted the fire).
+     ( 1 1 9)   Til m-ani- 0 .
+                fire 2sG-give
+                'Give (me) some fire (to light a cigarette). '
+   The following examples show that inanimate arguments are not encoded by means of the
+dative suffixes, even when all the other conditions are met. The goal duwe 'dog' in ( 1 20) is
+                                                                                       Morphology          65marked on the verb by the 3 SG.M form of the dative suffix, but the inanimate goal song
+'coconut' in ( 1 2 1 ), with an identical semantic role on the same verb, cannot be marked, as
+witnessed by the fact that the dative suffixes in ( 1 2 1 )' force a reading with a possessor.
+    ( 1 20)      Mama yoko b-epe-ka               duwe.
+                 2SG    stone 2sG-put-3sG.M .DAT dog.M
+                 'You threw a stone at the dog. '
+    (121)        Nana yoko d-epe song.
+                 l SG    stone l SG-put coconut.NM
+                 'I threw a stone at the coconut. '
+    ( 1 2 1 )'   *nana yoko depeung song
+   This sentence is ungrammatical with the -ung referring to the non-masculine noun song
+'coconut'. It is good for: 'I threw a stone at her coconut' or 'I threw her stone at the coconut',
+with the -ung encoding the possessor of one of the non-subjects, and not the coconut itself;
+the point is that the dative suffixes cannot be used to index an inanimate target.
+   It is interesting that the P of the verb -elei 'see, look ' is not always encoded by the dative
+suffix. I n relatively high-transitivity instances of the verb (e.g. 'watch' as opposed to 'see'),
+the P is treated morphologically and syntactically as a normal object, and not as an argument
+that may be encoded with the oblique-marking dative suffixes.4 In the following examples,
+we see the patient-referent represented by a preverbal accusative pronoun ( 1 22), and as a
+noun phrase occupying the preverbal object position ( 1 2 3). This contrasts with the post­
+verbal placement of the low-affect P-referent pronoun mama in ( 1 1 5) above.
+    ( 1 22)      Nana bi           d-elei.
+                 l SG    2SG.ACC l SG-see
+                 'I 'm watching you.'
+    ( 1 23)      Yung k-elei.
+                 bird 3SG.M-see
+                 'I'm watching the bird. '
+   Note that the postverbal positioning of the P of a potentially low-transitive verb such as
+-elei 'see' requires that the (nominal) referent be indexed on the verb by dative suffixes as
+well as appearing in this postverbal position. The ungrammaticality of a postverbal nominal
+not being indexed with the dative suffixes is apparent from the following pair:
+    ( 1 24)      *k-elei   yung
+                 3SG.M-see bird
+    ( 1 25)      K-elei-ka           yung.
+                 3SG.M-see-3SG.M.DAT bird
+                 'He saw the bird. '
+   A similar contrast in transitivity can be observed with the collocation lainim k-ei 'teach'.
+In the event of a successful instruction (the pupil learned properly, to everyone 's
+4    The use of a dative-marking strategy on animate, and not inanimate, Ps is documented at length for
+     languages of New Guinea in Foley (2000 : 374) and Whitehead ( 1 9 8 1 ). It is also attested in languages
+     from other parts of the world (see, for instance, Van Belle and Van Langendonck 1 996).
+66       Chapter 5satisfaction), the pupil can be coded preverbally, and a pronoun can be accusative. If the
+pupil did not take to the instruction as well as the teachers would have wished, then the pupil
+can be coded postverbally. The following examples were noted in spontaneous language
+instruction from I'saka speakers. In the first example, the pupil did end up learning to make
+an acceptable string bag, and so may be coded preverbally:
+     ( 1 26)    Gertrude die         lainim wii.
+                Gertrude 1 SG.ACC teach 3SG.NM .do
+                'Gertrude taught me (to make string bags). '
+   In this next example the pupil was not perceived as being so astute in learning, and so is
+coded as dative. If an independent pronoun was present it would appear postverbally, and
+could not be an accusative pronoun.
+     ( 1 27)    Wei          lainim d-ei-ma.
+                language teach 1 SG-do-2SG.DAT
+                'I 've been trying to teach you to speak our language. '
+   Note that the fact that there is an alternation between the postverbal, and datively indexed
+nominal in ( 1 25) and the preverbal P in ( 1 23) does not mean that the postverbal nominal is
+also a P of the sentence. The evidence against this analysis involves the possibilities for the
+scope of a floated adjective, presented in §6. 1 .3 .
+   The only occurrences of preverbal expressions referring to the argument that is indexed by
+dative suffixes are found when the referent is an experiencer. Firstly, the experiencer of an
+involuntary state verb may appear before the causing state:
+     ( 1 28)    Depu        dakai  wii-na.
+                1 SG.NOM sneeze.NM 3SG.NM.do- 1 SG.DAT
+                'I sneezed. '
+   I n this case the nominative case on the experiencer shows that it cannot be treated a s the
+object of the verb. The accusative case is not possible here: if the experiencer appears before
+the causing state, then it must be nominative or unmarked.
+     ( 1 29)    *die dakai wiina
+   Other involuntary state predicates appear with a body part as the preverbal nominal. In
+these cases the dative suffixes are still possible, such as is found with wiy 'wet' :
+     ( 1 30)    Ta ' wiy-na.
+                skin wet- 1 SG.DAT
+                'I'm wet. ' ('My skin is wet. '?)
+   It is also grammatical to mark the possessor just with a possessive pronoun in the NP that
+occurs preverbally; in these cases, a greater degree of affectedness is expressed than that in a
+clause with dative suffixes on the predicate (note that the predicate in this clause is an
+adjective, and not a verb, but the same is true for verbal clauses):
+     (1 3 1 )   Ta ' dina          wiy.
+                skin 1 SG .POSS wet
+                'I'm really wet. '
+   When a free pronoun i s used with this construction, i t appears i n the accusative case:
+                                                                              Morphology        67   ( 1 32)    Die        ta l ma-na .
+              l SG.ACC skin hot- 1 sG.DAT
+              'I'm hot.'
+   ( 1 3 3)   Die        nika nua Wll-na.
+              l SG.ACC sweat big 3SG.NM.do- 1 SG.DAT
+              'I'm really sweaty. '
+   Another important use of the dative suffixes is to mark the experiential object of a verb
+that has an adjunct nominal as part of the semantic coding strategy. For instance, 'wash
+(someone)' is expressed, as in many languages of New Guinea, with a construction that
+involves the nominal for 'water'. This appears in the immediately preverbal position, and the
+washee is marked on the verb by means of dative suffixes:
+   ( 1 34)    Nu Wl       d-ebuwe-ung.
+              girl water l SG-wash-3SG.NM.DAT
+              'I washed the girl.'
+   With a pronominal argument as the washee, we find that the pronoun must appear in the
+accusative case (or the unmarked - but not nominative):
+   ( 1 3 5)   Bie        Wl    d-ebuwe-ma.
+              2SG.ACC water l sG-wash-2SG.DAT
+              'I washed you. '
+    In this construction the accusative case on the washee clearly indicates that this argument
+is the P of the clause, yet it is still coded on the verb by means of dative suffixes. This is also
+the case for -aka 'scratch' and dakai wii- 'cough, be phlegmy, have snot':
+   ( 1 36)    Ta I b-aka-ya-ung.
+              skin 2sG-scratch-COMP-3sG.NM .DAT
+              'You scratched her.'
+   ( 1 37)    Depu dakai wii-na.
+              l SG    cough 3SG.NM.do- 1 sG.DAT
+              'I coughed. '
+   Note that these predicates, unlike 'be hot' and 'be sweaty', do not allow the dative-indexed
+experiencer to be in accusative case, or to follow the adjunct nominal:
+   ( 1 38)    *die      dakai wii-na
+               l SG.ACC cough 3SG.NM .do- 1 SG.DAT
+   ( 1 39)    *dakai (nana/depu/die)         Wll-na
+               cough l sG/1 SG.NOM/ 1 sG.ACC 3SG.NM .do- 1 sG.DAT
+   Other predicates are not so clear: 'laugh' is expressed with an adjunct nominal suwe
+'laughter' and the verb -usuwe 'laugh':
+   ( 1 40)    Dapu        suwe  d-usuwe.
+              l SG.NOM laughter l SG-Iaugh
+              'I laughed. '
+   When a P is added, it is indexed with dative suffixes and appears post-verbally; if
+pronominal, it may not be accusative, nor may it be preverbal:
+68       Chapter 5     (141)     Dapu       suwe     d-usuwe-ka         duwe.
+               l SG.NOM laughter l SG-laugh-3sG.M.DAT dog
+               'I laughed at the dog. '
+     ( 1 42)   Dapu       suwe      d-usuwe-ka         kia.
+               l SG.NOM laughter l sG-laugh- 3sG.M.DAT 3SG.M
+               'I laughed at him. '
+     ( 1 43)   *dapu     suwe     d-usuwe-ka            kie
+                l SG.NOM laughter l SG-laugh-3sG.M .DAT 3SG.M.ACC
+   Finally, some verbs, while not showing an adjunct nominal, do nonetheless index the P on
+the verb with the dative suffixes. These are all verbs that can be thought of as displaying
+some features of low-transitivity. In clauses with these verbs the P may appear preverbally
+or postverbally, as with the P of a verb like -elei, but unlike those verbs the dative suffixes
+are obligatory, regardless of the position of the nominal. A pronoun is accusative if it is
+present, and must be preverbal. (Alternatively, of course, the pronoun may be unmarked for
+case, which is always an option with arguments that may be expressed with the accusative
+pronoun set. Importantly, the pronoun may not be expressly nominative.) The following two
+sentences show that a nominal P of the clause may be either preverbal or postverbal.
+     ( 1 44)   Dapu        manit dina        d-akaing-ung.
+               l SG.NOM mother l SG.poss l sG-wait-3SG.NM .DAT
+               'I 'm waiting for my mother.'
+     ( 1 45)   Dapu d-akaing-ung manit dina.
+   The following ungrammatical sentences are identical to ( 1 44) and ( 1 45) apart from the
+lack of agreement on the verb for manit dina. These sentences show that the use of the dative
+suffixes is obligatory with this verb:
+     ( 1 46)   *dapu manit dina dakaing, *dapu dakaing manit dina
+   When a pronoun is present, it must be preverbal and accusative or unmarked, and must be
+indexed on the verb by means of the dative suffixes. The grammatical version is:
+     ( 1 47)   Dapu        hi         d-akaing-ma .
+               l SG.NOM 2SG.ACC l sG-wait-2sG.DAT
+               'I 'm waiting for you.'
+   The following ungrammatical 'near-misses ' corresponding to the sentence above show
+that, firstly, the dative suffixes are obligatory for this verb; secondly, that the accusative
+pronoun may not be postverbal, and thirdly that, even if not overtly accusative, a pronominal
+P may not follow the verb.
+     ( 1 48)   *dapu hi dakaing
+     ( 1 49)   *dapu dakaingma hi
+     ( 1 50)   *dapu dakaingma mama
+   It should be clear from the preceding discussion that the many issues involved with the
+dative suffixes in I'saka are far from being completely resolved, and that these affixes are
+multifunctional in the sense that they appear to mark not only some oblique arguments on the
+verb, but also the P of a variety of low-transitive clauses (providing, in effect, an oblique-
+                                                                                  Morphology         69coding strategy similar to the conative in English). It should not be thought that all low­
+transitive clauses mark their P by means of the dative suffixes, or even the postverbal
+position. In the case of -ele ' 'go, follow' a goal appears postverbally, but without indexing on
+the verb (see §4. 1 . 1 ). This is true for both goals, as in the example in §4. 1 . 1 , and for 'things
+followed', as in the example below:
+   (1 5 1 )   Dapu       d-ele ' pli-pa . . .
+              1 SG.NOM 1 SG-go road-sEQ
+              'I followed the road (and then . . . ). '
+   The following clause is clearly (both from its internal semantics, and from a cross­
+linguistic study) low in transitivity, yet does not employ either of these low-transitivity coding
+options:
+   ( 1 52)    Dapu        wi      d-akai.
+              1 SG.NOM water l SG-cut
+              'I crossed the river. '
+    Some additional issues involving the positioning of the dative, and its status a s an affix or
+clitic, are raised in §5 .7. 1 .","[81, 82, 83, 84, 85, 86, 87]"
+"    For more information, visit the website at http://lucy.ukc.ac.uklRainforesti.
+6    Chapter 1   Anthropological interest has also focused on a 'millennia I ideology' that apparently
+flourished in Krisa (as elsewhere in the world) as the year 2000 approached (see Kocher
+Schmid & Klappa 1 999, and Klappa 1 999c). The relationship between these researchers and
+the village is ongoing. Although the current material is focussed on linguistic data and not
+anthropological theory, in the minds of the Krisa people it represents just the latest in a long
+line of note-taking on essentially the same topic. In our experience it is usual that, in northern
+New Guinea, any anthropological or linguistic work with a people group is usually described
+by the subjects of that research as involving a researcher coming to 'learn the local language',
+and any approved of and successful researcher will be described as having 'learnt the local
+language well' .2 Clearly, language consciousness is the measure of cultural worth in this part
+of the world.","[23, 24]"
+"                                Table 20: Singular personal pronouns                          Unmarked       Nominative    Accusative      Possessive
+              1             nana           depu          die             dina
+              2             mama           bepu          bie             bima
+              3 .M          kia            kepu          kie             kikang
+              3 .NM         umu            wepu          wi              omu     The pronouns in Table 20 show the segmental phonemes which typify the persons, and
+which are also found in the verbal affixes to mark subject, object and dative. These are the
+use of Idl for first person, fbi for second person, Ik/ for third person masculine, and Iwl or lui
+for third person non-masculine. It is also worth noting that the accusative pronouns, marked
+by a high vowel Iii and (in careful speech) lei, bear a close resemblance to the human object
+suffixes (shown in Table 27), and probably reflect a close historical relationship. However,
+unlike the object-marking suffixes, the accusative pronoun always precedes the verb, and is
+not bound; the grammaticalisation pathway between the two forms is at best distant. There
+are again striking resemblances between the accusative pronouns and the possessive ones,
+which appear to consist of the reduced accusative plus the dative suffix (see §5.2.4). The
+nominative set is marked by the recurrence of the final sequence pu, which shows intriguing
+phonological similarities to the same sequence in other contexts (these include its appearance
+as a common adverbial ending, suggesting a common sense of 'performance of an action' as
+a component of the meaning of the [once-productive?] formative). Furthermore, the first
+vowel of all the nominative pronouns varies between e and a : in addition to the forms listed
+above, dapu, bapu, kapu and wopu (not *wapu , showing clear influence of the initial w) are
+also heard for the nominative, from the same speakers that produce depu, etc . The same
+applies to the last vowel of the accusative pronouns: in addition to being optionally omitted,
+older speakers are known to use an a instead of e : dia, bia , kia , thus collapsing the
+unmarkedlaccusative distinction for the 3 SG.M.
+    As mentioned above, the unmarked personal pronouns can be marked for cases. They are
+able to carry a case marker for accompaniment, sa , and function as adjuncts in clauses (see
+§5 . 1 .2). Like proper names, the unmarked personal pronouns may also occasionally combine
+with their corresponding dative suffixes. This creates another alternative possessive pronoun.
+   (6 1 )   nana      +   -na      �     nanana
+            l sG          - l SG.DAT     l SG.POSS
+   The motivation behind a speaker's choice of the nominative pronoun + dative suffix
+combination over the possessive pronouns is unclear, though it might be that the unmarked
+pronoun + dative suffix strategy is more 'colloquial' or 'informal' than the use of the
+                                                                   Pronominal forms         47dedicated possessive pronouns. More extensive and systematic checking of texts is needed to
+confirm this hypothesis. Not enough data is available to draw any conclusions about the
+discourse conditions that motivate one strategy over another, and speakers all report that the
+unmarked pronoun + dative suffix strategy may replace a possessive pronoun in all contexts
+queried.","[64, 65]"
+"
+5.2. 4 Argument inflection using the dative suffix
+   A range of non subcategorised participants are marked on the verb using the dative suffix.
+The fact that the nominal is peripheral can be judged by its appearance in a postverbal
+position, a position reserved for oblique arguments. 3 Although there is a large range of
+possible referents, with different and non-conflicting semantic roles, only one instance of the
+dative suffix may appear in any one clause; the criteria for choosing which of the possible
+referents of the dative suffix will be chosen in the event of two or more possible candidates
+are not yet known, though it does seem that, while semantically not incompatible, it is
+unlikely from a discourse point of view that two of the possible candidates for coding will
+appear in the one clause.
+   This suffix demands an animate referent, and can be used to encode recipient,
+beneficiary, goal, experiencer and possessor (usually the possessor of the object of a bivalent
+verb). The forms of the dative suffix are shown in Table 28, and some examples of its use
+are reproduced below. Some forms are identical to the human object suffixes shown in
+Table 27.",[81]
+"
+4. 1.5 Non-singular pronouns
+   The case distinctions of the non-singular pronouns are less developed than the singular
+pronouns, with not all distinctions found in the singular set being attested in the non-singular.
+Particularly, there is not a distinct accusative form for the non-singular pronouns, with this
+function most commonly being filled by pronouns from the unmarked set. Alternatively,
+accusative pronouns from the singular set can be used for non-singular objects, indicating
+that these pronouns are in fact not formally marked for number.
+50     Chapter 4                            Table 2 1 : Non-singular personal pronouns                                Unmarked         Nominative     Possessive
+                   DU   1       nesing         . nesipu         nesing
+                        2       lsang            lsapu          Slsa
+                        3       esang            esapu          sisa
+                   PL   1       numu            dupu            numu
+                        2       yumu            yupu            yumu
+                        3       le              epu             omokai   The dual pronouns are clearly related to formatives added to the putative formative si
+'dual', transparently related to the contemporary word sie 'two'. In addition to the unmarked
+dual pronouns above, there are other forms of the first and second person which are
+composed of the singular pronominal forms (na l w and m a m a) and the dual formative,
+yielding nanasi and mamasi. The unmarked forms of the first and second person plural
+pronouns are also used as the possessive pronominals, as shown in Table 2 1 . As with the
+singular pronouns, there is considerable alternation between a and e in some of the pronouns:
+nasing/nesing, asang/esang, ia/ie, nasipu/nesipu, apu/epu.
+   An example of a 'singular' accusative pronoun being used with plural reference is:
+     (76)   /sang s-au-pa          dapu       hi        d-elei.
+            2DU 2DU-come-SEQ l SG.NOM 2SG.ACC l SG-see
+            'Y ou two came, and then I could see you. '
+   The features associated with the different pronoun forms, both singular and nonsingular,
+are shown in Table 20 (illustrated with the unmarked prominal set). Here we can see that the
+dual pronouns are more marked in terms of pronominal features than any other pronouns.
+This is because the singular pronouns are unspecified for any value for the feature
+[nonsingular] or [dual] (which is dependent on nonsingularity); the singular pronouns assume
+a default interpretation that they apply to singular elements since they are not as specified as
+the other numbers (the same argument applies to the plural pronouns with respect to the
+feature [dual]). The duals, on the other hand, have to be explicitly specified as being both
+nonsingular and dual. This system of features captures the more marked character of the
+dual pronouns, morphologically evidenced by the lack of distinctions in the bound
+pronominal forms for duals: there are often no distinctions in the subject prefixes for the
+dual persons, the object suffixes collapse 3DU with 3 PL, and the dative suffixes do not
+distinguish second and third person. This system of features also predicts the unmarked
+nature of the 'singular' pronouns, evidenced by the fact that the accusative pronouns, which
+are composed of formatives found in the singular pronominal sets, can be used with both
+singular and non singular reference. Finally, but more stipulatively, the system also captures
+the fact that the feminine, rather than the masculine, is more common in the inanimate
+world, and so is the category with less featural marking.
+                                                                    Pronom inal forms       51                         Table 22: Features of the unmarked pronouns                                       NON-SINGULAR        DUAL      MASCULINE
+              l SG          nana
+              2SG           mama
+              3SG.M         kia                                           +
+              3SG.NM        umu
+              1 DU          nesmg             +              +
+              2DU           isang             +              +
+              3DU           esang             +              +
+              1 PL          numu              +              2PL           yumu              +
+              3PL           ie                +   We can also represent the matches between syntactic role and morphological form of the
+pronouns as follows; this table also includes the bound forms of the pronouns, which are
+discussed in §5.2.
+                        Table 23: Form and function of the pronominals                              A           s           p          POSS'R       OBL
+          unmarked
+          nominative
+          accusative
+          possessIve
+          SUBJ prefix
+          OBJ suffix
+          DAT suffix   It is interesting to note that, while the free pronominal forms show a lot of overlap in
+function, at its extreme with the unmarked pronouns occurring in almost all functions, the
+verbal affixes are completely distinct. There is no variation in the use of verbal affixes in a
+given morphosyntactic construction: given the construction, the choice of the bound
+pronominal form is fixed. On the other hand a free pronoun, if used, can in many cases be
+either of two possibilities, since the unmarked pronominal set overlaps functionally with the
+nominative, accusative and possessive pronouns.","[67, 68, 69]"
+"
+4.2 Interrogative pronouns   In addition to the personal pronouns listed above, which are unique in l'saka in being a
+non-bound word class that shows multiple distinctions for case, there is also a small set of
+mainly non-human interrogative pronouns. Not all of these are single morphemes, with
+'when' and 'where (location)' showing the instrumental suffix -ri in a lexicalised and
+idiosyncratic usage. All the known interrogatives are listed in Table 24.
+52       Chapter 4                                      Table 24: Interrogatives                        I'saka                                   lexical category
+                        amo         who                          noun
+                        kaung       what                         noun
+                        kaung ri    when                         noun
+                        suIu '      where (direction)            noun
+                        ta ri       where (location)             noun
+                        -(i)aka     why, how, do what            inflecting verb   Two of these interrogatives must appear with the instrumental marker -ri; see §5. I . I for
+more discussion of this morpheme. Examples of the use of these different interrogatives are
+given in the following sentences:
+     (77)        Kelie     amo b-au        wei    bima ?
+                 yesterday who QSG-come house 2SG.POSS
+                 'Who came to your house yesterday?'
+     (78)        Mama b-au        wei     dina      kaung-ri?
+                 2SG   2sG-come house I SG.POSS when-INSTR
+                 'When are you coming to my house?'
+     (79)        B-ele ' suIu '?
+                 2sG-go where
+                 'Where are you going?'
+     (80)        Wei    bima      ta-ri?
+                 house 2SG.POSS where-INSTR
+                 'Where is your house?'
+     (8 1 )      Epu     aka ou ?
+                 3PL.NOM why do.pL.p
+                 'Why/How are they doing it (to them)?'
+     (Note that the third person plural inflection is 0   -   see §5.2.2.)
+     (82)        Bepu      a b-(i)aka b-ou-na ?
+                 2SG.NOM pig 2SG-why 2SG-do.pL.OBJ- I SG.DAT
+                 'Why did you shoot my pigs?'
+   These interrogative pronominals functions in content questions, and the pronouns referring
+to A , S a nd P, appear in a special structural position, which is described in §6. 1 .
+Interrogatives of possession ('whose?') are formed in a normal possessive construction with
+the interrogative amo:
+     (83) a. A amo bIe?
+             pig who that
+             'Whose pig is that?'
+              b. A dina .
+                 pig I SG.POSS
+                '(It's) my pig. '
+                                                                      Pronominal forms          53   An alternative reply to this question i s t o simply use the possessive pronoun, or a noun i n a
+possessive function, as a predicate: Dina 'Mine'.
+   Questioning locations is a fraught issue in I'saka. The examples above have shown
+questions based around the position of an inanimate item ('Where is your house?'), or the
+direction of travel ('Where are you going?'). It is not so easy to ask where a person is. A
+typical question/answer sequence is one in (84):
+   (84) a. Mama amo bu ?
+           2SG     who woman
+           'Where are you from?'
+         b. Nana J 'saka bu.
+            1 SG Krisa woman
+            'I 'm a Krisa woman.'
+   I t is easy to see that the question is literally asking 'Whose woman are you?' This
+question, and the answer, shows the personification that is normal in I'saka when referring to
+villages: 'I am Krisa's woman ' . An alternative way of questioning someone's origins,
+something like 'You are a woman of where?', is not grammaticaL
+   (84)' c. * mama     tari  bu ?
+              2sG      where woman
+   A similar example of the unexpected use of a construction involving amo 'who' in a
+questioning situation arises when questioning someone's clan name. In this case the literal
+translation of the sentence is 'Your clan's name is who?', as can be seen in (85).
+  (85)      EM> Bulakau bima         INp ta l ia ] ] amo?
+                clan     2SG.POSS        skin 3PL who
+            'What's your clan name?'
+   More examples of the personification of villages can be seen in the choice of locational
+verbs, described in §5.3 . 3 .
+5           Morphology
+   Compared to many languages of New Guinea, the level of complexity encountered in the
+morphology of I'saka is not great. Nonetheless, the divisions made in I'saka are intriguing
+and cross-linguistically unusual, especially in the area of verbal affixation. In this section we
+shall examine first the notional syntactic categories that can be applied to I'saka, on
+language-internal morpho syntactic grounds (already discussed in Chapter 3), and then discuss
+the morphology that is associated with each of those word classes.","[69, 70, 71, 72]"
+"2     The verb is pronounced [d€paki], and not [d€payi], showing a lack of lenition of the /k/ of the object
+      marker.
+                                                                                  Morphology        63    (1 1 1)   Moni' die          b-asa      b-ei.
+              mother I S0.ACC 2so - carry 2so-do
+              'Mum, carry me ! '
+              (Note here also the use of second person singular prefixes, consistent with
+              a command, despite the vocative use of a [necessarily third person]
+              nominal sentence-initially.)
+   It is not known what motivates a speaker's choice of one of these constructions over the
+other. An alternative mode of inflection for object is found productively with verbs that take
+an adjunct nominal, and use the dative suffixes to mark the affected experiential object.
+   The second class of bivalent verbs, the vast majority of verbs in the lexicon, normally
+shows no marking for object.","[80, 81]"
+"                                              38
+                                                                           Word classes      39            Adjective predicate: optional dative agreement, no subject agreement
+   (45)     Depu       takau(-na).
+            I SO.NOM hot- I so.DAT
+            'I'm hot.'
+   (46)     Kepu           (*k(V)-)busie.
+            3S0.M.NOM 3S0.M-young
+            'He's young. '
+   Adjectives are phonologically distinct from verbs in that they most commonly begin with
+consonants, not vowels. This alone would account for the lack of subject agreement on these
+words, but it does not explain the consistent correlation between consonant-initial non­
+nominal stems and property, rather than action, semantics. Additionally, adjectives (and no
+other word classes) may occur with a postposed intensifying particle nil, as in:
+   (47)     SU      ei     nil.
+            sago good INTENSE
+            'It's very good sago. '
+   A further support to the notion that there is a categorial distinction between verbs and
+adjectives, and not just a phonological one, is the fact that one verb has been recorded that is
+consonant-initial, wopukai 'trick, fool, muck up', which may be used monovalently or
+bivalently, and if the latter may appear with dative suffixes marking the P.
+   (48)     Depu       wopukai-ma!
+            I SO.NOM trick-2so.DAT
+            '1 fooled you !'","[56, 57]"
+"
+5.2.2 Subject inflection   All verbs (both finite and non-finite) in I'saka inflect by prefix for subject, as can be seen
+by the following mainly regular paradigms of the verbs -iy 'sleep' and -oung 'eat'. The
+columns for each verb are, left to right, singular, dual and plural, with first, second, and third
+person rows running down each column. The final row is the 3SG.NM form, distinguished
+from the 3SG.M only in the singular.
+     (101)     d-iy    s-i     di-(2)          n-ou        s-oung      nz-
+               b-iy    s-iy    yi-(2)          m-ou        s-oung      yz-ng
+               k-iy    s-iy    (2)-iy          k-oung      s-oung      (2)-oung
+               wi                              w-oung
+    Based on this data, and other verbal paradigms, we can infer the underlying prefixes that
+are applied to the verbs. The abstracted forms of the prefixes are shown in Table 25 below,
+in the same arrangement as the forms in ( 1 0 1 ). We can see that the prefixes encode person,
+number, and (for third person singular) gender. Singular, dual and plural number are
+distinguished, and in the third person singular form a distinction between masculine and non­
+masculine gender of subject is marked. Third person singular non-masculine forms are
+commonly irregular and suppletive, and this is also the case (to a lesser degree) with third
+person plural subjects. Prefixes for indeterminate subjects - that is, the agreement found on
+verbs for questioned subjects, as in 'Who's coming?' - are identical to those used for second
+persons, of whatever number is appropriate (unmarkedly singular).",[76]
+"   Temporals have scope over the whole clause, providing a time for events relative to the
+utterance. Only three distinct temporals have been identified: kelie (or, sometimes, kelia)
+'yesterday, before today' , buru 'today, now', and ba la 'tomorrow, later on '. Deictics
+similarly exhibit three distinct forms, but the contrast encoded in the different forms is not a
+simple one of spatial distance. The proximal and distal deictics are opposed in space, but the
+third deictic has a discourse function rather than a spatial function. Three postpositions
+(expressing location, accompaniment and instrumental) are also found.
+   Five clause-final particles have been identified, and it is expected that others also exist.
+These cover a range of semantic and grammatical functions. Their domain includes tense/
+aspect/mood and negation; they have been grouped together on the basis of their common
+position in, and scope over, the clause.
+   Additionally there are several other particles and word-types that are only rarely found in
+our data and are poorly understood. These remain unclassified on semantic or morphological
+grounds, though they are listed in §3 .5.",[57]
+"
+3.2 Nouns
+   Nouns are the most phonotactically varied of the word classes, with no restrictions on their
+phonological shape (unlike verbs, see §3.3). Morphologically nouns are uninflected for
+gender, number, or other categories, but are divided into two genders, masculine, M, and non­
+masculine, NM . Gender is realised only through verbal morphology, in the choice of prefix,
+40        Chapter 3suffix, or suppletive stem forms of verbs. The non-masculine gender is the unmarked form,
+found with most animals, although some (e.g. pigs, the most culturally important and valued
+animal) are masculine. Natural powers such as wind and rain are predominantly masculine,
+with au 'moon' and (po)kisi 'night' being expected exceptions (this conforms to the cross­
+linguistic data in Craig 1 986). Inanimate things such as plants and features of the landscape,
+as well as household items, are almost exclusively non-masculine.
+   I n addition to the pervasive, but morphologically unmarked in the NP, gender distinction
+there is also a division between animate referents and inanimates. This is discussed in §5 .3.3,
+where the choice of verb of location appears to be governed by pragmatic animacy factors.
+There is evidence for some additional classing behaviour in I'saka, though it is no longer
+productive, and shows no concord anywhere in the language. We can observe, however, a
+more than chance series of phonological correspondences:
+      •    nearly all birds show an initial [i] or [j] ;
+      •    furry game animals show an initial [a];
+      •    many hairless (and grammatical non-masculine) creatures, such as lizards and
+           various water creatures, show an initial [u] or [w];
+      •
+           bandicoots tend to begin with [bi].
+           (examples can be seen in the word lists in Chapter 1 0)
+   While this has not been thoroughly checked, there does appear to be a strong tendency in
+the Border languages Mnanki (and Man�m) for the names of birds to start with [i] or [j], and
+for water creatures and game creatures to show an initial [a], and so on. This is also possibly
+true in Fakmo (Bewani) as well, although in this language it is less striking (own fieldnotes,
+2002-03).
+   The question that might be raised is whether these represent cognate forms, or borrowed
+forms, in the different languages. A superficial glance does not reveal many striking
+cognates across the languages (barring this initial phone), and there are no morphological
+similarities past this apparently classing phenomena. It seems that the idea of a 'shared
+library' of biological terms in the Pual basin, proposed by Kocher Schmid ( 1 999) (see
+§2 6 1 ), makes a lot of sense. The idea is that the culturally distinct groups in the Pual basin
+  .   .
+area, where the people of Krisa trace their origins even though they now live above that basin
+on the Oenake plateau, have a common stock of labels for plants and animals, regardless of
+their linguistic affiliation. These classing phenomena might be evidence for the antiquity of
+that library, with the classes being retained in fossilised form even though the terms for the
+individual species are often not cognate.","[57, 58]"
+"
+2. 6. 1 Segmental restrictions
+   Syllables may be maximally composed of a consonant cluster, a vowel, and an additional
+vowel or glide. Word-final syllables may be maximally composed of a consonant, vowel,
+and a vowel or glide. Word-initial syllables of polysyllabic words and word-medial syllables
+may be maximally composed of a consonant and a vowel. Syllable templates are shown
+below.
+      Monosyllabic:      (C(d» V(G)
+      Polysyllabic:      [(C)V]2, (C)V, [(C)V(G)]
+    The only consonant clusters permitted involve a non-velar obstruent combined with the
+voiced dentoalveolar stop Id/, word-initially on oral monosyllables. The Idl is realised as [r]
+following It!, and as [1] elsewhere. This rule of distribution has been observed productively in
+loan words such as primus 'primus stove' , which is pronounced as [plaj mr s ] by older
+speakers. Note that the name 'Krisa' is not a possible I'saka word; folk etymology has that it
+is the name of the Patrol officer (Chris) who used to visit the village in the 1 950s. Older
+speakers pronounce the word as [klisa]. Green River, a prominent town inland in the
+province, is similarly pronounced as [klin] ([grin] in Tok Pisin), and Christine, the name of an
+anthropologist well-respected in the area, has been heard as [k[l]rsina], showing the
+preference for the lateral with non-alveolar consonants, and perhaps the introduction of a
+new [kl] cluster into the language (assuming that these words are not code-switchings into a
+local variety of Tok Pisin). Some examples of attested words with these shapes are shown in
+(3 8), as well as some examples of ungrammatical potential clusters:
+30     Chapter 2     (38)       Ibdel             Ipdajl    Isdawl       Itd:)1       *kC      *jC             *wC
+                [ble]             [p IV ]   [slaw]       [tro]
+                'this'            'bad'     'dry'        'with'
+     We may capture these restrictions on clusters with the following three constraints.
+     *GC                           The first principal is a trivial instantiation of the principles of
+                                   following a pattern of increasing sonority in a syllable: a
+                                   complex onset involving a glide, w or y, followed by any non­
+                                   vowel segment would violate this principle of increasing
+                                   sonority.
+     *CC[-dentoalveolar]           The second principle is also a reflection of this hierarchy:
+                                   conceivably the sequences Cb and Ck could occur, with the
+                                   lenited allophones of b and k, [{3] and [y], appearing: [t13V] or
+                                   [tyV] , for instance. In practice this is not allowed, probably a
+                                   reflection of the relative closeness of the stop and the fricative
+                                   in terms of sonority. [Cr] is allowed, as the sonority difference
+                                   is relatively great, but [Cy] is not, because there is insufficient
+                                   increase.
+     *VCCV                         This principle barring a consonant cluster in a non-initial
+                                   syllable is specific to I'saka, and does not follow from phonetic
+                                   naturalness; it must simply be listed.
+     *CCV(cr)*                     The principle barring a consonant cluster in a polysyllabic word
+                                   is also specific to I 'saka.
+     *C[+velar]C                   This final principle barring a velar stop as the first member of
+                                   a cluster cannot be predicted from any universalist principles.
+    The glides Iwl and Iji are permitted in coda position on monosyllables or word-finally (that
+is, they may appear only at the right edge of a word). This means that an alternative
+formulation of the permitted syllable structures for words in I'saka is that shown in Figure 8,
+in which the word-final glide is structurally not part of a particular syllable but is an
+extrametrical segment in the word.
+                Monosyllabic words                                         Polysyllabic words
+                             co                                                     co                    �                                                 �
+                    cr               G                                cr           (cr)3             G
+                �                                                 �            �
+                o        r                                        o        r   o           r
+            �            I                                        I        I   I           I
+            C       (d) V          (w, y)                         C        V   C           V         (w, y)
+                                   Figure 8: I'saka word and syllable structure
+   Under this model the reduplication of verb roots would apply to the whole syllable and any
+extrametrical segment associated with that syllable. The fact that these extra metrical glides
+cannot be realised anywhere except word-finally, however, means that the glide has no
+phonetic manifestation other than serving as a buffer to intervocalic lenition. The analysis of
+the reduplication of dei 'I do' is shown in (39). Here we can see that reduplication applies to
+                                                                                            Phonology   31the whole phonetic syllable, which can be of the allowed shape CVG (see Table 1 4). In the
+reduplicated form, however, there is no position for the now medial glide to be realised; it
+blocks intervocalic lenition, but is not structurally permitted at anything other than a word­
+final position, and so is not realised on the word.
+   (39)                       ill                 �                    ill                      �                                       �
+                      a               G                       a              a       G
+             �                                            �                 �
+             0            r                              0        r     0        r
+                 I                                        I       I     I
+             d            E           J                  d        Em    d        E   J   The reduplication of a two syllable root follows the same pattern, with the entire first
+phonetic syllable reduplicated (as seen in §2.4.2). The fact that it is impossible for a glide to
+be specified on the first syllable of a two (or more) -syllable word means that there is never a
+conflict about the reduplication template, though interestingly this template applies to
+phonetic syllables, including extrametrical material, and not to the underlyingly specified
+syllable.
+   Note that when a complex verb collocation is irrealis, it is only the second element that
+undergoes reduplication. In (40) we can see that of the two-verb collocation -ana -ung (see
+§5. 3 . 3) only the second verb is reduplicated:
+   (40)              Malis Mak-sa          s-ana . su-su               A wakali.
+                     Melissa Mark-ACCOM 3DU-sit 2/3DU.be.at-<IRR> Vanimo
+                     'Melissa and Mark should be in Vanimo (I hope). '
+   Examples of words illustrating the different types of syllables and words which have been
+discussed in this section are shown in Table 1 4.
+                                    Table 14: Illustrations of word and syllable types          Length              Structure            Example
+          1 -a                V                    liI-H               i'            'village'
+                              CV                   Isu/-F              su            'sago'
+                              VG                   I::>w/-N-R          6ung          'flesh'
+                              CVG                  Ibajl-N-R           mai           'tongue'
+                              CdV                  Itdal               tra           'sago delight'
+                              CdVG                 Isdawl              slau          'dry'
+          2- a                VV                   liEl-LL             ie            'they'
+                              VCV                  lusu/-LF            usu           'thatching'
+                              CVV                  Ibua/-LL            bua           'wife'
+                              CVCV                 Itadil-LH           tari '        'ear'
+                              VCVG                 lilay/-RF           flili         'bandicoot'
+                              CVGCV                Ikajpa/-LL          kaipa         'one'
+                              CVCVG                Iw::>d::>w/-LR      wolou         'swamp'
+          3-a                 CVCVV                lkasuE/-LLL         kasue         'cassowary'
+                              VCVCVG               laluwajl-LLR        aluwai        'cuscus'
+                              VCVCV                larEsil-LLL         areSl         'tree kangaroo'
+                              CVCVCV               Ikisub/-LLL         kisuko        'black'
+32       Chapter 2   Very rarely, the segments [1] and [p] are found in coda position, and there is one instance
+of a final [s] . The following examples are representative of such words (some additional
+examples may be gathered from 1 0.2):
+     (4 1 )    0::>1]       [bab::>l]         [k::>p]      [suzup]            [waws]
+               'fence'      'sago grub'       'fence'      'grass'            'prawn'
+     It is likely that these above examples are loan words: traditional farming methods amongst
+the people of Krisa village do not employ fences, and so these terms are suitable candidates
+for borrowing from a neighbouring language, such as Mbo, a Border language spoken in
+nearby Osol, a village that has moved up from the Pual basin and, along with its fenced
+gardens, is only a few hours walk away from Krisa. Kocher-Schmid ( 1 999) notes that plant
+names are shared extensively throughout the Kilimeri cultural area, regardless of the
+relatedness or unrelatedness of the languages in question, and so the chance of these terms
+being originally loans from another language, perhaps brought in as alternants or as the
+names of new varieties of the plant, and then generalised, is high. Unfortunately there is
+little to no linguistic information available about these interior languages, so this cannot be
+tested in detail.
+    It is not entirely clear whether phonologically underlying glides (that is, segmental
+phonemes) are permitted as word-medial syllable onsets, or whether their occurrence in this
+position is a result of intervocalic epenthesis. For example, with a form such as [duw£] 'dog',
+is the underlying form Idu£l, with an epenthetic glide, or Iduw£1? It is noticeable that some
+intervocalic occurrences of the glide [w] consistently sound more like an onset than others.
+For example, the glide in [duw£] 'dog' sounds more like a 'full' consonant than that of
+[kasuW£] 'cassowary': it is perceptibly longer, is less likely to elide in fast speech, and more
+likely to involve slight friction (though this is rare).","[47, 48, 49, 50]"
+"
+4. 1.3 Accusative pronouns
+    The accusative pronouns are restricted to representing only referents which serve as the
+object of a bivalent verb. The following sentences show examples of the use of the
+accusative in a bivalent clause, and of its ungrammaticality when used to mark an oblique
+(similarly, the accusative set may not be used to represent subjects, though this is not
+illustrated here).
+     (69)     Pi      bi        k-ang.
+              rain.M 2SG.ACC 3SG.M-wet
+              'The rain wets you. '
+     (70)    *die      d-cLU-ma
+              SG.ACC l SG-come-2SG
+              'I came to you.'
+   The non-plural possessive pronouns clearly show a relationship (presumed to be historical)
+to their corresponding dative suffix (see Table 28), and to the accusative pronouns. For
+instance, we could analyse the l SG.POSS pronoun as being the accusative form of the pronoun
+combined with the dative suffix:
+      This, of course, begs the question of identify ing a subject; the referent of an involuntary state predicate,
+      which is index ed on the verb with dative suffix es, may also appear in nominative case. See §5.2.4, §6.2 .
+                                                                     Pronominal forms         49   (7 1 )   di       +    -na
+            l SG.ACC      - l SG.DAT
+            'my'
+   It is interesting to note that there is, synchronically, an alternation in the use of unmarked
+pronouns with or without the dative suffixes to mark possession. No such alternation with
+the accusative pronouns is found. The accusative pronouns are used in some emphatic
+contexts, such as the following example (which also shows the initial b- of bima appearing
+as an [m] because of the nasal syllables both preceding and following it in the clause).
+   (72)     Di m-a        ni,      di    moni' [m]ima.
+            l SG 2SG-mt PROHIB l SG mother 2SG.POSS
+            'Don't hit me, I 'm your mother. '
+   Oddly, the first and second person accusative pronouns can be used for reference to
+singular or non-singular referents: di can just as well mean 'us' as 'me'. The third person
+pronouns are not so free in their scope, and the other pronouns are all 'better behaved' in
+terms of what they may refer to.","[66, 67]"
+"           Table 18: Uses of the grapheme <ng> in I'saka, Tok Pisin and English                                   #-            V_V               _#
+                   I'saka          n/a           n/a               V
+                   Tok Pisin       n/a           [IJg]             [IJ]
+                   English         n/a           [IJ] [IJg]        [IJ]
+                                                     '   Underlying tone is marked, and is represented with diacritics (the grave and acute accent)
+for the contour tones, Rise and Fall, and with punctuation (an apostrophe) for the H igh tone.
+The phonologically unmarked Low tone is also unmarked orthographically. The necessity of
+distinguishing graphically between H igh and Rise tones is arguable, as contrasts between
+these tones are rare. This is an important question that should be addressed if further work is
+done. The application of the tone-marking scheme is limited in that only lexical roots have
+been marked; bound affixes are not marked for tone. Tone density is approximately 3 5%:
+that is, approximately two-thirds of the syllables of lexical roots are unmarked by diacritics
+for tone.
+3           Word classes
+   A discussion of the morphology and morpho syntax of I'saka, or any other language, must
+be based on the knowledge of the different categories that make up the units to which
+morphological or syntactic restrictions apply. In this section we shall detail the different
+lexical categories that must be recognised in a description of I'saka, and present the
+morphological and syntactic arguments for their differentiation. There are three open word
+classes, and a number of closed lexical classes. After an overview, the major word classes
+are described in the following sections, followed by a brief overview of the minor word
+classes, including references to where a more detailed description of their properties has been
+provided. The major closed word class, pronouns, receives further treatment in a unified
+account with the bound pronominals in Chapter 4.","[55, 56]"
+"
+5.3 Other verbal morphology   In addition to the inflectional categories of subject, dative, occasional object, and the non­
+concatenative process of reduplication for irrealis marking, there are a number of other
+morphosyntactic categories that are marked on or with the verb, and they are discussed in this
+section. I n all cases they involve more than simple affixation, and so have been treated
+separately from those categories in the previous sections.",[88]
+"
+5. 7. 1 Completive
+   The completive (COMP) particle ya indicates that the event denoted by the predicate of the
+clause has been completed; it is usually found with active, dynamic predicates. Two
+examples, showing both an active verbal predicate and a non-active adjectival predicate, can
+be seen in the following two sentences.
+   (2 1 0)    Sit    bima        n-ou-ma     ya .
+              sago 2sG.POSS l SG-eat-2SG.DAT COMP
+              'I ate your sago.'
+   (2 1 1 )   Nit      dina       nuo ya .
+              daughter l SG.POSS big COMP
+              'My daughter's all grown up. '
+    The following example, which has a beneficiary following the verb in the normal position
+for nominals with such semantic roles, shows that this particle is not attached to the verb, but
+is rather a piece of clause-final morphology.
+   (2 1 2)    Tra             d-ei-ka               tani' ya.
+              sago.delighLNM l sG-do- 3SG.M.DAT father COMP
+              'I made the sago delight for my father. '
+   Possible counters to this claim are found when the dative suffix i s used to mark the object
+of the experiential construction (§3.4, §5 .2.4), and is not coreferent with the subject of the
+clause. An example of a coreferential clause with no dative marking is shown in:
+   (2 1 3)    Nana ta ' d-aka            ya.
+              l SG     skin l SG-scratch COMP
+              'I scratched myself. '
+   (2 1 4)    *nana ta ' dakayana, *nana ta ' dakanaya
+  When the two arguments are not coreferent, the dative suffix appears outside the
+completive marker:
+   (2 1 5)    Ta ' b-aka-ya-ung!                (phonetically [blla'j aw])
+              skin 2SG-scratch-cOMP- 3SG.NM.DAT
+              'Scratch her! '
+   This placement raises some questions about the nature of the juncture between the verb,
+the dative suffix, and the completive marker. From sentences such as (2 1 3) it is clear that
+the completive marker must occur sentence finally. From the sentences in §5.2.4 we can see
+that the dative suffixes occur final on the verb, but freely allow nominals to appear in the
+same clause following them. Sentences such as (2 1 5) thus run counter to the prediction that
+82      Chapter 5we would find the dative suffix final on the verb, followed by the (possibly enclitic)
+completive particle. At this point we have no clear explanation for this discrepancy.","[99, 100]"
+"
+5 .4. 1 Causation and resulting states
+   Causation is expressed in I'saka in one of several ways, depending partly on the lexical
+valency of the verb, and partly on idiosyncratic factors. Additionally, where some verbs may
+be used both monova1ently and bivalently, there can be restrictions on the aspect that is
+grammatical with the monovalent use that specifies the resulting or prior state.
+   We can identify the following relationships between monovalent and bivalent events
+describing the same state but with the element of causation added:
+   1.    the same verb is used for both senses, with no morphological modification;
+   2.    a different verb is used; the monovalent verb may not be used with an object,
+         and the bivalent verb may not be used without an object;
+   3.    the verb from one category (bivalent or monovalent) may be used i n the other
+         (monovalent or bivalent) with the addition of some (detransitivising or
+         transiti vising) morphosyntax .
+    We find, of these logical possibilities, that all three are realised in I 'saka. There are no
+cases of verbs that take special transitivising or detransitivising morphology, such as
+causatives or applicatives, or passives, but there are special detransitivising constructions
+similar to the reciprocaL Examples of the two possibilities that are found are shown with the
+verbs - u bu e and -epili, which have very similar semantics, showing that it is lexical
+stipulation, rather than strict semantic classing, that determines the morphosyntax of the
+construction.
+              Verb is used with both two-place and one-place valencies:
+   ( 1 76) a. Kapu            ubue-ka.
+              3SG.M.NOM afraid-3sG.M.DAT
+              'He's scared. '
+             b . Kapu          ubue-ka               duwe.
+                 3SG.M.NOM afraid-3sG.M.DAT dog
+                 'He's afraid of dogs. '
+                 (See also the behaviour of suwe . . . -usuwe 'laugh', which may be used
+                 monovalently or bivalently, in examples ( 1 40-( 1 43).)
+   Here we can see that -ubue can be used in either a monovalent or a bivalent clause; if
+bivalent, the P follows the verb. Note that the S of the monovalent clause corresponds to the
+A of the bivalent one. The dative suffixes on the verb agree with the experiencer, not the
+instigator:
+   ( 1 77)     Depu        ubue-na             (walpi).
+               I SG.NOM afraid- l SG.DAT (crocodile)
+               'I 'm afraid (of crocodiles). '
+76      Chapter 5     Other examples of verbs of this class are -ala 'open', and -esie 'close':
+     ( 1 78) a. Topu w-(u)la .
+                door 3SG.NM-open
+                'The door's open. '
+           b . Topu d-ala.
+               door 1 SG-open
+               'I opened the door.'
+                Verb is used only as an one-place predicate, and a different verb root
+                is used when the clause is bivalent:
+     ( 1 79) a. Nana d-epili.
+                l SG    l SG-afraid
+                'I'm afraid. '
+           b. Walpi     w-uliwi-na                d-epili.
+              crocodile 3SG.NM-frighten- l sG.DAT l SG-afraid
+              'The crocodile scared me. '
+   While having roughly the same semantic content as -ubue, -epili is a purely monovalent
+predicate: there is no S:A correspondence. Similarly, -uliwi can only appear in a bivalent
+predicate: in addition to the sentence above, Walpi wuliwina is also grammatical (though, on
+the other hand, #Walpi wuliwina ubuena is somewhat odd). Another pattern of bivalency
+can be seen in the following example. Other verbs with this behaviour include -asiy 'boil
+(INTR)' and -angwi 'boil (TRANS)"" -oung 'fall ' and -alo 'drop (TRANS)'.
+                Verb is used most basically as a two-place predicate, and requires a
+                different construction when the clause is monovalent:
+     ( 1 80) a. Depu       n-am         d-ou.
+                l SG.NOM l SG-angry.at l SG-do.PL
+                'I'm angry.'
+           b. Dapu      dakau n-ani ya.
+              l SG.NOM children l SG-angry.at COMP
+              'I'm angry at the children. '
+   We can see in this example that -ani 'be angry at' is a bivalent predicator, and that it may
+not be used in a monovalent clause, with the same S:A correspondence that was seen with
+-ubue, unless that clause is 'detransitivised' by the addition of the light verb 'do'. This is
+similar to a possible reciprocal strategy (see §5 .4.2).","[93, 94]"
+"
+3.4 Adjectives
+    As mentioned above, adjectives display some of the characteristics of both nouns and
+verbs, but remain distinct from them morphosyntactically. A significant proportion of
+adjectival roots appear to be morphologically complex, bearing a (historical?) suffix -pa that
+is not observed on either nouns or verbs. The meaning of this morpheme is synchronically
+opaque, and it appears to be a fossilised affix of some sort. Some examples include ino-pa
+'far away', amo-pa 'many', asong-pa 'stealthy' and kai-pa 'one'; the putative roots of these
+words, ino, a m o , a so and kai, are never found without the putative suffix -pa , so the
+meaning of this putative suffix cannot be determined. The distantly related Skou language
+(see § 1 .2, Figure 3) similarly has a disproportionate number of adjectives ending in the
+inseparable putative suffix -fa : kukufa 'quick', hahafa 'slow', etc. This would be a likely
+cognate with the I'saka -pa formative, suggesting that any productivity lies for the most part
+in the distant past of the languages.
+     Morphologically, adjectives (and no other word classes) may occur with a postposed
+intensifying particle ni', as is shown in the examples below.
+42       Chapter 3     (5 1 )   Sit   ei     nil.
+              sago good INTENSE
+              '(The) sago is really good. '
+     (52)     Pi       k-ei         nuo nil.
+              rain.M 3SG.M-do big INTENSE
+              'It's raining really heavily. '
+     (53)     *pi        k-ei         nil
+               rain.M 3SG.M-do INTENSE
+              'It's really raining. '
+     (54)     Tei amopa nil             siaka lu            wei tru.
+              wood many INTENSE be.at 3SG.NM.be.at house inside
+              'There's a lot of firewood inside the house.'
+    Adjectives may be combined with the dative suffix in experiential constructions, as
+illustrated below. In these examples, the dative suffix encodes the experiencer.
+     (55)     Yau       pali-ni.
+              stomach hungry- I PL.DAT
+              'We are hungry. '
+     (56)     Ta l takau-ma ?
+              skin hot-2sG.DAT
+              'Is it (the fire) burning you?'
+     (57)     Sit   takau-na       tuwo.
+              sago hot- l sG.DAT mouth
+              'The sago is burning my mouth. '
+   It i s not clear whether the dative suffix i n this last example i s t o be interpreted a s referring
+to the possessor, or the experiencer: 'Sago is hot in my mouth', or 'Sago is hot at me, in the
+mouth'. The following examples are clearer, showing unambiguously that the postverbal
+element serves as the initiator of the event, and that the dative suffixes mark the most
+affected participant:
+     (5 8)    Dapu           ubue-na.
+              I SG.NOM afraid- I SG.DAT
+              'I 'm scared. '
+     (59)     Dapu        ubue-na            kasue.
+              I SG.NOM afraid- I SG.DAT cassowary
+              'I 'm afraid of cassowaries. '
+  Notice that in these sentences the experiencer is indexed by the dative suffixes, but
+appears in the clause in a nominative-cased pronoun.","[59, 60]"
+"
+1.3.3 Previous work on the language    The I'saka language has been referred to in the linguistic and anthropological literature as
+ 'Krisa', following the name of the village. Reference to the language in print is limited; only
+Laycock ( 1 973, 1 97 5 ) mentions the language, where it is reported to have 347 speakers.
+    The only previous linguistic work on I'saka is found in Laycock's 1 970 notes on 'Krisa'
+and other languages of the East and West Sepik districts. While none of the linguistic data
+from Krisa were ever to be published, the materials in his notebooks show that he was
+definitely dealing with the same language as the one described here. Lexically there is no
+difference between the speech variety that he has recorded and the one described here. He
+noted ( 1 970:340) that the language was tonal, with pitch contours occasionally noted, and
+four different patterns differentiated, roughly [-], [-], [I], and [\], probably reflecting the
+same four tones that we have heard, low, high, rising and falling. (Curiously though, he later
+(197 5 :8 5 1) wrote that 'Krisa and Rawo may have two tones only'. Rawo actually has five
+contrastive tones.) (See §2.2. 1 for the tonology of I'saka.) In most cases where we have
+found nasalisation, Laycock too has transcribed nasalisation on vowels, though occasionally
+he shows more nasalisation than we have attested, with prenasalisation on following stops
+that we have only rarely heard. An example of this is his sentence <nana ndau dey> 'Mi kam
+slip' for our Nana d-au d-iy /da:da: d-aw d-ijl, [nana daw dgj] 'I'm coming to sleep. ' His data
+shows the same set of verbal inflections (though he did not spot the allomorphy between the
+oral and nasal stops). Laycock ( 1 97 5 :38 8) lists the verb inflections as being those shown
+below in ( 1 ); these are completely compatible with the inflections that we shall see , discussed
+in § 5 .2.2 and §8, and shown here as (1 )'.
+     (1 )   n-      si-     di-            ( 1 )'    d-       s(i)-   di-
+            m-      sa-     yi-                      b-       s-      yi-
+            k-      sa-     a-                       k-       s-      e/0
+            w-                                       w-/t-
+   The intervocalic allophone of /d/, which we have heard as [1] is listed as both <1> and <r>
+in Laycock 's notes. The alternation between [£] and [a] that we have observed in some
+pronouns is evidenced in free nouns as well in Laycock's notes, where we can find <duwa>
+for our duwe 'dog', and <siya?> for our sie 'two', and also in the 3PL inflection on verbs, as
+can be seen in ( 1 ) above. The intervocalic allophone of /k/ that we transcribe as [V£V] ,
+[£V : ] or [V: ] (see §2.3.3) i s described by Laycock a s a 'yelaric click [sic ]; glottalised?;
+implosive?', showing his trouble with the sound and its phonetic characterisation. In his
+                                                                            Introduction       11notebooks it is often transcribed with the IPA symbol for creak, a tilde below the segment
+with creak, combined with a velar stop, thus Os] , as in the following examples: <s:lk:JY>
+'tobacco/', <ib]sei> 'eye' . At variance with our materials, Laycock even records what is
+presumably this allophone word-initially in <]sow> 'cloud', though from our data this would
+be expected only if the token occured phrase-medially.
+   With the differences noted above, Laycock 's materials are compatible with the analysis
+that we present here, although there is not as much detail.","[28, 29]"
+"
+3.5.3 Pronouns
+   The language distinguishes three numbers in its pronouns, as well as contrastive gender in
+the third person singular (but nowhere else). Uniquely in the language, the pronouns are
+marked for different cases, contrasting nominative, accusative, and possessive pronouns, as
+well as an unmarked set of underspecified pronouns, and various bound forms that appear on
+nouns, adjectives and verbs.
+   Because of the complexities involved in the description of pronouns, concerning not just
+morphology but also restrictions and requirements to do with their syntactic environments,
+they are not described here, but in the next chapter.",[61]
+"
+3.5.2 Numerals
+   The numerical system of I'saka is not complex, being limited to only three free forms,
+corresponding perhaps to the three numbers (singular, dual and plural) that are found marked
+on verbs or differentiated in the pronominal system. Numerals are distinguished from the
+class of adjectives by their position in noun phrases (see §6. 1 .4).
+   Numbers higher than three can be formed by combinations of the lower numbers, and it is
+interesting to note that 'three' itself is often rendered as 'two plus one', rather than with the
+use of the dedicated numeral for 'three'. The full set of recorded numerals may be seen in
+the word list in § 1 0. 1 1.",[61]
+"
+2. 7. 1 Speakers' views on the graphic representation of tone
+   No speaker of I'saka spontaneously expressed any prior awareness that their language was
+tonal. Finding an appropriate vocabulary to discuss tone (in Tok Pisin) with Krisa people was
+extremely challenging, and this was never wholly resolved. Speakers would certainly
+innovate ways of describing the characteristics of the different tone melodies, but these were
+rarely consistent. At this early stage, there was no set of Tok Pisin or I'saka words or phrases
+that caught people's imagination to the extent that they could be satisfactorily mapped onto
+the tone melodies (see also §2.2). This made discussion of the tone-marking scheme rather
+difficult, but attempts were made to find out I'saka speakers' views on the matter.
+   People we discussed the orthography with were generally supportive of the tone-marking
+scheme, and some people (particularly the younger adults) were quite delighted with it. They
+felt it was important for showing 'correct pronunciation', and took the challenge of writing
+the tone-marks very seriously. It is possible, however, that they were simply agreeing with
+the tone-marks because the orthographer seemed to think they were important, and because
+they were novel and somewhat intriguing. Additionally, the presence of the tone-marks
+supported the idea that I 'saka was special (since Tok Pisin and English do not use diacritics),
+and that writing I'saka was something out of the ordinary.
+                                                                            Phonology      35   Krisa people found i t more difficult to produce tone-marked text than zero-marked text,
+as it necessitated an extra level of decision-making about how words should be spelt. At this
+early stage, this tended to slow writers down, and placed a sometimes uncomfortable burden
+on their encoding skills. However this did not deter people from trying. The correspondences
+between phonological and orthographic representations are shown in Tables 1 6 and 1 7. The
+vowel lal has been chosen for exemplification of the writing for no particular reason. Table
+1 6 shows the interaction of segmental elements with nasalisation, and the orthographic
+consequences of the addition of nasalisation to a syllable. In addition to these orthographic
+principles that we have copied from the literature that has been produced for Krisa, we have,
+in this grammar, written the sequence lijl as <iy>, to distinguish it from Iii!, and similarly
+luwl is written as <uw> rather than <uu> (note that these syllables, like the other, few,
+syllables with codas, are not found nasalised). This practice, writing <iy> and <uw>, is not
+followed in the practical orthography.
+36     Chapter 2     Table 1 7 shows the diacritics employed to mark the different pitch contours.
+                      Table 17: Tone representation in the orthography                    Phonological         Pitch contour         Orthography
+                        H                     [ 1- ]               ta l
+                        L                     [L]                   ta
+                        R                     [ J! ]                ta
+                        F                     [�]                   ta    We can see from Table 1 6 and 1 7 that the orthography favours phonemic over­
+representation, as the 1 3 I'saka segments are represented by 1 7 distinct graphemes. The only
+interaction between the two suprasegmental levels, tone and nasalisation, occurs when a
+syllable is marked for both the high tone and nasalisation (with other than fbi or Id/ as the
+onset). In this case logically either CV'ng or CVng' would be possible, but only the former is
+approved. In practice, however, no instances of such a syllable have been found - all high­
+tone nasal syllables occur with fbi or Id/ in the onset. This does appear to be an unusual case
+of strong segmental restrictions on tonal association, involving the identity of the onset of the
+syllable and the tone that attaches.
+    Two segment-referent graphemes, <m> and <n>, (assigned to [m] and [n], allophones of
+fbi and Id/ respectively) also represent the supra segmental feature of nasalisation. As voiced
+stops are realised as nasals in a nasal syllable (see §2.2.2), the feature of nasalisation may be
+encoded on the onset segment-referent grapheme, and does not need to be reiterated
+elsewhere in the written word. For example, the word Idi/-N 'breast' ([niD is written <ni>.
+This use of segmental graphemes to show both segmental and supra segmental information
+(place from the segmental tier, and also the suprasegmental feature of nasality) is an example
+of an 'integrated suprasegmental representation' (San Roque 200 1 : 1 0, 36).
+    In several cases graphemes are assigned to allophones rather than phonemes. For example
+the phoneme Idl has the distinct graphic representations <d>, <r> and <1> (as well as <n>,
+described above), dependent on its allophonic realisation. This contrasts with the variants [p],
+[f] and [4>], which share the single grapheme <p>. The main motivation for these different
+strategies is compatibility with the phonic distinctions made in the Tok Pisin orthography.
+This is not so much an abstract 'transfer concern' as an inevitable speaker preference.
+    The phonic awareness of current I'saka speakers is largely derived from Tok Pisin. Being
+aware of the 'separateness' of the sounds [d], [1], [r] and [n] through experience of the Tok
+Pisin language and orthography, Krisa people were not satisfied with a single grapheme to
+represent all four. (See Phillips 1 976:38-64, for a discussion of Tok Pisin influence on
+phonic awareness with reference to the Wahgi language.)
+    The only significant deviation from the Tok Pisin orthography is in the representation of
+the suprasegmentals, nasalisation and tone, neither of which are present as contrastive
+features in the Tok Pisin language. In the I'saka orthography, nasalisation on a syllable that
+does not have a voiced onset (contrasting with the examples discussed above) is represented
+by the digraph <ng> following the vowel, in common with the orthography of the Dumo
+language, spoken on the adjacent coast to the west. For example, the word [pi'i] (younger
+sister) is written <pung>. The sound correspondence of the digraph <ng> in I'saka is thus
+distinct from those of the identically-formed digraphs in English, in which <ng> generally
+represents the velar nasal [IJ], and sometimes the same nasal and a homorganic stop, and in
+                                                                             Phonology      37Tok Pisin, in which the same grapheme, <ng>, represents the cluster [IJg] intervocalically and
+the velar nasal [IJ] in coda position.","[52, 53, 54, 55]"
