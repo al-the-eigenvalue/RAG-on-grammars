@@ -1,0 +1,2606 @@
+Paragraph,Page number
+"Chapter 3Word classes
+3.1IntroductionThis chapter introduces Duna word classes as referred to in this thesis, identifying
+different groups to which a root form may belong, and which predict certain aspects
+of a word’s use, including its distribution, function, and structural capacities. The
+chapter includes some additional comments on features of certain word classes or
+subclasses that are not discussed in detail elsewhere in this thesis, and lists all known
+members of smaller closed classes for quick reference.
+The word types I present here are largely categories that can be defined on the
+basis of morphosyntactic characteristics. For example, roots that belong to the class
+of verbs can be marked with certain bound forms that are not generally applicable to
+the members of other classes. However, the types are functionally and semantically
+as well as formally motivated, and in some cases no clearly distinguishing morphosyntactic features are identified; certain words are presented together because they
+belong to the same kind of semantic domain, or share a similar function.
+Sections 3.2 and 3.3 describe formal and functional features of the major Duna
+word classes, nominals and verbs. Members of the nominal and verb classes are
+generally used in denoting entities and events, respectively, and are thus typically
+fundamental to establishing fairly basic ingredients of a described situation (who are
+the participants, what are they doing?). Nominals are divided into two open classes
+(common nouns and proper names), and one closed class, personal pronouns. The
+overall category of verb contains three closed classes of morphologically and functionally distinct verbal roots, as well as an open class of regular verbs.
+Verb adjuncts (§3.4) are similar to verbs but have somewhat distinct distributional properties, and adjectives (§3.5) comprise a class of words which show both
+nominal and verbal properties.
+The closed classes of quantifiers and demonstratives are treated in §3.6 and §3.7,
+and §3.8 looks at a ‘mixed bag’ of words and expressions that are used in talking
+6970Chapter 3. Word classesabout time and manner. Duna interrogative forms (§3.9) group together as a functional class, but also cut across the classes described in §3.2 - §3.8. Sections 3.10
+and 3.11 describe some other minor groups of words, including dependent postpositional modifiers, linkers, sentence pro-forms, and some conventionalised utterances
+or ‘sound gestures’ such as attention-seekers and exclamations.","[97, 98, 99]"
+"6.6NP marking: grammatical relation and prominence6.6.1Contrasted subject (CS) markingA subject NP (§4.2.1) can be formally marked as a ‘contrasted subject’ (CS). There
+are two main situations in which it is necessary or appropriate to mark the subject
+of a clause as contrasted. One is when there is a need to distinguish the subject NP
+from other clausal participants. This situation typically arises in clauses headed by
+multivalent predicates, the A argument (usually with an actor semantic role) being
+overtly distinguished from other predicated arguments (P, R, T, see §4.2.1); this
+use of contrasted subject marking functionally resembles ergative case marking.
+Another such situation is when there is a need to distinguish an NP referent from
+other referents, for example when the identity of the subject is new, unexpected,
+and/or contrasted with the identity of another expected or potential subject; this
+latter use resembles focus-marking.35
+Singular and dual personal pronouns have special contrasted subject forms, first
+listed in §3.2.3 and reproduced here in Table 6.6. Other NPs are marked as contrasted with the postposed bound form -ka. 36
+In regard to the singular and dual pronouns, there is a regular relationship between
+the non-CS and CS forms in that the final vowel o in the non-CS form changes to
+35Duna thus provides another example of a TNG language in which particular marking of an
+NP matches ergative distribution to some extent, but cannot be adequately described on a syntactic
+basis. See for example Renck (1975), Foley (1986), Scott (1986), Donohue and Donohue (1997),
+Donohue (2005), Rumsey (MS), Priestley (2008). As is also fairly common in Papuan languages
+(as elsewhere), the ergative-like marker in Duna is homophonous with a morpheme that marks an
+instrument-like role.
+36
+I view contrasted subject marking as NP-internal as it can be expressed by stem alternation
+rather than the application of a postposed clitic. However, the CS marker is not a kind of NP marker
+as it does not attach directly to a spatial or Class I epistemic demonstratives, and commonly occurs
+in combination with -na SPEC. In these two ways the CS marker resembles an NP postposition.",[234]
+"INTENS onecry-DEP
+Predicate‘A very old woman was crying...’ (T/YS:KGV7.22)
+A common noun such as ima in (109) is the notional head of the NP, in the sense
+127128Chapter 5. Constituents of nominal phrasesthat it “refers to the same entity that the whole phrase refers to” (Payne 1997:73).1
+A nominal phrase that is notionally headed by a common noun (a ‘common noun
+NP’) can consist of a common noun (N), one or more Adjectives (A), a quantifier
+(Q) and a Demonstrative (Dem), which occur in fixed order, as shown in Figure
+5.1. In nominal phrases that include a spatial demonstrative, an NP marker (§6.3)
+is obligatory. Note that adjectives, quantifiers, and demonstratives can function
+pronominally as well as adnominally, as the notional head does not need to be overt
+in the phrase as a common noun if its identity is recoverable from context, for
+example if it is referenced in the preceding clause or sentence or is a salient item in
+the current speech setting.
+———————————————————
+(XPposs ) (N) (A)n (Q) (Dem)
+———————————————————
+Condition: One lexical constituent must occur
+Figure 5.1 Ordering of words in a nominal phraseCommon noun NPs can also include a phrase-initial constituent that denotes a
+possessor. This possessor can be expressed as an unmarked NP or a postpositional
+phrase (formed with the NP postposition -ya ‘BEN’, §6.5.4). I notate this phrasal
+constituent as ‘XPposs ’. Nominal phrases that exemplify the different possiblities of
+the template shown in Figure 5.1 are presented and discussed in §5.2.
+The clause shown in (110) contains two NPs, describing the two participants
+required by the bivalent verbal predicate, sa- ‘strike’. The first NP consists of a
+(CS-marked) proper name (PN), Polo-ka, the subject argument. This is a ‘Proper
+name NP’ (NPP N ), further discussed in §5.3.2. The second nominal phrase consists
+of a personal pronoun (PPro) no ‘1SG’. This is a ‘Personal pronoun NP’ (NPP P ro ),
+discussed in §5.3.1.
+(110)[Polo-ka] [no] sa-ya...
+PSN - CSNP1SG strike-DEP
+NP Predicate‘Paul hit me...’ (T/HS:080305iii)
+Non-derived interrogative words can also occur in nominal phrases (§5.3.3).
+Two or more NPs can be collocated to function as a single NP constituent, and this
+and other complex ‘multiple NP’ constructions are described in §5.4.
+1Cf. also Croft’s definition of the ‘primary information bearing unit’ (PIBU) of an NP as “the
+most contentful item that most closely profiles the same kinds of thing that the whole constituent
+profiles” (2001:259).","[156, 157]"
+"(432)ima=kho-nga eya neyaneya, anoa-na-ka ndoko si-yawoman =3SG-EXCV rope eat.IPFV NOT man-SPEC-CS traphold-DEPso-ri.
+kill-RSLT. C‘The woman didn’t hang herself, the man strangled her.’ (ED/XIV:157)
+(433)hatia =kho-nga kharu-pa.
+door 3SG-EXCV close-INDV‘The door is closing by itself.’ (ED/TandI)
+The exclusivity marker typically only occurs on subject pronouns, as in (429)
+to (433). Sentences in which an object NP is marked with -nga, as in (434), were
+generally judged as odd or unacceptable. However, KK did think that the sentence
+shown in (435) could be used in circumstances where emphasis on the exclusive
+identification of the referent is highly contrastive, for example, if someone is making
+counter-claims about what gifts were intended for whom.
+(434)? no-ngangi-tia1SG-EXCV give-PFV.VIS . P[Someone] gave it to me. (CD/XV:18)
+(435)antia-ka no no-ngapalangeti ndu ngu.mother-CS 1SG 1SG-EXCV blanket.lw one give.PFV‘Mother gave me a blanket.’ (CD/XV:18)
+See also §5.4.2.3 concerning the use of double pronouns in emphatic identification.
+6.6.3Dependent third person pronounsProper name or common noun nominal phrases that denote third person parties can
+include a postposed coreferent third person pronoun, as in (436). Typically a third212Chapter 6. NP, PP, and PlcP morphologyperson pronoun that occurs in this position is encliticised, that is, it shows some level
+of phonological dependency. It may be very short and fit into the intonation contour
+of the nominal phrase rather than sounding like a separate word, and there may
+also be loss of segmental content. For example, I have heard third person singular
+pronouns in this position realised as nothing more than a brief phrase-final [O]. I
+refer to a pronoun that occurs in this position, with no pause intervening between it
+and the otherwise final NP constituent, as a dependent pronoun, and represent such
+forms with a preceding ‘=’ in example sentences.41
+(436)no ame-tia=khunu ha-me1SG ancestor-GP =3PLwa-ya ka-na.there-MNR do-DEP be/stand-HAB‘My ancestors would live doing thus.’ (T/RS:270405a)
+Free third person pronouns typically reference participants that are animate, definite, and discourse prominent, and are associated with the grammatical relation
+subject (§5.3.1.1). This is also true of the use of dependent pronominal forms.42 Dependent pronouns occur frequently in subject NPs, but the inclusion of a dependent
+pronoun in an object or oblique NP is unusual and indicates pragmatic prominence.
+The importance of current discourse prominence to dependent pronoun use is
+illustrated in the contrast between the referential treatment of the two human participants Layapi and Wakili in lines (437d) and (438b) of text excerpts (437) and
+(438), respectively. In both of these excerpts the speaker (KK) describes a roughly
+similar sequence of events, the death of a person and the happenings that surround
+this.
+Excerpt (437) is taken from towards the end of a narrative which describes an
+attack on an old man named Layapi by a mysterious supernatural force. At (437a),
+Layapi is a participant with high topic continuity and is covertly referenced through
+zero anaphora. However, from (437b) onwards Layapi starts to ‘drop out’ of the
+text. When we get to (437d), in which Layapi’s death is described, Layapi is no
+41In cases where a non-prononimal NP and a third person pronoun are coreferential and contiguous but there is a pause or clear intonation discontinuity between the two constituents, I analyse
+these as separate NPs, not a dependent pronoun construction. Such an example may alternatively be:
+a left dislocation construction, §4.2.4.3; an ‘umbrella’ pronoun that follows a listing construction,
+see §5.4.1; or two adpositional NPs that occur at points of disjuncture, periphrastic expansion, or
+repetition, for example when a speaker hesisates mid-clause and then repeats or corrects themselves.
+However, it must be added that as my judgment of whether or not discontinuous intonation is present
+is subjective, the decision between whether a ‘NP Pronoun’ string counts as left dislocation or a dependent pronoun construction is somewhat arbitrary. I do not regard this as highly problematic in
+my description as the functions of the two constructions are highly compatible, and I further believe
+that ambiguity between them reflects a genuinely continuous relationship between the construction
+types.
+42
+An examination of 47 third person pronouns as they occurred in three short texts suggested that
+free and dependent pronouns occur with roughly equal frequency in narrative material; there were
+23 free pronouns and 24 dependent forms.","[240, 241]"
+"1.3. Fieldwork and language data25includes Duna speakers’ corrected or improved versions of an utterance I had just
+made in conversation. ‘OH’ indicates the example is (a fragment of) overheard
+Duna speech; unusual or complex examples have (unless otherwise stated) been
+checked subsequently to make sure that I heard and interpreted them correctly. 35
+1.3.3.3Other dataThe data also includes some short texts that were independently written by Duna
+speakers and then given to me by their authors. These are designated ‘WD’ for
+‘written data’.
+At some points in this thesis I reproduce Duna sentences from Giles (MSa), in
+which case citation details are included after the translation line.36 Giles provides
+English sentence translations of Duna examples (except in practice exercises), but
+does not commonly add any interlinear gloss or indicate word-internal morpheme
+boundaries. Where I include examples taken from Giles’ materials in this thesis, the
+translation is supplied by Giles and the interlinear gloss supplied by myself, unless
+otherwise indicated.
+1.3.3.4Summary of data typesA key to the datatypes that are indicated in example sentences (and referred to elsewhere in the thesis text) is shown in Table 1.3. Data type designations are shown in
+parentheses following the translation of an example, preceding further information
+that indexes the particular source text. For example, when ‘(P/AM:NH03T12A)’
+follows the English translation, the initial ‘P’ shows that this example is taken from
+a sung pikono text. The following two letters represent the speaker, and ‘NH’ shows
+that this text was recorded in audio form by Nicole Haley. The remainder of the designation details the year and tape of Haley’s recording.
+In certain cases, data represents a combination of types. For example, there are
+some texts that start off as straightforward ‘T’ narratives, but shift into the ‘Learner
+Interview’ category as I start to ask questions of the speaker about their story. Some
+sentences in the notebook data may be a mix of constructed and elicited material,
+for example in situations where I have constructed the first half of a sentence and
+asked a speaker to finish it off. Where I judge that two designations are equally
+35My level of competence in spoken Duna is quite basic. During my time in the Duna-speaking
+community I grew to be able to: engage in simple, highly contextualised, conversation; follow more
+extended monologues that were presented slowly in a step-by-step and/or repetitive way for my
+benefit; communicate more detailed stories and explanations (depending on the forbearance of my
+interlocutors); and follow overheard comments, requests and responses where my comprehension
+was significantly assisted by the interactional setting and/or prior knowledge.
+36
+In most cases the context and provenance of these sentences is not indicated. In many cases
+content suggests that an example is reproduced from (or at least inspired by) natural conversational
+language. In other cases the sentence appears to have been extracted from a sermon or biblical story,
+or simply to have been constructed to illustrate or test a point of grammar.","[53, 54]"
+"57
+58
+59
+59
+60
+61
+61
+62
+62
+63
+64
+65
+65
+66
+66
+673.1
+3.2Ordering of verbal morphology . . . . . . . . . . . . . . . . . . . . 75
+Demonstrative subclasses . . . . . . . . . . . . . . . . . . . . . . . 854.1
+4.2Typical ordering of subject and object NPs . . . . . . . . . . . . . . 107
+Typical word order of a verbal clause . . . . . . . . . . . . . . . . . 1095.1Ordering of words in a nominal phrase . . . . . . . . . . . . . . . . 1286.1
+6.2
+6.3Order of co-occurring phrase-final morphemes . . . . . . . . . . . . 166
+Ordering of co-occurring NP markers . . . . . . . . . . . . . . . . 178
+General structure of a place phrase . . . . . . . . . . . . . . . . . . 1927.1
+7.2
+7.3
+7.4
+7.5Morphological template of a complex verb . . . . . . . . . . . . . . 220
+Clause headed by a two-verb series . . . . . . . . . . . . . . . . . . 227
+A verb adjunct construction . . . . . . . . . . . . . . . . . . . . . . 236
+Typical ‘adjunct noun’ construction . . . . . . . . . . . . . . . . . 245
+Template of an ‘object-verb predication’ . . . . . . . . . . . . . . . 247
+xxLIST OF FIGURESxxi7.6 Adunct noun type construction with ka- ‘be/stand’ . . . . . . . . . . 251
+7.7 Object-verb type predication with ka- as ‘make’ . . . . . . . . . . . 252
+7.8 Adjective + ka- ‘be/stand’ . . . . . . . . . . . . . . . . . . . . . . . 253
+7.9 Existential and expanded existential (possessive) clauses . . . . . . 254
+7.10 Possible structure of expanded existential clauses . . . . . . . . . . 256
+7.11 Clause with existential verb in copular function . . . . . . . . . . . 257
+8.1
+8.2
+8.3Final predicate morphology . . . . . . . . . . . . . . . . . . . . . . 268
+Classification of aspectual oppositions (Comrie 1976:25) . . . . . . 290
+Duna TAM markers (actualised events) as per Comrie (1976) . . . . 2919.1Inflectional array: present time event . . . . . . . . . . . . . . . . . 348Abbreviations
+1
+2
+3
+ABIL
+ASSERT
+BEN
+BNF
+C
+CAUS
+CNCL
+COM
+CMPL
+CS
+CTFACT
+DEP
+DES
+DL
+ENCLexcl.
+EXCV
+EXPCT
+GP
+GPN
+HABhes.
+HORT
+HYP
+IMP
+IMPL
+INDV
+INSTR
+INT
+INTENS
+IPFV
+ITER
+LNK
+LOC
+MNRfirst person
+second person
+third person
+abilitative
+assertion
+beneficiary/possessor
+benefactive
+current (evidence)
+causative
+concealing/inner location
+comitative
+completive/emphatic
+contrasted subject
+counterfactual
+dependent (verb)
+desiderative
+dual
+enclosure
+exclamation
+exclusive identification
+expective
+group
+social grouping name
+habitual
+hesitation/filler
+hortative
+hypothetical
+imperative
+impersonal
+individual (knowledge)
+instrument
+intentive
+intensifier
+imperfective
+iterative
+link
+locative
+mannerxxiiMULTI
+NEG
+NOT
+NTN
+OCC
+ORD
+OPIN
+P
+PFV
+PL
+PLC
+PLN
+POT. OBS
+PR
+PRES
+PROB
+PROHIB
+PROM
+PROPH
+PSN
+PURP
+Q
+RSLT
+SEQ
+SG
+SHRD
+SIM
+SPEC
+SNS
+STAT
+SUB
+SW
+TERR
+UNC
+VISvoc.
+WARNmultiple times
+negative
+lexical negator
+notional (evidence)
+occurrence
+ordinal
+opinion
+previous (evidence)
+perfective
+plural
+place
+place name
+potential observation
+pair
+present
+probable
+prohibitive
+promissive
+prophetic
+personal name
+purposive
+interrogative marker
+results (evidence)
+sequential
+singular
+shared (knowledge)
+simultaneous
+specificity
+non-visual sensory
+stative
+subordinator
+switch
+territory
+uncertainty
+visual (evidence)
+vocable
+warning againstOther glossing conventions
+In example sentences I use a hyphen (-) to represent ligature between two morphemes where
+(at least one) of the morphemes does not occur as a freestanding form. I use the equals sign
+(=) to represent ligature for: bound morphemes that attach to the final predicate, but do not
+occur in a primary inflectional capacity (§8.1.1.1), that is, epistemic particles (§10.4) and
+the sentence-final markers =nia ASSERT and =pe ‘Q’ (§11.1); and dependent third person
+pronouns (§6.6.3). I do not use ‘-’ versus ‘=’ to represent an overall distinction between
+affixes and a clitics. A large number of the bound forms that I describe in this thesis are
+arguably clitics on the basis of their distributional flexibility. However, a more developed
+understanding of Duna phonology is necessary to explore the validity and applicability of
+a clear clitic/affix distinction, and I use ‘=’ for morphemes which are anomalous in other
+ways.
+Where a single Duna morpheme requires glossing with more than one English word,
+these are separated by a full stop. In certain cases where a given morpheme encodes more
+than one category or meaning I use a forward slash (/) to separate these two meanings.
+Words in example sentences that are clearly related to Tok Pisin and/or English words
+are annotated ‘lw’ (for ‘loan word’) in the gloss. Some of the examples in this thesis include Duna words that belong to a “special esoteric vocabulary” (Haley 2002:132) called
+kẽyaka. Kẽyaka terms are used extensively in song, but are not typically used in everyday
+conversation or spoken narratives. Kẽyaka terms are indicated in example sentence glosses
+with ‘k.’ preceding the approximate import of the word.
+In Chapters 9 to 11 approximations of perception events that are entailed by evidential
+markers (§9.2) are shown in curly brackets in the English translation.","[25, 26, 27, 28]"
+"1/2PL-CS shoot-SPEC=Q‘Are you lot shooting?’
+b. khunu-ka karia-na=pe.
+3PL-CSshoot-SPEC=Q‘Are others (and you) shooting?’ (CD/III:96)
+The apparent variation between inu and khunu in reference to groups that include addressees relates to debate concerning the existence of a grammaticised
+‘second person plural clusivity’ distinction. This refers to a theoretically possible
+system whereby groups that are composed of actual addressees that are all present in
+the speech situation (denoted by Cysouw (2003) as a ‘2+2’ group) would be referred
+to in a different way to groups that consist of an actual addressee in combination
+with others who are not present (a ‘2+3’ group). Whilst the existence of such a
+system has been claimed for some languages (see, for example, Giridhar (1994) on
+Mao Naga, Tibeto-Burman family), Cysouw (2003) and Simon (2005) argue that
+these kinds of alternations do not really encode a grammaticised person distinction,
+but have to do with extended uses of categories that belong to other domains in the
+grammar, are tied to the expression of variables such as politeness and solidarity, or
+have simply been described as a result of misinterpreted dialect variation.
+In the Duna case, there is currently too little information to contribute definitively to this debate, as there are only a few examples of the pronoun khunu being
+used in reference to addressees, and very few clear instances of reference being
+made to ‘2+3’ groups in the textual data in any case.25 However, it seems likely
+that Duna supports Simon’s (2005) findings that where a formal alternation maps to
+25Note also that Giles does not explicitly describe the Duna pronominal paradigm, and the few
+examples of addressee group reference that I have found in her material are with the pronoun inu.
+These all seem to be ‘2+2’ situations, as they are directives such as ‘Everybody sit down’, etc.",[182]
+"9.3. Information status markers345that is used to indicate that the referent of a nominal phrase is a specific (and typically definite) individual (§6.3.2.1). As is shown in the following chapter, -na SPEC
+can also be added following an inflected final verb in a main clause, with similar
+‘attention-drawing’ implications. There are also a number of complex constructions
+in Duna in which the specificity marker -na is added to a verb (inflected or otherwise). These include for example: relative clauses (see (682), (394)); background
+reason/cause clauses (in which case the clause is overtly marked with either =nia,
+-ka, or -ta, see (704), (574)); nominalised purpose clauses (often on verbs that are
+marked with -noi, see (800)); complement clauses headed by the verb wa- ‘do’ (see
+(345), (448)); and other reified propositions, where the activity described by the
+clause is nominalised as a named situation (994) or process (30). In these cases the
+verb to which -na is added can generally be regarded as heading an embedded, subordinate, and/or nominalised clause rather than an independent verbal clause. The
+additional use of a SPEC-marked clause as an independent utterance seems to be an
+example of ‘insubordination’ (Evans 2007).
+It can be noted in examples (827) to (833) (and elsewhere) that I typically
+treat definite-marked final verbs that are sentence-final as heads of ordinary verbal
+clauses. However it follows that if -na is an NP marker, its use in final clauses could
+be more appropriately described as a nominalisation construction that is functionally related to information status, rather than an example of a potentially inflectional
+information status marker. A sentence such as (830) could be analysed as a ‘nonembedded nominalization’ (Matisoff 1972) and rendered as ‘(It is the case that) I
+am spinning yarn!’, or as a cleft construction, ‘It is I who am spinning yarn!’. A
+comprehensive assessment of this issue demands a thorough description of complex constructions, as well as an explicit account of information structure in Duna
+conversation and extended discourse, areas that I do not embark upon in this thesis
+owing to time and data constraints. As a practical measure, I treat -na SPEC as it
+occurs in main clauses as a morpheme that is functionally equivalent to an information status marker, as it can: derive a finite predicate, ascribe temporal value (present
+time) to the clause in which it occurs, and convey an attitude (a judgement/assertion
+of ‘noteworthiness’) to the information that is encoded in the utterance.44 I translate
+final verbs that are marked with the specificity marker as if they are heads of main
+verbal clauses unless there is uncontroversial indication that the clause is not inde44cf. Woodbury (1985): In examining ‘participle constructions’ in Yup’ik Eskimo that can occur
+either as noun phrases or as independent clauses, Woodbury says that: “When participle constructions function as clauses [...] the participle suffixes act as mood markers. Rather than convert the
+verb base to which they attach into adjectival nouns, they become part of their inflection as verbs.
+[...] In addition to looking like mood markers, participle suffixes have mood meaning. They signal
+vividness and sometimes exclamatory force in main clauses, forming a paradigm set with the other
+main clause moods” (1985:76).","[373, 374]"
+"9.2. Evidential markers9.2.2309Contrasts within the evidential paradigmThis section outlines certain contrasts that are distinguished within the evidential
+markers as a group.
+9.2.2.1Information source and the evidential categoriesI describe the Duna evidential paradigm as distinguishing four evidential categories, ‘Visual’, ‘Non-visual sensory’ (‘Sensory’ for short), ‘Resultative’ (‘Results’ for
+short), and ‘Notional’. These four categories can be broadly distinguished using the
+information source features ‘Direct’ and ‘Sight’, as shown in Table 9.2.2.1. ‘Direct’
+means that the perceiver is there at the time of the event and witnesses it happening.
+‘Sight’ means that the perceiver is identified as seeing or having seen something
+(either the event itself, or results of it). These features do not directly correspond to
+the meanings and functions of the evidential markers in each category; for example,
+visual category evidentials can be used in some situations where the predicate event
+is heard rather than seen, and the current notional category evidential is typically
+as much concerned with indicating surprise as it is with indicating indirect unseen
+information source. However, the information source features are quite useful in
+developing a systemic treatment of the evidential markers, and delineating prototypical situations in which they are used.
+Table 9.2 Kinds of evidence and the Duna evidential categoriesCategory
+Visual
+Sensory
+Resultative
+NotionalDIRECTSIGHT+
++
+-+
++
+-See Willett (1988), De Haan (2001), and Aikhenvald (2004) for discussion of
+these (or similar) features as relevant to other languages with evidential systems.
+9.2.2.2Personal or impersonal viewpointI divide Duna evidential markers into ‘personal’ and ‘impersonal’ forms. Personal
+evidentials entail an identifiable perceiver who has a specific viewpoint. This perceiver is typically understood to be the informant person (speaker in declaratives,
+addressee in interrogatives, see §11.2.2.1). In extended narrative a central character can also be treated as a perceiver, in which case evidential markers reflect this
+character’s viewpoint as events unfold.5 All personal evidential markers can occur
+5Cf. Banfield’s (1982) discussion of the ‘subjective character’ in narrative, a participant whose
+consciousness is adopted, and through whom the reader/listener becomes focussed on the direct
+experience of thoughts, feelings, and perceptions (Chun and Zubin 1990). See also Lawrence’s310Chapter 9. Evidential and information status markerswith ancillary as well as primary inflectional function and can be followed by the
+specificity marker -na; see Chapter 10. Each evidential category in Duna also has
+a form that marks impersonal perception, rather than representing a specific viewpoint. At least some of the impersonal forms can be used as ancillary markers.
+Unlike the personal forms, impersonal evidential markers do not generally occur in
+interrogative sentences, and are not marked with -na.
+The personal/impersonal contrast relates somewhat to languages in which the
+identity of the perceiver(s) as the speaker, addressee, or both, may be indicated by
+a bound form that is portmanteau with or added to an evidential marker. This kind
+of feature is found in (relatively) nearby languages of the New Guinea Highlands
+region (see Rule 1977; Madden MS; Sillitoe MS; Loughnane and San Roque forthcoming), as well as further afield (Kroeker 2001 on Nambikuara, Brazil6 ). In Angal
+(Mendi), for example, there is a marker which can be added following an evidential
+morpheme to signal that both speaker and hearer perceive the evidence in question
+(Madden MS).
+In Nambikuara, morphemes that comprise the ‘evidential suffix system’ make
+reference to kinds of evidence, for example marking ‘deductive orientation’ (similar
+to the Duna results evidential category), and to ‘verification’, which may be either
+‘individual’ or ‘collective’. These suffixes indicate tense and occur in combination
+with aspect suffixes. Kroeker paraphrases use of an ‘individual verification, deductive orientation’ suffix as signaling “I’m telling you my deduction of an action
+that must have occurred because of something I saw/see” (2001:63). In contrast, a
+‘collective verification, deduction orientation’ suffix signals “both speaker and addressee deduce that an action must have taken place” (2001:64). Two examples that
+contrast with respect to ‘verification’ value but have the same ‘orientation’ value of
+reported evidence (termed ‘narration orientation’ by Kroeker) are shown in (740)
+and (741).7
+(740)wa3 kon3 -∅-ta1 hẽ1 -la2
+work=3SG-T / E . IN . P - PF‘I was told that he worked.’ (NAMBIKUARA: Kroeker 2001:64)
+(741)wa3 kon3 -∅-ta1 tẽx1 ti2 tu3 -wa2
+work=3SG-T / E . CN . P - IMPF‘We were told that he worked.’ (NAMBIKUARA: Kroeker 2001:65)
+(1987) discussion of ‘viewpoint’ in Oksapmin narrative.
+6
+Aikhenvald (2004:234) records that the language Kroeker describes is Mamainde, within the
+Northern Nambiquara group of the Nambiquara languages.
+7
+Superscript numbers in Nambikuara examples indicate tone: 1-falling; 2-rising; 3-low level.
+Special abbreviatons are: C, collective verification; I, individual verification; IMPF, imperfective;
+N, narrative orientation; PF, perfective; T/E, tense/evidential.","[337, 338, 339]"
+"314Chapter 9. Evidential and information status markersin which markers of the relevant category are applicable; we cannot necessarily
+intuit from our understanding of ‘seeing’ whether or not the Duna visual evidentials
+are appropriate to a given situation.
+This issue is further relevant to cross-linguistic comparison of evidential categories. Evidential systems quite often include a marker (or markers) that has
+visuo-perception as a particularly salient aspect of its meaning and contexts of use
+(see Willett (1988), Aikhenvald (2004), De Haan (MSb)). Comparison of visionrelated evidential markers in different languages shows that there is not a universally equivalent ‘visual’ evidential category (König and Siemund 2007:290). The
+Duna vision-related category more nearly resembles the vision-related category of
+languages of the same area such as Oksapmin (Lawrence 1987; Loughnane forthcoming) and Foe (Rule 1977), and Tibeto-Burman languages (for example, Qiang,
+LaPolla (2003)) rather than the vision-related category in languages such as Tariana (Aikhenvald 2003) or Tuyuca (Barnes 1984). This is because in Duna visual
+category evidential markers strongly imply that the informant is not an active participant in the event that is described, and as such are generally incompatible with
+informant subjects (§11.2.2); one is either a ‘see-er’ or a ‘do-er’. In contrast, in languages such as Tariana vision-related evidentials are typically used with informant
+subjects, and there is no conflict between ‘seeing’ and ‘doing’.12
+9.2.3.2Visual (perfective previous)The regular morpheme -tia (PFV. VIS . P) marks events that were observed occurring
+before the time of utterance. The fact that the perception is ‘previous’ and the
+aspectual specification perfective means that the event is understood to be something that happened in the past and is now completed. This morpheme is generally
+more appropriate to telic than atelic activities. Some examples are shown in (745) (747).13
+(745)khunu-ka ndune ndu phulu-ku-tia.
+3PL-CSthing one throw-TOWARD-PFV.VIS . P‘They threw something towards me {I saw}.’ (T/PK:241103)
+(746)no Hirandareke raroko,
+1SG PLNPolo singa-tia.be/sit-SW. SIM PSN arrive-PFV.VIS . P‘I was sitting at Hirandareke, and Paul arrived {I saw}.’ (TLIV/KK:230205)
+12In the case of some languages (e.g., Eastern Pomo) it can be argued that the evidential marker
+which is most appropriate to visually witnessed events does not specifically encode visual semantics
+at all (McLendon 2003). Rather, the system includes a participatory/factual evidential (§9.2.9),
+which typically implies visuo-perception for certain kinds of events, for example, those with third
+person subjects.
+13
+In this and the following chapters approximations of the perception events that are entailed by
+evidential markers are shown in curly brackets in the English translation. These ‘evidential translations’ are impressionistic and derived from contextual features as well as grammatical content.","[342, 343]"
+"496BIBLIOGRAPHYMushin, I. (2001). Evidentiality and epistemological stance: narrative retelling.
+Amsterdam: John Benjamins.
+Noonan, M. (2008). Nominalizations in Bodic languages. In M. J. Lopez-Couso,
+E. Sloane, and T. Fanego (Eds.), Rethinking grammaticalization: new perspectives, Number 76 in Typological Studies in Language, pp. 219–273. Amsterdam;
+Philadelphia: John Benjamins. Page numbers in citations not confirmed: accessed at http://www.uwm.edu/ noonan/Papers.html in March 2008.
+Nunberg, G., I. A. Sag, and T. Wasow (1994). Idioms. Language 70(3), 491–538.
+Ochs, E. and B. Schieffelin (1984). Language acquisition and socialization: three
+developmental stories and their implications. In R. A. Shweder and R. A. Levine
+(Eds.), Culture theory: essays on mind, self, and emotion, pp. 276–320. Cambridge: Cambridge University Press.
+Oswalt, R. L. (1986). The evidential system of Kashaya. In W. Chafe and J. Nichols
+(Eds.), Evidentiality: the linguistic coding of epistemology, pp. 29–45. Norwood
+NJ: Ablex Publishing Corporation.
+Palmer, F. (2001). Mood and modality (2nd ed.). Cambridge: Cambridge University
+Press.
+Pawley, A. (2007). Developments in the study of formulaic language: a personal
+view. In P. Skandera (Ed.), Phraseology and culture in English. Berlin; New
+York: Mouton de Gruyter. Page numbers cited from December 2004 draft.
+Pawley, A. (forthcoming.a). Helter skelter and ñugl ñugl: English and Kalam rhyming jingles and the psychic unity of mankind. To appear in K. McElhanon and G.
+Reesink (Eds.) (Festschrift).
+Pawley, A. (forthcoming.b). On the argument structure of complex predicates in
+Kalam. To appear in Proceedings of BLS32 (2006), Berkeley Linguistics Society,
+University of California at Berkeley.
+Pawley, A., S. P. Gi, I. S. Majnep, and J. Kias (2000). Hunger acts on me: the grammar and semantics of bodily and mental process in Kalam. In V. P. de Guzman
+and B. W. Bender (Eds.), Grammatical analysis in morphology, syntax,and semantics. Studies in honor of Stanley Starosta, pp. 153–185. Honolulu: University
+of Hawai’i Press.
+Pawley, A. and J. Lane (1998). From event sequence to grammar: serial verb constructions in Kalam. In A. Siewierska and J. J. Song (Eds.), Case, typology and
+grammar: in honor of Barry J. Blake, pp. 201–227. Amsterdam; Philadelphia:
+John Benjamins.
+Payne, T. E. (1997). Describing morphosyntax: a guide for field linguists. Cambridge: Cambridge University Press.
+Priestley, C. (2008). The nominative focus enclitic =te in Koromu. Handout of
+seminar given at the Australian National University, 12 September 2008.","[524, 525]"
+"72Chapter 3. Word classesthough see also examples (165), (278), (294)). Like common nouns, proper names
+can function as nominal specifiers, following a generic term (§5.2.1.5).
+I divide Duna proper names into three groups: personal names (PSN), place
+names (PLN), and social grouping names (GPN). These are not strictly distinct categories, but show different patterns of typical use that spring largely from their
+different semantic domains of reference.
+3.2.2.1Personal names ( PSN)Personal names are given to high animacy individuals, typically humans but also
+supernatural beings, pet animals, and sometimes animals that are characters in narratives.
+Traditional Duna personal names were and are drawn from a variety of sources,
+for example the term for a kind of plant or animal, or words that reflected an event
+that occurred around the time of a person’s birth; see Stürzenhofecker (1998:48).
+Kenny Kendoli commented to me that a highly appropriate name for a male child
+was that of his father’s father’s father. Most Duna people born after the derestriction of the area (§1.1.3) have a ‘Christian’ or baptismal name as well as or instead
+of a traditional name (whether or not they were actually baptised). These names
+are usually related to recognised biblical or secular names of the English-speaking
+world.
+A personal name may consist of several phonological words. In a two-word
+name of a present-day person, the first may be traditional or non-traditional, and the
+second the name of the person’s father (or, in the case of a woman, sometimes her
+husband’s first name). These patronymic and andronymic naming practices were
+introduced by the colonial regime throughout Papua and New Guinea. In a threeword name, the first name is typically non-traditional, the second traditional, and
+the third again the father’s or husband’s. For example, one of the Duna people I
+worked with closely gives his full name as Kenny Yuwi Kendoli. His traditional
+name ‘Yuwi’ was given to him at birth, and the name ‘Kenny’ acquired later in life
+(see Haley 2002:122). ‘Kendoli’ is his father’s name. People address Kenny as
+either Kenny or Yuwi, and might use either ‘Kenny Yuwi’ or ‘Kenny Kendoli’ to
+clarify reference when talking about him. Kenny’s wife Kipu has a traditional first
+name and takes her father’s name, Piero, as her last name.
+Nicknames (for example, expressions that relate to a person’s physical appearance, shortenings of Christian names) are widely used.4 For example, Kenny’s
+4These may provide a roundabout way of reinterpreting a Christian name as a Duna name through
+loan-blending. For example, in one case a chubby baby boy was named ‘William’. His family
+quickly shifted to calling him Wimo, which is segmentable as a Duna phrase composed of wi ‘game
+animal’ and mo ‘like’. See also Gillespie (2007b:107-8) for discussion of the history and meaning
+of one young woman’s nickname.","[100, 101]"
+"I have also noted variant pronunciations of [p(j)ERO] ‘forehead’ in which the consonant is not
+palatalised; this suggests a process of simplification as complex consonants are lost and merged with
+simple stops.
+21
+While the idea is highly speculative at this stage, it may be productive to further consider the
+presence of palatalised stop consonants in a diachronic context. For example, it is possible that current word-initial unaspirated dento-alveolar stops are derived from erstwhile palatalised stops; these
+have been retained as simplified plain stops with palatal lateral allophony, while earlier unaspirated
+dento-alveolar stops merged with the alveolar tap word-initially (§2.1.2.2).
+20542.1.6Chapter 2. PhonologyNotes on English and Tok Pisin loan wordsMany vocabulary items in present-day Duna are transparently related to English
+and/or Tok Pisin vocabulary.22 In this section I briefly outline some of the most
+common ways in which these words are altered to fit the Duna phonemic inventory and requirement for open syllables, referring to numbered loan word (LW) examples as listed in Table 2.36 (Duna terms shown in phonemic form). However, it
+must be noted that pathways by which these terms entered into the Duna vocabulary may be indirect and complex. For example, it is not unlikely that some terms
+were first borrowed into neighbouring languages such as Huli, adapted to the Huli
+sound system, and then passed on to Duna without direct transmission from the
+‘original’ language. Further, in many cases it is unclear whether the Duna term is
+derived from English or Tok Pisin, which itself imposes phonological changes on
+English-derived lexical items. Additionally, the consonantal system of Tok Pisin
+varies widely both historically and geographically, so it is not always clear exactly
+what sounds were used by the people that introduced Tok Pisin-derived terms to
+Duna speakers. Thus, I present here some typical correspondences rather than unequivocally Duna adaptative processses.
+Consonants of English or Tok Pisin correspond to what is perceived as the
+closest match in the Duna system. Voiced stops correspond to Duna prenasalised
+stops; see example words LW4-7. Voiceless fricatives correspond to voiceless aspirated stops word initially (LW1 and 2), and voiceless stops word-medially (LW9).
+Word-initial alveolar liquids typically correspond to the alveolar lateral flap (LW11
+and 12). A word-initial voiceless alveolar stop usually corresponds to an alveolar
+flap (LW10). English voiceless alveo-palatal fricative or affricate consonants (in
+non-initial position) correspond to voiceless dento-alveolar stop phonemes (LW9
+and 13).
+Duna does not allow phonemic consonant clusters. Consonant clusters in foreign words are typically broken up by an intervening vowel (LW1 and 6), or simplified to a single consonant (LW3 and 10). An exception to this is if the cluster
+consists of a homorganic nasal + oral stop combination, in which case this can be
+retained as a prenaslalised stop (LW3).
+Duna syllables are open, and consonantal codas do not occur. A final vowel is
+added to words derived from foreign terms that end in a closed syllable. Typically
+the added vowel is /i/ following a back consonant and /u/ following a non-back
+consonant, as seen in LW4-11. However, there is also some variation between these
+vowels and /a/ (LW4 and 5), and E is also sometimes used, as in LW3.
+22See also Cochrane and Cochrane (1966:24) for some discussion of words and phrases introduced into Duna vocabulary for the description of novel items, for example rama anga ‘devil/spirit2.2. Contrastive lexical pitch on monomorphemic words55Table 2.36 Some Duna words derived from English and/or Tok PisinLW Duna
+Tok Pisin
+1
+ph EkEtERi
+(?)fekteri
+h
+2
+t ukuÕi
+skul
+n
+3
+kO daREkE kontrek
+m
+4
+buku/a
+buk
+m
+5
+baluti/a balus
+m
+6
+bitikati
+bisket
+n
+7
+daniti
+danis
+8
+mitini
+misen
+9
+maRatini
+marasin
+10 ROti
+tots
+11 Õati
+rais
+12 ÕEta
+resa
+13 ÕOti
+lotuEnglish
+‘factory’
+‘school’
+‘contract’
+‘book’
+(‘aeroplane’)
+‘biscuit’
+‘dance’
+‘mission’
+‘medicine’
+‘torch’
+‘rice’
+‘razor’
+(‘church’)2.2Contrastive lexical pitch on monomorphemic words2.2.1IntroductionHyman (adapting from Welmers 1959 and 1973) defines a language with tone as
+“one in which an indication of pitch enters into the lexical realisation of at least
+some morphemes” (2006:229). Lexical roots in Duna are realised with contrastive
+pitch contours, and the language exhibits a word tone system in that “the word as a
+whole is more important than the syllable as a domain for the assignment of tones”
+(Donohue 1997:360). Contrastive tone melodies are contracted or stretched to fit as
+many syllables as there are in the word.23
+My understanding of Duna tone is preliminary and I have not achieved a coherent analysis of Duna tone as a linguistic system (or indeed as a part of a group
+of inter-related prosodic systems). This description is largely limited to outlining
+the fundamental frequency (F0 ) signatures of four distinct pitch contours24 as they
+nut.pandanus’ for ‘corn’. Corn is now commonly termed kon anga in the Kopiago area.
+23
+Giles (MSb) describes the tone system of Duna as follows: “Duna is a tone language. Depending
+on whether a word is uttered in a rising, falling, or level tone its meaning is altered. It appears that
+syllables may have a mid, high, level, rising, or falling tone”. Whilst she clearly suggests in the
+second sentence that the domain of contrastive tone is the word, she does not comment on how this
+relates to the five proposed syllable tones. Her analysis of level, rising, and falling tonal contrast
+largely concords with my own assessment.
+24
+As pointed out by Rose (1989), fundamental frequency (an acoustic property) does not directly
+correspond to tonal pitch (a linguistic property), as “tonal pitch is the perceptual result of both
+general auditory and speech specific processes [e.g., speaker and context normalisation] operating
+on F0 ” (1989:61). Rose further demonstrates that some changes in F0 are intrinsic, that is, “not
+deliberately produced, but occurring as the result of some other, deliberate gestures (F0 targets;
+voiding on intervocalic consonants)” (1989:73). However, fundamental frequency is indicated as a
+basic term in the function that relates acoustics to tonal pitch (Rose 1989:61, 78) and a description56Chapter 2. Phonologyoccur on monomorphemic (non-verb) roots of up to three syllables, in citation form
+(§2.2.2). In §2.2.3 I provide some discussion concerning the identification of underlying contrastive tone melodies that predict these pitch contours.
+2.2.2
+2.2.2.1Citation pitch contours
+OverviewI describe monomorphemic lexical roots in Duna as being realised with one of four
+pitch contours: fall (F), rise (R), convex (C), or level (LV).25 The pitch contours can
+be distinguished using the features ‘UP’ (upward movement) and DOWN (downward
+movement), as shown in Table 2.37. The typical range of the contours is shown in
+the rightmost column; ‘h’, ‘m’ and ‘l’ signify high-range, mid-range, and low-range
+fundamental frequency, respectively. This notation is not intended to represent actual linguistic units in Duna (for example, tonemes or prescribed pitch targets), but
+is used as a way of describing the general shape of a contour with respect to the
+‘F0 space’ that a speaker typically covers uttering words in isolation in a citation
+setting.
+Table 2.37 Lexical pitch contours in citation2.2.2.2ContourAbbreviationFall
+Rise
+Convex
+LevelF
+R
+C
+LVMovement
+UPDOWN+
++
+-+
++
+-Typical
+range
+hml
+lm
+lml
+mMonosyllablesTable 2.38 shows some sets of minimal and near-minimal pairs/triplets on monosyllables with respect to pitch contour. Although distinct rising and convex contours
+are observable on monosyllables, as illustrated in Figures 2.2 and 2.4, I have not
+noted any minimal pairs for which this distinction is a basis for lexical contrast.
+The current data thus suggest that a distinction between rise and convex is only
+exploited in polysyllabic words; see §2.2.3.
+Figure 2.1 shows the F0 traces (as generated by Praat 4.2.05) of two monosyllabic words with level contour, se ‘be leisurely’ and ndo ‘suck’.26 On monosyllables
+of F0 thus informs us of at least one parameter that is vital to an understanding of the Duna tonal
+system. That the four F0 patterns I describe are linguistically relevant is attested by the fact that they
+correspond to contrastive pitch patterns in the lexicon.
+25
+I use a two-letter abbreviation for ‘level’ because ‘L’ is typically used in the literature to designate elements that are to do with ‘low’ tone.
+26
+Dotted vertical lines show approximate segment edges, judged from spectrograms and formant2.2. Contrastive lexical pitch on monomorphemic words57Table 2.38 Pitch contrast: monosyllablesFallConvexLevelt Eht Eth E‘shore’‘origin’‘be leisurely’ph Ouph OupOu‘eight’‘grassland’‘full’hOhO‘here!’‘roofbeam’hRisekaOkaO‘spell’‘lie’kihi‘hand/arm’‘forest’NgiÕi‘give.me’‘enjoy.food’nOndOmOn‘I’‘suck’‘like’‘one’duthe level contour is generally produced in the mid area of a speaker’s range. There
+is usually a slight drop in F0 throughout the utterance, as can be seen in both of the
+words represented. I attribute this to declination.
+ndo ‘suck’ (Speaker: KK)
+250200200
+Pitch (Hz)Pitch (Hz)se ‘leisurely’ (Speaker: RA)
+250150
+100
+50150
+100
+50se0nd
+0.599665Time (s)o00.503405
+Time (s)Figure 2.1 F0 traces of two level contour monosyllablesFigure 2.2 shows the F0 traces of two monosyllabic words with a rise contour,
+hi ‘forest’ and mo ‘like’. While aurally striking, the rise contour typically has a
+narrower Hz range than the fall contour (see following), and the highest point of
+values as rendered by Praat. These segments are represented in the bottom line of the figure as per
+their orthographic symbol (§2.3). As can be seen in several of the figures in these sections, the F0 line
+can continue for a short time after the indicated rightmost edge (i.e., going beyond the final vertical
+dotted line). I identify the rightmost edge of a word-final segment at a point where the energy of F0
+becomes negligible and the amplitude of the spectrum drops strongly, correlating to the cessation of
+voicing. I do not regard the F0 reading as linguistically significant after this point, and do not include
+it as part of the Hz range covered by a pitch contour.","[82, 83, 84, 85, 86]"
+"(448)na Rodni =kho-ta ruwa-nda ruwa-ta hiwa-ya-roko
+1SG PSNkone=3SG-LOC say-INTpeli peyaneya-na-nano hakasay-SEQ go.out-DEP-SW. SIM 1SG talkwa-ta, no ra-oINTENS well do. IPFV NOT- HAB - SPEC do- SEQ 1 SG be/sit- PFV‘Wanting to speak directly to Rodney [i.e., rather than have someone take a
+message out to him], I was going outside but I don’t speak Duna [lit. real
+talk] well so I sat back down.’ (ED/VIII:59)6.6. NP marking: grammatical relation and prominence217In sum, the use of third person pronouns constitutes a reference strategy that
+is typically associated with animacy and discourse prominence but can, especially
+in the case of non-subject participants, additionally indicate pragmatic prominence.
+This situation is somewhat parallel to contrasted subject marking, which is formally
+associated with a particular grammatical function, but can, especially in the case of
+S (as opposed to A) arguments, mark contrastive focus; and also to -nga marking,
+which can indicate a structurally relevant feature, reflexivity (a single participant
+occupies both the A and P argument slots of a bivalent clause) and/or emphatic
+identification.","[245, 246]"
+"74Chapter 3. Word classesnot modified by postposed constituents such as quantifiers and demonstratives, and
+unlike both common nouns and proper names they do not occur as nominal specifiers. Personal pronouns (excluding special contrasted subject (CS) forms, see
+Table 3.3) can be doubled to emphasise the solitary nature of a participant (§5.4.2.3).
+They may also be marked with the ‘exclusive identity’ marker -nga (§6.6.2). This
+morpheme does not occur on other nominals (although it is applicable to locational
+demonstrative roots, see §6.4.4.1).
+The ‘unmarked’ set of personal pronouns (that is, as opposed to CS forms) distinguishes first (1), second (2), and third (3) person and singular (SG), dual (DL),
+and plural (PL) number as shown in Table 3.2. Within the plural pronouns, there
+is a conflation of the first and second person reference forms. Third person pronouns can be encliticised to NPs, and are typically only used in denoting subject
+arguments and possessors (§5.3.1.1, §6.6.3).
+Table 3.2 Personal pronouns1
+2
+3SGDLPLno
+ko
+khokeno
+nako
+khenoinu
+inu
+khunuSingular and dual personal pronouns are unique in having special ‘contrasted
+subject’ forms or stems, rather than applying the regular contrasted subject marker
+-ka to the unmarked pronoun (which is the pattern for plural pronouns). These
+special forms are shown in in Table 3.3, and discussed in more detail in §6.6.1.
+Table 3.3 Personal pronouns: singular and dual contrasted subject forms1
+2
+33.3SGDLna
+ka
+khakena(-ka)
+naka
+khena(-ka)VerbsWords that are members of a ‘verb’ class typically express actions, processes, and
+states (Schachter and Shopen 2007:9; Evans 2000:712). A Duna verb typically
+functions as the head of a clausal predicate, in which case the verb root must be
+inflected (either medially or finally). The ordering of bound verbal morphology is
+represented in Figure 3.1. Derivational affixes and directional demonstrative roots3.3. Verbs75occur in the ‘modifier’ position following the verb root (§7.2). The negative circumfix (§8.3) is applied to the (modified) stem, deriving a negative stem that can be
+used as a medial or final verb or have inflectional morphology added to it (that is,
+once the negative circumfix has been applied to a verb, further inflectional marking is possible but not strictly obligatory). With respect to final verbs, ‘inflectional
+morphology’ includes tense, aspect, and event modality markers (§8.2), evidential
+markers (§9.2), and information status markers (§9.3). Duna also has a range of
+medial inflectional morphemes (not described in this thesis) that typically indicate a
+time or aspect value with respect the following clause (for example if the predicated
+activity is completed before the activity predicated in the following clause begins)
+as well as signaling features concerning ‘cohesion’ (for example, if the identity of
+the controlling argument changes from one clause to the next). In complex predications up to three verb roots can occur in series, with only the last verb of the series
+bearing inflectional morphology (§7.3).
+—————————————————————————————
+NEG - Verb root - Modifier - NEG - Inflectional morphology
+—————————————————————————————
+Figure 3.1 Ordering of verbal morphologyPredicating verbs determine the argument structure of a clause (although see
+also Chapter 7 concerning complex predication). I describe verbal roots in Duna
+as monovalent (taking one argument), bivalent (taking two arguments) or trivalent
+(taking three arguments). Monovalent, bivalent, and trivalent clause types are described and exemplified in §4.1. Some verbal roots can take either one argument or
+two arguments and I refer to these as ambivalent verbs (§4.2.3.4).
+There are three (partly cross-cutting) closed verb classes within the class of
+verbs. Two of these are defined on the basis of shared morphological and distributional characteristics. The third group, existential verbs, is defined through a
+combination of formal and functional features.
+3.3.1Morphologically distinct verb classesThere are two groups of Duna verbs that have distinct morphological and functional
+properties. I refer to these as the ‘consonantal verbs’ and the ‘wa-class verbs’.6
+Consonantal and wa-class verbs are high frequency7 and have quite general lexical
+meaning. They are the only verbs that occur in combination with verb adjuncts
+(§7.4). These two groups are listed here and described in more detail in Chapter
+6Giles (MSa) identifies these two verb groups and refers to them as the irregular verbs and waclass verbs, respectively.
+7
+For example, a count of verbs in a short text (excluding immediately adjacent repetitions)
+showed that of 60 tokens, 40 were either consonantal or wa-class verbs.","[102, 103, 104]"
+"1SG.CS wash take-HAB-TYPE EPA-CNCL fashion-AGAIN-PFV‘I fixed up the thing for washing [i.e., shower basin] in there again.’ (T/JP:250903)
+5.2.1.2Free lexeme + ‘word-like’ dependent formIn this section I describe two operations which are similar to a compounding operation (§5.2.1.3) in that a morpheme with denotative meaning is added to a lexical
+root to form a noun. However, the second morpheme in the construction is not itself
+a free form (although in one case it is transparently related to a free form).
+The suffix -nda (ENCL) occurs on nominals and demonstratives to form a noun that denotes an enclosure or shelter.8 This morpheme is
+transparently related to the common noun anda ‘house, home, dwelling’; see further remarks at the close of this section.
+Some examples of ‘enclosure’ nouns are: khananda ‘cave’ from khana ‘stone’;
+hinanda ‘men’s house’ from hina ‘sweet potato’ (presumably because men would
+traditionally eat together separately from women); palenda ‘bachelor cult enclosure’ from palena (a sacred plant of the bachelor cult); and sikinda ‘hospital’ from
+siki ‘sickness’ (<Tok Pisin/English).9
+The enclosure marker -nda is commonly suffixed to social grouping names
+(§3.2.2.3), for example, in Mbaranda from the parish name Mbara. The derived
+term refers specifically to a (literally or notionally) enclosed locus of domestic settlement belonging to the parish, making it clear that it is a place rather than a people
+or language that is being referred to.
+Enclosure marker -nda7However, this may be a fossilised rather than productive composition. In some instances the
+first vowel of -na is reduced, being realised as [E] or [@], and this is not a usual feature of the habitual
+morpheme.
+8
+Where the final syllable of the root word starts with an alveolar nasal, this syllable is commonly deleted upon the addition of the enclosure marker, i.e., the word undergoes haplology. For
+example Hirane (a parish name) in combination with -anda is usually Hiranda (‘Hirane enclosure’)
+not Hiranenda.
+9
+Compare the Tok Pisin term for hospital, ‘haus sik’ (‘haus’ = ‘building, house’, ‘sik’ = ‘sickness’).",[160]
+"1024.1.2.4Chapter 4. Basic clause structureNon-verbal roots as monovalent predicatesAdjectival roots can be marked with inflectional morphology and occur as heads
+of monovalent clauses. Examples (50) and (51) show adjectival roots occurring as
+monovalent predicates.
+(50) Kui anoa nguni kone, Yuna anoa-ka paya-na.
+GPN manbadINTENS GPNman-CS good-HAB‘Huli men are very bad, Duna men behave well.’ (CED/XV:7)
+(51) no rakare-yarua.
+1SG cold-SNS . C‘I am cold.’ (CD/III:71)
+Note that in (50), the single argument of this monovalent clause, Yuna anoa
+‘Duna men’, is marked with the contrasted subject marker -ka (§6.6.1). KK judged
+that his would be unacceptable in a clause headed by a non-verbal adjectival predicate (i.e., one that is not marked with inflectional morphology, see §4.1.1), as shown
+in (52).
+(52) * anoa ha-na-kapaya koneman there-SPEC-CS good INTENSThat man is very good (CD/XV:6)
+4.1.3Bivalent clausesBivalent clauses are headed by a predicate that semantically requires two participants. For example the bivalent verb sa- ‘strike, hit, kill’ subcategorises for a
+striker and a thing that is struck. The verb encodes an activity that includes an
+agent, “a participant which the meaning of the verb describes as doing something,
+or causing something to happen” and a patient, “a participant which the verb describes as having something happen to it, and as being affected by what happens to
+it” (Andrews 2007:137). I refer to items that fill the participant slots of a bivalent
+clause as ‘A’ and ‘P’ arguments. Typically an A argument has agent-like semantics
+and a P argument has patient-like semantics, but this is not always the case. For
+example, the verb may specify other kinds of semantic roles such as the theme and
+path required by the verb mbite-, ‘cross (a waterway)’; or a bivalent verb may be
+used in expressing an involuntary experience in which the A argument is an experiencer and the P argument a stimulus (§7.6).
+An A argument can be realised in the clause as an NP, or through zero anaphora (§4.2.3.3). An A argument NP is typically either obligatorily marked as a
+‘contrasted subject’, or eligible for contrasted subject marking if certain pragmatic
+conditions exist (§6.6.1). The identity of an A argument restricts or predicts the4.1. Clause types103range of bound morphemes that can be applied to the predicate (§11.2). Unlike P
+arguments, third person A arguments may typically be referenced by an NP that includes a free or dependent personal pronoun without any implication of pragmatic
+prominence (see sections 5.3.1.1 and 6.6.3).
+A P argument can be realised as an unmarked NP (that is, one that is not overtly
+marked for semantic role, grammatical relation, or prominence, see Chapter 6),
+an NP marked with -ta ‘LOC’ (§6.3.4.2), or have zero anaphoric reference. A P
+argument NP is never marked as a contrasted subject, and its identity does not have
+direct bearing on predicate morphology.
+Three examples of bivalent verbal clauses are shown in (53) - (55). In each
+case the P argument is realised as an unmarked NP. The A arguments are realised
+as either an unmarked NP (example (53)) or an NP that is marked as a contrasted
+subject (examples (54) and (55)). In each example the A argument NP precedes the
+P argument NP, and this exemplifies typical word order (§4.2.2).
+(53)ko ita-nano-rane...","[130, 131, 132]"
+"1SG
+which
+[[PPro]N P :poss ]N P‘Which is mine??’ (OH/V:14)
+5.2.6.2PP possessorsExample (184) shows N preceded by a possessor-referent phrase formed with the
+possessor/beneficiary postposition -ya. Possessors are more typically coded as PPs148Chapter 5. Constituents of nominal phrasesin phrases that describe a situation with an animate possessor and an alienable inanimate possession (§6.5.4).
+(184)[[no-ya] ndune ndu]
+1SG-BEN thing one
+Q]N P
+[[PP]poss N‘something of mine’ (T/JP:KG05V7.11)
+A possessor-referent PP can occur without a possessum-referent noun, as exemplified in (185).
+(185)[[no-ya] hinia kone] mangene kone=nia.
+1SG-BEN thisINTENS important INTENS= ASSERT‘This exact one of mine is very important’ (T/PK:080605ii)
+Some evidence that a possessor PP is internal to the NP is provided by the fact
+that it can bear specificity marking and locative marking. In (186), the possessorreferent PP [[inu]N P -ya]P P is marked with the NP marker -na ‘SPEC’ (§6.3.2.1).
+(186)[[inu-ya] -na]
+1/2PL-BEN -SPEC
+[[PP]poss ]N P‘the one of ours’ (IV/HY-PK:150605)
+In (187), the possessor-referent PP [[ko]N P -ya]P P occurs in a LOC-marked nominal phrase (§6.3.4.2) in which the notional head of the NP is not lexicalised. This
+sentence fragment was described by PK as being a suitable answer to the question
+‘Whose canoe will you travel in?’ (214).
+(187)[[ko-ya] -ta].
+2SG-BEN -LOC
+[[PP]poss ]N P‘[I’ll go] in yours.’ (CD/VIII:59)5.3Personal pronoun, PN, and interrogative NPs5.3.1Personal pronounsPersonal pronouns by nature usually have referents that are highly individuated and
+unique. They are typically unmodified, occurring as the only lexical constituent
+of an NP (although see also §5.4.2.2 and §5.4.2.3 concerning the occurrence of
+personal pronouns in complex nominal phrases, and §6.6.3 concerning third person
+pronouns that are encliticised to a common noun or proper name NP). Examples
+(188) - (190) show nominal phrases that consist of a singular personal pronoun. The
+first person form no is used in reference to a single speaker (roughly, the person who
+is talking), the second person form ko in reference to a single addressee (roughly,5.3. Personal pronoun, PN, and interrogative NPs149the person the speaker is talking to) and the third person form kho in reference to a
+single ‘other’, someone who is neither speaker nor addressee.21 Special reference
+properties of third person pronouns are discussed in more detail in §5.3.1.1.
+(188)...no waki-u.
+1SG hear-PFV‘...I heard.’ (T/KK:090305)
+(189)ko waki-u=pe.
+2SG hear-PFV=Q‘Have you heard?’ (ED/XIV:121)
+(190)...kho waki-u.
+3SGhear-PFV‘...he heard.’ (T/TK:050305ii)
+Dual personal pronouns are used in reference to a pair of people (or other high
+animates, for example, magic animals). Examples that illustrate the pronoun keno
+‘1DL’ are shown in (191) and (192). In (191), keno is ‘inclusive’, used in reference
+to a pair composed of the speaker and the addressee. In (192) it is used in ‘exclusive’
+reference, denoting a pair composed of an the speaker and an ‘other’.
+(191)keno ngoae.
+1DL go.HORT‘Let’s (you and me) go.’
+(192)keno ha-tia yakuwa-na.
+1DL there-GP carry-HAB‘We two (my mother and I) would carry those things.’ (T/HS:061103iii)
+Examples (193) and (194) show the second person dual pronoun nako, and example (195) the third person dual kheno.
+(193)Rodni-ne Melo-ne, nako Justini-ta ke-pa.
+PSN - PRPSN - PR2DLPSN - LOCsee-IMP‘Rodney and Melo, you two look at Justin.’ (ED/III:60)
+21These ‘common sense’ definitions of speaker, addressee and other follow from a fairly prototypical utterance situation and do not precisely capture all circumstances in which we may be able
+to identify speaker and addressee parties. For example, someone might appear to address one person
+whilst intending that his or her utterance be heard and acted upon by someone else; see Goffman
+(1974) and Levinson (1988) for detailed proposals of how speaker and addressee roles can be systematically decomposed into more narrowly defined roles to cope more explicitly with these kinds
+of circumstances. Irvine (1996) asserts the relevance of this approach for analysing language, but
+argues that it remains useful to maintain the maximally simple set of speech event participant roles
+(speaker, addressee, other), and derive more subtle types through reference to the complex variety
+of ways these are enacted, referenced, and evoked in a given speech situation.","[176, 177, 178]"
+"1.4Thesis overviewThis thesis describes certain structures of Duna grammar that are used in building
+simple sentences, and looks in detail at some semantic themes that are encoded in
+the bound morphemes of the language, particularly those that are to do with expressing attitudes to knowledge. It is an introduction to the language, and does not
+present a comprehensive inventory of Duna grammatical morphemes and operations, or deal with complex sentence structures (for example, those involving clause
+embedding or coordination).
+Chapter 2 provides an overview of Duna phonology, including a description of
+the phonemic inventory and the major allophones of these phonemes, and a preliminary statement concerning lexical tone in monomorphemic words. In Chapter 3, I
+define Duna word classes as referred to in this thesis, and list the known members
+of small closed classes. Chapter 4 presents an overview of major clause types and
+features of basic clause structure.
+In Chapters 5 and 6, I examine the structure of nouns, nominal phrases (NPs),
+place phrases (PlcPs), and postpositional phrases (PP), constituents that typically
+occur to represent participants in the clause. This includes an account of morpholo-1.4. Thesis overview27gically complex nouns and the lexical structure of NPs (Ch. 5), and itemisation and
+illustration of bound morphemes that indicate the epistemic positioning, number,
+definiteness, grammatical function, semantic role, and/or prominence of the phrase
+to which they are added (Ch. 6).
+In Chapters 7 to 11, I look in more detail at predicating constituents. Chapter
+7 provides examples and discussion of certain complex predicate constructions, including complex verbs, serialised verbs, and predicates that are composed of a verb
+in combination with a free lexeme such as a noun or adjective.
+Chapter 8 begins my exploration of bound forms that occur on ‘final’ predicates.
+Final predicates head an independent clause that constitutes a complete sentence
+in itself, or occurs last in a chain of dependent clauses. Chapter 8 is concerned
+with inflectional forms that occur on verbs, and indicate time, event modality, and
+polarity features of the predicated activity, for example whether it is complete or
+ongoing, or whether the speaker desires it to occur.
+In Chapter 9 I describe two groups of bound forms (evidential and information
+status markers) that a speaker can use as final verb inflections to supply an epistemic
+assessment of the proposition that is encoded in the utterance, as well as to supply
+temporal information. Evidential markers typically indicate a source of information
+(for example, whether the predicated activity was seen to occur), and information
+status markers encode other kinds of attitudes towards the proposition (for example
+as knowledge that is new or familiar).
+In Chapter 10, I illustrate complex final morphology constructions in which
+evidential and information status markers are added following inflected verb forms
+rather than bare roots, discuss the use of these forms in non-verbal clauses, and
+introduce some further bound forms and constructions that are concerned in the
+expression of epistemic assessment.
+Chapter 11 examines final predicate markers as described in Chapters 8 to 10
+with respect to the sentence types of Duna, focussing on the way that certain forms
+make different predictions about the relationship of the speaker to the proposition
+in interrogative as opposed to non-interrogative sentences. In this last chapter I also
+provide an overview of epistemic assessment and the final predicate in Duna.","[55, 56]"
+"1SG netbag ETO-SPEC desire-SEQ be/stand.STAT‘I desire the netbag over there.’ (ED/XIV:135)
+(163)a. nane kete-na-kari-ya,no rili hinia pele-ya-roko,boy small-SPEC-CS say-DEP 1SG grub thispele-ya-rokoextract-DEP-SW. SIMke-ta,extract-DEP-SW. SIM see-SEQ‘The little boy said, I am getting out these grubs, trying to get them out,
+b. sopa-nasa-noandi ka-tabelow-SPEC take-DES tiesaho-mekei-na.kabe/stand-SEQ be/stand.STAT-SPEC 2SG.CSri-tiari-na.take.IMP here-MNR say-PFV.VIS . P say-SPECand the low ones are hard for me to get. You get them! So he spoke it
+is said.’ (T/JS:KG05V5.40)
+(164)ae, rili sopa-nasa-noandi ka-taexcl. grub below-SPEC take-DES tiesaho-meri-tiakei-na.kabe/stand-SEQ be/stand.STAT-SPEC 2SG.CSri-natake.IMP here-MNR say-PFV.VIS . P say-SPEC‘Oh, the low grubs are hard for me to get. You get them! So he spoke it is
+said.’ (T/JS:KG05V5.40)
+Example (165) shows an NP in which the name of a mountain, Phawa, is modified by a directional demonstrative. I treat a nominal phrase in which a lexical item144Chapter 5. Constituents of nominal phrasesthat is typically identifiable as a proper name is modified by a postposed adjective, quantifier, and/or demonstrative, as structurally equivalent to a common noun
+NP rather than a proper name NP. That is, I understand the PSN (personal name),
+PLN (place name), or GPN (group name) as representing an ‘N’ rather than a ‘PN’
+constituent.
+(165)[Phawa roma-na-ka] wa-ya...
+PLN[Nabove-SPEC-CS smile-DEP
+Dem]N P‘The Phawa [mountain] above smiled...’(T/HY:201003iii)
+In telling a narrative, sopa ‘below’ can denote an earlier point in the story; events
+or things that have already been described are ‘lower’ than the current topic. Thus,
+if a speaker has to back-track to an earlier point in a narrative (for example, if they
+have forgotten to include an important part of the plot), they will introduce this by
+saying they ‘forgot something below’ or similar; see for example (787) in §9.2.5.2.17
+The term eto is used in denoting successive time periods. For example, the week
+(sarere, from Tok Pisin) following the current week (‘next week’) is referred to as
+sarere eto.18
+5.2.5Co-occurring adjectives, quantifiers, and demonstrativesAdjectives, quantifiers and demonstratives can co-occur in one NP, as represented
+in Figure 5.1. More specifically, it is common for adjective NP constituents to be
+followed by quantifiers or demonstratives, but unusual for quantifiers and demonstratives to occur together.
+Examples (166) and (167) show nominal phrases in which a quantifier follows
+an adjective.1917There is some evidence that roma is conversely used in anticipation of new things to come. For
+example the conventional phrase roma ai ‘above who?’ that is used at the beginning of text/melody
+blocks in sung pikono typically occurs at the introduction of new characters, whereas sopa ai ‘below
+who?’ is used when returning to the activities of old characters who are already known. However
+I have not examined whether this correlation holds true in all cases. The pairing of ‘below’ and
+‘earlier’ may relate to the fact that in typical traditional stories the hero starts in a low altitude area
+and travels into a high altitude area (see Kendoli forthcoming). This may in turn reflect larger themes
+in Duna cosmology, as human life itself is described as having begun in the lowlands and moved up
+into the higher country (see Haley 2002).
+18
+There is some evidence that eto is also used for linking/temporal ordering in descriptions of
+successive events, that is, with a roughly equivalent function to ‘then’ or ‘next’ in English sentences
+such as ‘He went to the house, then/next he called his sister’.
+19
+Note that in the case of (167), the meaning of the sentence discourages an interpretation of the
+adjective as being part of a smaller unit with the noun that is then modified by the quantifer. That is,
+the sentence does not appear to mean ‘eat [many [big choko runners]]’.","[172, 173]"
+"4.2. Participant reference in verbal clauses125Example (104) shows an NP that is left dislocated when its referent is already
+known but has not been mentioned for several clauses. The mother (antia) has not
+been referenced (either overtly or through zero anaphora) for nine clauses.
+(104)sei si-ya-takho koro-ya-ta.antia =kho, mondo-ndatake hold-DEP-SEQ 3SG steambake-DEP-SEQ mother =3SG garden-INTka-ta,...
+be/stand-SEQ‘[The father] took [the boy] and cooked him. The mother, planning to
+garden,...’ (T/RP:270405ia)
+Example (105) is taken from a story that appears to be based on Jack and the
+Beanstalk. The bean seed (mbatano eke) has been introduced into the narrative
+previously and referred to several times when the main character (a boy) sees and
+buys the bean at a market. It has not been referenced for six clauses which detail
+the boy’s return home and his attempt to conceal his activities from his watchful
+mother.
+(105)kho hahoa-taka-tambatano eke-na3SG hastily come-SEQ be/stand-SEQ beansopa-kaanda haneseed-SPEC house sidendu iwa-o.below-PLC one plant-PFV‘He came quickly and the bean seed [he] planted it by the lower side of the
+house.’ (T/PK:080605ii)
+The linking and reactivating functions of left dislocation are not distinct, as reactivation builds on the fact that a participant is already known, that is, is a potential
+link.
+4.2.4.4Right dislocationIn what I term right dislocation in Duna a participant is referenced or reiterated
+following the predicate. The final verb of the clause has closing intonation, and the
+final NP is tacked on as an afterthought. Right dislocation is used in clarification,
+for example to repair a sentence that contains hesitations, truncations, repetitions
+and/or referential ambiguity (106 and 107), or to expand on something the speaker
+feels they have described erroneously or imprecisely (108).
+(106)ho-ra-kakhena ra.. anda ngi-ya. ingini ndu su.here-SHRD-PLC 3DL?house give-DEP sonone hold.PFVima-na-ka.
+woman-SPEC-CS‘There the two of them li-.. [he] gave [her] a house. Bore a son. The woman.
+(T/TK:050305ii)126(107)Chapter 4. Basic clause structureantia, yopo,antia yopo,no- kho- a- kho nga-nda, anda-tamother afternoon mother afternoon 1SG 3SG ? 3SG go-INThouse-LOCnga-nda. yopo.
+go-INTafternoon‘The mother, in the afternoon, the mother in the afternoon, I- she- a- she
+planned to go, go home. [In the] afternoon.’ (T/RP:270405ia)
+(108)...mbatano eke-na
+beananda hane sopa-kandu iwa-o.anda haneseed-SPEC house side below-PLC one plant-PFV house sidese -ra-ka.
+base -SHRD-PLC‘...the bean seed [he] planted it by the lower side of the house. At the base
+of the side of the house.’ (T/PK:080605ii)Chapter 5Constituents of nominal phrases
+5.1IntroductionThis chapter outlines the structure of nominal phrases (NPs) and describes in more
+detail the words that can occur as part of them, including common nouns, adjectives,
+quantifiers, demonstratives, proper names, personal pronouns, and interrogatives.
+The chapter examines properties that are relevant at the word level (for example,
+the morphological structure of nouns), and those that apply at the phrase level (for
+example, what words do and do not typically co-occur within an NP), as well as outlining some features of NPs that have to do with the clause as a whole (for example,
+reference properties of personal pronouns with regard to grammatical relation). It is
+mainly concerned with free and phrasal rather than bound constituents of referring
+expressions, the latter being described in the following chapter.
+Nominal phrases are (potentially) referring expressions that describe entities,
+typically those that are participants required by the predicate that heads the clause
+in which they occur. A nominal phrase functions as one constituent within the larger
+structure of the clause. It may consist of a single word, or a sequence of words that
+follow a fixed templatic order. Morphological operations that relate to features such
+as specificity or semantic role are applied once to this constituent as a whole.
+The clause shown in (109) contains one nominal phrase, describing the single
+participant (the subject) required by the monovalent verbal predicate he- ‘cry’. This
+NP includes a common noun ima ‘woman’, an intensified adjective khera kone ‘very
+old’ that describes a further property of the woman, and the quantifier ndu which
+indicates both singularity and indefiniteness.
+(109)[imakhera konewoman old
+NPndu] he-ya...","[153, 154, 155, 156]"
+"18Chapter 1. IntroductionGiles typically worked with Duna speakers at Kelabo in the south-east region
+(see §1.2.1), or with Duna students who were attending Koroba High School (again
+predominantly drawn from the south-east region). I initially approached her work
+with strong doubts about its relevance to a study of Duna as spoken in Lake Kopiago, as a number of people had made comments that her materials represented a
+very different variety of the language.28 However, the differences I have found
+between Giles’ manuscript data and the 2003-7 data collected from Duna speakers
+of the north-west region are quite small,29 and less than I originally anticipated.
+Giles’ manuscripts have been extremely useful to me in my study, particularly in
+the middle stages of my work.30 Her materials have in many cases provided me with
+ideas and/or confirmation concerning analyses of many forms and structures in the
+2003-7 data, as well as additional language data through the example sentences that
+she provides throughout her materials (see also §1.3.3). Although our approaches
+are quite different (for example, her purpose is primarily pedagogical whereas mine
+is descriptive) and our structural analyses of the Duna language diverge in many
+respects, my description owes a good deal to Giles’ earlier work. I have noted
+very few bound forms that Giles does not provide some mention of in her work,
+and very few instances of a significantly divergent semantic interpretation of these
+forms from the ones I present in this thesis. In several cases I have adopted the
+labels that Giles proposed for particular verbal inflections and verb classes, and this
+is indicated when the terms are first introduced. Throughout this thesis I further
+reference other sections of Giles’ work which I found especially comprehensive,
+and/or which I judge contributed significantly to the development of my analysis.
+As intimated throughout this chapter, the Duna world has been investigated and
+described by researchers in the fields of anthropology and ethnomusicology. Several of these researchers include extensive documentation and discussion of Duna
+vocabulary, as well as including Duna text in their works. I also draw upon these
+sources to some extent in my analysis of the language and these are cited as relevant
+28Duna speakers (from Lake Kopiago) with whom I was able to work before going to the field
+suggested that Giles’ work was a description of Duna as spoken in the south-east, and was not
+highly applicable to north-west Duna. Academic researchers working in Lake Kopiago, Horale, and
+the Aluni Valley also all reported that Giles’ description was unhelpful to them in terms of language
+learning in the field (which is not to say that they did not learn Duna), and the main reason given for
+this was dialect difference.
+29
+For example, there are a few cases where a bound morpheme described by Giles was unattested
+in the 2003-7 textual data. The Duna speakers I worked with found these forms readily interpretable,
+but typically identified them (in full knowledge that I had noted them in Giles’ work) as being
+specific to south-east Duna or being of Huli origin. Some lexical differences were also noticeable
+(§1.2.1).
+30
+This statement has a kind of backwards logic, but is nevertheless true; it was often only after I
+had independently arrived at a tenable analysis of something that aspects of Giles’ description would
+suddenly make perfect sense. See §9.2.6.3.","[46, 47]"
+"132Chapter 5. Constituents of nominal phrasesThe enclosure marker occurs productively with demonstrative roots as well as
+nominals. An example is shown in (120).
+(120)hatainuroma-nda u.yesterday 1/2PL above-ENCL sleep.PFV‘Yesterday we slept at the upper dwelling.’ (T/HK:250903)
+As mentioned previously, the enclosure marker is related to the noun anda
+‘house’, and in some cases there is variation or ambiguity as to whether a phrase
+represents a derived ‘enclosure’ term or a possessive construction in which the first
+noun refers to the ‘owner’ of a house. For example, in describing a ‘mourning
+house’ (a place where people gather to mark a recent death, typically in company
+with the corpse, see Gillespie (2007b:Chapter 4)) it is possible to use a possessive
+construction khene anda (‘house of death/corpse’) composed of two nouns khene
+‘death/corpse’ and anda ‘house’, or a derived term, khene-nda (death-ENCL). Note
+however that derived forms behave differently to NP phrases headed by the free
+form anda with respect to how they combine with NP markers. A nominal phrase
+that is headed by anda ‘house’ is marked as locative with -ta (§6.3.4.2) when it denotes a goal or location (see, for example, 319), whereas terms derived with -nda
+‘ENCL’ typically occur as unmarked obliques (§6.4.4.4).
+The bound form -yaki attaches to a lexical root in expressions
+that denote a ‘side’, in the sense of a contrastively defined space or direction.10 In
+talking about this form, Duna speakers I worked with treated it as something that
+had independent denotative sense—that is, they would unpick it from a construction
+of which it was part as a separate term that meant ‘side’—but it does not occur as a
+free form in my data. Examples are shown in (121) - (125).
+‘Side’ marker -yaki(121)khendei ipu
+bowkhana-yaki wa ka-ya...bowstring back-sidehang be/stand-DEP‘Slinging their bows on their backs...’ (T/PK:271103)
+(122)ho-yarua-nawei-ya, no kheni ndu-yaki kutia-nihere-SNS . C-SPEC fight-DEP 1SG brother one-side be/stand.PFV.VIS . P-CMPLke-ta,...
+see-SEQ‘The one fighting, if my brother is on the other side,...’(T/PK:271103)
+(123)kheno ho-yaki ka-ta
+3DLke-ya-roko,...here-side be/stand-SEQ see-DEP-SW. SIM‘They stood on this side [of the lake] looking out,...’ (T/PK:080605ii)
+Cf. the Oxford English Dictionary definition of ‘side, n1 ’, sense 12a: “One or other direction
+to either hand of an object, space, or imaginary line; the position, space, or area implied in this”
+(Simpson et al. 1989a).
+105.2. Constituents of noun NPs(124)na,133no awe-yaki no kono ra-yanua...","[160, 161, 162]"
+"7.5. Complex predicates with nouns and adjectives243Table 7.9 Some verb adjuncts with bivalent host verbsVerb adjunct
+ngoraHost verb
+kuwa- ‘carry (within)’Meaning
+‘carry baby in netbag, bear a child’ra
+uakua- ‘hide’
+kua-‘hide (in something)’
+‘crouch down, conceal oneself’kiri
+ngora
+musuwa- ‘hold’
+suwasuwa-‘look after, tend to (livestock)’
+‘carry (child, pig, etc.) in arms’
+‘hold in the mouth’heka
+mu
+ngapu
+pia
+waka
+wayasa- ‘take, get’
+sasasasasa-‘escort and drop off (a person)’
+‘take with the mouth’
+‘signal with eyes’
+‘help, rescue’
+‘motion with hand to come’ (Giles MSa)
+‘wash (self or something)’peresa- ‘strike’‘strike with something (e.g., a stick), bat away’(543)uru mbarape-na =kho ho-ra-kara-ta,a, hina ndurat rat.var-SPEC =3SG there-SHRD-PLC be/sit-SEQ hes. sw.pot onemusi-yahoa-ta...mouth.fasten hold-DEP come-SEQ‘The mbarape rat was there, ah, it came holding a sweet potato in its mouth...’
+T/YS:KG05V7.22)
+(544)sa-ta,musa-tasu.take-SEQ mouth.fasten take-SEQ hold.PFV‘[The cat] took [the marble], took it with its mouth and held it.’
+(T/PK:080605ii)
+(545)naMonika heka si-ya1SG.CS PSNanda-ta nga-ta no riya-o.escort hold-DEP hous-LOC go-SEQ 1SG return-PFV‘I went and dropped Monica off at the house and came back.’ (ED/XIV:76)
+(546)ho-naki-kapere sa-ta khi-ya-roko,...here-SPEC hand/arm bat hitleave-DEP-SW. SIM‘She was batting [the creature] away with her hand,...’ (T/EH:101103)7.5Complex predicates with nouns and adjectives7.5.1IntroductionThe kinds of complex predicates looked at so far involve morphemes that typically
+occur as part of a predicating constituent.19 This section examines complex predic19The exception to this is complex verbs that include a directional demonstrative. Directional
+demonstratives have a wide range of functions and probably most typically occur as PlcP constituents244Chapter 7. Some complex predicate structuresations involving nouns, morphemes that are typically used in participant reference.
+These include some more idiomatic predications that are not easily identified as
+structurally distinct and productive operations. Rather, a combination of certain
+words in certain expressions appears to ‘borrow’ an existing grammatical structure
+in the language in an idiomatic way.
+I begin by looking at two general classes of construction that I term ‘adjunct
+noun constructions’ and ‘object-verb predications’.
+A complex predication with an ‘adjunct noun’ (§7.5.2)20 is one in which an unmodified noun precedes a consonantal or wa-class verb, supplies semantic content
+to the predication, and does not occupy an argument slot of the clause as required
+by the verb. For example, if the verb is bivalent, the adjunct noun is additional to
+(rather than replacing or making redundant) separate subject and object NPs that
+may occur in the clause. The adjunct noun must follow other NPs, PPs and PlcPs in
+the clause, although some other kinds of constituents (for example, temporals) may
+be acceptably interposed between the adjunct noun and the verb.
+An ‘object-verb predication’ (§7.5.3) is one in which a nominal phrase occupies
+the P argument slot of a consonantal or wa-class bivalent verb. The apparent object
+NP works in construction with the verb to provide the meaning of the predication,
+and so cannot be elided in the usual way (§4.2.3.3). Object-verb predications are
+idiomatic, in that the structure as a whole can be assigned a ‘literal’ meaning that
+is distinct from its typical interpretation (Nunberg et al. 1994). Specific pairings
+of nouns and verbs in Duna object-verb predications differ as to whether they are
+fixed expressions that structurally resemble adjunct noun constructions in certain
+ways (being more restricted in terms of word order flexibility and NP complexity/referentiality, and less semantically transparent) or more like independent object
+NP and verb constituents in a typical bivalent clause.
+Section 7.5.4 discusses a number of further expressions employing the verb ka‘be/stand’ that do not clearly match the structure of the other kinds of complex predicates discussed. As a simple predicate, this verb occurs with monovalent sense.
+However, in combination with certain nouns, nominal phrases, or adjectives, it exhibits a constructional ambivalency; the introduction of a nominal or adjectival element can apparently license an additional argument in the clause. These expressions
+are thus different from adjunct noun constructions, in which the argument structure
+of the verb is unchanged; and from object-verb predications, in which the collocaor free adverbial elements.
+20
+I use the phrase ‘adjunct noun’ as an alternative to the phrase ‘adjunct (nominal)’ that is often
+used in the Papuanist literature for nominal-like words that occur in constructions similar to those
+described in this section. I use ‘noun’ rather than ‘nominal’ as in the Duna case the relevant words
+are recognisable as ordinary common nouns.","[271, 272, 273]"
+"6.6. NP marking: grammatical relation and prominence(442)215* Keni-ka Melo-ne Justi-ne =kheno so
+PSN - CS PSN - PRPSN - PR=3DLstrike.PFV* Kenny hit Justin and Melo (CD)
+Example (443) shows (442) with the CS-marked NP removed. KK judged that
+Melone Jetine =kheno could not be interpreted as an object NP, but could easily be
+understood as a subject NP in which the object NP was elided, as shown in (443b).
+Other speakers made similar judgements concerning other structurally comparable
+examples, typically rejecting the use of dependent pronouns in object NPs, and
+readily identifying any NP that included a dependent pronoun as a subject argument.
+(443)a. Melo-ne Jeti-ne =kheno so
+PSN - PRPSN - PR =3 DLstrike.PFV* [Someone] hit Melo and Justin
+b. Melo-ne Jeti-ne =kheno so.
+PSN - PRPSN - PR =3 DLstrike.PFV‘Melo and Justin hit [someone]’
+Judgements such as those illustrated in (442) and (443) suggest that dependent
+third person pronouns function as nominative (or at least non-accusative) markers.
+However, the more highly contextualised data shows that dependent pronouns do
+sometimes occur in object NPs. This reference strategy typically coincides with
+pragmatic prominence of the NP, in that it represents a highly noteworthy piece of
+information.45
+Example (444) shows a constructed sentence in which the inclusion of a dependent pronoun in an object NP was judged acceptable. The hypothetical context
+for this example is that the addressee has been hassling the speaker to give them a
+particular object; the speaker tersely draws the addressee’s attention to the fact that
+she has already given the item to someone else.
+(444)naNikolo =kho ngu.","[243, 244]"
+"9.2. Evidential markers337evidential category.33
+The kinds of evidential systems outlined above thus suggest a particular question concerning the Duna perfective inflection, namely, whether it is a semantically complex form that specifies both time and information source, and represents
+a participatory and/or factual evidential category.34 If it were, this would allow an
+analysis that evidentiality is an obligatorily marked category within a certain area of
+Duna grammar (declarative sentences that denote past time events). However, while
+it seems very likely that the perfective inflection at least implies participatory/factual
+semantics as a consequence of contrast with other possible primary inflections, at
+this stage there is insufficient evidence to claim that it actively encodes information
+source and is itself an evidential marker.
+In languages in which participatory and/or factual evidential markers occur, they
+are members of a closed set of mutually exclusive morphemes that have information
+source as a primary meaning. That is, there are compelling categorical reasons, as
+well as semantic and functional motivations, to treat the markers in question as
+evidential.
+This is not so in the Duna case, as there are clear indications that while the perfective inflection contrasts with each evidential marker, it is not part of the same
+formal set. As has already been mentioned, the perfective inflection has much more
+restricted distribution than evidential markers, as it only occurs as a primary inflection on verbal predicates, whereas evidentials can occur as ancillary markers
+with verbs (§10.2.3), and most can mark nominal predicates (§10.3). The evidential
+markers as identified in §9.2 comprise a mutually exclusive set of forms that cannot
+co-occur; however, many of them are attested occurring in combination with the perfective inflection (§10.2.2.5). Verbs that are inflected as perfective are commonly
+further marked with epistemic particles (§10.4), whereas verbs that are inflected
+with evidential markers typically are not, and in some cases are barred from doing
+so (§10.4.2). A further significant point concerns the application of the assertion
+33In the Oksapmin case, as described by Loughnane (2007), the participatory/factual evidential
+is zero-marked in some person/aspect categories, and is also the inflection that can be most widely
+used in more complex morphological structures. For example, a preverbal particle that encodes
+inference can be used with a verb that bears a participatory/factual inflection, in which case the
+information source meaning of this inflection is bleached. Thus, the participatory/factual forms are
+the functionally unmarked way of expressing past tense in the grammar. Nevertheless, as argued by
+Loughnane (2007), in view of the paradigmatic formal opposition displayed and contexts in which
+the independent inflection is appropriate, the most sensible interpretation is that verbal markers
+comprise a distinct evidential category—the participatory/factual—in these languages.
+34
+One alternative analysis would be to posit a ‘zero’ participatory/factual evidential marker. However this would not add anything to the present discussion, which is concerned with markers that can
+occur as primary inflections. Such a morpheme would have to be defined as a marker that can only
+occur in an ancillary capacity (Chapter 10), as it is not the case that a verb can occur as a final predicate in (apparent) bare root form, inflected with the postulated ‘zero’ participatory/factual evidential
+only.","[365, 366]"
+"3.2NominalsA prototypical semantic property of members of a ‘nominal’ word class is that
+they refer to ‘time stable’ concepts (Schachter 1985:6) and designate objects (Evans
+2000:710), for example persons and places.
+Duna nominal roots can constitute complete nominal phrases (NPs) by themselves, and typically occur in NPs that denote participants in a described event or
+relationship (Chapter 5). NPs can also occur as predicates (§4.1.1.1), but unlike
+predicating verbs, nominals cannot be marked with TAM markers (§8.2) or the negative circumfix (§8.3). Nominal predicates can however be marked with (a restricted
+range of) epistemic assessment markers (§10.3).
+I divide Duna nominals into three subclasses: common nouns (§3.2.1), proper
+names (§3.2.2), and personal pronouns (§3.2.3). The former two groups are open
+classes, to which new members may be added. Personal pronouns comprise a small
+closed class. See also §3.9 concerning quasi-nominal interrogative forms.
+3.2.1Common nounsCommon nouns typically occur in nominal phrases, where they may be modified by
+postposed adjectives, quantifiers, and/or demonstratives (§5.2). A nominal phrase
+that includes a common noun may be referential and denote a particular individual
+(or group of individuals, etc.), or non-referential, denoting a generic class of items.
+Some examples of common nouns are shown in Table 3.1. These are simple root
+forms. Common nouns can also be morphologically complex (§5.2.1.1 - 5.2.1.3).
+Common nouns such as hatia, ‘accessway’, denote a fairly general semantic
+field. When used alone, hatia typically means ‘path, road’, but it can alternatively be
+preceded by a nominal (in possessor position, see §5.2.6) to form a phrase with more
+specific meaning, for example: anda hatia (house accessway) ‘door, doorway’;
+ambu hatia (lips accessway) ‘mouth opening’; or khia hatia (faeces accessway)
+‘anus’.
+Words for describing plants and animals include generic terms such as heka
+‘bird’ or rowa ‘tree’, and terms that describe particular varieties of generic types,
+such as wawa ‘egret’ and yawale ‘casuarina’. Words that denote individual kinds of
+flora and fauna are likely to occur in complex nouns as nominal specifiers following
+generic terms (§5.2.1.5).",[99]
+"6.6. NP marking: grammatical relation and prominence(412)207* no uru so
+1SG rat kill.PFV* I killed a rat (CD)
+(413)* phuya-na heka so
+snake-SPEC bird kill.PFV* The snake killed a bird (CD)
+(414)no so.
+1SG hit.PFV‘[Someone] hit me.’ (CD)
+With some bivalent predicates, for example the verb na- ‘eat, consume’, relative
+animacy may be sufficient to identify the A participant, and CS-marking is typically
+only used if the subject is low animacy (non-human). This is the same pattern as for
+‘optional nominative case’ marking in Fore as analysed by Donohue and Donohue
+(1997), following on from Scott’s description of the Fore ‘delineator’ morpheme
+(Scott 1978 1986). The pattern is exemplified in (415) - (418). In (415) and (416),
+the subject of the verbs na- ‘eat’ and sa- ‘take’ is highly animate (being first person) and CS-marking is not used. These are typical ‘direct’ scenarios, in which
+the roles of the participants can be correctly predicted from their relative animacy
+(high/human = actor, low/non-human = undergoer).
+(415)no ita na-ya-roko...
+1SG pig eat-DEP-SW. SIM‘I was eating pig...’(ED/VII:3)
+(416)heka ndu no so.
+bird one 1SG get.PFV‘One bird I got.’ (CD/VIII:111)
+In (417) and (418), with the same verbs heading the clause, the A participants
+are low animacy (non-human), the scenarios are not direct, and CS-marking is required on the subject NP. Note, however, that it may not be strictly obligatory if the
+identity of the A participant is already sufficiently established. In (419), only the
+first iteration of the subject NP is CS-marked, as in the second iteration the identity
+of the subject is assumed and does not need to be overtly contrasted.
+(417)yawiputi-ka uru na-na.
+cat-CSrat eat-HAB‘Cats eat rats.’ (ED/V:100)
+(418)ipa ralua-ka no so.
+water rain-CS1SG get.PFV‘Rain got me.’ (ED/XIV:121)208(419)Chapter 6. NP, PP, and PlcP morphologyyawi-na-ka uru-na nutia-ni,yawi-na heka na-na=nia.dog-SPEC-CS rat-SPEC eat.PFV.VIS . P-CMPL dog-SPEC bird eat-PROPH=ASSERT‘If the dog eats the rat, the dog will eat chickens.’ (ED LSRV:99)
+In clauses with monovalent predicates, CS-marking is less common than for subjects of bivalent predicates, but is robustly attested in the textual data. CS-marking
+in these cases typically indicates that the identity of the subject is new, unexpected, and/or contrasted with the identity of another expected or potential subject.
+The subject is in ‘contrastive focus’ (Dik 1989). This again maps to functions of
+the Fore nominative marker, which can also mark contrastive focus (Donohue and
+Donohue 1997:85).
+In examples (420) and (421), the subject argument of nga- ‘go’ is marked with
+-ka. Example (420) is taken from a point in a text just after the activities of a certain
+dog have been descibed. The story now turns to the activities of another dog, which
+is marked at first reference with -ka.39
+(420)yawi-na-ka ndulu nga-ta...
+dog-SPEC-CS once go-SEQ‘One time another dog went...’(T/HY:201003i)
+Example (421) is taken from a text in which a duck has just tried unsuccessfully
+to retrieve a magic object that has been stolen. The duck’s companion (a cat) now
+asserts that (?s)he will make a second attempt to get it back.
+(421)nangui-nari-tiari-na.","[235, 236, 237]"
+"154Chapter 5. Constituents of nominal phrasesan inclusive/exclusive distinction within second person, this relationship is largely
+epiphenomenal. The function of any such variation in Duna is probably anchored in
+the expression of interpersonal meaning (that is, creating a distancing effect), rather
+than the reification of a distinct person category. Further study of the uses of inu
+and khunu in addressee reference is needed to to test this hypothesis and obtain a
+clearer understanding of what is signified by this contrast.
+5.3.2Proper namesA nominal phrase may consist of a proper name. Examples (209) - (211) show examples of NPP N where PN is a personal name (PSN), social grouping name (GPN),
+and a place name (PLN), respectively. See also §6.4.4.4 concerning unmarked obliques in which PN is a place name.
+(209)[Polo] singa-tia.
+PSNarrive-PFV.VIS . P[PN]N P‘Paul arrived.’ (T/KK:230205)
+(210)[Yuna] kei.
+GLN be/stand.STAT
+[PN]N P‘Duna exist.’ (T/SN:220205)
+(211)no [Mbatiku] ngo.
+1SG PLN
+[PN]N Pgo.PFV‘I went to Mbatiku.’ (T/HS:141103)
+Like pronouns, proper names refer to specific individuals. Proper name NPs
+may include NP specificity/grouphood markers (§6.3.2), but this is unusual except
+in certain structural configurations; see example (130) in §5.2.1.5, example (294) in
+§6.3.2.1, and §5.4.1 concerning collocated phrases.
+Proper names may consist of more than one phonological word, as described
+in §3.2.2. I treat multi-word names as single ‘PN’ constituents, as represented in
+(212).
+(212)[Yeripi Pake] kei=pe
+PSN i[na-ka-ya.ii
+be/stand.STAT=Q NEG-be/stand-NEG
+PN]N P‘Is Yeripi Pake there or not?’ (P/AM:NH03T12B)
+5.3.3Interrogatives (non-derived) and apokoInterrogatives comprise a functional word class that cuts across other grammatical
+categories (§3.9). In this section I present examples of interrogatives as they occur5.3. Personal pronoun, PN, and interrogative NPs155in nominal phrases, specifically those forms that are not productively derived from
+the interrogative root pa-.26 I also discuss the occurrence of the indefinite reference
+form, apoko.
+5.3.3.1ai ‘who?’The interrogative ai is used in reference to an unknown person. It can function like
+a personal pronoun and constitute an entire NP, as in (213) and (214), or be used
+adnominally (215). This interrogative is also used in asking a person’s name (216).
+(213)airei=pe.who be/sit.STAT=Q‘Who is sitting [here]?’ (T/YS:270205)
+(214)ko aikhanu-tanga-nda.","[182, 183, 184]"
+"903.8.2
+3.8.2.1Chapter 3. Word classesTime and manner adverbials
+Time-of-day termsKnown time-of-day terms are shown in Table 3.15. Some of these words are transparently compositional, for example hewarako is composed of the forms hewa ‘sun’
+and arako ‘middle’. I also include in this table some idiomatic clausal expressions
+that refer to times of day.
+Table 3.15 Time-of-day expressionsheka hakaya
+sirakura
+hewarako
+yopo
+ole riya
+akura‘early morning’
+‘morning’
+‘middle of day’
+‘afternoon’
+‘evening’
+‘night’(‘birds talk’)(‘crickets call’)Time-of-day expressions describe the time environment of a predicated activity
+(see for example (388)). They can be followed by the postpositional intensifier
+kone (which is generally quite unrestricted in terms of what it can modify), but are
+not usually marked with other bound forms, and do not occur as constituents in
+independent structural units (for example, nominal phrases). In this typical use I
+refer to them as adverbs. However, there are also some examples in my data in
+which time-of-day terms are inflected with (non-final) verbal morphology, in which
+case I understand them to be functioning as a kind of verbal predicate. Time of
+day-terms are also used as greetings, in which case a drawn out vowel o is typically
+added to the end of the expression.
+3.8.2.2Time/manner wordsKnown time/manner terms are shown in Table 3.16. These are formally disparate,
+although each term has something in common with at least one other term in the
+table.
+Table 3.16 Time/manner wordsala
+ari
+awe
+ha
+itane
+ikane
+hapia‘first, earlier, immediately’
+‘soon’
+‘after’
+‘immediately, hastily’
+‘later’
+‘in a bit (sooner than itane)’
+‘before, immediately, hastily’3.9. Interrogatives91Some time/manner terms have only a ‘time-ordering’ sense, that is they designate the time of a predicated activity in relation to other times and events. This is
+true of itane, ikane, ala, and ari. The first three terms are free adverbials, that is,
+expressions that are not limited to a particular position in the clause. Ari is unique
+in the set in that it occurs post-verbally. This morpheme is very rare in my data.
+The time/manner terms ha and hapia have both a time-ordering sense (‘immediately’) and a manner sense (‘hastily, quickly’). The form ha always occurs immediately preceding the predicate (see, for example, (633)). The terms hapia ‘before’
+and awe ‘later’ do not have a fixed position as adverbial elements, but typically occur either sentence-initially (148) or following a subject NP (253). They can also
+occur in a quasi-nominal capacity in NPs; see for example (182).
+3.8.2.3Manner adverbsThe Duna data includes a small number of words that function only as free adverbials,28 describing the manner in which the predicated activity is done (see for
+example (238)). Some examples of these manner adverbs are shown in Table 3.17.
+Table 3.17 Some manner adverbskokopo
+hakuru
+retoro
+sakore
+yão3.9‘accidentally’
+‘allowingly’
+‘firmly’
+‘quietly, slowly, gently’
+‘without cause, without consequence, aimlessly’InterrogativesInterrogatives are words that occur in questions to “indicate either all by themselves,
+or with the help of syntactic features of the question in which they occur, which
+part of the proposition the the asker is interested in knowing about” (Sadock and
+Zwicky 1985:185), and thus typically (although not necessarily) delineate a gap in
+speaker knowledge. Duna sentences that include an interrogative word are defined
+as interrogative sentences (§11.1.3.5).
+Duna interrogatives split into two groups, non-derived and derived. Non-derived
+interrogatives cannot be productively composed from extant morphemes (although
+in most cases the forms suggest that they were originally compositional). Derived
+interrogatives are formed from the interrogative root pa- ‘query’ in combination
+with a bound morpheme, for example an NP marker.
+28An exception to this is sakore ‘quietly, slowly, gently’, which in one instance in the textual data
+occurs with the iterative medial verb inflection, -rua (ITER).","[118, 119, 120]"
+"1.2. Duna language15paragraph) typically older women or young children. Stürzenhofecker (1998:118)
+notes that women in Aluni have “very limited knowledge of the lingua franca”.22
+Differing levels of Tok Pisin competence according to gender (men having higher
+competence than women) is a typical pattern in rural settings in much of Papua New
+Guinea (Foley 1986:37).
+In the 2003-5 textual data (§1.3.3.1) there are several instances of speakers using a Tok Pisin-derived form as a replacement for a Duna form; see, for example,
+(77), where the speaker uses the Tok Pisin-derived siriki rather than the Duna verb
+adjunct ho to mean ‘trick’. Although the speakers I worked with on transcription
+and translation would typically ‘correct’ a Tok Pisin-derived form to the Duna equivalent, I did not generally hear people express a great deal of anxiety concerning
+the encroachment of Tok Pisin on their language. Adults who are fluent Tok Pisin
+speakers encourage children to learn this language, and this aim is seen by at least
+some parents or guardians as a good reason to take a child traveling to town areas.
+People recognise the value of English for obtaining paid employment, but have
+little opportunity to learn it and little or no application for it in their daily lives.
+During my time in the field I did not hear Duna people using English amongst
+themselves, beyond the occasional adoption of a word or phrase, and few Duna
+people living in the Kopiago region have a high level of competence in the language.23 Such skills are typically only gained through education at a level that is
+not available in Lake Kopiago, and generally those who can speak good English
+seek work outside the Duna community.
+1.2.3Language and formal educationChildren’s schooling is one domain in which language choice is officially legislated. Current national education policy in Papua New Guinea is that the first year
+of formal schooling be conducted primarily in the local indigenous language (or a
+language that is already known by the students), with English progressively introduced into the classroom after basic literacy and numeracy skills have been acquired
+in the vernacular. After three years attendance at a local elementary school, children
+progress to primary school (entering at Grade 3), and from this point English is to
+be the main language of instruction.24 Schooling in the Duna region, as in many
+areas of Papua New Guinea, demonstrates a large gap between national policy and
+local practice.
+22I assume that Tok Pisin is the lingua franca Stürzenhofecker refers to here.
+Although several of the people I worked with closely spoke English very well, this was largely
+as a consequence of having worked for many years in collaboration with the anthropologist Nicole
+Haley, that is, a very specific and unusual circumstance.
+24
+See the 2003 National Curriculum Statement of Papua New Guinea, produced by the Department of Education, Papua New Guinea.
+2316Chapter 1. IntroductionThe effective running of the Kopiago Community School is beset with difficulties (for example, staff shortages, absconding staff, a dearth of materials). The
+teachers I spoke with appeared to be confused about the curriculum they were supposed to be teaching; the institution of elementary schools comprised a considerable re-structuring of the schooling system, and was supposed to be accompanied
+by further curriculum reform, but the school had not received any new textbooks or
+materials relating to this. The policy of using English as the main language of instruction from Grade 3 was as far as I could tell only marginally implemented. One
+teacher from the Kopiago Community School that I spoke with (who came from another Highlands province and was not a native Duna speaker) explained that in his
+classroom he used some English, some Tok Pisin, and some Duna (having learnt the
+language as a consequence of moving to Kopiago). I met no school-age children
+during my fieldwork (including children living in the greater Lake Kopiago area,
+Aluni Valley, and Yokona) who demonstrated any degree of fluency in English.
+The operation of elementary schools in the Lake Kopiago region is sporadic and
+receives little consistent attention from the Provincial Education Department (situated in Mendi, the provincial capital). Under the current education system, it is intended that local people receive elementary teacher training, including guidance and
+practical assistance in the development and productions of vernacular curriculum
+materials. The running of an elementary school becomes largely the responsibility
+of these individuals in collaboration with their immediate community and perhaps
+a church organisation. However, the elementary teacher training is not extensive,
+and for someone from the Lake Kopiago area is comparatively costly and involves
+travel that may be expensive or dangerous. It is difficult to obtain reliable information about when the training courses are scheduled, and problematic to organise any
+financial transactions from the Kopiago area (both in terms of paying initial fees
+and receiving subsequent wages or school funding) owing to poor communications
+and a lack of any local banking service.
+During my time in the Duna region, I saw no evidence that any elementary
+schools in the area were receiving consistent government support. The schooling
+that is available to younger children is thus largely an ad hoc affair, as it relies on
+impetus from the community and/or church as concerns building and furnishing a
+school, and the dedication of individuals who have some literacy skills and are willing to spend time and effort trying to disseminate these without the benefit of training or materials. As the sound representations of the official Duna orthography (i.e.,
+that in which the New Testament translation is written) are quite difficult to master
+without explicit training and much practice, the self-designated teachers themselves
+generally find reading and writing in Duna quite problematic, and do not feel com-1.2. Duna language17fortable teaching it. Thus in at least some elementary schools Tok Pisin rather than
+Duna is employed as a language of literacy acquisition (although most children do
+not actually speak Tok Pisin when they start attending school). In some cases the
+teacher may also introduce English language exercises, based on any textbooks they
+have to hand or their memories of their own schooling.
+Some adult literacy education programmes (focussing on bible study) are also
+run in the Lake Kopiago region through church networks. My impression is that
+these are primarily conducted in Tok Pisin, but I have not discussed this issue in
+detail with trainers or participants.
+1.2.4Previous description of the languagePrevious descriptions of the Duna language that have been available to me comprise
+three unpublished works, one by Dennis and Nancy Cochrane, and two by Glenda
+Giles.
+The missionary team Dennis and Nancy Cochrane produced a 26-page manuscript, ‘Duna essentials for translation’ for submission to the Grammar Department
+of the Summer Institute of Linguistics (SIL) in 1966. Voorhoeve (1975) cites this
+document (plus two wordlists) as his source.
+Glenda Giles produced an (undated) 11-page ‘Guide to the Pronuciation of
+Duna’, as well as a set of 41 ‘Duna language lessons’ comprising approximately
+109 pages25 and a 5-page index (cross-referenced to the numbered lessons) of bound
+morphemes and irregular verb forms. These were probably produced in the 1970s,
+and stemmed from Giles’ intensive work on the language in the course of bible
+translation and other mission work with Duna people.26 Lessons are typically structured around the introduction of bound verbal morphology and/or irregular verb
+inflections, with examples of every newly introduced form, and practice exercises
+that require knowledge of material presented in earlier and later lessons. She also
+provides several summaries of covered material. The description in her lessons is
+occasionally repetitive and/or contradictory, as it is clear that she was developing
+her analysis as she wrote, and did not regard the document that I have a copy of as
+representing a final version.27
+25In the copy I have of the document a few pages are clearly missing but I do not know exactly
+how many.
+26
+It seems likely that Giles had access to the Cochranes’ report before she started her work, and
+that she and the Cochranes worked together to some extent. Giles’ major Duna project was the
+translation of the New Testament, and this was presumably something the Cochranes were initially
+working towards; mission gossip has it that the Cochranes were extremely disheartened by Giles’
+quick aptitude in the language and vigorous efficiency, and so gave up working on Duna themselves.
+27
+For example, in Lesson 37 Giles introduces a “general summary of the final verb” with the
+following words: “The material presented here is in summary form and is not entirely consistent
+with what has gone before but I think presents a more correct analysis. [...] I hope to re-order these
+materials in a simpler form for language learning.”","[43, 44, 45, 46]"
+"1SG 1SG brother-SPEC die-PFV.VIS . P‘My (only) brother died.’ (T/SN:101203i)
+(258)Kipu keno keno anda-na
+PSNriya hoa-ya, Lapame =kho eto1DL 1DL house-SPEC return come-DEP PSN=3SG ETOSuwaka-nda nga-ya.
+GPN - ENCLgo-DEP‘Kipu and I (by ourselves) came back to the house, Lapame went off to
+Suwaka.’ (T/MM:101103)
+Example (259a) shows a reflexive clause (§4.2.3.1) that includes two coreferent adjacent pronouns, the second being marked with the exclusive morpheme -nga
+(§6.6.2). In this case, one could argue that each pronoun is a separate NP, one
+being the subject argument and one being the object argument. However, this interpretation runs counter to the fact that the exclusive marker -nga can only sensibly
+occur on the second pronoun in a double pronoun sequence, not the first pronoun, as
+shown in (259b). This suggests that -nga is being applied to a single NP constituent
+that is composed of two pronouns.
+(259)a. no no-ngaso.",[193]
+"346Chapter 9. Evidential and information status markerspendent but is part of a larger complex sentence structure; for example if the marked
+clause bears a specific function in a matrix clause (cf. Bickel 1999:3), or is overtly
+marked as a clause of purpose or reason (etc.). This is not entirely satisfactory, but
+is adequate for my basic descriptive purposes.
+It is of interest to note that the Duna use of the specificity marker on final
+verbs in independent clauses shows some structural and functional similarity to
+non-embedded nominalisations in several Tibeto-Burman language subgroups (for
+example, Kiranti and Bodic), in which a morpheme that is used in nominalisation operations (and in some cases also functions as a singular definite article in
+noun phrases) marks main clauses in attention-drawing, emphatic and/or ‘constative’ (“it’s a fact”) utterances.45 More generally, these ‘nominalisations’ are probably
+examples of insubordination, the independent use of an apparently (or erstwhile)
+subordinate structure (Evans 2007). Two functions of insubordination identified by
+Evans that are of particular relevance to the Duna and Bodic examples are the expression of epistemic and evidential meanings, and the signalling of presupposed
+material.
+9.3.2.3Overview of the expression of present time eventsWe have now looked at the full range of known Duna morphemes that can occur as
+primary inflections on final verbs in the expression of (non-habitual) present time
+events, first introduced in Table 8.3 and reproduced here as Table 9.6.46 The group
+includes three TAM forms (one of which is applicable to wa-class and consonantal
+verbs only), four visual and non-visual sensory evidential markers, the individual
+standpoint information status marker -pa, and specificity marker -na (the last two
+being applicable only to regular verbs). The morphemes are formally and semantically disparate, but also functionally contrastive, and can be though of as providing
+a speaker with a finite set of choices in regard to the (maximally simple) expression
+of a situation that holds at the time of utterance.
+45For example, in detailing the functions of nominalising morphology in Bodic languages (a postulated genetic grouping within Tibeto-Burman), Noonan (2008) notes that: “when nominalizations
+[i.e., constructions headed by nominalisations or forms morpholgically identical to them] appear as
+main clauses, the typical effect is one of mirativity, i.e. the sense that the predication so expressed
+is in some sense surprising, contrary to expectation, or in some way exasperating”. In discussing
+Kiranti languages (Tibeto-Burman), Bickel (1999) argues that the use of nominalisation markers on
+non-embedded clauses represents a focus construction. Such constructions may be used in Belhare,
+for example: “to instantiate a controversial discourse variable” (for example, in an utterance that
+emphatically rejects a suggestion or insinuation made by an interlocutor); in the instantiation of an
+open variable (completive focus) where “a speaker claims her proposition to be the definite answer
+to the question”; or to re-instantiate a variable in narrative in order to “ascertain that the audience is
+fully aware of the proposition and does not doubt it any further” (Bickel 1999).
+46
+The special present form of nga- ‘go’ (ngui) is not included in the array, as it is only applicable
+to one verb. However, in relation to later discussion in this section, the fact that this inflection only
+occurs in sentences with volitional informant subjects means there is a good argument to be made
+that it encodes participatory semantics.","[374, 375]"
+"1/2PL night fear be/stand.MULTI-DEP‘At night we frightened each other...’ (T/MM:101103)
+(77)anene =kheno siriki kuri-ta...
+pair=3DLtrick.lw be/stand.MULTI-SEQ‘The pair would trick each other...’ (T/HY:201003ii)
+Example (78) shows a clause with reciprocal meaning that is headed by a trivalent
+predicate, the complex lexeme ngirane ngirane-, meaning ‘exchange’.15 In this construction the givers and recipients are in a reciprocal relationship, and correspond
+to a single NP, the dual pronoun keno.
+(78)keno ngalipe ngirane ngirane-o.
+1DL peanut.lw exchange exchange-PFV‘We two exchanged peanuts (with each other).’ (CED/VII:8)
+As for reflexive subjects, I interpret unmarked NPs such as those that occur in
+(76) - (78) as subject NPs that stand for both the actor and undergoer participants
+that are required by the predicate, or, in the case of a trivalent predicate, for both the
+givers and recipients. Overtly marking a nominal phrase such as keno in (78) as a
+contrasted subject triggers a slightly different reading of the clause, in which an R
+argument NP is assumed to have been elided.16
+(79)kena-ka ngalipe ngirane ngirane-o.
+1DL-CS peanut exchange exchange-PFV‘We two (as a pair) exchanged peanuts (with other people).’ (CED/VII:8)
+In the constructed example shown in (80), each participant is referenced by
+a separate NP. I believe this is best interpreted as a ‘collocated’ NP construction
+(§5.4.1), that is, with anoa ndu and ima ndu being collocated as a multi-referent
+subject argument rather than representing distinct A and P arguments.17
+(80)anoa ndu imandu rembo rembo-ya rei.man one woman one starestare-DEP be/sit.STAT‘A man and a woman are sitting staring at each other.’ (CD/V:70)
+15This is presumably derived from the trivalent verb ngua- ‘give’ and the sequential (switch)
+medial inflection -rane, although as far as I am aware this morphological template is not productive.
+16
+It is alternatively possible to use contrasted subject marking as an indication of contrastive focus
+in reciprocal clauses, for example, to emphasise that out of a group of potential participants, it was
+X and Y in particular who engaged in a reciprocal activity; see §5.4.2.3.
+17
+The collocation analysis seems the most sensible interpretation because encoding the participants of a reciprocal activity as one NP is the usual pattern in the textual data.",[140]
+"326Chapter 9. Evidential and information status markersNotional evidential markers are semantically and functionally different (by degree rather than categorically) from the evidential markers described in sections
+9.2.3 - 9.2.5). This is because they function to indicate something about a speaker’s
+epistemic treatment of a proposition (for example, as something that represents surprising or unreliable information) as much as to indicate the speaker’s source of
+information, particularly in the case of the current form -noi∼nei. The Duna notional evidence markers can be used playfully to mark imagined events that are not
+expected to be understood as serious or literal beliefs, and can produce effects of
+irony or sarcasm. In many of the examples presented in this section, one can argue that the evidential marker is primarily used to communicate an attitude to a
+proposition rather than describe a type of information source (cf. Mushin 2001).
+The notional evidential markers underscore the fact that in Duna the semantic
+domains of information source and information status do not consistently correspond to distinct morphological categories. The functions of the notional forms suggest the validity of construing the perception event that is entailed by evidential
+markers as an experience of acquiring and or/synthesising knowledge, as well as of
+observing external evidence.
+9.2.6.2Notional (current)The regular notional current marker is -noi. This form also occurs on the a-base
+of the semi-irregular verb ra- ‘sit’. Consonantal verbs take the marker -nei which
+is added to the o-base. Wa-class verbs add -nei to the u-base or -noi to the i-base.
+Partial wa-class verbs add -noi to the i-base or a-base.
+The notional current evidential marks a proposition that the perceiver ‘figures
+out’, synthesising information drawn from different times and sources as a novel
+proposition. It is redolent of the ‘Assumed’ and ‘Reasoning’ cross-linguistic evidential categories proposed by Aikhenvald (2004) and Willett (1988), respectively.
+I suggest that in the case of this morpheme the perception event incorporates the
+speaker’s own moment of realisation, as well as observation of external evidence.
+Examples are shown in (794) and (795).
+(794)khao-nakhasa-tangoae-noi.redskin-SPEC 3SG.CS take-SEQ go.CAUS-NTN . C‘They [the current government] sent the white people away {I realise}.’
+(T/SN:101203i)
+Context: The speaker comments on the changes for Duna people since independence (see §1.1).","[354, 355]"
+"69
+69
+70
+70
+71
+72
+73
+73
+73
+74
+75
+76
+76
+77
+78
+79
+802.22.3
+3CONTENTSix3.681
+82
+83
+84
+84
+86
+86
+87
+88
+88
+90
+90
+90
+91
+91
+93
+93
+93
+94Quantifiers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.1 Numbers . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.2 Non-numerical quantifiers . . . . . . . . . . . . . . . . . .
+3.6.3 The quantifier ndu . . . . . . . . . . . . . . . . . . . . . .
+3.7 Demonstratives . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.1 Proximal . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.2 Locational . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.3 Directional . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.8 Talking about time and manner . . . . . . . . . . . . . . . . . . . .
+3.8.1 Day terms . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.8.2 Time and manner adverbials . . . . . . . . . . . . . . . . .
+3.8.2.1 Time-of-day terms . . . . . . . . . . . . . . . . .
+3.8.2.2 Time/manner words . . . . . . . . . . . . . . . .
+3.8.2.3 Manner adverbs . . . . . . . . . . . . . . . . . .
+3.9 Interrogatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.10 Dependent modifiers and linkers . . . . . . . . . . . . . . . . . . .
+3.10.1 Dependent postpositional modifiers . . . . . . . . . . . . .
+3.10.2 Linking forms . . . . . . . . . . . . . . . . . . . . . . . .
+3.11 Interjections and conventionalised sound gestures . . . . . . . . . .
+4Basic clause structure
+96
+4.1 Clause types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+4.1.1 Non-verbal clauses . . . . . . . . . . . . . . . . . . . . . . 96
+4.1.1.1 Nominal predicates . . . . . . . . . . . . . . . . 96
+4.1.1.2 Adjectival predicates . . . . . . . . . . . . . . . 97
+4.1.1.3 Other non-verb predicates . . . . . . . . . . . . . 98
+4.1.2 Monovalent clauses . . . . . . . . . . . . . . . . . . . . . . 99
+4.1.2.1 Introduction . . . . . . . . . . . . . . . . . . . . 99
+4.1.2.2 Monovalent verbs (non-existential) . . . . . . . . 99
+4.1.2.3 Existential verbs . . . . . . . . . . . . . . . . . . 99
+4.1.2.4 Non-verbal roots as monovalent predicates . . . . 102
+4.1.3 Bivalent clauses . . . . . . . . . . . . . . . . . . . . . . . . 102
+4.1.4 Trivalent clauses . . . . . . . . . . . . . . . . . . . . . . . 104
+4.2 Participant reference in verbal clauses . . . . . . . . . . . . . . . . 105
+4.2.1 Arguments and adjuncts . . . . . . . . . . . . . . . . . . . 105
+4.2.2 Overview of typical word order . . . . . . . . . . . . . . . 107
+4.2.2.1 Subject and object NPs . . . . . . . . . . . . . . 107
+4.2.2.2 Obliques . . . . . . . . . . . . . . . . . . . . . . 107
+4.2.2.3 Summary . . . . . . . . . . . . . . . . . . . . . . 109
+4.2.3 Issues in argument identification and realisation . . . . . . . 109
+4.2.3.1 Reflexive clauses . . . . . . . . . . . . . . . . . 109
+4.2.3.2 Reciprocal clauses . . . . . . . . . . . . . . . . . 110
+4.2.3.3 Argument elision . . . . . . . . . . . . . . . . . 112
+4.2.3.4 Note on ambivalent verbs . . . . . . . . . . . . . 119
+4.2.3.5 Note on subject/possessor indeterminacy . . . . . 119
+4.2.4 Some marked word order/intonation patterns . . . . . . . . 120
+4.2.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 120xCONTENTS4.2.4.2
+4.2.4.3
+4.2.4.4
+5Fronting . . . . . . . . . . . . . . . . . . . . . . 121
+Left dislocation . . . . . . . . . . . . . . . . . . 123
+Right dislocation . . . . . . . . . . . . . . . . . . 125Constituents of nominal phrases
+127
+5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+5.2 Constituents of noun NPs . . . . . . . . . . . . . . . . . . . . . . . 129
+5.2.1 Nouns and complex nouns . . . . . . . . . . . . . . . . . . 129
+5.2.1.1 Nominaliser -ne . . . . . . . . . . . . . . . . . . 129
+5.2.1.2 Free lexeme + ‘word-like’ dependent form . . . . 131
+5.2.1.3 Noun + noun compounds . . . . . . . . . . . . . 133
+5.2.1.4 Noun repetition . . . . . . . . . . . . . . . . . . 134
+5.2.1.5 Postposed ‘specifying’ nominals . . . . . . . . . 134
+5.2.2 Adjectives in NPs . . . . . . . . . . . . . . . . . . . . . . . 135
+5.2.3 Quantifiers in NPs . . . . . . . . . . . . . . . . . . . . . . 137
+5.2.3.1 Numbers . . . . . . . . . . . . . . . . . . . . . . 137
+5.2.3.2 Non-numerical quantifiers . . . . . . . . . . . . . 138
+5.2.3.3 The quantifier ndu ‘one’ . . . . . . . . . . . . . . 139
+5.2.4 Demonstratives in NPs . . . . . . . . . . . . . . . . . . . . 139
+5.2.4.1 Proximal . . . . . . . . . . . . . . . . . . . . . . 139
+5.2.4.2 Locational . . . . . . . . . . . . . . . . . . . . . 140
+5.2.4.3 Directional . . . . . . . . . . . . . . . . . . . . . 143
+5.2.5 Co-occurring adjectives, quantifiers, and demonstratives . . 144
+5.2.6 Preposed possessor constituents . . . . . . . . . . . . . . . 146
+5.2.6.1 NP Possessors . . . . . . . . . . . . . . . . . . . 146
+5.2.6.2 PP possessors . . . . . . . . . . . . . . . . . . . 147
+5.3 Personal pronoun, PN, and interrogative NPs . . . . . . . . . . . . 148
+5.3.1 Personal pronouns . . . . . . . . . . . . . . . . . . . . . . 148
+5.3.1.1 Special features of third person pronoun use . . . 151
+5.3.2 Proper names . . . . . . . . . . . . . . . . . . . . . . . . . 154
+5.3.3 Interrogatives (non-derived) and apoko . . . . . . . . . . . 154
+5.3.3.1 ai ‘who?’ . . . . . . . . . . . . . . . . . . . . . . 155
+5.3.3.2 aki ‘what?’ . . . . . . . . . . . . . . . . . . . . . 155
+5.3.3.3 akita, ‘how many?’ . . . . . . . . . . . . . . . . 157
+5.3.3.4 pania ‘which?’ . . . . . . . . . . . . . . . . . . . 157
+5.3.3.5 Hesitation proform apoko(ne) . . . . . . . . . . . 158
+5.4 Participant reference with multiple NPs . . . . . . . . . . . . . . . 159
+5.4.1 Collocation: detailing pair and group members . . . . . . . 159
+5.4.1.1 Pair compound NPs (tight collocation) . . . . . . 160
+5.4.1.2 Listing construction (loose collocation) . . . . . . 160
+5.4.1.3 Mixed-feature collocation . . . . . . . . . . . . . 161
+5.4.2 Other complex nominal phrases . . . . . . . . . . . . . . . 162
+5.4.2.1 Two phrase ‘whole-part’ construction . . . . . . . 162
+5.4.2.2 Inclusory pronominal construction . . . . . . . . 163
+5.4.2.3 Double personal pronouns . . . . . . . . . . . . . 163
+5.4.2.4 Note on appositional explanatory NPs . . . . . . 165CONTENTSxi6NP, PP, and PlcP morphology
+166
+6.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+6.2 Bound ‘epistemic demonstratives’ . . . . . . . . . . . . . . . . . . 167
+6.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+6.2.2 Non-visual sensorily perceived items . . . . . . . . . . . . 168
+6.2.3 Speaker’s knowledge . . . . . . . . . . . . . . . . . . . . . 172
+6.2.4 Shared knowledge . . . . . . . . . . . . . . . . . . . . . . 174
+6.2.5 A demonstrative for visually perceived items? . . . . . . . . 175
+6.3 NP markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.3.2 Specificity and grouphood . . . . . . . . . . . . . . . . . . 178
+6.3.2.1 Specific individual -na . . . . . . . . . . . . . . . 178
+6.3.2.2 Group marker -tia . . . . . . . . . . . . . . . . . 182
+6.3.3 Pair markers -ne and -yane . . . . . . . . . . . . . . . . . . 183
+6.3.4 Locative marker and concealing/inner place marker . . . . . 184
+6.3.4.1 Overview of location reference strategies . . . . . 184
+6.3.4.2 Locative marker -ta . . . . . . . . . . . . . . . . 185
+6.3.4.3 Concealing/inner place -ra . . . . . . . . . . . . 189
+6.4 Place phrase markers . . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 191
+6.4.2 Single area -ka . . . . . . . . . . . . . . . . . . . . . . . . 192
+6.4.3 Multiple areas -kuru . . . . . . . . . . . . . . . . . . . . . 195
+6.4.4 Other ways of denoting locations . . . . . . . . . . . . . . 196
+6.4.4.1 Locational demonstratives and -nga ‘EXCV’ . . . 197
+6.4.4.2 Time marker -ngi . . . . . . . . . . . . . . . . . 197
+6.4.4.3 Territory marker -li . . . . . . . . . . . . . . . . 199
+6.4.4.4 Morphologically unmarked oblique NPs . . . . . 199
+6.5 Role-marking postpositions . . . . . . . . . . . . . . . . . . . . . . 201
+6.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 201
+6.5.2 Instrument -ka . . . . . . . . . . . . . . . . . . . . . . . . 202
+6.5.3 Accompanier -aka . . . . . . . . . . . . . . . . . . . . . . 202
+6.5.4 Beneficiary/possessor -ya . . . . . . . . . . . . . . . . . . . 203
+6.6 NP marking: grammatical relation and prominence . . . . . . . . . 205
+6.6.1 Contrasted subject (CS) marking . . . . . . . . . . . . . . . 205
+6.6.2 Personal pronouns and -nga ‘EXCV’ . . . . . . . . . . . . . 210
+6.6.3 Dependent third person pronouns . . . . . . . . . . . . . . 2117Some complex predicate structures
+218
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+7.2 Complex verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+7.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+7.2.2 Verb root + directional demonstrative . . . . . . . . . . . . 220
+7.2.3 Bound verbal modifiers . . . . . . . . . . . . . . . . . . . . 221
+7.2.4 Participant-adding morphology . . . . . . . . . . . . . . . 225
+7.2.5 Note on reduplication + vowel alternation . . . . . . . . . . 226
+7.3 Verb serialisation . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+7.3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 226xiiCONTENTS7.3.27.47.57.68Some general features of verb serialisation . . . . . . . . . 228
+7.3.2.1 Number of verbs in series . . . . . . . . . . . . . 228
+7.3.2.2 Contiguity . . . . . . . . . . . . . . . . . . . . . 228
+7.3.2.3 Negation . . . . . . . . . . . . . . . . . . . . . . 229
+7.3.3 Relationships between verbs in series . . . . . . . . . . . . 230
+7.3.3.1 Sequential and overlapping activities . . . . . . . 230
+7.3.3.2 Purposive serialisation . . . . . . . . . . . . . . . 231
+7.3.3.3 Integrated activities and lexicalisation . . . . . . . 232
+7.3.3.4 Aspect, direction, and other modifications . . . . 234
+Verb adjuncts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+7.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+7.4.2 General features of verb adjunct constructions . . . . . . . . 237
+7.4.2.1 Contiguity . . . . . . . . . . . . . . . . . . . . . 237
+7.4.2.2 Negation . . . . . . . . . . . . . . . . . . . . . . 238
+7.4.2.3 Use with different host verbs . . . . . . . . . . . 238
+7.4.3 Verb adjuncts according to host verb . . . . . . . . . . . . . 239
+7.4.3.1 Motion verbs . . . . . . . . . . . . . . . . . . . . 239
+7.4.3.2 Existential verbs . . . . . . . . . . . . . . . . . . 240
+7.4.3.3 Bivalent verbs . . . . . . . . . . . . . . . . . . . 242
+Complex predicates with nouns and adjectives . . . . . . . . . . . . 243
+7.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+7.5.2 Adjunct noun constructions . . . . . . . . . . . . . . . . . 245
+7.5.3 Object-verb predications . . . . . . . . . . . . . . . . . . . 247
+7.5.4 Inceptive/factitive uses of ka- ‘be/stand’ . . . . . . . . . . . 251
+7.5.4.1 Adjunct noun type . . . . . . . . . . . . . . . . . 251
+7.5.4.2 Object-verb predication type . . . . . . . . . . . 252
+7.5.4.3 Adjective + ka- . . . . . . . . . . . . . . . . . . 253
+7.5.5 Special constructions with existential verbs . . . . . . . . . 254
+7.5.5.1 Expressing possession . . . . . . . . . . . . . . . 254
+7.5.5.2 Existential verb as copula . . . . . . . . . . . . . 256
+Complex predicates that describe involuntary experience . . . . . . 258
+7.6.1 Noun + verb . . . . . . . . . . . . . . . . . . . . . . . . . 258
+7.6.1.1 Bodily substance + verb of motion . . . . . . . . 258
+7.6.1.2 Ailment noun+ bivalent verb . . . . . . . . . . . 259
+7.6.2 Other involuntary experience predicates . . . . . . . . . . . 262
+7.6.2.1 Involuntary perception expressions . . . . . . . . 262
+7.6.2.2 Emotion and discomfort predicates . . . . . . . . 264Final verb morphology: time, event modality, and negation
+267
+8.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+8.1.1 Overview of final predicate morphology . . . . . . . . . . . 267
+8.1.1.1 The basic morphological template . . . . . . . . . 267
+8.1.1.2 Primary inflections and the final verb . . . . . . . 269
+8.1.2 Base forms of consonantal and wa-class verbs . . . . . . . . 272
+8.1.2.1 Consonantal verbs . . . . . . . . . . . . . . . . . 273
+8.1.2.2 wa-class verbs . . . . . . . . . . . . . . . . . . . 274CONTENTSxiii8.1.2.38.28.39Partial members of the consonantal and wa-class
+verb groups . . . . . . . . . . . . . . . . . . . . 276
+Tense, aspect and event modality (TAM) . . . . . . . . . . . . . . . 276
+8.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+8.2.2 Semi-finite inflections . . . . . . . . . . . . . . . . . . . . 280
+8.2.2.1 Perfective . . . . . . . . . . . . . . . . . . . . . 280
+8.2.2.2 Imperfective . . . . . . . . . . . . . . . . . . . . 282
+8.2.2.3 Intentive . . . . . . . . . . . . . . . . . . . . . . 283
+8.2.2.4 Desiderative . . . . . . . . . . . . . . . . . . . . 284
+8.2.3 Finite inflections (declarative) . . . . . . . . . . . . . . . . 285
+8.2.3.1 Stative . . . . . . . . . . . . . . . . . . . . . . . 285
+8.2.3.2 Habitual . . . . . . . . . . . . . . . . . . . . . . 286
+8.2.3.3 Prophetic future . . . . . . . . . . . . . . . . . . 287
+8.2.3.4 Abilitative . . . . . . . . . . . . . . . . . . . . . 288
+8.2.3.5 Promissive . . . . . . . . . . . . . . . . . . . . . 288
+8.2.3.6 Special present form of nga- ‘go’ . . . . . . . . . 289
+8.2.3.7 Comment on aspectual oppositions . . . . . . . . 290
+8.2.4 Finite inflections (non-declarative) . . . . . . . . . . . . . . 290
+8.2.4.1 Imperative . . . . . . . . . . . . . . . . . . . . . 290
+8.2.4.2 Prohibitive . . . . . . . . . . . . . . . . . . . . . 293
+8.2.4.3 Hortative . . . . . . . . . . . . . . . . . . . . . . 294
+8.2.4.4 Warning against . . . . . . . . . . . . . . . . . . 296
+8.2.4.5 Suggestions with kone . . . . . . . . . . . . . . . 297
+8.2.4.6 A paradigm of immediate and deferred directives 298
+8.2.5 Summary of TAM markers . . . . . . . . . . . . . . . . . . 299
+The negative circumfix . . . . . . . . . . . . . . . . . . . . . . . . 301
+8.3.1 Quasi-independent use . . . . . . . . . . . . . . . . . . . . 301
+8.3.2 With other verbal inflection . . . . . . . . . . . . . . . . . 301
+8.3.3 Negation with neya . . . . . . . . . . . . . . . . . . . . . . 302Evidential and information status markers
+305
+9.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 305
+9.2 Evidential markers . . . . . . . . . . . . . . . . . . . . . . . . . . 307
+9.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 307
+9.2.2 Contrasts within the evidential paradigm . . . . . . . . . . 309
+9.2.2.1 Information source and the evidential categories . 309
+9.2.2.2 Personal or impersonal viewpoint . . . . . . . . . 309
+9.2.2.3 Current or previous time . . . . . . . . . . . . . . 311
+9.2.3 Visual evidential markers . . . . . . . . . . . . . . . . . . . 313
+9.2.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 313
+9.2.3.2 Visual (perfective previous) . . . . . . . . . . . . 314
+9.2.3.3 Visual (stative previous) . . . . . . . . . . . . . . 317
+9.2.4 Sensory evidential markers . . . . . . . . . . . . . . . . . . 318
+9.2.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 318
+9.2.4.2 Sensory (current) . . . . . . . . . . . . . . . . . 319
+9.2.4.3 Sensory (perfective previous) . . . . . . . . . . . 320
+9.2.4.4 Sensory (imperfective previous) . . . . . . . . . . 321xivCONTENTS9.2.59.3Results evidential markers . . . . . . . . . . . . . . . . . . 322
+9.2.5.1 Introduction . . . . . . . . . . . . . . . . . . . . 322
+9.2.5.2 Results (current) . . . . . . . . . . . . . . . . . . 323
+9.2.5.3 Results (previous) . . . . . . . . . . . . . . . . . 324
+9.2.6 Notional evidential markers . . . . . . . . . . . . . . . . . 325
+9.2.6.1 Introduction . . . . . . . . . . . . . . . . . . . . 325
+9.2.6.2 Notional (current) . . . . . . . . . . . . . . . . . 326
+9.2.6.3 Notional (previous) . . . . . . . . . . . . . . . . 328
+9.2.7 Marking evidence as impersonal . . . . . . . . . . . . . . . 331
+9.2.8 Summary of the evidential morphemes . . . . . . . . . . . 334
+9.2.9 The perfective TAM marker revisited . . . . . . . . . . . . 336
+Information status markers . . . . . . . . . . . . . . . . . . . . . . 339
+9.3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 339
+9.3.2 Present time events . . . . . . . . . . . . . . . . . . . . . . 340
+9.3.2.1 Individual standpoint -pa . . . . . . . . . . . . . 340
+9.3.2.2 Specificity marking on final verbs . . . . . . . . . 342
+9.3.2.3 Overview of the expression of present time events 346
+9.3.3 Past time events . . . . . . . . . . . . . . . . . . . . . . . . 349
+9.3.3.1 Recent past, shared standpoint . . . . . . . . . . 349
+9.3.3.2 Uncertainty marker . . . . . . . . . . . . . . . . 352
+9.3.3.3 Dramatic markers . . . . . . . . . . . . . . . . . 353
+9.3.4 Potential events (‘provocative’ inflections) . . . . . . . . . . 355
+9.3.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 355
+9.3.4.2 Expective marker . . . . . . . . . . . . . . . . . 356
+9.3.4.3 Potential observation . . . . . . . . . . . . . . . 358
+9.3.5 Summary of the information status markers . . . . . . . . . 36010 Ancillary final predicate morphology
+361
+10.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 361
+10.2 Verbal predicates . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+10.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+10.2.2 Examples of complex final inflection . . . . . . . . . . . . 365
+10.2.2.1 Introduction . . . . . . . . . . . . . . . . . . . . 365
+10.2.2.2 Intentive stem . . . . . . . . . . . . . . . . . . . 367
+10.2.2.3 Desiderative stem . . . . . . . . . . . . . . . . . 374
+10.2.2.4 Imperfective stem . . . . . . . . . . . . . . . . . 375
+10.2.2.5 Perfective stem . . . . . . . . . . . . . . . . . . 379
+10.2.3 Examples of extra evidence . . . . . . . . . . . . . . . . . 382
+10.2.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 382
+10.2.3.2 Extra evidence following -rape ‘UNC’ . . . . . . 382
+10.2.3.3 Extended uses of sensory and notional evidentials 383
+10.2.3.4 Comment on -rape as an ‘extra’ form . . . . . . . 384
+10.2.4 Specificity marking on finite verbs . . . . . . . . . . . . . . 385
+10.2.4.1 Introduction . . . . . . . . . . . . . . . . . . . . 385
+10.2.4.2 Stative inflection and -na . . . . . . . . . . . . . 385
+10.2.4.3 Evidential markers and -na . . . . . . . . . . . . 386
+10.2.4.4 Epistemic standpoint markers and -na . . . . . . 388CONTENTSxv10.3 Non-verbal predicates . . . . . . . . . . . . . . . . . . . . . . . . . 389
+10.4 Epistemic particles . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+10.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+10.4.2 Indicating ‘opinion’ with =pi . . . . . . . . . . . . . . . . 392
+10.4.3 ‘Hypothetical’ and ‘probable’ markers . . . . . . . . . . . . 397
+10.5 Examples of complex information source description . . . . . . . . 399
+10.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+10.5.2 ‘Reported’ information source with ruwa- ‘say’ . . . . . . . 399
+10.5.3 Some constructions with ke- ‘see’ . . . . . . . . . . . . . . 402
+10.5.4 Comments on the forms and derivation of the evidential
+markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+11 Final morphology and sentence type
+409
+11.1 Overview of sentence types . . . . . . . . . . . . . . . . . . . . . . 409
+11.1.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 409
+11.1.2 Declarative . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+11.1.2.1 Assertion marker =nia . . . . . . . . . . . . . . . 412
+11.1.3 Interrogative and speculative . . . . . . . . . . . . . . . . . 414
+11.1.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 414
+11.1.3.2 Question marker =pe . . . . . . . . . . . . . . . 415
+11.1.3.3 Yes-no interrogatives . . . . . . . . . . . . . . . 416
+11.1.3.4 Alternative interrogatives . . . . . . . . . . . . . 416
+11.1.3.5 Question word interrogatives . . . . . . . . . . . 418
+11.1.3.6 Speculative sentences . . . . . . . . . . . . . . . 419
+11.1.4 Imperative and optative . . . . . . . . . . . . . . . . . . . . 420
+11.1.5 Assumptive . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+11.2 Predicate morphology, sentence type, and subject identity . . . . . . 423
+11.2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 423
+11.2.1.1 Conjunct/disjunct systems . . . . . . . . . . . . . 423
+11.2.1.2 Relevance to Duna . . . . . . . . . . . . . . . . . 425
+11.2.2 Evidential markers . . . . . . . . . . . . . . . . . . . . . . 426
+11.2.2.1 ‘Viewpoint shift’ and evidential markers . . . . . 426
+11.2.2.2 Typical distribution . . . . . . . . . . . . . . . . 428
+11.2.2.3 Non-volitional subjects . . . . . . . . . . . . . . 430
+11.2.2.4 Dreaming . . . . . . . . . . . . . . . . . . . . . 433
+11.2.2.5 Declaratives with addressee as perceiver . . . . . 433
+11.2.2.6 Extended disassociation . . . . . . . . . . . . . . 435
+11.2.2.7 Summary . . . . . . . . . . . . . . . . . . . . . . 438
+11.2.3 Intentive and prophetic inflections . . . . . . . . . . . . . . 438
+11.2.3.1 Introduction . . . . . . . . . . . . . . . . . . . . 438
+11.2.3.2 Declarative distribution . . . . . . . . . . . . . . 439
+11.2.3.3 Interrogative distribution . . . . . . . . . . . . . 441
+11.2.3.4 ‘Impossible proposition’ interrogatives . . . . . . 444
+11.2.3.5 Further comments on intentive declaratives . . . . 445
+11.2.3.6 Summary . . . . . . . . . . . . . . . . . . . . . . 447
+11.2.4 Deontic modality inflections . . . . . . . . . . . . . . . . . 447
+11.2.4.1 Promissive . . . . . . . . . . . . . . . . . . . . . 447xviCONTENTS11.2.4.2 Prohibitive, hortative, and desiderative . . . . . . 448
+11.3 Epistemic assessment and the final predicate: an overview . . . . . 451
+Appendix 1: List of recorded texts457Appendix 2: Sample texts462Bibliography487List of Tables1.1
+1.2
+1.3Some significant events and processes in recent Duna history . . . . 11
+Speakers who contributed textual data . . . . . . . . . . . . . . . . 21
+Data types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262.1 Consonant phonemes . . . . . . . . . . . . . . . . . . . . . . . . . 29
+2.2 Vowel phonemes . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+2.3 Typical underlying syllable structures . . . . . . . . . . . . . . . . 29
+2.4 Features as employed in phonological rules (consonants) . . . . . . 30
+2.5 Some varying realisations of word-initial voiceless aspirated stops . 31
+2.6 Some varying realisations of word-initial voiceless unaspirated stops 32
+2.7 Consonant contrast: word-initial bilabial stops . . . . . . . . . . . . 33
+2.8 Consonant contrast: word-initial (dento-)alveolar stops . . . . . . . 33
+2.9 Consonant contrast: word-initial velar stops . . . . . . . . . . . . . 34
+2.10 Some varying realisations of word-medial voiceless stops . . . . . . 34
+2.11 Typical realisation of word initial prenasalised and nasal stops . . . 35
+2.12 Word-initial prenasalised stop/nasal stop alternation . . . . . . . . . 35
+2.13 Consonant contrast: word-medial bilabial stops . . . . . . . . . . . 36
+2.14 Consonant contrast: word-medial (dento-)alveolar stops . . . . . . . 37
+2.15 Consonant contrast: word-medial velar stops . . . . . . . . . . . . . 37
+2.16 Consonant contrast: word-initial (dento-)alveolars . . . . . . . . . . 38
+2.17 Consonant contrast: word-medial alveolar tap and lateral flap . . . . 38
+2.18 Examples of word-initial and word-medial glide phonemes . . . . . 39
+2.19 Features employed in phonological rules (vowels) . . . . . . . . . . 40
+2.20 Vowel contrast . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+2.21 Words showing contrastive vocalic nasalisation . . . . . . . . . . . 42
+2.22 Attested underlying heterogeneous VV sequences . . . . . . . . . . 42
+2.23 Realisation of common VV sequences where V1 is non-high . . . . 43
+2.24 Examples of disyllables containing final /ua/ sequences . . . . . . . 45
+2.25 Examples of disyllables containing final /ia/ sequences . . . . . . . 45
+2.26 Examples of word-initial /ia/ and /ua/ sequences . . . . . . . . . . . 46
+2.27 Contrastive /ua/ in monosyllabic words . . . . . . . . . . . . . . . . 46
+2.28 V+V juncture: perfective inflection . . . . . . . . . . . . . . . . . . 47
+2.29 V+V juncture: stative inflection -i . . . . . . . . . . . . . . . . . . 47
+2.30 Conditioned palatalisation in the environment /i a/ . . . . . . . . . . 49
+2.31 Conditioned palatalisation of dento-alveolar stop in environment /u a/ 50
+2.32 Conditioned labialisation of velar and alveolar consonants . . . . . 51
+2.33 Posited labialised consonant phonemes . . . . . . . . . . . . . . . . 52
+2.34 Contrastive word-initial labialised consonants . . . . . . . . . . . . 52
+xviixviiiLIST OF TABLES2.35 Surface form [Cw] preceding e and i . . . . . . . . . . . . . . . . .
+2.36 Some Duna words derived from English and/or Tok Pisin . . . . . .
+2.37 Lexical pitch contours in citation . . . . . . . . . . . . . . . . . . .
+2.38 Pitch contrast: monosyllables . . . . . . . . . . . . . . . . . . . . .
+2.39 Pitch contrast: disyllables . . . . . . . . . . . . . . . . . . . . . . .
+2.40 Pitch contrast: trisyllables . . . . . . . . . . . . . . . . . . . . . . .
+2.41 Phoneme to grapheme correspondence . . . . . . . . . . . . . . . .","[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]"
+"3.2. Nominals71Table 3.1 Some examples of common nounshatia
+anda
+heka
+wawa
+rowa
+yawale
+nane
+mboko
+nu
+kuluparapu
+haka
+mana‘accessway, path, opening’
+‘house, building, dwelling’
+‘bird’
+‘egret (bird variety)’
+‘tree, wood, fire’
+‘casuarina tree’
+‘boy, young man’
+‘vomit’
+‘net-bag’
+‘musical pipes’
+‘word, language’
+‘custom, manner of behaviour’The common noun nane ‘boy, young man’ is a human-descriptive noun that
+makes reference to gender and age. Other human-descriptive nouns are kin terms
+such as hakini ‘female’s sister’, ame ‘father, male ancestor’.1 Human-descriptive
+nouns are productively combined as compound nouns (§5.2.1.3). They are commonly used as terms of address (see, for example, (113)), and some (most notably
+antia ‘mother’2 and nane ‘boy, young man’) are used as interjections and exclamations to express overwhelming emotion (for example amazement or grief), particularly in storytelling and song (see also Gillespie 2007b:107).
+Some common nouns can occur in construction with a verb in complex predication structures (§7.5). For example, the common noun mboko shown in Table 3.1
+is one of a small group of what I term ‘ailment nominals’. These occur in complex
+predicates that describe indispositions and are exemplified in §7.6.1.2.
+3.2.2Proper namesProper names (PN) denote particular unique items and are always referential.3 Unlike personal pronouns (§3.2.3) proper names are not deictic shifters, as the individuals they denote do not shift with respect to the identities of speaker and addressee. Duna proper names cannot usually be modified (for example, by demonstratives or quantifiers) or marked for specificity with the NP marker -na ‘SPEC’ (al1It is noticeable that many human-descriptive nouns have the (immutable) final syllable /ne/,
+for example: imane ‘girl, young woman’; khane ‘cross-sex sibling’; wane ‘daughter’. It is likely
+that this derives from a fossilised morphological operation, perhaps incorporating the ‘type’ suffix
+described in §5.2.1.1.
+2
+The word antia has an additional sense ‘big(gest), fat(test)’, showing a semantic extension that
+is quite widespread in the world’s languages, see for example: Matisoff (1991) for a general survey;
+Blust (1993) and Donohue and Grimes (2008), mainly in regard to Austronesian languages; and
+Evans (2003) on Bininj Gun-Wok (Western Arnhemland, Australia).
+3
+See Stürzenhofecker (1998:46-8) and Haley (2002:117-24) regarding the significance of personal names, place names, naming, and name-changing in Duna culture.","[99, 100]"
+"NOT- INT= OPIN - SPEC say- SEQ‘You have no wings, you will not fly {I opine} [she] said...’ (T/YS:270205)
+21Fasu (Namo Me) has a post-verbal particle with the form /pi/ that has similar meaning to the
+Duna =pi (May and Loeweke 1980). In both cases it seems plausible that the particle is related to
+the Engan subgroup word /pi(i)/ ‘language’ (Lang 1973; Rule 1977; Lomas 1988), building on the
+idea of thought as internal utterance.",[422]
+"=3SG tomorrow PLNgo-INTsay-PFV.VIS . P‘Kenny will go to Mt. Hagen tomorrow, [Kenny or someone] said.’ (CD)
+(1009)Lepani Mospi nga-nda ri-tia-na,
+PSNPLNgo-INTkão=koae=pe, ene=koae, kosay-PFV.VIS . P-SPEC lie=HYP=Qtrue=HYP2SGwaki po=pe.
+hear do.PFV=Q‘Lepani is going to Moresby [people] said, I wonder could it be false or
+true, have you heard?’(CED/XIV:85)
+Examples such as (1008) and (1009) suggest that in at least some circumstances
+ritia can have the grammatical status of an epistemic particle, rather than being
+part of a construction that has comparable semantics to epistemic marking, but is
+structurally distinct from it. However as described in regard to (1005) this not the
+case for all speakers, and more data are required to examine the viability of this
+structure in natural language.
+10.5.3Some constructions with ke- ‘see’The verb ke- ‘see’ can also be used in constructions that expand the evidencemarking repertoire. In these cases, the perception event (the experience of information source) that is entailed by evidential markers is in a sense overtly expressed as
+a complement-taking verb.",[431]
+"1SG PSN house-LOC go-DEP
+‘I went to Yuwi’s house...’ [i.e, went to live with him as his wife] (T/KP:061103)7.5. Complex predicates with nouns and adjectives(553)247* anoa no nga-nda
+man 1SG go-INT* I will marry (CD/XIV:162)
+(554)ko ndulu anoa paye ndu-ne anoa nga-na=nia.
+2SG once man good one-PR man go-PROPH=ASSERT‘One day you will marry with a good man.’ (CED/XIV:135)
+Unlike serialised verbs and predicates that include verb adjuncts, adjunct noun
+constructions such as those shown in (547a) to (552) are not usually negated as a
+unit, as shown by the unacceptability of (555a). Negation can be expressed through
+applying the negative circumfix to the verb only, as shown in (555b). Example
+(555b) shows that in an alternative interrogative (§11.1.3.4) the nominal may be
+omitted at the second iteration of the predicate.
+(555)a. * Juli anoa ngo=pe na-anoa nga-ya
+PSN mango.PFV=Q NEG-man go-NEGb. Juli anoa ngo=pe, (anoa) na-nga-ya.
+PSN mango.PFV=Q manNEG -go- NEG‘Did Julie marry, or not marry?’ (CD/XIV:113)
+7.5.3Object-verb predicationsThe general template of an object-verb predication is represented in Figure 7.5.
+——————————————————————
+(NPsubject ) h NPobject Verb ipredicate
+——————————————————————
+Figure 7.5 Template of an ‘object-verb predication’Object-verb predications are predications that involve an NP and a verb. They
+do not really represent a single formally distinct construction type, as the major
+defining criterion is semantic and gradient rather than structural and categorically
+discrete. Clauses that include object-verb predications show some characteristics
+of ordinary bivalent clauses with subject and object NPs. They also share similarities with adjunct noun constructions in that word order is typically restricted, and
+the meaning of the predication is substantially derived from a nominal constituent.
+Object-verb predications are similar to ‘restricted collocations’ (Cowie 1998), combinations of words where the meaning of one element is “governed by its association
+with another word or phrase” (Pawley 2007:7), for example, the expression ‘meet
+demands’ in English. They are also idiomatic under Nunberg et al.’s (1994) definition in that the meaning cannot be predicted from the sum of its parts, and a literal248Chapter 7. Some complex predicate structuresTable 7.10 Some ‘object-verb predication’ expressionsNoun or semantic field
+apa
+‘egg’Verb
+era‘be/put’Meaning
+‘lay eggs’puri
+‘urine’era-‘urinate’khia
+‘faeces’era-‘defecate’khiau
+‘fire-making kit ’suwa
+‘hold’‘use fire-making kit to make fire’vehicle
+e.g. kharo ‘car’suwa-‘drive/board a vehicle’mali
+‘dance’suwa-‘hold a mali dance’creature
+e.g. heka ‘bird ’suwa-‘transform (oneself) into a creature’eya
+‘cord, fibre ’na‘eat’‘hang oneself’interpretation of the phrase is cases possible, albeit rather odd. Some examples of
+object-verb predications are shown in Table 7.10.
+It can be seen in Table 7.10 that some object-verb predications are part of a
+family of expressions which follow a generalised semantic structure, rather than
+being one-off expressions. For example, the existential verb (e)ra- ‘be/put’ occurs
+in construction with nouns that denote bodily substances in clauses that describe
+extrusion or excretion. The more members there are of the family, the more tenable
+it becomes to say that what we are dealing with here is (constructional) polysemy
+of the verb (see also §7.5.4.2).
+Examples (556) - (560) illustrate some of the expressions shown in Table 7.10.
+The apparent ‘object’ noun is unmodified and immediately precedes the verb.
+(556)khia ra-ndamaru.faeces be/put-INT go.IMP say.PFV‘Go to shit [he] said.’ (T/PK:201003i) (lit. ‘put shit’)
+(557)anoa hunia-kaayu khiau suwa-na.man this.EMPH-CS now fire.kit hold-SPEC‘Now this man of ours is making fire.’ (lit. hold fire-kit) (WD)7.5. Complex predicates with nouns and adjectives(558)nane-na =kho resisi-nawini-rane,249kho mbalutaboy-SPEC =3SG competition.lw-SPEC win.lw-SW. SEQ 3SG planesi-ya-tangori-tia.hold-DEP-SEQ go.PFV say-PFV.VIS . P‘The boy won the competition, and having boarded the plane [lit. hold
+plane] he went off, it was said.’ (T/Josepin)
+(559)khunu heka suwa-ta phaka-ya...
+3PLbird hold-SEQ fly-DEP‘They transformed into birds [lit: hold bird] and flew...’ (T/YS:270205)
+(560)no eya na-nda.
+1SG rope eat-INT‘I will hang myself.’ (lit. eat rope) (ED)
+As with adjunct nominal constructions, placing the ‘object’ noun before the subject argument usually doesn’t work; see (561) and (562). This kind of inflexibility
+argues against treating the expression as a typical bivalent clause (as subject and
+object NPs can normally appear in either SO or OS order, the latter being pragmatically marked).
+(561)* heka imane su
+bird girlhold.PFV* A woman transformed into a bird (CD/XIV:76)
+(Could mean: ‘A woman held a bird.’)
+(562)* eya no nanda
+cord 1SG eat-INT* I will hang myself (CD/XIV:156)
+(Could mean: ‘I will eat cord’)
+However, for at least some expressions, the nominal appears to be the head of a
+full NP that references a P argument. In (563) the noun is modified by an adjective.
+In (564) the noun is marked as specific (that is, is clearly referential) and does not
+occur in the same clause as its host verb but in the preceding clause, that is, the
+item is referenced through zero anaphora. In (564), there is no reason to analyse
+mbalutana ‘the plane’ as anything other than an object NP, beyond the fact that it
+collocates with a particular specialised meaning of the verb suwa- ‘hold’. This is
+not in itself sufficient grounds to propose a distinct structural relationship.
+(563)ho-nanane kete si-tiari-na.there-SPEC boy little hold-PFV.VIS . P say.STAT-SPEC‘This one transformed into a little boy, it is said. ’(T/JS:KG05V5.40)250(564)Chapter 7. Some complex predicate structuresmbaluta-na sa-tasi-ya-takho ngori-tia.plane-SPEC take-SEQ hold-DEP-SEQ 3SG go.PFV say-PFV.VIS . P‘[He] got the plane and boarded [it] and he went off, it was said.’
+(T/JP:KG05V7.11)
+Individual object-verb predications show some differences concerning whether
+or not the nominal element and the verb in the construction must be immediately
+contiguous. For example, for the phrase khiau suwa- ‘use fire-making kit’, it is
+possible for the time/manner word ala to occur in between the constituents (565),
+and a locative NP can occur between hapa ‘egg’ and era- ‘put’ in the expression
+‘lay eggs’ (566). See also the phrase mali suwa- ‘hold a mali dance’ in (549), in
+which an (interrogative) temporal occurs in between the noun and the verb.
+(565)no hawa na-ndakhiau ala suwa-nda...","[275, 276, 277, 278, 279]"
+"11.1. Overview of sentence types417(1030) Yerepi Pake kei=pe
+PNiiina-ka-ya.be/stand.STAT=Q NEG-be/stand-NEG‘Is Yerepi Pake there or not?’ (P/AM:NH03T12B)
+(1031)a. mbaluta ho=pe,
+planena-hoa-ya.come.PFV=Q NEG-come-NEG‘Did the plane come, or not?’
+b. na-hoa-ya.
+NEG -come- NEG‘It didn’t come.’ (ED/III:42)
+(1032)a. ko ame-ka pikono ruwa-na=pe, na-ri-ya-na.
+2SG father-CS pikono say-HAB=QNEG -say- NEG - HAB‘Would your father tell pikono stories, or not?’
+b. no ame-ka pikono ruwa-na wa-ta.
+1SG father-CS pikono say-HAB do-SEQ‘My father would tell pikono.’ (IV/KK-KY:KG05V3(2).7)
+Alternative polarity interrogatives such as those shown in (1030) - (1032) are
+functionally akin to ‘yes/no questions’ in that they ask, is something the case? However, the scenario of this something not being the case is made lexically explicit in
+the utterance; these examples are thus similar to ‘disjunctive-negative’ structures
+(König and Siemund 2007:297) that occur in languages such as Mandarin.
+Examples (1033) - (1035) show some further alternative interrogatives. These
+do not offer two alternatives of differing polarity, but detail possible propositions
+that ‘sketch’ (either more or less exhaustively) the semantic domain of the required
+information. Answers are shown in the ‘b’ lines.
+(1033)a. kei=pe,ngoya?be/stand.STAT=Q go.IPFV‘Is [he] standing there, or going?’
+b. ngoya-na.
+go.IMPV-SPEC‘He is going.’ (ED/VIII:23)
+(1034)a. imane=pe, nane?
+girl=Qboy‘Is [that person] a girl, or boy?’
+b. imane=pi-na.
+girl=OPIN-SPEC‘A girl {I opine}.’ (OH)418Chapter 11. Final morphology and sentence type(1035)a. ayu ko khã-takei-na,khao-yaro-na=pe,now 2SG desire-SEQ be/stand.STAT-SPEC redskin-BEN be/put.PFV-SPEC=Qmindu-ya ro-na.
+black-BEN be/put.PFV-SPEC‘Now, the things you like, are they the things of white people, or the
+things of black people?’
+b. ee, no no ame-ya ro.
+hes. 1SG 1SG father-BEN be/put.PFV‘Ah, I have the things of my own ancestors.’ (IV/KK-KY:KG05V3(2).7)
+Example (1036) shows an interrogative with more complex alternative propositions. The form =pe is repeated as a semi-independent form in between the alternatives, functioning like a coordinating conjunction. This repeated semi-independent
+use of =pe is common if the alternatives are contrasted but not really ‘parallel’ propositions (that is, they differ according to several parameters, as in (1036)), or if
+more than two alternatives are listed. See also (603) in §7.5.5.2.
+(1036)oke, imanoa mbatia or say Kristian mbatia-ka, ha-me-ka
+okay people someor say Christian some-CSruwa-me-ka ri-tia=pe,
+say-MNR-?pe, kete konokathere-MNR-? 2SGangara-angara-tia.say-PFV.VIS . P=Q Q little thought gather-gather-PFV.VIS . P‘Okay so some people or for example some Christian churchgoers, did they
+read it like so in the way that you read it [i.e., without hesitation], or, did
+they gather their thoughts a little?’ (IV/PK-HY:150605i)
+11.1.3.5Question word interrogativesInterrogatives may alternatively be ‘question word’ interrogatives (Payne 1997) that
+contain an interrogative pro-form (§3.9). The pro-form stands for information that is
+missing from the speaker’s knowledge of the proposition, and which the addressee
+is asked to supply (Sadock and Zwicky 1985:185). Some examples are shown in
+(1037) - (1041). Interrogatives that contain pro-forms may be marked with =pe,
+as in (1038) and (1039), or not, as in (1037), (1040), and (1041). I do not know
+what factors motivate this alternation, but the presence of an interrogative pro-form
+means the sentences are formally interrogative and inherently question-like in either
+case.6
+(1037)ko ai.
+2SG who‘Who are you?’ (T/IH:NH03T6A)
+6König and Siemund (2007:300) note that, although the application of an interrogative particle
+would seem to be superfluous in constituent (question-word) interrogatives, it was nevertheless the
+case that in approximately half of the languages they sampled, interrogative particles could optionally be added to constituent interrogatives.","[445, 446, 447]"
+"Adjectives and -ne(116)kete-neramene-nasmall-TYPE group-SPEC‘the group of little bits’(T/PP:250903)
+In example (117) (taken from a text by one of the oldest contributing speakers),
+ketene occurs following a noun. This is a position that can be occupied by adjectives
+(§5.2.2), suggesting that -ne is not functioning as a nominaliser in this example.5
+(117)nane kete-neroka rokaboy small-TYPE many many‘many many little boys’ (T/RS:221203ii)
+It is also plausible that ketene occurs in (117) as a nominal specifier (§5.2.1.5)
+specifying a particular kind of nane.6
+4An ordinal noun meaning ‘the first’ is perhaps derivable from the number mbitu ‘one’, but I
+have not tested this.
+5
+This example may illustrate a relationship between the nominalising -ne and the homophonous
+pairing marker that occurs on nominals: an earlier generic marker -ne can be posited meaning something like ‘items of like kind’ that has split into distinct nominalising and pairing functions. It is
+also noticeable that several kin-terms and human-referent nouns include the sequence /nE/ as a final
+syllable, suggesting thay these terms may derive from complex words that specified related kinds of
+people (consider, for example, imane ‘girl, young woman’ and ima ‘woman’).
+6
+Note that nane is an appropriate term for a wide age group, and can be used to refer to adult
+(typically unmarried) men as well as male children or adolescents.",[159]
+"1SG 2SG.CS strike-DEP strike leave-PFV.VIS . P-SPEC‘You struck me, struck as much as you could {I saw}.’ (T/HS:080305iii)
+(1061) no ngutia=pe.
+1SG go.PFV.VIS . P=Q‘I went {you saw}?!!’ [but did you actually see me go, I don’t think so!]
+(CD/XIV:76)
+Evidential marking typically does not occur in declaratives with a volitional
+speaker subject, or interrogatives with a volitional addressee subject. Such marking
+is generally judged odd or ungrammatical. I found that this judgment was particularly strong concerning visual and sensory category evidential markers; KK, RA,
+PK and KP all categorically rejected constructed declaratives such as (1062) and
+(1063) (speaker subject + visual or sensory evidential) and interrogatives such as
+(1064) and (1065) (addressee subject + visual or sensory evidential) as unsayable.
+(1062) * no hutia
+1SG come.PFV.VIS . P* I came (CD/VIII:8)
+(1063)* no nga-yarua
+1SG go-SNS . C* I go (CD/XIV:21)
+(1064)* ko ayu anguhutia=pe2SG now RESTRICT come.PFV.VIS . P=Q* You came just today? (CD/VIII:8)
+(1065)* ko waki-u-yarua=pe
+2SG hear-PFV-SNS . C=Q* You have heard this before? (CD/XIV:121)
+Examples (1066) - (1068) illustrate the non-informant subject implication of
+evidential markers in some constructed sentences. These were not judged to be
+ungrammatical, as a sensible interpretation of a third person subject argument was
+readily plausible in each case. In (1066) and (1067), the pronouns that correspond
+to the informant were assumed to be object NPs, and subject NPs were assumed to
+be elided (§4.2.3.3). In (1068) the second person pronoun ko was assumed to refer
+to a possessor, and the subject NP elided.
+(1066)no ke-yahutia.",[458]
+"11.1. Overview of sentence types11.1.5421AssumptiveAssumptive sentences include those with predicates that are marked with certain information status markers: the shared standpoint morpheme -ra (§9.3.3.1), dramatic
+markers (§9.3.3.3), and the provocative inflections (§9.3.4). I call sentences that
+are marked with these morphemes ‘assumptive’ because they signal an assumption
+the speaker is making concerning the addressee’s state of mind, and express the
+speaker’s ‘take’ on the addressee’s epistemic relationship to this proposition.9 For
+example, use of the expective marker (§9.3.4.2) signals a speaker’s assumption that
+the addressee has failed to consider the situation denoted by the proposition.
+The illocutionary force of an assumptive sentence is complex. They function
+somewhat like statements, in that they present the proposition as information that
+is known to the speaker. However, each morpheme has further particular functional
+characteristics. For example, the expective marker is typically used in obliquely
+advising the addressee concerning a course of action, which relates to the function
+of directive speech acts. The potential observation marker is typically used in trying
+to extract information from the addressee, which relates to the function of questions.
+In keeping with this inherent functional multiplicity, the way certain assumptive
+sentences fit in with an overall formal classification of sentence types is problematic.
+As can be noted from Table 11.1, assumptive sentences are basically defined negatively as those that do not show features typical of other identified sentence types.
+They are grouped together as a collection of misfits that share some formal, functional, and semantic commonalities, but it is not clear that they represent a unified
+category of their own, and in some cases there is evidence to support classification
+as belonging to another major sentence type.
+For example, the shared viewpoint marker -ra marks a proposition as somehow
+familiar to both speaker and hearer. Such utterances are not typically informative,
+as the speaker intimates that the addressee already has a pretty good idea of what
+he or she is talking about, but they are assertive, and in this respect are similar to
+declarative sentences. The shared viewpoint marker also appears to have a formal
+property that is typical of declarative markers, the ability to be marked with the SPEC
+marker -na. However, it is difficult to assess whether -ra shares the core property of
+declarative markers, which is the ability to occur in interrogative sentences.
+The marker -ra does not occur productively with =pe in interrogative sentences,
+but this combination is represented in the fused form -rape that occurs in speculative
+sentences (§11.1.3.6), so there is not really a clear answer to this question. Further,
+9This is not to say that the use of other sentence types does not also involve making assumptions
+about the addressee’s state of mind: this is a fairly essential tenet of talking to other people. However, assumptive sentences necessarily signify something quite particular about the nature of this
+assumption, which is not generally the case for other sentence types.","[449, 450]"
+"490BIBLIOGRAPHYDik, S. C. (1989). The theory of functional grammar. Part 1: the structure of the
+clause. Dordrecht, Holland; Providence, USA: Foris Publications.
+Dixon, R. (2003). Demonstratives: a cross-linguistic typology. Studies in Language 27(1), 61–112.
+Dixon, R. (2004). Adjective classes in typological perspective. In A. Aikhenvald
+and R. Dixon (Eds.), Adjective classes, pp. 1–49. Oxford: Oxford University
+Press.
+Donohue, C. and M. Donohue (1997). Fore case marking. Language and Linguistics
+in Melanesia 28, 69–98.
+Donohue, M. (1997). Tone systems in New Guinea. Linguistic Typology 1, 347–
+386.
+Donohue, M. (2002). The tonal system of Skou, New Guinea. In S. Kaji (Ed.),
+Cross-linguistic studies of tonal phenomena, pp. 329–364. Tokyo: Tokyo University of Foreign Studies.
+Donohue, M. (2005). Configurationality in the languages of New Guinea. Australian Journal of Linguistics 25(2), 181–218.
+Donohue, M. and C. E. Grimes (2008). Yet more on the position of the languages
+of Eastern Indonesia and East Timor. Oceanic Linguistics 47(1), 114–158.
+Dryer, M. (2007a). Clause types. In T. Shopen (Ed.), Language typology and syntactic description, Volume I: Clause structure, pp. 224–275. Cambridge: Cambridge University Press.
+Dryer, M. (2007b). Word order. In T. Shopen (Ed.), Language typology and syntactic description, Volume I: Clause structure, pp. 61–131. Cambridge: Cambridge University Press.
+Durie, M. (1997). Grammatical structures in verb serialization. In A. Alsina,
+J. Bresnan, and P. Sells (Eds.), Complex predicates, pp. 289–354. Stanford, California: CSLI Publications.
+Eklund, R. (2007). Pulmonic ingressive speech: a neglected universal? In Proceedings of Fonetik 2007, 30 May - 1 June, Stockholm, Sweden. TMH-QPSR vol. 50,
+pp. 21–24.
+Evans, N. (2000). Word classes in the world’s languages. In G. Booij, C. Lehmann,
+and J. Mugdan (Eds.), Morphology: an international handbook on inflection and
+word-formation, Volume 1, pp. 708–732. Berlin; New York: Walter de Gruyter.
+Evans, N. (2003). Bininj Gun-Wok: a pan-dialectal grammar of Mayali, Kunwinjku
+and Kune. Canberra: Pacific Linguistics, Australian National University.
+Evans, N. (2005). View within a view: towards a typology of multiple perspective
+constructions. In Proceedings of BLS31. Berkeley Linguistics Society, University
+of California at Berkeley.","[518, 519]"
+"454Chapter 11. Final morphology and sentence typeboth bare and inflected verb forms) are shared by at least some other morphemes,
+and not by all markers of the set. A semantic characterisation, as ‘indicating information source’ is not entirely representative of the markers’ uses (see for example
+§9.2.6), and the impersonal evidential markers in particular show some semantic
+commonality with the information status markers, as they are concerned with the
+minds of people other than the speaker. Similarly, the information status markers show some relationship to ‘source of information’, albeit as something that is
+defined in reference to the speech situation rather than (or as well as) the perceptual mode by which the predicated event is known. Additionally, what I identify
+as a central theme of epistemic assessment, the encoding of a relationship between
+speaker and proposition, is attested in morphemes that are formally indistinguishable from TAM markers (for example, the intentive and prophetic inflections, the
+‘provocative’ markers, see §9.3.4), morphemes that do not share the typical formal
+capacity to occur as ancillary markers as well as primary inflections.
+It is similarly difficult to identify epistemic assessment as something that is obligatorily encoded on the final predicate. However, it is not really easy to identify
+any single semantic category as being obligatorily encoded on final predicates in
+Duna. Generally, it seems fair to say that a final verbal predicate must be interpretable as regards an actualisation/time value for the predicated event in relation to
+the time of the speech event. If this is not specified by a TAM marker, it is supplied
+through an information status marker, or through the time-reference that is specified
+or implicated by an inflectional evidential marker.
+Questions remain as to whether it is also true to say that epistemic assessment
+values are implicated by TAM markers. It is probably the case that using inflections
+such as the stative, perfective, and habitual as the only marking on a final verb at
+least have connotations of certainty and personal experience, in contrast to all the
+other kinds of experience that could be marked, and this is an important issue that
+requires further investigation, with particular emphasis on conversational data. If it
+is the case that such inflections supply epistemic assessment features, these probably arise through partially contrastive relationships of functional opposition, rather
+than from the minimally contrastive encoding of recognisably constant parameters,
+although the latter is also possible, with information source being a particularly
+likely candidate.
+Epistemic assessment is thus neither a strictly obligatory nor formally coherent
+grammaticised category in Duna. It is possible to create any number of well formed
+sentences without overtly encoding features that relate specifically to the treatment
+of the proposition as knowledge. Nevertheless, the expression of such features is
+pervasive in the language, richly encoded by a range of bound morphemes that have11.3. Epistemic assessment and the final predicate: an overview455an array of formal, functional and combinatorial properties. These forms support
+and comprise recognition that to speak is to engage in the creation, interpretation,
+and assessment of a collaboratively known and realised world.","[482, 483, 484]"
+"I assume that an NP in this situation bears a subject relation, unless context
+clearly suggests otherwise. For example, if (89a) occurred as the answer to a question such as ‘Whose house are you going to?’ I would interpret no ‘1SG’ as a
+possessor rather than a subject.
+4.2.4
+4.2.4.1Some marked word order/intonation patterns
+IntroductionIn this section I exemplify some marked word order constructions in which the
+ordering of subjects, objects, and obliques differs from the typical order shown in
+Figure 4.2 (§4.2.2.3) in a systematically meaningful way. Marked constructions
+typically involve movement of a phrase that is prominent in some way to the front
+or back of the clause, where it may be prosodically marked as separate from the
+remaining clausal constituents.
+I define three features of these marked constructions: movement, copying, and
+broken intonation. In some situations the features are codependent.22
+Movement refers to the placing of an NP, PP or PlcP at either the left or right
+edge of the clause, contrary to typical word order preference as described in Figure
+4.2. Copying refers to the coreference of an initial or final constituent by a pronominal element within the clause. Broken intonation refers to distinct prosodic
+treatment of the first referring expression of the unit, or of a post-verbal referring
+expression. In the first case, the initial phrase is pronounced with rising intonation followed by a pause (‘comma intonation’), and there is thus an intonation unit
+boundary between it and the clausal constituents that follow it. In the second case,
+the right-moved phrase follows a predicate that is pronounced with closing intonation (distinguishing it from a clefted constituent).
+I refer to left movement in Duna text that does not also involve copying or
+broken intonation as fronting. Fronting is primarily associated with the pragmatic
+property focus, and is only relevant to non-subject arguments, as subjects typically
+precede other constituents in unmarked order.23
+22For example, an object argument that is copied must also be moved (unless movement is a null
+feature, for example, if the subject argument of the clause is elided rather than overt).
+23
+The fact that subject NPs generally occur clause initially suggests a default treatment of the
+subject as a prominent participant.",[149]
+"1605.4.1.1Chapter 5. Constituents of nominal phrasesPair compound NPs (tight collocation)Prototypical features of pair compound NPs are: they include two adjacent nominals that make up a single intonation unit with no discernible pause after the first
+nominal; there is morphological group or pair marking (§6.3.2.2, §6.3.3) as for a
+single NP; and other bound forms such as role-marking markers or dependent pronouns are applied as for a single NP constituent. Examples (235) - (237) typify pair
+compound NPs.
+(235)wiyawi-ne stori ndu ha-na.tree.game dog-PR story one there-SPEC‘That is a tree-game and dog story.’ (T/HY:201003i)
+(236)yeika solete ho=pi-yane, ho rindi ho-tawa-na.dance dance here=OPIN-PR here ground here-LOC do-HAB‘These yekia and solete dances would be done here at this place.’
+(T/RS:221203v)
+(237)ingini antia -ra-yane, ayake -ra-ta
+sonkerema kerema-ya nga-ya...mother -SHRD-PR tree.var -SHRD-LOC ascend ascend-DEP go-DEP‘This mother and son, they climbed away up the ayake tree...’
+(T/JK:KG05V5.27)
+In examples such as (237) the pair compound NP is functionally equivalent to
+a dyadic kin term. Such terms are present in one of Duna’s neighbours, Oksapmin
+(Loughnane 2008).
+In example (238), the paired nominals are the same word. This can be interpreted as a complex repeated nominal (§5.2.1.4), comprising a simple NP that is
+marked for pairhood (§6.3.3), or a pair compound NP.
+(238)sakore siasia-ne-tandu-ka retoro si-ya...softly foot/leg foot/leg-PR-LOC one-CS firmly hold-DEP‘Quietly one [of them] grasped [the cannibal] firmly by the legs...’
+(T/IH:NH03T6A)
+5.4.1.2Listing construction (loose collocation)Prototypical features of a listing construction include: it occurs at the beginning of
+a sentence; has an intonation pattern such that each NP is a distinct intonation unit;
+shows parallelism across members, for example, each NP is similarly marked as
+definite or otherwise; either none or all of the NPs in the list are marked with a pair
+or group marker; and the list is followed by a nominal phrase that is an umbrella
+term for all the pair/group members (for example, a plural pronoun), and that bears
+NP-final morphology as relevant (for example, contrasted subject marking).
+Two examples that typify the listing construction are shown in (239) and (240).","[188, 189]"
+"2.1. Consonants and vowels39The glottal fricative occurs only root-initially. It is subject to deletion, thus
+occupying somewhat marginal status as a contrastive phoneme.9 Although speakers
+I worked with generally had a clear and consistent idea of whether a word started
+with [h] or simply with a vowel, and would clearly pronounce an initial glottal
+fricative in careful word-isolating speech, I observed that it was common for no
+word-initial [h] or [H] to be present in these words as they were pronounced in more
+natural speech contexts. Whilst /h/ appears to be part of the underlying form of
+certain words, it is unstable and as such does not carry a high functional load.
+2.1.2.7GlidesPhonemic palatal and bilabial glide consonants occur as syllable onsets word-initially
+and word-medially. The glides do not exhibit much allophonic variation, being typically realised as [j] and [w], respectively.10 Some examples of words containing
+glide phonemes word-initially and word-medially are shown in Table 2.18. See
+§2.1.3.2 concerning changes in vowel realisation and contrast following glides.
+Table 2.18 Examples of word-initial and word-medial glide phonemesjawi - RjEta - Cju - Cph ujaaju - R‘dog’‘blood’‘water’‘snake’‘axe’wawa - RwEnawi - FawE‘heron’‘fish’‘tree.game’‘later’Word-medial surface glides that precede the vowel /a/ can be analysed as being
+underlyingly glides or vowels; see §2.1.4.3. I interpret word-medial glide onsets as
+phonemic glides in all cases. This convention allows a more consistent representation of surface [GV] sequences in general. See Table 2.27 concerning word-initial
+contrast between syllables with a /w/ glide onset and VV sequences in which the
+first vowel is /u/.
+2.1.3
+2.1.3.1Vowel allophony and contrast
+IntroductionThis section presents vocalic minimal and/or near-minimal pairs, describes some
+environmentally conditioned vowel allophones, and provides examples of words
+with phonemically nasalised vowels.
+Table 2.19 shows feature values of the vowels that I refer to in this section and
+in sections 2.1.4 and 2.1.5.2.
+9Giles (MSb) notes that, “h occurs as in English, mostly occurring only at the beginning of word
+roots. It is common for this ‘h’ to be dropped by some speakers”.
+10
+Giles (MSb) notes that the palatal glide of the Kelabo dialect is often fricativised (as it is in Huli,
+see Lomas 1988), but I did not notice this to be the case in the Lake Kopiago area.","[67, 68]"
+"12Chapter 1. Introduction1.2Duna language1.2.1Language variationIn this thesis I describe Duna as spoken in the Lake Kopiago area. Most of the
+people who provided me with language data identified the parish of Hirane (§1.3.1)
+as their primary residence (Table 1.2) and have lived near Kopiago for most of their
+lives. I have not systematically investigated regional variation within the Duna language. In this section, I comment on the perceptions of people of the Lake Kopiago
+area concerning language variation, supplemented by some additional observations
+made by myself and other researchers. An important contribution to discussion of
+this issue is the work of Glenda Giles (§1.2.4), who worked on a description of
+Duna based on data largely provided by speakers from the Kelabo area.
+For the Duna people of Lake Kopiago, there is a perception that Duna as spoken
+in the north-western half of the territory (in the Kopiago Basin and moving northwest into the Aluni Valley) is different from that of the south-eastern region, which
+includes the upper Tumbudi and Pori Valleys, some major settlements being Kelabo
+and Pori. Typically, Duna as spoken in the south-east is regarded by Lake Kopiago
+people as being strongly influenced by Huli, and such settlements are denigrated as
+speaking mixed rather than true Duna language. Haley (2002:200) comments with
+regard to the disputed identity of several parishes at the extreme south-east of Duna
+country that north-western Duna people “will often disparagingly state that people
+from these groups are more like Huli”, and that in these areas “residents are bilingual and have extensive connections to both Duna and Huli parishes”. Conversely,
+Richard Alo told me that people from the south-eastern areas regard those from
+the north-west as unsophisticated and backward country bumpkins, and make fun
+of certain aspects of their speech. Some phonological and lexical differences are
+observable between the north-west and south-east, although a comparison of Giles’
+pedagogical materials with the 2003-7 corpus does not suggest major systematic
+morphological or structural differences between the two regions.
+Sound features that were regarded by the Duna people I spoke with as particularly indicative of north-western as opposed to south-eastern Duna origins include
+lateral allophony of the voiceless dental stop (§2.1.2.2), and affrication of the initial
+prenasalised alevolar stop in the word ndu ‘one’ (§2.1.2.4). Giles (MSb) also noted
+that in the Kopiago region a fricative allophone [s] was the most common realisation of the alveo(-dental) consonant in the voiceless aspirated stop series (§2.1.2.2),
+whereas in the Kelabo region in the south-east, [th ] was dominant.
+There were several lexical distinctions that people in the Kopiago area raised in
+discussions of language differences. Duna has many synonym sets of two lexical
+items (for example, ‘water, liquid’ is both yu and ipa, ‘moon’ is both khana and1.2. Duna language13eke). Typically, one of the set of terms is identical to or clearly resembles a Huli
+word, suggesting that these are ultimately Huli words that have entered the Duna
+lexicon and now exist in parallel with older Duna words.16
+I found that in some cases, one term would be explicitly identified by northwestern Duna speakers as a marker of Huli-influenced speech of the south-east.
+For example in the north-west the word for ‘afternoon’ is yopo, whereas in the
+south-east people use the word alendo, which is the same as the Huli term (Rule
+and unknown collaborators 1971).17 Richard Alo commented that people of the
+south-east typically ridicule north-westerners for using the term mbeka for ‘drainage
+ditch’ instead of the Huli-like term kana. There are also some distinct usages of the
+same lexical item, for example in the south-east pindu denotes ‘stuff, belongings’,
+whereas in the north-west this word is reportedly only used as a euphemistic term
+for ‘genitals’.
+I consider it unlikely that a broad south-east/north-west distinction is sufficient
+to describe all geographical variation in the way Duna is spoken.18 However, contrastive identification of the north-west (far from the Huli) and south-east (close to
+the Huli) is clearly an important societal distinction for people of the Lake Kopiago Basin at least, and this is strongly expressed in their attitude to language variation.19 As such, I do make some further reference in this thesis to ‘north-west’ and
+16Shaw (1973) notes that 27-32% of Huli and Duna words in his 170 item basic vocabulary list
+were resemblant. A high proportion of these resemblances are probably due to borrowing from
+Huli into Duna (Voorhoeve 1975:395). Shaw found the resemblance between the Huli and Bogaia
+vocabulary to be only 5-10%, and this figure is probably a truer measure of the original relationship
+between Huli and the Duna-Bogaia subgroup.
+17
+My own observations concerning which speakers use which term in everyday speech confirm
+that yopo and alendo are markers of the north-west (for example, Kopiago Basin, Aluni Valley) and
+south-east (for example, Kelabo), respectively. However, use of the Huli-like term from a pair of
+synonymous words is not unequivocally diagnostic of a south-eastern speech variety in all cases.
+For example I have heard an older speaker who has lived in the Kopiago region all her life use
+the words yu and ipa (cf. Huli /ipa/) interchangeably within a single monologic text. See also
+Gillespie’s (2007b) comments concerning the origin of the compound word ipakana ‘song’, which
+is clearly resemblant with a Huli term but is nevertheless identified by Duna speakers of the Lake
+Kopiago region as unequivocally their own.
+18
+For example, Giles (MSb) records that labialised consonants in Pori vocabulary items correspond to non-labialised forms in Kelabo, and whilst in Aluni I noted a few vocabulary items that were
+different to Kopiago Duna.
+19
+Further to this, it is relevant to note people’s attitudes concerning written Duna. Glenda Giles’
+work of establishing a Duna orthography, translating the New Testament, and developing Duna
+literacy materials was primarily carried out in collaboration with Duna speakers from the south-east
+region. Further, much of this work was apparently achieved or refined while she was resident at
+Koroba (just on the Huli side of the border), in her capacity as head teacher at the Koroba High
+School. These facts have contributed to a strong identification of the current Duna orthography by
+people of the Lake Kopiago area as insidiously ‘Huli’. (The Duna alphabet as used by Giles is
+indeed extremely similar to that of Huli, reflecting the fact that the phonemic inventories of the two
+languages are very similar.) In my experience Duna speakers in the north-west are likely to interpret
+any difficulty they have in reading or writing Duna according to the established orthography as
+a direct consequence of Huli influence on Duna as spoken by Giles’ primary collaborators. For14Chapter 1. Introduction‘south-east’ Duna, but this is intended primarily as a geographical/social designation. Further work is needed to determine what linguistic features vary across Duna
+speakers, and examine how these may be representative of distinct dialects.
+1.2.2Tok Pisin and English in the Duna communityIn the Lake Kopiago area, Duna is the primary language in all domestic settings
+and in most public domains (for example, at the market, in court sessions, community meetings). Children learn Duna as their first language, and many people I
+met (especially older women and younger children) are apparently monolingual in
+Duna. On occasions where I witnessed an outsider in Lake Kopiago making public speeches (or suchlike) in Tok Pisin and/or English, their words would typically
+be translated into Duna by a self-appointed interpreter.20 Similarly, in church services that I attended the preacher would sometimes read from a Tok Pisin Bible, but
+would then ‘translate’ the passage immediately into Duna (sometimes producing an
+interpretation with additional commentary rather than a straight literal translation).
+Tok Pisin ((Neo-)Melanesian Pidgin) is the major lingua franca throughout at
+least the northern half of mainland PNG, and is also widely used in the National
+Capital District. It is an official national language of the country, along with English
+and Hiri Motu. Tok Pisin is primarily used in the Duna community to communicate
+with outsiders (that is, those who do not speak Duna); see also §1.2.3 concerning
+the school setting. Most people in the Kopiago area appear to have at least some
+familiarity with Tok Pisin.21 This familiarity ranges from full fluency, to passive
+comprehension but low production competence, to knowledge of a few vocabulary
+items and structures (for example, common nouns, imperative sentences). The level
+of competence typically reflects whether and for how long someone has spent time
+outside of the Duna community in areas where Tok Pisin is used as a major language
+of communication (for example, urban centres such as Mount Hagen). Fluent Tok
+Pisin speakers are typically men between the ages of about 25 and 60, who are likely
+to have spent periods outside of Duna territory looking for adventure and employment. People with very limited competence are (as already intimated in the previous
+example, in the New Testament orthography, a voiceless velar stop is represented as ‘g’. This is
+problematic for Duna people with some literacy in Tok Pisin who have had no training in the Duna
+orthography, as their expectation is that this symbol will be associated with a prenasalised voiced
+velar stop. People respond to these kinds of problems by divining that what is written is not actually
+‘our language’, but that of the south-eastern, Huli-like, Duna. It appears that the current orthographic
+and educational situation in the Lake Kopiago region (i.e., a severe lack of consistent training and
+institutional support for vernacular literacy educators, see §1.2.3) is incorporated into a mutually
+re-enforcing relationship with the trope of the north-west/south-east Duna divide.
+20
+However, see also Haley’s description of a significant meeting between Duna people and telecommunications officials where this was not the case. Haley comments that particular older, more
+knowledgeable men were effectively excluded from taking part in this discussion as it was conducted
+in Tok Pisin.
+21
+See also Gillespie (2007b) concerning the use of Tok Pisin in songs.","[40, 41, 42, 43]"

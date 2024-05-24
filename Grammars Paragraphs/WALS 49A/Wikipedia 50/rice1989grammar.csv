@@ -1,0 +1,2504 @@
+Paragraph,Page number
+"27.4Verb-finalcharacteristicsofSlaveAs discussed above, Slave has SOV word order. Greenberg (1963) discussed a number of characteristics of languages with different word orders. While Slave is typically verb-final based on Greenberg's criteria, it
+differs from Greenberg's 'typical' verb-final language in some ways.
+Slave shares the following characteristics with verb-final languages:
+1. It is postpositional.
+2. In postpositional langauges, the genitive precedes the
+noun. This is true in Slave, as shown by the example in (22).
+(22) Mary beno
+3.mother'Mary'sgoverningmother'3. In SOV dominant languages, adverbial modifiers tend to precede the
+verb. This is the case in Slave.
+4. Determiners usually precede the noun in verb-final languages. They
+do in Slave.
+Slave differs from the verb final languages considered by Greenberg in
+a number of ways.
+1. In languages with postpositions, question particles are generally
+sentence-final. The Slave question particle is sentence-initial.
+2. In verb-final languages, adjectives normally precede the noun.
+While Slave does not have real adjectives, adjectival type elements, the
+lexical modifiers, follow the noun.
+3. Relative clauses tend to precede the head noun in verb-final languages while in Slave they follow the head noun.
+While Slave is clearly an SOV language, it does not have all the characteristics of a strict SOV language as generally characterized in the linguistics literature.",[1048]
+"14.2UninflectedstemsA number of different stems can be used to modify nouns.
+As
+modifiers, these stems are never inflected for person or number. In many
+cases, a dependent suffix -e, a suffix which never occurs in the inflected
+form, is present when these stems function as qualifiers.
+Many descriptive and dimensional verb theme category stems can be238Part III.","[281, 282]"
+"30.6SummaryPossible coreference relations are determined in Slave by a rule of noncoreference, based on the notions of precedence and command, that designates when two noun phrases cannot refer to the same entity.
+Apparent
+anomalous sentences are accounted for by this rule if some postpositions
+also occur in the category conjunction.
+This chapter deals with one facet of coreference: that of assigning
+possible coreference relations between nouns and pronouns. With the exception of anaphors, there are no cases in which nouns and pronouns must
+be coreferential, while there are cases where they must be noncoreferential.
+Other cases of coreference, anaphors (reflexive, reciprocal,
+ye-),
+where there must be an antecedent within the sentence, are discussed in
+chapter 28. Cases where the interpretation of the subject of a complement
+is controlled by the subject or object of the higher verb are discussed in
+chapter 42.",[1091]
+"986Part IV. The ModelWhen a constituent is moved, it leaves behind a trace in its base generated position. The moved constituent and the trace are coindexed.
+The
+trace is free in reference in its sentence, like the pronoun.
+The constituents in topic position must have a reference somewhere in the sentence so that they can be interpreted: it and the coindexed trace are interpreted as having the same reference because they are coindexed.
+Base generated noun phrases in topic and question complementizer positions are handled differently. These noun phrases must be linked to a
+noun within the sentence to receive a reading. An interpretive rule does
+this. Matching of features between the nouns within S and the noun in
+topic or question complementizer positions filters out sentences where
+there is no noun phrase within the sentence that can be interpreted as
+coreferential to the dislocated noun. The dislocated noun is thus linked to
+an argument position of the verb and is interpreted as coreferential to
+that argument, taking on its grammatical and thematic roles.
+26.4.2Interpreting grammatical relationsAs discussed in section 26.4.1, logical form is a projection from the lexicon. In the lexicon, each verb includes a subcategorization frame indicating transitivity. The grammatical relations of subject and object are defined from these subcategorization frames.
+The subject of the sentence is the first NP immediately dominated by S
+and the object is a noninitial NP immediately dominated by S. Subject and
+object can thus be linearly defined. Oblique objects are NPS governed by
+postpositions (or objects of verbs requiring oblique objects) and possessors are NPs governed by another noun.
+Examples of these grammatical relations are shown in (163). Subjects
+are labelled 1, direct objects 2, and oblique objects 3.
+(163) a. John Mary nänijta
+1
+2
+b. Mary näniita
++3 Mary nänijta
+1
+2
+c. John nayenijta
+John +4 nayenijta
+1
+2
+d. John Mary ts'e gondeh
+1
+3'John kicked Mary'
+'s/he kicked Mary''John kicked him/her''John is talking to Mary'These same definitions apply in complex sentences, as in (164).
+(164)John Mary sheti ' o l ä
+'John made Mary eat'
+?
+John Mary [ +3 shetj ] o l a
+1 2
+1The Model987Within each sentence, grammatical relations are defined. 'John' is the first
+NP immediately dominated by S and is thus the subject. 'Mary' is the second NP immediately dominated by S and is the direct object. Within the
+lower sentence, the pronoun is a subject.
+These definitions also apply in sentences with nouns in topic and question complementizer position. In these cases, the dislocated noun is not
+dominated by S, but by S' or S"". Therefore it does not get assigned a
+grammatical relation directly.
+Instead, it is interpreted as having the
+grammatical relation of the noun to which it is linked by the rules discussed in section 26.4.1. (165) has a noun in topic position.
+(165)?ehkee 1J kayeyjhshu
+?s-[ NP[ ehkee ] s [li
+1'the boy, the dog bit him' (Hr)
+4 kayeyihshu ] ]
+2In this sentence, 'dog' is the subject and the pronoun the direct object.
+'Boy' is linked to the pronoun and gets interpreted as direct object.
+Grammatical relations are assigned on the basis of full phrase markers
+as projected from the lexicon.
+26.4.3Thematic relations 31Every noun must be assigned a thematic relation (agent, theme, location,
+goal, source, etc.). Thematic relations are assigned to nouns from the subcategorization frame of the verb in the lexicon.
+Only nouns within a simplex sentence have thematic relations assigned
+from the lexicon. Nouns in topic and question complementizer position receive thematic markings because they are linked with a noun within S,
+thus receiving their thematic roles indirectly.
+26.4.4Direct discourseThere is a small number of complement-taking verbs in Slave that take
+what are usually called direct discourse complements. In the complement
+sentence of these verbs, pronouns correspond not to forms used by the
+speaker of the sentence but to forms used by the subject of the main
+clause. In direct discourse, the point of view of interpretation of the complement is that of the subject of the main clause, not of the speaker.
+Direct discourse verbs fail to take a complementizer. They also allow
+long range dislocated nouns, both in topic and question complementizer
+positions. These properties are discussed in chapter 45.
+In logical form, a rule of direct discourse interpretation is needed to
+interpret complement clause pronouns from the point of view of the
+speaker of the matrix. Pronouns that are normally not coindexed must be
+considered coreferential under direct discourse. This can be seen in (166).
+(166)a. sheohti
+yenjwe
+lsg. opt.eat 3 want's/he wants to eat' (Bl)988Part IV. The Model
+b. sek'edutlasenihwhe
+4il s g . a f t e r 3 opt.go 3 want lsg.
+'s/he wants me to go with him' (SI)
+In (166a), the first person complement subject and the third person matrix subject must be interpreted as coreferential. In (166b), the complement subject is coreferential to the matrix object and the complement
+oblique object to the matrix object.
+Nouns that are marked coreferential in direct discourse do not share
+features of person. Within the complement, the conditions discussed in
+section 26.4.1 hold to determine coreference relationships.
+Normal
+conditions of coreference between sentences are suspended with direct
+discourse verbs.
+26.4.5ControlThere are some verbs in Slave that are control verbs: an argument of
+the matrix must be coreferential to an argument of the complement
+clause. There are subject control verbs, where the subject of the matrix
+must serve as antecedent for an argument of the complement, generally
+the subject, and object control verbs, where the object of the matrix must
+serve as antecedent for an argument of the complement sentence. If the
+controller noun and the subject complement do not agree in features and
+thus cannot be marked as coreferential, the sentence is ungrammatical.
+While verbs are marked as control verbs, the noun which acts as controller is determinable: a verb with an object assigns object control, one
+without an object assigns subject control. Control is assigned as in (167).
+(167) In the structure ΝΡχ S[ . . . NP2 . . .] V, where V is a control verb:
+a. N P j is a controller if it is the NP closest to the verb.
+b. Assign NP 2 the same index as the controller NP.
+c. If such assignment is not possible, the sentence is ungrammatical.
+Some examples of control verbs are shown in (168).
+(168)a. ? jt""0 [ defo ] ? a j a
+'the leaves turned yellow' (Hr)
+leaf it is it became
+yellow
+b. ? ehkee dedare [ hetse ] ? o l a
+'the boy made his older sister cry'
+boy REFL. sister 3 cry 3 made
+c. [ netse ] nets'edehwhene
+Ί do not like you sg. to cry' (Bl)
+2sg. cry
+lsg. dislike for 2 sg.","[1029, 1030, 1031, 1032]"
+"24.17.2TheclassificatoryverbsAll the Athapaskan languages exhibit an alternation of verb themes that
+is traditionally called classificatory. The classificatory themes describe the
+nature of an object handled with respect to parameters such as extension
+and dimension.
+They restrict an action to certain classes of subject or
+object.
+The Athapaskan verb system has been discussed widely (for
+example, Davidson, Elford, and Hoijer 1963, Garrison 1974, Carter 1976,
+Witherspoon 1977).
+The verb theme indicates the nature of the object handled while the
+type of activity involved is expressed in the prefixes. In all cases, the
+object delimited by the verb theme bears the thematic role relationship of
+theme to the verb: it is the subject of an intransitive verb and the o b j e c t
+of a transitive verb.
+Davidson, Elford and Hoijer (1963), in a major description of the classificatory verb system, differentiate four sets of classificatory verbs, as in
+(2).",[823]
+"Syntaxplural. This can be seen in several examples given above: (145), (149),
+and (152) through (159) with hi and (160) through (166) with hg. If one
+of the conjuncts is first person, the inflectional pronoun must be first person plural; if one of the conjuncts is second person and the other third
+person, the inflectional pronoun is second person plural; and if both conjuncts are third person, the inflectional pronoun is third person plural.
+When the conjunction hi conjoins noun phrases, a plural inflectional
+pronoun appears on the verb or postposition. This is not the case with the
+postposition -hi.
+As (190) shows, the subject of the verb is singular when
+-hi is a postposition. Sentence (190) has the structure shown in (193).
+(193)S
+/ I \
+NP PP V
+b e h e nägoehyeeSentence (194), on the other hand, has the structure in (195).
+(194)(195)?ededine
+3sg.hi
+nagoyiyee
+and lpl. played
+'he and I played' (Bl)S
+/
+\
+NP
+V
+/ I \
+NP NP CCM nagoyiyee
+?ededine h eIt is clear that hi can be either a conjunction or a postposition.
+31.3.2Other phrasal conjunctionsThe other phrasal conjunctions are also conjunctions rather than postpositions. The arguments for this are similar to those given in section 31.3.1
+- optionality and plural inflection - and examples are not given here.
+There are phrasal conjunctions that fall in the lexical category conjunction
+in Slave.
+31.3.3The sentential conjunctionsThe lexical category of sentential conjunction is not so clearly defined.
+There are some arguments that suggest that some of these are conjunctions while others are postpositions.
+Pronominal inflection on the postpostions/conjunctions in Hare suggests that some are conjunctions. Word
+order also suggests this. Evidence from coreference phenomena also pro-Conjunction1075vides some evidence that some are conjunctions. See chapter 30 for discussion. Of these forms, -tl'$ah£ 'after,' -were 'before,' -t'äh 'because,' -he
+'because,' -ghäri 'by means of,' and -k'i 'after' function as conjunctions as
+well as postpositions, -ts'fh 'from,' -ts'p 'to,' and -t'gh 'since,' on the other
+hand, pattern as postpositions only.
+In Hare, the postposition/conjunctions
+-were, -hi, -ghdri, and -k'i
+can be preceded by yi. This form yi is an anaphoric pronoun, related to
+the complementizer that marks relative clauses.
+It occurs in sentences
+such as those in (196) through (199). 9
+(196) Carolfere raxets'f räyjdi
+h a y i t l ' j Theresa
+raxets'f ray j d i
+first lpl.to
+3 helped a f t e r
+lpl.to 3 helped
+'after Carol helped us, Theresa helped us' (Hr)(197)ditl'ege
+hayihέ rä?edlö
+1 pi. tickle because 3 laughs
+'he's laughing because we're tickling him' (Hr)(198)^edjtl'i
+riwoyee
+yiwere
+sgbakge
+gonezp
+mail
+h e r e 3 opt. be sent before
+Yellowknife area is good
+rikeyelee
+3pl. place pi. Ο
+'before they send the mail here, they sort it in Yellowknife' (Hr)(199)?ed§
+käsekedeyjdi yighäre
+kodihshp
+3 drinks 3pl. told lsg. by means of lsg. know
+Ί know that he drinks because they told me' (Hr)These sentences all contain the morpheme yi. This form occurs with limited distribution. It occurs as a complementizer in the form yi or /. It occurs with the pronoun ha- in the form hayi, which can follow lexical
+nouns. It also occurs before the complementizers gha and ch'ä. What is
+important here is that there are some postpositions that appear to function as complementizers.
+There are a number of arguments that show
+that the morphemes gha and ch'ä function differently from the other
+postpositions and that these two are best viewed as complementizers.
+One way in which these postpositions that can also be complementizers
+differ from those that are only postpositions is that only the complementizers can be preceded by (ha)yi.
+This anaphoric form does not appear to
+be used with postpositions, only with complementizers.
+If the postposition/conjunctions in sentences such as (196) through
+(199) are conjunctions, then the anaphoric form yi can never occur with
+postpositions, but only with conjunctions and complementizers.
+If they
+are postpositions, it is unexplained why yi fails to occur in many cases
+where it would be expected. For instance, it cannot occur with the postpositions -ts'fh 'from' and -ts'§ 'to,' as shown in (200) and (201).","[1118, 1119]"
+"(138)k'exeenaxeidhah's/he packed us around' (SI)In (138), there are both the incorporated stem xee- 'pack' and the direct
+object agreement pronoun naxe- 'first person plural direct object.' The dclassifier is not present.
+It appears that the presence of the d- classifier in forms such as (137) is
+accompanied by a shift in transitivity, so the incorporated noun, a type of
+reflexive, can occur but there cannot be an independent direct object.
+When there is no d- classifier present, and thus no change in subcatego25rization, both an incorporated noun and a direct object may be possible.
+The d- classifier used as a reflexive optionally creates an intransitive
+verb. If there is not a change in subcategorization, the verb can have the
+reflexive object ?ede- while if there is a change in subcategorization, this
+object is not present.
+It appears that the reflexive direct object pronoun
+cannot occur independently of the 9 d-ft classifier while the classifier can occur independently of the pronoun.
+The morpheme na- customary is optional while the d- classifier is obligatory in the customary form. This is illustrated in (139).
+(139)nadet'oh
+det'oh's/he goes customarily by boat' (SI)
+'s/he goes customarily by boat'The morpheme na- 'again, back' is generally present with the d- classifier.
+The addition of the d- classifier creates passives, reflexives, reciprocals,
+customary forms, and 'back, again' forms. The word formation rule introducing this classifier can cause syntactic and semantic changes as well as
+morphological changes.
+The h- classifier also creates changes in syntax
+and semantics of the theme. These classifiers can cooccur with each other.
+26.1.5The output of the lexiconThe theme is the basic unit of the lexicon. In addition to themes, the
+lexicon includes affixes. Each affix and theme is listed in the lexicon along
+with its idiosyncratic properties, phonological, morphological, syntactic,
+and semantic.
+This model of the lexicon does not have full words listed in the lexicon,
+but rather forms words from themes by rules of word formation. The result of word formation is that many possible words will be generated, not
+all of which are actually occurring words of the language.
+The possible words can be divided into several types.
+There are the
+actually occurring words of the language. There are items that are accidental gaps: they could be words but simply do not exist, or exist in one
+dialect but not in another. This type of word is well-formed in every way
+but it is just not used. In addition to generating actual words and accidental gaps, the word formation rules can also produce words that are
+systematic gaps. These are words that are morphologically and syntacti-978Part IV. The Modelcally well-formed but semantically ill-formed.
+Semantically ill-formed words are basically those in which features fail
+to match.
+For instance, if a verb has a momentaneous prefix but a
+semelfactive stem, it is semantically ill-formed.
+Other examples of semantically ill-formed words include the following: a conjugation marker
+present in the primary aspectual string that is not the conjugation marker
+required by the verb theme category of that verb theme, a verb with one
+mode marked by the prefixes and a different mode marked by the stem, a
+verb with an adverb prefix requiring one conjugation marker but with a
+different conjugation marker actually present, a verb with an aspect-determining prefix and a stem in a different aspect, a verb with a third person subject and a third rather than a fourth person object. These semantically ill-formed words are eliminated from the list of actual words by
+rules of logical form, rules that filter out words whose features do not
+agree.
+All the examples of semantically ill-formed words given so far involve
+feature matching violations.
+Words may also be rejected on semantic
+grounds because of an inconsistency between semantic properties of different morphemes.
+For instance, the adverbial prefix ts'e- 'awaken' can
+occur with classificatory themes, but only with those that allow animate
+nouns as the thematic role theme. This prefix does not occur, for instance,
+with the classificatory verb 'handle a sticklike object.' The fact that this
+prefix and stem do not cooccur is not a morphological or structural fact,
+but is rather a semantic fact. It would be possible to use the word 'wake
+up sticklike object' in some other world context. As another example, operative theme category verbs can occur with the conative prefix u-, as in
+ts'udgdla
+'yell at.' Many transitive operative themes do not occur with
+this prefix. For example, the form 'comb at' does not occur with it. This
+gap too is due to semantic constraints on what activities can be done
+without completion. These words simply receive no interpretation.
+26.1.6Some sample lexical entriesEach verb theme includes information as to category, phonological form,
+and semantics amongst other information. Verb themes must be marked
+for theme category, for subcategorization features, and for thematic roles
+of their arguments. Since all verbs require a subject, this subcategorization need not be lexically marked, although the thematic role of the subject must be indicated. Verb themes can be subcategorized for a direct or
+an oblique object and this information must be lexically indicated.
+Simplified lexical entries are given in (140) through (145). These include (1) a representation of the theme, (2) the lexical category, (3) the
+theme category, (4) the subcategorization frame, and (5) the thematic
+97
+roles associated with the arguments in the subcategorization frame.
+(140)'action by foot (uncontrolled)'
+1. t a h
+2. +VThe Model
+3. successive
+4.
+NP
+I
+5. agent theme
+(141)(142)'see'
+1. g h a - y e - n a
+4
+2
+2. +V
+3. operative
+4.
+NP
+[+oblique]
+I
+5. experiencer theme
+'pray'
+1. y a - h - t i n
+4 1
+2. +V
+3. operative
+4. __
+5. t h e m e979(i.e. requires a direct object)
+(i.e. direct object is theme of the verb)(i.e. requires an oblique object)(i.e. intransitive)
+(i.e. subject is the theme)(143)'handle three dimensional object'
+1. ?a
+2. +V
+3. motion, classificatory
+4.
+NP
+I
+5. agent t h e m e(144)'know'
+1. e - g o - d e - h - s h o n
+4 3 2 1
+2. +V
+3. descriptive
+4.
+NP
+[go- ]
+[+oblique]
+|
+I
+I
+5. experiencer location t h e m e
+(i.e. The verb requires an oblique object and the areal object
+pronoun go- as direct object. The oblique object expresses the
+location and the direct object (go-) the theme.)(145)'buy'
+1. n ä - y e - h - n i
+4 2 1
+2. +V980Part IV. The Model
+3. operative
+4.
+NP
+I
+5. agent t h e m e(i.e. requires a direct object)These sample lexical entries do not include material that is not strictly
+subcategorized (for instance unincorporated postpositional phrases).
+All
+verbs based on a particular theme include the argument positions and
+thematic roles included in the lexical entry for the theme unless these are
+changed by a rule of word formation. Any additional thematic roles are
+expressed by oblique phrases.","[1021, 1022, 1023, 1024]"
+"SyntaxWithin a simplex sentence, a coreferential interpretation is possible
+whenever the noun precedes the pronoun. 1 Some examples sentences are
+shown in (1) and (2) with trees for these sentences given in (3) and (4).
+(1) c h e e k u a bemo
+näyenijta
+boy
+3.mother 3 kicked 4'the boy;'s mother kicked him;'(2) Mary bemo
+yegho ? enieto
+3.mother 4.of
+3 loves'Mary ; 's mother loves herj'(3)S
+I
+\
+NP
+V
+I
+I
++4;
+I
+näyenijta/
+NP
+/
+\
+NP NP
+cheekua; bemo
+(4)S
+I
+\
+NP
+PP
+V
+/ \
+/ \
+\
+NP NP NP Ρ
+\
+Mary; bemo +4j yegho ? enieto
+/This is also the case in conjoined structures. Examples are given in (5)
+and (6) with corresponding trees in (7) and (8).
+(5) ? ehkee
+boy(6) ? eyi
+that?
+nadehtla
+gots'e t'eere yek'e
+aja
+3 left
+and
+girl
+4.after 3 went
+'the boyj went off and the girl went after him;'dene
+manw'ila bodee
+w'ila kuhegodihsho
+and
+3.brother and
+lsg. knows 3pl.
+Ί know that man; and his, older brother' (Hr)s(7)
+/
+\
+νII
+CONJ\s/ I \
+NP
+NP PP V
+/
+I / \
+\
+/
+I NP Ρ
+\
+'aja
+'ehkee; nadehtla
+teere
+gots'e
++4j yek'eCoreference
+(8)1037S
+/
+I
+\
+NP
+NP
+V
+/
+/ / \
+\
+\
+/ NP O K I NP CONJ \
+/
+ι
+ι / \
+\
+\
+/
+I w'ila NP NP w'ila kuhegodihsho
++1 7 e y i
++3i bodee
++sg d e n e ;In all the cases above, the subscripted noun and pronoun can, but need
+not, be interpreted as coreferential. In other words, the pronouns in these
+sentences can have reference either inside or outside the sentence.
+The notion of precedence is needed to account for the possible coreferential reading in sentences such as (1), (5), and (6). Other instances of
+potential coreference are accounted for by the relation command.","[1080, 1081]"
+"Nouns
+12.3Other stem163formativesIn the examples in section 12.2, the noun stem and the root are identical
+since the stem is formed by the affixing a null suffix to the root. In some
+cases, the stem is formed from the root by adding a stem formative suffix
+that is not null. There are two of these in Slave. One, the suffix -e or -i is
+common and the second, the suffix -I, is found with only a few words.
+12.3.1-eThe suffix -e (or -/) is most likely a nominalizer historically. It has no
+apparent function in the language synchronically, but is simply required
+as a stem formative by some roots. This suffix occurs in the nonpossessed
+form. In the possessed form it is deleted and replaced by the possessive
+suffix -έ. Several examples of this suffix are given in the data in (3).
+(3) non-possessed
+t'eere
+luge
+tene
+?
+oge
+dzene
+ts'ale
+?
+ejire
+turipossessed
+-t'eer6
+-lug6
+-ten£
+-dzene
+-ts'al6
+-?ejire
+-tur6'girl' (Hr, Bl)
+'fish' (Hr)
+'path'
+'eddy' (Hr)
+'day'
+'frog'
+'buffalo, cattle'
+'duck'The fact that this vowel is lost when the possessive suffix -έ is added
+suggests that it is a suffix synchronically and not part of the root since
+root vowels are never deleted.
+Suffixed nouns may be related to verb forms as well.
+(4) fole'merganser'-fo'be yellow' (Hr)12.3.2 -/
+The suffix -/ is found on some nouns. Its identity as -/ is apparent from
+the possessed form, where it surfaces as [1]. This suffix is historically an
+instrumental, used to derive instrument noun stems from roots. It occurs
+in the forms in (5) and (6). The fact that a suffix is present can be seen by
+comparing the nouns with related verb forms, where -I is not found.
+(5) xeeh
+-xee-gheeli'pack, load'
+'pack' (verb)(6) tl'uh
+-tl'u-tl'ule'rope'
+'tie' (verb)These are the only two nouns that I know of that require this suffix.","[206, 207]"
+"Categories(18)bek'erä?ereyihse(19) d e c h j h e ? e k u y j h d z aΊ washed it; literally: I handled it ( ? e - ) with
+hands on it (be-)' (Hr)
+'they measure the log; literally: they handle
+it (?e-) on wood' (Bl)(20)ts'e?ededet'u's/he smokes' (Hr)The verbs in (17) through (20) all require direct objects.
+If a second
+object is required, it is the object of an incorporated postposition, as in
+examples (15), (17), (18), and (19). If the second object is optional, it is
+the object of an unincorporated postposition, as in (20). See unit 14 for
+discussion of incorporated and inincorporated postpositions.
+?e- is thematic in some cases. The verbs where it is thematic may have
+originally been transitive, requiring a direct object. Now ?e- is part of the
+verb theme and the theme is intransitive, never taking any other direct
+object, either pronominal or nominal. Examples are given in (21) and (22).
+(21)?e + 0 = dlo
+6
+13
+na?edlo'laugh'ni'enjdlo's/he stopped laughing' (Bl, SI)(22) ?e + h = ka
+6 13
+k'ina?ehka
+ni?enjhka's/he laughs' (Bl, SI)'jump, hop'
+'s/he hops around' (Hr, Bl)
+'s/he arrived hopping' (Bl, SI)?te enjhka's/he jumped into water'A few verb bases have an unspecified object pronoun in direct object
+position and a specified direct object noun outside the verb. Examples are
+given in (23) and (24).
+?
+(23) gahwe
+edeyihdla
+rabbit skin lsg. skinnedΊ skinned the rabbit' (Hr, Bl)(24) tsäwe
+?edjt'a
+beaver hide 2sg. cut'you sg. skin the beaver' (Bl)The noun in these sentences is not marked as an oblique object and if no
+noun is present, no oblique object pronoun appears.
+These verbs appear
+to have two direct objects. This is unusual since in general, if an object
+pronoun is present, there is no nominal object outside the verb. In other
+words, a verb has a single direct object, either a noun or a pronoun.",[674]
+"12.7CompoundnounsNouns can be formed by concatenating lexical items of major categories.
+There are noun+noun compounds, postposition+noun compounds, and
+noun+verb compounds in Slave. Two classes of compound nouns can be
+defined in Slave, with the classes d i f f e r i n g
+phonologically,
+morphologically, and semantically.
+12.7.1Compound nouns - type 1Type 1 compounds have a wide range of meanings. These include the
+meanings 'belonging to, used by, used for, associated with, and consisting
+of.'
+Type 2 compounds are restricted in meaning, having only the
+meaning 'made of.'
+Some type 1 compounds are clearly compounds historically and
+synchronically pattern as compounds phonologically.
+However, they
+cannot always be divided into meaningful parts. In some cases, one piece
+of the compound is definable, while the meaning of the other element is
+obscure. In other cases, neither element can be assigned a clear meaning.
+These forms are classed with the compounds because they pattern like
+compounds phonologically.
+Several examples of these semantically
+opaque compounds are shown in (79).
+(79) a. t e h w a ä
+teh 'water' + waä ?
+b. tehk'ai
+teh 'water' + k'äi ?'mink' (Bl)
+'muskrat' (Bl, SI, Mt)184Part III.","[227, 228]"
+"SyntaxIf one attempts to place the pronoun before the noun, (ii) results.
+ii. [ ? eyi t'eere bechile riraheja i he ] sodi hili
+'she is happy because the girl's younger brother came home'
+(ii) is grammatical only if 'she' and 'the girl' are noncoreferential. Because a possessive pronoun is required in cases of inalienable possession, (i) and (ii) are phonetically identical despite the different bracketing and a coreferential reading is always possible for this string.
+4. This principle
+example:can be extendedi. John dezoa ghäijndä
+child 3 sawto cover disjoint reference.",[1092]
+"Coreference
+(16)?eyi
+that(17)1039d e n e t e s a s o n e j b e g h ä y e r i s h u yile
+i
+yeita?enise
+man kicker
+lpl. gave 3
+PAST REL 3 broke 4
+'the man we gave our kickerj to broke it;' (Hr)John t s ' o d a n i ; ts'eyechu tl'aa ye;ts'e g o y i d e
+child
+3 woke
+after 4.to
+3 talked
+'after John woke the child;, he talked to her;'(18)S
+I \
+NP
+I
++4j/
+NP
+V
+/ \
+\
+NP
+S'
+yeta?enise
+/
+/ \
+dene
+S
+COMP
+I
+\
+t e s a s o n 6 ; beghäyerishii yile i
+(19)S
+I \ \
+NP
+P P PP V
+/
+/ \ / \ \
+John
+NP Ρ NP Ρ
+goyide
+/I
+I \
+\
+S' tl'aa +4 yets'e
+I
+ts'odani ts'eyechu
+These cases of potential coreference can be accounted by the fact that the
+noun precedes the pronoun and, for (18,) by the c-command relationship.
+The relationship command is redundant in the examples given so far in
+identifying cases of noncoreference.
+The examples in (20) through (22)
+show the necessity of the command constraint.
+These examples show
+cases of possible coreference when a pronoun precedes a noun.
+(20)?eyi
+thatdene beghäyerishu
+yjle
+i
+iesasone t a ? e n i s e
+m a n lpl. gave 3
+PAST COMP k i c k e r
+3 broke
+'the man we gave it ; to broke the kicker,' (Hr)(21)?","[1082, 1083]"
+"11.1MajorcategoriesThere are three major lexical categories: noun, verb, and postposition.
+11.1.1NounNouns are defined largely on the basis of inflection: they can be
+inflected with the possessive pronouns. They are also defined on the basis
+of distribution: nouns function as subjects and objects.
+A variety of
+morphological types of nouns fall into this category, including simple
+nouns, obligatorily inflected nouns, compound nouns, and nouns derived
+from verbs. Independent pronouns also fall into this class. They have the
+same distribution as nouns but differ from nouns in that they can never
+be inflected for possession. Included in the category of pronouns are the
+emphatic pronouns (e.g. sen[ 'my' (Hr, Bl) and the interrogative pronouns
+(e.g. ?amii 'who' (Bl, Sh Mt), "">ayli 'what' (Bl, SI, Mt)).
+11.1.2VerbThe second major lexical category is that of verb.
+Verbs are defined
+primarily on the basis of inflection. The verb is the only category to show
+inflection for mode and person. Verbs also are defined on the basis of
+distribution: they are generally sentence final.
+11.1.3PostpositionPostpositions are defined on the basis of inflection: they are inflected f o r
+object with the possessive pronouns. The postpositions are defined as a
+class distinct from nouns based on a syntactic criterion of coreference
+marking. The reflexive pronoun de- is used as object of a postposition if
+that object is coreferential to the subject. The reflexive pronoun is used as
+possessor of an object noun only when the subject and object are
+coreferential third persons. This is illustrated in the examples in (1) for
+possessed object nouns and (2) for the object of a postposition.",[201]
+"Syntaxonly with hanging topics that there is a noun in topic without a pronoun in
+the proposition interpreted as having the same referent.
+In these cases,
+there is a noun in the proposition instead.",[1252]
+"Notes
+1. As discussed in chapter 46, there is a complementizer ni that marks
+relative clauses with areal double role nouns. Many of these sentences
+with the complementizer ni are ambiguous between the two readings.
+2. In some cases, a complement is interpreted as an indirect question if
+ni is present but no question word is present.
+i. beta
+riraheja
+ni
+kodihsho
+yile
+3.father 3sg. returned COMP lsg. knows area NBG
+Ί don't know when her dad got back' (Hr)
+ii. ridenewe
+ni
+kodihsho
+yile
+3 arrived by air COMP 1 sg. know area NBG
+Ί don't know when the plane came' (Hr)
+These seem to be relative clauses with no head noun.
+for further discussion.",[1300]
+"42.2Object nouns andpronounsThere are many verbs that are subcategorized for an object, direct or
+oblique, and a complement sentence (2b, 2c, 2d, 2f). In many cases, this
+object must be preferential to the complement subject. 7 In this section,
+these matrix objects/complement subjects and the relationship between
+the nouns and the pronouns that occur in them are discussed.
+A matrix object and complement subject are often coreferential.
+Some
+examples are shown in (57) through (60).
+[ na ? ehdl0 ] 7 a s ί l ä
+brother lsg. laugh 3 caused lsg.
+'my brother made me laugh' (Bl)(57)sechile
+lsg.younger(58)[ tich'a
+godee ]
+nuweyi'o
+outside 2sg. talk lsg. heard 2sg.
+Ί heard you talking outside' (Hr)1232
+(59)Part V .
+? amäSyntax
+[ nä?enehlu ]gäseneht?m o t h e r l s g . sew
+3 taught lsg.
+'my mother taught me to sew' (Bl, SI)
+(60)[ hiitl'ii
+hard?eghalaehnda] sodjhshgl s g . work
+3 knows of lsg.
+'he knows that I work hard' (SI)The sentences (57) and (58) have the structure shown
+the structure in (62) and (60) the structure in (63).
+(61)in(61),(59)hasS
+/
+NP/
+NP(62)I
+S'\
+VS
+/
+/
+NP NPI
+\
+NP
+V
+[+oblique]
+I
+S'(63)S
+/
+I \ \
+N P N P S' V
+[+oblique]In all cases, the object of the matrix and the subject of the complement
+are coreferential.
+In (57) through (60), the matrix object and the complement subject are
+both third person pronouns.
+A noun can occur in object position and a
+pronoun in complement subject position also.
+This is apparent when third
+and fourth person pronouns are involved.
+If there is no lexical noun in either position, the object pronoun yecurs as matrix object, as in (64) and (65).
+(64)John [ hetse ]
+3 cry(65)?ayjla'John made her cry' ( B l )3 cause 4John [ j u d e n jrägwe ]y o d j h s h p 'John knows where she lives'where3 lives3 knows of 4The matrix object can be a noun, as shown in (66) and (67).
+(66)John [ hetse]
+3 cryoc-?gla
+3 caused'he made John cry' (Bl, SI)(Hr)The Structure of Complements
+(67)John [ j u d e n jrägwe ] h o d j h s h gwhere3 lives1233'he knows where John lives'3 knowsDespite the similar bracketing of (64) and (66) and of (65) and (67), their
+structures are different.
+In (64) and (65), 'John' is the subject while in
+(66) and (67) 'John' is an object.
+In (66) and (67), the noun 'John' is part of the matrix sentence. This is
+indicated by the lack of an object pronoun in the matrix. 8 It is also indicated by the fact that the reflexive pronoun can occur on the object noun.
+(68)[ hetse] ? g l adedarer e f l . s i s t e r 3 cry
+(69)dgdee' h e ; made his; sister cry' (Bl)3 caused[ judenjrägwe ]hodjhshgrefl.brother where
+3 lives
+3 knows
+'he knows where his brother lives' (Hr)
+T h e r e f l e x i v e p r o n o u n occurs only in object position and must occur
+within the same simplex sentence as its antecedent.
+These two facts lead
+to the conclusion that these nouns must be in the matrix.
+So far, there have been examples of the matrix object and complement
+subject both being pronouns and of the matrix object being a noun and
+the complement subject a pronoun.
+A third possibility exists: the matrix
+object can be a pronoun and the complement subject a noun, as in the examples in (70) through (73).
+(70)Freda [ y o d jbenggots'fjlj ] yek'eodeygilewhere
+3.mother area.to
+3 is 3 knows of 4 NBG
+'Freda does not know where her mother is' (Bl)
+(71)(72)[ setueSisterl s g . d a u g h t e r 3 knit COMP 3 taught 4
+'Sister taught my daughter to knit 1 (Hr)[ Carol yek'ägoli
+3 tastes 4(73)?denexareJane [ Mary t l jgii ]etl'u?ayjlanj ]gayurehtp'she let Carol taste it' (Hr)COMP 3 let 4
+henägoyee ]yeghäyedad o g w i t h 3 play
+3 see 4
+'Jane is watching Mary play with the dogs' (Bl)
+In these sentences, the lexical noun is subject of the complement rather
+than object of the matrix. This is suggested by the following facts.
+The
+object pronoun present in the matrix indicates that there is not an object
+noun there. The presence of the possessive pronoun be- in a sentence like
+(70) indicates that the noun is the complement subject as well since feedoes not occur in object position if the subject is third person.","[1275, 1276, 1277]"
+"Categories(160)seyidludawe
+-diuΊ am shivering (cold is in me)' (Hr)
+'be cold, freeze'(161)tärahxenihe?o
+xenih'the rafts came ashore
+(customarily)' (Hr)
+'raft'tesheenj?a
+-shee'tail extends into water' (Hr)
+'tail'(162)Many verb themes that occur with incorporated subjects are intransitive.
+They can be transitive, however, as (158) shows.
+In many cases, subjects that can occur incorporated into the verb can
+also occur in an unincorporated form.
+The example in (163) shows
+independent subjects where that in (161) shows a comparable form with
+an incorporated subject.
+(163)shee t e n j ? a'tail extends into water' (Hr)24.10.3.2.3
+Adverbs
+Incorporated stems can function as manner adverbs.
+These stems are
+always part of the verb complex and can never occur independently of it
+with similar meaning. Examples are given in (165) through (170). Forms
+without the incorporated stem are given for comparison of meaning.
+(165)radadere?j
+cf. räre 7 j
+-da's/he whispers'
+'s/he hides'
+'mouth, beak'(166)sets'?'s/he defends me' (Bl)nädadedi(Hr)cf. sets'f nädi's/he helps me'(167)nädagodeyee
+cf. nägoyee's/he jokes' (Bl)
+'s/he plays'(168)tse
+naxeeye ? a
+wood's/he is packing wood back' (Bl)cf. tse n a y e ? a's/he is carrying a piece of wood back in
+arms'
+'pack'xee
+(169)nalayiih?oh
+cf. n a y i j ' o h's/he pulled object with rope customarily,
+paddling' (SI)
+'s/he pulled object customarily, paddling'Incorporated Stems
+(170)k'ekeehdzoh
+cf. k'eehdzoh665Ί skated, slid on feet' (SI)
+Ί slid around'The examples in (168) and (169) show an interesting contrast with those
+discussed in section 24.10.3.2.1.
+The incorporated stems in section
+24.10.3.2.1 function as direct objects.
+The incorporated stems under
+discussion in this section can cooccur with direct objects and are adverbial
+rather than nominal in nature; in other words, they do not serve as
+arguments of the verb. A particular noun can function in either way. The
+examples in (171) and (172) show the stem xee- 'pack' as a noun (171)
+and as an adverb (172).
+(171)k'exeeechu's/he is walking around with a pack' (SI)(172)k'exeesaachu's/he packed me around' (SI)It is clear that the stem xee- 'pack' is a direct object in (171) since there is
+no other direct object and the verb base is transitive, requiring a direct
+object. A direct object se- 'first person singular object' is present in (172).
+In Hare, when the incorporated stem xee- functions as an adverbial, a
+pronominal direct object precedes rather than follows it.
+This marked
+ordering of incorporated stem and direct object apparently occurs only in
+this construction. Some examples showing this marked order are given in
+(173) and (174).
+(173)tasexeedjshu'you sg. pack me down' (Hr)(174)kayexeedehshii's/he packed him/her out' (Hr)In (173), the object pronoun se- first person singular is present and in
+(174) the object pronoun ye- fourth person occurs.
+These pronouns
+unexpectedly precede the incorporated stem.
+Some speakers optionally include a direct object pronoun when xee- is
+incorporated as an adverbial, even when the direct object is not normally
+used.
+The pronoun in these forms is a direct object rather than a
+possessive pronoun.
+If it were a possessive pronoun, the incorporated
+stem would occur in the possessed form. The fact that it is not in the
+possessed form indicates that the pronoun is an object.
+(175)(176)a.tabexeedjshub.taxeedjshu'you sg. pack it down' (Hr)a.bebi t a h e x e e d j s h u 'you sg. pack the baby down' (Hr)b.bebi t a x e e d j s h uIn (175a), the pronoun be- occurs as direct object. This pronoun is found
+optionally as direct object when the object has human reference. See unit666Part III.","[708, 709, 710]"
+"?eghälehgjtthe'they two went for meat 124.2.3.6na-'back, customary'Finally, the d- classifier occurs when one of the morphemes na- 'back,
+again' or na- 'customary' is present in an intransitive base.
+In the
+examples in (129) through (132), the (a) form shows an intransitive verb
+with the 0 or A- classifier. The (b) forms, and (c) forms when they are
+present, show verbs with na- present and the d- classifier.
+a. d e ? e e
+b. r a d e t ' e e
+c. r a t ' o'he starts off by boat' (Hr)
+'he starts off again starts back by boat'
+'s/he goes by boat customarily'a. d e y a
+b. n a d e h j a's/he went, started out'
+'s/he returned, started back' (Bl, SI)a. n ä t l a
+b. n g t l e's/he goes' (Bl, SI)
+'s/he goes customarily'a. ?anelee'you sg. do it' (Hr)b. ? a r a n e d l e e'you sg. do it again'The d- classifier is not added to transitive themes under these conditions,
+as shown in (133) through (135). The (a) examples are forms without the
+morpheme na- and the (b) examples forms with the morpheme na-.
+(133)(134)a. s e g h a n j w a'you sg. give pi. Ο to me'(Hr)b. s e g h ä r a n j w a'you sg. give pi. Ο back to me'a. Ο dela
+b. Ο nadela's/he carried pi. O' (Bl, SI)
+'s/he carried pi. Ο back'Classifier
+(135)24.2.3.7a. r ä s e r e y j h t ' u's/he hit me' (Hr)b. r ä r a s e r e y j h t ' u's/he hit me again'465The unity of meaning of the d- classifierThe d- classifier is added to 0 and h- classifier verbs in passives,
+reflexives, reciprocals, customary, and iterative forms, with the final two
+only in intransitive verbs. All of these functions share common features:
+an intransitive with only one thematic role results from the word
+formation process.
+In all cases, the action essentially returns on itself.
+Tenenbaum (1978) expresses this as follows:
+Vocalization (i.e. 0 -» d , t - > 1) occurs in the following cases:
+1) in intransitives with 'repeated action/reversed motion'
+Gr
+where
+symbolizes the actor or subject and -» the predication
+2) in reflexive transitives
+Φ
+3) in reciprocal transitives
+' A
+4) in indirect reflexive intransitives
+Φ5)
+6)in indirect reciprocal intransitives
+.t-N
+in passives. t—Vocalization does not occur in the following cases:
+1) in simple intransitives
+Ο
+2) in simple transitives
+•-ν
+3) in nu- (repeated action) transitives
+4)
+5)in indirect reciprocal transitives
+• —1'
+• t— ·
+in indirect reflexive transitives6)in causatives. —« ·.
+x
+.—•«· t—1·)In all cases where vocalization occurs, and in no case where it does not
+occur, the direction of the predication, the force of the verb or action,
+symbolized by the arrow, returns to or points to the primary
+participant, symbolized by the left-hand dot.
+(pages 129-130)
+There is thus a unity to the meaning of the d- classifier as a derivational
+component: it produces intransitives and marks theme focus.
+The h- classifier, in its derivational function, produces transitives and
+marks agent or location focus.","[508, 509]"
+"In both cases, the complement is anaphoric but when the person pronoun
+is present in the matrix, two statements are being made. 643.4Otherni and guusesofthecomplementizersare both used following adverbial type elements, either ad-Complementizers I
+verbs or postpositional phrases,
+(80) through (82).","[1298, 1299]"
+"30.3CoreferenceandcommandCommand can account for all cases of forward anaphoricity, where the
+noun precedes the pronoun, with the exception of sentences such as (1),
+(5), and (6), discussed in section 30.2.
+It accounts for the following
+examples.
+(9) M a r y i(10)?",[1081]
+"30.4CoreferenceandconjoinedstructuresIn section 30.3, it was shown that in conjoined structures a noun and
+pronoun can be interpreted as coreferential when the noun precedes the
+pronoun (5, 6). If the pronoun precedes, the sentences are ungrammatical, as in (35) and (36).
+(35)*nadehtlah gots'g t'eere ?ehkee
+k'e
+?aja
+3 went
+and
+girl
+boy
+a f t e r 3 went
+*'hej went and the girl went after the boyj'(36)*?eyi d e n e bgdee
+(w'ila) kuhegodihshp
+that
+m a n 3.brother a n d
+lsg. knows 3pl.
+*'I know himi and that man/s brother'A qualification is needed on the rule of noncoreferential interpretation
+to block a coreferential interpretation for (35) and (36). Rule (23) allows
+for a coreferential interpretation in all four of the structures in (37) since
+in all cases there is no command relationship.
+(37)i.",[1086]
+"3. This classifier is historically *l (<
+It appears as /- in Chipewyan.
+In the Slave language complex and in Dogrib, this classifier has been
+lost phonetically, but its effect is maintained phonologically.
+4. An alternative analysis is suggested below, where all /- classifiers are
+thematic.
+5. See Jackendoff (1976) for details about the framework assumed here.
+Jackendoff names five semantic functions: GO (motional), BE
+(punctual), STAY (durational), CAUSE, and LET. Each semantic function
+requires a number of arguments which represent different thematic
+roles.
+Each function can occur in three different modes, positional,
+possessional, and identificational. The examples in (43) through (56)
+relate the basic function GO and CAUSE(GO), while those in (57)
+through (61) relate BE positional or STAY positional with BE
+possessional or STAY possessional.
+6. In this form and the following one, the reflexive object is often
+dropped, giving the following variation.
+?edekara?ewehgwa,?",[513]
+"Categoriestsgkge
+tsg'outhouse, toilet' (Bl, SI)
+'excrement, shit' (Bl, SI, Mt)These compounds pattern differently than other type 1 compounds
+with respect to the rule of continuant voicing. See (100).
+5. The stem -wi (Hr, Bl)/-dhih
+(SI)/ -vih (Mt) 'skin, hide' is used very
+productively is compounds. A few examples are given in (i).
+i. s g b a w i
+s£ba
+kwi'alewe
+kwi?ale
+-tthidheh
+-tthi
+tthichodheh
+tthicho'wallet' (Hr, Bl)
+'money'
+'pillow case' (Bl)
+'pillow'
+'scalp' (SI)
+'head'
+'cartridge belt' (SI)
+'cartridge'This stem can occur in a nonpossessed form in type 2 compounds.
+ii. t t h ' a t h e h
+tth'a'moss bag' (SI)
+'moss'In some dialects, the dependent
+possessive suffix -έ.
+iii.form of this noun can takethe?edheh
+'skin, hide'
+•'e- unspecified possessor
+se?edhedhe
+'skin, hide in my possession'6. Compare with jiyetdi
+'water from berries.' The suffix -έ occurs with
+alienable possession and
+with inalienable possession. See chapter 13
+for discussion.
+7. The noun tlj 'dog' (Bl, Mt, SI) has the possessed form -1}έ. This [tl]/[l]
+alternation is unusual in Slave. The word 'dog' historically begins with
+[i], accounting for the presence of / in the possessed form of this word.
+8. There are other cases where [h] is optional.
+loan words from French.
+i. liseli, lihseli
+limardii, limarhduThis is true in many of the'salt'
+'hammer'9. This form is based on the theme -'handle a three dimensional object.'",[248]
+"Incorporated Postpositions
+(53) adverb nia. yeni?enjhk'e751'terminative, to a point*
+'s/he shot it dead (s/he shot shot into it)'
+(Bl)b. k'ähba n i ' e n j h k ' e
+ptarmigan's/he shot the ptarmigan dead'These examples have both a direct object, the unspecified object pronoun,
+serving as verb theme and an oblique object serving as goal of the action.
+(54) adverb täa. y e t ä ? e d i j h t h j's/he riddled it with arrows (s/he
+arrows into it)' (SI)
+'s/he riddled the moose with arrows'b. gol§ ta ? edijhthi
+moose
+(55) adverb täa. yeta^edeyihk'e
+b. gah t a ? e d e y j h k ' e
+rabbitshot's/he riddled it with shots' (Hr, Bl)
+'s/he riddled the rabbit with shots'A null postposition with an oblique object is allowed in the following
+cases:
+a. Some verbs are subcategorized in this way.
+b. If a ditransitive verb occurs with a direct object
+-unspecified or goare al as theme, its goal is often expressed by an oblique object, the
+object of a null postposition
+c. In verbs with the subject
+unspecified or go- areal, a second
+thematic role is expressed as an oblique of a null postposition.
+In innovative dialects, there is a tendency to replace direct object pronouns with oblique object pronouns. In (56), the left column shows the
+more conservative form, with a direct object pronoun, and the right
+column shows the more innovative form, with an oblique object pronoun
+and a null postposition.
+(56) conservative
+nä?edenehtä
+ninaxedjdhah
+goghäsenehtf
+nategenata
+24.14.2.2innovative
+denänehtä
+naxenidjdhah
+sexanehtf
+ienagenijtaΊ kick myself
+'s/he picked us up'
+'s/he is teaching me'
+'they kicked each other'-eAt least two different postpositions of the form -e can be distinguished.","[794, 795]"
+"In (26a), the yes/no question particle is sentence initial and no constituent
+of the sentence is topicalized. In (26b), the object of the verb (John judeni
+7
+aw ο dee) is a topic, as shown by the presence of the pronoun be- on the
+verb. In (26c), the pronoun be- on the verb again indicates that the objectYes/No Questions
+is a topic, but in this case the question word is sentence initial.
+The question particle occasionally occurs both in sentence-initial
+tion and following a topicalized object.","[1170, 1171]"
+"1278Part VSyntax( 2 9 ) t e gohljnj
+gots'f
+räwit'a
+naxokedi
+yile
+Norman Wells area.to ldual go 3pl. tell lpl.
+PAST
+'they told us that they were going to Norman Wells' (Hr)
+(30)?ilu
+yerehwe hedeyidi
+a p p l e lsg. want lsg. told(31) düye
+cannotkä?thuslsg. goa h d e h hedesiΊ told her that I wanted an apple' (Hr)Ί told her that I can't go like that' (Bl)lsg. told(32) k ä o h i e
+n a x e d i n e n d i 'you told us that you would do it' (SI)
+lsg. opt.do thus 2sg. told lpl.
+The complement subject is first person and is interpreted as identical to
+the matrix subject, or the subject of the direct discourse verb.
+Finally, the embedded subject may be different from the matrix subject
+and object both.
+(33) Johndetla
+gha
+sehdi
+3sg. go FUT 3 told lsg.
+'John told me you were coming' (Bl)/'John told me she was coming 1(34) dezoa ek'endi
+gha
+mediindi
+child
+3 keep FUT lsg. told 3sg.
+Ί told him that you will keep the children' (S1)/'I told him that she
+will keep the children'
+When the embedded subject is third person, it is interpreted as not being
+identical to either the matrix subject or the matrix object. Such sentences
+are often ambiguous, as (33) and (34) show. An indirect discourse verb is
+often used in such cases, as in example (11) above.
+Pronoun marking when the matrix verb is a direct discourse-determining verb reporting on statements to someone are summarized in (35).
+(35)complement role
+=matrix subject =matrix object
+1
+2
+1
+2
+1
+2matrix
+=other
+3
+3
+3subject1
+2
+3Somewhat more concisely:
+(36) marking of embedded role reference of embedded role
+subject of direct discourse verb
+1
+object of direct discourse verb (discourse
+2
+hearer from matrix subject's point of view)
+other
+3Direct and Indirect Discourse127945.2.1.2 Reporting on statements about someone
+Complements of the other direct discourse-determining verbs report on
+statements about someone.
+Complement pronoun markings differ from
+those in section 45.2.1.1 because with these verbs the complement is
+spoken about rather than to the object of the direct discourse verb or is
+simply spoken about something with no matrix object.
+45.2.1.2.1 say
+The simplest case of reporting about something in direct discourse is
+with the verb ndilhadi
+'say,' an intransitive verb.
+First person in the
+complement is interpreted as coreferential to the subject of the direct
+discourse verb, as in (37) through (39).
+(37) John(38)h i d o w e d z i n e k'e deshita d u h i a
+hadi
+tomorrow
+on b u s h
+lsg. opt.go 3 say
+'John; said he/s going to the bush tomorrow' (Hr)?","[1321, 1322, 1323]"
+"942
+(9)Part IV. The Model
+?edjhtl'6jei
+'record player'
+?edjhtl'6 'paper' + j§ 'sing' + -i nominalizer
+cf. shg
+'song'If the d- classifier is part of the basic lexical entry, such a form can easily
+be accounted for: when compounding occurs, the classifier is maintained. 2
+It is more difficult to ascertain whether other thematic prefixes are present in noun theme entries since it is difficult to know whether a noun
+with thematic prefixes is derived directly from a theme or indirectly by
+nominalization.
+Nouns with thematic prefixes that are candidates for
+showing that nouns and verbs share the same theme are shown in (10).
+(10) a. y a h t j
+b. Ο rehshee's/he preaches'
+'s/he grows O' (Hr)yahtj
+rehshee'priest, Father'
+'potato'There is no nominalizer in these nouns and they may be cases of nouns
+derived directly from themes rather than nouns derived indirectly by
+nominalization of a verb.
+In examples such as (6), the nouns and verbs share a theme consisting
+of a classifier and a root. The theme is unlabelled for category in the lexicon if it can be a noun or a verb. If it can be only a noun or only a verb, it
+is labelled for category.
+Since the theme contains a root and thematic
+prefixes, stem formation rules must apply to assign the stem level labels
+of noun and verb. The rules that assign the label noun are the suffixation
+rules discussed above.
+The rules that are required to assign the label
+verb are those that add stem-forming suffixes to the verb. In addition, a
+second word formation rule is required for verbs. Every verb must have
+at least one syllable preceding the stem. This syllable is added to verbs
+by a word formation rule that inserts a syllable before a verb stem. This
+rule is shown in (11).
+(11)[syllable [X] v ] vIn nouns, the classifier is generally lost since it does not become part of a
+syllable. If, however, a syllable is placed before it, as in (7), the classifier
+remains.
+The facts that it is generally only verbs that have a phonetic
+classifier and that it is only verbs that require a prestem syllable are thus
+related: the syllable allows the classifier a phonetic realization.
+Postposition roots, themes and stems are identical since there are not
+thematic prefixes present in postpositions and the stem-forming suffix is
+null. Some examples are given in (12).
+(12) -ts'f
+-ts'fh
+-t'äh
+-dah'to'
+'from'
+'by means of
+'on top ofAn Overview of Slave Grammar94326.1.1.3
+Summary
+The lexicon contains a list of themes, which consist of a root and affixes.
+Nouns, verbs and postpositions are formed from themes by suffixation.","[985, 986, 987]"
+"Syntaxnouns: the precedence relation is more important than the command relation. Sentences where the pronoun precedes the noun ((20) through (22))
+are generally of somewhat lower acceptability than those where the noun
+precedes the pronoun.
+While both precedence and command are important in Slave, it appears to be more valued for the noun to precede the
+pronoun than for the pronoun to not command the noun.
+Second, it appears that the postpositions in question are in the process
+of being reanalyzed such that they have lexical entries as conjunctions as
+well as postpositions. There are two syntactic arguments for this claim.
+Some postpositions clearly function as conjunctions as well.
+This is
+clearest with the postposition -hi (Hr, Bl) / -ih (SI) 'with.'
+(50)John demo
+he
+nägwe
+refl.mother with 3 lives
+'John; lives with his, mother' (Bl)(51)?
+William detä
+he
+aja
+refl.father with 3 went
+'William; went with his; father' (Hr, Bl)(52)Mary Bertha(53)Joe Roberthe
+deshjtee k'erä?ekerehsi
+w i t h floor
+3pl. wash
+'Mary and Bertha will wash the floor' (Hr)
+he
+näzetekedeyehtla
+with 3dual went hunting
+'Joe went hunting with Robert'
+'Joe and Robert went hunting'In (50) and (51), -hi is functioning as a postposition, while in (52) and
+(53) it is a conjunction. The main evidence for this claim comes from verb
+agreement.
+In (50) and (51), the verb themes given require singular
+subjects. The verb theme in (53) requires a dual subject. In addition, the
+verbs in (52) and (53) show plural number agreement. If the subjects in
+(52) and (53) are interpreted as conjoined, then this plural agreement is
+accounted for.
+Word order also suggests this reanalysis of postpositions into two categories.
+Postpositional phrases are base generated following the subject.
+Most postpositional phrases remain in this position. This is true of both
+phrases with simple objects and those with sentential objects. See chapter
+42. However, the apparent postpositional phrases discussed in this section
+more commonly precede the subject. This is the position one would expect to find them in if they are not postpositional phrases, but one conjunct of a conjoined structure.
+This suggests that sentences like (42) and (44) do not have the structures shown in (43) and (45) respectively, but that the structure given in
+(54) is appropriate. 6Coreference
+(54)1047S
+/
+I
+\
+S CONJUNCTIONSIn other words, these postpositions also fall in the lexical category of conjunction.
+The lack of coreferentiality between the pronoun and noun in
+sentences like (48) is accounted for by the noncoreference rule.
+These
+morphemes may also be analyzed as postpositions (although less commonly), as in (49), as shown by the fact that a coreferential reading is possible.
+Two structures are thus available.
+There may be a postpositional
+phrase in topic position and coreference between a pronoun and a following noun is allowed or there may be a conjoined structure and coreference
+is prohibited.
+The move towards reanalysis of some postpositions as conjunctions also
+and the tendency to prefer the noun before the pronoun work together to
+make coreferential readings of sentences such as (48) highly marked.","[1090, 1091]"
+"(8)eyi [ dene]
+the
+mangoyidee
+i
+hjshä
+lsg. talked COMP 3 is tall
+'the man whom I talked to is tall' (Hr)(9)[dene]
+mans£ba
+rirenjla
+yile
+i
+radehia
+m o n e y 2sg. gave PAST COMP 3 went back
+'the man you gave money to left' (Hr)(10)[dene] ghp^eniet?
+m a n lsg. has love forghä
+to(11) yenene
+woman(12) Bill [ luge]
+fish1311'the man who I love' (Bl)[k^e] gohsj
+segha
+gonezg
+h o u s e 3 made area l s g . f o r area is good
+Ί like the house the woman built' (Hr)
+wehji
+i
+raxeghanjhtj
+3 hooked COMP 3 gave lpl. animate Ο
+'Bill gave us the fish he caught' (Hr)
+'he gave us the fish Bill caught'These sentences show relative clauses where the double role noun is an
+object, oblique (8, 9, 10) or direct (11, 12), within the restricting sentence.
+Two facts suggest that the double role noun is contained within the restricting sentence. The first is word order. In sentences such as (6) and
+(11), the word order within the restricting sentence is Subject Object
+Verb. If the double role noun were part of the higher sentence, as in (4),
+one would expect the matrix object to precede the complement subject.
+The second fact that indicates that the double role noun is part of the
+restricting sentence is the lack of pronouns as objects. If the double role
+noun in a sentence such as (8) were part of the matrix, a pronominal object of the postposition would be required in the subordinate clause since
+a postposition must have an object argument. Since there is no pronominal object, the noun must be within the same sentence as the postposition.
+In internally headed relative clauses, there is no external head noun
+and the double role noun occurs within the restricting sentence. A rule of
+semantic interpretation indexes a noun phrase within a subordinate
+clause with the noun phrase that dominates it, allowing the noun phrase
+to be interpreted as part of both the higher and the lower sentences.
+Sentences can be ambiguous: more than one noun in the restricting sentence can be interpreted as a double role noun, as in (13) and (14).
+(13) lj
+gah
+hedehfe
+i
+ghäyeyidä
+d o g r a b b i t 3 chased COMP lsg. saw
+Ί saw the dog that chased the rabbit' (Hr)
+Ί saw the rabbit that the dog chased'1312Part V. Syntax( 1 4 ) dene
+persontlj
+seghänjhtj
+nechä
+dog 3 gave sg. animate Ο 3 is big
+'the person who gave me the dog is big1 (Bl)
+'the dog that the person gave me is big1In sentences such as these, the first reading is preferable: in cases of
+potential ambiguity, the first noun is generally interpreted as the double
+role noun. This is not always so, as is evident from (11), repeated below.
+(11) yenene k o e
+gohsj
+i
+segha
+gonezo
+w o m a n h o u s e 3 built area COMP l s g . f o r area is good
+Ί like the house the woman built' (Hr)
+A reading of Ί like the woman who built the house' is not possible for this
+sentence despite the fact that the word yenene
+'woman' is the first noun
+of the restricting sentence because yenene
+cannot serve as an object of
+the higher sentence 'it is good for me.' The higher verb has an areal object go- and yenene
+is not interpreted areally. If yenene
+is to be interpreted as head noun, the sentence must be as in (15), without the areal
+pronoun on the higher verb.
+(15)yenene k o e
+gohsj
+i
+segha
+nezo
+w o m a n h o u s e 3 built area COMP l s g . f o r 3 is good
+Ί like the woman who built the house' (Hr)Other examples are shown in (16) and (17).
+(16) neyaa
+tthik'i'hi t'ah golo t h e h k ' e s i i
+2sg.son g u n
+w i t h m o o s e 3 shot COMPseghäneneto
+2sg. gave lsg.
+sticklike Ο
+'you gave me the gun that your son shot the moose with' (SI)(17) neyaa tthik'i'hi t'ah golo thehk'e s i iseghänenehtj
+2sg. gave lsg. animate Ο
+'you gave me the moose that your son shot with the gun' (SI)In (16), the verb theme 0-tln in the matrix requires an object that has the
+quality of being extended and rigid. In (17), the verb theme in the matrix
+requires an object that is animate. The choice of matrix verb restricts the
+potential choice of nouns to fill the double role: semantically, only one of
+the nouns within the restricting sentence can be interpreted in the matrix.
+These examples show that relative clauses can have internal heads.
+In
+general, it is the first noun of the lower sentence that is interpreted as
+head noun unless the matrix verb imposes restrictions that force the
+choice of another noun as the head.
+Before discussing externally headed relative clauses, a note on relative
+clauses when relativization is into subject position is in order. In the rel-Relative Clauses1313ative clauses above, relativization is into object position and it is clear that
+the double role nominal is in the restricting sentence. 5
+When relativization is into subject position, it is not clear whether the double role noun is
+part of the matrix or the restricting sentence.
+Word order does not help
+decide as the subject is the first word of the sentence. Pronouns also do
+not help as the subject pronouns do not vary in form.
+Sentences like
+those in (18) through (22), where the double role noun is the subject of
+the restricting sentence, may thus come from an internally headed structure, as in (4), or an externally headed structure, as in (5).
+(18)?eyi
+that?
+dene
+sisehwi
+yile
+i
+<5neradeh*a
+p e r s o n 3 bother lsg. PAST COMP 3sg. went away again
+'the man who was bothering me went away' (Hr)(19) ts'elja
+girltheti
+waetlah
+3sg. sleeps 3sg. came to
+'he came to the girl who was sleeping' (SI)(20) ts'uh
+woodnezo
+sii
+kats'eniwe
+3 is good COMP unspec. looks for
+'we look for wood that is good' (Bl)(21) dene
+John r a r e y j h t ' u yjle
+i
+la ? ek'eräwe zo
+person
+3 hit
+PAST COMP F X 3sg. fight a l w a y s
+'the person who hit John is always fighting' (Hr)
+(22)47.1.3??
+?
+e y i dene
+| t s ' e whehk'e s i i
+asi bodenehsho
+t h e p e r s o n m o o s e 3 shot
+COMP Q
+2sg. know 3
+'the person who shot the moose, do you know him?' (Bl)Externally headed relative clausesIn the relative clauses examined so far, word order in the embedded
+sentence is the same as the standard order for simple sentences. It is also
+possible for the double role noun to occur to the left of the restricting
+sentence, as an external head noun. In (23) and (24), the relative clauses
+appear in a structure like (5), with an external head noun. The head noun
+is placed in brackets. (23) should be compared with (6) and (24) with (8).
+(23)[lue] seyaa
+iayenihde
+sii
+meghänila
+f i s h l s g . s o n 3 killed pi. Ο COMP lsg. gave 3 pi. Ο
+Ί gave him the fish my son caught' (SI)(24)[ ? e y i d e n e ] bets'e goyidee
+i
+hishä
+t h a t m a n 3.to
+lsg. talked COMP 3 is big
+'the man whom I talked to is tall' (Hr)1314Part V. SyntaxThese examples show the two kinds of evidence for an externally headed
+relative clause structure.
+In (23), the object of 'kill', 'fish,' precedes the
+subject. In both (23) and (24), there is an object pronoun present, the direct object ye- in (23) and an oblique object be- in (24). The presence of
+the object pronoun indicates that there is not an object noun in the same
+simplex sentence. The double role noun must be in the matrix rather than
+in the restricting sentence. 6
+Externally headed relative clauses parallel to the internally headed relative clauses in (9) through (12) are given in (25) through (28).
+(25)[dene]
+personbeghä soba
+rinela
+yile
+i
+radehta
+3.to
+m o n e y 2sg. gave PAST COMP 3sg. started back
+'the man you gave the money to left' (Hr)(26)[dene]
+personbegho?enieto
+lsg. have love for 3(27)[leht'ee] yenene yeht'ee
+i
+segha
+gonezo
+b r e a d w o m a n 3 baked 4
+COMP l s g . f o r area is good
+Ί like the bread the woman baked' (Hr)(28)[luge] Bill yehji
+raxeghänjhtj
+fish
+3 hooked 4 3 gave lpl. animate Ο
+'he gave us the fish Bill caught' (Hr)'the man whom I love' (Bl)Sentences (16) and (17) have externally headedcounterparts.","[1355, 1356, 1357, 1358]"
+"Notes
+1. While causing is bringing about an event, letting is ceasing to preventMiscellaneous Complement-Taking Verbs1307an event. Jackendoff (1976) posits that CAUSE and LET are different
+semantic functions. While these functions are present in the Slave
+verb stem, as, for example, in the existence of different stems for
+'lower' (CAUSE) and 'drop' (LET), there do not seem to be different
+verbs expressing just causing or letting. These functions must be distinguished by context.
+2. There is dialect variation. Notably -id may be imperfective in Hare
+((71)). This is not usually the case: -tee is more common ((57)). The
+use of -td as imperfective appears to be restricted to first person
+plural.
+3. The structure required by these verbs is discussed in chapter 42.
+4. The first person plural stem is subject to variation. It can be -did (47),
+-yd (52, 53), or -Id (71). An individual may use more than one.","[1350, 1351]"
+"In most cases, either n i or gu can be used since most sentences can have
+two interpretations,
+ni is not used if the complement is semantically dominant while gü can be used if the complement is semantically subordinate. The gu complementizer could be used in the (b) versions in (56)Complementizers I1251through (58), making the sentence ambiguous with this complementizer.
+There are other cases where g ύ is more common.
+(59)k'ahbamj
+?ahgt'e
+gu
+beghp
+?uyih ? 9
+Colville Lake 3 is
+COMP 3 . a b o u t lsg. heard unspec.
+Ί heard that he is living in Colville Lake' (Hr)The context for (59) could be one of the following. In the Β forms, the
+brackets indicate the part of the answer required by the question asked.
+(60)a. A. Where is he living now?
+Β. I heard that [he is living in Colville Lake],
+b. A. Did you know he's living in Colville Lake now?
+Β. [I heard] that he is living in Colville Lake.
+c. A. Where is John living, did you hear?
+Β. [I heard that John is living in Colville Lake].","[1294, 1295]"
+"45.4LexicalfeaturesVerbs allowing direct discourse interpretation of their complements
+must be diacritically marked in the lexicon since there do not seem to be
+features that this follows from.
+Since there are two different kinds of
+direct discourse-determining verbs, two features are needed, one for
+direct statements (statements to someone) and one for indirect statements
+(statements about someone).
+This diacritic feature is apparently not a property of the verb theme, as
+the following examples show. The verb theme 0-ni 'say, speak' requires a
+direct discourse interpretation of the complement in some cases while in
+other cases it requires an indirect discourse interpretation
+(?ek0-e-de-0ni). The verb theme 0-when
+(Bearlake form) is similar: the base
+ye-ne-07
+when
+'want' takes a direct discourse complement while the base
+a-hw h e n 'cause, affect' requires an indirect discourse complement.
+It
+appears that the diacritic indicating direct discourse is actually a feature
+of prefixes rather than of themes since a given theme can take
+complements of either discourse type. 445.5SummaryComplement-taking verbs in Slave are of two types, those requiring
+direct discourse interpretation of the complement and those requiring
+indirect discourse interpretation.
+These types of interpretation differ by
+the point of view from which the pronouns of the complement sentence
+are interpreted.
+Possible anaphoric relations in Slave are determined by rules of control
+and noncoreference interpretation, (chapters 30, 42).
+A similar rule is1292Part VSyntaxneeded to interpret coreference relations of complement pronouns of a
+direct discourse verb.
+The rule of direct discourse interpretation is
+outlined in section 45.2.
+Two rules are required, one for reporting
+statements to someone and one for reporting statements about someone.
+These rules are given in (36) and (44). A rule similar to control discussed
+in chapter 42 marks possible coreference relations between the object of
+the transitive 'want' and complement pronouns.
+If there is no possible
+coreference relation between the object and pronouns in the complement,
+the direct discourse control filter marks the sentence as ungrammatical.","[1335, 1336]"
+"Chapter 36
+Yes/No QuestionsThere are three strategies for forming yes/no questions in Slave, each
+with a different meaning. In one case, the questioner has no e x p e c t a t i o n
+as to the response to the question. In the second case, a positive answer is
+expected. The third case involves focus questions, where a particular constituent is questioned and the rest of the sentence is presupposed. These
+three question types are discussed in this chapter.
+?","[1165, 1166, 1167]"
+"The Modelthey choose and which verb theme category or categories they occur with.
+The lexicon thus contains themes, the minimal lexical specification of a
+word, and affixes.
+The nature of the themes and their relationship to
+words is discussed below.
+In many cases, there does not appear to be any difference between a
+noun root and a noun theme.
+Since nouns often are not prefixed, the
+theme will not include any more lexical material than the root.
+Noun words are often identical to noun themes (and thus to noun roots).
+The noun word can be formed from the theme by zero derivation.
+The
+derived form is the noun stem. Some examples are shown in (3).
+(3) t u
+sah
+ko
+-kwi'water'
+'bear'
+'fire'
+'head' (Bl)In these words, there is no difference between the theme and the word,
+suggesting that the noun formative is a null affix, a suffix since category
+determining affixes in Slave are suffixes.
+Noun words are not necessarily identical to themes. Some nouns (noun
+stems) differ from the theme by the presence of a final I I I in the word.
+This consonant is historically a noun stem formative that derives instrumental nouns from themes. Examples are given in (4).
+(4) a. xeeh, -gheele
+cf. 0-xee
+b. tl'uh, -tl'ule
+cf. 0-tl'u'pack, load, freight' (noun)
+'pack' (verb theme)
+'rope' (noun)
+'tie' (verb theme)The nouns in (4) differ from the themes, shown in verb themes, by the final consonant present in the noun.
+This consonant derives historically
+from the Athapaskan instrumental suffix * - t . The suffix is not used productively in Slave but is lexicalized with some nouns.
+There are some nouns that include an obligatory suffix. This suffix has
+the form -e, as in (5). It too is a stem formative.
+(5) a. t ' e e r e
+b. i u e
+c. b e l e'girl' (Hr, Bl)
+'fish' (Bl, SI)
+'wolf (Hr)These three types constitute the basic set of nouns. Nouns are derived
+from noun themes by suffixation of 0 , -/, or -e.
+Noun and verb themes often share a root, as shown in (6).
+(6) a. te
+b. shi'ice'
+'song'0-te
+d-shj'freeze'
+'sing'An Overview of Slave Grammar
+c. jih
+d. tthih
+4
+e. t ' e h
+f. x ä h'hook' (noun)
+'axe'
+'charcoal'
+'club'd-jih
+h - t t h i4 h
+h-t'eh
+h-xahg- - d e l -'blood'0-dele941'hook' (verb)
+'chop with axe' (SI)
+'cook'
+'club, handle stick-like object
+(uncontrolled)'
+'be red'The question of whether nouns and verbs share not just a root but also a
+theme can be posed. At a word level, more lexical material is required in
+the verb than in the noun. While a noun word can consist of a stem alone
+(root plus stem-forming suffix), a verb word must contain not only a root
+and a stem-forming suffix but also a classifier and any thematic prefixes
+(and inflection for person, number, mode). While at the word level verbs
+and nouns which share a root differ, is this true at the theme level?
+There is some evidence that nouns and verbs not only share roots, but
+share themes. There are some nouns in Slave that occur with a prefix in
+some dialects and that are related to verbs. When the related verb theme
+has an h- classifier, this morpheme is present in the prefixed noun form.
+Some examples are given in (7).
+(7) a. h - f i h
+cf. tthih
+b. h - b e
+c. h - s e
+d. h - d z o'action with axe' (Hr)gohfih'axe' (Hr)'axe' (SI)
+'stretch on round stretcher' ? e h b e 'round stretcher'
+'hook' (verb)
+gohze 'hook at end of stick'
+'trap' (verb)
+' e h d z o 'trap' (noun)In (7), the verb themes have the h- classifier. A prefixed noun related to
+these verbs also has an h- preceding the stem, possibly the A- classifier.
+In prefixed nouns related to verbs with the 0 classifier, this h- does not
+appear before the noun stem.
+(8) a. 0 - k ' a
+b. 0 - x o
+c. 0 - l a'file, sharpen' (verb)
+'kill pi.1gok'a
+'file' (noun)
+""'eghoni 'person in war, killer''float'?ela'boat'Based on these data, it appears that a prefixed noun related to a verb
+theme with the h- classifier also has the h- classifer since one related to a
+verb with the 0 classifier does not have an h-. If the classifier is present
+in the noun theme as well as in the verb theme entry, then the presence
+of the classifier in the prefixed noun form can be accounted for. If the
+classifier is not present in the noun theme, the presence of [h] in the
+prefixed noun is idiosyncratic and unpredictable.
+This suggests that
+related nouns and verbs share a theme, a lexical entry unmarked for
+category, and a function of stem formation rules is to assign category.
+Further evidence that related nouns and verbs share a common theme
+can be seen in some compound forms. In (9), the d- classifier occurs on
+the second member of the compound.","[984, 985]"
+"Syntax
+taägogenihde
+'they killed them (human)'ki-/gi-i. NP +pro {Ρ, V}
++3 +4
+- s g +sgy e - i. NP +pro V
++3 +4
+-sg
+-human
+riyude tä
+him/her/it'
+'s/he counted themkighäeda
+'they see
+faäginjhde
+'they killed0(-human)'him/her/it'i. NP +pro V
+- 3 +3
++sgk i - / g i i. NP +pro {Ρ, V}
++3 +4
+- s g -sg
+-human
+fanihwhe
+kighäeda
+Ί killed him/her/it'
+'they see them (-human)'
+leyihse
+nägineht'u
+Ί broke it'
+'they are hitting them
+(-human)'
+0i. NP
+-3+pro V
++3
+-sg
+-human
+leyäwihse
+Ί broke them'Singular and plural pronouns are not strictly parallel, but there is a rough
+correspondence:28.2be-tme-Nouns and: ye- : : ku-\ go-·, ki-/gi-:0: : ye-: 0.pronounsWhen a verb has a noun rather than a pronoun as object, the pronouns
+outlined in section 28.1 are not always used. The conditions under which
+the pronouns appear are discussed in this section.
+If a verb has a noun as direct object (58) or oblique object (59), there is
+no pronoun on the verb.
+(58) golo thehk'eh
+yehk'e's/he shot a moose' (SI)
+'s/he shot it'(59) golo ghäenda
+yeghäenda's/he sees a moose' (SI)
+'s/he sees it'The Pronouns1017A verb can take only one direct objec.t and a postposition only one object.
+Since both nouns and pronouns fill this role, only one of them can be present. With third person subjects, the subject pronoun is always null and it
+is thus difficult to know whether or not a subject pronoun is present w h e n
+there is a nominal subject.
+If a human plural noun is subject, the human plural morpheme
+ke-lgeoptionally appears (60, 61). The plural object pronouns are present when
+there is a human plural object ((62) through (65)).
+(60) a. cheekuake
+shegeyeh
+boy.pl.
+3pl. eat
+b. cheekuake
+sheyeh
+boy.pl.
+3 eat
+c. cheekua
+shegeyeh
+boy
+3pl. eat'the boys are eating' (SI)(61) a.'the men hit him/her' (Bl)(62) a. t s ' o d a n i k e r i g o d e t ä
+child.pl.
+3 count 4pl.
+b. *ts'odanike
+r i h u d 4e h t ä
+«.
+child.pl.
+3 count's/he is counting the children' (Hr)deneke
+näkiniiht'u
+person.pl. 3pl. hit 4
+b. deneke
+nayenijht'u
+person.pl. 3 hit 4(63) a. ts'odanike r i k u d e r e h t ä
+Ί am counting the children' (Hr)
+child.pl.
+lsg. count 3pl.
+b. *ts'odanike
+rihuderehta
+<
+child.pl.
+lsg. count
+(64) a. deneke
+person.pl.
+b. *deneke
+person.pl.goghäyeda
+3 sees 4pl.
+ghäyeda
+3 sees's/he sees the people'(65) a. deneke
+kughäyehda
+Ί see the people'
+person.pl. lsg. see them
+b. *deneke
+ghäyehda
+person.pl. lsg. see
+When a noun is plural but nonhuman, the plural pronoun is not present,
+as discussed in section 28.1. Examples are given in (66) through (68).
+(66) a. d i g a h i s h e y e h
+wolf
+3 eat'the wolves are eating' (Bl, SI)1018Part V.
+b. *digahi
+wolfSyntax
+shegeyeh
+3pl. eat(67) a. fee r i h u d e h t ä
+rock 3 count
+b. *fee rigodehtä
+rock 3 count 4pl.'s/he is counting the rocks' (Hr)(68) a. delje
+ghä'edijndi
+'s/he fed his/her dogs' (SI)
+REFL.dog 3 gave unspec. to
+b. *deli6
+goghä ? ediindi
+REFL.dog 3 gave unspec. to 4pl.
+Only humans are grammatically marked for plural in Slave.
+The object pronouns go- and ku- appear to be markers of human plural
+number, parallel to the subject form ke-lge-.
+As with the person pronouns, the form of the human plural morpheme is dictated by its grammatical function. This is shown in the examples above where the object
+pronoun is present only when the object is human. If the object is plural
+nonhuman, no object pronoun is present. When noun objects are present,
+the parallels beween ke-lge- and ku-lgo- become clear: they are markers
+of human plural number. The use of go- and ku- as solely plural human
+number is obscured when no nominal object is present because they are
+extended in use to any plural oblique object.
+In general, the third person pronoun can be considered as unmarked for
+number. It can combine with a human plural number morpheme to give
+a marked plural form.
+When a noun is possessed by another noun, the same patterns emerge.
+No plural number pronoun is present unless the possessor is human
+plural.
+(69) a. dene lie
+b. deneke kuli6
+c. Mary gokoe'the man's dogs'
+'the men's dogs'
+'Mary and their house'(70) a. tsä do
+b. """"tsä kudo'the beaver's / beavers' food'In inalienably possessed nouns, ; . pronoun must precede the noun (71).
+The plural pronoun occurs only if the possessor is human (72).
+(71) a. dene bekwi
+b. tlj bechee
+c. ? editl'echine belo
+44'the man's head' (Bl)
+'the dog's tail' (Bl)
+'the tip of the pencil' (Bl)The Pronouns
+(72) a. ?ehkee kukee
+b. chi mek'oh1019'the boys' feet, the boy's feet' (Hr)
+'the ducks' necks, the duck's neck' (SI)When a noun is present, person is not marked by a pronoun but number is.
+Third person pronouns are generally unmarked for number and
+can combine with a human plural feature to give a marked plural.
+Oblique object pronouns show that this system is changing as singular plural distinctions must be signalled in the obliques.","[1060, 1061, 1062, 1063]"
+"Syntaxson/number markers.
+Others are human number markers that cooccur
+with third person forms. Still others indicate gender. The anaphoric pronouns (reflexive and reciprocal) are not included in the chart, but the
+anaphoric pronoun ye- fourth person is.
+The choice of pronouns other than third and fourth person is based on
+the grammatical relation the pronoun bears to the verb. Choice of third
+and fourth person pronouns is more complex, controlled by semantic as
+well as syntactic features. These pronouns are the focus of this chapter.
+28.1.1Singular pronounsThe pronouns 0 , be-lme-, ye-, and 7ede-/deindicate third and fourth
+person objects and possessors. The required form is determined by syntactic and semantic factors. First, the form is determined by a syntactic
+criterion: the grammatical relation of the pronoun to the category that
+governs it.
+Second, it is determined by semantic factors: features of
+person, number, and potential humanness of the subject and the object.
+28.1.1.1 yeye- is a fourth person object pronoun, an anaphor used when the subject is third person. It indicates that the object must be noncoreferential
+to the subject. It functions as direct object (2), oblique object (3), and
+possessor of an object noun (4).
+(2) niatsoyenetse
+(3) yegäh
+4.near's/he squashed him/her/it' (SI)näetlah
+'s/he jumped down next to him/her/it' (SI)
+3 jumped down(4) a. yeyaake tehgodehnde 's/he; chased his/herj children' (SI)
+4.child.PL 3 chased
+b. yechi waiya
+'hej came to hisj ducks' (SI)
+4.duck 3 approached
+28.1.1.20The object pronoun has no phonetic realization when it is a direct object
+and the subject is nonthird person.
+(5) n ä n e y i t aΊ kicked him/her/it' (Bl)28.1.1.3 be-l meThis pronoun is a third person nonsentence subject pronoun, used
+when the subject is nonthird person. 2 It is used as oblique object (6) and
+as possessor of a subject (7) or object (8).
+(6) meghoh
+3. ofsheohti
+1 opt.eatΊ want to eat it/them' (SI)The Pronouns
+(7) belje
+3.dog1007w h a a gots'f
+shegeyee ile
+long area.from 3pl.eat
+NBG
+'his dogs didn't eat for a long time' (Bl)(8) a.b e l j e wihk'e
+Ί shot his/her dogs' (Hr)
+3.dog 1 shot
+b. medzie teh
+?ethihk'6h
+3.ear
+across lsg. shot unspec.
+Ί shot him between his ears' (SI)When a noun is inalienably possessed, this pronoun occurs even when a
+nominal possessor is present, as shown in the examples in (9).
+(9) a.?ehmba mede
+nechä
+'the sheep's horns are big' (SI)
+sheep
+3.horn 3 is big
+b. t l j Mary begone kayjhcho
+'the dog bit Mary's arm' (Bl)
+dog
+3.arm
+3 bit
+c. John betiie
+gh9 'eniet^
+'s/he loves John's daughter' (Hr)
+3.daughter of
+3 lovesWhile the pronoun be-tme- is not usually used as a direct object, it can
+be if the direct object can be interpreted as human. It is present in (10).
+(10) a. i a a m e o h t h i
+b. goghäbenehtgΊ should kill him/*it' (SI)
+Ί teach him/her' (Bl)In a passive verb with the subject
+lique object is be-lme-,?e- unspecified or go- areal, the ob-as expected since the subject is nonthird person. 3(11) a. bet'ä
+?ehkw'i
+3.by means of straight
+b. bek'e tägoderatl'e
+3.on area is bruised
+c. mek'egodej9?edek'e
+'it shoots straight' (Bl)
+3 shoots
+'it is bruised on him/her' (Hr)
+('s/he has a bruise')
+'it is known of him/her' (SI)The subject is unspecified in (11a) and areal in ( l i b ) and (11c).
+The
+oblique object is third person.
+A semantic factor, agentivity, determines another use of be-lme-.
+(3), a
+sentence with an oblique object and a third person subject, has a subject
+that can be an agent and the object pronoun is ye-.
+When the subject
+must be a nonagent, be-lme- is required as oblique object. This use of
+be-lme- with a nonagentive subject is shown in (12) through (17).
+(12)tet'eh
+breadmegha nezy
+3.for
+it is good'bread is good for him/her'
+(s/he likes bread)' (SI)1008Part V.","[1050, 1051, 1052]"
+"Syntaxas a fixed location in time or space. The noun must be interpreted as
+nonareal if the pronoun is not present. Some nouns have only an areal
+interpretation and the gender pronoun must be present (108).
+Other
+nouns cannot occur with the gender pronoun and have no areal interpretation (for example, nohbäli 'tent,' 7eki 'teepee,' -t'6o 'nest,' ?oghi
+'den,
+cave1).
+Other nouns are sometimes interpreted as areal, as in (109)
+through (111). Other such nouns are 7ek'ilu 'road' and shih 'mountain.'
+Sentences are filtered out if a noun that is areal does not cooccur with
+the gender pronoun and if a noun that must be nonareal does occur with
+the gender pronoun.
+With the nouns that can have either reading, sentences are interpretable whether the areal pronoun is present or not.
+This gender marking system appears to be in a state of flux in most dialects. For many speakers, few nouns are marked for areal gender. Even
+with those that are, the gender agreement does not always occur.
+28.6.2The gender prefix de- (verb prefix position 9)The gender prefix de- marks wood, leaves, and branches. This gender
+prefix is optional: some speakers seem to use it quite commonly while for
+others it is rare.
+This gender prefix, like go-, occurs when the noun of that gender fills
+the thematic role of theme.
+A number of examples are given in (112)
+through (125). In (112) through (116) the gender marked noun is a subject, in (117) through (124) it is a direct object, and in (125) it is an
+oblique object.
+(112)a. tse
+'ehk'edededehya
+'the wood is piled up' (Bl)
+wood pi. wooden Ο are located on each other
+b. ' e d j t l ' e ? e h k ' e d e d e h y a
+'the books are piled up'
+book
+pi. Ο are located on each other(113)a. tse dela
+wood
+b. tl'u thela
+rope(114)'wood is located' (Bl, SI)
+'string is located' (SI)a. ? ok'ay t'oge de ? o
+'a bird's nest is located' (Hr)
+bird
+nest wooden Ο is located
+b. sasone we 7 ο
+'a stove is located'
+stove
+4.",[1070]
+"Categories(60)a. t h e d a
+b. y e h d a's/he sits' (SI)
+'s/he has him/her sit'(61)a. tewe?9'three dimensional Ο is in water' (Hr)b. tewih? ς>Ί keep three dimensional Ο in water'In these examples, as in those in (43) through (56), the thematic role of
+theme is present in both the transitive and intransitive forms. A second
+role, location, is present in the transitive forms in (57) through (61).
+While in the data in (43) through (56) the relationship between the
+classifiers is between a process and an action process, in (57) through (61)
+it is between a position, either punctual or durational, and possession. In
+the first set of data, the classifier relates different semantic functions,
+while in the second set it relates different modes of a particular function. 5
+The h- classifier is used locationally with other verbs. In (62), the verb
+theme 'be,' 0-iin,
+a descriptive theme category theme, is shown in the
+imperfective and perfective forms.
+(62)hjlj's/he is'yjle's/hewas'When this verb is used to indicate existence of or location of an entity, it
+requires the prefix go- areal as subject, the h- classifier, and an oblique
+object, as shown in the examples in (63).
+(63)a. sgba
+g9hlj
+money
+b. tie g?hti
+oil area exists
+c. begehti
+3.area exists'Yellowknife' (there exists
+area exists money) (Hr)
+'Norman Wells' (there exists oil) (Bl)
+'he was born' (there exists him) (Bl)All the examples discussed in this section so far show intransitive verb
+themes with the 0 classifier and transitive/causative verb bases with the
+h- classifier added derivationally.
+The h- classifier also serves as a
+transitivizer/causativizer for d- and I- classifier intransitives.
+Examples
+are given in (64) through (66). In the (a) examples, a d- or /- classifier
+intransitive is shown and in the (b) forms, the derived h- classifier form is
+given.
+(64)a. n e k w i
+b. n j h k w i'fire, light goes out' (Bl)
+'you sg. put out fire, light'(65)a. r a y e f a
+b. r a y i h f a'it is dry' (Hr)
+Ί dried it'Classifier
+(66)a. d e g a
+b. d a f i d e h g a457'it is white' (Hr)
+'s/he has white hair'These examples are parallel to the other action themes: a process is
+related to an action-process or a position is related to a possession.
+Whether the 0-h classifier relationship is that between process and
+action-process, functions; or that between position and possession, modes;
+is dependent on verb theme category.
+Active verb themes fall into the
+former category, relating a process and an action process while neuter
+verb themes fall into the latter, relating a position and a possession.
+This classifier productively forms causatives.
+See chapter 46 for
+discussion of periphrastic causatives with the verb ?a-0-ieh
+'let, cause.'
+24.2.3.2PassivesWhile the h- classifier changes semantic functions and modes, the dclassifier does not.
+One of the primary derivational functions of this
+classifier is that of passivizer. Semantically, it effects a change in focus,
+causing a shift from agent focus to theme focus. Morphosyntactically, it
+makes the direct object into the subject.
+The /- classifier has the same effect as the d- classifier. The I- classifier
+can be thought of as being phonologically secondary, derived from the
+classifiers d + h. The d- causes voicing of the h- classifier, as in the first
+person dual/plural forms of h- classifier verbs.
+Both the d- and this
+voiced segment are later deleted, showing their effect only continuant
+initial verbs where the continuant is voiced throughout the paradigm.
+Under this treatment, originally suggested by Stanley (1969) for Navajo,
+the function of passive, reflexive and reciprocal are identified with only
+one classifier, d-, rather than with two. The Z- classifier is thus found only
+in those cases where it is thematic and is never used derivationally.
+In (67) through (80), 0 classifier transitive themes are given in the (a)
+forms and derived passives with the d- classifier in the (b) forms.
+(67)a. yu
+k'e?ede?9
+'s/he ironed the clothes'
+clothes on 3 handled unspec. three dimensional Ο
+b. yu k ' e ? e d e h t ' 9
+'the clothes are ironed'(68)a. spba n e ? j
+money
+b. s£ba neht'j'the money got stolen'(69)a. r a s e r e y j ? a
+b. r a r e y e h t ' a's/he fooled me' (Hr)
+Ί was fooled'(70)a. l e y i g h e
+b. l e y e g eΊ cut it' (Hr)
+'it was cut''s/he stole the money' (Bl, SI, Mt)458Part III.","[500, 501, 502]"
+"Categories(38) action by string
+0 -lu
+(39) action by stick
+h-tl'ih
+goda?edjhtl'ih
+sedehtl'a
+shpedetl'a
+h-xah
+?edehxa
+bebi seghanjhxah
+baby'handle with sticklike object'
+'you sg. slam the door1
+'s/he hit me with a stick'
+'s/he limped' (Hr)
+'handle with sticklike O, handle animate Ο
+(some dialects)'
+'s/he hit with stick, s/he batted'
+'you sg. give me the baby'(40) action by hand
+h-nih
+0-tsicontrolled
+noncontrolled(41) action by foot
+0-?eh
+0-tähcontrolled
+noncontrolled(42) action by whip
+h-tthah(SI)(43) action by gun, shooting
+h-k'eh
+Themes such as these are numerous in the language.
+above represent only a very tiny sample.
+24.17.8.3The examples givenVerb themes indicating numberIn some cases, the verb theme varies depending on the number of the
+semantic role of theme (subject of intransitive, object of transitive). Such
+verb themes are not phonologically related, but rather the variation for
+number is suppletive.
+Various kinds of suppletion are found, as discussed in the following
+sections.
+24.17.8.3.1Separate verb themes for singular, dual, plural theme(44) be seated
+whida
+whikee
+ts'edehkw'iΊ am seated' (Bl)
+'we 2 are seated' (Bl)
+'we pi. are seated' (Bl)Classificatory Verbs and Control/Noncontrol
+(45) go (controlled)
+dey a
+kede?a
+kededee's/he started out 1
+'they two started out' (Hr, Bl)
+'they pi. started out' (Hr, Bl)(46) go (noncontrolled)
+dehtlah
+iegedehtthe
+gogedehtthe's/he started out' (SI)
+'they two started out' (SI)
+'they pi. started out' (SI)791The dual and plural forms have the same stem but different themes since
+the dual and plural number prefixes are present in the verb themes.
+(47)fall
+tedf w e's/he fell in water' (Hr, Bl)tenjkj'they two fell in water'ten jtl'i'they pi. fell in water'24.17.8.3.2
+(48)(49)One verb theme for singular/dual, one for plural themeeat
+shetj
+shegetj
+shegeyeh
+swim
+k'inabee
+k'inakebee
+k'inake ? o h's/heeats''they two eat' (Bl, SI)
+'they pi. eat' (SI)'s/he swims' (Hr, Bl)
+'they two swim' (Hr, Bl)
+'they pi. swim' (Bl)In Hare, -bee is usually used in the plural as well.
+(50) fall
+tädedehwe
+taiekededehwe
+tadetl'i's/he fell down' (Hr, Bl)
+'they two fell down' (Bl)
+'they pi. fell down'Some speakers use the theme 0-kj (perfective), as in (47), for the dual and
+others use the theme in (50). The theme for singular and dual differ here
+since the dual verb theme includes the number prefix te-.
+(51) live, stay, fight
+sek'eräwe
+sek'erälekegwe
+sek'eräkedee's/he fights me' (Hr)
+'they two fight me' (Hr)
+'they pi. fight me' (Hr)792Part III.","[834, 835, 836]"
+"Categories(d) inflection: In Hare, the numerals five to ten are stems since they are
+used to form verbs. In the lower numbers in Hare and the other
+dialects, the numerals can be incorporated into the theme d.e-0-t'e.
+Notes
+1. The numeral 'four' is often pronounced [ d j y ] in all dialects. This word
+is historically diyi (cf. Chipewyan d j y j , Li 1946, page 422). dj i shows
+the usual development of velar-final forms in Slave: the velar is lost
+but vowel length maintained, an indication of the presence of a
+consonant historically. (The forms tai 'three' and syläi 'five' had a final
+velar historically. Compare with Chipewyan taye 'three' and sasyläye
+'five.') The form [dj γ ], found in all dialects, shows an alternative
+development: the final vowel is lost but the velar maintained.
+2. Petitot (1876) lists yet another pattern for Hare:
+UNIT honenp dowe ts'§ UNIT
+This compound postposition -dowe ts'f 'ahead to' is not used today.
+3. English is usually used for these larger numbers.
+4. This statement is strong.
+may occur, as in (i).
+i.syläi
+fivecheekua
+boyIn elicited forms, the order numeral-noun'five boys'However, as soon as this noun phrase is put into a larger context, the
+order is always noun-numeral.
+ii. cheekua syläi ts'ede k'eh gedehtth'i
+boy
+five blanket on
+3pl. sit
+'five boys are sitting on the blanket'
+I take this to mean that the unmarked word order is noun-numeral
+when the noun is concrete.
+5. English is used for telling time for other than hours and half hours.
+6. Compare with -ne in dene 'person, people, man.'
+is of very limited distribution in Slave.",[432]
+"Qualifiers
+(21) a. ' a e k ' a z a
+b. ' a e t s i l i a
+?
+aetsile'it is very short' (SI)
+'it is really small' (SI)
+'it is small'
+'it is a little sweet' (Bl, SI)
+'it is sweet'c. t e k o a
+teko
+14.2.4241-ah (SI) diminutiveIn Slavey, there is a distinction between -yaa, discussed in section
+14.2.3, and -ah. -yaa, a noun, generally means 'young' and -ah, a qualifier,
+'small.' This can be seen by contrasting the forms in (22).
+(22)tsäyaa
+tsäah'young beaver'
+'small beaver'However, these are not always distinguished. Some people use -ah in all
+cases.
+A third form of the diminutive, -zaza or -zaa, is also found,
+especially in Fort Liard Slavey. An example is given in (23).
+(23)'youngtsäzazabeaver'There are a few stems that never occur without the diminutive.
+Slavey examples are shown in (24).
+(24) goloah
+dezoah
+ιTwo'large animals' (SI)
+'child'These stems occur with the -ah form of the diminutive.
+14.2.5-tsile(Bl,SI, Mt)/-ie/e(Hr) 'small'While the diminutive discussed in sections 14.2.3 and 14.2.4 generally
+indicates age, -tsile always indicates size. The diminutive -yaa is absolute
+in nature, marking the smallest of a category, -tsile is comparative. A
+noun modified by -tsile is smaller than the noun but not necessarily the
+smallest of the type.
+Like other modifying stems, -tsile
+indicates one
+particular species of the type indicated by the noun (25) or different from
+the noun (26).
+(25) a. d e e h
+deehtsele
+b. ''its'etsele
+?
+its'e
+c. y i h d a t s e l e
+yihda'river' (Bl)
+'creek'
+'second largest bull moose' (Bl)
+'moose'
+'little dipper' (Bl)
+'dipper'242Part III.","[284, 285, 286]"
+"?idihim/her)'(Hr, Bl)dechj layetlalightning t r e e
+b. ? i d i l a y a t l a(water killed'lightning split the tree' (Bl)3 split
+'lightning split it'3 split 4
+c. * ? i d i i a m a t l a
+3 split 3
+The use of the third person oblique object be-lmerather than fourth
+person y e - is correlated with the thematic role of agentivity: if the subject
+can be interpeted as an agent, then ye- is used as oblique object while if it
+cannot be interpreted as an agent, then be-lmeis used. A sentence such
+as (24) can be grammatical.
+(24)bebi y j t l ' a d a w e'the baby fell from his/her hand' (Hr)
+(cf. (20b))In (24), the action is interpreted as volitional on the part of the baby, as a
+controlled action. The (b) versions of (19) through (21) have a nonagent
+reading as primary and thus the pronoun be-lmeis found.
+Why is be-lmebe used this way?
+Thompson (1979) suggests a discourse function for the pronoun *W9- (Slave be-lme-).
+He points out that
+a function of this pronoun in Athapaskan is to indicate an unstated object
+when the subject is a nonidentical third person and the object a topic or
+focus of the discourse. When a subject is nonhuman (or nonagentive), the
+object is discourse topic, be-lmemarks that the object is discourse topic.
+28.1.1.4?ede-lde-The reflexive pronoun marks direct (25) or oblique (26) objects that are
+coreferential to the subject.
+It also indicates the possessor of an object
+noun when that possessor is third person coreferential to the subject (27).
+(25)ga?edenetf's/he teaches(26)?'s/he(27)a. d e t u e
+yeghanjhtj
+r e f l . d a u g h t e r 3 gave 4edeghayedaseeshim/herself(Bl)him/herself'he, gave himj his;daughter'1010Part V.","[1053, 1054]"
+"24. This rule and others that follow are tentative formalizations of the
+word formation rules of Slave.
+25. This is only a bare beginning of a study of the properties of incorporated stems.
+It appears that in some cases, subcategorization in
+verbs with incorporated stems follows from classifier shifts, as in the
+examples in the text. In other cases, there is no classifier shift, but
+the incorporated stem fills the direct object argument position and no
+other direct object can be present.
+i. k'inatehetj.
+*te k'inatehetj
+cane's/he carries a cane'It appears that some incorporated stems, the true nouns, must have
+as part of their lexical entry a syntactic rule that creates an intransitive verb. Other incorporated stems are adverbial.
+26.",[1036]
+"Relative Clauses13292. The head noun of the relative clause thus occurs to the left of the restricting sentence.
+Such a structure is marked for SOV languages
+where prenominal relative clauses are expected.
+3. The term 'restricting sentence' is generally used to describe the embedded sentence in a structure like (5). It is not used to describe the
+embedded sentence in (4). I will use this term in a very general way,
+however, so that the embedded sentences in both (4) and (5) will be
+called restricting sentences.
+4. A complementizer does not always occur. It is most common in Hare.
+In other dialects relative clauses are often unmarked for subordinate
+status.
+This is true of complements in general: complementizers are
+common in Hare and less frequent in the other dialects.
+5. When just third persons are involved in the restricting sentence, the
+relative clause structure is unambiguous.
+When other persons are involved, either structure is possible. For example, in (i) it is impossible
+to tell whether liht'ie
+'bread' is an external or an internal head noun
+since there is no independent subject pronoun and the third person direct object marker is null when the subject is nonthird person.
+i. ? e y i leht'ee
+the breadwiht'ee
+i
+begha
+gonezo
+lsg. baked COMP 3.for
+area is good
+'she liked the bread that I made' (Hr)The structure is also unambiguous when nonthird persons are involved and the double role noun is an oblique object. This is because
+there is an overt third person oblique object pronoun {be-Ime-)
+that
+occurs when the subject is nonthird person.
+ii.","[1372, 1373]"
+"26.1.2Word formation rulesWords are formed in the lexicon by word formation rules that put together affixes and themes. The output of the word formation rules is a
+list of possible words of the language.
+26.1.2.1 A semantic description of word formation
+Descriptions of word formation proposed in the Athapaskan literature
+focus on formation of the verb. The verb offers an example of what is
+called a bracketing paradox: the structure of the verb required by the
+morphosemantics and the ordering of affixes in the verb are not identical.
+Much discussion in the literature on verb formation focusses on semantic structure. Kari (1979) presents an explicit description of a possible
+model of verb formation. In his model, there are several levels of word
+formation. At levels one and two, verb themes and subthemes are listed. 4
+Levels three through six are derivations built on the theme. Level three
+is an aspectual derivation (mode and aspect), level four errative, level five
+super (compounding) aspects, and level six is non-aspectual derivations.
+At this level the base is defined.
+Levels seven through nine are for
+gender, negative, and pronoun marking, which are syntactically defined.
+Kari's model includes a number of levels where the process occurring at
+each level is semantically defined. The order of affixation is not linear.
+Instead, prefixes are inserted in a way not discussed explicitly by Kari
+into the correct linear position in the string.
+A model such as this which does not impose linear ordering on prefixes
+is appropriate as a semantic model of the Athapaskan verb. By adopting
+such a model, many apparently anomalous facts about the Athapaskan
+verb, such as inflection occurring inside of derivation, can be accounted
+for. Just how the prefixes come to be linearly ordered must be accounted
+for.
+There is some phonological evidence suggesting that inflectional
+pronominal prefixes in position 12 are added late: it is only in this
+position that consonant clusters are allowed, stem and disjunct phonology
+is similar while conjunct phonology is different. I will not deal with how
+the verb is formed in any detail. Instead, I look briefly at some of the
+rules required. Because many of these rules refer to syllable structure, I
+turn to this structure in the following section.
+26.1.2.2 Syllable structure
+The phonetically possible syllable structures in Slave are limited to
+those shown in (13).
+(13)CVC,CV,VC,V944Part IV. The ModelThese can be summarized as a syllable template of the type in (14).
+(14)6
+/ I \
+(C)V (C)A syllable must have a nucleus and can have an onset and coda. 5
+The syllable structure template in (14) shows permissible syllables at
+the level of phonetic representation. At intermediate levels of derivation
+of a word, more than one consonant may follow a nucleus.
+26.1.2.3 Noun formation
+There are several topics to be considered under the formation of nouns.
+These include possession, prefixed nouns, suffixed nouns, compounds and
+nominalizations.
+26.1.2.3.1 Possession
+Most nouns are inflected for possession in two ways. A possessive prefix (or noun) indicating possessor is added to the noun. In addition, many
+nouns take a possessive suffix of the form -e (alienable possession) or
+high tone (inalienable possession). The suffix -έ is shown in (15).
+(15) free form
+?
+ah
+mbeh
+luge
+t'eere
+?
+edehtl'eh
+tli
+tupossessed form
+-?ahe
+-mbehe
+-lüge
+-t'eere
+-'edehtl'ehe'snowshoe'
+'knife' (SI)
+'fish' (Hr)
+'girl' (Hr, Bl)
+'paper'-lie
+-tue'dog' 6 (Bl, SI, Mt)
+'water'This suffix is added only when the noun is possessed, being added to a
+branching structure. The word formation rule is shown in (16).
+(16)[[[ X ] ν ] Nposs ] e ] Nposs ]26.1.2.3.2 Morphological processes
+There are several different types of nouns in Slave, as discussed in
+chapter 12. These include the following:
+(a) stem nouns. These are nouns consisting of a stem alone. The stems
+are formed from themes by zero derivation. Examples are given in (17).
+(17) k'oh
+teh'cloud'
+'cane'(b) prefixed nouns.fee
+sah'stone' (Hr)
+'bear'Prefixed nouns are derived from nounthemesAn Overview of Slave Grammar945where there is a derivational prefix in addition to the theme (root and
+thematic prefixes). This derivational prefix is not part of the theme of the
+noun since it need not be present in a related verb form. Some of the
+prefixes occurring on prefixed nouns are go- areal, ?e- unspecified, and
+de- 'wood.' Already discussed suffixation processes are found.
+(18) gohkwj
+godede
+?ehkee'axe'
+'screw'
+'boy'gohze
+?ehbe'beaver hook'
+'round stretcher'(c) other suffixed nouns. The nouns in (17) and (18) have a null form
+suffix. Two other suffixes can occur, -/ and -e. See section 26.1.1.2.
+(d) compounds.
+There are two major types of compounds in Slave.
+Type 1 compounds have the general meanings belonging to, used by, used
+for, associated with, consisting of. Several examples are given in (19).
+(19) a. tehzaä
+'polar bear'
+teh 'water' + xah 'bear' + -e possessive
+b. gosimjle
+'spider's web' (Hr)
+gosi 'spider' + m j l 'net' + -e possessive
+c. n§?edehtl'ehe
+'map' (SI)
+nf 'land' + ?edehtl'eh 'paper' + -e possessive
+d. ?ahtl'u
+'babiche'
+?ah 'snowshoe' + tl'u 'string'
+e. ? ahtl'ule
+'babiche on snowshoe'
+?
+a h 'snowshoe' + tl'ul 'string' + -e possessive
+Type 1 compounds can be broken into three groups, depending on morphology. These are shown in (20).
+(20) a. [ [ [ X ] [ Y ] ]-e ] (19a, b, c, e)
+b. [ [ X ] [ Y ] ] (19d)
+c. [ [ X -e ] [ Y ] ] X must be a body part
+The possessive suffix can occur on compounds.
+corresponding to (20) are given in (21).","[987, 988, 989]"
+"Categories(147)firädf?9(148)ta?ededeta
+'it rolled down' (Hr, Bl)
+(de- round object + de- inceptive)(149)?ededehlule'it rolled' (Hr)(150)firähuderehdeeΊ have a scarf tied around my head' (Hr)'s/he is wearing a hat' (Hr)24.5.2.1.12
+Summary
+Some of the prefixes of the shape de- in Slave have been presented.
+These prefixes are generally not productive. The verbs they occur in are
+probably best considered to be subthemes of themes.
+24.5.2.2ne-24.5.2.2.1 ne- mind, feeling
+There is a prefix with the form ne-, ni-, ?eni-, and ?edi-.
+It occurs in
+bases having to do with mental processes. This prefix is thematic in some
+cases and non-thematic in others. It is related to the noun ni 'thought,'
+?
+found independently in some dialects. Examples of ne-, ni-, •'eni-,
+edias part of the verb base or verb theme are shown in (151) through (160).
+(151)yenjwf's/he wants, thinks' (Hr, Bl)(152)b e g h ? ?arehw§Ί like him/her' (Hr)(153)yekaneyjwi's/he looked for it' (Bl)(154)geniide'they wanted' (SI)(155)-ghp ?eniet9
+?'s/he loves' (Bl, SI)-ghp ? e d i d e 9's/he loves' (Hr)(156)yedariyee's/he is wise, intelligent' (Hr)(157)nehjiΊ am afraid, scared' (Bl, SI)(158)-gha(159)k ä ? e n i j ?a's/he thought' (SI)(160)etune?ine's/he pities' (SI)In Slavey,?edenfta's/he is interested in, has a passion for' (Hr)this prefix is usedproductivelyin the formni-/?eni-,Aspect and Thematic Prefixes
+meaning 'in the mind or spirit.'
+(164).","[652, 653]"
+"2.4LanguageStatusWhile each community is unique with regard to the use of the Slave
+language, there are a few general patterns.
+Some communities are
+basically monolingual Slave and some are mixed Slave-English.
+There are a few Slave communities that are basically monolingual
+Slave. In these communities, all children enter school fluent in Slave and
+many children have little or no English on entering school. Slave is
+definitely the preferred language in everyday communication.
+The
+communities of Fort Franklin and Colville Lake fall in this category.
+The majority of Slave communities can best be characterized as mixed
+Slave-English.
+In these communities, most adults are bilingual and many
+children enter school speaking both Slave and English or with at least a
+passive competence in one and active competence in the other.
+The
+communities differ considerably as to where they fall within this wide
+range.
+For instance, in Fort Good Hope, Wrigley, Fort Liard, and Fort
+Norman, most children have passive competence in Slave and many speak
+the language.
+In Fort Simpson far fewer children speak or understand
+Slave when they enter school.",[58]
+"(175)koe
+godezene
+w'a koe
+godedele
+w'a
+räwiya
+house area is black and house area is red a n d lsg. went
+Ί went to the red house and the black house' (Hr)elä
+boathishä
+i
+w'ila ? elaya w'ila het'J
+3 is big COMP a n d
+canoe a n d
+3 has
+'he has a big boat and a small boat' (Hr)
+hjdako6
+tuiiit'a
+kw'ila ? at'j gha
+Good Hope Norman a n d
+3 go FUT
+'Laura is going to Good Hope and Norman' (Bl)ela
+boathidege w'ila hidä w'ila r a t a
+up
+and
+down and
+3 went
+'the boat went up and down river' (Hr)ItConjunction1071In the majority of these examples, the conjunction follows nouns or noun
+phrases. In (174), it follows deictic directional expressions which fall in
+the category postpositional phrase.
+This conjunction and the conjunction hi differ somewhat in meaning.
+kw'ilafw'ila
+implies that the nouns are considered separately while he
+implies that they are a unit.
+This can be seen by contrasting some
+examples.
+(176)a. leht'ee he tuwele he
+yi ? a
+bread
+and soup
+and lsg. ate
+Ί ate soup and bread (together)' (Hr)
+b. leht'ee w'ila tuwele w'ila yi ? a
+bread
+and
+soup
+a n d lsg. ate
+Ί ate soup and bread (separately)' (Hr)kw'ila/w'ila
+is used following the nouns of an alternative construction.
+In this case, two nouns are conjoined by kw'ila/w'ila
+and they are followed by a word meaning 'someone.'
+(177)Johnw'ila Mary w'ila denehligi tjch'a
+?at'i n j d e gonezg
+and
+and someone outside 3 is if
+area is good
+'it would be good if John or Mary were outside' (Hr)(178)Eva w'a Sue w'a denehligi hjlj ts'gdanike hek'ewodi
+and
+and someone 3 is child.pl
+3 opt watch
+'Eva or Sue will watch the children' (Hr)This morpheme can also be used adverbially, with the meaning of 'too,
+also.'
+?","[1114, 1115]"
+"An Overview of Slave Grammar93926.1.1.1.4
+Summary
+In the Athapaskan literature, levels of root, theme, base, and word are
+introduced.
+While the level of root is clearly identifiable and well-defined, roots are not lexical entries. Themes form the basic entry, where a
+theme consists of a root and any prefixes that must occur with that root.
+26.1.1.2 The lexical entry
+The lexicon consists of themes, a root and prefixes that must occur with
+it, and affixes. The theme entry includes the following information.
+1. syntactic category
+Each item in the lexicon must be marked for syntactic category. Only
+the categories of verb, noun, and postposition are considered here. 1
+2. phonological representation
+The segmental and tonal representation of each theme is given in the
+lexicon.
+3. semantic representation
+Among the semantic features are the verb theme category of a verb
+theme and the thematic roles allowed by a verb theme.
+4. subcategorization information
+Themes must be marked for subcategorization features.
+Some nouns
+are marked as requiring a subject (a possessor), postpositions are marked
+as requiring an object. Verb themes are marked for transitivity.
+They
+may require either a direct or an oblique object and this too must be indicated in the lexical entry.
+Lexical entries for affixes are similar.
+following information:These entries must include the1. phonological information
+2. subcategorization information
+The lexical category an affix can attach to and the lexical category
+produced is indiacted. Affixes have lexical representations as below:
+X-[X[Y]v]vThis entry says that the prefix X attaches to a lexical item Y of the category verb (V) to produce a verb.
+3. syntactic changes
+The attachment of certain prefixes, namely the classifiers, can bring
+about changes in syntactic subcategorization frames. This information is
+part of the lexical entry of the prefix.
+4. diacritics
+For each verb prefix, it is necessary to indicate its level of attachment
+and its position of attachment within the level. See section 26.1.3.
+5. semantic representation
+The semantic representation includes the meaning of the affix. Many
+verb prefixes also include a feature indicating which conjugation marker940Part IV.","[982, 983, 984]"
