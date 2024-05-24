@@ -1,0 +1,919 @@
+Paragraph,Page number
+"
+                                             - 510 -
+                              Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 511
+5.2 Word Order5.2.1 SOV Word Order        When the arguments of a transitive verb are expressed with independent words(rather than being indicated only on the pronominal suffixes on the verb), the word orderis predominantly SOV. OSV order is possible, but is used only when the subject is infocus.11 For example, (5.56) and (5.57) are the same with respect to who loves whom,but (5.56) uses a word order that is neutral as to information structure, whereas (5.57)places focus on lat’o ‘[Lat’o (NOM.F)]’.
+(5.56) lat’o                 danura                 bat-t’-anno.
+       Lat’o(NOM.F)          Dangura(ACC)             like-3SG.F-IMPRF.3
+       ‘Lat’o loves Dangura.’ (pitch accent: lat’o danura bat-t’-anno.)(5.57) danura                lat’o               bat-t’-anno.
+       Dangura(ACC)            Lat’o(NOM.F)        like-3SG.F-IMPRF.3
+       ‘Lat’o loves Dangura.’ (pitch accent: danura lat’o bat-t’-anno.)
+       (It is no one but Lat’o who loves Dangura.)
+5.2.2 Structure of Noun Phrases        In Sidaama, an adnominal constituent precedes the head noun that it modifies. Anattributive adjective comes before the head noun, as in (5.58).","[531, 532]"
+"Hence, in both the benefactive construction with a transitive verb predicate in (5.195b)and the Dative EPC with a transitive verb predicate, the object of the transitive verb is apatient or theme, and a comparison is made below between them; the benefactiveconstruction with an intransitive verb predicate in (5.195a) is irrelevant here.(5.195) a.     Subj-NOM        dative entity-DAT                                     intrans.V         b.    Subj-NOM        dative entity-DAT       Obj(patient/theme) (ACC)        trans.V
+As long as the verb is final, the order of the other constituents in the benefactiveconstruction is flexible. The order of subject NP–dative NP–object NP–verb in (5.193)can be changed to, for example, object NP–dative NP–subject NP–verb, as in (5.196), orsubject NP–object NP–dative NP–verb, as in (5.197).",[601]
+"Abebayehu!
+                                             viii
+                                                  Tab le of Conten ts
+Acknowledgments ......................................................................................................          vList of Tables .............................................................................................................   xvList of Figures ............................................................................................................ xviList of Maps ............................................................................................................... xviAbstract ...................................................................................................................... xviiAbbreviations .............................................................................................................    xix
+1. Int roduct ion ......................................................................................................... 11.1 Background Information on Sidaama ................................................................... 1
+   1.1.1 Overview of the Sidaama Language ................................................................ 1
+   1.1.2 Socio-Cultural Information on the Sidaama People ........................................ 111.2     Literature Review ................................................................................................. 221.3     Methodology ......................................................................................................... 23
+2. Phonology .............................................................................................................. 272.1 Segmental Phonology ........................................................................................... 27
+   2.1.1 Phoneme Inventory .......................................................................................... 27
+      2.1.1.1 Consonants ............................................................................................. 27
+      2.1.1.2 Vowels .................................................................................................... 30
+   2.1.2 Consonant Clusters and Geminates .................................................................. 31
+      2.1.2.1 Consonant Clusters ................................................................................. 31
+      2.1.2.2 Geminates ............................................................................................... 352.2     Morphophonemic Rules ........................................................................................ 382.3 Suprasegmental Phonology ................................................................................... 61
+   2.3.1 Syllables and Moras ......................................................................................... 61
+   2.3.2 Pitch Accent ..................................................................................................... 63
+   2.3.3 Intonation ..........................................................................................................71
+   2.3.4 Pause ................................................................................................................. 75
+                                                                 ix
+3. Parts of Speech ............................................................................................... 773.1 Open Classes .................................................................................................... 77
+   3.1.1 Nouns .......................................................................................................... 77
+      3.1.1.1 Properties of Nouns ........................................................................... 77
+      3.1.1.2 Categories Associated with Nouns and Types of Nouns ................... 78
+      3.1.1.3 Locational Nouns and Other Abstract Nouns .................................... 101
+   3.1.2 Verbs ........................................................................................................... 114
+      3.1.2.1 Properties of Verbs ............................................................................ 114
+      3.1.2.2 Types of Verbs .................................................................................. 115
+      3.1.2.3 Gerunds and Nouns Derived from Verbs .......................................... 125
+   3.1.3 Adjectives ................................................................................................... 134
+      3.1.3.1 Similarities and Differences between Adjectives and Nouns ........... 138
+      3.1.3.2 Similarities and Differences between Adjectives and Verbs ............ 159
+   3.1.4 Adverbs ....................................................................................................... 162
+   3.1.5 Other Open-Class Forms ............................................................................. 1743.2 Closed Classes .................................................................................................. 180
+   3.2.1 Pronouns and their Related Forms .............................................................. 180
+      3.2.1.1 Personal Pronouns ............................................................................. 180
+      3.2.1.2 Reflexive Pronouns ............................................................................ 184
+      3.2.1.3 Reciprocal Pronouns .......................................................................... 187
+      3.2.1.4 Demonstrative Pronouns .................................................................... 189
+      3.2.1.5 Adnominal Demonstratives ............................................................... 200
+      3.2.1.6 Demonstrative Adverbs ..................................................................... 218
+      3.2.1.7 Interrogative Words ........................................................................... 219
+   3.2.2 Clitics ........................................................................................................... 239
+      3.2.2.1 Noun-Phrase Clitics for Objects ......................................................... 239
+      3.2.2.2 Noun-Phrase Clitic for Location ......................................................... 258
+      3.2.2.3 Conjunctive Enclitics .......................................................................... 273
+      3.2.2.4 Negative Proclitic ............................................................................... 286
+      3.2.2.5 Other Enclitics .................................................................................... 299
+   3.2.3 Interjections ................................................................................................. 302
+   3.2.4 Other Closed-Class Forms .......................................................................... 303
+                                                                x
+4. Morpholog y ...................................................................................................... 3114.1     Reduplication ................................................................................................... 3114.2 Affixes ............................................................................................................. 313
+   4.2.1 Derivational Suffixes .................................................................................. 314
+      4.2.1.1 Derivational Noun Suffixes .............................................................. 314
+         4.2.1.1.1 Nominalizing Suffixes ............................................................ 314
+            4.2.1.1.1.1 Suffixes that Nominalize Adjectives ................................. 314
+            4.2.1.1.1.2 Suffixes that Nominalize Verbs ........................................ 314
+         4.2.1.1.2 Abstracting Suffixes ............................................................... 318
+      4.2.1.2 Derivational Adjective Suffixes: Adjectivizing Suffixes ................ 319
+         4.2.1.2.1 Suffixes that Adjectivize Nouns ............................................. 319
+         4.2.1.2.2 Suffixes that Adjectivize Verbs .............................................. 321
+      4.2.1.3 Derivational Verb Suffixes ............................................................... 323
+         4.2.1.3.1 Verbalizing Suffixes ................................................................ 323
+            4.2.1.3.1.1 Suffixes that Verbalize Nouns ........................................... 323
+            4.2.1.3.1.2 Suffixes that Verbalize Adjectives .................................... 326
+         4.2.1.3.2 Causative Suffix/Double-Causative Suffix ............................. 327
+            4.2.1.3.2.1 Causative Suffix ................................................................. 327
+            4.2.1.3.2.2 Double-Causative Suffix ................................................... 329
+         4.2.1.3.3 Voice Suffixes ......................................................................... 333
+            4.2.1.3.3.1 Passive Voice Suffix ......................................................... 333
+            4.2.1.3.3.2 Middle Voice Suffix .......................................................... 335
+         4.2.1.3.4 Reciprocal Suffix ..................................................................... 342
+   4.2.2 Inflectional Affixes ..................................................................................... 344
+      4.2.2.1 Inflectional Noun Affixes ................................................................. 344
+         4.2.2.1.1 Number Suffixes on Nouns ..................................................... 344
+         4.2.2.1.2 Gender Suffixes on Nouns ...................................................... 350
+         4.2.2.1.3 Case Affixes on Nouns ........................................................... 352
+            4.2.2.1.3.1 Nominative Case Suffix ..................................................... 354
+            4.2.2.1.3.2 Genitive Case Suffix and Suprafix ..................................... 356
+            4.2.2.1.3.3 Accusative-Oblique Case Suprafix .................................... 360
+            4.2.2.1.3.4 Dative-Locative Case Suffix .............................................. 362
+            4.2.2.1.3.5 Allative Case Suffix ........................................................... 366
+            4.2.2.1.3.6 Ablative-Instrumental Case Suffix .................................... 369
+         4.2.2.1.4 Possessive Pronominal Suffix ................................................. 383
+         4.2.2.1.5 Definite Suffix (on Unmodified Genitive Nouns) .................. 384
+      4.2.2.2 Inflectional Adjective Affixes .......................................................... 387
+         4.2.2.2.1 Case Affixes on Adjectives .................................................... 387
+         4.2.2.2.2 Number Suffixes on Adjectives .............................................. 390
+         4.2.2.2.3 Gender Suffixes on Adjectives ............................................... 395
+                                                              xi
+       4.2.2.3 Inflectional Verb Suffixes ................................................................. 397
+          4.2.2.3.1 Aspectual Suffixes, Subject Person/Number Suffixes,
+                      and Subject Gender Suffixes .................................................... 397
+          4.2.2.3.2 Pronominal Subject Suffix (before the Connective Suffix
+                      or the Infinitive Suffix) ........................................................... 414
+          4.2.2.3.3 Connective Suffix .................................................................... 415
+          4.2.2.3.4 Infinitive Suffixes .................................................................... 417
+          4.2.2.3.5 Mood Suffixes ......................................................................... 425
+                         4.2.2.3.5.1 Imperative Suffixes ......................................... 425
+                         4.2.2.3.5.2 Optative Suffix ................................................ 427
+          4.2.2.3.6 (Pronominal) Object Suffix ..................................................... 430
+          4.2.2.3.7 Negative Suffixes .................................................................... 432
+          4.2.2.3.8 Subordinating Suffixes ............................................................ 437
+    4.2.3 Order of the Suffixes .................................................................................. 450
+       4.2.3.1 Order of Noun Suffixes ..................................................................... 450
+       4.2.3.2 Order of Adjective Suffixes .............................................................. 454
+       4.2.3.3 Order of Verb Suffixes ..................................................................... 456
+5. Syn tax ............................................................................................................... 4815.1 Grammatical Relations ................................................................................... 481
+   5.1.1 Coding properties of the Grammatical Relations ...................................... 482
+      5.1.1.1 Case Marking ................................................................................... 482
+      5.1.1.2 Subject and Object Suffixes on the Verb ......................................... 487
+   5.1.2 Behavioral Properties of the Grammatical Relations ................................ 496
+      5.1.2.1 Constructions for the Subject ........................................................... 497
+         5.1.2.1.1 Imperative Construction ......................................................... 497
+         5.1.2.1.2 Subject-Control Constructions ............................................... 500
+         5.1.2.1.3 Connective, Manner/Concomitance, and Temporal
+                    Inclusion Constructions .......................................................... 501
+         5.1.2.1.4 Cleft Construction (a construction that excludes the
+                    subject) .................................................................................... 503
+      5.1.2.2 Constructions for the Direct Object .................................................. 508
+         5.1.2.2.1 Passive Construction ............................................................... 508
+         5.1.2.2.2 Direct-Object-Control Construction ....................................... 5095.2 Word Order ..................................................................................................... 511
+   5.2.1 SOV Word Order ....................................................................................... 511
+   5.2.2 Structure of Noun Phrases ......................................................................... 511
+   5.2.3 Order of Other Types of Constituents ....................................................... 520
+                                                              xii
+5.3 External Possessor Constructions .................................................................... 531
+   5.3.1 Overview of the Two Types of External Possessor Constructions ............ 536
+      5.3.1.1 Why they are External Possessor Constructions .............................. 536
+      5.3.1.2 Examples of the Two Types of External Possessor
+              Constructions with Three Predicate Types ....................................... 541
+      5.3.1.3 Characteristics of the Two Types of External Possessor
+              Constructions ..................................................................................... 555
+   5.3.2 The Oblique Possessum External Possessor Construction and Body
+         Locative Constructions in Other Languages ............................................... 569
+   5.3.3 The Dative Possessor External Possessor Construction and the
+         Benefactive and Judicantis Constructions .................................................. 5785.4 Relative Clauses .............................................................................................. 617
+   5.4.1 Overview of the Structures of Relative Clauses ......................................... 617
+   5.4.2 Relativization by Gapping .......................................................................... 624
+      5.4.2.1 Relativization of Core and Oblique Arguments by Gapping ........... 625
+      5.4.2.2 Relativization of Animate Genitive NPs by Gapping ...................... 644
+   5.4.3 Relativization by Pronominal Retention .................................................... 661
+      5.4.3.1 Retention of the Possessive Pronominal Suffix on the Possessum
+               Noun ................................................................................................... 664
+      5.4.3.2 Retention of the Pronominal Object Suffix on the Verb .................. 670
+      5.4.3.3 Retention of the Genitive Pronoun .................................................... 675
+   5.4.4 Summary of Relativizable NPs ................................................................... 680
+                                                            xiii
+6. Sem antics ...........................................................................................................6886.1     Review of Talmy’s Typology of Event Integration ......................................... 6886.2 Event Integration Patterns in Sidaama ............................................................. 698
+   6.2.1 Overview of Sidaama Expressions of the Five Types of Events ................ 699
+   6.2.2 Multi-Verb Constructions: the Temporal Sequence V1-V2 Construction
+         and the Manner/Concomitance, Extended Causation, and Temporal
+         Inclusion V1-V2 Constructions .................................................................. 704
+   6.2.3 Motion ......................................................................................................... 721
+      6.2.3.1 Expressions of Path Components ..................................................... 722
+         6.2.3.1.1 Case Suffixes .......................................................................... 725
+         6.2.3.1.2 Locational Nouns .................................................................... 731
+         6.2.3.1.3 Path Verbs .............................................................................. 732
+      6.2.3.2 Expressions of Motion Events with Multi-Verb Constructions ..... 744
+         6.2.3.2.1 Precursion and Enablement .................................................... 747
+         6.2.3.2.2 Cause ....................................................................................... 749
+         6.2.3.2.3 Concomitance ......................................................................... 750
+         6.2.3.2.4 Manner .................................................................................... 753
+            6.2.3.2.4.1 Uses of Manner Verbs as the V1 of Multi-Verb
+                          Constructions ..................................................................... 753
+            6.2.3.2.4.2 Exceptional Uses of Manner Verbs .................................. 761
+   6.2.4 State Change ................................................................................................ 767
+   6.2.5 Realization ................................................................................................... 774
+   6.2.6 Temporal Contouring .................................................................................. 780
+   6.2.7 Action Correlating ....................................................................................... 8006.3     Observations ..................................................................................................... 810
+Ref erences .............................................................................................................. 813
+                                                              xiv
+                                                   List of TablesTable 2.1: Sidaama Consonant Phonemes ................................................................. 28
+Table 2.2: Sidaama Morphophonemic Rules and Combinations of Stem-Ending
+           Consonants and Verb Suffixes ................................................................. 41
+Table 2.3: Pitch Accent Patterns of Personal Pronouns ............................................ 70Table 3.1:  Unmarked, Singular, and Plural Forms of a Noun and their Referents ... 88
+Table 3.2:  Locational Nouns as Used for Location, Goal, and Source .................... 103
+Table 3.3:  Aspectual Behaviors of Two Types of Dynamic Verbs ......................... 122
+Table 3.4:  Personal Pronouns ...................................................................................181
+Table 3.5:  Reflexive Pronoun with the Possessive Personal Pronominal Suffix ..... 184
+Table 3.6:  Demonstrative Pronouns ......................................................................... 190
+Table 3.7:  Demonstrative Pronouns as used for AT, TO, and FROM .................... 192
+Table 3.8:  Demonstrative Pronouns with -icco ....................................................... 195
+Table 3.9:  Demonstrative Pronouns with the Singular Suffix Derived from
+            Basic Demonstrative Pronouns ............................................................... 197
+Table 3.10: Adnominal Demonstratives .................................................................... 202
+Table 3.11: Adnominal Demonstratives for Plural Nouns ........................................ 204
+Table 3.12: Demonstrative Pronouns Derived from Adnominal Demonstratives .... 211
+Table 3.13: Demonstrative Pronouns (Plural) ........................................................... 214
+Table 3.14: Adnominal Demonstratives for ‘of this/that area’ ................................. 215
+Table 3.15: Interrogative Words ................................................................................ 220
+Table 3.16: Pronouns for ‘which’ .............................................................................. 230
+Table 3.17: Three Uses of =ta/=ha/=re ..................................................................... 240
+Table 3.18: Noun-Phrase Clitic =ta/=ha/=re ........................................................... 243
+Table 3.19: Location/Goal Constructions with Common Nouns .............................. 260
+Table 3.20: Different Case Forms of Words for ‘all’ and ‘many, much’ .................. 305
+Table 3.21: Meanings of Words for ‘all’ and ‘many, much’ and their Position
+            Relative to the Noun ............................................................................... 305Table 4.1:  Different Forms of the Nominative Case Suffix ..................................... 354
+Table 4.2:  Different Forms of the Genitive Case Suffix .......................................... 357
+Table 4.3:  Different Forms of the Dative-Locative Case Suffixes .......................... 362
+Table 4.4:  Possessive Pronominal Suffix ................................................................. 383
+Table 4.5:  Emphatic Suffixes -nka (M)/-nta (F) ...................................................... 396
+Table 4.6:  Aspect Suffixes, Person/Number Suffixes, and Gender Suffixes on
+            Verbs ....................................................................................................... 398
+Table 4.7: Person/Number Indicated on Aspect Suffixes ........................................ 398
+Table 4.8: Imperfect Forms of haiss- ‘to wash’ and it- ‘to eat’ ...............................399
+Table 4.9: Simple Perfect Forms of haiss- ‘to wash’ and it- ‘to eat’ ...................... 399
+Table 4.10: Present Perfect Forms of haiss- ‘to wash’ and it- ‘to eat’ ...................... 400
+Table 4.11: Subject Person Suffix (before -CNN or -INF-MANNER) ..................... 414
+Table 4.12: Infinitive Suffix Accompanied by the Person Suffix when Followed
+            by -ra .......................................................................................................420
+Table 4.13: Imperative Suffixes ................................................................................. 425                                                              xv
+Table 4.14: Optative Suffix ........................................................................................ 427
+Table 4.15: Optative Suffix (in an Interrogative Clause) ...........................................430
+Table 4.16: (Pronominal) Object Suffix on the Verb .................................................431
+Table 4.17: Combinations of Derivational Verb Suffixes ......................................... 458
+Table 4.18: Occurrence of More than One Inflectional Verb Suffixes ...................... 474
+Table 4.19: Simple Perfect Forms of wi’l- ‘to cry’ ................................................... 478Table 5.1: Nominative, Accusative, and Dative Case Marking on Nouns ...............483
+Table 5.2: Nominative, Accusative, and Dative Case Forms of the Personal
+           Pronouns ..................................................................................................485
+Table 5.3: Two Sets of Demonstrative Pronouns .....................................................486
+Table 5.4: Possessive Relationships between the Two Entities that Can
+           Participate in the Events/States Described by the Two Types of
+           EPCs ........................................................................................................555
+Table 5.5: Possessive Relationships between the Two Entities in the Use
+           of the Pronominal Object Suffix on the Verb as the Only Indication
+           of an Animate Possessor in the Two Types of EPCs .............................. 565
+Table 5.6: Noun-Phrase Clitic as the Head of a Relative Clause ............................. 621
+Table 5.7: Grammatical Relation of the Common Noun NP Head and the
+           Noun-phrase Clitic Head of a Relative Clause ....................................... 625
+Table 5.8: Relative Clause Formation Patterns and Relativizable NPs ................... 681Table 6.1: Syntactic Realizations of the Components of the Macro-event
+           Characteristically Found in V-languages and S-languages .....................694
+Table 6.2: AT/TO/FROM Expressions for Different Types of Nominals that
+           Refer to Locations ................................................................................... 726
+Table 6.3: AT/TO/FROM Expressions for Common Nouns that Refer to
+           Objects .................................................................................................... 730                                                 List of F iguresFigure 1:       Cushitic Languages ................................................................................. 5
+Figure 2:       Sidaama Zone and Peoples in its Neighboring Zones ............................ 14                                                   List of MapsMap 1:          Zones in Ethiopia .................................................................................... 12
+Map 2:          Zones in South-Central Ethiopia ............................................................ 13
+Map 3:          Clans in the Sidaama Zone ..................................................................... 24
+                                                            xvi
+                                         Abstract           The present study describes the grammatical structure of Sidaama, a HighlandEast Cushitic language spoken in the south-central part of Ethiopia. Sidaama is spokenby over 1,800,000 people, but there has been relatively little research on the language.","[9, 10, 11, 12, 13, 14, 15, 16, 17, 18]"
+"
+                                            - 74 -
+                        Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 2: Phonology 75
+2.3.4 Pause       Sidaama often uses pauses to indicate constituent boundaries. When the sentencehas SOV word order, a pause usually occurs between the constituent boundaries (Teferra2000: 16-17), as in (2.73). (In the examples in this section, pauses are indicated with //.)
+(2.73) bule         //     danura                  //      sunk’-i-t-u.
+       Bule(NOM.F) //       Dangura(ACC)              //      kiss-EP-3SG.F-S.PRF.3SG.F
+       ‘Bule kissed Dangura.’In a sentence of OSV order such as (2.74), a long pause can generally occur after the firstconstituent.
+(2.74) danura             //        bule                   sunk’-i-t-u.
+       Dangura(ACC)         //        Bule(NOM.F)             kiss-EP-3SG.F-S.PRF.3SG.F
+       ‘Bule kissed Dangura.’The constituent structure of a transcribed sentence can differ depending on the location ofa pause, especially because some case forms are morphologically identical (specifically,the nominative and the accusative of a feminine noun, the genitive and dative/locative ofan unmodified feminine common noun, and the genitive and nominative of a masculinenoun) and the person/number/gender of the subject can be indicated by the verb suffixalone, rather than the subject being expressed as independent nouns or pronouns. Forexample, each pair of sentences in (2.75) and (2.76), which look morphologicallyidentical, differ in the locations where pauses as well as high pitch accents are placed.","[95, 96]"
+"                                                      -9-
+                        Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 1: Introduction 10
+       f. Syntax             •   The basic word order is SOV.","[30, 31]"
+"Most of the properties of the EPC that were used in section 5.3.1.1 to show that thepossessor NP and the possessum NP are separate constituents apply to this constructionas well, though the pronominal object suffix that refers to an animate possessor cannot beused in this construction because it ends in the predicative noun-phrase clitic, rather thana verb. First, the two NPs are pronounced with different intonation contours. Second,another constituent can occur between them. For example, an adverb like t’a ‘now’ canbe inserted between the subject NP and the dative NP (e.g., ise t’a hakko manc-i-radarawo=te. ‘She is a friend of that man now.’). Third, the order of the possessor NP andthe possessum NP can be reversed, e.g., (5.254’) instead of (5.251) (repeated below as(5.254)).",[629]
+"
+                                           - 480 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 481
+                                   Chapter 5 Synt ax       This chapter examines Sidaama syntax. Section 5.1 discusses grammaticalrelations and section 5.2 word order. Sections 5.3 and 5.4 describe two families ofconstructions in this language, external possessor constructions (section 5.3) (Kawachi2006a, 2007b) and relative clause constructions (section 5.4).","[501, 502]"
+"          Finally, the person/number of the subject (1SG, 3SG.M: -ø, 3SG.F/3PL: -t, 1PL:-n) is indicated before the optative mood suffix -o (Table 4.14) (-ø for 3SG.M is assumed
+                                               - 478 -
+                         Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 479to show contrast with -t for 3SG.F/3PL and -n for 1PL, which precedes the optativesuffixes).42        The order of the person/number–aspect suffixes for the third-person singular andthe second-person plural and the order of the person/number–optative suffixes seem to becounterexamples to Bybee’s (1985: 34-35) findings about the very commoncrosslinguistic patterns of positioning of verb inflections. Bybee looked into thepositions of verb inflections for aspect, tense, mood, and person (usually, person andnumber) in relation to the verb stem in a sample of 50 genetically and geographicallydiverse languages chosen by Perkins (1980), and found the following tendency: verbstem – aspect – tense – mood – person/number (in the case of suffixing languages).","[499, 500]"
+"          The other type of dative construction, the judicantis construction (König andHaspelmath 1998; Haspelmath 1999), whose predicate is an intransitive verb or anadjective, expresses a state-change or a state in the judgment of the dative entity, which isusually animate. It takes the forms in (5.202), where the order of the subject NP and thedative NP can be reversed.(5.202)          a.     Subj(patient/theme)-NOM        dative entity-DAT       intrans.V                 b.     Subj(patient/theme)-NOM        dative entity-DAT       Adj
+In (5.203), the patient/theme entity’s (‘Damboowa’) state-change or resultative state isdepicted in the dative entity’s (‘her’) judgment. Similarly, in (5.204), the patient/themeentity’s (‘his father’s’) state is described in the dative entity’s (‘she’) judgment. Inneither example is a possessive relation inferred between the dative entity and thepatient/theme entity.(5.203)          ise-ra                       damboow-i
+                 3SG.F.GEN-DAT.PRON            Damboowa-NOM.PROP.M                 t’ur-ø-i.
+                 become.dirty-3SG.M-S.PRF.3SG.M                 ‘Damboowa became/is dirty for her.’ (Damboowa became/is dirty in her
+                 judgment.)
+                                           - 584 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 585(5.204)         ise-ra                         ann-i-si
+                3SG.F.GEN-DAT.PRON              father-NOM.MOD.M-3SG.M.POSS                seeda=ho.
+                tall=NPC.M.PRED                ‘His father is tall for her.’ (His father is tall in her judgment.)
+As mentioned above, the order of constituents other than the verb in the judicantisconstruction is flexible, as in the benefactive construction. (5.203’) and (5.204’), whoseword order is different from (5.203) and (5.204), are grammatical.(5.203’)        damboow-i           ise-ra
+                Damboowa-NOM.PROP.M 3SG.F.GEN-DAT.PRON                t’ur-ø-i.
+                become.dirty-3SG.M-S.PRF.3SG.M                ‘Damboowa became/is dirty for her.’ (Damboowa became/is dirty in her
+                judgment.)(5.204’)        ann-i-si                    ise-ra
+                father-NOM.MOD.M-3SG.M.POSS 3SG.F.GEN-DAT.PRON                seeda=ho.
+                tall=NPC.M.PRED                ‘His father is tall for her.’ (His father is tall in her judgment.)
+          Thus, the benefactive construction with a transitive verb and the judicantisconstruction can each be identical in structure with the Dative EPC with a transitive verbpredicate or with an intransitive verb or adjective predicate, respectively, as shown in(5.205). As discussed above, the order of the constituents other than the predicate in the
+                                             - 585 -
+                          Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 586
+benefactive and judicantis constructions is flexible. Also in the Dative EPC, the order ofthe NPs is flexible, though the dative NP normally precedes the patient/theme NP.(5.205) a.     benefactive DAT (with a transitive verb):
+                      Subj-NOM        dative entity-DAT   Obj(patient/theme entity)(ACC) trans.V               Dative EPC (with a transitive verb):
+                      Subj-NOM        dative entity-DAT   Obj(patient/theme entity)(ACC) trans.V
+                                      (=possessor)             (=possessum)          b.   judicantis DAT:
+                      dative entity-DAT       Subj(patient/theme entity)-NOM    intrans.V or Adj               Dative EPC (with an intransitive verb or adjective):
+                      dative entity-DAT       Subj(patient/theme entity)-NOM    intrans.V or Adj
+                      (=possessor)            (=possessum)There are two additional respects in which the benefactive construction with a transitiveverb and the judicantis construction show structural similarities with the Dative EPC.","[605, 606, 607]"
+"           Chapter 4 (morphology) discusses reduplication of verb roots, suprafixes onnouns and adjectives, and suffixes on nouns, adjectives, and verbs. It also examines theordering relationship of the suffixes.
+                                           xvii
+         Chapter 5 (syntax) discusses four topics on the syntax of Sidaama. The firstsection looks into grammatical relations in terms of how they are coded and in whatconstructions they occur. The second topic of Chapter 5 is word order. The third sectionof Chapter 5 discusses two types of external possessor construction, the obliquepossessum external possessor construction and the dative possessor external possessorconstruction. The fourth section examines the structures of relative clauses and the typesof elements that can be relativized.","[18, 19]"
+"          As shown so far, words that refer to a person’s property or ability or a person withthat property or ability can be used as adjectives, as nouns, or like nouns. These can beclassified into three types depending on whether they exhibit more noun-like or adjective-like properties. The difference between the three types of words often emerges as adifference in their order when they modify the same noun in the same NP. Althoughmultiple adjectives only infrequently occur as modifiers of the same noun, if they do, thefollowing ordering rule roughly applies: a pure adjective in (3.130c), which cannot be
+                                             - 157 -
+                   Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 3: Parts of Speech 158
+used as a noun, comes before a word in (3.130b) that can be used as either an adjective ora noun, as in (3.149) (*eerc-u seed-u manc-i da-ø-i.), which in turn precedes a noun fora person’s occupation in (3.130a), as in (3.150) (*isi oeessa eerco manco-ti.).
+(3.149)         seed-u     eerc-u                    manc-i
+                tall-NOM.M elderly-NOM.M               person-NOM.MOD.M                da-ø-i.
+                come-3SG.M-S.PRF.3SG.M                ‘The tall old man came.’(3.150)         isi             eerco        o-eessa                manco=ti.
+                3SG.M.NOM elderly              professional-M          person=NPC.PRED.MOD
+                ‘He is an elderly professional.’The above ordering rule applies also when an adjective in (3.130b) or a noun in (3.130a)is modified by an adjective or adjectives, as in (3.151)-(3.153). (3.130c) has to precede(3.130b) (*eerc-u seed-i da-ø-i.), and (3.130b) has to precede (3.130a) (*isi oeessaeerco-ti.).
+(3.151)         seed-u         eerc-i                        da-ø-i.
+                tall-NOM.M elderly-NOM.MOD.M                   come-3SG.M-S.PRF.3SG.M
+                ‘The tall old man came.’(3.152)         isi             eerco        o-eessa=ti.
+                3SG.M.NOM elderly              professional-M=NPC.PRED.MOD
+                ‘He is an elderly professional.’
+                                           - 158 -
+                     Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 3: Parts of Speech 159(3.153)          seed-u     eerc-u                     o-eess-i
+                 tall-NOM.M elderly-NOM.M                professional-M-NOM.MOD.M                 da-ø-i.
+                 come-3SG.M-S.PRF.3SG.M                 ‘A tall elderly professional (M) came.’3.1.3.2 Similarities and Differences between Adjectives and Verbs          Many adjectives can be used in comparison expressions such as (3.154)-(3.156)
+(3.154)          buse                   danur-i                       eessa
+                 Bushe(NOM.F)            Dangura-GEN.PROP.M              degree                 seeda=te.
+                 tall=NPC.F.PRED                 ‘Bushe is as tall as Dangura.’(3.155)          buse                   danur-i-nni
+                 Bushe(NOM.F)            Dangura-GEN.PROP.M-ABL                 seeda=te.
+                 tall=NPC.F.PRED                 ‘Bushe is taller than Dangura.’(3.156)          buse                   konni          k’ark’ar-i-ra
+                 Bushe(NOM.F)            this.M.GEN      village-GEN.MOD.M-LOC.MOD                 wo’munk-u              alee            seeda=te.
+                 everybody-GEN.M         aboveness       tall=NPC.F.PRED                 ‘Bushe is taller than anybody in this village.’Nevertheless, this is not limited to adjectives. Some verbs can also occur in suchexpressions.","[178, 179, 180]"
+4.2.3.1 Order of Noun Suffixes          The noun suffixes have the ordering relationships shown in (4.285).,[471]
+"Bybee examined the ordering relationship of each pair of inflections: (a) aspect – tense,(b) aspect – mood, (c) aspect – person, (d) tense – mood, (e) tense – person, and (f) mood– person. The relations relevant to Sidaama are (c) aspect – person and (f) mood –person, because this language lacks tense. Furthermore, aspect and mood markers do notco-occur. According to Bybee, aspect markers occur closer to the verb stem than personmarkers in 12 out of 21 languages that have both categories with only onecounterexample (Navaho). However, the aspect and person markers in Sidaama show theopposite order when the subject is the third-person singular or second-person plural,though Sidaama exhibits the predicted pattern when the subject is the first-person orsecond-person singular. Bybee also found that mood markers occur closer to the verbstem than person markers in 13 out of 26 languages that have both categories (with five42
+    The suffix for the other mood category, the imperative suffix, is fused with the person/number
+information and the suffix that indicates the two categories is difficult to separate into distinct markers.",[500]
+"         Admittedly, the use of a single consultant for a grammatical description cannottake into account idiolectal or dialectal differences. Nevertheless, even when multipleconsultants on a language are employed, it would be difficult to ask all of them exactlythe same set of questions to write a grammar of the language; a bias toward the judgmentof even a small number of linguistic forms by a certain speaker or speakers out of a groupof consultants would be inevitable. The consultation with a single speaker makes it easyto obtain consistent data. In order to benefit from this strength, I checked almost all theexamples in this dissertation with Abebayehu at least twice.",[47]
+"       In Sidaama culture, the division of labor between women and men is rigidlydefined (Brøgger 1986, Hamer 1987), and women and men are responsible for differentsets of cooperative duties; there are also those jobs for which children are usually
+                                            - 15 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 1: Introduction 16
+responsible.12 According to my consultant, (1.2a) are women’s duties, (1.2b) are men’s,and (1.2c) are usually children’s.13
+(1.2)    a.       saale k’is- [food(ACC) prepare-] ‘to prepare food’
+                  saada t’uur- [cow(ACC) milk-] ‘to milk cows’
+                  waa dirr- [water(ACC) fetch-] ‘to fetch water’
+                  weese ho- [weesa.plant(ACC) convert.into.waasa-] ‘to convert weese
+                  plant into (edible) waasa’         b.       ulla hawur- [earth(ACC) plow.with.oxen-] ‘to plow the earth with oxen’
+                  idee ambas- [crop(ACC) gather-] ‘to gather the crop’
+                  weese kaas- [weese(ACC) plant-] ‘to plant weese plant’
+                  badala suk’un- [corn(ACC) weed.out-] ‘to weed out of a corn’         c.       wosin-u lekka haiss- [guest-GEN.M feet(ACC) wash-] ‘to wash guests’
+                  feet’
+                  mine f- [house(ACC) sweep-] ‘to sweep the house’
+                  lalo allaal- [cattle(ACC) take.care.of.cattle-] ‘to take care of the cattle’         Most Sidaama men are engaged in agriculture. They produce crops such ascoffee, corn, wheat, barley, sugar cane, and various kinds of vegetables and fruits(cabbages, sweet potatoes, tomatoes, cucumbers, pumpkins, beans and peas, oranges,
+12
+   When its order is arbitrary, gender is presented in the order in accordance with the following rules: (i)
+for words such as women and men and female and male, the odd-numbered chapters follow the feminine-
+masculine order, and the even-numbered chapters the opposite order; (ii) “s/he” is used as a gender-neutral,
+singular pronoun in the nominative case, and “his/her” and “him/her” are used as gender-neutral, singular
+pronouns in the genitive case and accusative case, respectively. Because the consultant and the author are
+both male, most examples that contain the first-person and second-person singular pronouns are those for
+masculine referents.","[36, 37]"
+"                                                 - 479 -
+                      Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 480
+languages with the opposite order). Sidaama does not follow this pattern, either: theperson suffix occurs closer to the verb stem than the optative suffix.","[500, 501]"
+"          The order of the suffix for the person/number of the subject and the infinitivesuffix -a depends on the person/number of the subject (Table 4.12). When the subject isfirst-person or second-person singular, the infinitive suffix occurs right before the suffixfor the person/number of the subject, which is followed by the gender suffix (M: -o, F:-a), as in (4.349): 1SG.M: -a-mm-o, 1SG.F: -a-mm-a, 2SG.M: -a-tt-o, 2SG.F: -a-tt-a.",[497]
+"6.2.2 Multi-Verb Constructions: the Temporal Sequence V1-V2 Construction andthe Manner/Concomitance, Extended Causation, and Temporal Inclusion V1-V2Constructions       As mentioned in section 6.1, a macro-event is defined in terms of theexpressibility of a complex event with a single clause. In order to investigate the eventintegration patterns in V-languages, it is often necessary to examine the morphosyntacticproperties of their multi-verb constructions and to verify the single-clause-hood of theconstructions. The present section looks at the Sidaama multi-verb constructions todetermine the range of constructions to deal with in sections 6.2.3-6.2.7.",[725]
+"
+                                            - 453 -
+                        Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 454(4.293)          bule        ana-se-nni                               danura
+                 Bule(NOM.F) hand(GEN.F)-3SG.F.POSS-INST                Dangura(ACC)                 an-t-u.
+                 hit-3SG.F-S.PRF.3SG.F                 ‘Bule hit Dangura with her hand.’
+4.2.3.2 Order of Adjective Suffixes          The suffixes on adjectives follow the order in (4.294).","[474, 475]"
+"
+                                           - 524 -
+                          Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 525(5.86) hakku         manc-i                          danura=ti.
+       that.M.NOM person-NOM.MOD.M                    Dangura=NPC.PRED.PROP
+       ‘That man is Dangura.’(5.87) danur-i                       hakko           manco=ti.
+       Dangura-NOM.PROP.M             that.M          person=NPC.PRED.MOD
+       ‘Dangura is that man.’
+Also, as discussed in Chapter 3 (section 3.2.2.4), generally in Sidaama, an immediatelypre-predicate constituent is in focus. For example, (5.88) and (5.89), which both use theexistential/locational verb and consist of the same words with different arrangements, areusually interpeted differently as shown in their glosses; (5.88) places prominence on thelocation, whereas (5.89) on the located object.(5.88) aduricco     t’arap’ees-u woro              no.
+       cat(NOM.F) table-GEN.M bottom                  exist.P.PRF.3
+       ‘The cat is under the table.’(5.89) t’arap’ees-u woro             aduricco      no.
+       table-GEN.M bottom             cat(NOM.F)      exist.P.PRF.3
+       ‘There is a cat under the table.’
+Because interrogative words concern unknown or new information, they tend to occureither in the predicate position or in the immediately pre-predicate position.       (5.90) and (5.91) are examples where the word for ‘who’ is a predicate.(5.90) kuni           beett-i                 ae=ho ?
+       this.M.NOM child-NOM.MOD.M who.GEN=NPC.M.PRED
+       ‘Whose is this boy?’ (lit., ‘This boy is whose?’)
+                                          - 525 -
+                             Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 526(5.91) kawa da--ino=ti                                   ae=ti ?
+       here come-3SG.F-P.PRF.3=NPC.F.NOM                   who=NPC.PRED.Q
+       ‘Who is the one (F) who came here?’ (lit., ‘The one (F) who came here is who?’)
+In (5.90) and (5.91), the interrogative word could be regarded as staying in situ, becauseit can be replaced by a non-interrogative NP in their declarative counterparts. Compare(5.90) and (5.91) with (5.90’) and (5.91’), respectively.(5.90’)         kuni           beett-i     danur-i=ho.
+                this.M.NOM child-NOM.MOD.M Dangura-GEN.PROP.M=NPC.M.PRED
+                ‘This boy is Dangura’s.’(5.91’)         kawa da--ino=ti                                  buse=ti.
+                here come-3SG.F-P.PRF.3=NPC.F.NOM                  Bushe=NPC.F.PRED
+                ‘The one (F) who came here is Bushe.’
+          When an interrogative word is not a predicate, the interrogative word or theinterrogative phrase is most likely to occur right before the predicate, regardless of itsgrammatical relation, though it can occur in any position. Examples are shown in (5.92)-(5.97). The interrogative word or the interrogative phrase is a subject (5.92), thepossessor of a subject in (5.93), a direct object in (5.94), the possessor of a direct objectin (5.95), an indirect object in (5.96), and an oblique in (5.97).14
+14
+  (5.92) is an example of the dative external possessor construction, and (5.97) is an example of the
+oblique possessum external possessor construction (section 5.3; Kawachi 2006a, 2007b).","[545, 546, 547]"
+"
+12
+  Different types of adjectives modifying the same noun in an NP occupy different positions in that NP.
+For their ordering relations, see Chapter 3 (section 3.1.3.1).",[534]
+"Therefore, the order of the adjectivizing suffix and the gender suffix cannot bedetermined. Also, those suffixes on adjectives that express gender can also indicatesingularity at the same time, and there are no cases where gender and number are markedseparately with two suffixes on an adjective. Thus, the internal order of the categories fornumber and gender in adjectival morphology is also indeterminate.",[476]
+"• Greenberg, Joseph H. 1963. Some universals of grammar with particular reference to
+       the order of meaningful elements. In Greenberg, Joseph H. (ed.) Universals of
+       Language, 73-113. Cambridge, MA: MIT Press.",[836]
+"
+                                            - 441 -
+                       Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 442
+(4.260)          ado           a-a           keeraancimma-te        danca=te.
+                 milk(ACC)      drink-INF      health-DAT.F            good=NPC.F.PRED                 konni-daafira     ado               a-a
+                 this.M.GEN-because mile(ACC)          drink-INF(NOM.F)                 hasis-s-anno-’ne.
+                 become.necessary-3SG.F-IMPRF.3-2PL                 ‘It is good for health to drink milk. Because of this, you (PL) have to
+                 drink milk.’
+• -ede ‘so that’          This suffix can occupy the final position of a purpose clause. The verb preceding-ede in the purpose clause is in the imperfect aspect, as in (4.261) and (4.262).
+(4.261)          soodo                 ka’-ø-anno-ede
+                 early.in.morning      become.active-3SG.M-IMPRF.3-so.that                 lase      yanna-te           ot’-ø-i.
+                 Lashe(NOM) time-LOC.F         sleep-3SG.M-S.PRF.3SG.M                 ‘Lashe went to sleep early in order to wake up early in the morning.’ (lit.,
+                 ‘Lashe went to sleep on time in order to become active early in the
+                 morning.’)(4.262)          farass-u            ful-ø-anno-kki-ede            hutt’a
+                 horse-NOM.M           exit-3SG.M-IMPRF.3-NEG-so.that fence                 hutt’-u-mm-o.
+                 create.fence-S.PRF.1-1SG-M                 ‘I (M) made a fence so that the horse would not go out.’
+                                            - 442 -
+                      Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 443There are verbs that take the -ede-clause as a complement. Such verbs include those in(4.263); they concern the realization or prevention of an event.(4.263)        faj- ‘to permit/allow sb to do ... ’   ubbis- ‘to bribe sb into doing ... ’
+               ta’m- ‘to ask/request sb to do ... ’    hool- ‘to prevent sb from doing ... ’
+               huucc’- ‘to pray/beg sb to do ... ’   atis- ‘to rescue sb from doing ... ’
+               seej- ‘to advise sb to do ... ’        k’oropp’- ‘to avoid doing ... ’
+               kul- ‘to tell/order sb to do ... ’      t’aar- ‘to swear to do ... ’
+               iddes- ‘to oblige/force sb to do ... ’ hasi’r- ‘to want sb to do ... ’
+               hajaj- ‘to order sb to do ... ’       hett’- ‘to wish sb to do ... ’
+               awawur- ‘to cajole sb into doing ... ’ maasi’r- ‘to bless that sth be ... ’
+               waajj-isis- [become.fearful-DBL.CAUS] ‘to frighten sb into doing ... ’
+The verb immediately preceding -ede in a complement clause is always in the imperfectaspect, as in (4.264) and (4.265).(4.264)        ooso-’ya         danca heesso              hee--anno-ede
+               children(ACC)-1SG good life                    live-3PL-IMPRF.3-so.that               seej-i-’r-u-mm-o-nsa.
+               advise-EP-MID-S.PRF.1-1SG-M-3PL               ‘I (M) advised my children to live a good life.’(4.265)        a-ø-anno-kki-ede                     hool-u-mm-o-si.
+               drink-3SG.M-IMPRF.3-NEG-so.that        prevent-S.PRF.1-1SG-M-3SG.M
+               ‘I (M) prevented him from drinking.’
+There are other verbs that take the -ede-clause as a complement which can express anevent that may be realized but also an event that has already happened (section 3.2.2.5).","[462, 463, 464]"
+"
+11
+   In Sidaama, a constituent in the preverbal position is generally focused. As discussed in Chapter 3
+(section 3.2.2.4), when the negative proclitic di= attaches to a preverbal constituent, the constituent is
+contrasted with other elements in a paradigmatic relation with it, as in (i).(i)     danura            di=lat’o                  bat-t’-anno.
+        Dangura(ACC) NEG=Lat’o(NOM.F)                 like-3SG.F-IMPRF.3
+        ‘It is not Lat’o (but someone else) who loves Dangura.’                                                 - 511 -
+                          Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 512(5.58) seeda         manco       la’-u-mm-o.
+       tall(ACC)      person(ACC) see-S.PRF.1-1SG-M
+       ‘I (M) saw the tall person.’
+Adnominal demonstratives and numerals also precede the head noun that they modify, asin (5.59) and (5.60).(5.59) hatte         manco  la’-u-mm-o.
+       that.F.ACC person(ACC) see-S.PRF.1-1SG-M
+       ‘I (M) saw that woman.’(5.60) lame         manna      la’-u-mm-o.
+       two(ACC)      people(ACC) see-S.PRF.1-1SG-M
+       ‘I (M) saw two people.’
+         When possession is expressed within an NP (rather than in external possessorconstructions; section 5.3; Kawachi 2006a, 2007b), and the possessor noun is a noun or apersonal pronoun in the genitive case (rather than the possessive pronominal suffix), thepossessor noun or pronoun precedes the possessum noun. This is shown in (5.61).(5.61)         (a)      manc-u
+                        person-GEN.M
+               (b)      daafurs-i                    mine      la’-u-mm-o.
+                        Daafursa-GEN.PROP.M           house(ACC) see-S.PRF.1-1SG-M
+               (c)      isi
+                        3SG.M.GEN         (a)   ‘I (M) saw the man’s house.’
+         (b)   ‘I (M) saw Daafursa’s house.’
+         (c)   ‘I (M) saw his house.’
+                                          - 512 -
+                             Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 513
+• Demonstrative — numeral — adjective — head noun        When more than one modifier occurs in an NP to modify the head noun, elementsof the NP follow the order in (5.62).12(5.62) (DEM) (QP) (AP) (GEN) NNo other order within the NP is possible. An example is shown in (5.63).(5.63) bule                       hatte           lame            danca
+       Bule(NOM.F)                that.F.ACC       two(ACC)         good(ACC)                 (a)     manc-u
+                         person-GEN.M                       uddano
+                 (b)     danur-i                          clothes(ACC)
+                         Dangura-GEN.PROP.M        daar-t-u.
+        tear-3SG.F-S.PRF.3SG.F        (a)      ‘Bule tore those two pieces of good clothes of the man.’
+        (b)      ‘Bule tore those two pieces of good clothes of Dangura.’
+Also, when only some of the modifiers occur, they have to follow (5.62), as in (5.64).","[532, 533, 534]"
+"       Out of the several types of co-events, one of them, the co-event of Subsequence,which is preceded by the framing event, cannot use any of the V1-V2 constructions. Forexample, a subtype of Subsequence, Purpose, is expressed by ‘in order to do ...’ (Chapter4 section 4.2.2.3.4) or ‘so that’ (Chapter 4 section 4.2.2.3.8), as in (6.89) and (6.90).
+(6.89) milli   milli   y-i-t-a-ra                      min-i-nni
+       milli   milli   say-EP-3SG.F-INF-DAT            house-GEN.MOD.M-ABL       da--u.
+       come-3SG.F-S.PRF.3SG.F       ‘She came out of the house in order to walk around.’(6.90) hakk’e         dit’amar-t-anno-kki-ede
+       wood(ACC)       become.loose-3SG.F-IMPRF.3-NEG-so.that       ass-ø-e                 usur-ø-i.
+       do-3SG.M-CNN            fasten-3SG.M-S.PRF.3SG.M       ‘He fastened the wood so that it does not get loose.’       Other types of co-events can use one or both of the temporal sequenceconstructions. They are discussed in the following order: (i) Precursion and Enablement,(ii) Cause, (iii) Concomitance, and (iv) Manner.",[767]
+"         In this section, reduplication and affixation are discussed in this order.",[332]
+"5.1.1.1 Case Marking       As mentioned earlier, Sidaama is a nominative-accusative language. Subjects arein the nominative case, direct objects are in the accusative case, and indirect objects arein the dative case. The following discussion shows how the grammatical relations arecoded by case marking on the heads of NPs (nouns or pronouns) (Chapter 3 section3.2.1.1, Chapter 4 section 4.2.2.1.3) and adnominal constituents (attributive adjectives oradnominal demonstratives) (Chapter 3 section 3.2.1.5, Chapter 4 section 4.2.2.2.1).",[503]
+"
+                                          - 612 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 613
+This construction would not be categorized as an EPC if the definition of an EPCexcluded any construction that lexically expresses possession by the use of a predicate ofnot only possession but location, because the possessive relation between the two entitiesis specified by means of the existential verb in (5.261), even though the possessor NP isoutside the possessum NP. Examples are shown in (5.262) and (5.263).(5.262) (a)     damboow-i-ra                                  min-u
+                Damboowa-GEN.PROP.M-DAT.PROP                   house-NOM.M                no(-si).
+                exist.P.PERF.3(-3SG.M)                ‘Damboowa has a house.’ (lit., ‘To Damboowa, a house exists.’)          (b)   damboow-i-ra                                  bun-u
+                Damboowa-GEN.PROP.M-DAT.PROP                   coffee-NOM.M                no(-si).
+                exist.P.PERF.3(-3SG.M)                ‘Damboowa has coffee (either as a drink or plant).’ (lit., ‘To Damboowa,
+                coffee exists.’)(5.263)         mine-ho                lam-u     waalc-i
+                house-DAT.M            two-NOM.M door-NOM.MOD.M                no.
+                exist.P.PERF.3                ‘The house has two doors.’ (lit., ‘To the house, two doors exist.’)
+The dative (possessor) NP and the subject (possessum) NP do not form a single constitentfor the reasons provided for the Dative EPC in general in section 5.3.1.1. First, the twoNPs are pronounced, not with a single intonation contour, but with two differentintonation contours.     Second, as shown in (5.262), the existential verb can be                                           - 613 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 614
+accompanied by the pronominal object suffix (Chapter 4 section 4.2.2.3.6, section5.1.1.2) that refers to an animate possessor. Third, another constituent can intervenebetween the two NPs. For example, an adverbial such as t’a ‘now’ can occur between thedative NP and the subject NP (e.g., damboow-i-ra t’a bun-u no. ‘Damboowa has coffeenow.’). Fourth, though the order of dative NP–subject NP is usually used, it cansometimes be inverted.       Fifth, the possessum noun may be accompanied by thepossessive pronominal suffix that refers to an animate possessor. However, thisconstruction conveys the availability of the possessum to the possessor in addition to thepossessive relationship, and its meaning is close to that of the IPC counterpart (discussedshortly).(5.262a’’)     damboow-i-ra
+               Damboowa-GEN.PROP.M-DAT.PROP               min-i-si                   no(-si).
+               house-NOM.MOD.M-3SG.M.POSS exist.P.PERF.3(-3SG.M)               ‘Damboowa’s house (still) exists.’ (lit., ‘To Damboowa, his house exists.’)
+               (It is still available to him.)
+Finally, like the Dative EPC with an intransitive verb, this construction uses the suffixform -u rather than -i for the nominative suffix on a subject noun ending in /a/ or /o/ thatis Unmodified by any adnominal constituent, as in (5.262); if the dative NP were adependent of the subject NP, a subject noun ending in /a/ or /o/ would take -i.","[633, 634, 635]"
+"5.1 Grammatical Relations       Sidaama is a nominative-accusative language, which uses subject and object,rather than ergative and absolutive. The core grammatical relations relevant to Sidaamaare subject, direct object, and indirect object. For ditransitive verbs (u- ‘to give’, hir- ‘tobuy (for someone), sell’, kul- ‘to tell’, aris- ‘to lend’, leell-i-s- [appear-EP-CAUS] ‘toshow’), Sidaama makes a distinction between direct objects and indirect objects.",[502]
+"
+                                             - 455 -
+                       Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 456(4.297)          hakku      dur-eeyy-u                 mann-i
+                 that.M.NOM rich-PL-NOM                people-NOM.MOD.M                 biifaado=ho.
+                 attractive=NPC.M.PRED                 ‘Those rich people are attractive.’(4.298)          dur-eess-u            manc-i
+                 rich-SG.M-GEN.M        person-GEN.MOD.M                 farass-i                     dunka=ho.
+                 horse-NOM.MOD.M                slow=NPC.M.PRED                 ‘The rich man’s horse is slow.’
+4.2.3.3 Order of Verb Suffixes          The verb suffixes also place the derivational suffixes before the inflectionalsuffixes. A derivational suffix may or may not occur, but at least one of the inflectionalsuffixes has to occur. When any of the derivational suffixes occur, one or more typesmay occur. When two or more types of derivational suffixes co-occur, they roughlyfollow the order in (4.299).","[476, 477]"
+"                                            - 448 -
+                        Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 449
+(4.281)          wo’ma-nka-wote [all-EMPH-time] ‘all the time’
+                 duuc’a-wote [all-time] ‘always’
+                 duuca-nka-wote [all-EMPH-time] ‘frequently, almost always’
+                 rah-ø-e-rah-ø-e-wote [hurry-3SG.M-CNN-hurry-3SG.M-CNN-time]
+                         ‘often (in the case of 3SG.M)’
+                 hakko wote [that.M.GEN time] ‘then’
+                 siima wote [small time] ‘for a short time’
+• -lana ‘though’          This suffix follows a verb in the imperfect or present perfect aspect. It attaches tothe end of a clause to contrast what is stated in the next clause to what has been statedbefore that, as in (4.282)-(4.284).(4.282)          kuni       k’aakk’ull-i                        mimmito
+                 this.M.NOM children-NOM.MOD.M                  each.other                 law-ø-anno-lana                        di=roduuwa=ho.
+                 appear-3SG.M-IMPRF.3-though            NEG=brother.PL=NPC.M.PRED                 ‘These children look alike, but they are not brothers.’(4.283)          halaale        c’oi’r-ø-ino-ha        law-ø-ino
+                 truth(ACC)      tell-3SG.M-P.PRF.3-CMPL appear-3SG.M-P.PRF.3                 ikk-ø-ino-lana                         halaale
+                 become-3SG.M-P.PRF.3-though            truth(ACC)                 di=c’oi’r-ø-ino.
+                 NEG=tell-3SG.M-P.PRF.3                 ‘Although he pretended to tell the truth, he did not.’
+                                             - 449 -
+                       Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 450(4.284)          ikkito-si
+                 manner(NOM.F)-3SG.M.POSS                 di=bat’-i-s-s-ino-’e-lana
+                 NEG=like-EP-CAUS-3SG.F-P.PRF.3-1SG-though                 ass-ø-ino-’e=ri                               di=no.
+                 do-3SG.M-P.PRF.3-1SG=NPC.PL.NOM               NEG=exist.P.PRF.3                 ‘Although I did not like the way he acted, he did no harm to me.’ (lit.,
+                 ‘Although the way he acted did not cause me to like it, a thing that he did
+                 to me did not exist.’)
+4.2.3 Order of the Suffixes          Any Sidaama word follows the order of root–derivational suffixes–inflectionalsuffixes when it contains both types of suffixes (Greenberg 1963: 93. Universal 28). Theordering relationships of the noun suffixes, the adjective suffixes, and the verb suffixesare each described below.","[469, 470, 471]"
+"
+15
+  This is the literal gloss provided by Blake in order to contrast it with another example where the father is
+expressed as a beneficiary.",[554]
+"
+                                          - 420 -
+                     Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 421(4.203)       kul- ‘to tell sb to do ...’
+              iddeess- ‘to force sb to do ...’
+              huucc’- ‘to persuade/beg sb to do ...’
+              hajaj- ‘to order sb to do ...’
+              wajj-i-s- [fear-EP-CAUS-] ‘to frighten sb into doing ...’
+              oow-i-s- [become.foolish-EP-CAUS-] ‘to fool sb into doing ...’
+              t’a’m- ‘to ask sb to do ...’
+              seejj- ‘to advise sb to do ...’
+              awaawur- ‘to cajole sb into doing ...’
+              ubbis- ‘to bribe sb to do ...’
+              fajj- ‘to allow sb to do ...’
+Examples of this construction are shown in (4.204) and (4.205).(4.204)       danur-i                       (ane/ane-ra/ani)
+              Dangura-NOM.PROP.M             (1SG.ACC/1SG.GEN-DAT.PRON/1SG.NOM)              ha’r-a-mm-o-ra/ha’r-ee-mm-o-ra
+              go-INF-1SG-M-DAT/go-IMPRF.1-1SG-M-DAT                      (a)     kul-ø-ino-’e.
+                              tell-3SG.M-P.PRF.3-1SG
+                      (b)     iddeess-ø-ino-’e.
+                              force-3SG.M-P.PRF.3-1SG
+                      (c)     huucc’-ø-ino-’e.
+                              persuade-3SG.M-P.PRF.3-1SG
+                      (d)     hajaj-ø-ino-’e.
+                              order-3SG.M-P.PRF.3-1SG              (a)     ‘Dangura told me (M) to go.’
+              (b)     ‘Dangura forced me (M) to go.’
+              (c)     ‘Dangura persuaded me (M) to go.’
+              (d)     ‘Dangura ordered me (M) to go.’(4.205)       isi           it-t-a-ra     fajj-ø-i.
+              3SG.M.NOM eat-3SG.F-INF-DAT allow-3SG.M-S.PRF.3SG.M
+              ‘He allowed her to eat.’
+                                          - 421 -
+                       Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 422
+          There are also other verbs like in (4.206) that can take a verb with the infinitiveand person suffixes followed by the suffix -ra. Unlike the previous type of verb, theseverbs require the subject of the infinitive to be the same as their subjects.(4.206)          ka’- ‘to attempt to do ...’
+                 t’aar- ‘to swear to do ...’
+                 k’aale e’- [word enter-] ‘to promise to do ...’
+                 has-i-- [look.for-EP-MID] ‘to want to do ...’
+                 yor- ‘to want to do ...’
+                 hett’- ‘to wish to do ...’
+                 bat’- ‘to want to do ...’
+                 laalat- ‘to long to do ...’
+                 sal- ‘to dislike to do ...’
+                 dand- ‘can do ..., to be able to do ... ’ (permission or ability)
+                 sarram- ‘to struggle to do ...’ (lit., ‘to wrestle’)
+Examples of this construction are shown in (4.207)-(4.209).(4.207)          ise       ros-u                        mine ha--a-ra
+                 3SG.F.NOM education-GEN.M               house go-3SG.F-INF-DAT                 hasi--anno.
+                 want-3SG.F-IMPRF.3                 ‘She wants to go to school.’(4.208)          waalco     fan-a-tt-o-ra                      dand-a-tt-o ?
+                 door(ACC) open-INF-2SG-M-DAT                    can-IMPRF.2SG-2SG-M
+                 ‘Can you (SG.M) open the door?’
+                                             - 422 -
+                       Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 423(4.209)          lat’o                 danur-i-ra                            uddano
+                 Lat’o(NOM.F)          Dangura-GEN.PROP.M-DAT.PROP             clothes(ACC)                 haiss-i-t-a-si-ra         k’aale e-’-u.
+                 wash-EP-3SG.F-INF-3SG.M-DAT word enter-3SG.F-S.PRF.3SG.F                 ‘Lat’o promised Dangura to wash clothes.’
+          Second, there are various constructions in which a verb with the infinitive andperson suffixes is followed by -ra.• -ra-ti ‘be about to do ...’
+(4.210)                         o-n-t’-a-mmo-ra=ti.
+                 ninke          sleep-1PL-sleep-INF-1PL-DAT=NPC.PRED.OTHER
+                 1PL.NOM        o-n-t’-ee-mmo-ra=ti.
+                                sleep-1PL-sleep-IMPRF.1-1PL-DAT=NPC.PRED.OTHER                 ‘We are about to sleep.’
+                                            - 423 -
+                     Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 424
+• -ra (y-PERS-CNN) ‘in order to do ...’
+(4.211)       ninke           soodo
+              1PL.NOM         morning              u-n-t-e
+              do.things.early.in.morning-1PL-do.things.early.in.morning-CNN                      ka’-n-a-mmo-ra
+                      become.active-1PL-INF-1PL-DAT                  (y-i-n-e)
+                      ka’-n-ee-mmo-ra                                say-EP-1PL-CNN
+                      become.active-1PL-IMPRF.1-1PL-DAT              yanna-te        o-n-t’-u-mm-o.
+              time-LOC.F      sleep-1PL-sleep-S.PRF.1-1SG-M              ‘We went to sleep early in order to wake up early.’
+• -ra y-PERS-INF-nni ‘when ... was about to do ...’
+(4.212)       ninke           min-i-ra
+              1PL.NOM         house-GEN.MOD.M-DAT.MOD.M                      e’-n-a-mmo-ra
+                      enter-1PL-INF-1PL-DAT                  y-i-n-a-nni
+                      e’-n-ee-mmo-ra                         say-EP-1PL-INF-MANNER
+                      enter-1PL-IMPRF.1-1PL-DAT              bartore        c’abis-i-’-n-u-mmo.
+              torch(ACC)      torch-EP-MID-1PL-S.PRF.1-1PL              ‘When we were about to enter the house, we lit the torch.’
+                                          - 424 -
+                      Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 425
+• -ra-albaanni ‘before ...’
+(4.213)                                 i-n-t-a-mmo-ra-albaanni
+                saale                 eat-1PL-eat-INF-1PL-DAT-before
+                food(ACC)               i-n-t-ee-mmo-ra-albaanni
+                                        eat-1PL-eat-IMPRF.1-1PL-DAT-before                lat’o                   maano        huucc’-i-t-u-nke.
+                Lat’o(NOM.F)            God           pray-EP-3SG.F-S.PRF.3SG.F-1PL                ‘Before we ate food, Lat’o prayed to God for us.’
+4.2.2.3.5 Mood suffixes4.2.2.3.5.1 Imperative Suffixes          The second-person imperative suffixes have different forms, depending onwhether the adressee is singular or plural and whether the imperative is affirmative ornegative. The second-person plural imperative suffix is formed by repeating the stem-final consonant and adding e to it.                                               affirmative    negative
+                               to 2SG          -i             -tooti
+                               to 2PL          -Ce            -tinoonte
+                              Table 4.13: Imperative Suffixes
+(4.214)         saale         it-i.
+                food(ACC) eat-IMP.2SG
+                (to a singular addressee) ‘Eat the food.’
+                                           - 425 -
+                        Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 426(4.215)           saale         it-te.
+                  food(ACC) eat-IMP.2PL
+                  (to plural addressees) ‘Eat the food.’(4.216)           saale         it-tooti.
+                  food(ACC) eat-NEG.IMP.2SG
+                  (to a singular addressee) ‘Do not eat the food.’(4.217)           saale         it-tinoonte.
+                  food(ACC) eat-NEG.IMP.2PL
+                  (to plural addressees) ‘Do not eat the food.’
+There is one verb that has irregular imperative forms: da- ‘come’ 2SG: amo, 2PL: amme(but its negative imperative forms are regular; NEG.IMP.2SG: d a --ooti,NEG.IMP.2PL: da--inoonte).","[441, 442, 443, 444, 445, 446, 447]"
+"             •   Possession is expressed in a noun phrase by means of the apposition of
+                 possessor and possessum nouns in this order or the genitive case suffix.8             •   A “suffix” (clitic) is used for “noun” (NP) coordination (except in
+                 Hadiyya, which uses apposition).",[28]
+"       Animate oblique arguments are normally accompanied by a case suffix or thenoun-phrase clitic =wa, and in order to relativize them, the pronoun retention strategy(section 5.4.3.3), where a genitive pronoun retained in the RC is followed by a suffix orclitic, rather than the gapping strategy, is used. Nevertheless, there are a few exampleswhere gapping can be used to relativize an animate oblique argument. They are limitedto cases where the verb in the RC uses the reciprocal suffix (Chapter 4 section 4.2.1.3.4).",[663]
+"
+                                                  - 518 -
+                              Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 519
+(5.74) [isi      seekk-ø-ino=hu]                                           ise
+       3SG.M.NOM repair-3SG.M-P.PRF.3=NPC.M.NOM                            3SG.F.GEN       t’arap’ees-i    hiikk’-am-ø-ino.
+       table-NOM.MOD.M break-PASS-3SG.M-P.PRF.3       ‘Her table that he repaired got broken.’
+       When a relative clause immediately precedes the genitive noun–head nounsequence, the case of the genitive noun, which has different forms depending on whetherit is Modified or Unmodified, can usually show whether the relative clause modifies thegenitive noun or the noun that that genitive noun modifies.(5.75) [la’-oo-mm-o(=hu)]                                    manc-u
+       see-P.PRF.1-1SG-M(=NPC.M.NOM)                         person-GEN.M       wosicc-i                 dut-ø-a-nni                             no.
+       dog-NOM.MOD                 bark-3SG.M-INF-MANNER                   exist.P.PRF.3       ‘The man’s dog (M) that I (M) saw is barking.’
+(i)                                                   usur-t-ino]
+                                                      fasten-3SG.F-P.PRF.3
+       ani               [bule                        usur-t-ino=ha]
+       1SG.NOM           Bule(NOM.F)                  fasten-3SG.F-P.PRF.3=NPC.M.ACC
+                                                      usur-t-ino=hu-ra]
+                                                      fasten-3SG.F-P.PRF.3=NPC.M.GEN-DAT       isi               hand-i-ra                          haisso
+       3SG.M.GEN         ox-GEN.MOD.M-DAT.MOD                grass(ACC)       o-o-mm-o.
+       give-P.PRF.1-1SG-M       ‘I (M) gave grass to his ox that Bule fastened.’                                                 - 519 -
+                         Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 520(5.76) la’-oo-mm-o       manc-i                              wosicc-i
+       see-P.PRF.1-1SG-M person-GEN.MOD.M                      dog-NOM.MOD       dut-ø-a-nni                             no.
+       bark-3SG.M-INF-MANNER                   exist.P.PRF.3       ‘The dog (M) of the man who I (M) saw is barking.’
+       The order of relative clause — other adnominal(s) — head noun does not alwayshave to be followed because the genitive noun can occur before the relative clause whenit is followed by the definite suffix and the noun-phrase clitic that agrees in case andgender with the head noun, as mentioned earlier for the ordering relationship ofadnominals. An example is shown in (5.77).(5.77) wosicc-u-nni=ti                     hiikk’-an-t-ino          lekka
+       dog-GEN.M-DEF=NPC.F.NOM                 break-PASS-3SG.F-P.PRF.3 leg(NOM.F)       haraanco=te.
+       short=NPC.F.PRED       ‘The male dog’s broken leg is short.’
+5.2.3 Order of Other Types of Constituents• Standard — marker — adjective in a comparative       Sidaama shows the order standard-marker-quality (the order standard-marker-adjective/verb) in comparative constructions. An NP used for the standard of comparisonis usually followed by the ablative suffix -nni (Chapter 4 section 4.2.2.1.3.6) to form acomparative adjunct, and the adjective or verb that expresses the quality occurs in theclause-final, predicate position. Examples are shown in (5.78) and (5.79). (5.78) shows                                         - 520 -
+                             Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 521
+the comparative construction that is used most commonly when the predicate is anadjective or a state-change verb; the adverb roore ‘exceedingly’ or ale-nni ‘exceedingly’(lit., ‘aboveness-LOC’) (or simply ale) can occur optionally between the comparativeadjunct and the predicate for the quality. For an action verb predicate, the causative formof the verb roor- ‘to exceed’, rather than the adverb roore, which is used as a subordinateverb with the connective suffix, occurs between the comparative adjunct and thepredicate, as in (5.79).(5.78) bule        danur-i-nni                                 (roore/ale-nni/ale)
+       Bule(NOM.F) Dangura-GEN.PROP.M-ABL                        (exceedingly)                seeda=ho.
+                tall=NPC.M.PRED
+                seed-d-anno.
+                become.tall-3SG.F-IMPRF.3        ‘Bule is taller than Dangura.’(5.79) bule        danur-i-nni          roor-s-i-t-e
+       Bule(NOM.F) Dangura-GEN.PROP.M-ABL exceed-CAUS-EP-3SG.F-CNN                (a)        dod-d-anno.
+                           run-3SG.F-IMPRF.3
+                (b)        dod-d-ino.
+                           run-3SG.F-P.PRF.3        (a)     ‘Bule runs better than Dangura.’
+        (b)     ‘Bule ran better than Dangura.’
+• Manner adverb — verb        Sidaama has only one lexical manner verb: sununni ‘slowly’ (Chapter 3 section3.1.4). It precedes the verb it modifies, as in (5.80), like all other types of adverbials                                             - 521 -
+                          Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 522
+(other non-lexical manner adverbials and both lexical and non-lexical non-manneradverbials).(5.80) sununni         (y-ø-e)                k’aaf-ø-a-nni
+       slowly          (say-3SG.M-CNN)        take.steps-3SG.M-INF-MANNER       no.
+       exist.P.PERF.3       ‘He is taking steps slowly.’
+• Verb — tense/aspect auxiliary verb       There are two verbs that serve as aspect auxiliary verbs: the existential verb (lit.,‘to come to exist, come to be located’) (no for a third-person subject) and the verb for ‘tolive’ hee- (Chapter 4 section 4.2.2.3.1). The existential verb is always in one of itspresent perfect forms, and does not have any other aspect forms; it cannot occur with theinfinitive suffix or the connective suffix. It can follow a content verb to constitute thepresent-progressive form of the verb with the infinitive form of that verb followed by themanner/concomitance suffix -nni, as in (5.81), or the present continuous verb form withthe connective form of another verb, as in (5.82).(5.81) insa           ot-t’-a-nni                  no.
+       3PL.NOM        sleep-3PL-INF-MANNER exist.P.PRF.3
+       ‘They are in the process of going to sleep.’(5.82) insa          ot-t’-e                 no.
+       3PL.NOM       sleep-3PL-CNN            exist.P.PRF.3
+       ‘They have been sleeping.’
+                                          - 522 -
+                          Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 523Instead of the literal meaning of ‘to live’, hee- can express an action or state in the pastthat does not hold anymore at the time of utterance, as in (5.83) and (5.84). When usedthis way, hee- is always in the third-person singular simple perfect (hee’r-ø-i [live-3SG.M-S.PRF.3SG.M]), regardless of the person and number of the subject; it follows averb in the present perfect or in the imperfect, whose suffix has information on the personand number of the subject.(5.83) ani             bero           hudi’r-oo-mm-o
+       1SG.NOM         yesterday      become.hungry-P.PRF.1-1SG-M       hee’r-ø-i.
+       live-3SG.M-S.PRF.3SG.M       ‘I (M) got hungry yesterday.’ (I am not hungry anymore now.)(5.84) ani             tullo-te              aana    hee’r-ee-mm-a
+       1SG.NOM         mountain-GEN.F         top     live-IMPRF.1-1SG-F       hee’r-ø-i.
+       live-3SG.M-S.PRF.3SG.M       ‘I (F) used to live in the mountain.’ (I do not live in the mountain anymore now.)
+Thus, when used these ways, the two aspect auxiliary verbs both follow the main verbs.","[539, 540, 541, 542, 543, 544]"
+"                                              - 526 -
+                     Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 527(5.92)   lat’o-ra                       ura-a-nni              ai
+         Lat’o(GEN.F)-DAT.PROP           left-LV-LOC.LOC         who.NOM         no ?
+         exist.P.PRF.3         ‘Who is on the left of Lat’o?’ (lit., ‘To Lat’o, who came to exist on the
+         left?’)(5.93)   bule           ae             rod-i
+         Bule(ACC)       who.GEN         sibling-NOM.MOD.M         an-ø-i ?
+         hit-3SG.M-S.PRF.3SG.M         ‘Whose brother hit Bule?’(5.94)   bero            lase                   ma
+         yesterday       Lashe(NOM.F)            what.ACC         ass-ø-i ?
+         do-3SG.M-S.PRF.3SG.M         ‘What did Lashe do yesterday?’ (lit., ‘Lashe did what yestersday?’)(5.95)   wosicc-u  ae            saale          it-ø-i ?
+         dog-NOM.M who.GEN           food(ACC) eat-3SG.M-S.PRF.3SG.M
+         ‘Whose food did the male dog eat?’ (lit., ‘The male dog ate whose food?’)(5.96)   bule        hinc’ilallo ae-ra
+         Bule(NOM.F) mirror(ACC) who.GEN-DAT.PRON.M         u-i-t-u ?
+         give-EP-3SG.F-S.PRF.3SG.F         ‘Who did Bule give the mirror to?’ (lit., ‘Bule gave mirror to whom?’)(5.97)   hakko         manc-i              maricco       lowo=ho ?
+         that.M.GEN person.GEN.MOD.M what(OBL) big=NPC.M.PRED
+         ‘With respect to what is that man big?’ (lit., ‘That man is big with respect
+         to what?’)
+                                     - 527 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 528
+In each of these examples as well, the interrogative word could be analyzed as occurringin situ — a non-interrogative constituent can substitute for it in the same position of theirdeclarative counterparts. Compare (5.92), (5.93), (5.95), (5.96), and (5.97) to (5.92’),(5.93’), (5.95’), (5.96’), and (5.97’), respectively.(5.92’)         lat’o-ra                       ura-a-nni
+                Lat’o(GEN.F)-DAT.PROP           left-LV-LOC.LOC                rod-i-’ya                               no.
+                sibling-NOM.MOD.M-1SG.POSS              exist.P.PRF.3                ‘My brother is on the left of Lat’o?’ (lit., ‘To Lat’o, my brother came to
+                exist on the left?’)(5.93’)         bule           danur-i                      rod-i
+                Bule(ACC)       Dangura-GEN.PROP.M             sibling-NOM.MOD.M                an-ø-i ?
+                hit-3SG.M-S.PRF.3SG.M                ‘Dangura’s brother hit Bule.’(5.95’)         wosicc-u danur-i                          saale
+                dog-NOM.M Dangura-GEN.PROP.M                   food(ACC)                it-ø-i.
+                eat-3SG.M-S.PRF.3SG.M                ‘The male dog ate Dangura’s food.’(5.96’)         bule        hinc’ilallo ane-ra
+                Bule(NOM.F) mirror(ACC) 1SG.GEN-DAT.PRON.M                u-i-t-u.
+                give-EP-3SG.F-S.PRF.3SG.F                ‘Bule give the mirror to me.’
+                                            - 528 -
+                             Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 529(5.97’)          hakko        manc-i                  macc’a       lowo=ho.
+                 that.M.GEN person.GEN.MOD.M eat(OBL)                    big=NPC.M.PRED
+                 ‘That man’s ear is big.’ (lit., ‘That man is big with respect to ears.’)
+          Interrogative adverbials also tend to occur right before the predicate, as in (5.98)-(5.101).(5.98)                                                   mamoote
+                 bule        saale                     when            it-t-ino ?
+                 Bule(NOM.F) food(ACC)                   mamaro          eat-3SG.F-P.PRF.3
+                                                         when                 ‘When did Bule eat food?’ (lit., ‘Bule ate food when?’)(5.99)           danur-i                        hatte          hakk’icco
+                 Dangura-NOM.PROP.M              that.F.ACC      tree(ACC)                 maricc-i-nni         mur-ø-i ?
+                 what.GEN-INST           cut-3SG.M-S.PRF.3SG.M                 ‘With what did Dangura cut that tree?’ (lit., ‘Dangura cut that tree with
+                 what?’)(5.100)          bule          ae-nni                   seeda=te ?
+                 Bule(NOM.F) who.GEN-ABL                 tall=NPC.F.PRED
+                 ‘Who is Bule taller than?’ (lit., ‘Bule is taller than whom?’)(5.101)          k’aakk’-u  min-i-ra                                    hiitto
+                 baby-NOM.M house-GEN.MOD.M-LOC.MOD                      how                 ass-ø-e                 e’-ø-i ?
+                 do-3SG.M-CNN            enter-3SG.M-S.PRF.3SG.M                 ‘How did the baby boy enter the house?’ (lit., ‘The baby boy did how and
+                 entered the house?’)
+(5.98’)-(5.101’) are declarative counterparts of these examples where the interrogativeword is replaced by another constituent. At least in (5.98’) and (5.99’), the preverbal                                             - 529 -
+                              Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 530
+constituent is in focus. (5.100’) has an unmarked order, and (5.101’) is an instance of theconnective construction (Chapter 4 section 4.2.2.3.3, section 5.1.2.1.3), where thesubordinate verb usually occurs immediately before the main verb. Thus, in (5.100) and(5.101), the position of the interrogative word can be regarded as either pre-predicate orin situ.(5.98’)           bule           saale           bero           hassa it-t-ino.
+                  Bule(NOM.F) food(ACC)            yesterday      night eat-3SG.F-P.PRF.3
+                  ‘Bule ate food last night.’(5.99’)           danur-i                         hatte         hakk’icco
+                  Dangura-NOM.PROP.M               that.F.ACC     tree(ACC)                  meesane-te-nni         mur-ø-i.
+                  ax-GEN.F-INST           cut-3SG.M-S.PRF.3SG.M                  ‘Dangura cut that tree with an ax.’(5.100’)          bule             danur-i-nni                          seeda=te.
+                  Bule(NOM.F) Dangura-GEN.PROP.M-ABL                      tall=NPC.F.PRED
+                  ‘Bule is taller than Dangura.’(5.101’)          k’aakk’-u  min-i-ra                                    bo-ø-e
+                  baby-NOM.M house-GEN.MOD.M-LOC.MOD                      crawl-3SG.M-CNN                  e’-ø-i.
+                  enter-3SG.M-S.PRF.3SG.M                  ‘The baby boy entered the house, crawling’
+           There is one exception to the preferred occurrence of an interrogative word in thepredicate or pre-predicate position. In one type of external possessor construction, theoblique external possessor construction (section 5.3; Kawachi 2006a), where thepossessor NP comes before the possessum NP, if the possessor NP is expressed with one
+                                                - 530 -
+                             Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 531
+of the interrogative pronouns, the possessor-possessum order is likely to be maintained.","[547, 548, 549, 550, 551, 552]"
+"                                             - 50 -
+                         Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 2: Phonology 51
+(iii-4) Total assimilation of /t/ (the third-person singular feminine/third-person pluralsuffix -t or /t/ of the second-person plural suffix -tin) to a stem-final obstruent        When a verb root with an obstruent (a single obstruent, not part of a consonantcluster or geminate) at its end is followed by a /t/-initial suffix, the /t/ becomes totallyassimilated with the obstruent and forms a geminate with it, in order to avoid a sequenceof two different obstruents (Hudson 1976: 250, Abebe Gebre-Tsadik 1985: 73).","[71, 72]"
+"         In order to form goal expressions, the allative suffix attaches either to the basic orgenitive stems of some locational nouns (e.g., ale-ra/al-i-ra), only to the genitive stemsof some locational nouns (e.g., aan-i-ra/*aana-ra), and only to the basic stems of otherlocational nouns (e.g., ura-ra/*ur-i-ra).15 Some of the locational nouns can alsoexpress goals with their final vowels lengthened without the allative suffix (e.g., woro-o),and the four locational nouns, iddo, aana, iima, and woro, can express goals withneither the allative suffix or the vowel lengthening.",[125]
+"
+                                                 - 620 -
+                              Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 621noun for ‘things’, re, and this form is used as the NPC only when the referent of the NPis animate (when the referent of the NP is inanimate, re is used as a common noun); also,it is only the non-plural forms of the NPC that can occur in predicate position. As seenlater, an RC whose head is the NPC can relativize a slightly narrower range of types ofelements than an RC whose head is a CMNP.                                                  non-PL                        PL
+                                            F                 M
+ACC (DO)                                    =ta               =ha               =re (animate only)
+NOM (SUBJ)                                  =ti               =hu               =ri (animate only)
+GEN                                         =te               =hu               =ri (animate only)
+  GEN-suffix
+     e.g.   =NPC-DAT                        =te-ra            =hu-ra            =ri-ra
+            =NPC-ABL                        =te-nni           =hu-nni           =ri-nni
+PRED                                        =te               =ho
+               Table 5.6: Noun-Phrase Clitic as the Head of a Relative Clause27
+        With respect to parameter (5.271b), Sidaama RCs are formed in one of two ways,by gapping (section 5.4.2) or pronoun retention (section 5.4.3) (or more broadly,
+27
+   If the head of the RC in the predicate position of the MC is a CMNP, it is followed by the predicating
+form of the NPC =ti (which is not the head of the RC and is not listed in Table 5.6). See (5.279a),
+(5.284a), (5.289a), (5.297a), and (5.299a) for examples.
+          The plural form of the NPC cannot occur in the predicate as its head. When the subject is plural,
+the plural NPC is followed by =ti, as in (ib).(i)     lat’o=nna                  damboow-i                  [danur-i                   mat’aafa
+        Lat’o(NOM.F)=and           Damboowa-NOM.PM            Dangura-NOM.PM              book(ACC)                 (a)      u-ø-ino]              manna=ti.
+                          give-3SG.M-P.PRF.3    people=NPC.PRED.MOD
+                 (b)      u-ø-ino]=re=ti.
+                          give-3SG.M-P.PRF.3=NPC.PL=NPC.PRED.MOD        (a)      ‘Lat’o and Damboowa are the people to whom Dangura gave the book.’
+        (b)      ‘Lat’o and Damboowa are the ones to whom Dangura gave the book.’
+                                                  - 621 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 622
+“pronominal retention”, which is the term used henceforth to include the retention of thepossessive pronominal suffix and that of the pronominal object suffix as well as that ofthe personal pronoun). In (5.269) (repeated below as (5.272)), which uses the gappingstrategy (the gap is indicated with Ø), the relativized NP is the direct object of the verb inthe RC, and is not expressed in the RC; it would occur immediately before the verb of theRC if it were expressed in a sentence with the least marked word order. In (5.270)(repeated below as (5.273)), an example of pronominal retention, the possessivepronominal suffix -si, which refers to the relativized noun manco, is retained in the RC;the RC in (5.270), bule min-i-si-ra mar-t-ino, can stand by itself as a complete sentence,which means ‘Bule went to his house’. The relativized NP in this example is thepossessor of the goal noun followed by the allative suffix.(5.272)                                (a)      bat-t’-anno]       manc-i
+               [bule       Ø                    love-3SG.F-IMPRF.3 person-NOM.MOD.M
+               Bule(NOM.F)             (b)      bat-t’-anno]=hu
+                                                love-3SG.F-IMPRF.3=NPC.M.NOM               da-ø-i.
+               come-3SG.M-S.PRF.3SG.M               (a)     ‘The man who Bule loves came.’
+               (b)     ‘The one (M) who Bule loves came.’(5.272’)       [bule          manco   bat-t’-anno.
+               Bule(NOM.F) person(ACC) love-3SG.F-IMPRF.3=NPC.M.NOM
+               ‘Bule loves the person.’
+                                             - 622 -
+                            Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 623(5.273)          [bule       min-i-si-ra
+                 Bule(NOM.F) house-GEN.MOD.M-3SG.M.POSS-ALL                 (a)    mar-t-ino]        manc-i
+                        go-3SG.F-P.PRF.3 person-NOM.MOD.M
+                 (b)    mar-t-ino]=hu
+                        go-3SG.F-P.PRF.3=NPC.M.NOM                 da-ø-i.
+                 come-3SG.M-S.PRF.3SG.M                 (a)    ‘The man whose house Bule went to came.’ (lit., ‘The man Bule
+                        went to his house came.’)
+                 (b)    ‘The one (M) whose house Bule went to came.’ (lit., ‘The one (M)
+                        Bule went to his house came.’)(5.273’)         bule        manc-u                   min-i-ra
+                 Bule(NOM.F) person-GEN.M               house-GEN.MOD.M-ALL                 mar-t-ino.
+                 go-3SG.F-P.PRF.3                 ‘Bule went to the man’s house.’
+           The issue of what types of constituents can be relativized was first taken up byKeenan and Comrie (1977, 1979, Comrie and Keenan 1979), who proposed the NounPhrase Accessibility Hierarchy shown in (5.274).(5.274)          subject > direct object > indirect object > major oblique case NP >
+                 genitive (possessor) NP > object of comparison
+They mean by “major oblique case NP” “NPs that express arguments of the mainpredicate, as the chest in John put the money in the chest rather than ones having a moreadverbial function like Chicago in John lives in Chicago or that day in John left on thatday” (Keenan and Comrie 1977: 66).","[641, 642, 643, 644]"
+"For example, the direct object of the active construction (5.51) (wot’e ‘money’) can be8
+  When the subject NP whose head is =hu has a masculine singular referent, it can be the subject of the
+relative clause that it heads, even when the sentence is identical in structure to the “RC=hu ...=ti”
+construction. For example, (i) and (ii) appear to be used in the form of the “RC=hu ...=ti” construction, but
+are not. The NP headed by the clitic =hu has a masculine singular referent, and has to be the subject or
+direct object of the relative clause.(i)      lat’o          an-ø-ino=hu                          danura=ti.
+         Lat’o(ACC)      hit-3SG.M-P.PRF.3=NPC.M.NOM Dangura=NPC.PRED.PROP
+         ‘The one (M) who hit Lat’o is Dangura.’ (High pitch is on o of lat’o.)(ii)     lat’o          an-t-ino=hu                          danura=ti.
+         Lat’o(NOM.F) hit-3SG.F-P.PRF.3=NPC.M.NOM Dangura=NPC.PRED.PROP
+         ‘The one (M) who Lat’o hit is Dangura.’ (High pitch is on a of lat’o.)
+9
+  (5.50) would be grammatical if =hu were replaced by the feminine noun-phrase clitic =ti to form a
+perfectly grammatical sentence, as in (i). However, the sentence is not an instance of the cleft construction;
+the first =ti is the nominative form of the noun-phrase clitic (Chapter 3 section 3.2.2.1, section 5.4.2.1),
+which is the head of the relative clause (see also footnote 6).(i)      lat’o           an-t-ino=ti                          bule=ti.
+         Lat’o(ACC)       hit-3SG.F-P.PRF.3=NPC.F.NOM           Bule=NPC.PRED.PROP
+         ‘The one (F) who hit Lat’o is Bule.’
+                                                  - 508 -
+                            Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 509
+the subject of the passive construction, as in (5.52), but the indirect object of (5.51)(damboowa ‘Damboowa’) cannot, as in (5.53).
+(5.51) danur-i                  wot’e     damboow-i-ra
+       Dangura-NOM.M             money(ACC) Damboowa-GEN.PROP.M-DAT.PROP        u-ø-i.
+        give-3SG.M-S.PRF.3SG.M        ‘Dangura gave the money to Damboowa.’(5.52) wot’-u                    damboow-i-ra
+       money-NOM.M               Damboowa-GEN.PROP.M-DAT.PROP        u-an-t-u.
+        give-PASS-3SG.F-S.PRF.3SG.F        ‘The money was given to Damboowa.’10(5.53) *damboow-i          wot’e u-am-ø-i.
+       Damboowa-NOM.PROP.M money give-PASS-3SG.M-S.PRF.3SG.M
+5.1.2.2.2 Direct-Object-Control Construction        Sidaama has a control construction where the subject of a non-finite verbcomplement is the direct object of the finite verb.","[529, 530]"
+"First, just as the pronominal object suffix that refers to the possessor can occur on theverb in a Dative EPC that uses a verb, the pronominal object suffix that refers to thedative entity can attach to the verb in a benefactive construction with a transitive verb orin the judicantis construction. Examples are shown in (5.206) and (5.207).(5.206)        ise       isi-ra                               hatte           hakk’icco
+               3SG.F.NOM 3SG.M.GEN-DAT.PRON                    that.F.ACC       tree(ACC)               mur-t-u-si.
+               cut-3SG.F-S.PRF.3SG.F-3SG.M               ‘She cut that tree for the benefit of him.’
+                                           - 586 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 587(5.207)         ise-ra                         damboow-i
+                3SG.F.GEN-DAT.PRON              Damboowa-NOM.PROP.M                t’ur-ø-i-se.
+                become.dirty-3SG.M-S.PRF.3SG.M-3SG.F                ‘Damboowa became/is dirty for her.’ (Damboowa became/is dirty in her
+                judgment.)
+Second, as in the Dative EPC, the dative entity in the benefactive and judicantisconstructions may be indicated only by the pronominal object suffix, instead of beingexpressed by a full NP, as in (5.208) and (5.209).(5.208)         ise             hatte          hakk’icco   mur-t-u-si.
+                3SG.F.NOM that.F.ACC tree(ACC)                 cut-3SG.F-S.PRF.3SG.F-3SG.M
+                ‘She cut that tree for the benefit of him.’(5.209)         damboow-i                 t’ur-ø-i-se.
+                Damboowa-NOM.PROP.M become.dirty-3SG.M-S.PRF.3SG.M-3SG.F
+                ‘Damboowa became/is dirty for her.’ (Damboowa became/is dirty in her
+                judgment.)
+          An instance of one of the Sidaama dative constructions is interpreted as aninstance of the Dative EPC when two conditions are met. First, the patient/theme entityusually has to be expressed with a common noun, preferrably one that is not modified bya dependent (or one that is Modified by an adjective, a numeral, or the possessivepronominal suffix that refers to the dative possessor, at most), unlike the dative entity,which can be expressed with any type of nominal. On the other hand, in the benefactiveand judicantis dative constructions, the patient/theme NP as well as the dative NP can beexpressed with any type of nominal. For example, in (5.193) (repeated as (5.210)),(5.203) (repeated as (5.211)), and (5.204) (repeated as (5.212)), the patient/theme entity
+                                            - 587 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 588
+cannot be interpreted as a possessum of the dative entity because it is expressed with anNP whose head is modified by an adnominal demonstrative in (5.210), a proper noun in(5.211), and a noun possessed by a person who is not the dative entity in (5.212),respectively.(5.210)         ise       isi-ra                                hatte          hakk’icco
+                3SG.F.NOM 3SG.M.GEN-DAT.PRON                     that.F.ACC      tree(ACC)                mur-t-u.
+                cut-3SG.F-S.PRF.3SG.F                ‘She cut that tree for the benefit of him.’(5.211)         ise-ra                         damboow-i
+                3SG.F.GEN-DAT.PRON              Damboowa-NOM.PROP.M                t’ur-ø-i.
+                become.dirty-3SG.M-S.PRF.3SG.M                ‘Damboowa became/is dirty for her.’ (Damboowa became/is dirty in her
+                judgment.)(5.212)         ise-ra                         ann-i-si
+                3SG.F.GEN-DAT.PRON              father-NOM.MOD.M-3SG.M.POSS                seeda=ho.
+                tall=NPC.M.PRED                ‘His father is tall for her.’ (His father is tall in her judgment.)
+          A second condition concerns the subject’s belief or judgment. In order for aclause with the form of a dative construction to be interpreted as the Dative EPC, thespeaker has to believe that the dative entity is affected by the event either beneficially oradversely. Thus, the Dative EPC takes the speaker’s, rather than the subject’s or thedative entity’s, perspective.","[607, 608, 609]"
+"(5.22) Subject (5.1.2.1):
+                      Imperative construction (5.1.2.1.1)
+                      Subject-control constructions (5.1.2.1.2)
+                      Connective, manner/concomitance, and temporal inclusion
+                      constructions (5.1.2.1.3)
+                      Cleft construction (The subject cannot be clefted) (5.1.2.1.4)          Direct object (5.1.2.2):
+                         Passive construction (5.1.2.2.1)
+                         Direct-object-control construction (5.1.2.2.2)
+When a relative clause is formed by means of gapping, at least arguments can berelativized, whether the head of the relative clause is an NP headed by a common noun orthe noun-phrase clitic. However, non-arguments can also be relativized in certainconditions. The grammatical relations of relativizable NPs are discussed later in section5.4.",[518]
+"
+                                         - 515 -
+                           Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 516(5.67) wosicc-u-nni=ti                      wajjido              lekka
+       dog-GEN.M-DEF=NPC.F.NOM                  white(NOM.F)           leg(NOM.F)        hara’madda=te.
+        short.PL=NPC.F.PRED        ‘The male dog’s white legs are short.’(5.68) ani              wosicc- u-nni=ta                   wajjido      lekka
+       1SG.NOM          dog-GEN.M-DEF=NPC.F.ACC                white(ACC)      leg(ACC)        la’-u-mm-o.
+        see-S.PRF.1-1SG-M        ‘I (M) saw the male dog’s white legs.’
+• Relative clause — head noun        The head of a relative clause, which is either a common noun as in (5.69) or thenoun-phrase clitic as in (5.70) (Chapter 3 section 3.2.2.1), is external to the relativeclause and follows it (section 5.4). In (5.69) and (5.70), the relative clauses are in squarebrackets, and their heads are in italics.(5.69) ise       [lubbo-’ya        at-i-s-ø-ino]
+       3SG.F.NOM life(ACC)-1SG.POSS become.saved-EP-CAUS-3SG.M-P.PRF.3        beetto=ti.
+        child=NPC.PRED.MOD        ‘She is the child who saved my life.’
+                                            - 516 -
+                          Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 5: Syntax 517(5.70) [lubbo-’ya        at-i-s-ø-ino]=ti
+       life(ACC)-1SG.POSS become.saved-EP-CAUS-3SG.M-P.PRF.3=NPC.F.NOM       beetto=te.
+       child=NPC.F.PRED       ‘The one (F) who saved my life is a child.’
+• Relative clause — other adnominal(s) — head noun       When the head of an NP is modified by a relative clause and by anotheradnominal constituent, the order is relative clause — other adnominal(s) — head noun.","[536, 537, 538]"
+"When the subject is third-person singular or second-person plural, the suffix for theperson/number of the subject immediately precedes the infinitive suffix, as in (4.350):3SG.M: -ø-a, 3SG.F/3PL: -t-a, 2PL: -tin-a (-ø in -ø-a for 3SG.M is assumed to show
+                                             - 476 -
+                      Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 477contrast with -t in -t-a for 3SG.F/3PL). The first-person plural form is -n-a-mmo, inwhich the infinitive suffix is between the two components of the first-person plural suffix-n -mmo, which is a discontinuous morpheme. (This form could also be analyzed as asequence of the first-person plural suffix -n, the infinitive suffix -a, and the first-personsingular masculine suffix -mmo.)       Fourth, the suffix for the person/number of the subject occurs with the aspectualsuffix (following Teferra (2000: 80-81), the suffix complex that carries information aboutthe person/number of the subject and aspect is analyzed into components rather thanbeing treated as a portmanteau morpheme that simultaneously expresses the aboveinformation). As already shown in Table 4.6, they follow the same pattern as the suffixfor the person/number of the subject and the infinitive suffix when they occur before thedative suffix -ra. When the subject is the first-person or second-person singular, theaspect suffix immediately precedes the suffix for the person/number of the subject, whichis followed by the gender suffix (M: -o, F: -a). Thus, the order is -ASPECT-PERSON-GENDER. When the subject is the third-person singular or second-person plural, thesuffix for the person/number of the subject comes right before the infinitive suffix:-PERSON-ASPECT (-ø for 3SG.M is assumed to show contrast with -t for 3SG.F/3PL,which precedes any of the aspect suffixes). The first-person plural suffix is a disjunctivemorpheme made up of two components -n -mmo, between which the aspect suffix falls.","[497, 498]"
+"
+                                            - 472 -
+                     Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 473
+(4.342) Middle 1 – causative – middle 2
+            su-’-n-i-s-i-- [smell[-MID]-smell-EP-CAUS-EP-MID-] ‘smell (actively)’          Middle 1 – reciprocal – causative
+              a--an-s- [take[-MID]-RCP-CAUS-] ‘make sb marry each other’          Middle 1 – reciprocal – double-causative
+              t’a-’-m-an-sis- [visit[-MID]-visit-RCP-DBL.CAUS-] ‘make sb visit each
+              other’
+              a-’-m-an-sis- [bite[-MID]-bite-RCP-DBL.CAUS-] ‘make sb bite each
+              other’
+              a--an-sis- [take[-MID]-RCP-DBL.CAUS-] ‘make sb marry each other’
+Examples are shown in (4.343)-(4.345). In (4.344), a--an-s- and a--an-sis- seem tohave the same meaning.(4.343)        daafurs-i                     buna
+               Daafursa-NOM.PROP.M           coffee(ACC)               su-’-n-i-s-i-’r-ø-i.
+               smell[-MID]-smell-EP-CAUS-EP-MID-3SG.M-S.PRF.3SG.M               ‘Daafursa smelled the coffee (actively).’(4.344)                                      a--an-s-ø-ino.
+               lase      insa              take[-MID]-RCP-CAUS-3SG.M-P.PRF.3
+               Lashe(NOM) 3PL.ACC            a--an-sis-ø-ino.
+                                             take[-MID]-RCP-DBL.CAUS-3SG.M-P.PRF.3               ‘Lashe made them marry each other.’(4.345)        arsamo               wossa
+               Garsamo(NOM)          dogs(ACC)               a-’-m-an-sis-ø-i.
+               bite[-MID]-bite-RCP-DBL.CAUS-3SG.M-S.PRF.3SG.M               ‘Garsamo made the dogs bite each other.’                                          - 473 -
+                       Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 4: Morphology 474
+        Setting aside the object suffix, which always comes later than any otherinflectional verb suffix, there are five cases where more than one inflectional verb suffixdiscernably occurs at the same time and their order can be investigated. The orderingrelationships of the inflectional verb suffixes in these cases are summarized in Table4.18.","[493, 494, 495]"
+"
+                                           - 57 -
+                         Kazuhiro Kawachi A Grammar of Sidaama (Sidamo) Chapter 2: Phonology 58
+(2.31)                         V-MID-                                          V-MID-
+         ob- ‘to sew’         op-p’-                 daak- ‘to grind’        daak-k’-
+         sut- ‘to hang’        sut-t’-                 tu- ‘to drop’          tuk-k’-
+         meed- ‘to shave’      meet-t’-                hajaj- ‘to order’     hajac-c’-(iv-2) Replacement of // by /’/ before /n/ of the first-person plural suffix -n -mm         The middle suffix - becomes the glottal stop when followed by the first-personplural suffix -n -mm. As a result, the cluster /’n/, rather than the prohibited, obstruent-obstruent cluster */n/, is produced. This applies not only to verbs that have both activeand middle forms, but also to verbs that always contain the middle suffix and have noactive forms.","[78, 79]"
+"
+(2.21)                    V-3SG.F/PL-P.PRF.3     V-3SG.F/PL-S.PRF.3SG.F         V-2PL-S.PRF.2
+amad- ‘to hold’           amad-d-ino             amad-d-u                       amad-din-i
+k’aa- ‘to remember’ k’aa--ino                 k’aa--u                      k’aa-in-i
+sas- ‘to become afraid’ sas-s-ino           sas-s-u                     sas-sin-i
+hajaj- ‘to order’       hajaj-j-ino         hajaj-j-u                   hajaj-jin-i
+ba’- ‘to disappear’       ba’-’-ino              ba’-’u                         ba’-’in-iAs mentioned in (iii-1), when the stem ends in one of those stop consonants which maygo through lenition, the stop rather than its weakened counterpart is geminated.",[72]
+"        The present study does not distinguish the verbalizing suffix (that derive verbsfrom nouns) and the middle suffix because there is no clear evidence for the distinction.9(Also, in section 4.2.3.3, where the order of verb suffixes is discussed, the two suffixes,which occupy the same position relative to the verb root and other types of suffixes, areregarded as the same.)        Many of the noun-verb pairs in (4.16) can be used together in idiomaticexpressions like (4.17)-(4.22). Some of them (e.g., ‘dream’) require the noun to bemodified by an adjective. They look similar to the idioms in Chapter 3 (section 3.1.2.3),but unlike them, they do not express manners of actions.(4.17) ise            sikk’icco    sikk’-i---u.
+       3SG.F.NOM stick               use.a.stick-EP-VBLZ-3SG.F-S.PRF.3SG.F
+       ‘She used a stick as an aid.’(4.18) barko          bark’-i-’r-ø-ino.
+       pillow         pillow.on-EP-VBLZ-P.PERF.3SG.M
+       ‘He used a pillow.’(4.19) heme          he-’-m-ø-i.
+       backbiting    backbiting-VBLZ-backbiting-3SG.M-S.PRF.3SG.M
+       ‘He backbit.’
+9
+  My consultant regards the two as the same morpheme. Note that - in this position is glossed as -VBLZ
+in this section, but as [-MID] in sections 4.2.1.3.3 and 4.2.3.",[346]
