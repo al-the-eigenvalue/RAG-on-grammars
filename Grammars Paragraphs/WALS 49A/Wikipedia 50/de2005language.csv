@@ -1,0 +1,2535 @@
+Paragraph,Page number
+"SS-V(80) a. nago
+kt=m
+Ø-akr
+RLS
+water yet/still
+3-cold
+‘The water has not cooled yet.’[S
+S-V]
+b.na
+go
+j-akr
+RLS
+water RP-cold
+‘The water has not cooled.’ket
+NEGket
+NEG253[N
+MOD]
+c. kt=m
+go
+j-akr
+yet/still
+water RP-cold
+‘There is no cold water yet.’ket
+NEGWhether the variation alluded to is a reflection of dialectal differences remains to
+be investigated in future research.
+Finally, the adverbial notion of a temporal negative, ‘never’, involves the cooccurrence of the generic negative marker ket with what could be analyzed as a temporal
+component, a, glossed here as ‘ever’. Together, a...ket form what could be described
+structurally as a “circumclitic”. The temporal marker precedes the element under the
+scope of negation, and the negative marker ket follows it, occupying the constituent final
+position, as expected.(81) a. a
+prõ
+ket.
+ajt na
+t
+ri
+bra.
+ever wife NEG alone RLS
+HAB
+DEM
+wander
+‘He never had a wife. He wanders around all by himself.’
+b. a
+ic-wap
+ket.
+ever 1-machete
+NEG
+‘I never owned a machete.’4. Grammatical relations
+Keenan (1976) proposes a set of criteria, which may apply to different languages to a
+greater or lesser extent, for a definition of Subject as a universal category. The idea of
+grammatical relations as a universal category has been questioned by Dryer (1997), who254points out that, while a set of criteria may be helpful to establish what similarities there
+are amongst languages, these similarities do not explain why languages are the way they
+are. Any similarities are, he claims, the reflexes of functional and cognitive processes
+which themselves may be universal. Thus, it is not grammatical relations as such that are
+universal. Each language displays its own relevant grammatical relations, which may or
+may not coincide with the notions of “Subject” and “Object” as found in other languages.
+In the analysis of Apinajé, I share Matthew Dryer’s view that the grammatical
+relations of a language are specific to that language and may be defined according to
+language internal criteria. In section 3.3 I have pointed out how distinct systems of
+alignment interact in Apinajé. Thus, coding patterns and control properties relevant for
+the establishment of grammatical relations in Apinajé include:(82) Relevant criteria for the establishment of grammatical relations in Apinajé
+(a) word order
+(b) person prefixes
+(c) independent pronouns
+(d) person inflection in imperative clauses
+(e) the use of reflexives
+(f) the occurrence of the realis marker in noun phrase coordination
+(g) switch-reference strategies
+(h) valency-changing operations
+(i) ergative marking in subordinate clauses
+(j) equi-deletion in complementation
+(k) coreferential deletion in coordinationThe SOV word order (criterion (a)) is fairly rigid in Apinajé and serves as a useful
+criterion of the identification of A and O. The use of person prefixes (b) reveals a split-255intransitive system in simple main clauses, and an absolutive pattern in nonfinite clauses.
+To go along with the absolutive pattern, criterion (i) reveals an ergative case-marking
+system that is conditioned by subordination environments. All other criteria (c-h; j-k)
+betray a nominative pattern and provide strong support for the grammatical relation
+Subject in Apinajé.
+On the other hand, Direct Object is a less robust grammatical relation in the
+language. The O argument forms a tight constituent with the following verb, and if the O
+does not occur as a free form, then a personal prefix on the verb must index the person of
+O. In addition to this morphosyntactic pattern, the accusative prefix set contains a uniqueform, the prefix ku-, which is the one criterion that unquestionably identifies the Direct
+Object. Note that these criteria only identify the canonical O as Direct Object, leaving no
+syntactic or morphological evidence for the combination of the canonical O category with
+the many proposed noncanonical O arguments: these latter bear case-markers, cannot be
+indexed on the verb, and show no evidence of constituency with the V. As such, we push
+them to the next category, that of Indirect Object.
+If Direct Object in Apinajé is not particularly robust, the evidence in favor of the
+grammatical relation Indirect Object is limited to a single criterion: obligatoriness. In the
+traditional ditransitive predicates, the third argument bears the dative case-marking, and
+in the various noncanonical verb types seen in section 3.3.2, the second argument bears
+one of four different case-markers, lexically determined by the verb. Thus, the category
+of Indirect Object could be defined as those obligatory arguments that otherwise have no
+morphological or syntactic patterns to unite them.","[266, 267, 268, 269]"
+"IntroductionThe present chapter discusses those construction types that encompass more than one
+predicator within a single syntactic unit. Arguments are typically shared, but that may not
+necessarily be the case. In functional terms, what I will be discussing here are the
+domains of (a) complementation, understood, in the sense of Noonan (1985), as a
+complex structure involving a clause that serves as argument of a matrix verb; (b)
+relativization, a clause that serves as modifier of a head noun, thus belonging within a
+noun phrase; (c) adverbial clauses, those expressing contextual or circumstantial
+information that serves as a frame for the main event described by the matrix verb, that is,
+clauses that modify a verb phrase or clause; (d) constructions expressing aspectual
+meanings, such as the inchoative, the progressive, and the continuous; and (e) the
+comparative of superiority. Causative constructions, discussed in section IV.5.2, also
+constitute one type of complex construction in Apinajé, since they are expressed by the
+types of syntactic strategies described here.
+In structural terms, these functional domains are expressed in Apinajé by means
+of subordination embedding, parataxis, and serialization. Many cases of
+complementation make use of embedding, while in others parataxis is used (Noonan2741985: 44; 55). The alternation between one type of construction and the other within this
+domain is determined by the syntactic properties of complement-taking verbs, which are,
+in general, of the non-canonical marking type. The alternation between subordination
+and parataxis is observable also among the different types of adverbial clauses, although
+parataxis is more frequently used.
+On the other hand, relative clauses are always embedded inside the noun phrase.
+Certain properties commonly found in subordinating constructions, such as the use of the
+nonfinite form of verbs, are also necessarily employed in the expression the comparative
+of superiority and one type of inchoative construction. The structural properties observed
+in the latter cases, which are typologically less common, are crystallized and presumably
+result from the diachronic development of source biclausal constructions, in which the
+modern main verb was subordinate and the modern postverbal particle was the main verb.
+The original main verbs eventually became reanalyzed and grammaticalized as function
+words, which they still are in the synchronic stage of the language.
+Serialization is a structural strategy often used for the expression of the
+progressive and continuous aspects, as well as the more adverbial manner nuance.
+The discussion proposed here is intended to be broad enough that it will touch on
+the various structural strategies observed in the corpus for the expression of typologically
+common functional domains, but it is by no means intended as an exhaustive account of
+the inventory of complex predicates and constructions found in Apinajé. That is a task
+that requires continued analysis of the data already found and yet to be included in my
+database. For the time being, however, the present chapter should serve as a275representative sample. The formal properties of subordination, parataxis, and
+serialization in Apinajé are introduced briefly in the remainder of this section; subsequent
+sections elaborate on structure in further detail, along with the functional domains
+expressed by each structure.
+Subordination in Apinajé requires that the relevant verb be inflected for
+nonfiniteness. The ergative case marker may or may not mark the A argument,
+depending on coreference conditions. In complementation, the distribution of a
+subordinate predicate is the same as that of the equivalent nominal. The matrix verb
+occurs in final position, postposed to the subordinated element.
+Paratactic clauses are finite, displaying the very same structure as independent
+simple clauses. Parataxis may require the same-subject or different-subject switchreference markers, where pertinent, and it often involves morphemes from the TAM clitic
+inventory.
+Serialization requires the nonfinite form of verbs when the (causative or
+instrumental morpheme) verb  ‘do’ is involved. Otherwise, it is just the bare form of
+verbs that occur in a sequence; in this case, the verbs involved are usually from the class
+of intransitives (i.e. they take no inflection in their finite form). In Apinajé, serialization
+always involves either a movement verb or a position verb. Not all verbs belonging to
+each category are eligible for serial constructions expressing aspectual meanings, but
+only a selected few. When verbs from outside this inventory are used, the resulting
+overall meaning of the construction is more literal than grammatical, sometimes yielding
+awkward or jocose meanings.","[287, 288, 289]"
+"202Noun modification is also expressed by noun phrases consisting of a noun and a
+nonfinite verb form. In these cases, the nonfinite verb is the head of the noun phrase,
+which derives from a verbal predicate construction, whereas the other nominal involved
+serves as the modifier (6). That the nonfinite verb is part of a noun phrase is
+demonstrable by its distribution and its function in the clause: it is surrounded by a noun
+and the definite article ja, and it is an argument of the main predicator (6.b). Note that
+the relational prefix occurs, since the head of the noun phrase, ire, begins in a vowel; the
+pattern is comparable to that of the genitive construction introduced above.(6) a. [br -ire]
+game RP-slice.NFja‘a slice of meat’DEF.ARTb. i-m [[[br -ire]
+ja]
+1-DAT game RP-slice.NF
+DEF.ART
+‘Give me one of those slices of meat’õ]
+onegõ
+giveNoun modification may also involve the presence of a descriptive verb in
+attributive function in the noun phrase, in a relative clause construction. In this case, the
+descriptive is the modifier element and follows the head noun (see details on
+relativization in section V.2). Notice one such complex noun phrase as the object of the
+instrumental postposition  in (7.c).(7) a. [ic-c-e
+[[krr [kr j-akt]] kabrek=r]
+1-RP-cloth
+dot head RP-tiny red=DIM
+‘My dotted red dress has disappeared!’na
+RLSic-pe akudk.
+1-DTR disappear203b. [[b
+prek=ti]
+muj]
+man tall=AUG
+DEM.DST
+‘That tall man is my husband.’
+c. napa
+[[go j-akr]NP
+1
+water RP-cold
+‘I washed my head with cold water.’
+RLSna
+RLSi-bje
+1-husband]PPja.
+DEF.ARTami kr
+headINSTR RFLXkaõ.
+washDeterminers. In phrases where the head noun co-occurs with a determiner, the head does
+not appear phrase finally, since determinants are positional clitics that necessarily follow
+the nominal element they refer to. Determiners include the definite articles ja ‘singular’
+and je ‘collective’, and the indefinite article õ ‘some; a; one’ (8).2 Demonstrative
+pronouns also fall in this functional and distributional category, following the head noun
+(9).(8) a. pkap ja
+di
+ja
+b. kupe
+kupedi
+jepc. katpr
+kar
+apcet
+(9)go
+prirmuj
+ne‘the dirt’
+‘the woman’
+je
+je‘the kupe women (a distinctive group)’
+‘the kupe jep people (a foreign group)’õ
+õ
+õ‘some money’
+‘a deer’
+‘one peba (armadillo sp.)’
+‘that water (river, creek)’
+‘this boy’204The indefinite marker õ may operate as a pronoun and thus head a noun phrase on
+its own. That is also true of the demonstratives and the singular definite article ja (10).
+The collective article je has not been noted in this function.(10) a. ktpaj
+kar ja
+pi,
+ka
+IRLS 1.IRLS deer
+DEF.ART
+kill
+2
+‘I’ll kill the deer and you’ll kill one too.’b. muja-j-acwj
+2-RP-alsoõ
+onepi.3
+killnakm a-bc
+DEM.DST
+RLS
+3.DAT 2-good
+‘That one is pleased with you.’c. janakt
+kakje
+3.ERG draw.lines
+‘This one makes good lines.’
+DEF.ARTRLSbci
+goodPlurality may be expressed with reduplication of the definite article, although the
+category of number is often expressed with quantifiers as well (11).(11) me
+me2di
+prirjaja
+jaja‘the women’
+‘the kids’The distinction between the indefinite determiner õ and the homonymous genitive postposition õ is
+noticeable, among other things, by the distribution of each: the determiner follows the head; the
+postposition is the head of a lower phrase but it precedes the head of the higher structure.
+3
+In this context, the indefinite article õ is pronounced as [õt]. It is not yet clear whether the reduced
+consonant at coda position is morphological material, the result of a phonological process, or merely a
+phonetic effect. Compared to that, there are instances in which the definite article ja in pronominal
+function is also pronounced as the more “extended” form [ari]; under these circumstances, however, it
+usually has the more adverbial meaning ‘here’. Thus, the alternation in shape is justifiable as the result of a
+morphological process.","[215, 216, 217, 218]"
+"298The morphosyntactic and distributional facts about the negative morphemes
+suggest that they may have all originated diachronically from verbal sources. At least in
+regard to the morpheme ket, a plausible hypothesis is that it must have started out as a
+monosyllabic negative predicator of tV structure, and that the kV- syllable is a reflex of
+the accusative prefix ku-, also noted in other function words, such as kumrc ‘INTS’ and
+kt ‘3.ERG’, among others (see chapter IV). The hypothetical predicator *tV must have
+been responsible for the negation of the proposition described in the clause, thus
+requiring the nonfinite form of the subordinate verb; whereas the morpheme ku- could
+have operated as an anaphoric/resumptive pronoun, referring back to the negated
+proposition. Verbs do take noun phrases as arguments; and it is quite possible that the
+distribution of ku- was restricted to cases of propositional, not nominal, negation in a past
+stage of Apinajé.1 However, since the most frequent scope of negation is the proposition,
+the use of the *kVtV form may have become more standardized, leading to its reanalysis
+as the negative stem of Apinajé thus replacing other related forms elsewhere in the
+grammar. As far as phonological changes, one could speculate a path such as *kute >
+*kete > ket, for Apinajé, with vowel harmony and eventual deletion of the stem final
+vowel. In any case, it is no longer possible to speak of ket and ketne as true verbs in1In Kaingang (Southern Jê), one of the negative markers is indeed a monosyllabic morpheme beginning in
+/t/: tõ ‘NEG’ (Wiesemann 1986). However, in that language this form of the negative is employed in narrow
+scope negation, specifically, in the negation of nouns; sentential negation is expressed by a similar ket
+morpheme. (Thanks to Eduardo Ribeiro for calling my attention to this piece of data, in personal
+communication.)299Apinajé. These morphemes have now become positional clitics which do not display the
+full morphosyntactic behavior and semantic content of a lexical verb.
+Other elements that may have involved the prefix ku- in earlier times include the
+ergative markers and the intensifier kumrc. While it seems plausible that the intensifier
+may have evolved from a verb, given its final position in the clause and the role it
+performs, as a modifier of the predicate, the same may not be said of the ergative
+markers.
+The ergative markers t and kt must have evolved from a nominal source. My
+claim is based on their distribution in the sentence and their function in present-day
+Apinajé syntax, as case markers of nominal elements. However, the possibility that the
+prefix ku- may have participated in the development of the suppletive third-person form
+of the ergative is also present here – a path that I propose for the other two postpositions
+that display suppletive forms, namely, the detrimentive and the dative, as well. The
+hypothesis is displayed schematically below:(1)*ku-m
+*ku-pe
+*ku-t>
+>
+>k-m >
+ke-pe >
+k-t >km
+kep
+kt‘3.DAT’
+‘3.DTR’
+‘3.ERG’The idea proposed in (1) is that all three postpositional markers may once have
+been used with the third person prefix ku. With the frequency of use, the vowels involved
+underwent certain phonological changes, such that non-low vowels ended up in full
+harmony, whereas in the environment of a low vowel, only partial asimilation took place,300such that the high back vowel became lowered. Eventually, all word-final vowels were
+lost, giving way to a heavy monosyllabic word.
+In this vein, it is hoped that this description of Apinajé will serve as a basis for
+future historical and comparative work, which will allow the testing of the various
+internal reconstructions proposed here, and which will also allow the creation of new,
+fruitful comparative hypotheses for the reconstruction of the phonology and grammar of
+Proto-Jê.","[311, 312, 313, 314]"
+"3.1.3. Postpositions
+Postpositions constitute a (rather large) closed class in Apinajé. Postpositions occur
+postposed to their object noun phrase or, in the absence of an overt dependent noun
+phrase, they inflect for person in the same way as Verbs and Nouns. The set of person
+prefixes used is the same for all three lexical categories, as is the complementary
+distribution between prefixes and noun phrases.
+The fact that Postposition is viewed here as a lexical category might seem at odds
+with the fact that postpositions are function words. However, even though a clear set of
+standard postpositions (monosyllabic, high frequency of use, with more grammatical than
+lexical meaning) does exist in the language, other members of this category seem more
+like postpositions-in-the-making, evolving from a class of nouns that I will term here
+“relator nouns.” For that reason, it is almost innaccurate to speak of postpositions in
+Apinajé as constituting a closed class; perhaps this might be best described as a “halfway
+open” class.
+Relator nouns are lexemes whose semantics extend metaphorically into
+grammatical meanings related to space orientation and position. Typically, relator nouns
+are body part terms, or part-whole terms which pattern as inalienable nouns in languages
+that make this distinction (DeLancey 1997). This kind of diachronic development is140fairly common crosslinguistically. In Apinajé, it is possible to observe, at the synchronic
+level, hints of the grammaticalization of some nouns into postpositions, as will be seen.
+Although there seems to exist a tendency for postpositions to evolve from nouns
+in Apinajé, there is at least one instance of a postposition having a verb as its diachronic
+source. That is the case of the instrumental postposition  and the verb  ‘do’ (Oliveira
+1998).
+The set of grammatical postpositions and some selected relator nouns are
+introduced in what follows.","[153, 154]"
+"232The noncanonical marking of core arguments is understood here, with Onishi
+(2001), as those patterns that deviate from the standard patterns of argument marking
+used in a given language. In the case of Apinajé, the canonical pattern is the use of free
+pronouns to indicate SA/SO/A (nominative pattern), and bound person markers to indicate
+SO/O (absolutive pattern). Noncanonical marking in Apinajé then involves the use ofvarious postpositions for the expression of what appear to be core arguments, that is,
+participants that are obligatorily required by verbs.
+In the remainder of this section, I will tentatively depart from the assumption that
+the patterns of Apinajé laid out here involve the noncanonical marking of core
+arguments; at this point, this assumption is based simply on (a) the frequency and
+consistency with which certain postpositions come associated with certain verbs; and (b)
+the fact that these combinations sometimes result in significantly distinct meanings from
+those of the base verbs, as if in a derivational relation. Supporting grammatical evidence
+is presented in section 4.
+Noncanonical marking in Apinajé is noticeable with verbs of cognition, emotion,
+utterance, and sensation, among others. The patterns observed with these verbs all depart
+from the basic canonical patterns of argument marking and involve many sorts of
+postpositions – from locative, to dative, to instrumental to ergative. The semantic subcategorization of such predicators corresponds somewhat to the kinds of postpositions
+used, but not necessarily so.","[245, 246]"
+"235Bivalent non-canonical predicators. Bivalent non-canonical predicators come in a
+variety of patterns. The primary difference between the patterns is whether A or O is
+noncanonically marked, and secondarily whether we should think of some of these as
+extended intransitives rather than noncanonical transitives. We begin with two clear
+cases of noncanonical A: some verbs require that the A be marked as a dative, others that
+it be marked as ergative.
+The verbs that require a dative A include verbs of liking, disliking, refusal, fear,
+and desire. The latter three occur as complement-taking verbs as well, as may be seen in
+the examples. The clause begins with the nominative pronoun in first or second position,
+followed a bit later by a coreferential dative-marked A argument; the O follows the
+canonical pattern, either occurring as a noun phrase immediately adjacent to the verb, or
+indicated morphologically with bound pronouns ((51-52); O-NP’s are within brackets).","[248, 249]"
+"Noun modification. Noun modification may be expressed by the juxtaposition of nouns,
+with the difference that no genitive marking needs to be involved. In (4), the phrases
+consist of all alienable nouns. The relative ordering of dependent and head elements is
+the opposite of the standard pattern in (4.b): the modifier follows the head noun.
+Examples such as this are exceptional; there are only two such cases in my database, both
+of which involve the word kupe ‘non-Indian’.1(4) a. kupe
+foreigndi
+woman‘foreign woman’b. kupe
+foreignpai
+Indian‘Indian-like foreigner’The function of noun modification may be performed by noun phrases involving
+inalienable nouns (5).",[215]
+"RelativizationRelativization in Apinajé is necessarily expressed by means of subordination. Thus,
+other morphosyntactic properties internal to Apinajé relative clauses include the facts that
+the verb must occur in its nonfinite form and, if it is a transitive verb, the ergative case
+marker must occur on the first nominal constituent of the subordinate clause.
+Additionally, the definite marker ja must occur at the end boundary of the clause, being
+optionally preceded by the agent nominalizer cw, which occurs most often (though not
+strictly) with verbs of action or activity. The order of elements remains basically the
+same as in simple clauses.
+Relativization is carried out by means of both internal and external relative
+clauses (meaning “internally headed” and “externally headed,” as in the terminology and
+typology proposed in Keenan 1985, inter alia). The choice for one or the other strategy
+depends on the position being relativized. Positions that may be relativized are A, S, O
+and the dative/recipient (Keenan and Comrie 1977; Givón 2001b). When an external
+relative clause is employed, it will be of the postnominal type, as the RC will come
+postposed to the head noun.
+Of the positions that may be relativized, S and O form verb phrase-internal
+absolutives and are thus grammatically required to occur in internally headed relative
+clauses; however, the head may occur externally if a third person resumptive pronoun is
+employed in the required position. The ergative A is always external to the RC, with the
+person prefix (or the suppletive form) of the ergative marker serving as a resumptive282pronoun. A relativized dative participant is external to the RC, with no need for a
+resumptive pronoun.
+The examples in (6) illustrate these points. (6.a) shows the regular use of the verb
+are ‘tell’ in a simple clause, for comparison with the other constructions. In (6.b), the
+noun b ‘man’ is the understood head of the RC and occurs within the restrictive clause.
+That is so because b is the second argument of the verb are, and accordingly, it occurs
+immediately preposed to the verb, which takes the relational prefix; the same is true of di
+‘woman’ in (6.c), the S argument of the verb ca ‘stand’. In (6.c-d), on the other hand, the
+relativized element di ‘woman’ is the A argument of are ‘tell’. The external relative
+strategy applies in this case, with the restrictive clause following the head noun. Notice in
+(6.d) the presence of the third person ergative marker kt inside the subordinate clause;
+the ergative case marker is coreferential with the external head noun and serves as a
+resumptive pronoun.(6) a. pa
+na
+pa
+a-m [muj
+1
+RLS
+1
+2-DAT DEM.DST
+‘I’m telling you about this one.’
+b. [ic-t a-m [b
+1-ERG 2-DAT man
+naj-are]
+RP-tell.NFj-are]
+RP-tellja]NP
+DEF.ARTØ
+kri
+õ
+kam pa
+RLS
+HAB
+3
+village one
+INSV live
+‘This man I’m telling you about lives in the other village.’
+c. [[di
+womantc-m]
+RP-stand.NFja]NP
+DEF.ART283naØ
+pr
+ra
+i-m a-j-are
+3
+PST
+ASP
+1-DAT 2-RP-tell
+‘This woman standing [there] had already told me about you.’
+RLSd. [di
+woman[kt i-m a-j-are
+3.ERG 1-DAT 2-RP-tell.NFcw]
+NMLZ.Aja]NP
+DEF.ARTnaØ
+pr
+ra
+ma
+mõ
+RLS
+3
+PST
+ASP
+MOV go
+‘This woman who told me about you has already left.’The examples in (7-9) further illustrate the point. In (8), the relativized element is
+the dative participant, which also occurs internally in the relative clause. Thus the
+instances in which externally headed relative clauses occur include mostly cases of
+ergative relativization, but are not limited to this. For instance, consider (9.b), where the
+second argument of the verb, mekdc ‘medication’, appears in initial position in the
+sentence. Inside the relative clause, the subordinate verb appears without the relational
+prefix, since its object is not contiguous to it. Examples of this kind were not very
+frequent during elicitation sessions. It is possible that this fronting of the object of the RC
+is a pragmatic strategy for placing it under focus, in which case this construction would
+be more marked than those in which the relativized object occurs internal to the relative
+clause. It is also possible that this is all artefacts of elicitation; further (textual) examples
+are still needed for clarification of this point.","[295, 296, 297]"
+"Noun phrase coordination. Three distinct strategies for noun phrase coordination have
+been noted in my database. The first involves the use of the conjunction ne; the next
+employs the associative morpheme me in conjunction with the dual marker wa; and the
+last strategy involves the expression (ne) kacw, which translates approximately as ‘in
+addition to; along with’. The conjunction ne is also used for clausal coordination, in
+which context it performs the more specialized function of ‘same subject’ marker (see
+further details in section 4).
+The examples in (17) illustrate the use of ne. The coordinate noun phrases are the
+arguments of the transitive verbs bu ‘see’ and gõ ‘give’, and the intransitive te ‘go’. In
+(17.a), only the conjunction is used, whereas the dual marker co-occurs with it in (17.bc). In the latter examples, we notice two tokens of the realis marker na – once210introducing the coordinate noun phrases, and the second time introducing the clause as
+such. Here, the dual marker wa refers back to the noun phrase referents, which are
+somewhat emphasized in this type of construction.(17) a. pa
+na
+pa
+[[a-kra
+ne
+1
+RLS
+1
+2-child
+CNJ
+‘I saw your husband and your child.’a-bje]
+2-husbandp-ubu]
+RP-see[a-kra ne
+ic-kra] na
+[wa] ma
+te
+2-child CNJ
+1-child RLS
+DU
+MOV go
+‘My child and your child have both left (together).’b.naRLS[irptsir ne tj
+dada] na
+[wa] i-m kw rc
+RLS
+N.
+CNJ HT
+N.
+RLS
+DU
+1-DAT macaxeira
+‘Ireptsi and Dada, both of them have given me some macaxeira.’c. nagõ
+giveFactors that may be of relevance for the double occurrence of the realis marker in
+this context are (a) that the arguments expressed by the coordinate noun phrases are A/S,
+and (b) that they are not encoded by pronouns. Were these arguments to be expressed as
+pronouns, the pattern for syntactically encoded emphasis on them would be the double
+occurrence of the pronoun itself; and had they been O arguments, the dual clitic could
+have been dispensed with, as in (17.a).
+As pointed out earlier, the number clitics wa and m generally precede the noun
+phrase they modify, follow the pronoun they modify, and precede the verb whose bound
+prefix they modify. In these conjunction examples, the first impulse might be to assume
+that they modify the preceding noun phrase, which would be structurally odd. However,211this is not the case: the realis clitic na marks the right boundary of the conjoined S/A noun
+phrase in (17.b-c), leaving wa to serve as a resumptive pronoun.
+When a conjoined noun phrase is in O function, the resumptive pronoun slot is not
+available. In this case, wa can occur only as a modifier of the third person form of the
+verb (18.a), in which case the O noun phrase is not within the verb phrase, but stands as a
+preverbal adjunct. The attempt to force an analysis with wa as a post-NP modifier fails,
+as seen in (18.b): wa cannot be interpreted as the dual marker when it comes between the
+conjoined noun phrase and a transitive verb bearing a relational prefix (indicating
+contiguity with its O argument). Here, wa can only be interpreted as the homophonous
+noun ‘tooth’, and the conjoined noun phrase must be its possessor.(18) a. pa
+na
+pa
+[a-kra
+1
+RLS
+1
+2-child
+‘I saw both your child and mine.’b.?? pa na
+1
+RLSpa
+1[[a-kra
+2-childne
+CNJne
+CNJic-kra] [wa
+1-child DUbu]
+seeic-kra wa] p-ubu]
+1-child tooth RP-seeThe same observations regarding the use of the realis and the dual markers are
+valid for the examples involving the expression (ne) kacw, which has the same
+distribution in the noun phrase as the plain conjunction ne in the examples above. Notice
+that, here too, the dual marker may be dispensed with, when the coordinates constitute
+the O argument of the verb (19.d). The morpheme kacw can also function as an
+inchoative marker in a different type of construction (section V.4).","[223, 224, 225]"
+"TABLE III.3
+PERSON PREFIXES: VERBS
+Finite formNonfinite formi(C)aØku-i(C)aØ-TABLE III.4
+PERSON PREFIXES: NOUNS
+i(C)aØi-‘1’
+‘2’
+‘3’
+‘3’‘1’
+‘2’
+‘3’
+‘3.ACC’TABLE III.5
+PERSON PREFIXES: POSTPOSITIONS
+i(C)aØ(ku-‘1’
+‘2’
+‘3’
+‘3’)Person inflection occupies the most external morphological slot in a word. Person
+prefixes encode first, second, and third persons, that refer to the objects of Postpositions,
+the possessor in Nouns, and the absolutive arguments of Verbs. There are three third
+person prefixes: ku-, i- and Ø-. The zero prefix is the only one used with all three word
+classes. The prefix ku- occurs exclusively with transitive verbs (there is one instance of
+ku- with a postposition) and the prefix i-, very marginally, with nouns. The accusative
+prefix ku- has further distributional restrictions: it occurs exclusively with the finite form181of verbs, only in monosyllabic stems, and is employed when the accusative noun phrase
+is not contiguous to the verb, but elsewhere in the clause (section IV.2.3).
+The nonfinite form of a verb performs a more nominal role in the syntax (section
+IV.2.1). The set of prefixes employed with nonfinite forms is reduced, as compared tothat of finite verb forms, because only the third person zero prefix (not ku-) may occur.
+The third person form i- does not occur very frequently. Although the occurrence
+of i- seems to coincide consistently with the absence of a dependent noun phrase
+contiguous to the head noun (137), Ø- may also appear in this context (138). It seems,
+then, that the use of i- is lexically, rather than phonologically or grammatically,
+motivated.(137) a. [[Ken kr] krat] õ
+kri
+ru
+rock head stem INDF settlement
+large/plenty
+‘At the foot of this hill lay a large settlement...’
+(Lit.: ‘the stem of a head of rock’ = “foot of the hill”)ne
+PRTb. I-krat
+km m
+me
+kt
+pa
+j-are ja
+kt
+ar
+3-stem
+3.LOC 3
+PL
+3.ERG 1
+rp-tell DEM 3.ERG thus
+‘In the beginning that’s how they used to tell us [our story], that’s how it
+used to be...’
+(138) Km “n,
+3.DAT yesnawaRLSDUØ-kkapaØ-wr
+3-ALLTneØ-udeCNJ.SS 3-capturetatak ke
+ami pubu”
+tap
+PURP RFLX see
+‘So she told them, “Well, you’re going to go there and catch them, rip off
+their skin and tap them with salt, so they’ll learn a lesson.”
+neCNJ.SS 3-skin ripnekacwarte
+goCNJ.SS salt182The prefixes i- and ku- are also found as formatives in stems from all three
+classes. There is a set each of noun, verb and postposition stems that include the
+formative i- (sections 3.1.1.2 and 3.1.2.2). The formative ku- does not seem to occur on
+postpositions, except – hypothetically – as the source of the suppletive forms found in
+some postposition paradigms. The distinction between person prefixes as productive
+morphology and i- and ku- as formatives resides in the fact that stems containing either of
+these formatives may be inflected for (any) person.
+An accusative person prefix is in complementary distribution with its referent
+noun phrase, as seen above. The pattern with descriptives seems more like one of
+agreement, since both the prefix and an independent pronoun indicate the same referent
+in the clause (section IV.2.3); however, it is the prefix that actually encodes the argument
+of a descriptive: in casual speech, the independent pronoun may be omitted, but not the
+prefix (see chapter IV).","[194, 195, 196]"
+"277As already mentioned, the use of subordination for the expression of
+complementation requires that the subordinate verb be in its nonfinite form. The
+subordinate clause occupies some position between the matrix verb, which occurs in final
+position, and the positional clitics normally occupying sentence-initial position. Since
+the complement-taking verbs noted all involve the use of a postposition for marking one
+of the core arguments (which could be either A or O, depending on the verb), it is often
+the case that the clausal complement will be immediately preceded by this case marker,
+when A is the noncanonically marked argument.
+The examples in (1.a-d) illustrate the parallel distribution of clausal complements
+with that of an O noun phrase. The noun phrase in (1.a) occurs immediately preposed to
+the matrix verb (which therefore displays its relational prefix-equivalent form pubu) and
+postposed to the dative phrase that indicates the A argument of the verb in question.
+In (1.b-c), the subordinate verbs are transitive and intransitive, respectively; the
+internal structure of the clausal complement thus reflects this difference in transitivity.
+Comparing (1.b) with (1.d), in which both subordinate verbs are transitive, it is possible
+to notice the presence of the ergative marker in the latter, but not in the former. The
+ergative case marker in (1.d) indicates that the A argument of the subordinate verb is not
+coreferential with that of the matrix. The subordinate A arguments is thus overtly
+expressed in the embedded clause.(1) a. nai-m [kuke]
+RLS
+1-DAT cotia
+‘I’m afraid of cotia.’p-uba
+RP-fear278b. i-m [kuke
+krer] p-uba
+1-DAT cotia
+eat.NF RP-fear
+‘I’m afraid of eating cotia meat [and getting sick].’
+c. i-m [i-c-prer]
+puba
+1-DAT 1-RP-irritable RP.fear
+‘I’m afraid of becoming violent [e.g. due to alcohol].’
+d. i-m [me karõ kt
+i--ir
+1-DAT INDF soul 3.ERG 1-RP-watch
+‘I’m afraid that spirits might spook me.’ja]p-ubaDEF.ARTRP-fearIn (2-3), one will notice that the inflectional pattern of the complement-taking
+verb is slightly different than that of (1). In (1), the matrix verb stem follows a transitive
+pattern of inflection, whereas in (2), the matrix verb follows a descriptive pattern of
+inflection. That is, in (2), the first argument of the matrix verb is indicated by both an
+independent pronoun (when it occurs) and the person prefix attached to the verb. In its
+turn, the dative marker attaches to the constituent that refers to the (noncanonically
+marked) O argument of the verb in question. When that constituent is a clausal
+complement, the dative marker follows the final boundary of the subordinate clause.","[290, 291, 292]"
+"The list certainly includes criteria that cannot be taken to the letter, or, as Dixon
+and Aikhenvald put it, they must be “tempered by a number of caveats”. In the case of
+Apinajé, at least two of those certainly do not apply, namely, criteria (d, e). As will be
+seen, relational prefixes, for instance, can certainly appear more than once in a word
+(section 3.1.2.4, example (63)). In addition, a relational prefix must necessarily co-occur89with a person prefix in the context of a vowel-initial stem; and both relational and person
+prefixes are inflectional morphemes in Apinajé.
+Dixon and Aikhenvald call attention to the fact that a phonological word – or, the
+word as defined by its phonological properties – in a given language, may or may not
+coincide with a grammatical word in the same language. Thus, a grammatical word may
+consist of more than one phonological word or, likewise, a phonological word may
+consist of more than one grammatical word. In the first case, they cite the example of
+Yimas (Foley 1991: 86, cited in Dixon and Aikhenvald 2002), in which compounds
+(grammatical words) are composed of more than one phonological word (the
+participating nouns), in that they bear individual primary stresses. As an illustration of
+the second case, they cite examples of one positional clitic in Dyirbal (p. 27-28).
+In Apinajé, as will be seen, a grammatical word may comprise more than one
+phonological word. The grammatical and phonological criteria for the delimitation of the
+word in Apinajé are addressed next.","[102, 103]"
+"RLSpa
+ami=t-
+aba
+1
+RFLX=RP-INSTR
+miss<INTR>
+‘I miss (feel the absence of) myself.’FCT(105) a. napa
+ic-t ami=pr k
+RLS 1
+1-ERG RFLX=look.like<TR>
+‘I look like myself.’b. naneRLSpa
+i-m ami=puba
+1
+1-DAT RFLX=fear<TR>
+‘I’m scared of myself.’FCT(106) a. napa
+a-m i-j-abatper
+RLS 1
+2-DAT 1-RP-remember
+‘I’m thinking about/remember you.’b. napa
+ami=m
+i-j-abatper
+RLS 1
+RFLX=DAT
+1-RP-remember
+‘I’m remembering myself (i.e. thinking about what I’ve done)’c. napa
+ami=kam
+1
+RFLX=INSV
+‘I’m angry at myself’
+RLSi-grk
+1-angry4.7.3. Coreferential deletion
+Onishi (2001) observes that languages with clear syntactic derivations have
+constraints on many clause-linking devices; for instance, they may required that one of
+two coreferential arguments be deleted in such contexts (what Dixon 1994 terms “pivot
+conditions”). Languages in which semantic roles dominate the process typically lack
+these constraints, whereas languages with noncanonically marked arguments have an271intermediary status. In general, noncanonically marked A/S are more likely to control
+pivot constraints than to become targets of such constraints. Some languages allow
+predicates with non-canonically marked A/S to occur both in the main and the
+complement clause. In general, restrictions on the occurrence of predicates with
+noncanonically marked arguments are more likely to apply when they function as target
+of coreferential deletion in the complement clause.
+In Apinajé, most, if not all complement-taking verbs are noncanonical predicates.
+There seems to be no restrictions as far as the occurrence of noncanonical predicates in
+complement positions either. Under coreferentiality conditions, all relevant arguments are
+marked with person prefixes on the verb and the postposition, as applicable. However, no
+independent pronouns occur in the subordinate clause, that is, there is A/S coreferential
+deletion. On the other hand, when there is no coreferentiality between A and/or S of both
+clauses, the occurrence of the ergative marker in the subordinate clause is obligatory.(107) a. i-m
+kag puba
+1-DAT
+snake RP.fear
+‘I’m afraid of snakes.’
+b. i-m
+[kuken krer] puba
+1-DAT
+cotia eat.NF RP.fear
+‘I’m afraid of eating snakes (and getting sick, e.g.)’
+c. i-m
+[a-kam
+i-grk]
+1-DAT
+2-INSV
+1-angry
+‘I don’t want to be angry with you.’prm ket=ne
+wish NEGd. i-m
+[a-t [ic-kam
+a-grk]
+1-DAT
+2-ERG 1-INSV
+2-angry
+‘I don’t want you to be angry with me.’ja]
+DEFprm ket=ne
+want NEG272e. nam]RLSka
+[[ic-kam
+a-grk]
+2
+1-INSV
+2-angry
+‘You’ve stopped being angry with me.’DATa--ur
+2-RP-abandon4.8. Conclusions
+At this point, sufficient evidence has converged to argue for a convincing
+grammatical category of Subject, a morphologically heterogeneous category that is united
+by syntactic behaviors. In future research, this category might become even stronger, as
+the database lacked examples of noncanonical predicates with noun phrase coordination,
+in sentences that engage the switch reference system, and in valency-changing
+derivations. In any of these, the noncanonical A arguments might share yet one more
+syntactic pattern with the canonical A.
+In contrast, the search for syntactic properties that distinguish the categories of
+Direct Object and Indirect Object was unsuccessful, leaving a potentially interesting topic
+for future research.","[284, 285, 286]"
+"84grr=-õ=cw
+‘singer’
+dance.NF=RP-gen=NMLZ.AG(4)ka e
+ka õ
+kabro
+ku e
+ku õ
+õkr
+õkw
+õpt< grer ‘sing; dance’‘confine; dam; obstruct’
+‘wash soft or granulated O’
+‘blood; menstruate’
+‘stand in vertical position [PL.S]’
+‘wash firm O’
+‘throat’
+‘home’
+‘roll end over end; tumble’1.2. Affixes
+Inflectional and derivational affixes are often monosyllabic morphemes whose structure
+is restricted to the V(C) and CV(C) syllable patterns. Certain inflectional affixes may
+consist of a single consonant, as is the case with relational prefixes and nonfiniteness
+suffixes (sections 4.1.2. and 4.1.3.). Affixes do not display any particular stress
+properties in Apinajé; they simply contribute segmental material to the phonological
+word, submitting to the overall stress rule applicable to that word. The verb pi ‘kill’ is
+inflected for person in (5). The finite form of the verb is shown in (a), and its nonfinite
+form in (b).(5) a. ic-pi
+a-pi
+ku-pi[ic pi]
+[a pi]
+[gu pi]‘kill me’
+‘kill you’
+‘kill it’b. ic-pi-r[ic pi ]‘kill me’85a-pi-r
+Ø-pi-r[a pi ]
+[ pi ]‘kill you’
+‘kill it’Formatives display the same structural properties as affixes, certainly because
+they too were affixes at an earlier stage in the development of the language. For instance,
+it is possible to identify personal prefixes that have been reanalyzed as part of some
+stems, which take productive inflectional morphology at the synchronic level (6).(6) a. kupe
+a-kupe
+b. ipok
+pr n-ipok ri[gu pe]
+[agu pe]‘touch’
+‘touch on you’< ku- ‘3’[i pogo]
+‘core’
+< i- ‘3’
+[ p ni pog ri] ‘in the core of the forest’1.3. Clitics
+Clitics may be of three kinds: positional clitics, phrasal clitics and word clitics, all of
+which display specific stress properties and, like the roots, may come in any of the
+syllable patterns available. Positional clitics occupy specific slots in the structure of the
+clause, and they usually encode grammatical categories that pertain to the proposition as
+a whole, such as mood, tense, aspect and the like (7). Few phrasal clitics indicate the
+initial boundary of a phrase; the tendency is for them to occur phrase finally (8). The
+same is true of word clitics, except that their structural domain is restricted to the
+(grammatical) word (9).22As mentioned in footnote 3 of chapter II, throughout this dissertation I will use the symbol “=” to indicate
+clitic boundaries, but only in the case of word clitics. Positional (phrase and clause) clitics will be simply86(7) a. pa
+na
+pa
+im at
+pkap ja
+1.EMPH RLS 1
+1.DAT 2.ERG earth DEF
+‘It is I who don’t want you to lie on the ground.’
+b. ce!","[97, 98, 99, 100]"
+"27confluence of the Tocantins and Araguaia Rivers in the north,16 traditional Apinajé
+territory (Nimuendajú 1983).172.1. Genetic affiliation
+Apinajé is classified as a Northern Jê language, along with Panará, Suyá, Kayapó, and
+Timbira. Other branches of the family are Central Jê, which includes the Akwe
+languages (Xavante and Xerente) and Southern Jê, consisting of Kaingáng and Xokléng.
+Most Jê languages are spoken in cerrado areas, with the exception of Kayapó and Suyá,
+spoken in rainforest areas (see e.g. Rodrigues 1986; 1999).
+A brief examination of data from Apinajé, Suyá, Kayapó and Timbira may reveal
+the many differences (e.g. prenasalized stops, nominative case-marking in independent
+clauses) and similarities (e.g. simple morphology, SOV word order, ergative marking in
+subordinate clauses) existing among them. Panará, on the other hand, is dramatically
+distinct from the other languages of the branch. It displays a more polysynthetic
+morphological typology, with agent, patient and tense/aspect/modality (TAM) marking on
+the verb; ergative marking in independent clauses and SVO word order, among other
+things.1816The area is known in Brazil as “Bico do Papagaio” (‘the parrot’s beak’).","[40, 41]"
+"113(43)ipok=-õ=cw
+core=RP-GEN=NMLZ‘people from the center [social organization]’go=-õ=cw
+water=RP-GEN=NMLZ‘water creature’grr=-õ=cw
+dance/sing.NF=RP-GEN=NMLZ‘singer’ (“one that belongs to singing”)In all above cases, primary word stress falls on the nominalizer.
+One set of nouns includes prefixes that occur more productively in verbs, namely,
+the middle prefixes (a-, aw-, am-; see section 3.1.2.4). When attached to verbs, these
+prefixes typically result in detransitivization of the base. A similar result holds with
+nouns, in that the valency of the noun may also be reduced: inalienable nouns become
+alienable after the derivation (44.a). There is one instance in which the opposite is true,
+with the derivation departing from an alienable noun (44.b). Other cases involve the use
+of verbal roots as bases, a role that may be performed by transitive, intransitive or
+descriptive verbs (44.c-d). Sequences of morphemes belonging to the “middle
+inventory,” such as aw- and am-, apply to these verbal bases for noun derivation.(44) a. akro
+-kro‘vine; shrub (AL)’
+‘vine; shrub (INAL)’akr
+-kr‘hole (AL)’
+‘orifice; hole (INAL)’akuni
+-kuni‘closed jungle (AL)’
+‘all (INAL)’b. -ago
+go‘saliva; drool (INAL)’
+‘water (AL)’114c. abak
+bad.‘ear’
+‘hear; know; fear’ (TR)agrri
+grr‘prayer’
+‘sing.NF’ (INTR)amgr
+gr‘drought; dry season’
+‘dry’ (DSCR)awrwrk
+rrk‘gully’
+‘soft’ (DSCR)Finally, the other derivational strategy commonly used in the formation of nouns
+is conversion, based either on finite or nonfinite verb forms ((26); section 2.3.4).
+Reduplication is employed as a marginal strategy in the formation of noun stems (25).","[126, 127, 128]"
+"IntroductionFor the unacquainted observer, Apinajé may appear as a morphologically plain language
+of the analytic kind, consisting of rather short words, and having much of its grammatical
+categories expressed by function words rather than bound morphemes. That impression
+is justified: Apinajé morphemes are monosyllabic indeed, and the grammatical
+categories found in the language are often expressed by function words that may or may
+not be phonologically dependent, or by syntactic constructions that often times employ a
+subset of these very function words.
+However, Apinajé words are not necessarily monomorphemic – nor
+monosyllabic, for that matter. Words consisting of more than one syllable usually consist
+of as many morphemes; and Apinajé morphology is rather rich, especially in regard to
+content words. Thus, Apinajé may be typologically characterized as an agglutinating
+language of analytic spirit, with compounding and prefixation playing major roles in
+word formation. The predominance of prefixes over suffixes is reminiscent of the fact
+that Apinajé is a head final language: syntactically dependent elements serve as a
+diachronic source for phonologically dependent ones.",[95]
+"x
+TABLE OF CONTENTS
+ChapterPageI. INTRODUCTION ........................................................................................................1
+1. The Apinajé people .............................................................................................3
+1.1. Geographical and environmental considerations .......................................5
+1.2. History..........................................................................................................8
+1.2.1. Contact ...............................................................................................11
+1.2.2. Socio-economic repercussions of intensified contact.......................14
+1.2.3. Land rights and national development ..............................................18
+1.3. Apinajé society in the twenty-first century ..............................................22
+1.4. Language contact situation........................................................................23
+1.5. The school system .....................................................................................24
+2. The Apinajé language .......................................................................................26
+2.1. Genetic affiliation .....................................................................................27
+2.2. Documentational material and previous studies .......................................28
+3. Methodological considerations and fieldwork conditions................................29
+4. Transcription and other conventions used in the dissertation ..........................33
+II. PHONOLOGY ..........................................................................................................35
+0. Introduction .......................................................................................................35
+1. Phonemic system ..............................................................................................36
+1.1. Consonant phonemes ................................................................................37
+1.1.1. Plosive phonemes ..............................................................................43
+1.1.2. Continuant phonemes ........................................................................55
+1.1.3. Approximant phonemes ....................................................................57
+1.2. Vowel phonemes ......................................................................................60
+2. Syllable structure ...............................................................................................67
+2.1. Phonotactic constratints.............................................................................68
+3. Stress system .....................................................................................................71
+4. Phonological rules .............................................................................................73
+4.1. Assimilation ..............................................................................................73
+4.2. Dissimilation..............................................................................................75
+4.3. Insertion .....................................................................................................76
+4.4. Compensatory lengthening........................................................................77
+4.5. Prosodies ....................................................................................................78
+5. Summary of properties of the phonological word ............................................80III. MORPHOLOGY .....................................................................................................81
+0. Introduction .......................................................................................................81xi
+1. Morphological units ..........................................................................................82
+1.1. Roots ..........................................................................................................82
+1.2. Affixes........................................................................................................84
+1.3. Clitics .........................................................................................................85
+2. Word ..................................................................................................................87
+2.1. Phonological word ....................................................................................89
+2.2. Grammatical word .....................................................................................91
+2.3. Word-formation strategies.........................................................................92
+2.3.1. Affixation...........................................................................................92
+2.3.2. Vowel alternation ..............................................................................94
+2.3.3. Reduplication .....................................................................................94
+2.3.4. Conversion .........................................................................................98
+2.3.5. Suppletion ..........................................................................................99
+2.3.6. Compounding ....................................................................................99
+3. Word classes ...................................................................................................106
+3.1. Lexical categories ...................................................................................106
+3.1.1. Nouns ...............................................................................................107
+3.1.1.1. Morphosyntactic classes ........................................................107
+3.1.1.2. Morpho-semantic classes .......................................................109
+3.1.1.3. Compound nouns....................................................................111
+3.1.1.4. Derived nouns.........................................................................111
+3.1.2. Verbs ................................................................................................114
+3.1.2.1. Morphosyntactic classes ........................................................115
+3.1.2.2. Morpho-semantic classes .......................................................116
+3.1.2.3. Lexical pairs ...........................................................................128
+3.1.2.4. Derived verbs..........................................................................130
+3.1.3. Postpositions ....................................................................................139
+3.1.4. Adverbials........................................................................................150
+3.2. Grammatical categories ..........................................................................158
+3.2.1. Pronouns ..........................................................................................158
+3.2.2. Clitics ...............................................................................................169
+3.2.2.1. Mood.......................................................................................170
+3.2.2.2. Tense.......................................................................................171
+3.2.2.3. Aspect .....................................................................................171
+3.2.2.4. Movement...............................................................................172
+3.2.2.5. Number ...................................................................................172
+3.2.2.6. Reflexive and reciprocal ........................................................173
+3.2.2.7. Causative ................................................................................177
+3.2.2.8. Nominalizers...........................................................................178
+3.2.2.9. Ergative...................................................................................178
+3.2.2.10. Diminutive and augmentative..............................................178
+3.2.2.11. Evidentiality .........................................................................179
+4. Morphology ....................................................................................................179
+4.1. Inflectional categories .............................................................................179xii
+4.1.1. Person...............................................................................................179
+4.1.2. Relational prefixes...........................................................................182
+4.1.3. Nonfiniteness ...................................................................................190
+4.2. Derivational categories .........................................................................................195IV. SYNTAX ...............................................................................................................196
+0. Introduction .....................................................................................................196
+1. Criteria for the establishment of constituency ...............................................197
+2. Phrase structure................................................................................................198
+2.1. Noun phrase ............................................................................................199
+2.2. Postpositional phrase ...............................................................................214
+2.3. Verb phrase ..............................................................................................218
+3. Clause structure................................................................................................223
+3.1. Mode distinctions ....................................................................................224
+3.2. Speech-act distinctions ............................................................................226
+3.3. Verbal clauses ..........................................................................................228
+3.3.1. Canonical predicates........................................................................229
+3.3.2. Noncanonical predicates..................................................................230
+3.4. Clauses with nominal predicates .............................................................242
+3.4.1. Proper inclusion predicates .............................................................242
+3.4.2. Equative predicates..........................................................................243
+3.4.3. Possessive predicates.......................................................................244
+3.5. Locative predicates ..................................................................................247
+3.6. Existential predicates...............................................................................248
+3.7. Negation...................................................................................................248
+4. Grammatical relations......................................................................................253
+4.1. Person marking ........................................................................................256
+4.2. Imperatives...............................................................................................257
+4.3. Reflexivization.........................................................................................258
+4.4. Noun phrase coordination and the realis marker ....................................258
+4.5. Switch reference ......................................................................................259
+4.6. Valency-changing operations..................................................................260
+4.6.1. Detransitivization.............................................................................260
+4.6.2. Causativization ................................................................................261
+4.7. Grammatical relations and noncanonical predicates in Apinajé ............268
+4.7.1. Imperatives.......................................................................................268
+4.7.2. Reflexivization.................................................................................269
+4.7.3. Coreferential deletion ......................................................................270
+4.8. Conclusions..............................................................................................272xiiiV. COMPLEX CONSTRUCTIONS ...........................................................................273
+0. Introduction .....................................................................................................273
+1. Complementation ............................................................................................276
+2. Relativization ..................................................................................................281
+3. Comparative of superiority..............................................................................285
+4. Inchoative aspect: kacw..................................................................................287
+5. Adverbial clauses.............................................................................................289
+5.1. Ri constructions ......................................................................................289
+5.2. The postposition kutep ............................................................................292
+6. Progressive aspect............................................................................................293
+VI. CONCLUDING REMARKS ................................................................................297
+APPENDIX
+A. SELECTED MAPS ................................................................................................301
+B. SAMPLE COLLECTION OF TEXTS ..................................................................304
+C. APINAJÉ DICTIONARY ......................................................................................360
+D. LIST OF ABBREVIATIONS .................................................................................421
+BIBLIOGRAPHY .............................................................................................................424xiv
+LIST OF TABLES
+TablePageII.1. APINAJÉ CONSONANT PHONEMES ............................................................................38
+II.2. APINAJÉ VOWEL PHONEMES ....................................................................................60
+II.3. CONSONANTS IN COMPLEX-ONSET CLUSTERS .........................................................69
+III.1. PERSON PRONOUNS ...............................................................................................159
+III.2. PERSON PRONOUNS: Emphatic vs. Nonemphatic forms ......................................163
+III.3. PERSON PREFIXES: VERBS ....................................................................................180
+III.4. PERSON PREFIXES: NOUNS ....................................................................................180
+III.5. PERSON PREFIXES: POSTPOSITIONS .......................................................................1801CHAPTER IINTRODUCTION
+The purpose of this dissertation is to present a description of the language spoken by the
+Apinajé, one of the Northern Jê peoples of Central Brazil. The study is based on original
+data collected by the author in various trips to the field between October 1995 and
+August 2000, as well as in interviews with speakers of the language in the city of
+Goiânia, Goiás State, Brazil. Rather than a definite account of the language, this work is
+intended as the kernel of what will evolve into a more comprehensive grammar as further
+analysis is conducted; for the time being, my main goal is to lay out as many patterns as
+can possibly be distilled from the available data, regarding the phonology, morphology,
+lexicon, and syntax of the language. From a broader perspective, I hope this study will
+serve as an effective source for historical-comparative work aiming at the reconstruction
+of the Jê linguistic family, and thus constitute an additional piece for the better
+understanding of the Macro-Jê stock, a still hypothetical classification for a number of
+little-documented South American languages.
+The dissertation discusses the principal facts about Apinajé and includes three
+appendices: selected maps, a sample collection of texts and a preliminary dictionary. The
+remainder of this chapter presents general information about the Apinajé people,
+including some details about their culture and social organization; geographical,
+historical, and demographic facts; observations about language contact situations and the2school system available in the communities; as well as details about the genetic affiliation
+and previous studies done on the language. Methodological considerations and
+information about the database for the study, as well as conventions used in the text, are
+also presented in this chapter.
+Because most previous studies focus on the phonology of Apinajé, the core of my
+research project has been devoted primarily to the study of its grammar. Nonetheless,
+facts about its phonology and morphophonology were also captured during my time in
+and out of the field. These observations are presented in Chapter II, along with a
+discussion of previous literature on Apinajé phonology. Chapter III is an introduction to
+Apinajé morphology in which the relevant morphological units and categories are
+presented. Chapter IV presents the syntactic and morphosyntactic properties of phrases
+and simple clauses. Subordination, serialization and other kinds of complex
+constructions are discussed in Chapter V. Chapter VI is the concluding section; it
+summarizes the major facts about Apinajé discussed in this work, includes some
+language internal hypotheses about the development of certain forms and structures, and
+points to areas that deserve further investigation. Illustrative maps regarding the history
+and geographical distribution of the Apinajé are found in Appendix A. Appendix B
+provides three text samples: a traditional story, a personal experience narrative, and an
+instructional narrative. Appendix C, the Apinajé Dictionary, was created out of the
+material available the general database I started in 1995, in addition to the items I
+collected primarily my the lexicographical project. Appendix D is a list of abbreviations
+used in the glosses.","[9, 10, 11, 12, 13, 14, 15, 16]"
+"(25)[[[go -ikje] ]
+me
+di
+jaja]
+km ape
+water RP-side LOC PL
+women DEF.RDPL
+3.DAT work.NF
+‘The women from the other side of the river like to work.’prm.
+wishDeterminers. Of the determiners found in noun phrases, only demonstrative pronouns
+may replace the noun phrase headed by a postposition. Otherwise, in the absence of a
+full noun phrase, it is a person prefix or the reflexive or reciprocal clitics that attach to the
+postposition, serving as cross-reference markers (26).(26) a. jakamDEF.ARTb.atpe
+RCPR‘for that reason (lit.: ‘in this’)INSVt-
+RP-INSTRc. ku-rum
+3-ABL‘with one another’‘from it’Quantifiers. The plural and dual clitics may each co-occur with a postposition that is
+inflected for person. In this case, the quantifier clitic is actually modifying the (referent
+of the) person prefix attached to the postposition, and occurs preposed to it. Most
+postpositions take a zero prefix for third person; others have irregular third person forms
+(see diachronic hypothesis in section III.3.1.3). In these cases, the quantifier occurs
+preposed to the postposition itself (27).",[229]
+"141I--õ
+bkwrtti
+na
+i-kukrac
+1-RP-GEN beans
+RLS
+1-pan
+‘My beans are inside my covered pan.’(75)n-itmr
+RP-lidkam ca
+INSV standTraditionally, the marker of alienable possession o has been analyzed in many Jê
+languages as the noun for ‘thing’ (cf. e.g. Ribeiro (2004) and references therein). Even
+though this may be true from a diachronic point of view, evidence indicates that
+synchronically this is not the case in Apinajé. This morpheme õ – not to be confused with
+the indefinite article õ – is limited in distribution to genitive constructions: it does not
+occur anywhere as an independent lexical item. In addition, there are other words that
+presently encode the meaning ‘thing’: bj ‘thing’ and kukre ‘belongings’ (76.a-b).m=bj
+
+RLS HAB
+PL<INDF>=thing
+LOC
+‘Things are inexpensive [around here].’(76) a. Natgre=r
+few=DIMb. Naic-pe ic-kukre
+krakra pa.
+1-DTR 1-belongings break CNCL
+‘S/he broke all my things [to my detriment].’RLSDative m. The dative postposition m also indicates the benefactive and may operate as
+allative or locative, as is crosslinguistically common. Besides occurring with noun
+phrases, the dative postposition is also used as a subordinator in purpose clauses (section
+IV.2.2).","[154, 155]"
+"THE LANGUAGE OF THE APINAJÉ PEOPLE OF CENTRAL BRAZILby
+CHRISTIANE CUNHA DE OLIVEIRAA DISSERTATION
+Presented to the Department of Linguistics
+and the Graduate School of the University of Oregon
+in partial fulfillment of the requirements
+for the degree of
+Doctor of Philosophy
+August 2005ii“The Language of the Apinajé People of Central Brazil,” a dissertation prepared by
+Christiane Cunha de Oliveira in partial fulfillment of the requirements for the Doctor of
+Philosophy degree in the Department of Linguistics. This dissertation has been approved
+and accepted by:____________________________________________________________
+Dr. Spike Gildea, Chair of the Examining Committee________________________________________
+DateCommittee in Charge:Dr. Spike Gildea, Chair
+Dr. Scott DeLancey
+Dr. Susan Guion
+Dr. Doris Payne
+Dr. Philip YoungAccepted by:____________________________________________________________
+Dean of the Graduate Schooliii© 2005 Christiane Cunha de OliveiraivAn Abstract of the Dissertation of
+Christiane Cunha de Oliveira
+in the Department of Linguisticsfor the degree ofDoctor of Philosophyto be takenAugust 2005Title: THE LANGUAGE OF THE APINAJÉ PEOPLE OF CENTRAL BRAZILApproved: _______________________________________________
+Spike GildeaThe dissertation is a preliminary grammatical description of the language spoken
+by the Apinajé, one of the Northern Jê peoples of Central Brazil. It discusses the core
+facts about Apinajé phonology, morphology and syntax from a functional-typlogical
+perspective, and provides three appendices: selected maps, a sample collection of texts
+and a preliminary dictionary. The phonological analysis proposes an alternative
+interpretation for the inventory of phonemes as compared to earlier analyses, pointing to
+phonemic distinctions not previously noted, which might lead to interesting findings
+regarding the historical development of the language. Apinajé morphemes are typically
+monosyllabic and the language makes ample use of function words for the expression of
+grammatical categories, properties that are characteristic of analytic languages.
+Nonetheless, Apinajé morphology is more complex than it might seem at first, especially
+with respect to the major lexical categories of the language: Nouns, Verbs andv
+Postpositions. These word classes, especially Nouns and Verbs, are characterized
+morphologically by the presence of formatives, which are recurrent morphs that are either
+semantically empty or of elusive meaning, but which subcategorize words in formal or
+semantic terms. The categories of nonfiniteness, person, and syntactic constituency
+constitute the core of inflectional morphology, the last applying to nouns, postpositions,
+and verbs. Verbs are subcategorized morphosyntactically into transitives, intransitives
+and descriptives, displaying a split intransitivity system with respect to verbal personmarking. Word order is predominantly SOV. Syntactically complex constructions
+include verb serialization and clause subordination, with ergative case-marking a
+characteristic of subordinate clauses.","[1, 2, 3, 4, 5]"
+"2293.3.1. Canonical predicates
+The major morphosyntactic classes of verbs, as seen in section III.3.1.2.1, are those that
+comprise (di)transitive verbs, intransitive verbs, and descriptive verbs. It should be noted
+from the start that, for each verb class, specific participants are understood as core
+arguments (A, S, O, E) because they are necessarily required by the verb. However, the
+core argument status of some of these participants may or may not be supported by a
+robust set of grammatical criteria in Apinajé, as will be seen in section 4.
+Transitive and descriptive verbs are inflected for person according to an
+absolutive pattern. In the former class, person prefixes are pronominal, that is, they stand
+for the O argument itself; this is what is referred to here as “cross-referencing”. In the
+latter class, person prefixes agree with independent pronouns in the indexation of the sole
+argument of the verb, i.e. S.
+Intransitive verbs do not take person inflection in simple clauses, and thus form a
+split intransitivity pattern along with descriptives, as both types are monovalent. The
+split between descriptives and intransitives corresponds in large part to the semantic
+distinction between states as against events and activities, but it is not guided by it. The
+sub-categorization is basically of a morphosyntactic nature (for a detailed discussion
+about descriptive verbs see Oliveira 2003).
+Contrasting to bound person inflection, the use of independent pronouns follows a
+nominative pattern. Indeed, nominative free pronouns are nearly obligatory in any simple230clause. Pronouns express the pertinent (S/A) arguments of all intransitive, descriptive and
+transitive verbs.(47) a. naka
+pr
+t
+RLS
+2
+PST
+HAB
+‘You used to work.’b. nam
+PLka
+a-t-=go
+RLS
+2
+2-RP-LOC=water
+‘You’re sweating’ape
+workne
+FCTc. naka
+ic-kake
+2
+1-scratch
+‘You’ve scratched me.’
+RLSThus, the structure of simple clauses in Apinajé betrays a combination of split
+intransitivity and nominative alignment patterns – all this relative to agreement and crossreferencing, however. It is only in the context of subordination that ergativity is overtly
+expressed by case markers (see chapter V). These patterns comprise the canonical
+marking of arguments in Apinajé verbal clauses.","[242, 243, 244]"
+"2.2. Postpositional phrase
+The structure of postpositional phrases is quite consistent regardless of the
+morphosyntactic properties of the noun phrases involved. Vowel-initial postpositions
+require relational prefixes, as usual. Objects of postpositions may be simplex noun
+phrases, coordinated noun phrases and nonfinite clauses (22-24).(22) a. [i--õkw]
+1-RP-homewrb.[i-õ kukrac]
+1-GEN bowl
+c. [me
+PL‘towards my home’ALLTkam‘in my bowl’INSVdi
+ja]
+woman DEF.ARTkot
+after‘(e.g. go) after the women’(23)ktkaj
+te
+ne
+[[a-n ne
+a-brget]
+m]
+IRLS
+2.IRLS go
+CNJ
+2-KT CNJ
+2-KT
+DAT
+‘You will work for your mother and for your mother-in-law.’(24)pa
+pr
+[[cikar
+1
+PST
+cigarette
+‘I’ve quit smoking cigarettes.’naj-ako]m]RLSRP-smokeDATape.
+worki--ur.
+1-RP-abandonComplex noun phrases, namely, those including relative clauses, may have
+postpositions but are not directly headed by the postposition; in these cases, a person215prefix or third person form of the postposition takes on the role of resumptive pro-form,
+instead (25).","[228, 229]"
+"164The alternation between m õ, wa õ and m u, wa u appears to be phonetically
+motivated; these pronouns seem to result of a combination of the indefinite pronoun õ
+with each of the number markers m and wa.
+In addition to these two pronouns, the form mbj ‘something’ also consists of
+two morphemes, the plural/nonreferential marker m plus bj ‘thing’. This form also
+serves as an interrogative pronoun, as will be seen.(109) a. Ka
+na
+ka
+pr
+ra
+m
+2
+RLS
+2
+PST
+ASP
+another
+‘You have indeed married another.’
+b. Paj
+bri m
+te
+1.IRLS now elsewhere
+go
+‘I’m moving somewhere else.’
+c. Ce,ne
+CNJ
+PRTa-prõ kn.
+2-wife indeedapa
+movem u
+ja
+r
+kacw ami=t-
+a w.
+EXCL EXCL ASP
+someone
+DEM
+enter PURP RFLX=RP-PRT request
+‘There is already someone outside asking to come in.’
+rad. I-m
+m=bj
+j-are pa
+1-DAT
+something
+RP-tell 1
+‘Say something for me to listen.’ku-ba.
+3-hearDemonstrative pronouns. Demonstrative pronouns observed in the database are ja, muj,
+ne, and stems formed with the deitic tar. The latter morpheme occurs in the
+demonstratives ictar ‘here’, atar ‘there.PRX’ and mutar ‘there.DST’. Although the
+morpheme tar is morphologically and semantically comparable to postpositions, in that it165takes person inflection and is deictic in nature, its distribution is restricted to the lexical
+items just presented; that is, tar does not occur productively as head of postpositional
+phrases. In addition, its semantic content is not transparent, if analyzed in isolation.
+The word ja has the primary function of a definite article within a noun phrase;
+muj and atar are demonstratives that operate either as full pronouns or as determiners of
+the noun. The present section focuses on the pronominal role of these markers. For
+details about their function, distribution, and morphological properties within the noun
+phrase, see section IV.2.1. The forms ictar and mutar are used mostly as locatives and are
+not discussed here.
+The semantic contrast between ja and muj is that the former operates as a
+proximal demonstrative pronoun, while the latter is a distal demonstrative. When in
+demonstrative function, ja is typically stressed; thus, the root-initial glide /j/ is realized as
+a voiced alveo-palatal fricative [z]. Ja does not seem to carry any specification as to a
+particular deictic center: it may indicate a referent close to both speaker and listener,
+away from both, or close to either one or the other. On the other hand, muj and atar do
+each refer to a particular deictic center.
+The demonstrative muj ‘that’, which has the alternate form mu (apparently
+phonologically motivated), points to a referent away from listener and speaker. Atar ‘that
+[close to you]’ consists of the second person prefix a- and the deictic morpheme tar. The
+presence of the second person prefix is overt indication of the deictic center for this
+demonstrative.","[177, 178, 179]"
+"422APPENDIX D
+LIST OF ABBREVIATIONS
+1
+2
+3
+ABL
+ACC
+ADJ.DESCR
+ALL
+ALLT
+ART
+ASP
+ASSC
+AUG
+CAUS
+CNCL
+CNJ
+CNJ.DS
+CNJ.SS
+CNTRF
+CNTRP
+COP
+DAT
+DEF
+DEF.PL
+DEM
+DEM.DST
+DEM.PRX
+DIM
+DIR
+DS
+DSCR
+DTR
+DTRZ
+DU
+EMPH
+ERG
+EXCL
+EXST
+FCT
+GEN
+H.T.
+HAB
+HORT- first person
+- second person
+- third person
+- ablative
+- accusative
+- adjective
+- allative
+- allative
+- article
+- aspect
+- associative
+- augmentative
+- causative
+- conclusive
+- conjunction
+- conjunction.different subject
+- conjuntcion.same subject
+- centrigugal
+- centripetal
+- copula
+- dative
+- definite
+- definite.plural
+- demonstrative
+- demonstrative.distal
+- demonstrative.proximal
+- diminutive
+- directional
+- different subject
+- same subject
+- detrimentive
+- detransitivizer
+- dual
+- empatic
+- ergative
+- exclamation
+- existential
+- factive
+- genitive
+- honorific term
+- habitual
+- hortative423HORT.IRLS
+HRS
+IMM
+INCH
+INCL
+INDF
+INSTR
+INSV
+INTR
+INTRJ
+INTS
+IRLS
+K.T.
+LOC
+MOV
+N.
+NEG
+NEG.EXST
+NF
+NMLZ
+NMLZ.AG
+NMLZ.INSTR
+NMLZ.LOC
+NMLZ.LOC/INSTR
+NOM
+NONPL
+PFV
+PL
+PL.O
+PL.S
+PN
+PRMS
+PRT
+PSSR
+PST
+PURP
+QTF
+RCPR
+RDPL
+RFLX
+RLS
+RLVZ
+RP
+SG
+SIMIL
+SS
+TMP- hortative.irrealis
+- hearsay
+- immediative
+- inchoative
+- inclusive
+- indefinite
+- instrumental
+- inessive
+- intransitive
+- interjection
+- intensifier
+- irrealis
+- kinship term
+- locative
+- movement
+- proper noun
+- negation
+- negative existential
+- nonfinite
+- nominalizer
+- nominalizer.agent
+- nominalizer.instrument
+- nominalizer.locative
+- nominalizer.locative/instrument
+- nominative
+- nonplural
+- perfective
+- plural
+- plural O
+- plural S
+- proper noun
+- permission
+- particle
+- possessor
+- past tense
+- purpose
+- quantifier
+- reciprocal
+- reduplication
+- reflexive
+- realis
+- relativizer
+- relational prefix
+- singular
+- similitive
+- same.subject
+- temporal424TMP.DEM
+TR- temporal demonstrative
+- transitive425BIBLIOGRAPHYAikhenvald, Alexandra. 2002. Typological parameters for the study of clitics, with
+special reference to Tariana. In Dixon and Aikhenvald (eds), 42-78.
+Aikhenvald, Alexandra; R.M.W. Dixon; and Masayuki Onishi. 2001. Non-Canonical
+Marking of Subjects and Objects. Amsterdam: John Benjamins.
+Alves, Flávia C. 2002. As obstruintes nasais do Timbira Apãniekrá (mp, nt, ntЀ, ֊k): uma
+abordagem pela Teoria da Otimalidade. UNICAMP manuscript.
+Alves, Flávia C. 2004. O Timbira falado pelos Canela Apãniekrá: Uma contribuição aos
+estudos da morfossintaxe de uma língua Jê. UNICAMP Ph.D. dissertation.
+Bauer, Laurie. Introducing Linguistic Morphology. Edinburgh: Edinburgh University
+Press.
+Benveniste, Émile. 1967. Fundamentos sintáticos da composição nominal. Bulletin de la
+Société Linguistique de Paris, LXII:15-31. [Reprinted in Benveniste 1989].
+Benveniste, Émile. 1989. Problemas de Lingüística Geral II. Campinas: Pontes. [Original
+title: Problèmes de Linguistique Générale II, Éditions Gallimard, 1974.]
+Birmingham, David. 1993. A concise history of Portugal. Cambridge: Cambridge
+University Press.
+Burgess, Eunice and Patricia Ham. 1968. Multi-level conditioning of phoneme variants in
+Apinayé. Linguistics 41: 5-18.
+Buscalioni, Luigi. 1901. Una escursione botanica nell’Amazzonia. Bulletin of the Italian
+Geographical Society IV.2.
+Bybee, Joan; John Haiman; and Sandra Thompson (eds.). 1997. Essays on Language
+Function and Language Type: Dedicated to T. Givón. Amsterdam: John Benjamins.
+Callow, John. 1962. The Apinayé language: Phonology and grammar. University of
+London PhD dissertation.
+Carneiro da Cunha, Manuela. 2004. Povos Indígenas. Brazil: Ministério das Relações
+Exteriores. www.mre.gov.br/cdbrasil/itamaraty/web/port/index.htm (8-24-2005).","[435, 436, 437, 438, 439]"
+"Postpositions. As mentioned previously, oblique participants are targets of reflexivization
+controlled by the subject. In cases of oblique reflexivization, the reflexive pronoun
+attaches to the relevant postposition, which may occur with a relational prefix, as needed.
+Among all postpositions, the dative frequently allows for phonological truncation, being
+realized simply as a bilabial nasal consonant in word-final position. In this case, the
+stress of the reflexive clitic is the relevant one in the phonological word. Compare
+(129.a-b).pa
+a-m ic-kaper
+1
+2-DAT 1-talk
+‘I’m talking to you.’.",[190]
+"Temporal Adverbs. The temporal adverbs j ‘yesterday’, jar  ‘today’ and r 
+‘always’ are based on the morpheme , which could be the locative postposition, only
+with its original semantics extended metaphorically into a temporal notion. If that is the
+case, it is possible that the glide-initial component of the first two stems is the definite
+article ja performing a demonstrative function (section 3.2.1). As for the component r,
+one could imagine it as the real temporal index in the stem, possibly meaning ‘now’.pa pr
+j
+akrec aguprõ.
+1 PST
+yesterday
+trash gather
+‘I gathered the fallen leaves yesterday.’(92) NaRLSThe expression m dpeme ‘long ago’, with the alternate m dapeme, seems to
+include the third person pronoun m. This adverbial expression occurs most often in
+clause (discourse) initial position.",[165]
+"225(42) a. ktkaj
+a-tk
+2.IRLS 2-black
+‘You will get dirty.’
+IRLSb. ktja
+wa
+prek ne
+wa
+bc
+ne.
+IRLS 3.IRLS DU
+tall
+CNJ
+DU
+pretty FCT
+‘They will both grow up and be beautiful.’The form of independent pronouns, which encode the nominative argument of the
+clause, is different in irrealis and realis clauses; except for this detail, other aspects of the
+clause are the same in either clause type.
+Beyond this basic observation, it is also noticeable that kt has a more restricted
+distribution than na. The latter may occur in positions other than clause initially; in such
+circumstances, it is often syntactically associated to noun phrases, indicating either (a)
+that such noun phrases are in focus position – a function common also to the irrealis
+marker (43); or (b) stating the status of the noun phrase as the predicator (under focus) of
+the clause, as illustrated by an example of noun phrase coordination, repeated below as
+(44).(43) a. pa
+na
+pa
+pr
+i-dw
+1
+RLS
+1
+PST
+1-young
+‘(As for me,) I was young then.’
+b. tmnawaDEMRLSDUne
+FCTbc=ti
+pretty=AUG‘Those are pretty!’
+c. pa
+kt
+paj
+zkaber
+1
+IRLS
+1.IRLS N.
+‘I’ll dance with Zecabere.’
+INSTRgr
+dance226(44)irptsir me tj
+dada na
+wa
+i-m kw rc
+gõ
+RLS
+N.
+CNJ HT
+N.
+RLS
+DU
+1-DAT macaxeira
+give
+‘Ireptsi and Dada, both of them have given me some macaxeira (sweet manioc).’
+na3.2. Speech-act distinctions
+The declarative, interrogative and imperative speech-acts correspond to morphological
+and structural distinctions in Apinajé. Declarative clauses have the structural properties
+of the types just introduced.
+Polarity questions may be expressed with exactly the same kind of structure as
+simple declarative clauses, but with a distinct intonation pattern; or the question may be
+introduced by the positional clitic c (alternative form co, depending on the speaker),
+which co-occurs with the mode markers, but at absolute clause-initial position (45.a-b).
+Information questions are naturally introduced by interrogative pronouns, also at clause
+initial position (45.c-d).(45) a. co
+na
+ka
+ra
+Q.
+RLS
+2
+ASP
+‘Are you pregnant yet?’a-tujaro?
+2-pregnantb.co
+kt
+kaj
+ajt a-tujaro?
+Q.
+IRLS
+2.IRLS more 2-pregnant
+‘Will you get pregnant again?’
+c. meõ na
+jari
+tujaro?
+who RLS
+here pregnant
+‘Who is pregnant, here?’227d. 
+na
+w
+õcwa?
+which RLS
+HRS
+sleepy
+‘Which one is sleepy?’There are two strategies for the expression of imperative constructions. One of
+them is the use of an irrealis clause whose nominative participant is the addressee of the
+command (46.a). This strategy is employed when the speaker is making a request or
+giving advice to the addressee. The other strategy is used in more direct commands, and
+that is reflected in the structure of the imperative construction (Haiman 1985; Givón
+2001: 34-35). Here, no mode marker is employed. The proposition is expressed, instead,
+by the bare or inflected form of the verb, depending on its morphosyntactic class. This is
+the only construction type in which a transitive verb may display a nominative pattern of
+inflection (i.e., it takes the second person prefix, as one might expect of an imperative
+context (46.b)).kaj
+i-m me
+ok
+j-akr
+pa
+bu
+IRLS
+2.IRLS 1-DAT PL
+paint RP-show
+1
+see
+‘Show me how to paint so I can see it (i.e. teach me how).’(46) a. ktb.a-pi
+2-kill
+‘Kill it (e.g. game)!’2283.3. Verbal clauses
+Verbal clauses have a structure distinct from nominal ones, not only because they –
+obviously – are centered around verbal predicators, but especially because they involve
+an interesting combination of alignment patterns (cf. section 4).
+In the present discussion, I will be employing the notation A, S, and O, proposed in
+Dixon (1979, 1994) and later expanded to include E, in Aikhenvald, Dixon and Onishi’s
+(2001) framework. The characterization proposed by Dixon for these symbols, as
+representing universal syntactic-semantic primitives, has been critiqued by other
+linguists. Some of the problems that have been pointed out include (a) inadequacies in the
+semantic characterization of these primitives; (b) the fact that their definition is based on
+a mixture of semantic and grammatical properties; and (c) that certain languages do not
+seem to follow these kinds of patterning, and therefore such primitives should not be
+regarded as universal (Mithun and Chafe 1999; Comrie 1978; 1989). Nonetheless, these
+symbols are amply used in the literature as a means to refer to core arguments of
+transitive and intransitive verbs.
+Keeping in mind the problems raised in the literature regarding the theoretical
+implications carried by these symbols, in the present discussion I will use them more as
+useful mnemonic devices than as strict theoretical constructs. On the other hand, I will
+follow the typology proposed in Aikhenvald, Dixon and Onishi (2001) when laying out
+patterns of participant marking noted in Apinajé. Once these patterns have been laid out,
+I will propose a set of language internal criteria for identifying what relevant grammatical
+relations there are in Apinajé (section 4; cf. Dryer 1997).","[238, 239, 240, 241, 242]"
+"160ka
+ktm ari
+RLS
+2
+still stay
+‘You are still eating.’(102) a. Naapku
+eat[pa
+m]
+ra
+pi
+k
+1
+PL
+ASP
+tree
+cut
+‘We (exclusive) have already torn down the trees.’b.NaRLSc. Napa
+ra
+ku-ku
+1.INCL ASP
+3-eat
+‘We (inclusive) have already eaten.’
+RLS(103) a. Ktam.
+IRLS
+HORT.IRLS
+wait
+‘We shall wait [in the hospital].’
+pujb.Ma-kri
+[pu
+m]
+pa
+kri.
+PL
+2-sit.PL
+HORT PL
+1.INCL sit.PL
+‘Have a seat, you all, let’s have a seat and gather.’In pragmatically marked use, a token of the pronoun occurs outside the clitic
+sequence; in fact, it precedes the sequence clause initially. When the pronoun is thus
+placed under focus, it is stressed, and morpheme initial plosives are necessarily voiceless.
+Notice that only the realis form of pronouns participates in this strategy.(104) a. Pa
+kt
+paj
+Zkabeti
+
+gr
+rac
+1
+IRLS
+1.IRLS N.
+INSTR dance QTF
+‘It’s me that I want to dance all night with Zé Cabere.’
+b.Pa
+na
+pa
+ic-ki
+1
+RLS
+1
+1-merry
+‘It’s me that I am really happy!’ne
+FCTc. Ka
+na
+ka
+t
+ari
+a-m kaga
+2
+RLS
+2
+HAB
+stay 2-DAT lazy
+‘You, you’ve been utterly lazy to this day!’a-pa
+2-livekumrc
+INTS161m=bj
+pit
+3
+PL=thing
+all
+‘That one, he is afraid of everything!’d.JaDEMnamRLSuba!
+fearAlthough it is frequently true that the same pronoun is presented twice in the
+clause – once for focus and once as the nominative –, as shown in (104), that is not
+necessarily the case: the pronoun/referent in focus position may be distinct from that in
+nominative position (105).","[173, 174, 175]"
+"237(53)A-ERG O-ACCt/kt bar
+t/kt bu/pubu
+t/kt ur k/pr k‘understand; comprehend’
+‘know; learn’
+‘behave in similar way’(54) a. ic-t a-bari
+ket
+1-ERG 2-understand NEG
+‘I cannot understand you.’
+b. ic-t a-pubui.
+1-ERG 2-see.NF
+‘I know you.’The motivation for these verbs to occur in their nonfinite forms is not clear yet;
+further data and analysis are still needed for a better understanding of the occurrence of
+nonfinite forms in what otherwise appear to be simple clauses (cf. section V.4).
+The next set of patterns could be analyzed in two different ways: either they
+present a noncanonical O or they present formally intransitive predicates with an
+obligatory oblique argument (E) instead of an O. In favor of the former analysis is the
+obligatory nature of the second argument. In favor of the latter analysis is the fact that the
+putative A for some verbs follows the standard A/SA pattern (unmarked, clause-initial);
+but for other verbs, it follows the pattern for subjects of descriptives (clause-initial
+nominative pronoun, SO verbal prefix).
+The verbs shown in (55) are based on intransitive stems, which take no person
+marking. Thus, both arguments of the predication must be marked outside the verb stem.
+For this set in particular, the A/SA argument is indicated with the nominative free pronoun,238and the O argument is marked with either the dative, instrumental, locative or inessive
+postpositions. These are mostly utterance verbs, in addition to one emotion verb.(55) a.","[250, 251, 252]"
+"Ebc
+good
+donõ
+lieVerb arguments may be expressed by full noun phrases within the verb phrase or
+by person prefixes; either way, vowel-initial predicators must take relational prefixes.
+Relational prefixes, as already mentioned, indicate distributional contiguity and syntactic
+constituency between the elements of the phrase. When such contiguity is breached, the
+relevant argument is understood as being under focus, as it occurs elsewhere in the
+clause. In the case of transitive, monosyllabic predicators, an argument under focus is
+replaced in the verb phrase by the third person accusative prefix ku-, which serves as a
+resumptive pronoun (35-36).",[233]
+"Genitive constructions. The structure of a genitive construction is determined by the
+subclass – alienable or inalienable – of the head noun (section III.3.1.1.1). Thus, a noun
+phrase headed by an inalienable noun is characterized structurally by juxtaposition (1.a-b)
+or, if person prefixes are involved, by prefixation on the head noun (1.c-d); in either case,
+a relational prefix occurs between a vowel-initial head and its dependent noun or person
+prefix.(1) a. kuwe=r
+bird=DIM
+b. boc
+bovinej-ae
+RP-nest‘the bird’s nest’j-ab
+RP-tail<long>‘the cow’s tailc. i--õkr
+1-RP-throat‘my throat’d. a-j-abak
+2-RP-ear‘your ear’On the other hand, when the head of a noun phrase is a member of the alienable
+class, the structure of the genitive construction involves the occurrence of a
+postpositional phrase headed by the genitive postposition õ, which requires the relational200prefix - (2). The postpositional phrase encodes the genitive element and is dependent on
+the alienable noun that heads the higher structure; note that the alienable noun does not
+take any kind of prefix – relational or personal – despite the constituency relation it holds
+with the genitive postpositional phrase (2.c), as indicated by intonational, distributional
+and semantic factors.(2) a. [i--õ]
+1-RP-GENpi
+woodb. [ifermer=ti
+nurse<PORT>=AUG
+c. [i--õ]
+1-RP-GENapcet
+peba‘my dry wood’-õ] kuw
+RP-GEN fire‘the nurse’s lighter’‘my peba (armadillo, sp.)’Besides the relational prefix strategy, phrase internal cohesion is indicated by the
+contiguity between the elements involved, which may not be interrupted by extraneous
+morphological material; the intonation pattern, with all elements encompassed under a
+single intonation contour; and phrasal stress, which falls on the last element of the phrase,
+that is, the head (3).","[213, 214]"
+"(24)(x) ( . x)
+ka.rõ.rõr
+.kri.krit
+ka.pre.prek
+õ.pat.pat‘snore’
+‘race O’
+‘spank O’
+‘feel nauseous’One important point to notice is that, in some cases, the base for reduplication
+may not be found as a root elsewhere; in other words, some of these items, such as rrk97and ttk, only occur in their reduplicated forms, in the database. Such cases suggest that
+reduplication in Apinajé is more a lexicalized result than a fully productive process.
+Another point is that the semantic relationship between reduplicated stems and
+their respective bases may be completely obscure, as illustrated by the verb preprek ‘be
+fast; rush’, based on the root prek ‘tall’ (but see kapreprek, section 3.1.2.2).
+Although reduplication is more common in the formation of verbs, a few noun
+stems are also formed in this way. However, some of these stems may result from the
+conversion of reduplicated verbs into nouns (25.b), or are compounds that include
+reduplicated verbal stems (25.c).(25) a.brbr
+põpõ‘dawn; sunset’
+‘garça (bird, sp.)’b.awrwrk‘gully’c.da= katõtõko
+rain=snore‘thunder’katkwa=rrr
+sky=yellow‘rainbow’p=rrk
+cajá=soft‘cajazinho (plant, sp.)’2.3.4. Conversion98Conversion4, a change in the lexical category of a given lexeme without the use of overt
+morphology, is a common mechanism in the derivation of Noun-Verb counterparts, as
+well as transitive-intransitive-descriptive counterparts, among verbs; derivational
+morphology does not occur in this context. Illustrative examples are presented in (2627).","[110, 111, 112]"
+"4.2. Imperatives
+In imperative clauses, bound person inflection also displays a nominative pattern, in what
+seems to be a unique occurrence of this pattern for person marking in Apinajé (85-87). In
+(85.a), the O argument of the verb is overtly expressed, forming a phrase with it. In
+(85.b), the O argument is not overtly mentioned, in which case, the verb inflects for A.
+This occurrence forms a nominative pattern with the person agreement marking of the
+descriptive predicates; combine (85.b) and (86.a-b), which contrast with the intransitive
+predicate in (87).(85) a. kag
+pi
+snake
+kill
+‘Kill the snake!’
+b. a-pi
+2-kill
+‘Kill it!’a-tk
+2-black
+‘Become black at once!’(86) a. kjHORT258a-tujaro
+2-pregnant
+‘Become pregnant at once!’b. kjHORT(87) a. gr
+dance
+‘Dance!’
+b. 
+sit
+‘Have a seat!’4.3. Reflexivization
+Reflexivization is controlled by the nominative argument of the clause (section
+III.3.2.2.6). Likewise, the occurrence of the realis marker in noun phrase coordination isrequired if the conjoined noun phrases refer to the S or (at least the) A argument of the
+clausal predicate, cf. (21), repeated here as (88).irptsir me tj
+dada na
+wa
+i-m kw rc
+RLS
+N.
+CNJ HT
+N.
+RLS
+DU
+1-DAT macaxeira
+‘Ireptsi and Dada, both of them have given me some sweet manioc.’(88) a. nab.*nairptsirme tjdadai-m kw rcgõ
+givegõ4.4. Noun phrase coordination and the realis marker
+The double occurrence of the realis marker na in the context of noun phrase coordination
+is required when the conjoined noun phrases refer to S/A of the clause in which they
+occur.","[271, 272]"
+"284(7)dii
+[kti i-m [me=kdc
+woman 3.ERG 1-DAT INDF=counterpart-õr]
+RP-give.NFcwja]NMLZ.ADEF.ARTcwja]NP
+DEF.ARTpr
+ra
+j
+ma
+te
+Øi
+RLS
+3
+PST
+ASP
+yesterday
+MOV go
+‘The woman who gave me the medication left yesterday.’
+na(8)[ic-t di
+m
+1-ERG woman DATme=kdc
+INDF=counterpart-õr
+RP-give.NFNMLZ.Akt=m
+akup
+tem
+ket=ne
+Ø
+RLS
+3
+yet/still
+return.1
+go.NF NEG
+‘The woman who I gave the medication to has not come back here yet.’na(9) a. [a-t i-m me=kdc
+2-ERG 1-DAT INDF=counterpart-õr
+RP-give.NFcw
+NMLZ.Aja]NP
+DEF.ARTØ
+mduju
+3
+3.bad
+‘This medication you gave me is already expired.’naraRLSASPb. [me=kdc
+INDF=counterpart[a-t i-m Ø-õr
+2-ERG 1-DAT 3-give.NFcw ja]]NP
+NMLZ DEF.ARTØ
+mduju
+RLS
+ASP
+3
+3.bad
+‘This medication you gave me is already expired.’naraStrategies for case-recovery in Apinajé relativization are the use of resumptive
+pronouns, which are zero in many cases, but which may also come attached to the
+ergative marker (or expressed by its suppletive form, in the case of the third person).
+Otherwise, it is pragmatics that indicates which grammatical relation is being relativized.","[297, 298]"
+"1971. Criteria for the establishment of constituency
+Phrasal and clausal constituency are detectable in Apinajé according to three types of
+criteria: prosodic, morphological, and distributional. By prosodic criteria I mean (a) the
+intonation contour that characterizes phrases and larger constituents as internally
+cohesive units, and (b) stress patterns characteristic of such combination of elements.
+Another phonological criterion that may help identify the boundaries of a constituent is
+the echo-vowel phenomenon, which is indicative of final boundary and must be followed
+by silence (sections II.4.5 and III.2.1). This criterion, although helpful, is not as
+specifically indicative of constituency, since it may delimit a word said at random, that is,
+one that is not necessarily in a constituency relation with some other element (a word
+uttered as a citation form, for instance).
+The main morphological criterion to be considered is the use of relational prefixes
+(section III.4.1.2), which are precisely the overt grammatical marking of phrasal
+constituency in Jê (and other Macro-Jê) languages. Relational prefixes are common to
+noun, verb, and postpositional phrases, and indicate contiguity between the head of a
+phrase and its dependent. Such contiguity is one of the clues for the constituency relation
+between the elements, and a violation of this state of affairs has overt grammatical
+repercussions as well, such as the use of specific person prefixes for head marking
+(section 2.3). Even though the relational prefix strategy indicates the bond between twoword units, and thus would not seem as useful for larger units, it may reccur in sequences
+of more than two words thus indicating relevant constituency relations among the units
+that participate in the hierarchy (provided the elements involved are vowel-initial).","[210, 211]"
+"4.1.2. Relational Prefixes
+Relational prefixes constitute another morphological category common to Nouns,
+Verbs, and Postpositions. These morphemes are overt indices of the constituency
+between a head and a dependent element. In formal terms, relational prefixes serve as
+linkers between a given root and some element that immediately attaches to it, including
+certain derivational morphemes (139.a), personal prefixes (139.b) or, at a more syntactic
+level, dependent noun phrases ((139.c); see section IV.1). The role of relational prefixes183is precisely to indicate this bond between units that belong together, either as constituents
+within a phrase, or as the component morphemes of a word, even compounds (139.d-e).(139) a. aw-j-apro
+DTRZ-RP-buy<TR>‘go shopping <INTR>’b. i--õ t
+1-RP-tongue
+c. di
+n-ipok
+wood RP-core‘my tongue’ri‘in the core of the forest’LOCd. pu=t=j-apje=ti
+fly=leg=RP-long=AUG‘morissoca (insect, sp.)’e. kupe=c-e
+non.Indian=RP-tie‘fabric’Historically, the occurrence of relational prefixes must have been phonologically
+motivated, with the proto-form having been a coronal – presumably palatal – segment
+(Davis 1966; Ribeiro 2004), whose reflexes in present-day Apinajé includes some six
+different forms. In addition to those, there are elements beginning in a bilabial stop that
+display distribution and function similar to those of relational prefixes; however, in
+addition to form, other idiosyncrasies indicate that these morphemes must have evolved
+historically from a distinct source.","[196, 197]"
+"147ka
+ke
+pai pi
+ku-rum
+kw
+RLS
+2
+PRT
+native kill
+3=ABL
+come
+‘You killed the native yourself and fled from there.’(86) NaInessive kam. The inessive postposition is used at the phrase level and also occurs in
+idiomatic expressions such as ja kam ‘for that; for this reason; that’s why’ and with the
+relator nouns.(87) ickr
+ja
+kam na
+pip j- to
+house DEF
+INSV RLS
+chair RP-plenty
+‘There’s a lot of chairs in this house.’Positionals kot and itep. The postpositions kot ‘behind; after’ and itep ‘near’ indicate
+relative position between referents. Of the two, the postposition itep resembles relator
+nouns due to its form, since the occurrence of the formative i- has been observed in a
+number of such nouns. The formative i- is also common in nouns other than these, most
+of which, crucially, refer to body parts (section 3.1.1.2; compare also with kutep, section
+V.5.2).km i-kot
+mõ
+kaga.
+RLS
+3.DAT 1-after
+go
+refuse
+‘He doesn’t want to come along with me [i.e. he feels lazy].’(88) Na148Similitive acwj. The postposition acwj ‘likewise; too’ is a category that pertains
+structurally to the noun phrase, being thus a counterpart of mnen ‘also; likewise’, which
+is an adverbial element that operates at the clause level (section IV.2.3). This postposition
+takes the relational prefix j- and interacts with the switch-reference system of Apinajé in
+interesting ways.(89) a. Na
+RLSra
+ASPMarizi=-õ=cw
+N.=RP-GEN=NMLZjaja ra
+DEF.PL ASPpoj
+arriveumKkali=-õ=cw
+j-acwj
+jaja
+DS.3
+N.=RP-GEN=NMLZ
+RP-SIMIL
+DEF.PL
+‘The folks from Mariazinha have already arrived, and so have those
+from Cocalinho.’b. Kt paj
+kar ja
+pi
+ka
+a-j-acwj
+õt
+pi
+IRLS 1.IRLS deer
+DEF
+kill
+2
+2-RP-SIMIL
+INDF kill
+‘I’m going to kill this deer and also you, you’re going to kill one too.’Relator nouns. Apinajé makes extensive use of relator nouns to express more detailed
+nuances of space relations. Most of the instances found in the corpus also involve the use
+of postpositions, resulting in fixed, compound expressions where specific postpositions
+and relator nouns associate. The inventory of postpositions noted in these cases is broad,
+although it seems to exclude the associative me, the allative wr, and the ablative rum.
+The inventory of relator nouns found in the database includes those listed in (88).
+Notice the use of the postpositions  ‘locative’, kam ‘inside’, pe ‘detrimental/ablative’,149kot ‘after; behind’, as compared to the particle ri ‘demonstrative’, which has semantic
+content typical of postpositions, but does not display their morphological characteristics.","[160, 161, 162, 163]"
+"(21)ka
+na
+ka
+ra
+ic-pe a-pikudr
+2
+RLS
+2
+ASP
+1-DTR 2-disappear.NF
+‘You’re already disappearing from me.’(22)naraØ
+k
+RLS
+ASP
+3
+mature.NF
+‘It’s getting ripe already.’
+do
+domõ
+gomõ
+goCompared to (20.b) and (21-22), it is possible to note that similar constructions
+involving position verbs focus more on the activity being performed, ‘cry’, ‘fasten’,
+‘dance’ (23), rather than the result accomplished after the activity has been concluded.(23) a. napa
+kt=m
+i--õ
+RLS
+1
+still/yet
+1-RP-GEN
+‘I’m still fastening my wood.’b. ka
+na
+ka
+a-grr
+2
+RLS
+2
+2-dance.NF
+‘You are dancing.’
+(I.e. ‘It is you who are dancing.’)
+dopi
+katpr
+wood fasten.NF
+do
+sitca
+standNot all movement verbs are eligible for appearing in this construction type, as
+they yield literal rather than grammatical meanings. Thus, the verb te ‘go’ in (24.a)
+indicates the actual movement of the participant as s/he fastens the wood sticks; that is,295there are two simultaneous actions going on. Comparatively, the examples in (24.b),
+involving the dative postposition m in place of the morpheme , indicates literal
+movement towards the locus of an action.pa
+kt=m
+i--õ
+pi
+katpr 
+1
+still/yet
+1-RP-GEN
+wood fasten do
+‘I’m still walking and fastening my wood.’(24) a. naRLSte
+gob.ma,
+mutum
+na
+pa
+i--õ
+pi
+katpr m
+no
+DEM.DST
+RLS
+1
+1-PR-GEN
+wood fasten DAT
+‘No, I’m headed that way to fasten my dry wood.’te
+goSome alternative hypotheses are possible for the analysis of the morpheme  in
+this context, since this marker appears in various positions with distinct meanings, in the
+grammar of the language. One hypothesis could be that  is the instrumental postposition
+in the examples above, and that would even justify the nonfiniteness of the preceding
+verb; after all, in order for it to be the object of a postposition, it must be more nominal
+than verbal – and that is what nonfinite verb forms are, in Apinajé.
+Another hypothesis is that the morpheme  appearing in these contexts is the
+transitive verb ‘do’, which likewise could require a more nominal form of the lexical
+verb. According to this interpretation, the sequence of elements involved could be
+analyzed as a case of verb serialization, including the lexical verb, the verb , and the
+movement or position verb.","[308, 309]"
+"Verbs. The nominative argument of a simple verbal clause controls reflexivization and
+reciprocity. One target of reflexivization is the direct object of a transitive clause. In this
+case, the reflexive marker ami occupies the direct object position slot in the verb phrase,
+in which case the verb may take a relational prefix if vowel initial. Compare the
+examples (a-b) below.(124) a.",[188]
+"Co-occurrence restrictions. Some determiners may co-occur within the same noun
+phrase. In my database, the only determiners that appear as such are the ones in (15)
+below, and only in the relative orders presented. The juxtaposition of determiners
+encodes specific semantic nuances in a more hierarchical than linear way, structurally.
+Here, determiners perform distinct functions within the same noun phrase, such that one
+member of the class heads the other. Consider the examples below, among them (6.b),
+repeated for convenience as (15.a).(15) a. i-m [[[br -ire]
+ja]
+1-DAT meat RP-slice.NF
+DEF.ART
+‘Give me one of those slices of meat’õ]
+onegõ
+givepri
+abak=kr=ti
+jaja,
+me [[ja]
+muj]
+PL
+child ear=rotten=AUG
+DEF.RDPL PL DEF.ART DEM.DST
+‘You spoiled kids, stand over there.’b.mec. [[ja]
+muj]
+DEF.ART
+DEM.DST
+‘Catch him (i.e. that one)!’a-b .
+2-fetchca.
+stand207In (15.a), the marker ja indicates definiteness and referentiality pertaining to the
+phrase ‘slice of meat/sliced meat’; the indefinite marker õ, in turn, encodes a (generic,
+non-specified) portion of that referent. Thus, the indefinite marker õ heads the definite
+noun phrase br ire ja in a genitive construction, whereby it expresses the partitive
+category. The constituency relation is indicated here by the intonation pattern and the
+cohesive distribution of the elements with respect to one another and the verb.
+The examples in (15.b-c) involve the definite marker ja and the distal
+demonstrative muj. Here, the definite article has a third person pronominal function and
+heads the phrase; and the distal demonstrative performs its regular function as a
+determiner of the head.","[220, 221]"
+"O-V
+pa
+ku-pi.
+RLS
+1
+3-grab
+‘I grabbed it.’A(37) a. na221Ab. napa
+1
+‘I made it.’
+RLSØ-ipec
+3-make
+O VVerb phrase/clause coordination. Verb phrase coordination basically coincides with
+clausal coordination. The strategies employed include the conjunctions ne and um,
+which have the additional function of a switch reference system; or simply the
+juxtaposition of phrases. The distribution of these markers is also ruled by the contrast
+between speech-act and third person participants.
+Ne indicates same subject (see discussion of grammatical relations in section 4)
+and is used regardless of person distinctions (38.a-b). When there is switch in reference
+such that both referents are third person participants, the conjunction um is employed
+(38.c). When there is switch of reference to a speech-act participant, however, there is
+juxtaposition of clauses such that the second referent is introduced by a free pronoun
+(38.d).
+(38) a. dm
+but
+ne
+SSkt
+IRLSka
+2[[[a-m
+2-DATa-bra tc
+2-run fast
+ni
+prm]
+have.sex wishne,
+FCTcw] ja]
+NMLZ DETr
+ne
+outrun SSri
+maya-ni
+2-h.s.d
+kt
+kaj
+∅-r
+ket=ne, ne ni
+ket=ne.
+but
+IRLS
+2.IRLS 3-outrun
+NEG
+SS
+have.sex
+NEG
+‘Well, if you run really fast and outrun the one you want to have sex with, then
+you may have sex with her. But if you don’t outrun her, then you may not
+have sex.’222b. miti
+kre pa
+ne
+kir
+kam k,
+kr, i
+ci
+pa
+alligator eat CNCL SS
+moquia LOC skin head bone put
+CNCL
+‘(They) ate the alligator and put its skin, head, bones, all into the roasting place.’c. kot
+IRLSpaj
+aroj
+1.IRLS ricekugn
+threshpaneCNCLSSp
+after∅-katõpa3-roastCNCLnep
+ku-ci um nõ
+ne
+akr
+SS
+after 3-put 3.DS lie
+SS
+cold
+‘I’ll thresh the rice, roast it, put it on a flat surface, then it will sit there
+and cool off.’d. bri
+thenum
+3.DSkm, “!
+kt
+3.DAT EXCL IRLSpaj
+a-tu,
+1.IRLS 2-carry.on.backpa
+d=kj
+a-t-
+te
+ka
+itkõ.
+1
+at.once
+2-RP-INSTR
+go
+2
+drink
+‘Then she (the jaguar) says to him (the pai), “Yeah, I’ll carry you on my back,
+take you so you drink water at once.’The noun acwj ‘likewise’ is, structurally speaking, the head of a noun phrase,
+possessed by ic-kra in the examples below. Acwj behaves morphosyntactically as an
+inalienable noun. It takes person prefixes and may be followed by determiners such as
+the definite marker ja. In other words, not only does it belong in the noun phrase, it
+heads it (38). The adverbial mne ‘also’, on the other hand, is a sentence-level operator
+with rather flexible distribution in the clause, as will be seen later on.
+Thus, the strategies presented in (39-40) are not exactly instances of noun phrase,
+but clausal coordination. Further details on this subject are in section (4).","[234, 235, 236]"
+"220AOV(35) a. napa
+[[pi
+ja]
+p]
+RLS
+1
+wood DEF
+grab
+‘I grabbed that wood stick.’b. [pi
+ja]
+na
+pa
+ku-p
+wood DEF
+RLS
+1
+3-grab
+‘It was that wood stick that I grabbed (lit: ‘That wood stick, I grabbed it’).’
+OAAO(36) a. napa
+[[prig k=ti
+RLS
+1
+bacuri=AUG
+‘I made some bacuri jam.’OO VV]
+n-ipec]
+sweet RP-makeAb.[prig k=ti
+]
+na
+pa
+bacuri=AUG sweet RLS
+1
+‘The bacuri jam, I made it.’Ø-ipec
+3-make
+O VThe other possibility is that the relevant noun phrase argument may occur
+elsewhere in the discourse, in which case the accusative prefix serves as an anaphoric
+pronoun. Note also that the zero third person prefix occurs, when distributional
+restrictions prevent the occurrence of ku-.","[233, 234]"
+"4.7.1. Imperatives
+In his typology, Onishi (2001) points out that non-canonically marked A/S tend not to
+occur in languages where only second person A/S is allowed in imperative constructions,
+since they refer to non-controllers; but that they seem to occur marginally in this type of
+construction, in head marking languages.
+In Apinajé, many noncanonical predicates can be found in the imperative of
+command; these are presented in (100-102) below.(100) a. kja-m kaga
+HORT
+2-DAT refuse
+‘Become lazy already!!!”b. a-m
+kr
+2-DAT
+cold
+‘ Don’t get cold!’(101) a. ic-t-
+aba
+1-RP-INSTR miss
+‘Miss me!’ket=ne
+NEG269(102) a. i-m
+a-c-ec
+1-DAT
+2-RP-lie
+‘Don’t lie to me!’ket=ne
+NEGb. i-m
+a-j-abatper
+1-DAT
+2-RP-think.about
+‘Remember me!’4.7.2. Reflexivization
+Different types of noncanonically marked arguments may behave differently even within
+the same language, with respect to control over reflexives. In Hindi-Urdu, for instance,
+dative, genitive and locative arguments control reflexivization, but instrumentals do not
+(Onishi 2001).
+In Apinajé, noncanonical predicates of the set presented in ((49) section 3.3.1) do
+not allow reflexivization (103), which means that these are really monovalent predicates,
+and not predicates that involve third-person impersonal verb forms.","[282, 283]"
+"RLSka
+a-m kr
+2
+2-DAT cold
+‘You are cold.’FCTAt a closer look, one could hypothesize that the predicator in these cases may be
+taking a zero third person marker, in which case the predicator could not be adequately
+descibed as monovalent. The difficulty with confirming this hypothesis is that, in some
+cases, a regular verb adopts an alternative form which is specific to this kind of
+predication. Take the example of m kr ‘feel cold’: elsewhere, the form of the predicator
+is akr ‘be.cold’, which may take person inflection, thus also employing the relational
+prefix j-. In the case of a zero third person form, the relational prefix would not occur; but
+the formative a- would not be lost either. Therefore, the best criteria for deciding whether
+these are mono- or bivalent predicators, and even whether the participants marked with
+postpositions are or are not core arguments, must come from syntax. For the time being,
+I will simply lay out the morphological patterns involved, and will postpone a discussion
+of the syntactic evidence until section 4.",[248]
+"RLSpa
+te
+tem
+um m
+ic-t- pikujar
+1
+go
+fall
+DS
+PL
+1-RP-loc laugh
+‘I slipped [fell] and they laughed hard at my expense.’INTSPRTd.Pa
+RLSte
+gotem.
+fall‘I fell.’The third person pronoun m is easily omitted in realis contexts (107.a-b). In
+irrealis contexts, however, the third person is overtly and necessarily encoded by ja,
+which occurs immediately postposed to the irrealis marker kt (107.c). The presence of
+the irrealis morpheme is also mandatory in this case. The third person (demonstrative)
+pronoun ja is realized alternatively as [da] or [ra], the initial coronal segment resulting
+from assimilation to the coronal coda of the mood clitic kt (107).nam
+m=bj
+pit uba. km ba
+3
+PL-thing
+all
+fear 3.DAT fear
+‘This one is afraid of everything. He’s a scaredy-cat.tcRLSINTS[Ø
+m]
+ma
+amni-m
+RLS
+3
+PL
+MOV RFLX-DAT
+‘They all went do the laundry.’[Ø m] te
+3 PL go(107) a. JaDEMb.Nae
+ka u m
+fabric wash DATc. Ktja
+i-m
+a-w-j-are.
+3
+1-DAT
+DTRZ-U-RP-tell
+‘She will tell me a story [i.e. “story-tell to me”].’IRLSEmphatic forms of personal pronouns. Non-hortative personal pronouns display
+emphatic forms. Emphatic first and second person pronouns include an oral open vowel163and the suffix -m in root-final position; the stem initial plosive is always voiceless, since
+the pronoun carries discourse stress. The emphatic third person pronoun is also realized
+with an open vowel. The inventory of emphatic personal pronouns as compared to their
+nonemphatic counterparts is listed in table III.2. The example in (108) is illustrative.","[176, 177]"
+"(100)Na
+RLSpa
+1ra
+ASPi--õ
+1-RP-GENcak
+bag
+INSTRdt
+fullrackumrc,INTSINTSkam bri kwri.
+DEM INSV now
+leave.be
+‘I have plenty in my bag, already; that’s why I don’t need any more.’
+jaInterestingly, this morpheme may occur with nouns as well, but not in an
+adjectival function. What it does in these contexts is to indicate the first referent in a158sequence of elements. Here, it also occurs postposed to the modified nominal and, under
+strong focus conditions, it may take person inflection.kumrc.(101) a. Napa
+Ø=kot
+ic-prõt
+RLS 1
+3=after
+1=run
+‘I ran after him real hard.’
+pa
+kumrc
+RLS 1
+INTS
+‘I ran after her first.’INTSb. NaØ=kot
+3=afterc. A-kot
+kumrc
+2-after
+INTS
+‘I ran after you first.’mnaDATRLSd. A-kumrc a-kot na
+pa
+2-INTS
+2-after RLS
+1
+‘It was after you that I first ran.’ic-prõt.
+1-runpa
+1ic-prõt.
+1-runic-prõt.
+1-run3.2. Grammatical categories
+3.2.1. Pronouns
+The pronominal system of Apinajé includes person, demonstrative, indefinite and
+interrogative pronouns. These are introduced next.","[171, 172]"
+"(95)a. I-but
+tc.
+1-neck
+be.stiff
+‘My neck is tense.’
+ka
+i-j-ab
+tci
+2
+1-RP-hold
+INTS
+‘You hold me back a lot! [i.e. won’t let me do my things]’b. NaRLSi-m bc
+tc
+kumrc.
+RLS ASP
+1-DAT be.good
+INTS
+INTS
+‘This [fruit] is now just right for me [to pick up].c. Narapa
+ic-p-uduj
+tc
+RLS 1
+1-RP-be.bad INTS
+‘I’m very ill/full of diseases.’d. Nane.
+FCT154This morpheme is transparently related to itc ‘be strong’, which is a descriptive
+stem in all respects: it inflects for person, in which case it takes the relational prefix c-;
+and operates as a predicator, though it may be a noun modifier, as other descriptives.
+Both tc and itc display a high front echo-vowel, in agreement with the word final
+palatal consonantna
+itci.
+(96) I-bje
+1-husband
+RLS
+strong
+‘My husband is strong.’The morpheme rac (and its variant raci) has the lexical meanings ‘large; much’. It may
+occur as a noun modifier, and in compound noun stems, such as go rac ‘river’ (lit.:
+“water=large”) and kri rac ‘city’ (“sitting=large”). As a modifier of the predicate, it may
+be further modified by kumrc. Similarly to ru, and in contrast to tjc, this marker
+usually modifies predicators which encode a permanent property (97.c), in addition to
+more eventive ones (97.d-e). Structurally, this morpheme never appears inflected or
+derived, in my database; it occurs only in its bare form.
+One morphosyntactic property of raci that is worthy of notice is that, this
+morpheme modifies descriptive verbs derived with the morpheme -ji. In this respect, it
+contrasts with ru, which does not suit that purpose (97.b). Additionally, evidence155indicates that, if used with a transitive verb, this morpheme may refer to the quantity of
+the direct object (97.d-e), even though it appears syntactically as an intensifier of the
+verb.i-m bc
+rac
+RLS ASP
+1-DAT be.good
+INTS
+‘(Things) are really good for me.’(97) a. Narab. Ic-kengr=ji
+rac
+1-be.tired=ADJ.DSCR
+INTS
+‘I’m really easy to get tired.’ne.racne.","[167, 168, 169]"
+"Noun-Noun Stems. Compounds consisting exclusively of nominal elements may include
+two roots or more, in a structure reminiscent of genitive constructions (29). When more
+than two roots are involved, they are correspondingly distributed into constituents.
+Relational prefixes and other relevant bound morphemes may occur (29.b).5(29) a. i--ico=kr
+1-RP-buttocks=hole‘my anus’a-kr=ki
+2-head=hair‘your hair’b. ka i=t=c-e
+lower.leg=RP-tie‘leg adornment’õkr=c-e
+throat=RP-tie‘neck adornment’c. kuce= 
+gun=seed
+5‘ammunition; bullet’The occurrence of inflectional material is not a structural impediment in the analysis of compounds; it is
+not a typologically uncommon feature either, as may be noted from languages as diverse as Finnish,
+Icelandic, Turkish, and Portuguese (cf. e.g. Bauer 1988).",[115]

@@ -1,0 +1,3556 @@
+Paragraph,Page number
+"7.2.1 Inflectional morphology
+The sole nominal inflectional category is case marking. The category is highly
+productive formally and semantically. Table 8 shows the paradigmatic nature
+of case marking.79
+Table 8. Inflectional paradigm of ηιιρά 'male child'
+inflectional affixroot-na 'agentive/instrumental'
+•pu 'accusative'
+-td 'locative'
+•tegi 'ablative'
+-ki 'genitive'
+'associative'nupana
+nupabu
+nupada
+nupadagi
+nupagi
+nupaga- t o'by the boy'
+'the boy (patient)'
+'at/to the boy'
+'from the boy'
+'of the boy'
+'with the boy'244Chapter 7. Affixal morphologyAlthough case markers are functionally inflectional, they exhibit the clitic-like
+characteristic of docking at the edge of a phrase. Compare for example (19ac).(17) a. nupigine
+'of the female, you know'
+b. nupi snigine 'of the two females, you know'
+c. nupi
+mdcä
+nu
+-pi
+ma -cä
+person -FEM NM -small
+female
+small
+'of the two girls, you know'dnigine
+a
+-ni -ki
+ATT
+-two -GEN
+of two, you know-ne
+-SIIn (17a) the genitive is suffixed directly on the noun but in (17b,c), where a
+numeral and adjective are added to the noun phrase, the case marker must be
+suffixed at the right edge of the phrase and not to the noun. Like clitics, case
+markers are promiscuous with regard to the lexical category with which they
+can occur: in Chapter 4 and 6, examples of case markers with nouns, noun
+phrases, relative clauses and adverbial clauses were discussed. Thus case
+markers function as inflectional endings but operate formally as clitics.","[269, 270]"
+"Chapter 4
+Grammatical relations and information structureIn this chapter I discuss how grammatical relations are indicated in Meithei
+and what the role of morphological case marking is in indicating these relations. As in many related languages, such as Lahu (Matisoff 1973b) and Lisu
+(Hope 1974, Li and Thompson 1976), no reference is made in Meithei syntax
+to the relations Subject, Agent and Object.28 Instead, Meithei is what Dixon
+(1991, 1994) refers to as a ""pure"" language, where noun phrases are marked
+according to their semantic role in a given instance of use of a verb. In terms
+of Foley and Van Valin's (1984: 124) classification of inter-clausal syntax, Meithei is not a ""reference-dominated"" language where distinctions between grammatical relations and semantic roles are significant, but a ""role-dominated""
+language, where such distinctions are not.
+I provide evidence that notions such as subject and object are not necessary
+in the description of Meithei clause structure. I show how verbs in Meithei
+subcategorize for argument(s) with a specific semantic role indicated through
+morphological marking. I also show how surface morphological marking is
+often obscured through the overlay of a system of pragmatic marking which
+deletes or replaces semantic role markers with pragmatic markers, and/or
+manipulates word order for pragmatic effect. I will then describe how morphological case markers indicate the case of peripheral noun phrases.","[118, 119]"
+"Table of contents
+Acknowledgements
+Maps
+Plates
+Abbreviations
+1 Introduction
+1.1 Qassification
+1.2 Geography
+1.3 Religion
+1.4 Political history
+1.5 Material culture
+1.6 Performing arts and sports
+1.7 Dialects
+1.8 Review of literature on the Meithei language
+1.9 Fieldwork
+1.10 Organization of this book
+2 Phonetics and phonology
+2.1 The consonant phonemes
+2.1.1 Contrastive distribution
+2.1.2 Free variation
+2.1.3 Complementary distribution
+2.2 The vowel phonemes
+2.3 Syllable structure
+2.4 Tone
+2.4.1 The data
+2.4.2 Roots
+2.4.3 Suffixes
+2.4.4 Lexicalized suffix combinations
+2.4.5 Prefixes
+2.4.6 Compounds
+2.4.7 Enclitics
+2.4.8 Summary and conclusion
+2.5 Lexical rules
+2.5.1 Voice assimilation
+2.5.2 Deaspiration
+2.5.3 Lateral deletion and Velar deletion
+2.5.4 Total assimilation of 1
+2.5.5 Summaryxi
+xiii
+xvii
+xxiii1
+3
+5
+6
+8
+10
+11
+11
+13
+15
+17
+17
+20
+20
+21
+22
+25
+25
+25
+26
+34
+37
+38
+39
+39
+48
+48
+54
+59
+61
+62viTable of contents2.6 Post-lexical rules
+2.6.1 Diphthongization and Gemination
+2.6.2 Dissimilation and Debuccalization
+2.6.3 Flapping
+2.6.4 Simplification of rC clusters
+2.6.5 Schwa deletion
+2.6.6 Alternation of vowels with schwa
+3 Grammatical preview
+3.1 Phrase structure of the main clause
+3.2 Phrase structure of subordinated sentences
+3.3 Major lexical categories
+3.3.1 Nouns
+3.3.1.1 Pronouns: personal and possessive
+3.3.1.2 Pronouns: indefinite
+3.3.1.3 Pronouns: relative
+3.3.1.4 Pronouns: demonstrative
+3.3.1.5 Pronouns: emphatic
+3.3.1.6 Numerals
+3.3.2 Verbs, adjectives, and adverbs
+3.3.2.1 Adjectives
+3.3.2.2 Adverbs
+3.4 Minor lexical categories
+3.4.1 Quantifiers
+3.4.2 Postpositions
+3.4.3 Interjections
+3.5 Enclitics
+4 Grammatical relations and information structure
+4.1 Phrase structure
+4.1.1 The verb phrase as a constituent
+4.1.2 Subjects in complements
+4.1.3 Subjects in nominalization
+4.1.4 Pronominal and anaphoric coreference
+4.1.5 Extraction from subject
+4.1.6 Subjects in imperative constructions
+4.1.7 Lack of passive
+4.1.8 Lack of agreement
+4.1.9 Conclusion
+4.2 Case marking
+4.3 Information structure
+4.3.1 Contrastiveness
+4.3.2 Definiteness
+4.3.3 The adversative marker -pu63
+64
+67
+68
+69
+69
+70
+71
+75
+77
+78
+78
+80
+80
+81
+84
+85
+86
+86
+87
+89
+89
+90
+91
+92
+93
+93
+94
+96
+97
+103
+104
+106
+106
+107
+107
+114
+114
+116
+117Table of contentsvii4.3.4 Word order and ambiguity
+4.3.5 Restrictions on pragmatic marking
+4.3.6 Volitionality
+4.4 Case marking on peripheral noun phrases
+4.4.1 Locative case
+4.4.2 Ablative case
+4.4.3 Genitive case
+4.4.4 Associative case
+4.4.5 Instrumental case
+4.5 Conclusion
+5 Root sentences
+5.1 Declarative
+5.2 Optative
+5.3 Imperative and prohibitive
+5.4 Supplicative
+5.5 Permissive
+5.6 Interrogative
+5.6.1 Yes-no questions
+5.6.2 Alternative questions
+5.6.3 Tag questions
+5.6.4 The morphology of question-word questions
+5.6.5 Nominal and verbalized question words
+5.6.6 Position of the question word
+5.6.7 Multiple question words
+5.6.8 Phrase final rising intonation
+5.6.9 Use of question words as discourse markers
+6 Subordination
+6.1 Nominalization
+6.1.1 Nominalizers
+6.1.2 Relative clauses
+6.1.2.1 Semantic role and pragmatic marking on the relativized
+noun
+6.1.2.2 Internally headed relative clauses
+6.1.2.3 Question words as relative pronouns
+6.1.2.4 Quotatives used to signal relative clauses
+6.1.2.5 Adjectives
+6.1.2.6 Combining relative clauses and coreference
+6.1.3 Verbs which subcategorize for nominalized clauses
+6.2 Complementation120
+122
+124
+125
+125
+126
+127
+128
+128
+129
+132
+133
+134
+135
+137
+137
+137
+141
+143
+144
+145
+148
+150
+151
+152
+155
+155
+157
+159
+161
+162
+163
+164
+165
+168
+170viiiTable of contents6.3 Adverbial clauses
+172
+6.3.1 Case markers as clausal subordinators
+172
+6.3.2 Adverbial Participials
+175
+6.3.3 Lexical subordinators
+178
+6.3.4 -ti 'delimitative' and -su 'also' as subordinators
+179
+6.3.5 Combinations of subordinators
+180
+6.4 The quotative subordinator
+183
+6.5 The ordering of clauses in the sentence
+189
+6.5.1 Embedding
+191
+6.5.2 Ellipsis
+193
+6.5.3 Clause chaining
+193
+6.5.4 Clausal coordination
+196
+7 Affixal morphology
+7.1 The verb morphology
+201
+7.1.1 First level derivation
+204
+7.1.2 Second level derivation
+211
+7.1.2.1 Category 1: Reciprocal and comitative
+212
+7.1.2.2 Category 2: V for the sake of self/other
+213
+7.1.2.3 Category 3: Causative
+215
+7.1.2.4 Category 4: Desire to V
+215
+7.1.2.5 Category 5: Speaker's attitude towards what extent
+V is performed
+216
+7.1.2.6 Category 6: Speaker's attitude towards time taken
+to perform V
+216
+7.1.2.7 Category 7: Indirect evidence
+221
+7.1.2.8 Category 8: Directionals
+224
+7.1.2.9 Category 9: Negative
+228
+7.1.2.10 Category 10: Prospective aspect -la
+229
+7.1.3 Third level derivation
+230
+7.1.3.1 Category 11: Potential and nonpotential mood
+231
+7.1.3.2 Category 12: Necessity, obligation and intention
+232
+7.1.3.3 Combination of Category 11 and 12 mood markers
+236
+7.1.3.4 Combination category 11 and 12 with other verbal affixes 237
+7.1.3.5 Category 13: Aspect
+239
+7.1.4 Scope differences
+240
+7.1.5 Inflectional morphology
+242
+7.2 The noun morphology
+242
+7.2.1 Inflectional morphology
+243
+7.2.2 Derivational morphology
+244
+7.2.2.1 Category 2: Gender
+244
+7.2.2.2 Category 3: Number and quantification
+245
+7.2.2.3 Prefixal categories
+248Table of contentsix7.3 Enclitics
+7.3.1 Determiners, semantic role and case markers
+7.3.2 The copula
+7.3.3 Mood markers
+7.3.4 Pragmatic markers
+7.3.5 Attitude markers
+8 Compounding and duplication
+8.1 Compounding
+8.1.1 Productive combinations
+8.1.2 Nonproductive combinations
+8.1.3 Affixation within compounds
+8.2 Duplication
+8.2.1 Repetition
+8.2.1.1 Word repetition
+8.2.1.2 Stem repetition
+8.2.2 Echo collocations
+8.2.2.1 Echo collocations with free forms
+8.2.2.1.1 Nonidentical stems with identical affixes
+8.2.2.1.2 Nonidentical stems with identical morphology
+8.2.2.1.3 Identical stems with nonidentical morphology
+8.2.2.2 Echo word formation
+8.2.3 Ideophones
+9 Functional and pragmatic aspects
+9.1 Indirect speech acts
+9.1.1 Commanding
+9.1.1.1 Attenuating commands with words or affixes
+9.1.1.2 Attenuating the force of commands through
+indirect speech
+9.1.2 Requesting permission
+9.1.3 Warning
+9.1.4 Persuading
+9.1.5 Blessing or cursing
+9.1.6 Indirect questions
+9.2 Evidentiality
+9.2.1 Evidentiality in the complementation system
+9.2.1.1 Lexical nominalizers
+9.2.1.2 The evidential value of nominalized clauses
+9.2.1.3 The distribution of the complementizers
+9.2.1.4 Restrictions on tense and aspect in subordinate clauses
+9.2.1.5 Summary248
+249
+249
+251
+251
+253
+261
+261
+262
+263
+264
+264
+265
+271
+274
+274
+274
+276
+278
+280
+281
+285
+285
+285
+288
+292
+292
+293
+293
+294
+295
+295
+295
+297
+300
+306
+308χTable of contents9.2.2 Other evidential markings
+9.2.3 Asking questions
+9.2.4 Conclusion309
+311
+312Appendix I: Meithei - English glossary
+Appendix II: Meithei literature
+Appendix III: Meithei writing systems
+Appendix IV: Texts
+Notes
+References
+Index313
+353
+355
+377
+495
+513
+535Acknowledgments
+This book would not have been possible without the help of Thounaojam
+Harimohon Singh, my main native Meithei speaking consultant. He deserves
+special thanks for his diligent work and insightful comments. Thanks also to
+the following consultants: Sushila Ningthongjam, Naorem Saratchandra Singh,
+Janatam Begum, Ningomba Mangla, Nameirakpam Promodini Devi, Ph.
+Bishwajeet Sharma, Thongram Biijit Singh, Takhelhambam Geetarani Devi,
+Pravabati Chingangbam, Watham Bemcha Devi, Mutum Umarani Devi, Ksh.
+Meena Devi, Kakchingtabam Amita Devi, Heisnam Ranjana Devi, Laishram
+Shila Devi, Thongam Pishakmaha Devi, and Khuraijam Meena Kumari Devi.
+For stories, monologues or the opportunity to tape conversations, I thank
+Kalachand Singh, residents of the Women's Hostel at Manipur University,
+Radhe Sham Singh, Kokil, and Cook Sharma. Thanks to E.M. Malik and
+Neeta Singh who accompanied me to the less accessible communities in
+Manipur.
+I am grateful for advice and assistance from Willem de Reuse, Scott
+DeLancey, James Matisoff, Scott Myers, Carol Genetti, Curt Rice, Ivy Doak,
+Hyoonsuk Kang, Cindie McLemore, Carolyn MacKay and Paul Benedict. I am
+especially indebted to Anthony C. Woodbury who was a constant source of
+inspiration as the chair of my 1992 University of Texas at Austin Ph.D. dissertation committee. This book is based on that dissertation.
+In Manipur, I thank Radhe Sham Singh, the deputy librarian of Manipur
+University Library for making many works on Meithei available to me. I benefitted greatly from discussions with faculty of the Linguistics Department at the
+University of Manipur, especially, D.N.S. Bhat, Chungkham Yashawanta Singh,
+Nameirakpam Promodini Devi, M.S. Ningomba and P.C. Thoudam. Thanks
+for their hospitality and assistance in my work.
+For financial support, I thank the American Institute of Indian Studies which
+funded my stay in Manipur and Delhi. Thanks especially to L.S. Suri and the
+staff at the Delhi and Chicago offices of the Institute.
+Thanks to Katja Huder and the Mouton production staff for their patience
+and to Sandhya Asirvatham for a careful editing job.
+I thank my parents for supporting me in all my endeavors. Above all, I
+thank God for a husband who has believed in the importance of this project
+from its inception and has contributed many hours of his precious time in
+seeing it to its completion.","[4, 5, 6, 7, 8, 9, 10, 11]"
+"3.3.1.1 Pronouns: personal and possessive
+The singular personal pronouns are ay Τ, naq 'you' and md 'he/she'. Possessive pronouns are formed through the suffixation of -ki 'genitive' on these
+personal pronouns: aygi/natjgi/magi
+yum 'my/your/his or her house'. The
+possessive pronominal prefixes ι-, na- and ma- are the first person, second
+person and third person possessive prefixes, respectively. These may be affixed
+to kinship terms or inalienably possessed nouns.
+(8)a . imit'my eye'b. nakhoq
+c. mapa
+d. mayum'your foot'
+'his grandfather'
+'his house'21The first person possessive prefix is more restricted in use than the second
+or third person possessive prefixes since it appears only with kinship terms: so,
+*iyum for 'my house' is ungrammatical but must be expressed as aygi yum.
+There are also certain taboos on the use of the second person possessive with
+kinship terms. N. Promodini Devi (1989a) reports that naqgi namd 'your
+mother' is impolite; the socially acceptable form is the idiomatic sequence
+natjgi imd which literally means 'your my mother'.
+The choice between the use of a prefixed noun, such as ipa 'my father', or
+the genitive and the prefixed noun, such as aygi ipa 'my father', is determined
+by discourse factors: ipa is used when the father being spoken about has already been the topic of the conversation, while aygi ipa is used at the first
+mention of father. This use of the genitive and prefixed possessive is the only
+evidence of pronominal agreement in Meithei.
+(9)a . aygiay
+-ki
+I
+-GEN
+'my country'iraybaki
+-lay
+1PP -land-päk
+-width3.3 Major lexical categoriesb. η9η&
+nag -ki
+you -GEN
+your
+lakpadandcasykhoyd?na -ca
+2P -small
+your younger sisteray -khoy -ta
+I
+-hpl -LOC
+to our homeaynacak79cdhankhi-khi
+-i
+lak
+-pa
+-ta
+ay -na
+cak cä -han
+come -NOM -LOC I -AGN rice eat -CAUS -STILL -NHYP
+upon visiting
+I
+food already caused to eat
+'During the course of your younger sister's visit to our house I made
+her eat.'
+c. magimapalaykhinrndremä
+-ki
+ma -pa
+lay -khi
+-lam -ta
+-la
+-e
+he
+-GEN 3P -father be -STILL -EVD -NEG -PERF -ASRT
+his
+his father
+already not alive
+'When I got there his father was already dead.'
+As shown in Table 1, personal pronouns may be plural or dual. The plural
+is indicated by khoy 'this and others like this'. The dual is -bani, which is a
+frozen form composed of w, the root for 'two', and -ba, probably the nominalizer -pa. The pronouns dealt with in this section are summarized in Table 1.
+Table 1. The singular, plural and dual pronounsSingularPluralDualFirst
+PersonΦaykhoyibaniΤ'we''we two'Second
+Personη9ηndkhoyndbani'you''you all''you two'Third
+Personmamdkhoymdbani'he/she''they''them two'80Chapter 3. Grammatical preview3.3.1.2 Pronouns: indefinite
+Indefinite pronouns are also lexicalized forms composed of a question word
+(see section 5.6) which may be followed by -su 'also' (as in 10a,b) or the sequence kumbd composed of -kum 'like, kind of and -pd 'nominalizer' (see 10c).
+(10) a. karisub. kdnasuc.kari -su
+kana -su
+what -ALSO who -ALSO
+'nothing'
+'anything'kdngumbakari -kum
+what -LIKE
+'something'22-pa
+-NOMA question word may also occur with the numeral m9 'one', which functions as
+an indefinite article: this is seen in (lOd) with a verbal question word (i.e. a
+question word suffixed by the inquisitive marker -no, see Chapter 6). (lOd)
+can be opposed to (lOe): in (lOd) the pronoun refers to a specific person who
+is seen but not identified, whereas (lOe) refers to an non-specific entity whose
+presence can only be inferred (through the result of some action, for example).
+(10) d. kananomdkana -no
+who -INQ
+'someone'e.-ma
+-onekdnagumbdamakari
+-kum -pa
+a
+-ma
+what
+-LIKE -NOM ATT -one
+'someone'The fact that indefinite pronouns are lexicalized forms is borne out by the morphology that can follow indefinite pronouns: the question word-numeral or
+question word-enclitic-numeral sequence may be suffixed by the verbal negative
+marker -ta (see lOf, g). The resulting form is apparently a noun since it may
+be further suffixed by a case marker (see 10h). The negative marker cannot
+be affixed to other nouns.
+(10) f. kdnamstdg. ksrimaPakana -ma -ta
+who -one -NEG
+'nobody'kari -ma
+what -one
+'nothing'h.-ta
+-NEGkdnamsPaddkana -ma -ta
+-ta
+who -one -NEG -LOC
+'to nobody'3.3.1.3 Pronouns: relative
+As noted in section 3.3 the strategy for creating relative clauses in Meithei is to
+place the relativized noun directly after a nominalized clause; there is no relative pronoun to mark the relative clause. An additional but rarely exploited
+strategy for creating a relative clause involves using a question word as a rela-3.3 Major lexical categories81tive pronoun (in conjunction with a quotative) to head the relative clause. See
+section 6.1.2.3 for description and examples.","[104, 105, 106, 107]"
+"4.3.6 Volitionality
+A final fact needs to be addressed: all descriptions of Meithei postulate a
+nominative case -na, obliterating the important distinction between the agentive
+-na, which does mark case, and the homophonous contrastive marker -nd which
+does not. The reason for this is that traditional grammars, which are written
+either on the pattern of Sanskrit or Latin, expect a predictable case paradigm.
+Educated native speakers consistently insert the purported nominative case
+marker -nd on actor arguments in elicitation. This is an artifact of traditional
+grammars since -nd does not occur in texts with more frequency than any of
+the other pragmatic markers discussed in this section.
+Recent descriptions such as Bhat and Ningomba (1986b), building on native
+scholars' interpretation of Meithei grammar rather than on textual material,
+also believe that there is a nominative case marker in Meithei, simply noting
+that -nd is optional in sentences with noncausative verbs and that it can be
+used on non-actor arguments. Bhat (1991) does address the optionality issue
+by saying that -nd is used only when the action of the actor is volitional; however, it is easy to find sentences where this is not true. For example, in (27),
+the -na marked actor refers to a daughter-in-law drowning (quite unintentionally) in a pond. It is also possible to find sentences where the subject does exercise control over an activity but is not marked by -nd (see (26d) above).
+(27)mdnäw
+ma -näw
+NM -small
+sister-in-lawnupind
+nu
+-pi
+-n9
+person -FEM -CNTRptikhndd
+pukhri -ta
+pond
+-LOC
+in the pond4.4 Case marking on peripheral noun phrasesimknaraga
+i
+-lak
+water -power over
+while drowning-na
+-INST125-laga
+-AFTERmatzyna
+una
+ma -tay
+-na
+ύ
+-na
+3P -relative of opposite sex -CNTR see -INST
+upon seeing
+brother-in-lawuna
+ύ
+see-na
+-INSTyeqduna
+lay
+upay
+laytana
+yeq -tuna
+lay
+upay
+lay -ta
+-na
+•i
+means
+be -NEG -INST
+see -ING
+be
+-NHYP
+means
+not having
+see
+is
+'While the sister-in-law was drowning in the pond with only the
+brother-in-law to see it, there would be no means for her to be saved
+(since he could not touch her).'","[150, 151]"
+"3.3.1.4 Pronouns: demonstrative
+The determiners -si 'proximate'23 and -tu 'distal' are stems that function as
+enclitics, -si indicates that the object or person being spoken of is near or
+currently seen or known to be near, even if not viewable by the speaker, or is
+currently the topic of conversation; -tu signifies something or someone not
+present at the time of speech or newly introduced in the conversation. There
+are two pronouns based on these stems: sdu 'it (there)' and 3si 'it (here)'
+where 3- is the attributive prefix. The determiner may occur either as an independent pronoun or encliticized on the noun phrase with no difference in
+meaning (P. Madhubala Devi 1979: 158). Compare (11a) with ( l i b ) and (11c)
+with (lid).
+(11)a.nupiduayginu
+-pi
+-tu
+person -FEM
+-DDET
+that woman
+'That woman is my friend.'
+b . nupiay
+I
+mysdunu
+-pi
+a
+-tu
+person -FEM ATT -ddet
+woman
+that
+'That woman is my friend.'marupni-ki
+-GENsygimarupniay
+I
+my-ki
+marüp
+-GEN friend
+friend isc. lay
+aqaqbadu
+-tu
+lay
+a
+-qäq -pa
+flower ATT
+-red -NOM -DDET
+flower that red
+'The red flower is beautiful.'
+d . layaqdqbdmarüp
+friend
+friend is-ni
+-COPphdjäyphaja -ί
+beauty -NHYP
+is beautifuladulay
+a
+-qäq -pa
+a
+flower ATT
+-red -NOM ATT
+flower red
+that
+'The red flower is beautiful.'-ni
+-COPphajsy-tu
+-ddetphaja -i
+beauty -NHYP
+is beautiful82Chapter 3. Grammatical previewSection 6.6.4 also discusses the use of the pronoun adu used as a conjunction.
+Two other demonstrative pronouns based on si and tu are masi 'this' and
+madu 'that' (see section 7.2.1.4 for further description of ma- which derives
+nouns from verbs).
+(12) a. madu
+ay thdjadeda
+ms -tu
+ay thä
+-ca
+-t9
+NM -ddet I believe -SELF -NEG
+that
+I self do not believe
+Ί do not believe it.'
+b. masi
+karamba
+ms -si
+ksrsmbd
+NM -pdet
+which
+this
+whose
+'Whose is this?'migino
+mi -ki
+man -GEN
+man's is it-e
+-ta
+-ASRT -EX-no
+-INQThis set of demonstrative pronouns can be suffixed by case markers like other
+nouns. However, the meaning signalled by the resulting forms is idiosyncratic:
+the proximate and distal meanings are lost and madu and masi act like sentence adverbs or conjunctions. Table 2 gives a list of the most common forms
+of the demonstrative pronouns with ma- found in my corpus and the meanings
+they signal. Chapter 6 provides a discussion of the function of these pronouns
+as clausal subordinators.
+Table 2. List of demonstrative pronouns with ma- and case markers
+PronounWith markerGlossmadudd
+mssidd
+msdugi
+mosigi
+msduna
+masidagi
+msdubu-ta
+-ta
+-ki
+-ki
+-na
+-tagi
+-pu'upon this/that, then'
+'regarding this/that'
+'of this/that'
+'for this/that'
+'because of that'
+'because of this'
+'but''locative'
+'locative'
+'genitive'
+'genitive'
+'instrumental'
+'ablative'
+'adversative'The demonstrative pronouns can be used as resumptive pronouns. The functional difference between madu and adu in these forms is not clear since they
+are freely interchangeable.","[107, 108]"
+"78Chapter 3. Grammatical preview3.3.1NounsNouns can be distinguished from other lexical categories on morphological
+grounds. For example, nouns but not verbs can be suffixed by gender, number
+or case markers. Proper nouns and common nouns are free standing forms. A
+large number of nouns are borrowed from Assamese, Bengali, English and
+Hindi. A sample of these is given in Appendix 1.","[103, 104]"
+"6.5.4 Clausal coordination
+Finite clauses can be related to each other through the use of coordinators
+which are based on the pronoun adu 'that' and one of the oblique case markers. Corresponding forms with the proximate determiner -si do not appear as
+coordinators. Each coordinator of the form determiner-case marker has a
+specialized function.
+The coordinator aduda 'at that, because of that', composed of adu 'that' and
+-ta 'locative', indicates a cause clause as in (22a).
+(22) a. niqthawgi
+niqthaw -ki
+king
+-GEN
+of the kinghdkthfy
+hak -thäq
+near -help
+confidanthaydu
+oyramme
+häy -padu
+oy -lam -e
+say -COMP be -EVD -ASRT
+that
+wasaduda
+mana
+wdradana
+wä -la
+-tana
+a
+-tu
+-ta
+mä
+-na
+tired -PERF -BY
+ATT -ddet
+-LOC
+he
+-CNTR
+since (he) became tired
+that
+he
+'since he was the king's confidant, he became tired, and...'",[222]
+"As reflected in phrase structure rule (lb), the asterisk which follows the noun
+phrase indicates (following the convention used in Hale 1983) that the verb
+may occur with any number of noun phrases. There is no particular order
+imposed on the arguments; instead, word order is determined by pragmatic
+factors (see Chapter 4 for details). The maximum number of noun phrases
+that may occur with a verb is restricted by the subcategorization frame of that
+verb (see section 4.2). Since Meithei allows for the omission of arguments, the
+minimum number of noun phrases that may occur with a V is zero.
+To be grammatical, a sentence must consist of an inflected verb, that is, a
+verb root and an inflectional suffix. All inflectional suffixes are illocutionary
+mood markers which indicate sentence type (e.g. declarative, optative, imperative, etc., see Chapter 5 for details). As shown in Figure 1, the inflectional
+marker may be preceded optionally by three derivational categories.
+First level derivation consists of eight suffixes that describe the extent to
+which an agent desires or intends to affect some object and the direction and
+manner in which an action is performed. Second level derivation consists of
+suffixes that have meanings such as 'comitative', 'reciprocal', 'V for someone
+other than self, 'V for sake of self, 'causative', 'wish to V', 'V to excess', 'V
+habitually or repeatedly', Ύ in the nick of time', 'V ahead or behind expected
+time', 'indirect evidence', 'proximal', 'distal', 'action away from speaker',72Chapter 3. Grammatical preview'negative' and 'prospective aspect'. Third level derivation consists of suffixes
+that signal other kinds of modality and aspect, such as 'potential', 'non-potential', 'necessity', 'obligation, 'probability', 'intention', 'progressive', 'perfect.'
+Details about the ordering and co-occurrence of these derivational markers is
+provided in Chapter 7. Meithei verb morphology does not indicate number,
+person, gender or pronominal agreement between the verb and its arguments.
+There are two derivational prefixes: an attributive prefix which derives adjectives from verbs and a nominalizing prefix which derives nouns from verbs.
+(Derivational Root (1st level (2nd level
+prefixation)
+derivation) derivation)(3rd level
+derivation)InflectionFigure 1. Schematic representation of Meithei verb morphology
+A noun may be optionally affixed by derivational morphemes indicating
+gender, number and quantity. A noun may have one of 5 semantic roles:
+agent, actor, patient, recipient/goal, theme. Actor and theme roles are not
+indicated morphologically, while all other semantic roles are indicated by an
+enclitic. For pragmatic effect, semantic role markers can be omitted or replaced by enclitics which mark contrastiveness or definiteness. Peripheral arguments may be suffixed by enclitics indicating ablative, genitive or associative
+case. Finally, a noun may be prefixed by a pronominal prefix which indicates
+its possessor. The Meithei noun has the structure given in Figure 2.
+(pronominal prefix) Root (Gender) (Number) (Quantifier) (Case)
+Figure 2. Schematic representation of Meithei noun morphology
+An noun phrase may consist of a noun followed by derivational and inflectional
+morphology or of a noun and adjectives, numerals and/or quantifiers. The
+order of these constituents within the noun phrase is relatively free.
+(2)a. NP -* Ν (Adj*) (Num/Quant)As reflected in phrase structure rule (2a), an noun phrase may consist of either
+a numeral or quantifier, but not both. Also, a noun phrase may consist of one
+or more than one adjective. P. Madhubala Devi (1979: 157) provides (2b) to
+show that up to three adjectives can occur in a noun phrase. Although in
+theory this number can be extended ad infinitum, in natural speech it is rare
+for more than one adjective to occur in a given noun phrase.","[97, 98]"
+"If the Binding theory is valid for languages that exhibit an asymmetry between subject and object position, it follows that in languages that do not exhibit this asymmetry, anaphors and pronominals will not necessarily have the
+same structural relationship with their antecedents. Using examples (4f-i), I
+will show that this is the case in Meithei.
+In Meithei a pronominal may be co-indexed to a noun phrase in the same
+clause. In (4f), just as in English, the pronoun mdbu 'him' must be free: it can
+either refer to Tomba or have an arbitrary reference but it cannot refer to
+Raju.
+(4)f. RajunamdbunotjmaynakapkhiRaju -na
+mä -pu noqmay -na
+kap -khi
+-i
+Raju -CNTR he -PAT gun
+-INST shoot -STILL -NHYP
+Raju
+him
+with gun
+already shoot
+hdynaTombandhdykhihäy -na
+Tomba -na
+häy -khi
+-i
+say -INST Tomba -CNTR say -STILL -NHYP
+that
+Tomba
+had said
+Tombaj had said that Rajuj had shot him^ with a gun.'
+This restriction, however, can be overcome: if the verbal affix -ca 'V for the
+sake of self occurs with the verb of the subordinate clause, then Raju can
+serve as the antecedent for the pronoun (see (4g)).
+(4)g. Tomb anaRajunaTomba -na
+Raju
+Tomba -CNTR Raju
+Tomba
+Raju
+notjmaynamdbu-na
+-CNTRkapcabamä -pu
+he
+-PAT
+him
+pdmminoqmay
+-na
+kap -ca
+-pa
+päm -i
+gun
+-INST
+shoot -SELF -NOM like
+-NHYP
+with gun
+to shoot self
+wanted
+Tombaj wanted Rajuj to (self-)shoot hinij with a gun.'
+From examples (4a-g), I conclude that in Meithei a pronominal is not necessarily 'free' in its governing category.",[125]
+"4.3.3 The adversative marker -pu
+The adversative marker, homonymous with the patient marker, signals that the
+-pu marked noun phrase is ill-fated in being acted upon or that the verb is
+unexpected, unanticipated, or unfortunate. Thus in (24a), if I were expected to118Chapter 4. Grammatical relations and information structurerow a boat, I could answer that contrary to the requester's information, I did
+not know how to row a boat.
+(24)a. sybuhihonbdhsyteneay -pu
+hi
+hon -pa
+hay
+-ta
+-e
+I -ADVR boat row -NOM proficient -NEG -ASRT
+I
+boat to row
+am not proficient
+'(But unfortunately), I don't know how to row boats.'
+b . dybuRamsiηιιηςϊηβ-ne
+-SIkdmdswsigeay -pu
+Ram -si
+nuqsi -ne kamdaw -si
+hay -ke
+I -ADVR Ram -PDET love -SI how
+-PDET say
+-OPT
+I
+this Ram
+love
+how this
+want to say
+'(Woe to me that) I love Ram, how can I want this!'
+c. dyndbuRamsinuijsirabadiay -na
+-pu
+Ram -si
+nugsi -la
+-pa
+-ti
+I -CNTR -ADVR Ram -PDET love -PRO -NOISA -DLMT
+I
+this Ram
+if love
+phdgBddwnipha -ka
+-taw
+-ni
+good -POT
+-OBLG -COP
+it would be good
+'(If only) I loved Ram, that would be convenient.'
+I assume that -pu is not the patient case marker in (24). Of course, there are
+languages where both the case or semantic role and the pragmatic value of an
+argument is signalled by the same marker (for example, the Japanese accusative doubles up as an emphatic marker (Bloch 1969: 52)). Although it is
+most probably the case in Meithei that the adversative marker -pu is derived
+from the patient marker -pu, there are two pieces of evidence that in synchronic grammar these are two distinct homophonous markers. First, adversative pu may be attached to a nonpatient noun phrase as in (24a-d); second, -pu can
+occur twice in a noun phrase, once as the patient marker, and once as a pragmatic marker as in (24e).434.3 Information structure( 2 4 ) d . matjondabukananakari119häyganims -ηόη -ts
+-pu
+ksna
+-ns
+ksri häy -ks -ni
+3P
+-to -LOC -ADVR who
+-CNTR what say -POT -COP
+to him
+who
+what will say
+T o him, who will say what? (implies that nobody will say anything to
+him)'
+e. aybunabuSekmaycatluhäyay -pu
+-Π9
+-pu
+Sekmay
+cat -u
+häy -ί
+I -PAT -CNTR -ADVR Sekmay
+go -IMP say -NHYP
+I
+Sekmay
+go!
+said
+'(Too bad), he ordered me (not you) to go to Sekmay.'44
+Similarly, the adversative marker may be attached to peripheral arguments
+that are already case marked. Thus in (24f), adversative -pu occurs with the
+genitive marker and in (24g) with the associative marker. See section 4.4 for
+case marking with peripheral arguments.
+f. magibusoydarabadimä -ki
+-pu
+soy
+-ta
+-1θ
+-pa
+-ti
+he
+-GEN -ADVR mistake -NEG -PRO -NOM -DLMT
+for him
+if not wrong
+pharepha -la
+-e
+good -PRO -ASRT
+is good
+'With him, if nothing goes wrong it is good (implies that something will
+probably go wrong with him).'
+g. mägabumä-k9kanana-pukanacatkani-naC9t-ka-nihe
+-POT -ADVR who -CNTR
+go
+-POT -COP
+with him
+who
+will go
+'With him, who would like to go?' (implies that no one wants to go
+with him.)1204.3.4Chapter 4. Grammatical relations and information structureWord order andambiguityWord order also encodes pragmatic information in Meithei. Arguments may
+be moved to post-verbal position (reminiscent of right dislocation in French,
+English and elsewhere, sometimes called an afterthought) in order to reintroduce given information that has not been talked about for a while. This is
+illustrated in (25a).
+( 2 5 ) a . haybzdaykappeSakuntdlasehay -ρθ
+-tsgi
+kap -e
+Sakuntala
+-si
+say -NOM -ABL
+cry -ASRT Shakuntala -PDET
+as a result of that cried this Shakuntala
+'As a result of that (she) started crying, that Shakuntala.'
+Bhat (1991) states that sentence initial position in Meithei is grammaticalized45 so that if there is no morphological marking to indicate which argument
+is actor, the sentence initial argument will be interpreted as actor. This is certainly the preferred interpretation of arguments in sentence initial position (see
+(14c) and (23a,b)). The argument in sentence initial position, however, even
+when morphological marking is not present to disambiguate the role of the
+arguments, does not have to be actor. Thus (25b-d) are ambiguous.
+( 2 5 ) b. aydiRamnaphitniqqiay -ti
+Ram -na
+phu -nig
+-i
+I -DLMT Ram -CNTR beat -WISH -NHYP
+I
+Ram
+wish to beat
+'It is Ram (not Chaoba) who wants to beat me (over all of you).' or
+'It is Ram (not Chaoba) that I (over all of you) want to beat.
+c. 9ηάηάϊTomb9sindphuysqaq -ti
+Tombs -si
+-na
+phü -ί
+child -DLMT Tomba -PDET -CNTR beat -NHYP
+child
+Tomba
+beat
+This Tomba (out of all the others) beats children.' or
+'This child beats this Tomba (and no one else).'","[143, 144, 145, 146]"
+"1.8 Review of literature on the Meithei language
+In general the inaccessibility of Northeast India to foreign and Indian scholars
+has made the documentation of Tibeto-Burman languages spoken there diffi-12Chapter 1. Introductioncult. This has not been the case with Meithei, about which much has been
+written. Existing works can be divided into four categories.
+The first is the practical grammars of British missionaries/ administrators, the
+most important of which are Primrose (1887, 100 pages) and Pettigrew (1912,
+111 pages), who provide useful word lists, conversational sentences and list of
+idioms which cannot be found elsewhere. Pettigrew is especially insightful with
+regards to the verb morphology. However, neither of these works is exhaustive: much of the affixal morphology is not described, tones are not marked or
+described in any detail, textual information is not used, and there is little to no
+description of the syntax.
+Second, there are a number of pedagogical works on Meithei written in
+Meithei or English, and a new grammar comes out almost every year. Since
+these are written on the model of Sanskrit grammar, certain grammatical relations such as evidentiality are ignored and other grammatical categories are
+postulated where they do not exist. (Subjects are claimed to be marked by
+nominative case, for example). These works are useful, however, in that they
+provide lists of bound roots, sentences, compounds and the like, as well as
+insights into language use. The reader should refer to the References section
+for titles and authors of such pedagogical works.
+Third, there is the body of literature by native speaking Meithei linguists
+which, by 1990, consisted of 27 Master's theses and Ph.D. dissertations. Notable is Thoudam's 1980 Ph.D dissertation which provides a comprehensive
+description of Meithei phonology. Sushila Ningthongjam's 1982 Master's thesis
+on Meithei morphology includes a near exhaustive list of verbal and nominal
+affixes in Meithei with examples. Nongthombam Nonigopal Singh's 1987 Ph.D.
+dissertation on Meithei affixal morphology provides appendices with lists of
+compounds, roots and examples of words that have from one to ten affixes.
+Finally, there is the work of non-Meithei linguists or anthropologists writing
+in Hindi and English, such as Grierson from the Linguistic Survey of India
+(1903-1928), Hodson (1908) and more recently D.N.S. Bhat and his consultant
+and co-author M.S. Ningomba. The work of Bhat and Ningomba (1986a,
+1986b) and Bhat (1991) has been the most influential work on Meithei since
+Thoudam's (1980) Ph.D. dissertation. The topics covered are word formation,
+the case system, tense, and aspect and directionals. Tones are not marked or
+described. Some of the data and resulting conclusions are unreliable since
+elicited data have been used and results have not been checked with naturally
+occurring speech (for more details, see Chapter 4).
+During my trips to Manipur, I collected published and unpublished works on
+Meithei from the Manipur University Linguistics Department and main library,
+from research scholars working on Meithei dialects, and from book stores in
+Imphal and Delhi. Works written in Meithei or Hindi were translated with the1.9 Fieldwork13help of native speakers. I have included these works in the References section
+of this book.","[37, 38, 39]"
+"7.2.2 Derivational morphology
+Derivational morphology is not productive in that there are apparently arbitrary restrictions on which suffixes may occur with which nouns. Thus, -lom
+'approximate' may be used with human but not nonhuman nouns. Plurals are
+indicated with -siy but this suffix cannot occur with pronouns or proper names
+(as in English The Flintstones are here which refers to Mrs. Flintstone and her
+family).
+7.2.2.1 Category 2: Gender
+Nouns are not marked for grammatical gender. Semantic gender may be
+indicated for animate beings by -pi 'female' and -pa 'male'.80 Thus in (18a)
+the stem nu 'human' is suffixed by -pi to indicate a female human and -pa to
+indicate a male human. (18b,c) are further examples.
+(18) a. nupi
+'female human'
+b. hanubi 'old woman'
+c. phisabi 'female weaver'nupa
+'male human'
+hznuba 'old man'
+phisaba 'male weaver'7.2. The noun morphology245The feminine and masculine suffixes appear in traditional proper names which
+are based on adjectives used in naming a child. Thus the eldest male child is
+named Tomba and the eldest female child is named Tombi from ton 'top' and
+one of the gender suffixes.
+Occupational titles of professions traditionally held by men do not have
+female equivalents (18d). Where men are the predominant workers in a given
+profession, the masculine professional title can refer to male or female workers
+in that occupation. Thus (18e-g) may refer to a male or female potter, goldsmith or story teller, respectively. (18h) is a special case in that, although weavers are predominantly female, the occupational title used is the masculine
+form.
+(18) d. usuba
+e. czphusaba
+f. ssnäsaba
+g. wdriliba
+h. phisaba'carpenter'
+'potter'
+'goldsmith'
+'story teller'
+'weaver'7.2.2.2 Category 3: Number and quantification
+Although nouns are not obligatorily marked for number they may occur with
+such specification. Singular nouns can be indicated by the numeral srrid 'one'
+as in (19a).
+(19) a. fjdratj
+mi ami
+lak?i
+η9Γ3η
+mi 9
+-ma lak
+yesterday man ATT -one come
+yesterday man one
+came
+'Yesterday a man came.'-i
+-NHYPPlurality is indicated with the numerals higher than one or by -sirj (layriksiij
+'books', Θηάηςΐη 'children'). First, second and third person plural pronouns are
+signalled with khoy 'this and other like this' (see section 3.3.1.1), which is also
+used with human nouns to signify the inclusion of those physically surrounding
+or closely associated to the suffixed noun, -ήη cannot be used with pronouns
+or proper nouns and khoy cannot be used with nonhuman nouns.81246Chapter 7. Affixal morphology( 1 9 ) b . garisiTombdkhoyginigari
+-si
+Tomba -khoy -ki
+-ni
+vehicle -PDET Tomba -hpl
+-GEN -COP
+this vehicle
+Tomba and his family's
+This car belongs to Tomba and his family.'
+c.ipakhoyi
+-pa
+-khoy
+IP
+-father -hpl
+'elders'
+-lom 'subset' may be suffixed to numerals to indicate an approximation of
+the number specified. Thus ma//a 'five' can be maqarom 'about five', -lom
+may also be suffixed to proper nouns or pronouns. Thus in (19f), the proper
+noun Tomba is suffixed by khoy to indicate 'Tomba and his family'; with the
+additional suffixation of -lom the construction can be translated as 'Tomba and
+some of his family and friends'.
+( 1 9 ) d . TombakhoyromgiphdwdiTombs -khoy -lom -ki
+phäw -ti
+Tomba -hpl -SSET -GEN
+up to -DLMT
+Tomba, some family and friends including
+temdawrekamdaw
+-la
+-e
+how
+-PERF -ASRT
+that how are
+'How is Tomba (and his family and friends) now?'
+However, -lom cannot be used with nonhuman nouns: *phirom where phi
+means 'cloth' and *huyrom where huy means 'dog'.
+-hk 'multiplicative' can be suffixed to numerals to the indicate the number of
+times that some action is performed. The resulting form is a noun since a
+numeral suffixed by -hk may be further suffixed by case markers.
+( 1 9 ) e . tidhäkna -hak
+2P -here
+youhazard»marirdktagibazar
+-ta
+ma -ri
+-lak
+bazzar -LOC NM -four -MULT
+at the market from four times-tagi
+-ABL2477.2. The noun morphologyψmgzdraCdtpshennaqam
+-ka
+hen
+-na
+cat
+-pa
+more -ADV
+go
+-NOM possible -POT
+more
+is it possible
+to go
+'Can you go to the market more than four times?'
+f. 9humhk?i-ta
+-NES-la
+-INTmanuqdaa
+-hum -lak
+ATT
+-three -MULT
+of three times
+'within three tries'-ki
+ma
+-nuq
+-GEN NM
+-in
+inside-ta
+-LOC-su 'also' 82 may be suffixed to a noun, noun phrase or nominalized verb to
+signal the inclusion of an entity in an action or state (see also section 6.3.4).
+( 1 9 ) g. lupaΙίείηmanlupa lisiq
+ma -li
+rupee thousand NM -four
+rupee thousand four
+'(He) also paid Rs. 4000.'amasuptkhia
+-ma -su
+pi
+-khi
+-i
+ATT -one -ALSO give -STILL -NHYP
+also one
+gaveThe suffix -khsk 'up to, to the extent o f is derived from khak 'stop, halt'.
+( 1 9 ) h. ahummarikhaka
+-hum
+ma -ri
+ATT -three
+NM -four
+three
+up to four
+'up to three or four'
+i. aynalayrikkhaktd-khak
+-UPTOηζηόηάζpirzmmiay -na
+layrik -khak -ta naq -ηόη -ta
+pi -lam -i
+I
+-CNTR book -UPTO -EX you -to
+-LOC give -EVD -NHYP
+I
+a book
+to you
+gave
+Ί gave a book (and nothing else) to you.'
+Verbs can be derived from nouns with -kum 'similar to, like' (related to faun'like'). In (19j), the verb root tvw- is nominalized with the prefibcation of ms-,
+then verbalized with the suffixation of -kum and followed by a participializer
+that characteristically occurs with verbs. The verbalizing nature of -kum is
+shown in (19k) where it is followed by -p9 'nominalizer' which also characteristically occurs with verbs.","[270, 271, 272, 273]"
+"4.4 Case marking on peripheral noun phrases
+Noun phrases that are not needed to fulfill the argument structure of a verb
+may appear with one of the following case markers: locative -ta, instrumental
+-na, associative -ka and ablative -tagi. In this section, I will describe and exemplify these case markers.",[151]
+"4.5 Conclusion
+In this chapter I have shown that Meithei exhibits a flat phrase structure. The
+grammatical status of the arguments that a predicate subcategorizes for is
+indicated through semantic role markers which can be manipulated through a
+system of pragmatic marking. In the default case the correct interpretation of
+the status of arguments in a Meithei sentence can be read off of semantic role
+markers and the observance of an animacy hierarchy. Since, however, the
+pragmatics can delete and/or replace these markers, interpretation involves a
+knowledge of the pragmatic marking system (meaning of overt pragmatic markers, conditions under which semantic role markers can be deleted, word order
+and stress). To some extent the pragmatic system makes recovery of grammatical relations difficult so that sentences may often have more than one interpretation. In these cases the larger discourse context must be used to recover
+the intended meaning.",[155]
+"7.3.2 The copula
+The copula -ni which indicates a declarative sentence has a special status in
+that it has a category-changing function. In (lw) the copula derives verbs from250Chapter 7. Affixal morphologynouns: the verb cawkh9tk9d9\vri
+is nominalised and then further suffixed by
+the copula, resulting in cawkhatfoddwribani
+'will have developed.' The copula
+Table 9. Chart of enclitics
+Category 1
+Determiners:-si
+-tuCategory 2
+Semantic role
+and case markers:-ki'agent'
+'patient'
+'locative'
+'ablative'
+'instrumental'
+'associative'
+'genitive'-ni'copula'-no'inquisitive'
+'interrogative'
+'solicitive'-n9
+-pu
+-td
+-t9gi
+-Π9
+-k»Category 3
+Copula:
+Category 4
+Mood:-h
+-0Category 5
+Pragmatic peak:-nd
+-puInclusive/exclusive:-ft•mak
+•t9Category 6
+Attitude:'proximate determiner'
+'distal determiner'-ne
+-t9
+-ye
+-he
+-ko'contrastive'
+'adversative'
+'delimitative'
+'only'
+'exclusive'
+'shared information'
+'contrary to expectation'
+'confirmative'
+'exasperative'
+'invariant tag'may also be suffixed to a noun as in 9ηάηηϊ 'it is a child' where 9ηάη is
+'child'.85 -ni may not be followed by either nominal or verbal derivational or
+inflectional morphology but only by other enclitics. The copula has phrasal
+scope so that it attaches phonologically to the rightmost constituent in a sentence regardless of which constituent is at that edge (21a,b).867.2. Enclitics(21)a . phurittu251aqawbani-pa
+-ni
+phurit -tu
+a
+-qaw
+shirt -DDET ATT
+-white -NOM -COP
+that shirt
+be white
+'That shirt is the white one.'
+b . sijdwbsphurittuni'That shirt is white.'","[275, 276, 277]"
+"4.4.3GenitivecaseThe genitive case indicates possession on the possessor.
+(30)a. m a ndygiyumrtima -si
+ay -ki
+nm -PDET
+I -GEN
+this
+my
+'This is my house.'
+b . 9ηάη$μϊyum
+-ni
+house -COP
+house issidsaqaq -ki
+-si
+si
+-ta
+child -GEN -PDET pdet -LOC
+for this child
+here will
+Ί will keep the child's (food) here.'thsmgetham
+place
+keep-ke
+-OPTNote that a noun phrase marked by the genitive case may be further marked
+by the locative or the associative. In these instances, the meaning of the case
+markers is compositional.
+(30)c. migigdsygigBmanateemi
+-ki
+-ka
+ay -ki
+-ka man
+-natte
+man -GEN -ASS
+I -GEN
+-ASS agree -not
+between these men's and between my do not agree
+T h e r e are differences in opinion between these men and myself.'",[153]
+"3.4.2 Postpositions
+Two postpositions occur with singular pronouns: -hdk 'at', which indicates an
+actor that is near the place of speech and -ijonda 'to' which refers to a goal
+that is distant from the speech event or the source of action. The probable
+source for ηόη is what DeLancey (1984: 62) calls a locative noun. He notes
+that locative nouns often function as dative or locative postpositions; for example, ηαη 'interior' in Tibetan, is used to mean 'inside'. This Tibetan form, natj,
+as well as Hayu ηοη 'locative' and Nocte ηαη 'locative, dative/ accusative', are
+obviously cognate with Meithei -ijonda, which is most likely a lexicalization of a
+locative noun ·ηόη and the locative marker -ta. The origin of -hdk might be
+hdk which is a productive stem in Meithei meaning 'body', as in hdkthaij 'confidant' where hdk is compounded with the stem thatj 'near', -hdk or -noqda
+may be used with the first person singular pronoun to indicate the amount of
+control the speaker has over the action expressed by the verb: when -hdk is
+used the speaker is pointing out the inclusion of self in current activity; when
+-ijonda is used the speaker indicates that he/she is undergoing some action that
+is not under his/her control.",[116]
+"98Chapter 4. Grammatical relations and information structureThese facts are expressed in the theory of Government and Binding (Chomsky 1982: 188) by binding principles which state, in part, that an anaphor must
+be bound in its governing category. The term 'anaphor' refers to noun phrases
+like himself or each other. We can assume for the point being made here that
+the governing category of the pronominal is the minimal clause containing
+it.30. In a structure as shown in Figure 1, the subject position is said to ""bind""
+the object position because the antecedent and the pronominal are co-indexed
+(referentially linked to each other) and because the subject position ""c-commands"" the object position. C-command is defined by van Riemsdijk and Williams (1986: 142) as follows:
+C-command: A c-commands Β if and only if the first branching node dominating A also dominates Β and A does not itself dominate B.
+IPIVP
+VNPi (object)Figure 1. NP(subject) binds the NP(objcct)Significantly, the binding relationship is not symmetric since the subject position c-commands the object position but the object position does not c-command the subject position. So (4a) is grammatical because the anaphor is
+bound in its governing category; (4b) is ungrammatical because the anaphor
+binds the antecedent not vice versa and (4c) is ungrammatical because there is
+no antecedent in the governing category of the anaphor to bind it; that is, the
+intended antecedent is too far away.
+Consider also (4d) and (4e): (4d) shows that a pronominal noun phrase, in
+this case the pronoun him, cannot be coreferential with a noun phrase in the
+same clause. In Binding theory this is expressed as the principle that a pronominal must be free in its governing category. Thus (4e) is grammatical whereas (4d) is not since in (4e) the pronominal is not co-indexed with a noun
+phrase in the same clause.","[123, 124]"
+"4.1.7 Lack of passive
+There are certain tests for subjecthood which cannot be carried out in Meithei.
+In languages like English, the passive construction singles out the subject for
+special treatment: the subject of an active sentence appears as an oblique
+argument in the passive counterpart. Since there is no passive construction in
+Meithei, this type of singling out of an argument is not available.34 In fact,
+the lack of passive in Meithei can be seen as a consequence of the fact that
+the semantic roles that a verb subcategorizes for are fixed and cannot be manipulated by the syntax. This is the same conclusion that Kiss (1988: 34) arrives at to explain the lack of passive in Hungarian, which she says, ""is a natural consequence of the fact that the target of nominative assignment is already
+fixed ~ on a thematic basis ~ in the lexicon.""",[132]
+"102Chapter 4. Grammatical relations and information structureMeithei also exhibits 'emphatic' reflexives which violate the c-command
+constraint since in these constructions the pronouns are free (8b) or have an
+antecedent in another clause (8c).
+(8)b . JohnnymdsdmzknzJohn -Π9
+ms -sä
+-mak
+John -CNTR 3P -body -ONLY
+John
+himself
+tewhanbiyu-na
+-CNTRhäynaparikhyapasparikhya
+test
+testpas
+pass
+passnizdytaw -han
+-pi
+-u
+hay -na
+niza -i
+do
+-CAUS -REC -IMP that -INST pray -NHYP
+doing
+that
+prays
+'John prays thus, ""Please let me pass the exam"".'c. JohnnaparikhyaJohn -na
+parikhya
+John -CNTR test
+John
+test
+masämdknapastewgsnipas
+pass
+passtaw -ka
+-ni
+do -GEN -COP
+will dohaynahay -na
+that -INST
+thatthäzayma
+-sä
+-mak thäza
+-ί
+3P
+-body -each believe
+-NHYP
+himself
+believes
+'John believes that (he) himself will pass the exam.'
+Bhat (1991: 147) uses examples of long-distance reflexives (see his example
+147: 114b) and emphatic reflexives (see his example 147: 112a-113) as part of
+his argument that Meithei does not have an external argument. I am not sure
+how this supports his thesis since the phenomenon of long-distance reflexives
+also occurs in languages with subjects (e.g Dutch, German and Russian (Van
+Riemsdijk and Williams 1986: 283).
+To restate the point being made in this section: languages with a clause
+structure similar to English exhibit restrictions concerning pronominals and
+anaphors as stated by the Binding theory. Since Meithei does not have the
+same clause structure as English, the Binding theory does not make the appropriate predictions for Meithei anaphora.","[127, 128]"
+"7.2. Enclitics249Co-occurrence in the mood marker category is restricted to combinations of
+the -la 'interrogative' and -o 'solicitive' enclitics.84 The enclitics in the exclusive/inclusive categories may not co-occur.
+Some co-occurrence is possible in the attitude marker category, -tie, which
+indicates shared information (and so implying accepted or expected information), combines with all attitude markers that are semantically compatible
+with it: thus while -ne never co-occurs with the contrary to expectation marker
+-ta, the combinations -nehe, -neye and -neko (see (24q,p,t) respectively), are
+possible. In the linear order, -ne always occurs before other attitude markers.
+-ta 'contrary to expectation' may combine with -ho 'invariant tag' as in (24u).
+The remaining attitude markers, -ye 'confirmative', -he 'exasperative' and -ko
+'invariant tag', do not combine with each other. Thus the maximum number of
+attitude markers attested on a constituent is two.
+The occurrence of an attitude marker or a combination of attitude markers
+precludes the use of an inclusive/exculsive marker. The attested combination
+of inclusive/exclusive markers is restricted to -ta 'exclusive' combining with -mak
+'only' as in (23h,i) or with -khak 'to the extent' as in (231).
+7.3.1 Determiners, semantic role and case markers
+As discussed in section 3.3.1.4, the determiners si 'proximate' and tu 'distal' are
+stems that function as enclitics. They exhibit the clitic-like characteristic of
+docking at the edge of a phrase.
+(20) a. nupimacanu
+-pi
+ms
+-cä
+person
+-FEM NM
+-small
+girl
+young
+'these two young girls'b. nupi macasi
+c. nupisianisi
+9ni
+-si
+two - P D E T
+these two'this young girl'
+'this girl'Relevant information about semantic role and case markers is given in section 7.2.2.2. Case markers occur only to the left of determiners: nupiduda 'to
+that girl' but not *nupidadu.","[274, 275]"
+"172Chapter 6. Subordination(11) d. mahdk
+ψύ
+lakkmi
+ms -hak
+qasi
+lak
+-ks
+3P -here
+today
+come
+-POT
+he
+today
+will come
+'He said that he would come today.'hay
+-ni
+hay
+-COP say
+said-i
+-NHYP6.3 Adverbial clauses
+As represented in phrase structure rule in (11a), sentences may be modified by
+adverbial clauses which occur in sentence initial position. Adverbial clauses
+are subordinated sentences further suffixed by clausal subordinators (e.g. case
+markers or lexical subordinators).
+(12) a. S
+AdvP
+AdvP—
+—(AdvP) NP* V
+S' CS
+S quotative6.3.1 Case markers as clausal subordinators
+Clausal subordinators are derived from the locative, genitive, associative and
+ablative case markers, following a pattern that is common in Tibeto-Burman
+languages, as noted by Konow (1909: 9) and discussed in detail for 26 languages of the family in Genetti (1988).
+Table 1. Case markers and their subordinating function
+Case markerMeaning-kd
+-ki
+-t?
+-tBgi
+-naat the same time as Ving
+for the purpose of Ving
+after Ving
+resulting from Ving
+by Ving, because of Ving'associative'
+'genitive'
+'locative'
+'ablative'
+'instrumental'The associative marker -kd is used to form an adverbial clause which signals
+a temporal sequence of events either where the subordinated clause is the first
+event and the main clause, the second (as in (12b)) or where both events occur
+simultaneously (as in (12c,d)). A cause and effect relationship between the6.3 Adverbial clauses173first and second events is not strongly implied. The V-pdgd sequence is translated as 'when V'.
+(12) b. bajitolopph^bdgalawcaPoybabaji
+tolop phaq -pa
+-ka
+law cat
+-toy
+-pa
+father
+salary find -NOM -ASS
+take go
+-NES
+-NOM
+father
+salary when gets
+take intend to go
+'...when my father gets his salary then I'll need to take the money
+(over there).'
+c. syn9layriktuhekay -na
+layrik -tu
+hek
+I
+-CNTR book -DDET just
+I
+that book
+justpdybdgamdpay
+-pa
+-ka
+hold -NOM -ASS
+when carryingmä
+he
+helak?ilak
+-i
+come -NHYP
+came
+'He came when I held that book.'
+d. md cithiirsbdgdhyrdmmimä cithi i
+-la
+-pa
+-ka lay -lam -li
+he letter write -PRO -NOM -ASS is -EVD -PROG
+he letter about to write
+then was there
+'He was there, about to write a letter.'
+The genitive marker -ki can be suffixed to a nominalized verb to indicate a
+clause meaning 'for the purpose of Ving'. The nominalized phrase suffixed by
+-ki can also have the meaning 'from that Ving, concerning Ving' as in (12e).
+(12) e. thabdktutewbzgilupathabak -tu
+taw -pa
+-ki
+lupa
+work -DDET do -NOM -GEN rupees
+the work
+for those who do
+money
+amdsupikhilisitjlisiq
+1000
+1000man
+ma
+NM
+fourhdybania
+-ma -su
+pi -khi
+häy -pa
+-ni
+ATT -one -ALSO give -STIL
+say -NOM -COP
+also one
+gave
+that
+'...I have heard that he also paid Rs. 4000 to get his job...'-li
+-four174Chapter 6. Subordinationf. nafjcäkcärdbaginag
+you
+youcäk
+rice
+ricecä -la
+-pa
+-ki
+eat -PROX -NOM -GEN
+from having eatencaybidrabsnicay -pi
+-ta
+-la
+-pa
+-ni
+scold -REC
+-NEG -PRO
+-NOM -COP
+have not yet scolded
+Ί didn't scold you for coming here to eat.'
+The locative marker -ta may be suffixed to a nominalized verb to indicate a
+time clause with the meaning 'when Ving, upon Ving'.
+(12) g. η*η&
+nag -ki
+you -GEN
+yourridcasyndcäkdykhoyddlakpsddna -ca
+ay
+-khoy -ta
+lak
+-pa
+2P -small I
+-hpl -LOC come -NOM
+sister
+to our place
+when coming-ta
+-LOCcdhsnkhiay -na
+cäk
+cä -han -khi
+I -CNTR
+rice
+eat -cause -STILL
+Iι
+rice
+already
+ι lcc
+a n c a u y caused
+uauscu to
+ιι eat
+'When your sister came to our place I fed her.'","[197, 198, 199, 200]"
+"4.2 Case marking1074.1.9 Conclusion
+Thus arguments of a verb have equal status in Meithei. Evidence for this
+claim is that: (1) there are no rules which specifically refer to the verb phrase
+constituent, (2) there is no adjacency requirement between the verb and its
+arguments, (3) there is no restriction on omission of arguments in complements, (4) arguments in nominalization are not singled out for special case
+marking, (5) the semantic role of the understood argument of imperative and
+imperative-like sentences is not restricted, and (6) the distribution of pronominals and anaphors shows that Meithei is structurally different from languages
+where principles stated in Binding theory are applicable.","[132, 133]"
+"IndexAbbi 264,281
+Abor-Miri-Dafla 1
+adjectives 72, 86, 155, 164, 165, 244,
+245, 271, 281
+adverbial participial 176, 191,193
+adverbs 87, 88, 252, 266, 267, 287
+agglutinative morphology 2
+agreement 106
+Ahluwalia 5
+Anderson 33
+animacy hierarchy 109
+Arokianathan 17
+Aronoff 202, 203
+aspect
+and directional markers 226, 227,
+229
+in questions 309
+in subordinate clauses 306
+inceptive 216
+inchoative 227
+overlap with mood 238, 295
+meaning signalled by verb root 168
+perfect
+177, 224, 226, 227, 231,
+238-240, 269, 304, 307, 309
+progressive 231, 238, 239, 269, 304,
+307
+prospective 177,211,226,229,240
+with derivational morphology 210
+Assam 2-4
+Assamese 2, 78
+Autolexical Syntax 62
+Baic 1
+Baro 89
+Bauman 2
+Begum, Janatam 13
+Benedict 1, 81, 97, 144
+Bengali 2, 5, 6, 78
+literature 14
+script 6
+Bhat12, 94, 102, 109, 112, 120, 124,
+224
+Bhat and Ningomba 12, 18, 39, 124,
+210, 216, 218, 219, 261, 309
+Bhutan 1
+Bishnupriya Manipuri 2Bloch 118
+Bodo-Garo 1
+Bolivian Quechua 112
+Booij and Rubach 48
+Borjars 248
+Bossong 109
+British 7, 12
+Brown and Gilman 91
+Burling 89
+Burmese 121,226
+Bybee 204, 295
+case markers 82, 125, 137, 172, 184,
+196, 243, 244, 246, 248, 250, 266
+causative verbs 110,215
+causative 293
+Chinese 1, 141, 213
+Chingangbam, Pravabati 14
+Chomsky 98
+clause structure
+ambiguity 121
+chaining 193
+deletion of arguments 96
+ordering of clauses 189, 191
+subcategorization 107
+word order 190
+Cole 112
+complementizer 76, 299
+compounds 25, 49, 55, 61, 85, 88, 261263, 270, 276, 280
+computer hardware/software
+15, 25,
+494
+Comrie 226
+conjunction 82, 142, 166
+contrastive focus 114
+coordination 1%
+copula 231, 232, 249, 250, 275, 297
+coreference
+anaphor 97, 98, 100-102,107
+and relative clauses 165
+between main and subordinate clause
+96
+Binding theory 98
+emphatic reflexives 102, 214
+long distance reflexives 101
+pronominal 97, 98536IndexDamant 365
+definiteness 116
+DeLancey 1, 2, 90, 121, 128, 162, 193,
+226
+derivation 71, 88
+determiners 81, 160, 176, 248, 250, 298
+Deva Nagari 5
+Devi, P. Madhubala 18, 72, 74, 81, 83,
+91, 109, 144, 146, 174, 289, 307
+Devi, Ν. Promodini 2, 6, 40, 78, 91,13,
+365
+Devi, Ch. Nandakumari 264
+Devi, R. Pasotsana 11
+Devi, Β. Premavati 285
+dialects of Meithei 6, 11, 22
+Differential Object Marking 109
+discourse 78, 152
+districts of Manipur 3
+Di Sciullo and Williams 201
+directional 224, 225
+Dixon 93, 109
+Dowty 107
+Dutch 102
+echo words 274
+enclitics 92
+and affix order 248
+and alternative questions 141
+and case marking 72, 107
+and inflection 131, 242
+and information structure 114
+and interrogatives 131
+and mood 234
+and semantic roles 72
+and syllable structure 23
+and tag questions 144
+and tone 26
+attitude markers 249, 253
+contrastiveness 72
+evidentiality 295
+in question words 80
+interjections 91
+scope 250
+Total assimilation of 1 62
+with adverbial clauses 172
+with relativization 159
+with subordinate clauses 179
+with verbs 201English 2, 3, 12, 18, 24, 78, 93-97, 99,
+102-104, 106, 120, 152, 191, 226,
+255, 262
+evidentiality
+and -khi 'certainly will' 220
+and deixis 224
+and indefinite pronouns 80
+and propositional attitude predicates
+302
+and prospective aspect 310
+and quotatives 184
+and the copula 297
+and the interrogative 296
+and the nonhypothetical marker 132
+attitude markers 295
+definition 295
+direct perceptual evidence 305
+future 301,306
+in complements 295
+indirect evidence 170, 205, 211, 218,
+221, 222, 224, 237, 240, 295
+inference 222
+quotative complementizer 300
+shared information 255
+undisputed fact 298
+Foley and Van Valin 93, 107
+French 91, 120, 165
+Garibniwaz 5
+Garo 89
+gender 244
+Genetti 172
+German 91, 102
+Goldsmith 26
+Government and Binding 98
+grammaticalization
+and homophony 118, 204, 205
+aspect marker from directional 229
+aspect from verb roots 168
+in echo words 272, 273, 276
+metaphoric extension 87, 128, 209,
+227
+modality from verbs roots 168
+of case markers 172
+of'give' 213
+origin of verbal derivational affixes
+204-207, 210
+semantic bleaching of verbs 2
+Grassmann's Law 54
+Greenberg 203IndexGrierson 1, 12, 360
+Hayu 90,224
+Hazarika 7
+heroin 9
+Himalayish 1
+Hindi 2, 3, 6, 9, 12, 156, 170, 179, 233
+Hinduism
+caste system 6
+classical dance 10
+conversion to 5, 6
+dating early influences 5
+food habits 9
+Hinduism 5
+music 10
+resisted conversion to 5
+Vaishnavism 5
+Hodson 2, 3, 11,12, 85, 354
+Hoeksema 77, 262
+Hope 93
+Indo-Aiyan languages 2, 162
+inflection 71, 131, 201, 274, 265, 269
+interrogative 131,138, 141
+intonation 21, 151, 279, 294, 494
+Italian 91
+Jaeschke 269
+Japan 9
+Japanese 118
+Jinghpaw 226
+Johnson 121
+Kabui 11
+Kachin 1,86
+Kamarupan 1
+Kanauri 162
+Karenic 1
+Kathmandu Newari 162
+Khmer 213
+kinship terms 78
+Kiparsky 61,201,204,
+Kiss 103, 106
+Klavans 248
+Konow 172
+Kuki-Chin-Naga 1
+Ladakhi Tibetan 162
+U h u 93,213,226,264
+Laos 1
+LaPolla 2, 128, 494
+Latin 124
+Leben 26Lehman 86
+Lepcha 86
+Levin 48,
+Lexical Phonology and Morphology 61,
+62, 201
+lexicalization 90, 144, 170, 204, 212,
+214, 226, 247, 251
+lexicon 26, 77, 88
+Li and Thompson 93
+Lisu 93
+loan words 6, 22, 78, 17, 156, 179, 204,
+233, 313, 494
+Lolo-Burmese 1
+Mahabir 40
+Masica 264
+Matisoff 1, 2, 213, 224, 226, 244, 264
+McCarthy 55
+Michailovsky 224
+Mikir 1, 109
+Mohanan 61, 201
+mood 155, 170, 220, 231-233, 235-237,
+285
+Moreh 11
+Mru 1
+Myanmar 1, 3, 4, 6, 7
+negation 48, 80, 87, 135, 136, 142, 143,
+211, 218, 219, 228, 229, 236, 268,
+278
+Ningomba, M. S. 12
+Ningthongjam, Sushila 12, 13, 35, 374,
+494
+Nocte 90
+nouns 72, 78, 85, 244
+Obligatory Contour Principle 55
+Pathak 233
+person 97, 104-106, 219, 222, 233, 234,
+291
+Pettigrew 12, 40, 80, 224, 243
+phonological rules
+and Deaspiration 54
+Dcbuccalization 67
+Diphthongization 64, 65
+Dissimilation 67
+Flapping 20, 68
+Gemination 64, 66
+Glide/glottal slop insertion 66
+homophony
+Lateral deletion 59, 61538IndexSchwa deletion 69
+Simplification of rC clusters 69
+Total assimilation of 1 61
+Velar deletion 61
+Voice Assimilation 20, 48, 248
+Vowel heightening 64
+plural markers 79, 203, 245
+postpositions 90
+prefixes
+and Gemination 66
+and Lateral Deletion 61
+and syllable structure 22
+and the root vowel 86
+and tone 37
+and Velar Deletion 61
+and Voice assimilation 49
+derivational 72
+homophony 97
+in numerals 85
+in question words 89
+nominalizing 97
+noun marker 87
+pronominal 78, 84
+the attributive 72, 81, 85, 86, 164,
+264, 281
+the nominalizer 72
+with nouns 242
+within compounds 264
+Primrose 12
+pronominal agreement 78
+pronominal marking 2, 494
+Pulleyblank 48
+Qiangic 1
+quantifiers 75, 89, 245, 249
+question words 80
+and indefinite pronouns 80
+as discourse markers 152
+as relative pronouns 162
+in duplication 266
+morphology of 144
+position in sentence 148
+verbalized 145
+Ray, Sohini 2
+Roy 354
+Russian 102
+Sadock 248
+Sagey 48
+Sanskrit 1, 2, 6, 124
+Sapir 204Selkirk 48
+semantic roles
+actor
+72, 90, 95, 96, 104, 105,
+107-109, 113-116, 120, 124, 148,
+157, 163, 190, 206, 209, 212-214,
+218-220, 222-224, 226, 227, 233,
+234, 262
+agent 72, 93, 97, 107, 110-113, 121,
+123, 124
+goal/recipient 112
+patient 72, 95, 104, 105, 107, 109,
+157, 158, 243, 250, 262
+recipient/goal 72, 107, 109, 157, 158
+theme 72, 103, 105, 107-109, 157,
+158, 169
+Sen 3,4,494
+sentence types
+declarative 131-133, 149, 151, 249,
+255, 256, 288, 309
+exhortative 105, 131, 136, 137, 242,
+293
+imperative 104, 131, 135, 140, 203,
+219, 223, 242, 278, 285, 286, 289,
+292, 293
+interrogative 131, 137-141, 143, 144,
+151, 249-251, 256, 285, 288-290,
+296, 311
+optative 131, 133, 141, 162, 203, 242,
+292
+permissive 292
+prohibitive 131, 134-136, 219, 242,
+285, 292, 311
+solicative 293
+supplicative 105, 131, 136, 242, 285,
+288, 291
+Shafer 1
+Sharma, Bishwajeet 13
+Sharma, M. C. 13
+Sherpa 222
+Sikkim 1
+Silverstein 224, 312
+Singh, Guru Amubi 10
+Singh, Th. Harimohon 149, 165, 206,
+264
+Singh, Inder 40
+Singh, K.S. and Manoharan 3, 355, 494
+Singh, N. Khelchandra 22, 24, 264, 281,
+286, 333, 353, 354, 366, 374
+Singh, M. Kirti 6, 353IndexSingh, L. Kalachand 14, 377
+Singh, L. Mahabir 11,40
+Singh, Ch. Manihar 355
+Singh, Ν. Nonigopal 12, 18, 136, 218,
+219, 224, 289, 292
+Singh, L. Priyokumar 11
+Singh, S. Gourababu 224
+Singh, Ν. Saratchandra 13, 14
+Singh, Th. Birjit 13, 14
+Singh, Th. Harimohon 13, 14, 22, 25,
+70, 375
+Singh, W. Tomchou 40
+Singh, Ch. Yashawanta 91, 104, 112,
+142, 144, 146, 148, 151, 165, 230,
+247, 264, 272, 273, 285, 289, 290
+speech acts 285
+blessings 293
+commands 285, 290
+indirect commands 217
+indirect questions 294
+questions 145
+speech styles 91
+colloquial 140
+politeness 91, 141, 147, 230, 255,
+285, 291, 292
+respect 91
+sarcastic 269
+social distance 91, 289, 290
+stylistically marked 160
+Strict Cycle Condition 61
+Subharao 13
+subordination
+adverbial clauses 77, 155, 172, 175,
+176, 178, 185, 187, 189, 191, 193,
+195, 199, 244, 307
+and interrogatives 137, 155
+infinitival clauses 94
+quotative complementizer 76, 140,
+141, 162, 163, 171, 172, 183-185,
+187, 188, 189-191, 294, 300
+relative clauses 76, 155, 157, 161,
+163-167, 306
+suffixes
+and alternation of vowels with schwa
+70
+and Deaspiration 54
+and Diphthongization 64and Glide/Glottal Stop Insertion rule
+66
+and syllable structure 23
+and tone 25
+and Voice assimilation 49
+derivational 71
+inflectional 71, 131
+lexicalized combinations
+34, 175,
+177, 178
+tense
+future 163, 215, 217-220, 222-224,
+230-233, 236-240, 298, 300, 301,
+304, 306, 308
+past 215, 217, 218, 220, 222, 224,
+228, 232, 233, 236-240, 298, 299,
+303, 304, 308
+present 219, 222, 228, 238, 239, 304,
+308
+Tensuba 360
+Thoudam, P.C. 11, 12, 18, 23, 24, 38,
+40, 140, 494
+Tibetan 90,264,269
+Tibeto-Burman 213, 226
+tribes of Manipur 3
+Tomchou 365, 371
+tone 25, 313, 355
+Uray 264
+van Riemsdijk and Williams 98, 102
+Verma 93
+Vietnam 1, 213
+Voegelin and Voegelin 1
+Wasco-Wishram 224
+Wheatley 121
+Willett 295
+Wolfenden 97
+Woodbury 222,248
+writing system 70
+Yao Samsao 213
+Zwicky 248
+Zwicky and Pullum 248539","[560, 561, 562, 563, 564, 565, 566, 567, 568]"
+"514ReferencesArchangel), Diana
+1984
+""An Overview of the Theory of Lexical Phonology and Morphology"", Working Papers in Linguistics, MIT, 1-14.
+Arokianathan, S.
+1980
+Tangkhul Naga Phonetic Reader. Mysore: Central Institute of
+Indian Languages.
+Aronoff, Mark
+1976
+Word Formation in Generative Grammar. Cambridge, Mass.: The
+MIT Press.
+Bach, Kent—Robert Harnish
+1979
+Linguistic Communication and Speech Acts. Cambridge, Mass: The
+ΜΓΓ Press.
+Baruah, Sanjib
+1989
+""Indigenous People, Cultural Survival and Minority Policy in
+Northeast India"", Cultural Survival Quarterly 13.2: 53—58.
+Bauman, James J.
+1975
+Pronouns and Pronominal Morphology in Tibeto-Burman.
+[Unpublished Ph.D. dissertation, University of California,
+Berkeley.]
+Benedict, Paul K.
+1972
+Sino-Tibetan. A Conspectus. Cambridge: Cambridge University
+Press.
+1983
+""This and that in TB/ST', Linguistics of the Tibeto-Burman Area
+7.2: 75-98.
+1984a
+""Proto-Sino-Tibetan interrogative *ga(ng) ~ *ka"", Linguistics of the
+Tibeto-Burman Area 8.1: 1-10.
+1984b
+""The Sino-Tibetan existential *s-ri"", Linguistics of the TibetoBurman Area 8.1: 11—13.
+Bhat, D. N. S.
+1967
+""Some Notes on Manipuri"", Journal of the Asiatic Society IX. 1:
+12-17.
+1991
+Grammatical Relations: Evidence against their Necessity and
+Universality. London: Routledge.
+Bhat, D. N. S.-M. S. Ningomba
+1986a
+""The Concept of Subject in Manipuri Sentences"", Paper read at
+the National Seminar on Tibeto-Burman Languages and
+Linguistics, Manipur University, Imphal.
+1986b
+A Manual of Manipuri Grammar. [Unpublished MS, Manipur
+University, Imphal.]
+Bhogeswar, O. Madhumangol
+1985
+Manipuri Lok Warita [A Compilation of 60 Manipuri folk tales].
+Imphal: Manipur State Kala Akademi. (H)References515Bloch, Bernard
+1969
+Bernard Bloch on Japanese. New Haven: Yale University Press.
+Booij, Geert—Jerzy Rubach
+1987
+""Postcyclic versus Postlexical Rules in Lexical Phonology"",
+Linguistic Inquiry 18.1: 1-44.
+Borjars, Kersti
+1992
+""An Argument in favour of a syntax-morphology distinction:
+Scandinavian and Balkan noun phrases"", in: Berkeley Linguistics
+Society eds., Proceedings of the 18th meeting of the Berkeley
+Linguistics Society, University of California, Berkeley.
+Bossong, George
+1985
+Empirische Universalienforschung. Differentielle Objektmarkierung
+in den neuiranischen Sprache, Tuebingen: Gunter Narr.
+1991
+""Differential Object Marking in Romance and Beyond,"" in:
+Douglas Kibbee and Dieter Wanner eds. New Analyses in
+Romance Linguistics, Amsterdam and Philadelphia: Benjamins
+1991, 143-170.
+Britannica Book of the Year
+1994
+Events of 1993, Encyclopedia Britannica. Charles P. Turmbull,
+(ed.), Chicago, 628-629.
+Brown, Roger—Albert Gilman
+1960
+""The Pronouns of Power and Solidarity"", in: Joshua A. Fishman
+(ed.), Readings in the Sociology of Language. Berlin: Mouton de
+Gruyter, 252-281.
+Burling, Robbins
+1984
+""Noun Compounding in Garo"", Linguistics of the Tibeto-Burman
+Area 8.1: 14-42.
+Bybee, Joan
+1985
+Morphology. A Study of the Relation between Meaning and Form.
+Amsterdam: John Benjamins.
+Chafe, Wallace
+1976
+""Givenness, Contrastiveness, Definiteness, Subjects, Topics, and
+Point of View"", in: Charles N. Li (ed.), Subject and Topic. New
+York: Academic Press.
+Chelliah, Shobhana L.
+1984
+Case Morphemes and their Functions in the Case System of
+Manipuri. [Unpublished Master's thesis, University of Delhi.]
+1987a
+An Interlinear Morphological Analysis of Two Manipuri Texts.
+[Unpublished MS, University of Texas at Austin.]5161987bReferencesOrganizational Components and Rhetorical Structure in a
+Manipuri Narrative. [Unpublished MS, University of Texas,
+Austin.]
+1987c
+""Case Assignment and Morphological Case Markers in Manipuri"",
+Proceedings of the Third Pacific Linguistics Conference. Eugene:
+University of Oregon, 71—92.
+1988
+""Subject Marking in Manipuri"", Proceedings of the Western
+Conference on Linguistics. Fresno: California State University,
+30-40.
+1990a
+""Complementizers and Evidentiality in Manipuri"", Paper read at
+the 23rd International Conference on Sino-Tibetan Languages
+and Linguistics, Arlington, TX.
+1990b
+""Experiencer Subjects in Manipuri"", in: Manindra K. Verma—K. P.
+Mohanan (eds.), Experiencer Subjects in South Asian Languages.
+Stanford: Center for the Study of Language and Information,
+195-212.
+1990c
+""A bibliography of Meiteiron (Manipuri) Linguistics"", Linguistics
+of the Tibeto-Burman Area 13.2: 73-86.
+1992a
+""Bracketing Paradoxes in Manipuri"", in: Mark Aronoff (ed.),
+Morphology Now. Albany: State University of New York Press,
+33-47.
+1992b
+A study of Manipuri grammar. [Unpublished Ph.D. dissertation,
+University of Texas, Austin.]
+1995a
+""An Autolexical analysis of Voicing Assimilation in Manipuri"", in:
+Eric Schiller, Elisa Steinberg, Barbara Need (eds.), Developments
+in Autolexical Syntax. Berlin: Mouton de Gruyter, 11—30.
+1995b
+""Animation and Indirect Speech the Manipuri Narrative Hanuba
+Hanubi Pan Thabagi Puqgä-wäri,"" Paper read at the 5th meeting
+of the Southeast Asian Linguistics Society, University of Arizona,
+Tucson.
+1995c
+""Competing language ideologies in Manipur"", Paper read at the
+28th International Conference on Sino-Tibetan Languages and
+Linguistics, University of Virginia, Charlottesville.
+Chomsky, Noam
+1982
+Lectures in Government and Binding. Dordecht: Foris.
+Chomsky, Noam-Morris Halle
+1968
+The Sound Pattern of English. New York: Harper and Row.
+Cohn, Abigail C.
+1989
+""Stress in Indonesian and Bracketing Paradoxes"", Natural
+Language and Linguistic Theory 7: 167—216.","[539, 540, 541, 542]"
+"7.2 The noun morphology
+The noun in Meithei is composed minimally of a root. Suffixal categories are
+derivational (gender and number) or inflectional (case). There is a prefixal
+category which is non-category changing (possessive prefixes). Markers from
+the same category cannot co-occur. Figure 2, a representation of the Meithei
+noun, can be derived through the word structure rules in Table 7. Phrase
+structure rules for nouns derived from verbs are given in section 6.1.
+Table 7. List of word structure rules for nouns
+Ν
+Stem
+stem
+ROOT—»—»—*STEM INFL (ENC)
+stem (2nd LD)
+ROOT (1st LD)
+(prefix) root (root)7.1. The verb morphology243NOUN
+StemINFLstem
+ROOT/ \ rootIstLDrootFigure 2. The structure of the Meithei noun
+Note that the word structure rules for verbs and nouns are identical except
+for the category of the word level node, the possible terminal elements of the
+derivational and inflectional categories and the lack of third level nominal
+derivation.78 The rules in Table 1 and Table 7 can be collapsed so that the
+word level node is W for word. The subcategorization frames of affixes will
+restrict the rewriting of a particular rule so that only nominal affixes occur with
+a noun and verbal affixes occur with a verb root.","[268, 269]"
+"503In interrogatives, this marker always occurs with the interrogative enclitic
+-la. As seen in (10b), it may also be used independently. In such cases it
+is a polite imperative. See Chapter 9 for further discussion of the solicitive marker.
+The question words have the following composition, kana 'who' contains
+-na, possibly the 'agentive', but it does not mark case any more as
+evidenced by the form kanana 'by whom', kdri 'what' contains -ri, the
+meaning of which is unknown, kaydaw 'doing what' contains kdri 'what'
+and taw 'do'; km becomes kay by a fast speech rule which has been
+lexicalized in question words, ksydawqay 'when (exact time/ day)'
+contains kdri 'what', taw 'do' and qay 'during'. 'How much, how many' is
+ksydm (for mass noun) which contains ydm 'lot' and kaya (for count
+nouns), karam 'how, in what way' contains lam 'path, way', karamba
+'which' contains lam 'path, way' and -pa 'nominalizer', kaday 'where'
+contains -tagi 'ablative' (-tagi becomes tay through a fast speech rule
+which in its lexicalized form becomes toy), kamdawna 'how do V' contains
+karam 'how', taw 'do' and -na 'instrumental', kamayna 'how' contains
+karam 'how' and hay 'say' and -na 'instrumental', kamdaw 'to what extent'
+contains karam 'how' and taw 'do', kadomda 'which way' contains som
+'side' and -ta 'dative', karigi 'why' is composed of kari 'what' and -ki
+'genitive but the expected meaning 'of what, from what or belonging to
+what' is not obtained. Possibly, karigi might can be translated as 'from
+what (cause)' thereby yielding the meaning of 'why'.
+The similarity between the solicitive -o and the inquisitive enclitic -no is
+apparent both in a segmental sense and from their meanings: both
+contain the segment -o and both soften the communicative force of the
+speech act they signal. It is probable that -no is the lexicalized combination of na 'be' and the solicitive marker. In the synchronic grammar
+-o affixes to verbs whereas -no affixes to nominal forms.
+Ch. Yashawanta Singh (1984: 179) states that kadawijay refers to an exact
+time but P. Madhubala Devi (1979: 219) differentiates kadawqay from
+karamkanda by stating that the first asks for an approximate time and
+that the second asks for a specific time.
+Alternatives are:
+i.noqmadi
+ηοη
+-ma
+day
+-one
+one day-ti
+-DLMTkamdawwi
+karam -taw
+how
+-do
+how done-i
+-NHYP504Notesii.","[529, 530]"
+"4.3 Informationd . sydi Ramstructure121ηιιηςί'Ram loves me (over all others).' or
+Ί (over all others) love Ram.' (see (21) for gloss)
+Furthermore, ambiguity may arise from the homophony of the contrastive
+and agentive markers. For example, since arguments may be freely dropped, it
+is unclear if the agent or recipient has been omitted in (25e), so that Tomba
+may be the goal or the agent as explained in (i) and (ii).
+(25)e . TombxiundTomba -tu
+-na
+Tomba -DDET -i/ii
+that Tombalayriktunupaselayrik
+-tu
+nu
+-pa
+-si
+book
+-DDET person -male -PDET
+that book
+the manpuhallipu
+-han
+-i
+cany -CAUS -NHYP
+cause to carry
+(i) If -Π9 is the agentive marker the interpretation is: Tomba caused
+that book to be carried to the man (through somebody)'.
+(ii) If -na is the contrastive marker the interpretation is: '(Someone)
+caused the man to carry that book to Tomba (and not anyone else).'
+Thus, discourse factors ~ such as the saliency of the first argument - favor
+interpretation of the first argument as subject; however, this is not a categorical
+rule in Meithei syntax.
+The disambiguation of the role of an argument is not a primary concern in
+related languages either. In Burmese, marking of arguments follows similar
+principles as in Meithei; for example, the semantic role or contrastive value of
+a noun phrase determines what marking occurs on it (Johnson 1995, DeLancey
+1995). Arguments can occur without any marking, but Johnson notes that the
+idea of ""ambiguity avoidance"" is not the primary principle determining the use
+or non-use of case markers. Rather, discourse factors like new topic (which
+occurs with marking) or continuing topic (which is unmarked) are significant to
+optionality of marking. See also Johnson (1992) and Wheatley (1982).","[146, 147]"
+"NotesThis form was originally noted in Ch. Yashawanta Singh (1984); however,
+when I checked the form with native speakers 2 out of 4 thought the
+form was ungrammatical, the other two saying such forms can be found
+in poetry or in the stylized language of plays.
+Also, nouns do not have a third level of derivation and do have a prefixal
+category that verbs do not.
+Pettigrew (1912: 14) also lists -sa which he calls vocative case. As seen in
+(i) and (ii) -sa additionally acts to pluralize the noun it is suffixed to. It
+cannot be suffixed on inanimate nouns: *layriksa; nouns which cannot
+substitute for proper names *huysa (hify 'dog'), *misa (mi 'man') or proper nouns *Tombasa.
+There are no examples of this marker in my data
+and native speakers consider it to be archaic.
+i.ii.3ηάψά
+s
+-qäq
+ATT
+-child
+'Children!'
+nupi-sä
+-bodymdcäsänskhoynu
+-pi
+ms -cä
+-sä
+person -FEM NM -small -body
+girl
+young onesns -khoy
+2P -hpl
+you allla?olak
+-la
+-o
+come -INT
+-SOLCT
+come, won't you
+'You girls, why don't you come here.'
+80.",[534]
+"4.2 Case marking
+Clauses in Meithei are constructed of a verb and its arguments. I will first describe case marking on the core arguments that a verb subcategorizes for.
+Case marking on peripheral arguments is discussed in section 4.4.
+As shown in Table 1, a verb may subcategorize for an agent, actor, experiencer/goal, patient, or theme argument. Table 1 also lists the enclitics used to
+indicate a semantic role.
+Table 1. Argument types
+agent
+actor
+experiencer/goal
+path
+patient
+themeinstigator of action
+doer of action
+entity at/towards which action is expressed
+location through which an entity moves
+most affected by action
+affected/transferred by state or action-m
+-0
+- t e-0
+-pu
+•0Predicates fall into classes where members of a class exhibit similar subcategorization frames requiring arguments with the same semantic roles. This
+analysis follows the general strategy proposed in Foley and Van Valin
+(1984)35 for describing clause structure.
+Predicates may be distinguished on the basis of whether they are states or
+non-states. State predicates are either equational (be X) or locational (be on
+X, be atX), and subcategorize for a theme (10a,b) or an experiencer/goal (10c)
+or path (lOd).36108Chapter 4. Grammatical relations and information structure( 1 0 ) a. ΒηάηΞΪqawreaqaq -si
+gaw -la
+-e
+child -PDET white -PERF -ASRT
+child
+became white
+'The child became fair.'
+b . cesidifj^ppice
+-si
+-ti
+ηόρρί -i
+paper
+-PDET -DLMT rough -NYHP
+this paper
+is rough
+'This paper is rough.'
+c. πΐ3ηόηά,3dsawbayamridlayma -ηόη -ta
+a
+-saw -pa
+yam -na
+lay
+-i
+3P -to -LOC ATT -anger -NOM lot -ADV be
+-NHYP
+to him
+anger
+a lot
+there is
+'He is very angry.'
+d. mdkabacirjdolduyamnaνναηηίmä ka
+-pa
+ciq -thon -tu
+yam -na
+waq
+-i
+he climb -NOM hill -name -DDET much -ADV tall
+-NHYP
+he one climbed that hill
+very
+is tall
+""The hills over which he climbed are veiy tall.'
+A non-state verb may describe an activity or the instigation of an activity.
+Activities may refer to unintentional actions (laugh, cry); a motional activity
+(dance, fall); or an activity that is under the control of an actor (kiss, hit, give).
+Verbs that signal an unintentional (11a) or motional activity ( l i b ) subcategorize for a single theme argument.
+( 1 1 ) a . mdkappimä kap
+he
+cry -NHYP
+'He cried.'
+b . mä kaytheldagihallammimä kay -thel
+-tagi hal
+-lam -i
+he grain -display -ABL return -EVD -NHYP
+he from the market
+returned
+'He returned from the market.'","[133, 134]"
+"5.6.1Yes-noquestionsYes-no questions are formed by the suffixation of the interrogative enclitic -h
+to a nominal construction. This can be a noun root as in (8a); a noun phrase
+as in (8b) where the noun is followed by a determiner; a noun root followed by
+a case marker as in (8c-e); a relative clause as in (8f); or a subordinate clause
+such as the adverbial purpose clause in (8g).
+(8)a . hayeijcutilahayeq
+cuti
+-la
+tomorrow holiday -INT
+tomorow is it a holiday
+'Is tomorrow a holiday?'
+b.yennawsirayen -naw -si
+hen -new -PDET
+""This is the chick?'",[163]
+"100Chapter 4. Grammatical relations and information structureThe Binding Theory states that anaphors are bound in their governing category. In Meithei there are three types of data where this is not the case: (1)
+an antecedent can precede or follow the anaphor, (2) there are long distance
+reflexives, and (3) emphatic reflexives are not bound.
+The c-command relationship does not hold between the anaphor and its
+antecedent in (5b), (6b) and (7b) since the anaphor occurs before the noun
+phrase and it is the anaphor that binds the noun phrase it is co-indexed with.
+(5)a. JohnnsmasdbuuprammiJohn -na
+ma -sä
+-pu ύ -ca
+-lam
+John -CNTR 3P -body -PAT see -SELF -EVD
+John
+himself
+saw self
+'John (self-)saw himself.'
+b. mdsäbu jonna-i
+-NHYPujarammi'John saw himself.'
+(6)a. TombandmathantaphuzayTomba -na
+ma
+-than -ta
+Tomba -CNTR 3P
+-lone -EX
+Tomba
+himself
+'Tomba hit himself.'
+b. mathantaTombanaphü -ca
+beat -SELF
+beats-i
+-NHYPphuzay'Tomba hit himself.'
+(7)a. JohnmasdmakJohn ma
+John 3P
+John self
+hdynaparikhyapas-sä
+-mak
+parikhya pas
+-body -ONLY test
+pass
+test
+passtawganitaw
+-ka
+-ni
+do
+-POT -COP
+will be doingthdzayhäy -na
+thäza -ί
+that -INST believe -NHYP
+that
+believes
+'John thinks that he is going to pass the exam.'","[125, 126]"
+"88Chapter 3. Grammatical previewTemporal adverbs are frozen compounds. For example, ψ ύ 'today', η3Γαη
+'yesterday' and hayeij 'tomorrow' are most likely bimorphemic although the
+meaning of the individual roots is not clear. Similarly, although (16a) is not
+considered bimorphemic by speakers, it is composed of recognizable Meithei
+verb roots.
+(16) a. hawjik
+haw -cik
+begin -sever
+'now'
+A limited number of verb roots undergo zero derivation to function as adverbs and with this function appear as free forms. For example the verb hek
+'pluck, pick' functions as an adverb to indicate 'just, precisely V\ In these
+cases, I assume that there are two lexical listings in the actual lexicon for the
+item hek, one as a verb and the other as an adverb.
+(16) b. hek layrakpani
+hek lay
+-lak
+just buy
+-DISTAL
+'just bought from there'-pa
+-ni
+-NOM -COPAdverbs may occur in a sequence in sentences. In this case, the order of
+adverbs determines their semantic scope. This sequence must occur to the left
+of the verb but does not necessarily have to be adjacent to the verb.
+(16) c. ay henna
+yamna
+cay
+ay hen
+-na
+yam -na
+cä -i
+I
+more
+-ADV lot
+-ADV eat -NHYP
+I
+more
+very
+ate
+'(I've eaten) a bit more (than you).'
+d. ay yamna
+henna
+cdk
+ay yam
+-na
+hen
+-na
+cäk
+I
+lot
+-ADV more -ADV rice
+I
+very
+more
+rice
+'(I've eaten) a lot more rice (than you).'cay
+cä -i
+eat -NHYP
+ate3.4 Minor lexical categories893.4 Minor lexical categories
+The three minor lexical categories of Meithei are quantifiers, numerals and
+inteijections. These are considered minor categories because these lexical
+items are closed sets which express meanings most often encoded by affixal
+morphology.","[113, 114, 115]"
+"Speakers recognize a slight semantic difference between postnominal and
+prenominal adjectives. Postnominal adjectives are simply descriptive but prenominal adjectives identify the modified noun as belonging to a class of similar
+things.59
+The similarity between adjectives and relative clauses allows for the ambiguity illustrated in (8d) which can mean 'the shop that sells old books' and has
+the structure in (8e); or 'the old shop that sells books' and has the structure in
+(δί).60
+(8)layrik yonbs
+d. Bmanbs
+a
+-man -pa
+layrik yon -pa
+ATT -old -NOM book sell -NOM
+old
+book sellingdukandu
+dukan -tu
+shop -DDET
+that shopaygini
+ay -ki
+-ni
+I -GEN-COP
+is mine
+e. [[[amanba layrik^] yonba sno J dukandunp]
+'the shop that sells old books'
+f. [[amanba][[layrik yonbasnoni] dukandunp]]
+'the old shop that sells books'6.1.2.6 Combining relative clauses and coreference
+When two relative clauses refer to the same relativized noun phrase, the clauses can be juxtaposed to indicate that they are conjoined. In this case the
+relativized noun phrase appears once in the sentence.",[191]
+"7.3 Enclitics
+Enclitics are distinguished from other affixes following standard criteria established in the literature. First, whereas affixes subcategorize for lexical categories, clitics subcategorize for phrasal or lexical categories (Klavans 1979, 1983,
+1985 and Borjars 1992). Clitics show a low degree of selectivity in that the
+category of the host may be lexical or phrasal (Zwicky and Pullum 1983 and
+Sadock 1991). Furthermore, clitics exhibit different phonological behavior
+from other affixes (Zwicky and Pullum 1983 and Sadock 1991). In Meithei,
+most affixes are toneless but clitics are phonologically special since they may be
+lexically marked for tone. 83 Also, category 7 clitics do not undergo lexical
+phonological rules (for example, -ko 'invariant tag' does not undergo the Voice
+assimilation rule). Finally, in the linear order of affixes, enclitics always occur
+at the right edge of a word or phrase; they do not interdigitate with inflectional
+or derivational morphology (Klavans 1979, 1983, 1985; Zwicky and Pullum
+1983, Zwicky 1985, and Sadock 1991).
+Enclitics in Meithei fall into six categories: determiners, case markers, the
+copula, mood markers, inclusive/exclusive and pragmatic peak markers and
+attitude markers. The members of each category are listed in Table 9. The
+categories are determined on the basis of position in the word (category 1
+occurs before category 2, category 2 before category 3, and so on).",[274]
+"145and verbalizedquestion-no
+-INQwordsThere are three ways to form a question-word question in Meithei. First, as
+shown in (13a), a nominal form of the question word occurs with an inflected
+verb. Second, as in (14a,b), the question word occurs in a sentence that ends
+with -no 'inquisitive'.54 Questions are marked with -no when the speaker146Chapter 5. Root sentencesTable 2. Question words1.kaday
+kzdaydz
+kzdaydsgi
+kddayns
+kadaywaydd2.kddomdd
+kadomdagi3.kana
+kdnagz
+kznagi
+kdnadd
+kmadzgi
+kman.9
+kanabu4.kdya
+ksyada
+kayand
+kayam
+kdyarak
+kayasubd5.karam/kam
+kdrvmkandd
+kdrsmdawna/kamdawnd
+kdramns
+kdrdmba6.kdri
+kdrigd
+kdrigi
+karids
+kdriddgi
+karina
+ksydaw<kaydawqaykaridzw
+<karidawqay'where' (approximately)
+'where'
+'from where'
+'which one'
+'from around where'
+'which way'
+'from which side'
+'who'
+'with who'
+'whose'
+'to whom'
+'from who'
+'who'
+'who'
+'how many' (for count nouns)
+'for how much' (price)
+'how much' (is needed to V)
+'how much' (for mass nouns)
+'how many times'
+'of what number' (ordinal)
+'how, in what way'
+'at what time'55
+'how, by what means'
+'how, in what way'
+'which'
+'what'
+'with what'
+'why' (V for what reason)
+'on what, for what reason'
+'from what'
+'by what means, with what instrument'
+'doing what'
+'when '5.6 Interrogative147requests the hearer to provide additional information about some topic/thing
+and can be translated as 'tell me please?'.
+(14) a. kanagi
+yenawno
+kana -ki
+yen
+-naw -no
+who -GEN
+chicken
+-new -INQ
+whose
+is this chick, tell me
+'Whose chicken is this?'
+b. naqna
+nag -na
+you -CNTR
+youlayrakpa
+lay -lak
+-pa
+buy -DISTAL
+-NOM
+which was boughtphuriPu
+phurit -tu
+shirt
+-DDET
+that shirtkaramba makhangino
+karamba ma -khan -ki
+-no
+which
+NM -type -GEN
+-INQ
+which
+kind is it
+'That shirt that you bought, what type is it?'
+The third way of forming a question-word question is for -no to be affixed
+directly on the question word. In this case, the question word acts as the predicate for the sentence, taking either a simple noun phrase argument as in
+(14c,d) or a full complement as in (14e).
+(14) c. kanagino
+kana -ki
+-no
+who -GEN -INQ
+whose is it
+'Whose is (it)?'
+d. naq kdnano
+naq kana -no
+you who -INQ
+you who is it
+'Who are you?'","[171, 172, 173]"
+"BildagitdreBil -tggi
+Bill -ABL
+from Billtä
+hear
+heard-19
+-PERF-e
+-ASRT4.4 Case marking on peripheral noun phrasesc.","[152, 153]"
+"Verb
+STEM
+Stem
+stem
+ROOT
+3rd LD
+2nd LD
+IstLDSTEM INFL
+- Stem (3rd LD)
+stem (2nd LD)
+ROOT (1st LD)
+root (root)
+(mood 1) (mood 2) (aspect)
+— » (2ndLDi), (2ndLD ), (2ndLD )...
+2
+3
+IstLD
+—»—>—»—»VERB
+STEM
+StemINFL
+3rd LD
+moodjstemmood ^aspect2nd LD/ XIstLDRODTroot rootFigure 1. Structure of the Meithei verb
+Three criteria are used to distinguish derivational and inflectional morphology in Meithei. It is argued that inflectional morphology is more productive
+than derivational morphology; that in the linear order inflectional morphology
+occurs further out from the root than derivational morphology; that the morphophonology of inflectional morphology is more general than that of derivational morphology. Each of these criteria are discussed below.
+Inflectional morphology is more productive than derivational morphology.
+First, inflectional morphology is ""paradigmatic"", in the sense meant by Aronoff7.1. The verb moTphology203(1976: 2). That is, every Meithei verb exhibits a paradigm with each of the
+inflectional markers as illustrated in Table 2.
+Table 2. Partial inflectional paradigm of the verbs cd 'eat' and tum 'sleep'
+inflectional affixverb4
+-u
+-ke'nonhypothetical'
+'imperative'
+'optative'caν *
+cay
+cdw
+edge'eat'
+'eats'
+'eat!'
+'would like to eat''nonhypothetical'
+'imperative'
+'optative'tumtummi
+tummu
+tumge'sleep'
+'sleeps'
+'sleep!'
+'would like to sleep'-i
+-u
+•keThis is not the case with derivational morphology: as described in the section
+7.1.1 to 7.1.3, there are selectional restrictions on the verb roots that derivational morphemes can be affixed to. The characterization of inflectional morphology as productive is correct if we consider the productivity of the category
+as a whole. Of course, certain inflectional paradigms may be ""defective"" (Aronoff 1976: 2), so that a particular inflectional morpheme may be unproductive
+whereas the category it belongs to is productive. For example, the following
+English data evidently argue against productivity as a defining characteristic of
+inflection: the inflectional plural suffix -en in oxen is unproductive (does not
+occur with all nouns), whereas the derivational agentive suffix -er as in baker is
+highly productive. This does not mean that the category of plural is not fully
+productive in English. We know that it is, since nearly all singular nouns have
+a plural equivalent, but not all verbs can form a noun with -er.
+In Meithei, the formal productivity of inflectional morphology is complemented by its semantic productivity: the meanings signalled by the inflectional
+morphology are regular, easier to predict than the meanings signalled by the
+derivational morphemes which are often idiosyncratic.
+It is generally also expected (Greenberg 1966) that derivational morphology
+occurs encompassed within inflectional morphology, so that derivational morphology occurs closer to the root than inflectional morphology. Corresponding
+to this in Meithei, the three categories which occur closest to the root have
+been called derivational, and the fourth category farther out from the root,
+inflectional.","[228, 229]"
+"104Chapter 4. Grammatical relations and information structure4.1.6 Subjects in imperative constructions
+Typically imperative constructions require a 2nd person actor. Thus in the
+English sentence Wash!, a second person actor is the understood subject. The
+person of the patient argument, however, is not restricted. In this way, the
+subject is given special status with regard to its semantic role and person in
+imperative constructions.
+In Meithei, a verb with imperative inflection may subcategorize for an actor
+argument; in this case the actor must refer to second person. Thus, the actors
+in (9e) are possible but the first person actors in (9f) are not.33
+(9)e. n9η / ndkhoy
+cak
+cdnu
+naq / πθ -khoy cäk
+cä
+-nu
+you
+2P -hpl
+rice
+eat -PROBH
+'You/ you all don't eat rice!'
+f. *aykhoyl
+*3yl*mdl*m3khoy
+cdk cdnu
+ay -khoy ay mä
+ma-khoy cak cä -nu
+I
+-hpl
+I he/she
+3P-hpl rice eat -PROBH
+we
+I he/she/ they
+rice
+eat
+'Don't eat rice'Unlike English, however, the semantic role of the understood or omitted
+argument is not restricted to actors. For example in (9g-i) the argument is a
+patient.
+(9)g. pdtlu
+pat
+-u
+ulcer
+-IMP
+'May you suffer from scabies!'
+h. khdllo
+khal
+-o
+wise
+-SOLCT
+Ί wish you to be wise!'
+i. nύηηαyyu
+ηύη
+-qay
+in
+-like
+'Be happy!'-u
+-IMP4.1 Phrase structure105Meithei has two other imperative like constructions: supplicatives, with which
+a speaker pleads a course of action where the speaker will be participant (best
+translated as 'Let us V'); and permissives, where the speaker grants permission
+for some 2nd or 3rd person to carry out some action. First, there is no restriction on the person of the actor argument in such constructions. For example,
+although supplicatives usually have 1st person plural actors, a 1st person singular actor is also possible when the construction occurs as an embedded indirect question, with the meaning Ί was wondering whether I should V'.
+(9)j. ama
+a
+-ms
+ATT -one
+one
+ahum
+a
+-hum
+ATT -three
+threecdsira
+ani
+casira
+cä -si
+-la
+a
+-ni cä
+-si
+-Is
+eat -SUP -INT ATT -two eat -SUP -INT
+shall I eat
+two
+shall I eat
+cdsira
+cä -si
+eat -SUP
+shall I eat-la
+-INTtaretmak
+taret
+-mak
+seven
+-ONLY
+each sevenloyna
+cdtho?age
+loy -na
+ca -thok
+-la
+-ke
+all -ADV eat -OUT
+-PRO -OPT
+all
+want to eat up
+'(Saying to himself), 'Shall I eat one, shall I eat two, shall I eat three,'
+(he) ate all seven up.'
+Also, as seen in example (9k), an unspecified second person argument can
+be urged to allow some action, which is to be performed in conjunction with
+the speaker, to occur. (91) is an example of the permissive construction. In
+this instance, the argument that occurs with the verb marked by the permissive
+is a theme; however, the required argument of a permissive is not restricted to
+a single role. It may be a theme as in (91) or a patient as in (9m).
+(9)k. ayga
+catsi
+ay -ka
+cat -si
+I -ASS go -SUP
+I too
+let's go
+'Let's go together!'","[129, 130, 131]"
+"AsamddcdtkehaynaniqfombsniAsam -ta
+Assam -LOC
+to Assamcat -ke hay -na
+niq -lam
+-pa
+-ni
+go -OPT say -INST wish -EVD -NOM -COP
+want to go that
+wantedsduyamdrea
+-tu
+qam -ta
+-la
+-e
+ATT -ddet
+able -NEG -PERF -ASRT
+that
+was not able
+'(I) wanted to go to Assam, but that didn't work out.'
+Whereas 9du and mddu occur after the referenced noun phrase, the forms aw
+and masi occur before the referenced noun phrase. Again, the functional
+difference between an and masi is not clear since the pronouns are freely interchangeable (P. Madhubala Devi 1979: 149).
+( 1 3 ) c. 9siteysiphfjaya
+-si
+lay
+-si
+phaja
+-i
+ATT -pdet flower -PDET beauty
+-NHYP
+it
+this flower
+is beautiful
+'This flower is beautiful.'
+mand\yaqsinuqsima -si
+aqaq -si
+nuqsi
+NM -pdet child -PDET love
+this
+this child
+is sweet
+'This child is sweet.-i
+-NHYP84Chapter 3. Grammatical preview3.3.1.5 Pronouns: emphatic
+The possessive pronominal prefix may be affixed to the root sä 'body' to form
+pronouns emphasizing that the subject of the verb is a particular person or
+thing and no one or nothing else: isdna 'by myself nasdnd 'by yourself and
+mssdna 'by him/her/itself. The use of emphatic pronouns is illustrated in the
+opposition between (14a) and (14b).
+(14) a. aycäkthoijbsloypreay cäk thoij -pa
+I rice cook -NOM
+I rice to cook
+Ί finished cooking.'
+b. ay isänacäkloy
+-cd
+-la
+-e
+finish -SELF -PERF -ASRT
+finish for selfthoqbzay i
+-sä
+-na
+cäk thoq -pa
+I IP -body -CNTR rice cook -NOM
+I myself
+rice to cook
+loypreloy
+-ca
+-la
+-e
+finish -SELF
+-PERF -ASRT
+finish for self
+Ί did all the cooking by myself.'
+When an emphatic pronoun is used with an inanimate subject, the verb is a
+process verb.
+(14) c. cesimdsämthäpbanice
+-si
+ma
+-sä
+-na
+thä
+-ca
+-pa
+paper -PDET 3P
+-body -CNTR thick
+-SELF -NOM
+this paper
+itself
+is thick
+'The paper became thick by itself.'-ni
+-COPAnother emphatic pronoun of this sort is a lexicalized form consisting of
+either the first or third person possessive prefix and thantd, from than 'lone,
+single' and -ta 'exclusive'.","[109, 110]"
+"3.3 Major lexical categories
+In this section I will discuss the lexical categories which participate in the
+phrase structure described so far. I distinguish between an ""actual"" and a
+""potential"" lexicon for Meithei.20 The actual lexicon consists of an unordered
+list of underived roots and affixes and lexicalized forms. Each lexical entry in
+the actual lexicon consists of specifications about the phonological shape of the
+lexical item, what lexical category it belongs to and what its meaning is. On
+the other hand, the output of the potential lexicon consists of words created
+through productive morphological processes.
+In the actual lexicon, roots may be bound (those that must be affixed by
+further morphology to be free-standing forms) or free. Nouns and verbs from
+the actual lexicon can be distinguished on formal grounds in that bound roots
+are verbs and free roots are nouns. They can further be distinguished since
+the inflectional and derivational possibilities for each of these classes come
+from affixes that belong to mutually exclusive sets (see Chapter 7). In the
+potential lexicon, adjectives, adverbs and nominal forms can be derived from
+verb roots and stative verbs can be derived from noun roots.",[103]
+"3.4 Minor lexical categories91(18) a. dyhäk
+cdtkhrege
+ay -hak
+cat -khi
+-Is
+-e
+hay -ke
+I
+-here go -STILL -PERF -ASRT say -OPT
+I
+want to have gone
+I will go now (lit: I want to say, I am gone).
+b. layriktu
+aytjondd
+piramde
+layrik -tu
+ay -ηόη -ta
+pi
+-lam -ta
+-e
+book
+-DDET
+I -to
+-LOC give -EVD -NEG -ASRT
+that book
+to me
+not give
+'That book was not given to me.'
+-hdk is commonly omitted in casual speech styles but is used in the written
+language and in more formal speech styles (N. Promodini Devi 1989: 22). The
+forms nahdk and mdhdk, rather than the bare pronouns, are considered 'more
+polite' probably since they are associated with written and formal speech styles.
+According to N. Promodini Devi, it is possible for a speaker to utilize the
+choice between a bare pronoun form and a pronoun marked with -hdk, reflecting a semantics for pronouns much like that described for French, German
+and Italian in Brown and Gilman (1960). For example, nshdk may be used to
+indicate the speaker's respect or social distance with the addressee whereas
+η9η may be used to indicate the speaker's disrespect or intimacy with the addressee. This accounts for why -hdk is often described as an honorific or a
+marker of respect (Ch. Yashawanta Singh 1984 and P. Madhubala Devi 1979,
+among others), however, I do not adopt this analysis since -hdk also occurs
+with the first person pronoun.","[116, 117]"
+"4.1.4 Pronominal and anaphoric coreference
+Consider the English sentences in (4a-c). These sentences show that a certain
+structural relationship has to hold between himself and its antecedent. First,
+the antecedent must precede the pronoun: (4a) is grammatical whereas (4b) is
+not. Second, the pronoun must be ""within reach"" of the antecedent it is referentially linked to. Thus (4a), where the pronoun is in the same clause as its
+antecedent, is grammatical but (4c), where the pronoun is in the complement,
+is ungrammatical.
+(4)a. John knows himself.
+b. *Himself John knows.
+c. *Johni thinks that Mary knows himself .",[123]
+"Much of this analysis is taken from Hodson (1908: 163ff).
+With the prefixation of 2-, in stems of the shape CaC where the coda is
+[w], the vowel is reduced to [a]. Examples are given in (i-iii).
+i.caw-'big'9cawbd'be big'ii.
+iii.haw-'taste'
+'anger'ahswbd'tasty'
+'be angry'saw-dsdwbdThis prefix is most probably cognate to the Garo and Baro kV- prefix
+(where the V stands for a variable vowel), which derives adjectives from
+intransitive verbs (Burling 1984: 36). khajiktd is probably composed of
+this prefix and the root cik 'sever' as seen in (10a).
+khitaq has nonaspirated variant fcit^tj.
+This is also true for many unrelated languages of the region. See Verma
+(1976).
+The prefix khu- is no longer productive in Meithei. Recall that the third
+person possessive prefix is also ma-. This homophony between the
+pronominal prefix and the derivational prefix is also attested in Tibetan
+where the prefix 9- has a pronominal use (indicating the third person
+pronoun) and a homophonous prefix has a nonpronominal use, since it is
+used to derive nominals from verbs. These are considered as derived
+from a Proto-Tibeto-Burman third person pronoun (Wolfenden 1929,
+Benedict 1972).
+See also Chomsky (1982: 211) for a definition of governing category.
+(6b) is accepted but characterized as ""poetical"". Some consultants except
+(7b) whereas others feel it is ungrammatical with a third person pronoun
+and better with a first person pronoun and reflexive.
+In my judgement, however, (9b) is grammatical without the complementizer: ' Who did you say went in first?'",[524]
+"Unless a relativized noun is marked by the determiner -si or -tu, it gets an
+indefinite reading as in (4a,b).
+(4)b. layrik
+layrik
+book
+bookyamna
+kanna
+yam -na
+kan -na
+lot -ADV hard -ADV
+very
+hardpaba
+pa
+-pa
+read
+-NOM
+one who studiesnupa
+nu
+-pa
+person -MAS
+boymacäna
+aphaba
+thabak ρΗζηηί
+ms -cä
+-na
+a
+-pha -pa
+thabak phaq
+-ni
+NM -small -CNTR ATT -good -NOM work
+find
+-COP
+small
+which is good
+work
+will find
+'Boys who study hard get good jobs.'
+When marked by the distance determiner a relativized human noun is either a
+physically or conversationally distant topic as in (4c). Use of the proximate
+determiner with the relativized noun phrase to refer to a current topic of conversation or a person visible to the speaker is stylistically marked but possible,
+see (4d). The use of the proximate determiner with relativized inanimate
+nouns is not stylistically marked.
+(4)c. nupa
+phiiba
+nu
+-pa
+phu -pa
+person -MAS beat -NOM
+the man
+one who beatnupidu
+nu
+-pi
+person -FEM
+that girlay kizay
+ay ki
+-ca
+-i
+I fear
+-SELF -NHYP
+I fears
+'I'm afraid of the girl who beat the man.'
+d. nupa phuba nupisi ay kizay
+'I'm afraid of this girl here who beat the man.'-tu
+-DDET6.1 Nominalization1616.1.2.2 Internally headed relative clauses
+Relative clauses may be internally headed. In this case, the relativized noun
+appears within the relative clause and a determiner referring to the relativized
+noun functions as the nominalizer of the clause. Example (5a) illustrates the
+externally headed relative clause construction and (5b-d) illustrate the corresponding internally headed construction.
+(5)a. hswna
+haw -na
+loud -ADV
+loudly
+aygiqdqbd
+qäq
+-pa
+speak -NOM
+to speaknupaddonu
+-pa
+person -MAS
+mana
+-tu
+ATT -ddet
+that onemdrupniay -ki
+marüp -ni
+I
+-GEN friend -COP
+my
+friend is
+'The boy that spoke loudly is my friend.'
+b. nupanu
+person
+boy
+zygihawn?-pa
+haw -na
+-MAS loud -ADV
+loudlyqdqbddoqäq
+-padu
+speak
+-DCOMP
+that speakingmarupniay -ki
+marup -ni
+I
+-GEN friend -COP
+my
+friend is
+""The loudly speaking boy is my friend.'
+nupaawaqbasinu
+-pa
+a
+-waq -pasi
+person -MAS ATT -tall -DCOMP
+man
+this one that is tall
+T h e tall man is my friend.'
+d. nupaphubssiaygiaygimznipniay -ki
+I
+-GEN
+mymarup -ni
+friend -OC
+friend ismarupninu
+-pa
+phu -pasi
+ay -ki
+marup -ni
+person -MAS beat -DCOMP I -GEN
+friend -COP
+man
+this beater
+my
+friend is
+'The beater of men, this one, is my friend.'","[186, 187]"
+"122Chapter 4. Grammatical relations and information structure4.3.5 Restrictions on pragmatic marking
+Semantic role markers can be replaced by pragmatic markers with all predicate
+types. Examples of where this occurs with state and two-argument predicates
+are given in (19)-(25). Examples with three-argument predicates and causative
+verbs are given in (26) and (27) respectively.
+(26) a. Tombadi
+Tombs -ti
+Tomba -DLMT
+Tombalayriktu
+layrik -tu
+book -DDET
+that booknupasina
+nu
+-pa
+-si
+-na
+person -male -PDET-CNTR
+the manpirammi
+pi
+-Ism
+-i
+give
+-EVD -NHYP
+gave
+'The man gave that book to (this, rather than the other man named)
+Tomba.'
+b. Tombadi
+Tomba -ti
+Tomba -DLMT
+Tombalayriktu
+layrik
+-tu
+book
+-DDET
+that bookTombisind
+Tombi -si
+-na
+Tomba -PDET -CNTR
+this Tombipikhrabadi
+ydy
+pi
+-khi
+-la
+-pa
+-ti
+yä
+-ί
+give
+-STILL -PRO -NOM -DLMT
+agree -NHYP
+if give
+agree
+'Tomba (opposed to the rest) hi no objection to giving this (opposed
+to others named Tombi) Tombi hat book.'
+c. Ramna
+Tombidd
+lay
+Ram
+-na
+Tombi -ta
+by
+Ram
+-CNTR Tombi -LOC flower
+Ram
+to Tombi
+flower
+'Ram sent the flowers to Tombi.
+d. Tombidi
+layriktu
+Tombi -ti
+layrik -tu
+Tombi -DLMT book -DDET
+Tombi
+that book
+Tombi also gave the book to Ram.'thdrammi
+thä
+-lam -i
+send -EVD -NHYP
+sentRamsu
+pi46
+Ram
+-su
+pi -i
+Ram
+-ALSO give -NHYP
+Ram also
+gave4.3 Informationstructure123When two or more arguments of a verb are human, they must be marked by
+either semantic or pragmatic marking. Such a restriction, determined by number of and humanness of arguments, cannot be motivated by a grammatical
+marking system where one would expect structurally determined rules, but is
+well motivated when viewed in terms of interpretation. To facilitate interpretation the pragmatics require a minimum amount of information to differentiate
+the status of arguments.
+In sentences with causative verbs, non-agent arguments may occur without
+semantic role marking but must minimally be marked with pragmatic markers
+(26e,f). Agent marking is usually not manipulated by the pragmatic marking
+system, and if an agent is not omitted it will occur with its semantic role marker. Sentences like (26g), however, are marignally acceptable if enough context
+is provided: in this case, there might be a photo album open with a picture of
+the agent being pointed out by the speaker.
+(26) e. Cawbana
+3ηάηάιι
+rjawhalhmmi
+Chaoba -na
+aqäq -tu
+qaw
+-han
+-lam -i
+Chaoba -AGN child -DDET white -CAUS -EVD -NHYP
+Chaoba
+the child
+caused to become white
+'Chaoba caused that child to appear fair (by powdering her face).'
+f. Tombdnd
+layriktu
+Tomba -na
+layrik -tu
+Tomba -CNTR book -DDET
+this Tomba
+that booknupadund
+nu
+-pa
+-tu
+-na
+person -male -DDET -AGN
+the manpahdlhmmi
+pa
+-han
+-lam
+-i
+read
+-CAUS -EVD -NHYP
+made to read
+T h e man made Tomba here read that book.'","[147, 148, 149]"
+"8.1.1 Productive combinations
+Nominal compounds such as the noun+noun and verb-I-noun compounds given
+in (2a-g) are right-headed. In these cases the first root modifies the second
+root. In (2e-g), the final root is modified by a noun+verb compound.
+(2)a. khotjtem
+b. phiruk
+c. yengon
+d. thakpham
+e. maykhumphi
+f. phiyonphäm
+g- unbdnthafoot-way
+cloth-basket
+hen-place
+drink-place
+face-cover-cloth
+cloth-sell-place
+ice-rule-month'footpath'
+'clothes basket'
+'chicken coop'
+'drinking place'
+'veil'
+'cloth shop'
+'winter'Chapter 8. Compounding and duplication262Nominal compounds of the form noun+verb may be left-headed as in (2h-j)
+where the head is modified by a state verb.
+(2)h.
+i.
+j.phigd
+όϊη}aw
+yumgomcloth-under
+hill-big
+house-collect'under garment'
+'mountain'
+'outhouse, urinal'Examples of exocentric nominal compounds, where neither root is the head, as
+in English deaf-mute, are given in (2k-m).
+(2)k.mitna1.","[287, 288]"
+"2Chapter 1. IntroductionOn the one hand, Meithei shares many features with Tibeto-Burman languages such as tone, widespread stem homophony, agglutinative verb morphology, verb derivational suffixes originating from the semantic bleaching of verbs,
+duplication or elaboration (see Chapter 8), evidentiality and emotional attitudes signalled through sentence final particles, aspect rather than tense marking, lack of gender marking, verb final word order and the lack of grammatical
+relations such as ""subject"" and ""object"" (DeLancey 1987, Matisoff 1991b). On
+the other hand, Meithei is atypical for the Kamarupan group in some significant ways. It lacks pronominal marking on the verb, which is considered an
+original Tibeto-Burman trait (Bauman 1975, DeLancey 1989b),1 and it lacks
+numeral classifiers. Also, due to extensive cultural contact with Indo-Aryan
+languages, in particular Bengali and Sanskrit, and in recent times Assamese
+and Hindi, Meithei contains a large number of borrowed lexical items and
+some non-Tibeto-Burman constructions such as the use of question words as
+heads of relative clauses.
+Meithei is known by different names. The loconym Manipuri, a term derived
+on analogy with other place names in India such as Kanpur where -pur is of
+Sanskrit origin meaning 'state, place', is used by the Indian government and
+non-Meithei Indian scholars. Folk etymologies for Manipur originate from mythology: a snake god Vasuki is said to have thrown out a shining diamond (or
+mani, the Sanskrit word for jewel) from its head which filled the land with
+natural beauty or jewels. Government-run institutions in Manipur use this
+name; for example, Manipur Language Department and All India Radio News in
+Manipuri. On ideological grounds many Meithei speakers prefer to use the
+glossonym Meitheiron which contains Ion 'language' (N. Promodini Devi 1989a).
+In the linguistic literature written by western scholars, the term Meithei (sometimes spelled Meitei) is used. Meithei scholars seem to make a distinction
+between whether they are writing in Meithei (when they tend to use the term
+Meitheiron) or in English (when they use Meithei). The term Meithei itself
+may be a compound of mi 'man' and they· 'separate' (Hodson 1908: 10).
+Sohini Ray (p.c.) has pointed out that a current term in use by Meithei
+""revivalists"", those who wish to assert Meithei religious, cultural and political
+autonomy from India, is Meetei. The origin of this term and its pronunciation
+are yet unclear to me.
+I have adopted the practice of using the term Meithei to refer to the language of the Meithei since this is what speakers prefer. Also, this avoids confusing the Tibeto-Burman language spoken in Manipur with Bishnupriya Manipuri which is an Indo-Aryan language that was spoken in Manipur between the
+13th and 19th century. In the early 1800s Bishnupriya speakers migrated from
+Manipur to neighboring Assam, Tripura and Sylhet. Due to the long period of
+contact with it, Bishnupriya Manipuri has borrowed many words and some
+suffixes from Meithei (Sinha 1974, 1986).","[27, 28]"
+"DeLancey's evidence that seeks to establish pronominal marking as an
+original Proto-Tibeto-Burman trait is not uncontested (e.g. LaPolla 1992).
+This list was compiled from K.S. Singh and Manoharan (1993) and Sen
+(1992).
+One bittersweet joke in Imphal is that rickshaw drivers in the state are
+the most educated in the country. Many speak English and hold Masters
+degrees but cannot find better employment.
+Texts and elicited data were processed using Summer Institute of
+Linguistics software called Interlinear Text Processing.
+There is one exception to this rule: ada 'way over there' which is pronounced with emphatic intonation (a lengthening of the vowel accompanied with creaky voice). This form is possibly a lexicalized combination
+of the attributive prefix a- (note that an initial a would be ungrammatical
+here) and the locative suffix -ta with emphatic intonation.
+The contrast of /a/ and /s/ word finally is marginal. A small class of
+nouns end in /a/ and contrast with verb plus nominalizer sequences which
+end in /Θ/ (piba 'to give' and piba 'clan member') or noun plus case marker which ends in /Θ/ {longa 'kind of bamboo' and longa 'with language').
+Since only a vowel can form the nucleus of a Manipuri syllable, in borrowed words a [d] is inserted as the nucleus for words with syllabic nasals
+or liquids: philam 'film', tebal 'table'. Presumably, the word for 'film' was
+borrowed from an Indo-Aryan language where the insertion of [s] had
+already taken place.
+Thoudam (1980: 50) attributes such variation to the insertion of a; however, this would not account for the realization of Ν as [r] when a is not
+present.
+Phonology in α Lab Box is in use at the University of Texas at Austin by
+Anthony Woodbury. SoundEdit and Signafyze for the Macintosh were
+made available to me through Kerry Green and associate Kathy Fohr of
+the Speech Perception Lab at the University of Arizona. I am grateful to
+these individuals for giving me access to the hardware and software
+necessary for this instrumental study.
+These minimal pairs have been noted by Ningthongjam (1982: 33) who
+differentiates them by postulating a pause juncture with the subordinating
+suffix sequence; however, since a pause is not always present between a
+root and a subordinating sequence, the pause juncture hypothesis falls
+short of a real explanation about the contrast in these pairs.",[521]

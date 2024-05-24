@@ -1,0 +1,1765 @@
+Paragraph,Page number
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM250 Chapman and DerbyshireSyntax of Phrase Types
+15 Noun phrase structure
+A noun phrase is a noun functioning as head with optional modifiers and
+particle, or a pronoun. The demonstrative is not considered a constituent of
+the noun phrase but is discussed in section 15.3.2.
+15.1 Marking for case. The subject of a transitive verb is marked with the
+enclitic -a *ERG' when this constituent occurs immediately before the verb
+and is not associated with a demonstrative.
+(351)mamai-a
+bi-n-oba-hi
+mother-ERG 3SG-CAUS-chop-THEME
+'Mother chopped down a small tree.'ida
+ava pa'itxi
+DEM,f tree smallThe subject is also marked when it occurs in the right dislocated
+clarification position.
+(352)bi-dabo-hi,
+Ofi-a
+3SG-tie-THEME Ofi-ERG
+'He tied it, Ofi did.'","[89, 90]"
+"(293)kodi-Oj'omo'i-hi
+kaimoni
+my-learning:thing-NOMLZR PURPhi-ni
+mani
+be-DEP:INTRANS COPida
+o-na-jiri-vini
+hi-ja
+DEM,nem 1SG-C A US-write -DEP:TR ANS AUX-IMMED
+'For the purpose of it being my learning thing, I'm writing it,'Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM234 Chapman and DerbyshireIn (292) the purpose particle kaimoni governs the dependent verb form,
+whereas in (293) it governs a noun phrase and is itself governed by the
+dependent verb, which in this case is the dependent form of the auxiliary
+hi, glossed here as 'be'. There is no significant difference in meaning
+between the two uses of kaimoni.
+There is, however, a significant pragmatic function served by the use of
+the equative clause in all these examples (288-293). As noted in 14.6 and
+section 9.2.3, whenever an equative clause is used in the sentence-initial
+position, as a single constituent of that sentence, it adds a degree of
+prominence to that constituent, whether it refers primarily to a participant
+or, as in these examples, to a proposition. It has much the same effect as a
+pseudo-cleft construction in English, so that (288), for example, could be
+glossed something like: 'It is because I was hungry that she gave me food'.
+The hi construction is also used as the second in a two-clause sequence
+to express result. In this case, both clauses are main clauses, marked as
+such by the verb-final thematic suffix.
+(294)ka-mokhi-ki
+ida
+gamo
+morobo-ni,
+N:CLASS-deaf-NONTHEME DEM,f woman ear-f
+athi-ra
+ka-mitha-ra-vini
+hi-ki
+speech-OBJ VBLZR-hear-NEG-DEP:TRANS AÜX-NONTHEME
+'The woman's ear is deaf, so she can't hear speech.'","[73, 74]"
+"Finally in the constituent order parameter, the S and O nominals can be
+postposed to the verb and right-dislocated. In this case, they retain their
+case-marking enclitics. The pragmatic function here is that of clarification of
+the referent, which is only marked for person, gender or number in the
+verb of the main predication. Additional prominence is thus given for
+purposes of disambiguation or emphasis.
+(140)bi-oga-ki,
+ovari
+Parajairo-a
+3SG-know-NONTHEME S:EMPH Parajairo-ERG
+'He knew, that one Parajairo (knew).'",[37]
+"If the object is plural and animate then the plural object pronoun
+obligatorily precedes the verb. A noun phrase object may also occur and
+usually precedes the pronoun. In that case, both the noun phrase and
+pronoun are usually tagged with -ra. This can result in either OVS order
+(9) or SOV order.
+(9)sorara-ra
+va'o-ra
+soldiers-OBJ them-OBJva-ni-'a-vini
+3PL-say-TRNSTVZR-DEP:TRANSadani
+imakhinava vi-1bami-ki
+DEM: PL fellows
+3PL-two-DESC
+'The two fellows said to the soldiers.'
+The noun phrase part of the plural object may also occur following the
+verb, leaving the pronoun in the immediately preverbal position. In this
+case, only the pronoun has the -ra enclitic, but the noun phrase occurs with
+the plural demonstrative.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM166 Chapman and Derbyshire(10)joma va'o-ra
+a-da-va
+adani
+night them-OBJ IPL-strike-HORT DEM:PL
+'Let's attack the soldiers by night.'sorara
+soldier13 Ditransitive, The distinction between transitive and ditransitive clauses is
+that in the latter there is a double object construction,
+The enclitic -re OBJ' marks the (semantically) indirect object in the
+immediately preverbal position. The (semantically) direct object, i.e.,
+patient, is tagged with another enclitic, -a 'demoted object' (DEMOT:O), or
+occurs with a demonstrative. In addition, the ditransitive verb is usually
+clearly marked as such by the presence of one or more derivational affixes
+(sect. 18.5.8).
+The basic word order in ditransitive clauses is:
+(S) OBJ-ra V AUX (DEM) DEMOT:O(-a)
+The number, gender, person and noun class agreement remains the same
+as for a transitive clause. An auxiliary verb hi- follows the main verb and
+may be affixed for number, person, gender, noun class and theme, the
+latter agreeing with the element in the demoted object for gender. Should
+this be a complement clause, then the agreement marking is always
+feminine singular. The main verb always has a dependent suffix when
+followed by an auxiliary verb (sect. 18.8.2).
+(11)ho-ra
+no'a-vini
+hi-ki
+me-OBJ give-DEP:TRANS AUX-NONTHEME
+ihai-a
+medicine-DEMOT:O
+'She gave me medicine.'","[5, 6]"
+"15.2 Noun classes, gender, number and possession (genitives). These four
+categories-class, gender, number and possession-interact with each other, so
+that it is necessary to discuss them all together.
+Nouns can be classified into eight different subclasses on the basis of:
+masculine vs. feminine gender, non-ka- vs. ^a-NOUN CLASS and alienable
+vs, inalienable possession. (See Table 1).
+Table 1. Categories of noun classification
+FEM
+MASC
+Non-kaNOUN CLASSkaNOUN CLASSalienable
+possession
+inalienable
+possession
+alienable
+possession
+inalienable
+possessionThere is no distinguishing feature on the noun to indicate its gender, or
+class, or number. Gender is shown by demonstratives and by the final suffix
+on verbs and adjectives (-nil-na or -hil-ha) (sect. 18.4), Noun class is shown
+by a ka- prefix on the noun modifier and verb. Number on inanimate
+objects must be shown by a quantifying modifier. Larger animals and
+humans show plural prefixes on modifiers and verbs. Smaller animals are
+usually treated in the same way as inanimate nouns.
+The demonstrative associated with each noun indicates its gender and
+number;
+(374)voroni-'i-hi
+fall-ASP-THEME,f
+'His knife fell.'ida
+kidi-hado
+DEM.f his-knife,f(375)voroni-'a-ha
+fall-ASP-THEME,m
+'His comb fell.'ada
+kidi-mai'da
+DEM,m his-comb,mBrought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 255(376)vi-kha-mai-'a-ha
+adani
+3PL-MOT-nearby-ASP-THEME.PL DEM:PLija'ari
+peoplevi-'bami-ki
+3PL-two-DESC
+Two people came to the nearby house.'
+The ka- nouns form a small subclass that do not seem to have any
+semantic link with each other. Out of certain classificatory lists (e.g. birds,
+fruit, objects) a few items will be ka- nouns. (Out of 45 animals 2 are ka-,
+out of 80 birds 8 are ka-, out of 46 reptiles and insects 10 are ka-, and out
+of 84 fish none are ka-,)
+To give specific examples, all the following are ka- nouns: katopahian
+'rainbow', ho'doko 'dove', 'ba'dana 'type of lizard', bava'do 'type of frog',
+kasi'i 'alligator*, kaboka 'type of ant', moka'a'a 'spider', barasia
+'watermelon', jaro'oa 'corn', kabahai 'thigh', kajoi 'intestines', jokira 'salt',
+kojira 'spoon*, kanava 'canoe', vanami 'paddle'.
+There are a few homophonous words that are distinguished by their noun
+class:
+rsa ai
+'damai
+moroboi
+siho(ka-)
+'hand'
+'foot*
+'inner ear*
+'fire*(non-ka-)
+'finger'
+'toe'
+Outer ear' (part visible)
+'firewood'A noun modifier within the phrase and a prefix on the verb show
+agreement with a ka- class noun. (The class marker normally has the form
+ka- (377a), but is sometimes a- (383), ko- or ki-.)
+The agreement is governed by the head noun in the case of noun
+modifiers (377a) and by the intransitive subject (377b) or the direct object
+(377a) in the case of the ka- verb prefix.
+(377a) o-ka-nofi-ki
+oni
+vanami ka-karaho
+ISG-N.CLASS-want-NONTHEME DEM,f paddle,f N.CLASS-big
+Ί want the big paddle.' (vanami belongs to the ka- class and is also
+feminine.)
+(377b) ka-mokhi-ki
+ida
+gamo
+morobo-ni
+N.CLASS-deaf-NONTHEME DEM,f woman ear-f
+'The woman's ear is deaf.' (morobo belongs to the ka- class and is
+also feminine.)Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM256 AbbottThe ka- 'N.CLASS* prefix also occurs on the Subject Emphasis pronoun
+(see (441) in sect. 16.1) and on postpositions (see (466) in sect 17). It is
+prefixed to the auxiliary verbs hi (sect. 18.8.2 and for an example see
+(107)) and m (see (767) and (768) in sect. 18.9). As (767) shows, a loan
+word (mesa 'table') can belong to the ka- class.
+The possessive prefixes on the alienably possessed nouns are: kodi- '1SG',
+kada- '2SG', todi- '3SG', ka- 'GEN', akadi- 1PL', avakadi- '2PU, vakadi'3ΡΙΛ
+(378)o-vi-kha-'i-ki
+ida
+1SG-COMIT-MOT-ASF-NONTHEME DEM,f
+Ί have brought Mary's fan.'","[94, 95, 96]"
+"The verb in (141), 'bai 'eat', is normally intransitive. The final suffix, -ha
+'THEME', agrees with vi- '3PL'. Siri amabokhoni 'turtle elbow* is marked
+as direct object by the enclitic -ra. This form of prominence marking occurs
+when a grammatically intransitive verb is used in a semantically transitive
+way. The overt object may only occur clause final and is marked by the
+object enclitic -ra. It may not occur in the normal pre-transitive-verb
+position.
+9.2.2 Uses of the particle vani. The particle vani is postposed to a noun
+phrase or pronoun to indicate that the referent is being selected out of
+other possible choices, or is in contrast with other referents in the
+immediate context. The phrase with vani may be the subject or object of
+the clause, and it is always pre verbal and usually in the clause -initial
+position. There are three basic types of construction, each expressing a
+different degree of prominence with respect to the referent
+First, να/ΐϊ may occur alone following the noun phrase or pronoun. In this
+case, the contrast or selection is being stated or implied, but without any
+special prominence.
+(142)mina'di
+vani-a
+bi-noba-'iana-hi
+etectric.ee! CONTR/S ELECT-ERG 3SG-shock-again-THEME
+'An electric eel (not something else) shocked her again.'",[38]
+"14.3 Relative clauses. A relative clause has an inflected verb with the suffix
+-fa. This suffix is glossed 'NONTHEME* when it occurs in a main verb and
+'DESC when it occurs as a nominal modifier. In this function, it can often
+be regarded as a simple adjective (sect. 15.3), as well as a relative clause.
+The head noun which the clause modifies may be the subject (310, 311),
+direct object (312, 313), or oblique constituent (314, 315) of the main
+clause. There do not appear to be any restrictions on the syntactic
+functions which the relativized constituent can have in the relative clause,
+the following examples illustrating subject (310, 311, 312), object (313, 314)
+and genitive (315) relativization. The relative clause normally follows the
+noun it modifies (but can have another constituent of the noun phrase
+following it, as in (314) and (315)), and the case markers -ra OBJ' and -a
+'ERG' (311, 312) follow the relative clause when this is the final constituent
+of the whole noun phrase and when that phrase functions as object or
+subject, respectively, of the main clause in the preverbal position.
+(310)siri
+ka-jokira-ri-ki
+ho-ra
+turtle VBLZR-salt-NEG-DESC me-OBJ
+na-ihamahi-'i-hi
+CAUS-be:angry-ASP-THEME
+'The turtle which was unsalted angered me* or
+Ί was angry because the turtle was unsalted.'",[78]
+"9.2 Noun phrase marking to express prominence in relation to participant
+reference. There are five principal devices used to highlight noun phrase
+referents: variation in the order of clause constituents (9.2.1); postposing of
+the particle vani 'CONTRAST, SELECTION' to the noun phrase (9.2.2);
+placement of demonstrative in preverbal position (9.2.3); use of special
+subject-emphasis pronouns (9.2.4); and the use of certain forms of hi 'AUX'
+immediately following the noun phrase to express a contrastive focus
+function (9.2.5).
+9.2.1 Variation in the order of clause constituents. The basic orders of
+clause constituents are (intransitive) VS and (transitive) SVO (sects. 1.1 and
+1.2). Variations from these orders result in one or both of the S and Ο
+nominale being marked as either more prominent or less prominent than in
+the unmarked (basic) orders. Another common order in transitive clauses is
+OVS (133), in which the Ο is given more prominence as a marked topic
+by being fronted, and the S is demoted to postverbal position; the Ο is also
+morphologically marked by the -ra case-marking enclitic (sects. 1.2 and
+15.1). Both the S and O nominals can be further demoted by being omitted
+from the clause (134).
+(133)i'oa-ra
+na-hado-ha
+ada
+kodi-abi'i
+tambaqui-OEI CAUS-knife-THEME DEM,m my-father
+'My father cut the tambaqui fish.'",[36]
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 163Syntax Of The Sentence Or Clause
+1 Word order
+The syntactically distinct clause types are: intransitive, transitive, ditransitive
+and copular-equative,
+1.1 Intransitive. The basic word order of the intransitive clause is VS. The
+subject noun phrase obligatorily contains a demonstrative in the initial
+position. There is no other form of case-marking.
+There is no overt marking to distinguish an intransitive active verb from
+an intransitive stative verb. The verb (frequently) and the demonstrative
+(always) agree in number, gender and class with the noun of the subject
+constituent (sects. 15.2 and 18.4).
+(1)soko-a-ki
+hida
+mamai
+wash-DETRANSVZR-NONTHEME DEM,f mother
+'Mother is washing.'","[2, 3]"
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 165There are two other constituent orders that frequently occur in transitive
+clauses: OVS and SOV. In both, the object occurs immediately before the
+verb and is marked by the enclitic -ra OBJ'. This signals that the
+accusative system is now operating, and it is mutually exclusive with the
+ergative system, so that the subject now does not receive any form of
+case-marking and can occur before the object or after the verb, but cannot
+occur in the immediately preverbal position (sect. 15.1). The pragmatic
+conditions under which these orders occur are discussed in section 9.2. In
+these -ra constructions, it is the subject that controls the number and
+gender agreement in the verb-final suffix and the demonstrative (see (7); in
+(8) the verb-final suffix is -ki 'NONTHEME', which is neutral as regards
+gender). A demonstrative never co-occurs with -ra in the object noun
+phrase in this preverbal position. See Chapman (1981) and Derbyshire
+(1983 and 1986).
+(7)maravi-ra
+namonaha-hi
+fan-OBJ
+make-THEME.f
+'Mother made a fan.'ida
+mamai
+DEM,f mother(8)mamai, amo'amo Vanda ai
+mother cousin
+Vanda depart
+ari-hi-na-ra
+nofi-'i-ki
+1PL-AUX-DEP:INTRANS-OBJ want-ASP-NONTHEME
+'Mother, cousin Vanda wants us to leave.'","[4, 5]"
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM244 Chapman and Derbyshire(334a) nahina mani ida
+what
+COP DEM,f
+'What is that?'
+(334b) si'aha
+mani ida
+cooking:pot COP DEM.f
+'That is a cooking pot.'
+Where the predicate complement contains as its nucleus a dependent
+verb form or a nominal derived from a verb, the gender distinction is
+neutralized and the feminine demonstrative is used as the neutral form.
+This rule applies irrespective of the gender of subject or object nominals
+that may occur with the dependent verb. Either hida, the ""near"" deictic, or
+Ida, the ""far"" deictic, may be used.
+(335)bada
+worko-ni-na
+mani
+1SG-AUX-DEP:INTRANS COPhida
+DEM,neuthida
+ho-ra
+na-hoja-ja
+DEMrLOC me-OBJ CAUS-stay-IMMED
+'My working is causing me to remain here.'
+(336)o-karahoba-ra-vini
+mani
+lSG-cover-NEG-DEP:TRANS COPida
+bahi-a
+DEM.neut rain-ERGbi-na-a'ba-vini
+hi-ja
+3SG-CAUS-wet-DEP:TRANS AUX-IMMED
+'Because I didn't cover it over, the rain made it wet'
+There are two types of predicate nominal involving kaimoni 'PURP* that
+result in embedded equatives which function as adverbials. In one, the
+particle kaimoni governs a noun phrase and the demonstrative takes the
+gender of the head noun (337). In the other, kaimoni governs a dependent
+verb construction and the demonstrative then has neutral (feminine) form
+(338).
+(337)o-jora-na
+kaimoni
+lSG-mat,m-neut PURPmani
+COPhada
+DEM.mo-namonaha-ra
+1SG-C AUS:make-IMMED,m
+Tor it to be my mat I'm making it.'
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 245(338)kodi-makari-ra
+my-cloth-OBJo-rokhoi-νίηΐ
+kaimoni
+lSG-sew-DEP:TRANS PURPmani hida
+o-nofi-ja,
+va'a
+COP DEM,neut ISG-want-IMMED thread
+'For sewing my material I want it, thread.'
+In these embedded constructions, the equative clause is always the first
+constituent of the main clause. This fits the pattern of fronting constituents
+and adding certain elements (in this case mani + DEM) for the purpose
+of emphasis, contrast, or prominence of some kind. In the case of the
+embedded equative construction, as we suggest in 14.1.3, the effect seems
+to be much the same as the pseudo-clefting device in English, See also
+section 9.2.3.
+The equative clause, as a constituent of the main clause, usually stands
+alone, without any enclitic or particle following it. Occasionally, as in (339),
+a particle (yiahania) may follow, and it seems to function as part of the
+(adverbial) constituent
+(339)o-a-na-ja'di-vini
+mani
+lSG-STATVZR-CAUS-new-DEP:TRANS COPida
+DEM.neutviaha-ni-a
+o-na-tarara-vini
+before-neut-OBL lSG-CAUS-puIl:down-DEP:TRANS
+hi-ja
+AUX-IMMED
+'Because before I renew it (house), I'm pulling it down.'
+When the predicate nominal is a dependent verb construction, this type
+of equative clause never occurs as an independent main clause or sentence.
+Its grammatical function appears to be restricted to the three categories:
+subject, passive agent and adverbial; and the semantic functions seem to be
+limited to agent, cause-reason and purpose. Equative clauses with noun
+phrase complements can occur as independent main clauses (334a, b), and
+also as direct objects (340), as well as subjects (341).
+(340)nahina mani hida
+i-nofi-ja
+what
+COP DEM,f 2SG-want-IMMED
+'What is it you want?'","[83, 84, 85]"
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 22514 Subordinate clauses
+In the following subsections we discuss the various types of subordinate
+clause constructions that occur in the language, distinguishing them primarily
+by their syntactic function and/or the way the constructions are internally
+organized: adverbial clauses (14.1); complement clauses (14.2); relative
+clauses (14.3); nominalized verb constructions (14.4); indirect and direct
+quotation (14,5); embedded equative clauses (14.6); and subordination by
+juxtaposition of certain conditional clause constructions (14.7). We close the
+section (14.8) with a few examples of complex, multi-embedded clauses, and
+other examples of these are scattered through the other subsections.
+14.1 Adverbial clauses. The main characteristic of adverbial clauses is the
+verb-final suffix, which is either -vim 'DEP:TRANS' or -nij-na
+'DEP:INTRANS, f/m'. This replaces the verb-final thematic suffixes that
+occur in main clauses (sect. 18.6.1). Otherwise, the dependent verb has all
+the potential for affixation of a main verb. This dependent verb form is not
+restricted to adverbial subordinate clauses. It can also function as a subject,
+object, or equative predicate complement (14.2). It also occurs at times as
+the nucleus of an independent clause, with or without a form of the
+auxiliary verb hi following it, but without any main verb to which it is
+subordinated.
+It is this latter characteristic that is common to the three main types of
+adverbial clause construction we discuss below: dependent verb form alone
+(14.1.1); dependent verb form and subordinating particle (14.1.2); and
+dependent verb form and hi auxiliary construction (14.1.3). In the case of
+the subordinating particles, they sometimes occur with thematic suffixes
+instead of dependent suffixes on the verb. These adverbial clauses have the
+same word order patterns as main clauses. They most often consist only of
+the verb, but it is common to find a single nominal constituent plus verb,
+and the sequences VS, VO and OV all occur frequently. It is rare to find
+more than one nominal.
+There is one other type of adverbial clause which occurs occasionally.
+This is the participial, in which neither the thematic suffixes nor the
+dependent suffixes occur (14.1.4).
+14.1.1 Adverbial clauses in which the dependent verb form occurs without
+particle or auxiliary. This is the most generally used type of adverbial
+clause and it covers a wide semantic range, including: time (259, 260),
+location (261), purpose (262), manner (263), and reason (264).","[64, 65]"
+"The Ο nominal is given special prominence by being fronted and
+left-dislocated. In this case it does not have the case-marking enclitic -ra.
+The S can precede (137) or follow (138) the verb, or be omitted (139).
+(137)akadi-prato, jara
+radahaki-a
+our-plates
+non: Indian passing-ERG
+bi-na-roiroi-mai-ribani-vini
+3SG-CAUS-row-side:by:side-line-DEP:TRANS
+Our plates, a passing non-Indian had stood them up side by side in
+a line.'",[37]
+"3 Ellipsis
+In a discourse or dialogue the subject and object nominals are frequently
+omitted if the referent can be understood from the context. The context
+may be the immediate discourse or the social setting. Kinship terms may be
+used as referents, implying that the listener is familiar with the kinship
+system and the speaker's role in it. One person may be named to
+represent a whole group of participants.
+When a native speaker, who is not the author, is checking a text, the
+checker is often unable to supply specific information. This shows that
+omitted material is not always recoverable, even by someone from the
+culture.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM176 Chapman and DerbyshireEven though the demonstrative and noun phrase (subject or object)
+following the verb may be deleted, the gender agreement shown by the
+form of the thematic verb suffix remains. And when a subject noun phrase
+is omitted, the verb continues to be marked for number and person to
+agree with the omitted subject. An example of a transitive verb in which
+both subject and object noun phrases have been omitted (underlying SVO
+order is implied) is:
+(52)bi-n-oba-'iana-hi
+3SG-CAUS-chop-again-THEME,f
+'She chopped it again.'","[15, 16]"
+"In modern speech, every Paumari uses the Portuguese se 'if clause initially,
+which makes it unambiguously conditional.
+The contrafactual conditional relationship is also expressed by two
+clauses. The first is obligatorily marked by the particle vaha
+'CONTRAFACT, which usually occurs immediately following the verb, and
+the thematic suffix is -jal-ra 'IMMED, f/m'; the optional negative marker is
+the verb suffix -ή. The second clause has a -hi/-ha THEME' suffix, unless
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 247the clause is negative, in which case -ία 'ΝΟΝΤΗΕΜΕ' and the negative
+proclitic ni- occur. The particle vaha may optionally be repeated in the
+second clause.
+(345)o-ko-'bai-ja
+vaha;
+i-ra
+ISG-VBLZR-food-IMMED CONTRAFACT you-OBJ
+o-no'a-hi
+ISG-give-THEME
+'If I had food, I would give you some.'","[86, 87]"
+"(606)kaimaha-vaha-ri-ki
+ida
+makari
+wear-DESCVZR-NEG-NONTHEME DEM cloth
+'The cloth is not wearable/
+(i.e., 'It has not yet been made up into a garment/)There are a few examples of -vaha following the prefixes ka-va-,
+(607)ka-va-hodi-ha-vaha-ki
+?BEN-COMIT-hole-ACTION-DESCVZR-NONTHEME
+ida
+gora
+ava-ni
+DEM house wood-f
+'(The ground) has holes in it for house poles/(608)ka-vi-khora-ha-ha-vaha-ni
+?BEN-COMIT-dig-DETRANSVZR-PL-DESCVZR-DEP:INTRANSBrought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM306 Chapman and Derbyshireida
+bohada
+DEM beach:shelter
+'(The ground) has had holes dug in it for the beach shelter.'
+The next two pairs of examples show more clearly the basic
+pseudo-passive function of -να/ω.
+(609a) bi-na-rokoroko-ki
+ida
+ihai
+3SG-CAUS-shake-NONTHEME DEM medicine
+'She is shaking the medicine.'
+(lit., 'She is making the medicine shake.')
+(609b) na-rokoroko-vaha-ni
+CAUS-shake-DESCVZR-DEP:INTRANS
+'It can be shaken.'
+(610a) bi-na-koko-ki
+ida
+3SG-CAUS-suck-NONTHEME DEM
+'She is sucking the fruit.'ihi'ai
+fruit(61 Ob) na-koko-vaha-ki
+CAUS-suck-DESCVZR-NONTHEME
+'It can be sucked.'
+18.6 Other categories
+18.6.1 Verb-final suffixes. All verbs have one of a small set of suffixes in
+the final position which simultaneously indicate several different types of
+information, such as primary/foreground vs. secondary/background; dialogue
+vs. monologue; declarative vs. imperative; main vs. subordinate clause;
+establishment of topics and settings; description; gender; and number. They
+fall into three main groupings: thematic suffixes, imperative suffixes and
+dependent verb suffixes.
+1) Thematic suffixes:
+-hi/-ha 'THEME': monologue event line, remote in time/space
+from the speaker, conditional:
+—ISO/PL, 2SG/PL and 3SG,f have the -hi form (usually glossed
+T); 3SG,m and 3PL have the -ha form (usually glossed 'm').
+—Gender and number agreement may be with the subject or
+object depending on the constituent order and the use of the
+ergative and object enclitics (sect. 18.4).
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 307-jaf-al-ra 1MMED': dialogue, interrogative, contrafactual, near in
+time or space to the speaker, identificational:
+— ISO/PL, 2SG/PL and 3SG,f have the -ja/-a forms; 3SG,m and
+3PL have the -ra form.
+-ki 'NONTHEME/DESC': background information such as
+description, explanation or comment; occurs also with noun
+modifiers, some nominalizations, and with the negative enclitic
+ni-.
+2) Imperative suffixes (sect. 11):
+-0 'IMP (2nd person)'
+-va 'HORT (1st and 3rd persons)'
+3) Dependent verb suffixes (sect. 14.1):
+-vim 'DEP-.TRANS'
+-nil-na 'DEP:INTRANS'; 1SG/PL, 3SG,m and 3PL have the -na
+form; 2SG/PL and 3SG,f have the -ni form.
+18.6,2 Directional prefixes and the Aa-NOUN CLASS prefix. The fcCLASS prefix (ka-lko-jak-lki-la-) may occur on any verb when the subject
+or object of that verb is a member of the fa* -noun class. There is no overt
+marker on the noun to distinguish it from other nouns. In this case ""subject
+or object"" is not restricted to postverbal position or nonoccurrence of a
+case-marking clitic, as it is in the case of gender agreement (sect. 18.4).
+(611)o-ka-nofi-ki
+oni
+vanami
+ISG-N.CLASS-want-NONTHEME DEM paddle
+Ί want that paddle.'","[145, 146, 147]"
+"15.4 Nominalizations. Most verbs can be nominalized by the addition of a
+verb-final derivational suffix. Verb-final theme and dependent suffixes (sect,
+18.6.1) do not co-occur with these nominalizing suffixes,
+Most intransitive verb roots and a few transitive roots take the
+nominalizer ~i. The resulting form can be possessed, this being marked by
+the addition of one of the set of the alienable possession prefixes (15.2).
+The focus of this nominalization is on the action or state, or the result of
+the action or state. Examples:
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM264Chapman and Derbyshireintransitive: kana'bathe'(417a) o-kana-na
+!SG-bathe-DEP:INTRANS
+Ί am bathing.'
+(417b) kodi-kana-i
+my-bathe-NOMLZR
+'my bathing*
+transitive: soko 'wash'
+(418a) o-soko-vini
+lSG-wash-DEP:TRANS
+Ί am washing it*
+(418b) kodi-soko-i
+my-wash-NOMLZR
+'my washing (it)' or 'the thing I washed'
+Some intransitive roots are nominalized without any overt suffixal form.
+The possessor prefixes still occur, but in some cases they take inalienable
+possession affixes (420) and in other cases the alienable possession prefixes
+(419):
+(419)asara'cry*kodi-asara(420)sii'be wounded' o-sii-na'my crying'
+'my wound'There is a small set of roots which, when they occur in a verbal
+construction, are normally uninflected. In these cases they are immediately
+followed by an inflected form of the auxiliary verb ni (sect 18.8.1). Their
+roots can also have -ni suffixed to them to form a nominalization, which
+can take the alienable set of possession prefixes. An example is the root
+bada 'work':
+(421a) bada o-ni-na
+work 1SG-AUX-DEP:INTRANS
+Ί work.'","[103, 104]"
+"Maria jora-ni
+Mary mat,m-fA single name may represent a group, in which case the plural agreement
+occurs.
+(381)Ofi-a
+Ofi-ERGbi-namonaha-'i-hi
+ida
+3SG-CAUS:make-ASP-THEME,f DEM.fkidi-amia
+va-gora-na
+his-mother 3PL-housetf-neut
+Ofi built their mother's house.'
+Nouns with the alienable possession prefixes (kodi- 'my*, kada- 'your, SG',
+etc.) also show number and gender agreement patterns as described for the
+inalienably possessed nouns. The verbal theme suffix and the demonstrative
+agree in gender and number with the noun. The possessive prefix agrees
+with the possessor.
+Fatima ka-'avi
+Fatima GEN-needle,f(382)o-karaga-'i-hi
+ida
+lSG~fmd-ASP-THEME,f DEM.f
+Ί found Fatima's needle.'",[97]
+"When the S is pragmatically marked for informational prominence the
+clause order becomes SV, and the demonstrative is then omitted (sect.
+9.2.1). There continues to be person, number and noun class agreement
+between the noun and verb.
+(4)Morosi va-a-kaira-ha-'a-ha
+Morosi 3PL-VBLZR-guava-distance-ASP-THEME
+'Morosi (and companions) went to get guava.*Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM164 Chapman and DerbyshireThere are further variations of constituent order, including peripheral
+constituents, which are discussed in section 9,2.
+The main differences between intransitive and transitive clauses are:
+—the object is obligatorily absent in an intransitive clause,
+whereas it is always structurally present in a transitive clause
+even though it is sometimes not overtly expressed.
+—case-marking clitics occur in transitive clauses, but never in an
+intransitive clause.
+—the 3SG. person prefix hi- occurs in transitive clauses as part
+of the ergative-marking system, but it never occurs in intransitive
+clauses.
+—in the imperative mode the 2SG person suffix is omitted in
+intransitive clauses but occurs in transitive clauses.
+1.2 Transitive. The basic word order is SVO. When this basic pattern is
+used, the ergative system always operates, so that the subject is marked by
+the enclitic -a 'ERG' and the object noun phrase has a demonstrative in
+the initial position (sect. 15.1).
+In this constituent order the subject noun governs the person prefix on
+the verb for person and number, and the object noun governs the number
+and gender of the verb-final suffix and the demonstrative.
+(5)Dono-a
+bi-ko'diraha-'a-ha
+Dono-ERG 3SG-pinch-ASP-THEME,m
+'Dono pinched the other boy.'ada
+DEM,misai
+hoariha
+child otherThe third person singular prefix bi- agrees with the subject. The masculine
+theme suffix -ha and the singular masculine demonstrative agree in gender
+and number with the object.
+The subject and/or object phrases may be omitted in the surface
+structure when the context makes clear who the referent is, but the omitted
+phrase(s) must be considered structurally present since it/they still govern
+the number, gender, person and noun class agreement in the verb and/or
+demonstrative. In (6), the feminine form of the verb suffix -hi THEME' is
+governed by the omitted object noun referring to a species of palm fruit.
+(6)o-rako'da-hi
+lSG-pull:off-THEME,f
+Ί pulled it off.'","[3, 4]"
+"9.2.3 Placement of demonstrative in preverbal position. In the pragmatically
+least marked clauses, the demonstrative is associated with the noun phrase
+that follows the verb, whether this is the subject or the object, and it never
+also occurs preverbally in the same clause (sects. 1.1, 1.2 and 15.3.2). There
+are two ways in which it may be associated with noun phrases in the
+preverbal position, and in each case it serves to give special prominence to
+the referent of the noun phrase.
+In the first construction, the demonstrative follows the noun phrase. It
+then has the same form as an equative clause. (The copula mani may also
+occur in these embedded equative constructions, just as in the simple
+equative clause—see section 1.4, and compare section 14.6 for more
+complex embeddings involving equative and subordinate clauses.) The
+function of this placement of the demonstrative is to draw special attention
+to the identity of the referent in the noun phrase, which may be the
+subject (148) or object (149) of the clause.
+(148)makha bana
+hada
+haria ananaha-ra
+snake WARNING DEM,m 1PL bite-IMMED
+'It is a snake that is going to bite us.'
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM200 Chapman and Derbyshire(149)o-sa'a
+hida
+o-ka-noba-ja
+my-hand DEM,f lSG-N:CLASS-chop-IMMED
+It is my hand I've chopped.'","[39, 40]"
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 265(421 b) a'diahi-'i-hi
+ida
+complete-ASP-THEME DEM.f
+'My work is finished.'kodi-bada-ni
+my-work-NOMLZRThere is a set of intransitive descriptive verb roots which take normal
+verbal inflection and which are also nominalized by the suffix -nL They are
+adjectivized by adding to the root the suffix -ki 'DESC:
+(422)oada 'be long'
+rabodi 'be wide'
+ahapi 'be many'
+bihia 'be deep'oadani 'length'
+rabodini 'width'
+ahapini 'many'
+bihiani 'depth'oadaki 'long'
+rabodiki 'wide'
+ahapiki 'many'
+bihiafd
+'deep'Most transitive verbs and a few intransitives are nominalized by adding
+the suffix ~hi. Examples:
+transitive:rokhoi'sew'(423a) o-rokhoi-ki
+oni
+ISG-sew-NONTHEME DEM,f
+Ί sewed that cloth.'makari
+cloth(423b) kodi-rokhoja-hi
+my-sew-NOMLZR
+'my sewing' or 'the thing I am sewing*
+(A root-final diphthong ai or oi changes the i to ja before -hi or -ha:
+rokhoi, rokhoja.)
+intransitive:oba'chop'(424a) oba-ha-ki
+ida
+chop-ACTION-NONTHEME DEM,f
+'Mother is chopping.'mamai
+mother(424b) akadi-oba-hi
+our-chop-NOMLZR
+Our chopping'
+There are several different ways to express subject-focus nominalization,
+i.e., One who performs a certain action or occupation*. In the case of some
+verbs, the same forms of nominalizer (0t -i, -hi) that are used for action
+nominalization occur, followed by the word abono 'self, person'.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM266 Chapman and Derbyshire(425)araba abono
+fish
+person
+One who fishes/fisherman'(426)soko-i
+abono
+wash-NOMLZR person
+One who washes (clothes)'(427)rakhaja-hi
+abono
+plant-NOMLZR person
+One who plants'Other transitive verbs take a suffix -va 'NOMLZR' followed by abono. In
+this nominalized construction, the enclitic -ra OBJ' does not occur with the
+direct object, and the whole construction appears to be functioning as a
+compound form.
+(428)gora namonaha-va
+abono
+house CAUS:make-NOMLZR person
+One who constructs houses'(429)kanava ka-namonaha-va
+abono
+canoe N.CLASS-CAUS;make-NOMLZR person
+One who makes canoes'(430)dinheiro
+kanikhariaha-va
+abono
+money( Port, loan) ask:for-NOMLZR person
+One who asks for money' (i.e., beggar)Another construction with the same function occurs with the suffix -ki
+'NOMLZR* instead of - , and the word abono does not occur. (Compare
+other functions of -fä: 'NONTHEME', a verb suffix, in section 18.6.1; and
+'DESC', a noun modifier suffix, in sections 14.3 and 15.3.1). This
+construction is not very common.
+(431)aviäo ka-na-ibavijaha-ki
+plane N.CLASS-CAUS-carerfor-NOMLZR
+One who cares for the plane' (i.e., mechanic)(432)haria
+va-sohi-ki
+1PL:OBJ COMIT-correct-NOMLZR
+One who supervises us' (i.e., supervisor)
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari267There is a small set of verb roots that can be compounded to the verb nofl
+'want'. They never function as verbs in their compound form, but they can
+be nominalized as compounds by adding the suffix -ki 'NOMLZR';
+bo'di
+kaathiri
+na'dohi'steal'
+'refuse'
+'question'+
+4-fnofi
+nofi
+nofibo'dinofiki One who likes to steal'
+kaathlnnofiki One who is stingy'
+na'dohinofiki One who is curious,
+one who likes to
+ask questions'16 Pronoun system
+AH the personal pronouns in the first and second person consist of a root
+or enclitic and a person prefix: ho- '1SG', i- '2SG', han- '1PL' and a'oni'2PL'. The root to which these are affixed determines the kind of pronoun.
+Either the demonstrative or the emphatic pronoun is used in the third
+person. The demonstratives are: ida/oni/hida *3SG,f; ada/o/hada '3SGfm';
+and adani/hadani '3PL' (see sect 15.3.2). The emphatic pronouns are
+onianiloniaro '3SG,f; ovari '3SG,m'; and va'oniaro 3ΡΙΛ
+16.1 Subject pronouns. An unmarked clause does not have a free subject
+pronoun because the person is marked by a verbal prefix. The subject
+pronouns are therefore part of the pragmatic information system which is
+discussed in section 9.2. Subject pronouns are either ""contrast/selection"" or
+""emphatic"" forms.
+The contrast/selection pronouns have the root vani 'CONTR' and almost
+always occur clause initial.
+(433)pnma Bitxi vara va'o-ra
+cousin Bitxi talk 3PL-OBJ
+ka-va-ni-'a-'a-ha,
+ho-vani
+canoe-COMIT-say-TRNSTVZR-ASP-THEME 1SG-CONTR
+o-gai-mori-'i-ki
+lSG-MOT-up:hill-ASP-NONTHEME
+'Cousin Bitxi talked from the canoe about them, but I went up the
+bank.'","[104, 105, 106, 107]"
+"Paumari
+Shirley Chapmanand
+Desmond C. Derbyshire
+Summer Institute of LinguisticsIntroduction
+The Paumari tribe is located in the State of Amazonas in Brazil. There are
+three main groups. Approximately 270 live on the Purus River, 50 on the
+Ituxi River and 200 on the Tapaua River. The latter group does not have
+contact with the other two groups. The Purus and Ituxi River groups have
+occasional contact with each other. They are all semi-nomadic fishermen
+travelling extensively within their own area. There are minor dialectal
+differences, mostly regarding vocabulary» among the three groups. The
+material used for this analysis was obtained during prolonged contact
+(1964-84) with the Paumari living on the Purus River. Some members of
+this group had originated on the Ituxi River and the Sepatini River.
+Paumari is classified as an Arauan language, possibly remotely related to
+the Arawakan family.
+It appears that the Paumari began to have regular contact with
+non-Indian travellers about 1900. During the past 50 years the number of
+Portuguese speaking settlers in the area has steadily increased. This
+increasing contact has led the Paumari into a negative attitude towards
+their own language and culture and the adoption of many non-Indian
+beliefs and customs. For example, their houses are now all built on land,
+whereas traditionally they lived on raft houses; they have adopted local
+patterns of dress and use many imported items (cloth, cooking and fishing
+equipment, tools, kerosene, sugar, salt, etc.).
+The language change is perhaps the most significant and disturbing. All
+of the Paumari speak a complete mixture of Paumari and Portuguese. A
+sentence is frequently a total mixture of both languages, the grammar of
+neither being preserved. Some of the Paumari language spoken by the
+older people is no longer used or even known by the younger generation,
+yet no one has an adequate mastery of Portuguese grammar or vocabulary.
+This process is more advanced among the Paumari on the Tapaua"" River,Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM162 Chapman and Derbyshirewhere the present generation of teenagers and younger children no longer
+speak Paumari.
+This analysis reflects the language, as far as possible, in its pre-modified
+form. Numerous texts (over 200) have been collected on tape, transcribed
+and analyzed. These were given by a cross-section of the people, old and
+young, men and women. Texts were mostly first person experiences,
+legends and letters. The person who gave the text was usually the one who
+helped to transcribe it and who frequently edited out the Portuguese and
+corrected the grammar that had been changed as a result of the mixture.
+Most texts have been further edited or corrected by someone other than
+the original speaker. In the initial stages there were no literate Paumari,
+but now the readers are able to check older texts and write short stories.
+Because the writers are consciously trying to write in one language there is
+less of a mixture than in the daily spoken language.
+The process of acculturation and devaluation of the Paumari culture and
+language was very far advanced before the initial contact by Chapman and
+Mary Ann Odmark in 1964. Continuing contact was made possible through
+a contract between the Summer Institute of Linguistics and the Indian
+Department (Fundacäo Nacional do Indio) of the Brazilian government.
+We would like to acknowledge the contribution that has been made at
+different times on various aspects of the language by Mary Ann Odmark,
+Chapman's partner for many years in the Indian area, and by the following
+consultants: Joan Boswood, Eunice Burgess, Thomas Crowell, Irvine Davis,
+Robert Dooley, Joe Grimes, Ivan Lowe, and Mary Ruth Wise. For some of
+the morphosyntactic characteristics presented here, see Derbyshire (1986),
+which usually gives a more concise statement, but occasionally develops a
+topic more fully than this description does (e.g., case marking of nominals).
+The language material for this paper was gathered by Chapman, who
+also did most of the analysis and preliminary writing. Derbyshire
+contributed to the analysis and writing of the final manuscript.","[1, 2]"
+"The final example is clearly a case of ellipsis of the verb. The demoted
+object may be any suitable noun, but never an embedded clause. Example
+(235) is probably an ellipsis also and the appropriate verb is sometimes
+added.
+The suffix -ha 'distance' indicates that the command is to be fulfilled in a
+different location.
+(237)a-'bai-'a-va
+IPL-eat-ASP-HORT
+'Let's eat here,*(238)a-'bai-ha-'a-va
+1 PL-eat-distance- ASP-HORT
+'Let's go and eat (somewhere else).'",[60]
+"In the second type of construction, the demonstrative precedes or
+replaces the noun phrase. In this case, the demonstrative is always the first
+constituent of the clause and functions to give emphasis to a topic that has
+already been established in the discourse. It may refer to the subject (150)
+or object (151) of the clause.
+(150)ada
+bana
+jara
+kavi
+kagahafani hoarani
+DEM,m WARNING non:Indian liquor bottle
+one
+maina-ra vi-gai-rnori-'a-ha
+next-OBJ C Ο MIT-MOT-go:up:bank-ASP-THEME
+'That non-Indian (watch out!) is now taking a bottle of liquor up
+from the port.'",[40]
+"It also occurs on all motion verbs when travel is in one vehicle, whether
+by land, river or air. When the vehicles are plural, the 'walking-by-land'
+form of the verb is used. The word for 'canoe', kanava, is a ka- CLASS
+word and ka- occurs in the verb, but in this case it is glossed 'canoe', since
+this is often the only reference in the clause to 'canoe'.
+(612)a-o-kha-ki
+hari
+IPL-away-MOT-NONTHEME 1PL
+'We went (walking by land or in several canoes or other vehicles).'",[147]
+"The sequence ka-. . . -khama is also used for reciprocal constructions,
+when it co-occurs with the inflected free form reflexive abono 'self (sect.
+4.2). In this case the subject and the object (reflexive form) agree in
+person and number. The affixes a- and -na do not occur in the reciprocal
+construction.
+(668)va-abono va-ka-ra-kha-khama-vini
+3PL-self 3PL-DISTRIB-CAUS-MOT-DISTRIB-DEP:TRANS
+""They stopped holding each other.' (i.e., 'They released each
+other.')The suffix -khama may also occur without the prefix ka-. The meaning
+does not seem to be substantially different.
+(669)o-roa-roa-rimanani-khama-na
+lSG-roll-REDUP-upwards-DISTRIB-DEP:TRANS
+Ί was rolling back and forth (in bed),'-khama may also occur in combination with -'bama as a frozen form
+meaning 'both'.",[158]
+"(71)abono-i
+ka-nagaha-rari-khama-vini
+self-NONSPECFC DISTRIB-throw:at-down-DISTRIB-DEP:TRANS
+'They were throwing (wet sand) at each other,'Reciprocal verbs are potentially ditransitive and a demoted object may
+occur (cf. the reflexive clause (61) in section 4.1). In the following example
+vakadinahina is a demoted object, this signalling that vaabono is
+semantically the recipient or beneficiary.
+(72)va-abono
+3PL-seIfa-va-ko-ga-khama-vini
+know-3PL-DISTRIB-know-DISTRIB-DEP:TRANShi-ki
+ida
+vakadi-nahina
+AUX-NONTHEME DEM.f their-things
+'They reciprocally knew each other's things/
+(i.e., 'They shared each other's possessions.')5 Passives
+The passive construction is clearly intransitive and differs from the
+corresponding active (transitive) construction in the following ways:
+a) Neither the ergative nor object marking enclitics occur.
+b) The 3SG prefix bi-, associated with the ergative case-marking
+system, does not occur.
+c) The object of the active clause becomes the subject of the
+passive, and an optional agentive phrase marked by the enclitic
+-a may occur. That this is not the ergative marker is clear from
+the postverbal position that this constituent has in the passive
+construction.
+d) There is an auxiliary verb hi, which co-occurs with one of two
+types of subordinate verb form, either a nominalized form,
+marked by the suffix -hi 'NOMLZR' (74), or a dependent clause
+marked by the suffix -nil-na (DEP:INTRANS( (78) (sect. 14.1). It
+is always the dependent intransitive suffix, never the dependent
+transitive, that occurs in this construction.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 181Example (73) shows an active clause and (74) is its corresponding
+passive clause.
+(73)mina'di
+vani-a
+bi-n-oba-'iana-hi
+electriceel CONTR-ERG 3SG-CAUS-shock-again-THEME
+ida
+Kasai
+DEM.f Kasai
+'The eel shocked Kasai again,'(74)oba-hi
+hi-'iana-hi
+ida
+Kasai mina'di-a
+shock-NOMLZR AUX-again-THEME DEM,f Kasai eel-by
+'Kasai was shocked again by the eel.'","[20, 21]"
+"If there are more than two elements other than the particle, kalmoni
+precedes a demonstrative.
+(275). . . joraki-a
+a'diahi-ja
+kaimoni
+quickly-OBL fmish-IMMED PURPhida
+DEM,fvakadi-badani
+their-work
+"" . . . for the purpose of finishing their work quickly/
+The form kaimoni can also function as a benefactive following a nominal
+In this case it is inflected and inalienably possessed, the paradigm being:
+kodi-imoni'for me'kada-imoni
+kidi-imoni'for you, SG'
+'for her/for him'akadi-imoni
+avakadi-imoni
+vakadi-imoni'for us'
+'for you, PL'
+'for them'ka-imoni
+Tor named person'
+e.g., Maria kaimoni
+'for Maria';
+or following a grammatical construction,
+e.g., osokoaki kaimoni
+'for me to wash'.
+In this function, the phrase in which it occurs is an adverbial (oblique)
+constituent of the clause:
+(276)o-namonaha-'i-ki
+hida
+maravi kada-imoni
+lSG-CAUS:make-ASP-NONTHEME DEM,f fan
+you-for
+*I made this fan for you.*(277)a-ka-sipatihi-ha-hi
+akadi-kodanahi
+IPL-VBLZR-bananas-ACTION-THEME our-roasted:foodBrought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM230 Chapman and Derbyshirekaimoni
+PURP
+'We went to get bananas to roast them.1
+In addition to its occurrence with noun phrases and clauses clearly
+marked as subordinate by the dependent verb suffix, kaimoni also occurs
+with clauses that have the thematic suffixes -hi 'NONTHEME' and -jaf-ra
+'IMMED, f/m'. One construction in which the -ki suffix plus kaimoni is
+sometimes used is the complement clause of the verb nofi 'want' (278).
+(See section 14.2 for another way of expressing complements of 'want'.)
+(278)ihai
+medicinehida
+isai-a
+bi-nofi-ja
+DEM,f child-ERG 3SG-want-IMMEDbi-kidafi-ki
+kaimoni
+3SG-swallow-NONTHEME PURP
+'It is medicine the child wants to swallow.'
+(279)joroma hida
+squash DEM,fo-ka-risi-ja
+lSG-N:CLASS-peel-IMMEDo-ka'domaha-ja
+kaimoni
+ISG-boil-IMMED PURP
+Tm peeling this squash to boil it.'
+14.1.3 Adverbial clauses that have the dependent verb form and the hi
+auxiliary construction. The hi construction consists of a dependent verb
+followed by hi 'AUX'. All the normal verb affixation except the aspectual
+and final thematic suffixes occurs on the dependent verb; the aspectual and
+thematic suffixes occur on the auxiliary (see section 18.8.2 for further
+discussion).
+(280)nama-ni makamaka-ni
+hi-ki . . .
+surface-f be:dirty-DEP:INTRANS AUX-NONTHEME
+'The surface is dirty (because) . . .'","[69, 70]"
+"In all the preceding examples, the dependent verb predicate complement
+has been transitive. It can also be intransitive, and the equative clause in
+which it occurs may be the subject (302) or the passive agent of the main
+verb (303).
+(302)o-noko'isi-na
+lSG-sleepy-DEP:INTRANSmani
+COPhida
+ho-ra
+DEM.neut me-OBJni-'oma-ja
+CAUS-lie:down-IMMED
+'My being tired caused me to lie down.'
+(303)o-noko'isi-na
+mani
+lSG-sleepy-DEP:INTRANS COPhida
+DEM,neutni-'oma-ni
+hi-ja
+CAUS-lie:down-DEP:INTRANS AUX-IMMED
+""Through my being tired I was caused to lie down.'
+A fronted equative clause can also be the object complement of the main
+verb, though this seems to occur less frequently than the subject
+complement construction. In this case, the predicate nominal is a
+nominalized, not a dependent, verb and the equative clause is not followed
+by the direct object marker enclitic -ra, since it includes the demonstrative:
+(304)vakadi-fajafaja-hi
+mani
+3PL-be:exhausted-NOMLZR COPoni
+DEM.fva-vi-'oma-ja
+3PL-COMIT-lie:down-IMMED
+'They are lying down with their exhaustion.'
+In (304), the comitative prefix makes the verb transitive (sect. 18.5.3).",[76]
+"The direction 'away from' prefix a-/o-/ri-/ra- may occur on all motion
+verbs (612, 613) and a few non-motion verbs. In the latter case, the
+meaning is that of distance not direction (614).
+(614)bi-a-noki-'i-hi
+ida
+gora
+3SG-away-see-ASP-THEME DEM house
+'He saw in the distance a house.'",[148]
+"(333)ho, Raofanaro, kahami
+hada
+ho Raofanaro palmmuts DEM,ma-karaga-'iana-ra.
+IPL-fmd-again-IMMEDva-na-bavi-0
+2PL-CAUS-container-IMP
+va-vi-kha-ra-foni-J?
+2PL-COMIT-MOT-downwards-port-IMP
+' ""Ho, Raofanaro, we've found palm nuts again.""
+""Put them in a container and bring them to the port."" '
+The quotative margin is usually an independent clause in which the 'say'
+verb has the suffix -hil-ha THEME', indicating that the speech act is
+regarded as an event in the discourse structure. The subordinating affixes
+-vini or -nil-na also occur quite frequently.
+14.6 Embedded equative clauses. In earlier subsections of section 14, we
+have shown that equative clauses with dependent verb predicate norninals
+can be embedded as a limited number of constituent types in a main
+clause: subject, passive agent and adverbial clause. In this subsection we
+discuss some general characteristics of these embedded equatives.
+Equative clauses are described in section 1.4. Only those clauses that
+have the copula mam are involved in these embeddings. In every case,
+mani is followed by a demonstrative. In the simple equative clause, the
+predicate complement is a noun phrase and the demonstrative agrees with
+the head noun of that phrase.",[83]
+"(174)hana hi-ni
+so'oro hida
+which AUX-DEP:INTRANS basket DEM.f
+'Which basket do you want?'i-nofi-ja
+2SG-want-IMMED(175)hana
+whichida
+DEM.neuthi-ni
+ihai
+mani
+AUX-DEP:INTRANS medicine COPi-ra
+no'a-vini
+hi-ja
+2SG-OBJ give-DEP:TRANS AUX-IMMED
+'Which medicine did she give you?'
+nahina is the most general of the question words, with a wide
+distribution of meaning and function. In non-interrogative contexts it may
+mean 'thing' or ni-nahina 'nothing'. It may be possessed kodi-nahina 'my
+personal possessions'. In a question it may function as an interrogative
+adjective (181) or an interrogative pronoun. It is never inflected. It may
+occur as the only constituent of a nominal question phrase (179), but it
+frequently occurs in an equative identificational clause with or without mani
+'COP' (cf. 180).
+The following examples show nahina as: a noun phrase subject (176); a
+predicate complement in an equative clause where the whole equative
+clause functions as subject (177), direct object (178), or demoted object
+(180); modifying a head noun in a temporal phrase (181); an oblique
+constituent with a source (182) or instrument (183) function; or as a direct
+object with the enclitic -ra (184, 185).
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM206 Chapman and Derbyshire(176)nahina vani-a
+bi-na-abini-ra
+ada
+makha
+who
+CONTR-ERG 3SG-CAUS-die-IMMED DEM,m snake
+'Who killed the snake?'","[45, 46]"
+"9 Pragmatic and discourse characteristics
+Certain types of discourse-conditioned phenomena are referred to in other
+sections. See especially sections 13 (anaphora), 16 (pronouns), and 21.2
+(particles). Here, we will describe some of the devices used to express
+varying degrees of pragmatically-motivated prominence marking. This is
+mainly in relation to noun phrases, demonstratives and pronouns, where a
+particular referent is highlighted (Chapman 1981). We begin first, however,
+with choices relating to certain verb suffixes, which signal prominence and
+information status of the complete clause in the discourse context.
+9.1 Verb marking to express prominence and information status of the
+clause. The verb-final suffixes (sect. 18.6,1) have a variety of functions, but
+they primarily indicate the status of the information being conveyed in that
+predication in relation to the whole discourse. Thus, -hil-ha 'THEME, f/m*
+is used mainly for primary, foregrounded information. This is normally
+information that is on the main theme or event line of monologue/narrative-type discourse. It is given additional prominence (that is,
+marked as being especially important) by the co-occurrence of the aspect
+suffix -fi/-'a (sect. 18.2). In (128), the first clause has the final thematic
+suffix, -ha, without the aspect suffix, but the second clause has both, -'i-hi,
+thus signalling that while both clauses are on the main event line, the
+second is more important in relation to that part of the discourse.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 195(128)vi-gai-mora -ha-ha
+ho-vani
+3PL-MOT-uphiIl-DUR-THEME,m 1SG-CONTR
+o-ko-' ofi-roni-' i-hi
+lSG-canoe-stationary-while-ASP-THEME,f
+'They went up the bank while I remained in the canoe.'","[34, 35]"
+"The third vani construction is used to express strong contrast. In this
+case, the NP/PRO-van/ phrase is followed by a demonstrative.
+(146)o-vani
+ada
+3SG-CONTR/SELECT DEMkapita abono ka'oa-ra
+fish body only-OBJkakhaa-'iana-ha
+choke:out-again-THEME
+'That one (in contrast to the others) is he (who) choked out again
+only whole fish,'
+(147)'bamiki vani
+ida
+va-ani-'a-ha
+few
+CONTR/SELECT DEM 3PL-take- ASP-THEME
+'It was only a few they took' (in contrast with the preceding
+statement that they found none at all).",[39]
+"Some positive questions are also rhetorical rather than real. One instance
+of this is the normal form of a greeting:Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 203(164a) i-vani-ti
+2SG-CONTR-QM
+'You?'
+(164b) ha'a, ho-vani
+yes me-CONTR
+'Yes, me.'
+The question suffix -ti rarely occurs in modem Paumari, except in this
+greeting, but it is occasionally found in the speech of the older people.
+10.2 Content questions. The question word always occurs clause initial or
+after a clause-initial demonstrative. The answer which substitutes for the
+question also occurs clause initial. The term 'question word' refers to the
+head of the question phrase. The term question phrase refers to the head,
+along with other constituents (noun, enclitic, demonstrative, auxiliary verb,
+or particle).
+There are basically two kinds of question phrase; a nominal question
+phrase and a verbal question phrase.
+10.2.1 A nominal question phrase is understood to ask about a nominal
+nuclear constituent, unless all the nuclear information is present in the
+context. If the nuclear constituents are all present then the nominal
+question phrase is directed towards a peripheral constituent of time,
+location, or instrument -mani 'Q' is optional in content questions. The
+question words that occur in the nominal question phrase are: nahina
+'what?, who?', hana hi-nil-na 'which?', niha-fori 'when?, how much?' and
+hana 'where?1.
+hana is a locative interrogative pronoun and has the optional suffix -ja
+'directional in time or space', -ja may be reduplicated -jaja without any
+distinguishable change of meaning.
+(165)ida
+hana-ja
+hoja-hi
+kodi-tarasara
+DEM(f where-DIR be-THEME my-machete
+'Where is my machete?'nihafonja 'when?' is a temporal interrogative pronoun. The suffix -;a is
+obligatory to give it temporal meaning.
+(166)nihafori-ja
+i-o-kha-'iana-ki-'i
+when-DIR
+2SG-away-MOT-again-NONTHEME-2SG
+'When will you go again?'","[42, 43]"
+"The semantic class of noun roots which frequently occur as verb roots is
+the class of body parts. Members of this class usually require the addition
+of at least one derivational affix, but (734, 735) are examples where nouns
+function as verb stems without the addition of any derivational affix or verb
+root.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPauraari 329(727)bi-ka-'damai-vini
+Ida
+ava
+3SG-VBLZR-foot-DEP:TRANS DEM wood
+'He kicked the wood,'(728)bi-ka-nokho-'ba'da-vini
+ida
+3SG-VBLZR-eye-seed-DEP:TRANS DEM
+'She looked for it.'","[168, 169]"
+"16.3 IB definite pronouns. The noun nahina, which is variously glossed as
+'what, who, thing, possessions', serves as the indefinite pronoun 'something'
+or 'someone1. Negated, it means 'no one' or 'nothing'.",[111]
+"It should be noted that the noun which is coreferential with the pronoun
+may also occur (436). The same contrastive demonstrative may also occur
+when it is not a subject pronoun. In (437) it is a locative and in (438) it
+has another type of oblique function.
+(437)hida-vani
+i-hoja-ja
+hidakaba'i
+DEM:LOC-CONTR 2SG-be-IMMED today
+i-abini-ki-'i
+2SG-die-NONTHEME-2SG
+'Here you are, today you are going to die/(438)hida-vani
+DEM.f-CONTRi-ra
+2SG-OBJo-ka-jorai-ha-vini
+lSG-VBLZR-mat-ACTION-DEP:TRANS
+Out of this, I will make you a mat.'
+The special forms of emphatic pronoun occur only for third person. They
+frequently co-occur with the noun with which they are coreferential. This
+pronoun does not replace the normal demonstrative.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 269(439)ni-ha-ha
+ada
+ovari
+say-?-THEME DEM.m S:EMPH,m
+'Said that one Parajairo,'Parajairo
+Parajairo(440)ovari
+Vararibori jaboni ka-raborabo-ki
+S:EMPH,m Vararibori also
+POSSN-headdress-NONTHEME
+'That one, Vararibori, also had a headdress.'","[108, 109]"
+"This is the only reflexive construction in the language, there being no
+verbal derivational affixes that perform this function nor any reflexive
+pronominal possessor form.
+4.2 Reciprocals. The reciprocal construction is formed by using the reflexive
+form abono in conjunction with the verb affix sequence ka- . , . -khama
+'DISTRIBUTIVE' (sect. 18.6.7). The subject and the reflexive object form
+agree in person and number.
+(69)va-abono
+va-ka-nofi-khama-vini
+3PL-self
+3PL-DISTRIB-like-DISTRIB-DEP:TRANS
+'They like each other.'",[19]
+"In some cases, postpositions are used to determine specific locations. The
+-a OBL* enclitic always co-occurs,
+(369)ihinika kani-a
+a-o-kha-rnisi-ki
+hari
+rituals to:place-OBL IPL-away-MOT-inland-NONTHEME 1PL
+'We are going into the jungle to the ritual house,'(370)mesa ka-namani-a
+table N,CLASS-surface-OBL
+bi-na-hoja-ha-ki
+ida
+3SG-CAUS-be-DUR-NONTHEME DEM.f
+On the table she left it.'",[93]
+"(402)va-a-kha-'a-ha
+3PL-canoe-MOT-ASP-THEMEadani
+DEM:PLnadara-ki
+red-DESCjara
+non:Indianva-ka-ipohi-ki
+3PL-canoe-many-DESC
+'Many non-Indians arrived by canoe.'
+It is possible to have two modifiers, but not usually more, in a noun
+phrase.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 261Subordinate clauses (embedded relative clauses and embedded modifiers)
+are discussed in section 14.
+15.3.2 Demonstratives. Each nominal phrase potentially has a demonstrative linked to it. It is easier to describe the function and distribution of
+demonstratives if they are not considered as part of the nominal phrase,
+but as a separate constituent in the clause.
+The same set of demonstratives may function as a locative (e.g., 'here',
+'there') or a pronoun ('him', 'her'), or as a link between an embedded
+clause or demoted object and the main clause predication (416).
+The demonstratives are:
+feminine masculinepluralhidahadahadanioniο
+ado.adaniida'this, these, her, him, here
+(where the speaker is), now'
+'that, there (where the hearer is)'
+'that, those, them, there
+(distant from listener or
+speaker or nonspecific in time
+or location)'A demonstrative locative may co-occur in the same clause with a locative
+phrase but they are two separate locative constituents and as such may
+both be marked with the oblique enclitic (403, 404). Only when a
+demonstrative stands as a locative phrase can it be marked with the
+oblique enclitic -a (403—405).
+(403)oni-a
+mesa ka-nama-ni-a
+na-hoja-0
+DEM:LOC-OBL table N.CLASS-surface-f-OBL CAUS-be-IMP
+Tut it there on the table.'","[100, 101]"
+"(443)va-'oaniaro
+hi-ki
+3PL-S:EMPH be-NONTHEMEkanava vani-a
+canoe CONTR-OBLva-hoja-'a-ha
+3PL-remain-ASP-THEME
+'Those are the ones who remained in the canoe.'
+In the case of first person (and probably second person, but our data
+base does not supply any examples), it is the person prefix that is attached
+to hiki for emphasis. This does not occur very often.
+(444)hari-hi-ki
+a-'oma-hahavi-ki
+IPL-be-NONTHEME iPL-lie:down-all-NONTHEME
+'All of us we lay down.'",[109]
+"9.2.4 Use of subject-emphasis pronouns. There are four special third person
+pronoun forms used for placing emphasis or focus on the subject referent:
+onianiloniaro *3SG,f; οναή *3SG,m'; and va'oniaro '3PL* (sect. 16). They
+may occur before or after the verb, and with or without an accompanying
+noun phrase referring to the same entity. They are only used to refer to
+the subject of the clause.
+(153)ovari
+Vararibori jaboni ka-raborabo-ki
+S:EMPH Vararibori also
+VBLZR-trinket-NONTHEME
+'That one, Vararibori, also had a trinket (of macaw feathers).'",[40]
+"(569)ho-ra
+ni-'a-hi
+ida
+gamo
+1SG-OBJ say-TRNSTVZR-THEME DEM woman
+'The woman said to me/-'a is also used to transitivize ni when it functions as an auxiliary verb.
+There is a subclass of verbs which usually does not take affixation on the
+root but on the auxiliary verb which follows it (18.8.1).
+(570)bada o-ni-na
+work 1SG-AUX-DEP:INTRANS
+Ί am working/(571)bada o-ni-'a-vini
+ada
+abaisana
+work 1SG-AUX-TRNSTVZR-DEP:TRANS DEM fish
+Ί am working on the fish/ (i.e., Ί am preparing it for cooking/)Some of the verbs which are transitivized with -'a may alternatively be
+transitivized with na- 'CAUS' with apparently no change of meaning.
+(572)o-na-bada-ni-ha
+ada
+abaisana
+ISG-CAUS-work-AUX-THEME DEM fish
+Ί am working on the fish/In (572), -ni- may not be the auxiliary. The nominalized form of bada 'to
+work' is bada-ni 'work' (sect. 15.4), and it may be preferable to analyze the
+verb as na + noun rather than na + verb + AUX. There are other verbs that
+take affixation either on the auxiliary verb or on the main root, in which
+latter case the auxiliary does not co-occur at all (see 18.9).
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM298 Chapman and Derbyshire(573)txo
+bi-ni-'a-vini
+ida
+suck (put:lips:to) 3SG-AUX-TRNSTVZR-DEP:TRANS DEM
+hoariha 'ba'da-ni
+cheek-f other
+'She kissed the other (person's) cheek.'","[137, 138]"
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPauinari339Particles
+21 Particles
+21.1 Sentence particles. There is only one sentence particle oniani idajhida.
+oniani in other contexts is a subject emphasis pronoun (sect. 16). It also
+occurs as a discourse particle (21.2). oniani ida/hida occurs following a brief
+pause and introduces a resultative clause. This may be independent (779,
+780) or grammatically linked with the preceding clause by its occurrence
+with a dependent clause auxiliary verb construction (sect. 14.1.3), as in
+(781): oniani bana hida . . . ohonariavini hihi. In this case it is similar to
+mani ida/hida, also discussed in section 14.1.3.
+(779)joima
+vani
+va'o-ra
+na-abini-ha
+adani
+wild:Indian CONTR them-OBJ CAUS-die-THEME DEM:PL
+jaboni napaja ija'ari-a
+bi-va-hoja-ri-ki
+also
+distant people-ERG 3SG-COMIT-be-NEG-NONTHEME
+kani-a
+a-vi-ga-ki,
+to:place-OBL flee-3PL-flee-NONTHEMEakadi-ija'ari, oniani
+our-people
+PRTida
+jaboni kodi-ija'ari-ra
+ni-ihima-ki
+DEM also
+my-people-OBJ
+CAUS-destroy-NONTHEME
+'Wild Indians also killed our people who fled far away to places
+where there were no people (living). This also resulted in my
+people being killed off.'
+(780)hoariha karagoahi adafi
+hi-ki,
+other
+farinha
+maggots become-NONTHEME
+arabani-a
+bi-a-ni-ha-'i-ki,
+shaman-ERG 3SG-STATVZR-CAUS-become-ASP-NONTHEME
+oniani ida
+va-ka-hagi
+ka-dai-ni-ra
+PRT
+DEM 3PL-GEN-boat GEN-cargo-f-OBJ
+ni-ihima-'i-hi
+jaboni, vai'ami abani
+CAUS-destroy-ASP-THEME also
+hungry productBrought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM340 Chapman and Derbyshirevi-hi-na
+3SG-be-DEP:INTRANS
+'The other (people's) farinha became maggots. The shaman
+destroyed (all their food supplies), with the result that they also
+destroyed their boat's cargo, and the others went hungry.' (i.e., 'The
+shaman turned all the food supplies of the people into maggots,
+ants, termites, etc., so that there was no cargo left and the invaders
+went hungry.')
+(781)nahina ho-ra
+who
+me-OBJ
+ka-mokitiro-ha-jana-ki,
+VBLZR-mosquito:net-ACTION-no:more-NONTHEME
+ni-o-ka-makhira-jana-ki
+oniani hida
+NEG-lSG-VBLZR-husband-no:more-NONTHEME PRT DEM
+o-na-abosi-vini
+o-nofi-jahaki-vini
+1 SG-CAUS-exchange-DEP:TRANS 1 SG-want-well-DEP:TRANS
+hida
+ho-ra
+na-girani-jana-ri-ki,
+oniani
+DEM me-OBJ CAUS-move-no:more-NEG-NONTHEME PRT
+bana hida
+PUT DEMo-athi
+ka'oa-ra
+ISO-word only-QBJo-honaria-vini
+lSG-send-DEP:TRANShi-hi
+AUX-THEME
+'Who (no one) will provide a mosquito net for me any more. I
+don't have a husband any more, which results in me wanting much
+to buy it (the net), so this causes me not to move (not go with
+them) away, as a result of which I will only send my message (with
+them).'
+21.2 Discourse particles. There are three particles used to mark boundaries
+in narrative. There appears to be considerable flexibility regarding their
+use, some speakers using them more than others in comparable texts.
+Repetition and setting information may also mark new sub-topics. A
+particle is not used to introduce a narrative. The particles all occur in the
+clause-initial position followed by a pause. The particles are: hari 'then',
+which in other contexts may be a verb root with an auxiliary verb
+following, meaning 'finish, enough, goodby', and oniaro and oniani, which in
+other contexts are the subject emphasis pronouns.
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 341oniaro always has the oblique clitic -a to mark it as a setting particle
+'then'. It is simultaneously a time constituent at sentence level. It is used to
+initiate a new thematic subdivision. The clause of which oniaroa is the first
+constituent often contains new participants or a change of activity and
+marks progression in the narrative, oniaroa may occur alone (782, 783) or
+in conjunction with han. ham oniaroa marks the end of one sequence of
+events and initiates the next thematic section (784, 785).
+(782)mina'di
+vani-a
+bi-n-oba-'iana-hi.
+electric:eel CONTR-ERG 3SG-CAUS-shock-again-THEME
+oniaro-a
+a-o-kha-hi
+then-OBL IPL-away-MOT-THEME
+'The eel shocked her again. Then we went.'","[178, 179, 180, 181]"
+"The demonstrative may function as a '3SG' object pronoun, usually
+following the -Id 'NONTHEME' suffix.
+(410)o-fmi-ki
+ada
+ISG-fear-NONTHEME DEM,m
+Ί fear him,'In dialogue there are several different constituent orders involving
+demonstratives that are pragmatically marked. These are discussed in
+section 9.2.3. Demonstratives frequently occur as the subject of equative
+clauses (see examples in section 1.4). The whole equative clause can be
+embedded as subject or object of another clause and it is then always in
+the clause-initial position.",[102]
+"16.4 Possessive pronouns. (See also sect. 15.2.) The possessive pronouns
+have the same personal prefix as the alienably possessed nouns described
+in section 15.2. The root marking possession is -ani: kodi-ani 'mine',
+keda-ani 'yours', kidi-ani 'his/hers', akadi-ani Ours', avakadi-ani 'yours' and
+vakadi-ani 'theirs'.
+(460)kodi-ani
+hi-ri-hi
+oni
+1SG-POSSN be-NEG-THEME DEM,f
+*That knife isn't mine.'hado
+knifeThe purpose/benefactive pronoun is similar in function to the possessive,
+having the same prefixes with the root -imoni: kodi-imoni 'for me',
+kada-imoni Tor you', kidi-imoni 'for him' (cf. sect. 14.1.2).
+(461)o-va'adi-ki
+hi-hida
+lSG-not:let:go:of-NONTHEME SPECFR-DEM,f
+kada-imoni hi-ri-hi
+2SG-for
+be-NEG-THEMEida,
+DEM.fkori-ki,
+green-DESCkodi-ani
+oamani
+1SG-POSSN reallyhida
+i-gathi-ki
+ka-imoni hi-ri-hi
+ida
+DEM.f 2SG-hold-DESC GEN-for be-NEG-THEME DEM,f
+Ί don't want to let go of this green (cloth), it isn't for you, it is
+really mine, it is not for you to have.'
+16.5 Interrogative pronouns. Interrogative pronouns, while primarily
+occurring as a constituent of a direct question construction, are also
+occasionally found in embedded indirect question clauses. In the following
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 273pairs of examples the pronoun is shown first as an interrogative and then
+as a non-interrogative.
+(462a) Ida
+hana
+hoja-hi
+kodi-papira
+DEM,f where be-THEME my-book
+'Where is my book?'
+(462b) ni-o-oga-ki
+ida
+hana
+hoja-ni
+NEG-lSG-know-NONTHEME DEM.f where be-DEP:INTRANS
+Ί don't know where it is.'
+(463a) nahina-0
+bi-nofi-ja
+hida
+ikoaka
+who-ERG
+3SG-want-IMMED DEM.f fishhook
+'Who wants this fishhook?'
+(403b) ni-o-oga-ki
+NEG-lSG-know-NONTHEMEida
+ikoaka
+nahina
+DEM,f fishhook whobi-nofi-ki
+3SG-want-NONTHEME
+Ί don't know who wants the fishhook.'
+(464a) niha
+howni-ni-na
+vani
+AUX-REDUP-DEP:INTRANS,m CONTRi-nold-ra
+ada
+isai
+kavamoni-ki
+2SG-see-IMMED DEM.m child sick-DESC
+'How was the sick child you saw?'
+(464b) va'o-ra
+them-OBJna-vanavana-'a-0
+bana adani
+CAUS-go:iook:at-ASP-IMP PUT DEM:PLkada-'aajo
+mahija
+your-oldenbrother so:thatva'o-ra
+i-oga-vini
+them-OBJ 2SG-know-DEP:TRANSniha va-kha-ni-khani-na
+how 3PL-INTRANS-AUX-REDUP-DEP:INTRANS
+'Go and see your older brothers so that you will know how they
+are.'
+The interrogative pronouns are discussed more fully in section 10.","[112, 113]"
+"The feminine agreement on the thematic verb suffix -hi agrees with the
+number and gender of the omitted object, that is, 'palm tree'. This is
+unambiguous, since the text was about getting palm fruit. The prefix bi'3SG' shows that the subject is third person. There were two possibilities in
+the text-a man, Paulo, or a woman, Ka'ajo. An intransitive verb marked
+for feminine gender by the thematic suffix occurs in the immediate context,
+also with an omitted subject. Both clauses refer to the same referent, so
+the bi- in the example given must refer to Ka'ajo.
+The main verb cannot be deleted, nor are dummy verbs used, in
+coordinate sequences. The same verb may be repeated several times when
+the same action is described for different participants.
+(53)ovari
+S:EMPHhiki
+ni-varavara-ki,
+ni-hoariha jaboni
+CONTR NEG-talk-NONTHEME NEG-other alsovaravara-ki,
+Vararibori vani
+talk-NONTHEME Vararibori CONTRada
+varavara-ha
+DEM,m talk-THEME,mafo-siaga
+ADVBLZR-following
+'That one he didn't speak, nor did the other one speak, it was
+Vararibori that came following that spoke.'
+For the special pragmatic force of hiki 'CONTR.', see section 9.2.5. For
+normal usage of hiki as an auxiliary verb, see section 18.8.2.
+In dialogue the imperative form of the verb 'give' is often ellipsed.
+(54)ho-ra
+paha
+me-OBJ water
+To me water1 or 'Give me some water.'
+Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 177In a polar question, 'yes' or 'no* serves as a response without the need
+to repeat the verb. When teaching their language, however, native speakers
+insist on a full sentence.
+(55)i-ka-paha-ha-mani-ki-M
+2SG-VBLZR-water-ACTION-Q-NONTrHEME-2SG
+'Are you going to get water?'","[16, 17]"
+"Brought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PM232 Chapman and Derbyshire(286)Juracy-ra
+Juracy-OBJo-ka-'ojomo'i-vini
+lSG-TRNSTVZR-teach-DEP:TRANShi-ki
+hida
+AUX-NONTHEME DEM,neutino-i
+tooth-NONSPECFCraso-ha-ni
+pull-DETRANSVZR-DEP:INTRANS
+(
+I am teaching Juracy how to pull teeth.'
+(287)papira-ra
+paper-OBJvada o-ni-'a-vini
+look 1SG-AUX-TRNSTVZR-DEP:TRANShi-ki
+o-oga-ja
+kaimoni
+AUX-NONTHEME ISG-know-IMMED PURP
+Ί am looking at my book in order for me to know.'
+While (286) is semantically a manner clause, it would be more accurate to
+describe it syntactically as a demoted object (i.e., complement) clause than
+an adverbial clause. The main verb meaning 'teach* is ditransitive and in
+these constructions the recipient or beneficiary is always the direct object,
+marked by the enclitic -ra OBJ', with the patient being the demoted object
+marked either by -a OBL' or (as in 286) by a demonstrative. (See section
+1.3 for discussion of ditransitive clauses.)
+There is one other more complex type of adverbial clause with which the
+hi construction functions as the main clause. This is an equative clause in
+which the predicate nominal is expressed by means of a dependent verb
+form. In this construction the whole equative clause is functioning as an
+adverbial. (For other functions of equative clauses in complex sentences»
+see 14.2 and 14.6). The equative clause always precedes the hi construction.
+It consists of a predicate nominal, the copula mani and a demonstrative.
+The predicate nominal may consist only of the dependent verb (288) or it
+may also have a subject (289, 290) or object (291) nominal grammatically
+related to that verb. The nominal always precedes the verb and, when the
+verb is transitive, is marked by the appropriate enclitic, -a 'ERG1 (290) or
+-ra OBJ' (291), The semantic functions expressed are either reason
+(288-291) or purpose (292, 293).
+(288)o-vai'ami-na
+mani
+lSG-hungry-DEP:INTRANS COPida
+ho-ra
+DEM.neut me-OBJBrought to you by | Cambridge University Library
+Authenticated
+Download Date | 3/29/17 5:37 PMPaumari 233no'a-vini
+hi-ja
+'bai-a
+give-DEP:TRANS AUX-IMMED food-DEMOT:O
+'Because I was hungry, she gave me food.'
+(289)nama-ni makamaka-ni
+mani
+surface-f be:dirty-DEP:INTRANS COPhida
+DEM,neuto-soko-vini
+hi-ki
+lSG-wash-DEP:TRANS AUX-NONTHEME
+'Because the surface is dirty, I am washing it*
+(290)jara-0
+bi-honaria-vini
+mani
+non:Indian-ERG 3SG-order-DEP: TRANS COP
+vanami-ra
+bada
+paddle-OBJ workhida
+DEM,neutka-ni-'a-vini
+N:CLASS-AUX-TRNSTVZR-DEP:TRANShi-ja
+AUX-IMMED
+'Because the non-Indian ordered it, he is making a paddle.'
+(291)honai-ra
+kajoni-vini
+mani
+order-OBJ refuse-DEP:TRANS COPida
+DEM,neuto-da-vini
+hi-ja
+lSG-hit-DEP:TRANS AUX-IMMED
+'Because she refused (to obey) the order, I hit her.'
+(292)o-ka-'ojomo'i-vini
+kaimoni mani ida
+lSG-TRNSTVZR-iearri-DEP:TRANS PURP COP DEM,neut
+o-na-jiri-vini
+hi-ja
+lSG-CAUS-write-DEP:TRANS AUX-IMMED
+'For the purpose of me learning, I'm writing it.'","[71, 72, 73]"
+"(484)jokoa
+ari-hoja-roni-jana-ri-hi
+NEG:intention IPL-remam-still-more-NEG-THEME
+'We don't intend to remain any longer.'-hil-ha may also be used with a distant future meaning. The demonstrative
+locative in (485) is not indicating present time but present location.
+(485)ava-joi-hi,
+bada o-ni-hi
+2PL-return-THEME work 1SG-AUX-THEME
+'When you return, I will work here.'hida
+DEM:LOCExample (485) is one way of expressing (semantic) subordination, i.e., by
+means of juxtaposition of two main clauses, the first of which is
+semantically subordinate to the other. For other, morphologically marked
+ways of expressing subordination (e.g., suffixes and particles), see section
+14, These include a number of different types of temporal subordinate
+clauses that express relative time periods within a discourse.
+18.2 Aspect There are overt forms for expressing the following aspects:
+completive (or perfective), continuous, iterative and durative. Ingressive and
+terminative meanings can be optionally expressed by using a regular verb.
+The completive aspect suffix -'il-'a may occur before any thematic suffix
+or dependent suffix (-7 precedes -ki, -a, -nil-na and -hi\ -'a occurs
+elsewhere). In a dialogue, -'il-'a marks completive/perfective aspect.
+(486)i-kana-mani-'i-a
+2SG-bathe-Q-ASP-IMMED
+'Have you bathed?'",[118]

@@ -1,0 +1,2348 @@
+Paragraph,Page number
+"2244.3. Case marking and grammatical relations
+Hup has a case system that marks both core and oblique arguments of verbs.
+Grammatical alignment is strictly nominative-accusative, both morphologically and
+syntactically. Subjects in Hup are unmarked, while nouns occurring in a variety of nonsubject roles are object-marked with the suffix -a‡n, provided they conform to certain
+semantic restrictions relating to the noun’s placement on the animacy/ definiteness
+hierarchy. Oblique arguments (which are not subject to any animacy restrictions) are
+marked with the suffix -Vêt in instrumental, comitative, and locative roles, and with what
+is apparently an unstressed variant of the Object marker -an (glossed ‘Directional’) in
+locative and allative/ablative roles. A noun can take no more than a single case marker at
+a time. These patterns are summarized in Table 4.3.
+Table 4.3. Grammatical relations and case markers in Hup
+Grammatical function Nouns
+Nouns marked
+Pronouns,
+for number
+demonstratives
+S, A
+(subject of transitive and
+-Ø
+-Ø
+-Ø
+intransitive clauses)O
+(direct object, other directly
+affected entities)O
+(beneficiary, recipient in
+ditransitives)Human: -a‡n
+Animal: Optional -a‡n
+Inanimate: -Ø
+-a‡n-a‡n
+(PL+OBJ: -n’a‡n)56
+-a‡n
+(PL+OBJ: -n’a‡n)-an[?]-Vêt-Vêt-an‡
+-a‡nDirectional oblique
+(locative, directional
+goal/source)Oblique
+(instrumental, comitative,
+locative)-Vêt2254.3.1. Object case -a‡n
+The patterning of core case marking—depending both on the semantic role of the
+nominal and on its semantic status (with respect to animacy and definiteness)—isdiscussed in this section. When marking core arguments, the stress on the object marker
+-an‡ is quite strong: it is often equal to that on the noun stem itself, and in certain cases it
+may be noticeably stronger (especially with pronouns and demonstratives) and could
+arguably be considered to be primary stress.
+The interaction between the semantic roles of core non-subject participants and
+object marking is considered in §4.3.1.1, and the phenomenon of differential object
+marking (reflecting animacy and definiteness) is addressed in §4.3.1.2.","[240, 241, 242]"
+"3616. The noun phrase: modification and definiteness
+This chapter deals with issues relating to the noun phrase and its behavior within
+the clause, with a particular focus on modification and definiteness. While chapter 5
+dealt with the compound noun, an NP composed of two (or more) associated members of
+the open class of nouns, this chapter examines the closed classes of nominal modifiers—
+demonstratives, quantifiers, and adjectives—and their roles within the NP. In addition, it
+addresses the ability of members of closed word classes to act as nominal heads in their
+own right, occurring in lieu of a noun or noun phrase as the argument of a verb. A few
+additional non-nominal functions (adverbial, determiner, etc.) of these closed word
+classes (specifically interrogative pronouns and demonstratives) are briefly considered
+here as well. In the final section of this chapter, I also briefly introduce NP coordination.
+Locative postpositions, which typically combine with a noun to form an adverbial phrase
+within the clause, are not discussed here but in §10.2.3.
+A basic phrase structure template for the NP (in which the noun stem N may be
+either compound or simple) is provided here. The order of the constituents is fairly rigid
+within the NP itself; when numerals, demonstratives, or possessors follow the noun, they
+are probably best interpreted as appositional NPs in their own right, or even as predicate
+nominals.
+NP Æ (Dem—POSS PN—Numeral) N (Adj)3626.1. Pronouns
+While the form of the Hup personal pronouns and their inflected variants are covered in
+§4.1.2 (and §5.2), the present discussion deals briefly with their syntax—that is, their
+ability to represent NPs in the clause. A discussion of the differences in clausal
+constituent order between pronouns and full NPs relative to the verb is given in §17.3.1.
+The subject pronouns are here re-summarized in Table 6.1. As can be seen in the
+more detailed paradigm given in Table 4.1, §4.1.2, Hup pronouns—like nouns in
+general—take basic inflectional and derivational forms relating to case, number, and
+possession, as well as various bound focus and discourse-marking forms (chapter 7).
+With the exception of suppletive forms (formed via phonological reduction) for the first
+person singular object (/a‡n) and possessive (nˆ‡) pronouns, inflected pronouns are
+essentially regular.","[377, 378, 379]"
+"90517.3.1. Constituent order in the declarative clause
+Constituent order in Hup is relatively free, but the formally least-marked pattern is clearly
+verb-final. Defining the order of nominal arguments in the transitive clause is more
+difficult, but the ‘basic’ constituent order can arguably be identified as AOV. The actual
+order of all constituents appears to be determined primarily by pragmatics, with the most
+important parameter being the fronting of new information. Other relevant factors that
+correlate with word order are verbal tense and aspect, and the identity of nominal
+constituents as pronouns or full lexical nouns. Both context and the existence of
+morphological core case-marking (see §4.3.1), which corresponds to a consistently
+nominative-accusative alignment system, help to disambiguate syntactic arguments.
+The dropping of arguments is common in Hup when they can be recovered from
+the discourse context; this is particularly true for objects (example 1). Subject dropping
+also occurs (example 2), but is less frequent. In general, Hup speakers seem to prefer
+clauses with only one full nominal (i.e. non-pronominal) argument, and will sometimes
+even repeat the clause, dropping an argument each time, in order to conform to this
+(example 3). In providing information in response to a question or related solicitation
+from an interlocutor, an utterance may consist of only a verb (plus inflection), or only a
+noun or adjective, but in most other discourse contexts a predicate with at least one
+nominal argument (usually the subject) is the norm.","[921, 922]"
+"4.4.1. Differential plural marking (plurality split) and animacy
+Plural marking in Hup conforms to an animacy heirarchy, and follows essentially the
+same parameters as does differential object marking. This accounts for the fact that
+object marking and number marking pattern together, as discussed in §4.3.1.2 above; that
+is, if an entity is conceptually distinctive enough to be number-marked, then it should
+also be case-marked.
+Smith-Stark (1974) uses the term ‘plurality split’ to describe the phenomenon of
+differential plural marking, and observes that “plurality splits a language in that it is a
+significant opposition for certain categories but irrelevant for others” (Smith-Stark 1974:
+657). Plurality splits are almost always closely linked to animacy. They occur in many
+of the world’s languages (Corbett 2000: 55), and are reported as common in North
+America (cf. Mithun 1988: 212).
+In Hup, nouns with inanimate referents are generally unmarked for number,
+although—unlike the restrictions governing differential object marking—number
+marking on inanimates is possible. When counting inanimates, the numeral alone usually
+suffices to indicate plurality (e.g. ka/ap mç‡y [two house] ‘two houses’); classifiers are
+also used in certain cases (see §4.4.3). Nouns referring to animals are found both with254and without number marking, whereas it is required for humans. While languages
+with split plurality systems have many options in arranging their systems of differential
+number marking, languages like Comanche and Kannada (Corbett 2000: 70) exhibit
+patterns very much like that found in Hup.","[270, 271]"
+"21.1. Linguistic profile of Hup
+Hup grammar exhibits a combination of features that it shares with its Nadahup (Maku)
+sister languages, and a number of language-specific innovations, many of which are due
+to contact with eastern Tukanoan languages, principally Tukano.
+In its phonology, Hup has nine contrastive vowels and twenty-one contrastive
+consonants, including a series of eight glottalized consonants. Nasalization in Hup is a
+morpheme-level prosody, and the language has a word-accent (restricted tone) system
+made up of two contrastive tones (rising and high). There is a strong tendency toward
+isomorphism of the morpheme and the syllable.
+Hup’s nominal morphology is considerably more isolating than its verbal
+morphology, which tends toward polysynthesis and can be relatively complex. Hup
+morphology involves both compounding (of as many as five verb stems) and the
+association of multiple bound formatives in a series of slots. It is relatively agglutinative
+with very little fusion, and bound formatives are predominantly suffixing or otherwise
+post-stem.
+Hup has nominative-accusative alignment and employs morphological case
+marking. In general, it favors dependent marking (realized mainly as nominal case
+marking and possession marked on the possessor). Hup grammar shows sensitivity to an
+animacy hierarchy and particularly to humanness; this is particularly evident in its
+systems of differential object case marking and differential or ‘split’ plural/collective
+marking, which reflect the animacy of the referent. Such differential grammatical
+marking is a feature of the languages of the Vaupés region generally.","[18, 19]"
+"(46)hˆdnˆ‡hhúptok3pl.POSS person.bellyyˆ¤t=yˆ/pˆ¤db’´h-ham-pQm-yˆ¤/-ay, /ãê¤h-ãw-ãê¤hthus=TEL DIST pour-go-sit-TEL-INCH1sg-FLR-DECL‘I kept pouring out their caxiri (lit. person-belly) as I sat there.’ (TD.Cv.98)
+(47)yˆkánmç‡yhˆd bˆ/-pˆ¤d-ˆ¤h,over.there house 3plpóg!make-DIST-DECL big‘There they built a house, (it was) big!’ (H.YP.69)de‡h hi-wa‡y(48)hám=d’´h yúp,water FACT-go.out go=PLhç‚pk´‡k, mçm-b’ç¤k hˆd tçn-hám-áhthat.ITG fish.pulliron-pot3pl237hold-go-DECL‘Those who go out in the igapó (to fish), they take along fishhooks and pots.’
+(P.F.125)F. Plural nouns
+Object marking is always required when the Plural/collective marker =d’´h is present,
+regardless of the animacy or definiteness of the noun. Typologically, this appears at first
+glance to be a peculiar twist on differential object marking. However, it in fact makes
+sense in light of the fact that number marking in Hup involves essentially the same
+semantic parameters as does differential object marking, conforming to an
+animacy/definiteness hierarchy (see §4.4.1 below). Moreover, Hup is not alone among
+languages in displaying an interaction of plural with case marking. For example, animate
+nouns in Russian have a different way of forming the accusative case in the plural, as do
+male human nouns in Polish (cf. Comrie 1981: 132)—which may reflect an interaction
+between differential object marking and an animacy-based plurality ‘split’ like that found
+in Hup.
+The combination of Plural marker + Object marker in Hup is usually realized as
+the fused form =n’a‡n, although the unreduced form =d’´h-a‡n is heard occasionally and is
+typical of exaggeratedly slow speech.58 This unreduced form is also always found with
+plural demonstratives (see Table 4.2), and corresponds to their unique stress pattern (i.e.
+unstressed stem and stressed plural marker, the opposite of the normal stress pattern).
+The order of the Plural and Object markers in this form is important; compare the distinct
+58Note that the fusion results in a phonologically monomorpheme-like form which is fully nasalized, in
+keeping with nasality’s role as a morpheme-level prosody in Hup generally (see §2.3.1).","[253, 254]"
+"4.3.1.2. Differential object marking
+With the exception of recipients/ beneficiaries of ditransitive constructions, object
+marking crucially depends on the semantics of the nominal. In general, object marking is230obligatory for human nouns, pronouns, and demonstratives, optional for animals, and
+ungrammatical for inanimates.
+It is relatively common cross-linguistically for object marking to be sensitive to
+animacy, specificness, and even topicality (cf. Silverstein 1976, Croft 1990: 112, Blake
+2001: 119-20). This phenomenon, by which some objects are marked and others are not,
+depending on their semantic features, has been termed ‘differential object marking’
+(Aissen 2003, Bossong 1998; cf. Zuñiga 2004). Aissen (2003: 437) discusses two
+dimensions along which prominence of objects can be assessed for the purposes of
+object-marking: animacy and definiteness. With respect to animacy, she posits a crosslinguistically general ranking to be the following: Human > Animate > Inanimate, and
+with respect to definiteness, the following: Personal pronoun > Proper name > Definite
+NP > Indefinite specific NP > Non-specific NP. The higher an entity falls on these
+hierarchies, the more cross-linguistically likely it is to be overtly object-marked.
+Examples of other differential object-marking languages include Hindi, in which nouns
+are marked only when the referent is both specific and animate (Blake 2001: 120);
+Sinhalese, where optional object marking is limited to animate-referring objects; and
+Hebrew, where object marking is obligatory but limited to definite objects (Aissen 2003:
+436).
+Aissen (2003) characterizes the degree to which differential object marking
+extends across the class of nouns in different languages as being determined by the
+tension between two factors, economy and iconicity. Economy pushes the language to
+avoid unnecessary additional morphological material, whereas iconicity fosters the use of
+morphological complexity to facilitate comprehension. In a slightly different231interpretation of differential object marking, Hopper and Thompson (1980) consider
+the presence of object marking in such languages to register a high degree of Transitivity
+in the clause, specifically vis-à-vis the degree of individuation of the nominal entity.
+In Hup, differential object marking corresponds closely to the animacy and
+definiteness hierarchies. When examined in more fine-grained detail, certain
+idiosyncrasies in this pattern only serve to reinforce the conclusion that the phenomenon
+has to do with the individuation of entities, as the examples and discussion below
+illustrate.
+Despite the fact that both subjects and some objects are unmarked and that
+constituent order is fairly free in Hup (see §17.3.1), ambiguity is easily avoided. Given
+that differential object marking reflects the fact that humans are more prototypical agents,
+whereas inanimate objects are more prototypical patients, any potential ambiguity
+between agents and patients in Hup discourse is mostly limited to cases of interaction
+between animals. When such cases do come up, context and the optional application of
+object marking are the primary means of differentiating agents from patients, but if no
+other clues are available speakers interpret the clause according to SO constituent order
+(see §17.3.1).","[246, 247, 248]"
+"2144. The noun and nominal morphology
+The noun stem in Hup is identified as the minimal nominal word, which in most
+cases is monomorphemic. As discussed in §3.1.1, the defining features of the noun
+include its ability to occur as a bare stem lacking a Boundary Suffix (unlike verbs, which
+usually require inflection), its functioning as an argument of a predicate or as an
+attributive modifier of another noun, and its bearing of lexical (contrastive) tone. Unlike
+verbs and adjectives, nouns can in general be possessed, and can be negated with the
+existence negator pãÙ (see §16.2).
+In this chapter, I present the simple noun stem and the categories of nominal
+morphology that are most basic to it, case and number. I also offer a brief discussion of
+the lexical phenomenon of reduplication in nouns, and summarize the processes of
+nominal derivation. Processes of nominal compounding are treated in chapter 5, and
+multi-word noun phrases are covered in chapter 6.","[230, 231]"
+"54810.2. Adverbs and adverbials
+Adverbial expressions in Hup function as modifiers of the verb phrase, or in a few cases,
+of other adjectives (note that adjectives are more often modified by bound emphasis and
+intensifier morphemes; see §15.1-2). There is no distinct word class of adverbs; many
+adverbial expressions are simply adjectives used in an adverbial role, but nouns, verbs,
+and entire clauses can also function as modifiers of a verb phrase, as can ideophones
+(§15.7). This section focuses on simple adverbial expressions in Hup, including the
+clause-initial adverbial element hi‚ê, as well as Hup’s strategies for expressing
+comparison—which generally rely on adverbials to indicate the standard of comparison.
+The variety of strategies that are used for deriving adverbial expressions from full clauses
+are discussed in §18.2.4.1 and §18.2.6.
+Adverbial expressions in Hup are very frequently marked with the enclitic =yˆ/.
+This form is nearly ubiquitous in the language, and has a number of functions which
+appear to be synchronically quite distinct—in addition to its role with adverbials, it
+appears as a verbal Telic suffix (§12.6), and as a marker of contrastive focus on nominal
+arguments (§7.1.2).119 On adverbials, =yˆ/ plays a marginally derivational role
+(extending to adverbial clauses; see §18.2.6.1). In some adverbial expressions, =yˆ/ is
+obligatory and appears to have the primary function of marking the phrase as adverbial,
+especially where its syntactic identity and function might be otherwise in doubt because119The historical and/or functional relationship (or even whether one actually exists) between these
+different manifestations of yˆ/ is not yet understood. Even the exact factors governing its use with
+adverbials are not at this point entirely clear.","[564, 565]"
+"iiContents
+List of maps, figures, and tables
+Acknowledgements
+Abbreviationsxi
+xiii
+xv1. Hup and its speakers
+1.1. Linguistic profile of Hup
+1.2. Hup within the Nadahup (Maku) language family
+1.2.1. Suggested name changes
+1.2.2. Previous studies of Hup
+1.3. Dialectal variation in Hup
+1.4. The cultural context of the Hupd’´h
+1.5. Vaupés multilingualism and language contact
+1.5.1. The Hupd’´h and the River Indians: socioeconomic interaction
+1.5.2. The sociolinguistics of Hupd’´h-Tukanoan interaction
+1.5.3. Bilingualism and language contact
+1.5.4. Viability and endangerment status of Hup
+1.6. Regional history and the current situation of the Hupd’´h
+1.7. Methods and presentation of this study1
+2
+4
+12
+14
+14
+19
+30
+33
+37
+44
+46
+46
+552. Phonology
+2.1. Segmental phonology
+2.1.1. Vowels
+2.1.2. Consonants
+2.1.2.1. Consonantal allophones and alternations:
+morphological context
+2.1.2.2. Voiceless obstruents
+2.1.2.3. Voiced obstruents
+2.1.2.4. Fricatives
+2.1.2.5. Glides
+2.1.2.6. Glottalized consonants
+2.2. Syllable, morpheme, and word structure
+2.3. Prosodic features
+2.3.1. Nasalization
+2.3.2. Word-accent: tone and stress
+2.3.2.1. Lexical stress patterns
+2.3.2.2. Tone
+2.4. Phonological differences among Hup dialects
+2.5. Orthographic conventions
+2.6. Morphophonemics61
+62
+62
+65
+67
+72
+77
+85
+86
+88
+108
+114
+115
+119
+120
+123
+136
+139
+142iii3. The architecture of the word: parts of speech and formatives
+3.1. Parts of speech
+3.1.1. Nouns
+3.1.2. Verbs
+3.1.3. Adjectives
+3.1.4. Other word classes
+3.2. Morphological processes and the phonological word
+3.2.1. Defining the phonological word
+3.3. Polysemy or homonymy?
+3.4. Formative classes and their combination
+3.4.1. Core formatives
+3.4.1.1. Prefixes
+3.4.1.2. Suffixes
+3.4.2. Peripheral formatives
+3.4.2.1. Clitics
+3.4.2.2. Particles
+3.5. Flexibility of formative positions in the verb
+3.6. Phonologically reduced formative variants
+3.7. Formative flexibility and grammaticalization152
+153
+154
+156
+158
+159
+160
+162
+164
+166
+169
+169
+172
+185
+186
+188
+191
+198
+2034. The noun class and nominal morphology
+4.1. Types of nouns
+4.1.1. Human nouns
+4.1.2. Closed nominal classes
+4.1.3. ‘Verby’ nouns
+4.2. Nominal morphology
+4.3. Case marking and grammatical relations
+4.3.1. Object case -an‡
+4.3.1.1. Semantic roles and object marking
+4.3.1.2. Differential object marking
+4.3.1.3. Object marking on NPs and relative clauses
+4.3.2. Directional oblique case -an
+4.3.3. Other constructions involving -an
+4.3.4. Oblique case -Vtê
+4.3.4.1. Semantic roles and oblique marking
+4.3.4.5. Oblique marking and subordinate clauses
+4.4. Number
+4.4.1. Differential plural marking (‘split plurality’) and animacy
+4.4.2. Number and other noun types
+4.4.3. Uncountable or mass nouns
+4.4.4. Number marking and the noun phrase
+4.4.5. Number marking and the relative clause
+4.4.6. Associative plural -and’´h
+4.5. Reduplication in the noun stem214
+214
+215
+216
+220
+222
+224
+225
+225
+229
+238
+242
+244
+245
+246
+251
+252
+253
+261
+265
+267
+269
+270
+272iv4.6. Nominal derivation
+4.6.1. Nouns formed from free verb stems
+4.6.2. Derivational uses of bound nouns
+4.6.3. Other nominalizations274
+275
+276
+2775. The complex noun: compounding, possession, and noun classification
+278
+5.1. Noun compounding
+279
+5.1.1. Hup compounds and metaphorical extensions
+281
+5.1.2. Two types of compounds
+282
+5.1.2.1. Lexically specific compounds
+282
+5.1.2.2. Productive compounds
+283
+5.1.3. Lexification and phonological reduction of compound forms
+286
+5.1.4. Nominal compounds involving adjectives: attributive uses of aspect 287
+5.2. Alienable possession
+291
+5.3. Other possessive constructions: clausal strategies
+295
+5.3.1. Possessor ‘raising’
+296
+5.3.2. Other possessive strategies
+298
+5.4. Syntactically bound nouns
+300
+5.4.1. Referential kin terms
+302
+5.4.2. Human nouns
+306
+5.4.2.1. ‘Generic human’ nouns
+308
+5.4.2.2. ‘Male’ and ‘female’ nouns
+309
+5.4.2.3. Possession and human nouns
+313
+5.4.3. Plant parts
+315
+5.4.4. Other obligatorily bound nouns
+319
+5.4.5. Body parts: both bound and free realizations
+320
+5.5. Making sense of the bound noun or ‘inalienable’ construction
+325
+5.5.1. Non-obligatorily bound nouns and the bound construction
+332
+5.5.2. Exceptions to obligatory participation in the bound construction
+334
+5.6. Bound nouns and semantic extension: noun ‘classification’
+335
+5.6.1 Semantically extended bound constructions and names for
+native items
+336
+5.6.2. Semantically extended bound constructions and names of
+newly introduced cultural items
+340
+5.6.3. Animate entities
+345
+5.6.4. A classifier system?
+346
+5.6.4.1. From bound nouns to classifiers: a grammaticalization story 348
+5.6.4.2. Functions of the Hup classifier system and the typology
+of noun classification
+351
+6. The noun phrase: modification and definiteness
+6.1. Pronouns
+6.2. Interrogative pronouns and question words
+6.3. Demonstratives
+6.4. Indefinite reference361
+362
+365
+369
+386v6.5. Quantification
+6.5.1. Numerals
+6.5.2. Distributive pˆd as a quantifier
+6.5.3. Other quantifiers
+6.6. Adjectival modifiers
+6.7. NP coordination389
+389
+399
+402
+407
+4187. Nominal discourse-marking morphology
+7.1. ‘Promiscuous’ verbal morphology and the noun class
+7.1.1. Inchoative focus -ay
+7.1.2. Contrastive Emphasis (Telic) =yˆ/
+7.1.3. Topic-switch marker =b’ay ‘again’
+7.1.4. Reflexive Intensifier =hup
+7.1.5. Dependent marker -Vp as a topic marker
+7.1.6. Comparison of ‘promiscuous’ nominal discourse markers
+7.2. Augmentatives and diminutives
+7.3. ‘Deceased’ marker =cud
+7.4. Respect markers
+7.5. Indefinite Associative /u‡y (‘who’)
+7.6. ‘Related Instance’ particle tá/
+7.7. Parallel marker =hin
+7.8. Contrastive n’uh‡
+7.9. Locative có/
+7.10. ‘Following’ marker huy‚Ù420
+421
+423
+425
+430
+435
+436
+437
+438
+439
+442
+445
+448
+449
+452
+455
+4588. The verb word
+8.1. Defining the Hup verb
+8.2. Verb root classes and transitivity
+8.2.1. Transitive and intransitive variants distinguished by glottalization
+8.3. The verbal template
+8.4. The verb ni-460
+460
+461
+469
+471
+4779. The compound verb
+9.1. The verb compound and its component stems
+9.2. Defining the verb compound as ‘word’
+9.3. Compounding compared to serialization
+9.4. The Hup compound and levels of sub-event integration
+9.4.1. Low integration
+9.4.1.1. Temporal sequence
+9.4.1.2. Compounds encoding a cause-effect relationship
+9.4.2. High integration
+9.4.2.1. Multiple sub-events: semantic classes of verb stems
+9.4.2.2. Order of stems in compounds
+9.4.2.3. Complex compounds: ordering of multiple stems480
+480
+483
+487
+491
+491
+492
+494
+502
+503
+508
+516vi9.4.2.4. Auxiliary and ‘vector’ stems: aspect, mode, and
+Aktionsart in compounds
+9.4.3. Maximal integration: stems and formatives
+9.5. Restrictions on compounding
+9.6. Noun incorporation519
+527
+531
+53310. Adjectives and adverbial expressions
+10.1. Adjectives
+10.2. Adverbs and adverbials
+10.2.1. ‘No reason’ particle hi‚ê⇒
+10.2.2. Comparative strategies
+10.2.2.1. ‘Like’ comparison
+10.2.2.2. Contrastive comparison
+10.2.3. Locative postpositions542
+542
+548
+553
+554
+555
+563
+56711. Adjusting valency
+11.1. Reflexive hup11.1.1. Reflexive reading
+11.1.2. Passive reading
+11.1.3. Reciprocal reading
+11.2. Reciprocal / pluractional /u‚h11.3. Applicative -/u‚h11.3.1. Additional functions of /u)h
+11.4. Factitive hi11.5. Other valency-related operations
+11.5.1. Derivation of causatives575
+575
+580
+585
+590
+592
+607
+610
+613
+627
+62812. Aspect
+12.1. Hup’s aspect markers and their properties
+12.2. Dynamic -Vyê
+12.3. Inchoative -ay
+12.4. Perfective -/e/- / -/e12.5. Completive -cˆ‚p- / -cˆ‚w12.6. Telic -yˆ/12.7. Ventive -/ay12.8. Habitual bˆ¤g / -bˆ12.9. Iterativity
+12.9.1. Distributive pˆ¤d
+12.9.2. ‘Repeated instance’ =b’ay
+12.9.3. Reduplication
+12.10. Verbal ‘diminutives’
+12.11. ‘Ongoing event’ tQ¤632
+632
+638
+649
+658
+667
+673
+678
+682
+687
+688
+697
+702
+706
+707vii13. Tense and related forms
+13.1. Future -teg / -te13.1.1. Purposive function of -teg
+13.1.2. Other uses of teg
+13.2. Proximative -tuk- / -tu13.3. First person plural inclusive future
+13.4. Fused contrast/tense particles
+13.4.1. Temporally proximate contrast páh
+13.4.2. Distant past contrast j’ám, j’ãhê
+13.4.3. Future contrast tán710
+711
+715
+718
+723
+724
+726
+727
+730
+73314. Modality and evidentiality
+14.1. Conditional -tQ‡n
+14.2. Counterfactual -tQ‚/14.2.1. Counterfactual in conditional expressions
+14.2.2. ‘Avertive’ function of -tQ)/14.3. Alternative counterfactual form =tih
+14.4. Frustrative yQ‚êh
+14.5. Cooperative -nˆ‡N
+14.6. Apprehensive mood
+14.7. Optative -/u‚êh
+14.8. Epistemic modality /uê‚h
+14.9. Evidentiality
+14.9.1. Visual evidential ‘category’
+14.9.2. Nonvisual evidential =hç‚
+14.9.3. Inferred evidential =cud
+14.9.4. Reportive evidential =mah
+14.9.5. Co-occurrence of evidential enclitics
+14.9.6. Additional inferred evidential -ni-737
+738
+741
+741
+745
+748
+749
+757
+761
+766
+770
+775
+777
+781
+786
+791
+796
+79715. Sentence-level affect marking
+15.1. Degree markers
+15.1.1. Intensifier -(V)cáp
+15.1.2. Intensifiers mún / muhún
+15.1.3. Other intensifiers
+15.1.3.1. Verbal auxiliary -tubud15.1.3.2. Adverbial intensifier pˆ¤b ‘strong’
+15.1.3.3. Elative -k´d
+15.1.4. Diminutive intensifier =mQh
+15.2. Promiscuous focus and emphasis markers
+15.2.1. Emphasis -pog/ -po- / -wo15.2.2. Emphasis =/i‚h805
+807
+807
+810
+812
+813
+814
+814
+815
+819
+819
+823viii15.2.3. Focus -áh
+15.2.4. Filler form -Vw- as an emphasis marker
+15.3. Sentence-final affect markers
+15.3.1. Emphasis particles (ti)
+15.3.1.1. Interrogative emphasis ti‡
+15.3.1.2. Emphasis tí
+15.3.1.3. Emphasis tíh
+15.3.1.4. Emphatic tag -(V)ti/
+15.3.2. Additional emphatic device: final glottalization
+15.3.3. Interactive tag ya
+15.3.4. Interactive tag (-V)h´¤/
+15.3.5. Protestive bá/
+15.3.6. Exclusive -Vyˆ¤k
+15.3.7. ‘Acting alone’ markers -ké/, -d’a‡h
+15.3.8. Acquiescence particle bé
+15.4. Grammaticalized social connectedness
+15.5. ‘Whatchamacallit’ morpheme hãyê
+15.6. Interjections
+15.6.1. Clause-bound interjections
+15.6.2. Free interjections
+15.7. Ideophones826
+831
+836
+836
+837
+838
+840
+841
+842
+843
+846
+849
+852
+855
+857
+858
+861
+864
+864
+867
+86916. Negation
+16.1. Verbal Negative -nˆ¤h
+16.1.1. Verbal negation in main clauses
+16.1.2. Verbal negation in subordinate clauses
+16.1.3. Verbal negation and scope within the verb phrase
+16.1.4. Verbal negation and modifiers (adjectives, adverbs, quantifiers)
+16.1.5. The interaction of negation and other grammatical systems
+16.1.6. Verbal negation and emphasis/ intensification
+16.1.7. Reinforced negation with nQ¤
+16.2. Existential negative pãÙ
+16.3. Identity negative /a‡p
+16.4. Negative expressions and lexical items874
+874
+875
+878
+879
+882
+883
+886
+887
+889
+894
+89817. Simple clauses
+17.1. Boundary Suffixes and clause type
+17.2. The morphosyntax of main clauses
+17.3. Declarative clauses
+17.3.1. Constituent order in the declarative clause
+17.3.2. Declarative marker -Vhê
+17.3.3. Verbless clauses
+17.3.3.1. Nominal predicates902
+902
+903
+904
+905
+918
+926
+926ix17.3.3.2. Adjectival predicates
+17.3.4. Copula clauses
+17.4. Interrogative clauses
+17.4.1. Constituent (question-word) questions
+17.4.2. Polar questions with focus on predicate
+17.4.3. Polar questions with focus on constituent
+17.4.4. Interrogative alternative or doubt marker =ha/
+17.4.5. Responding to interrogatives
+17.5. Imperative clauses
+17.5.1. Simple imperative
+17.5.2. Imperative suffix -kQ‡m
+17.5.3. Responses to imperatives930
+934
+937
+938
+945
+949
+953
+954
+956
+958
+964
+96518. Clause combining
+966
+18.1. Coordination
+967
+18.1.1. Juxtaposition strategy
+968
+18.1.2. Vowel-initial Boundary Suffixes and clause linkage
+969
+18.1.3. Emphatic Coordinator =nih
+973
+980
+18.1.4. Adversative conjunction kah‡
+18.1.5. Disjunction
+983
+18.2. Subordination and cosubordination
+984
+18.2.1. Quoted speech
+986
+18.2.2. Cosubordination and predicate reduplication with ni990
+18.2.3. Relative clauses
+995
+18.2.3.1. Other constructions with a relationship to relative clauses 1007
+18.2.4. Dependent marker -Vp
+1009
+18.2.4.1. Dependent marker and dependent clauses:
+adverbial function
+1010
+18.2.4.2. Dependent marker and main clauses: focus and purpose 1014
+1019
+18.2.5. Nominalizer -n’ˆ‡h and complementation
+18.2.6. Dependent clauses contributing adverbial information
+1023
+18.2.6.1. Adverbial (Telic) =yˆ/ with adverbial clauses
+1024
+18.2.6.2. The case-marked clause as an adverbial
+1027
+1032
+18.2.6.3. Sequential -yó/
+18.2.6.4. Simultaneity and concession with -mˆ‡/
+1036
+18.2.6.5. Simultaneous temporal adverbial -kamí
+1043
+18.2.6.6. Reason adverbial keyó/
+1044
+18.2.6.7. Temporal/spatial adverbial té
+1045Appendix I: Summary of formatives
+Appendix II: Lexical comparison: Do Kakua and Nukak belong in the
+Nadahup family?","[1, 2, 3, 4, 5, 6, 7, 8, 9]"
+"Table 6.1. Hup subject pronouns
+1sg
+/ãêh
+2sg
+/ám
+3sg (M or F)
+tˆ¤h
+1pl
+/ˆ¤n
+2pl
+nˆ¤N
+3pl
+hˆ¤dAs can be seen in Table 6.1, a number distinction (singular/ plural) is lexically encoded in
+pronouns. Although gender is not encoded, it can be specified if necessary; in such cases
+the pronoun has a determiner-like function: hˆ¤d /ãêy=d’´h (3pl FEM=PL) ‘those women’.
+The singular and plural forms of the ‘Intangible’ demonstrative (see §6.2 below)
+are common variants of the basic third person pronouns (and can appear as such in any363grammatical role: subject, object, or oblique).81 They are particularly preferred in
+clause-final (post-verbal) position in subject function, where they require the Declarative
+marker (like all post-verbal subjects; see §17.3.1). Thus post-verbally one typically finds
+the Intangible forms yúw-úh and yˆ-d’´‡h-´¤h, rather than tˆ¤h-ˆ¤h and hˆ¤d-ˆ¤h (example 1).
+(1)naw-nˆ¤h mún /u‚h-mQh-ní-íybˆ¤gyˆ-d’´‡h-´¤h!good-NEG INTS2 RECP-beat-be-DYNM HABthat.ITG-PL-DECL‘There are always loads of them fighting!’ (TD.Cv.28)
+When they precede the verb in the clause, subject pronouns in Hup are typically
+immediately preposed to the verb. They appear to be developing a marginally
+procliticized status: in this position, they are unstressed, and in the Umari Norte dialect
+the third person singular pronoun (the most frequent in narrative) is phonologically
+dependent on its verbal host in some contexts (undergoing loss of final [h] and
+assimilating the vowel of the verb stem), as example (2) illustrates. This process may
+represent the incipient development of cross-referencing prefixes in the verb.
+(2)yˆ‚ê-nˆ¤h-ˆ¤yta-way-máh-ah,mi‡h-íh,ta‡htç‚-/ç‚êh-ç‚t-çê‚hthat.ITG-be.like-DYNM 3sg-go.out-REP-DECL turtle-DECL tapir 3sg-sleep-OBL-DECL‘So he went out, they say, the turtle, into the place where the tapir was sleeping.’
+(RA.MJ.58)
+As in most languages, Hup pronouns (including their possessive variants, as in
+example 3) are deictic forms that occur as arguments of predicates, in lieu of a noun
+phrase; they refer anaphorically to an entity that would otherwise be indicated by a full
+NP, or else refer deictically to the physical context.
+(3)tˆh=po‡gtˆnˆ‡h-ˆ¤h3sg=big3sg.POSS-DECL‘The big one is his.’ (EL)
+81Such double-duty of a demonstrative form is quite common cross-linguistically; Diessel (1999: 119)
+observes that third person pronouns often derive historically from pronominal demonstratives.","[379, 380]"
+"5.1.4. Nominal compounds involving adjectives: attributive uses of aspect
+Certain complex nominal expressions in Hup are formed from the combination of a noun
+and an adjective. This role of adjectives is distinct from their typical use as productive
+modifiers in noun phrases (see §6.6), in that they do not simply modify a nominal head
+within the noun phrase, but themselves are an intrinsic component of a complex nominal
+head, that in most cases can itself be modified. The adjectives in this distinct role are
+morphologically marked, setting them apart from the more conventional modifiers. It is a
+peculiar feature of Hup grammar that there is a formal overlap between the
+morphological means for marking these compound-internal attributives, and the marking
+of aspect (primarily on verbs) elsewhere in the language.
+Hup has two types of these compounds or complex nominals, which both form
+very small, closed sets; the productivity of these strategies appears to be extremely
+limited. In one, the adjective follows the noun (the typical order for adjective modifiers288and nouns in Hup), and the adjective is marked as a compound-internal attributive by
+reduplication. In the other, the adjective precedes the noun, and is marked by the suffix
+-Vyê , which appears elsewhere as a Boundary Suffix on verbs and marks Dynamic aspect
+within a declarative clause.
+A near-comprehensive list (in my corpus) of the nominal compounds involving
+reduplication is given below (24-25). Elsewhere in Hup, reduplication appears semiproductively in Hup verbs (see §12.9.3) and in Hup nouns (see §4.5), and relates to
+iterative aspect; its use in compounds, however, appears to be completely unrelated to
+this aspectual function. In these noun-adjective compounds, the reduplication signals that
+the adjective is involved in a nominal unit with its own specific semantics, rather than
+simply modifying a noun; for example, the reduplicated form cob popo‡g ‘thumb’ can be
+contrasted with the modified noun cob po‡g ‘big finger’. Primary stress in reduplicated
+compounds is on the N2, as expected for lexically specific compound forms.","[304, 305]"
+"367Question words are always clause-initial, and their use generally requires a
+clause-final verb taking the interrogative marker -V/ (see §17.4 for a full discussion of
+interrogative clauses and their syntax). These forms also occur in non-interrogative
+clauses as indefinite pronouns (§6.4 below).
+Examples (8-10) illustrate the use of interrogative /u‡y ‘who’. In (8-9), it stands in
+for a noun phrase, as subject and inflected object; in (10), it occurs in combination with a
+bound human noun in a compound construction, as a type of modifier or determiner.
+Note that—like the lexically singular personal pronouns—/u‡y cannot inflect for number,
+but does take the Associative plural form -and’´h (see §4.4.6). The form /u‡y has one
+additional use, beyond its function as an interrogative pronoun; it occurs as an enclitic in
+constructions meaning ‘one from/associated with’ (see §7.5 below).","[383, 384]"
+"3.1.4. Other word classes
+Hup has several additional word classes, which play a relatively minor role in the
+grammar compared to the major classes of nouns, verbs, and adjectives. Small closed
+classes of words that can occur as heads or modifiers in noun phrases are pronouns,
+demonstratives, interrogative pronouns, and numerals (which can all be considered
+subsets of the noun class more generally; see chapter 6). Locative and temporal
+postpositions also form a closed class (itself made up of two sub-classes), whose
+elements occur either within noun phrases or independently as adverbs (§10.2.3).
+Interjections and ideophones form a (potentially open) class of phonologically and160morphosyntactically idiosyncratic words that are for the most part never modified or
+associated with formatives at all; these are discussed along with sentence-level affectmarking strategies (which mostly involve formatives) in chapter 15. Finally, h´‡/ ‘yes, all
+right’ and /am ya/ápa/ ‘I don’t know’ make up a small closed class of proclauses.","[176, 177]"
+"(73)yu‚Ù-an-n’a‡nhˆd /éy-éyJoão-OBJ-PL.OBJ 3plcall-DYNM‘They’re calling John and his group.’ (EL)
+(74)/ectádu /unídu-an-/u‡y=/ãêy-a‡n /ãh hicocó-op /ˆ‡d
+estadosunidos-DIR-who=FEM-OBJ 1sg happy-DEP/ãh /ˆd-té-hspeech 1sgspeak-FUT-DECL‘I’ll tell the story of my happiness to the girl from the USA.’ (I.M.81)
+(75)yˆkánbˆ‡g/ãh ní-an-ayover.there long.time 1sgyúp,yˆ‚n’ˆ‡h wˆ/-yó/ /ãh /ˆ¤d-ay-áhbe-DIR-INCH that.ITG all.thathear-SEQ 1sgspeak-INCH-DECL‘During the long time I was there, having heard these (Portuguese and Tukano), I
+began to speak (them).’ (T-PC)
+4.3.4. Oblique case -Vêt
+A variety of non-core participants in the clause are marked with the catch-all oblique case
+form -Vêt. The Oblique marker is always required where applicable; unlike the Object
+marker, its presence is not dependent on the animacy, definiteness, or number
+specification of the noun. Nonetheless, the interpretation of the semantic role of the
+oblique-marked referent is necessarily somewhat dependent on the parameter of animacy.",[262]
+"4.6.2. Derivational uses of bound nouns
+The addition of a bound (usually a classifying) noun to a verb stem often serves a
+nominalizing function, as discussed in more detail in §5.6. This produces either an277instrument nominalization (‘thing for doing V’), as in (174a), or an object
+nominalization (‘thing that does V’), as in (174b). The default classifying noun teg ‘tree,
+stick, thing in general’ is the most common of the bound forms found in these
+constructions. It is not altogether clear to what extent the addition of a bound noun to a
+verb stem actually derives a noun, however, since (via the strategy described above) a
+bare verb stem can itself act as a nominalization.(174) a)b)hˆ‡/=teg
+ta‡c=tat(write=STICK/THING) ‘pencil’
+(stick for writing)
+(kick=ROUND)
+‘soccerball’ (round thing for kicking)p´p´¤d=teg (roll=THING)‘tractor, car’ (thing that rolls)4.6.3. Other nominalizations
+Subordinated clauses, formed by the addition of Dependent marker -Vp or the
+Plural/collective marker =d’´h, function as nominalizations, as discussed in §18.2.3-4.
+Addition of the bound preform tˆh= to adjective modifiers also produces a
+nominalization, as discussed in §6.6. Finally, as covered in §18.2.5, the form -n’ˆ‡h
+follows verb stems and nominalizes entire clauses, which usually appear as complements
+(example 175).
+(175) /ãh wˆ/-/é/-n’ˆ‡h, /ãh /ˆd-té-h
+1sg hear-PERF-NMZ 1sg speak-FUT-DECL
+‘That which I heard, I will tell.’ (LG-O9)2785. The complex noun: compounding, possession, and noun
+classification
+Hup has several strategies for combining full nouns, pronouns, or nominal
+elements into complex or compound nouns (i.e. noun combinations that act as phrasal
+constituents). Syntactically, all involve the juxtaposition of two or more nominal
+components, and these combinations serve a range of semantic functions. The slot
+sequence for the Hup complex noun is the following:
+(Possessor [+Alienable possession marker]) [N1...[N1 N2]]
+On the most basic, productive level, we find simple noun compounding, which
+can be used to express several distinct relationships between the associated entities. The
+expression of alienable possession likewise involves the combination of nouns in an NP,
+but in this case the possessor is crucially marked with an additional possessive
+morpheme. Hup also has a heterogeneous set of obligatorily bound and/or inalienably
+possessed nouns, which must occur in a compound construction, preceded by some other
+nominal element. Finally, a subset of these bound nouns occur in combination with other
+nouns and serve a primarily classificatory function, by which they categorize the noun
+they occur with on the basis of some abstract semantic component.
+In Hup, the phenomena of compounding, possession, and noun classification are
+all functionally closely related. I therefore consider them together in this chapter, while
+other word classes (adjectives, demonstratives, etc.) that occur as modifiers with nouns
+and form NPs are considered in chapter 6. Below, I discuss each of the three nominal
+construction types in turn, and also address clausal alternatives in the expression of279possession. Finally, I consider the classificatory function of certain bound nouns in
+terms of an incipient system of noun classification.","[293, 294, 295, 296]"
+"335For most bound nouns (though with the exception of human nouns), negative
+existence expressions also render the singular unbound form grammatical (and obligatory
+in the case of kin terms), as in (142-43).
+(142) tip pãÙ
+g’Qt pãÙ
+(143) /íp
+father‘no eggs’
+‘no leaves’pãÙ=mQ¤h=d’´hhˆdNEG:EX=DIM=PL 3pl/ç‚h=yˆ¤/-ˆ¤y
+sleep-TEL-DYNM‘The little fatherless ones fell asleep.’ (I.M.3)5.6. Bound nouns and semantic extension: noun ‘classification’
+As we have seen, obligatorily bound nouns relating to plant parts, eggs, and other entities
+tend to occur in paradigmatic sets, and individuate a referent out of a mass of potential
+referents. As such, particularly in the case of plant parts, the bound construction typically
+serves a classifying function—types of leaves, types of wood, types of feathers, etc. The
+bound N1 and N2 correspond either to a whole and its parts, or to two entities in a
+possessor-possessed or otherwise inherently associated relationship.
+In other cases, the same bound construction, with the same set of bound nouns—
+most relating to plant parts—does not indicate a possessor-possessed or whole-part
+relationship between two entitities, but instead serves merely to relate a property or other
+identifying feature to an entity (i.e. the third type of relationship that is typically encoded
+in the more general compound construction; §5.1). The examples of this subtype of
+bound noun construction all involve some level of semantic extension (which again is a336typical property of noun compounds generally; see §5.1.1), usually of the head noun
+(N2).
+These extended bound constructions can be characterized according to two types
+of extension: (a) extension involving the semantic type of the construction as a whole
+(from whole-part to property-entity) and (b) extension involving the N2 (from a literal
+part of a plant to an entity with some abstract semantic feature characteristic of that plant
+part). Like the non-extended plant-part compounds, these constructions also have to do
+with the classification of types of entities—but according to a distinct classification
+strategy, resembling that found in noun classification systems in other languages.
+As Grinevald (2000: 54) has observed, a functional-typological perspective allows
+us to recognize the various grammatical systems encountered in the world’s languages,
+such as noun classification, “as more or less prototypical, and at various stages of
+development and disintegration”. Accordingly, the following discussion will consider the
+arguments for characterizing the extended bound constructions in Hup as an incipient
+system of nominal classification, and as an example of how a noun classification system
+may arise in a language (see also Epps, to appear-b). For reasons that will become clear,
+I will examine names for native objects and for culturally foreign objects separately.","[351, 352, 353]"
+"(112) nˆ‡257báb’=d’´h tçhç-hu‚/-yˆ¤/-ˆ¤y1sg.POSS sibling=PLend-finish-TEL-DYNM‘My siblings are all dead.’ (H.int.129)
+(113) /ˆ¤n=/íp=d’´h, tˆh=w´h´¤d=d’´h...
+1pl=father=PL3sg=old.man=PL‘Our classificatory fathers, the old ones…’ (T.int.144)
+In some cases, the number marker does not indicate a plural number of referents
+of the noun with which it occurs, but rather a group of animate (usually human) entitities
+that are associated with the noun. As such, it serves a primarily collective function. This
+function is illustrated in example (114), which relates to the group of stars,
+mythologically embodied by a group of young men, that make up the Pleiades (‘StarHollow’) constellation.
+(114) wQdhç/m’Q‡h
+startod=d’´h-´¤h,cçÙ‚hdehham-tég=d’´h-´¤hhollow=PL-DECLrainy.seasongo-FUT=PL-DECL‘The Star-Hollow (Pleiades) ones, those that go (across the sky) during the rainy
+season.’ (H.txt.48)
+This collective function of the number marker is also manifested when it occurs with
+(nominalized) verb roots, such as/ˆ¤d=d’´h (speak=PL) ‘those who speak the same
+language’.
+It should also be noted here that while almost all generic nouns referring to
+humans are obligatorily bound (usually preceded by the default 3sg pronoun tˆh=), they
+(like most other bound nouns) may appear unbound in plural form. For example, the
+form tã/ãêy ‘woman (sg)’ (a reduced form of tˆh=/ãêy, involving the bound noun =/ãêy)
+can appear as /ãêy=d’´h in the plural, as in example (115). The explanation for this258phenomenon lies in the individuating function of the bound construction, as discussed
+in §5.5; this is essentially incompatible with generic semantics.
+(115) /ãêy=n’a‡n/ãh kéy-ep,FEM=PL.OBJ 1sgsee-DEPyúphayám-át-áhthat.DST town-OBL-DECL‘I saw women in that town.’ (JM-PN.58)B. Animals
+Number marking is common on nouns referring to animals, as in examples (116-18), but
+it may be absent (examples 119-20). In general, an animal-referring noun that is
+conceptually plural but lacks number marking is judged grammatical by speakers,
+whereas most human nouns in this context are not. In discourse, the presence or absence
+of number marking on animal nouns patterns according to specificity; more specific
+references to animals are usually marked, whereas more generic references are not—this
+is especially typical for game animals, as in (119-120). This is consistent with the pattern
+of differential object marking on animal nouns (§4.3.1.2), as well as with the absence of
+number marking on certain generic human nouns, as in examples (109-110) above.
+(116) hˆd nç-pˆ¤d-ˆ¤h,
+3plyúp,ya/ám=d’´h có/-óy-óhsay-DIST-DECL that.ITG jaguar=PLLOC-DYNM-DECL‘They were saying, those jaguars.’ (H.txt.70)
+(117) núp nutQ‡n ya/ám=d’´h hˆd wQd-nˆ¤h-ay-áh
+thistodayjaguar=PL3pleat-NEG-INCH-DECL‘So today jaguars don’t eat (people).’ (H.txt.78)
+(118) j’ám-ápde‡hmí-ít,hçÙ‚p wQ‡d=n’a‡nDST.CNTR-DEP water creek-OBL fisheat=PL.OBJ/ãh nç¤-çp, yç‡k=d’´h
+1sgsay-DEP otter=PL‘I’m talking about those that eat fish in the river, the otters.’ (H.txt.51)(119) hu‚yãêw mQh-yó/, ha‡t
+pacakill-SEQmQh-yó/, tç‚hód’alligatorkill-SEQmQh-yó/, hˆd /u‚h=nç¤/-ç¤ycollared.peccary kill-SEQ3pl259REC-give-DYNM‘Having killed paca, alligator, collared peccary, they gave (meat) to each other.’
+(LG.C.43)
+(120) hç‚Ùp tˆh
+fish3sgg’et-wQ‡d, mç‡h
+stand-eatt ˆhinambu 3sgg’et-wQ‡d, ní-íy=mah
+stand-eatbe-DYNM=REP‘He provided (her) with fish to eat, inambu to eat, it’s said’ (I.M)
+A referent may be inherently non-specific in a negative clause, and in this case number
+marking is actually judged ungrammatical, as in (121). This may be compared with the
+negative clause in (122), which makes reference to a specific bunch of fish, and is
+therefore marked for number.
+(121) hç‚Ùp /ãêh k´k-d’o/-nˆ¤h (*hç‚p=d’´h)
+fish1sgpull-take-NEG‘I didn’t catch any fish.’ (EL)
+(122) hç‚Ùp=d’´h pãÙ
+fish=PLNEG:EX‘The fish are not there.’ (specific fish) (OS)
+Certain nouns referring to types of insects that typically occur in large swarms are
+essentially mass nouns. These may occur in a bound construction with the singulative
+bound noun =/ãêw ‘swarming insect’, or with the Plural marker, or even with both, as
+illustrated in (123).
+(123) yç‡/
+yç‡/=/ãêw
+yç‡/=d’´h
+yç‡/=/ãêw=d’´h‘wasp’ (number unspecified: can refer either to an
+individual or to a swarm)
+‘single wasp’
+‘wasps’
+‘wasps’260C. Inanimates
+Although number marking is not ungrammatical on countable nouns with inanimate
+referents (unlike object marking), these nouns are almost always formally unmarked for
+number in discourse, as illustrated in (124-29). This is the case regardless of whether or
+not number is otherwise specified with a numeral or other quantifier. Like non-specific
+humans and animals, inanimate entities are typically of relatively low conceptual
+salience, and differentiation for number is thus apparently of low importance.
+(124) dadánya tˆ¤h-a‡n
+orange/ãh nç¤/-b’ay-áh3sg-OBJ 1sggive-AGAIN-DECL‘I gave her the oranges (that I’d brought).’ (P.txt.94)
+(125) pídaya=hin nutQ‡n pãÙ-ay,
+battery=alsotoday/ãêh-ãpNEG:EX-INCH 1sg-DEP‘Batteries too are all gone today, for me.’ (P.Sp.104)
+(126) hut‚Ù ,hç‚pk´‡k-´¤h,díbma, b’o‡h-óh, tˆh nç¤/-ç¤htobacco fish.pull-DECL filesalt-DECL 3sg give-DECL‘He gave tobacco, (there were) fishhooks, files, (there was) salt.’ (H.txt.64)
+(127) ná/ap hupá/=mah p´¤/-´¤h,
+this.many flat.basket=REPdapuê‚h=d’´hpresent-DECL hand=PLpˆ¤d=mah hˆd p´¤/-pˆ¤d-ˆ¤h
+DIST=REP3plpresent-DIST-DECL‘This many baskets they presented, two hands’ worth (10) they presented.’
+(H.txt.74)
+(128) ka/áp tˆ¤t,
+twonú-cá/ah d’´h-d’´h-hám, nú-cá/ahstring this-sidesend-send-gothis-side‘Two strings, coming down on this side, and on this (other) side.’ (H.20)
+t ˆhd’´h-hám-áhfive(PT) griddle(PT) 3sgsend-go-DECL(129) cínkufórnu‘He brought 5 griddles.’ (P.Sp.106)
+Note, moreover, that even when their referents are non-singular, inanimate entities
+unmarked for number are typically referred back to with a singular pronoun, as in261(130)—unlike non-specific unmarked human nouns like ‘people’ in example (110)
+above, which take a plural co-referential pronoun.
+(130) yˆ¤nˆ¤y hˆd d’o/-ham-yˆ¤/-ay-áh... tˆh=g’Q‡g-Q¤h, mi‡h g’Q‡g-Q¤h...
+thus3pltake-go-TEL-INCH-DECL 3sg=bone-DECLturtle bone-DECL‘Thus they make (them) go up… the bones, the turtle bones...
+tˆh hi-yQt-yˆ¤/-ay-áh
+3sg descend-lie-TEL-INCH-DECL(then) it (i.e. they) comes down.’ (H.txt.21)4.4.2. Number and other noun types: demonstratives, numerals, and pronouns
+As nominal heads referring to non-singular entities, demonstratives occur as the
+lexicalized free-pronoun forms nˆ-d’´‡h ‘these’, n’i-d’´‡h ‘those (distal)’, and yˆ-d’´‡h
+‘those (intangible)’ (see Table 4.2 in §4.1.2 above), as in examples (131-32). Note that
+the lexicalized stress pattern of these forms results in stress falling on the Plural marker,
+whereas =d’´h is always unstressed elsewhere in Hup. The Plural marker can also occur
+with various other derived demonstrative forms, such as that in (133). It is important to
+note that the combination of a bound demonstrative morpheme with the Plural marker
+results in a nominalization; in other words, =d’´h has a nominalizing effect on these
+forms.
+(131) /´‡g=wagnˆ-d’´‡hnˆh-nˆ¤h-ay=pog’,drink=daythis-PLbe.like-NEG-INCH=EMPH1 bad-INCHpáy-ay‘On drinking days, these (people) don’t do like this, (it’s) no good.’ (T.int.147)
+(132) hi‚⇒ j’ek-yçhçy-yˆ¤/-ˆ¤y,yˆ-d’´‡h-´¤h!only steal-search-TEL-DYNM that.ITG-PL-DECL‘They’re just looking (for something) to steal, those ones!’ (B.Cv.94)
+(133) yá/a‡p=d’´h=yˆ¤/
+that.ITG.QUANT=PL=TEL‘That’s all of them (her siblings).’ (D.int.112)262Hup’s animate/ inanimate distinction in number marking applies to adnominal
+demonstratives. When occurring within an NP, the (DEM + d’´h) forms above are usually
+restricted to animate referents, and can only modify an inanimate referent when the
+inanimate-referring noun is explicitly number-marked with =d’´h (which, as we have
+seen, is almost never the case in natural discourse). For inanimate referents,
+corresponding fused forms built on the nominalizer -n’ˆ‡h (see §4.6.3 below and §18.2.5)
+are used. These (DEM + n’ˆh) forms are realized as nˆ-n’ˆ‡h ‘these’, n’i-n’ˆ‡h ‘those (DST)’,
+and yˆ‚-n’ˆ‡h ‘those (ITG)’, and are never used for animate referents. For a countable
+inanimate noun like ‘fruit’, the -n’ˆ‡h demonstrative form requires a plural interpretation;
+thus nˆ-n’ˆ‡h=tat means ‘these fruits’, whereas núp=tat means ‘this fruit’ (compare nˆd’´‡h dó/=d’´h ‘these children’). For a mass noun, the demonstrative may be either
+inanimate plural or singular; e.g. nˆ-n’ˆ‡h j’ˆ‡k; núp j’ˆ‡k ‘this smoke’.
+Numerals (other than ‘one’), like demonstratives, also require the Plural marker
+when acting as nominal heads, i.e. when they stand for an explicitly plural (usually
+animate) referent, as in examples (134-36). Also as in the case of demonstratives, Plural
+=d’´h has a nominalizing function here, and may take the place of a head noun. This is
+supported by the fact that numerals representing inanimate referents are usually
+accompanied by a bound or classifying noun (see §4.4.3 below, especially example 153,
+ko/ap=te‡g ‘two [helicopters]’), whereas adnominal numerals need not, but may, take=d’´h (example 137). Numerals themselves are discussed in detail §6.5.1, while their263use as adnominals within the plural noun phrase is covered in §4.4.4 below.
+(134)ka/a‡p=d’´h-ay=cud, tˆnˆ‡h
+two=PL-INCH=INFRhçhç¤h=d’´h3sg.POSS frog=PL‘There are two of them apparently, his frogs.’ (FS.)
+(135) tedé=d’´h-´¤t tˆh bˆ/-ni-cˆê‚p-ˆê‚h
+three=PL-OBL 3sg work-be-COMPL-DECL‘He’s already worked with three of them.’ (P.Sp.110)
+(136) nˆ‡báb’=d’´h mç¤ta/a‡p=d’´h1sg.POSS sibling=PLthree=PL‘My siblings are three.’ (E.int.136)
+(137) ko/a‡p=d’´h tˆh=tQ‚êh=d’´h
+two=PL3sg=offspring-PLná/-áh
+die-DECL‘Two of his children died.’ (B.Cv.134)
+In (138), the number marker occurs at the end of a numeral string, uttered as the speaker
+counted a row of frogs in a picture.(138) doy,cínku, cé…two(Pt) five(Pt)/óytu=d’´h=cud/u‚hníysix(Pt) eight(Pt)=PL=INFR.maybe‘(There are) 2, 5, 6, 8 of them, apparently.’ (FS.12)
+The Plural marker’s collective function is especially clear when it follows the
+numeral ‘one’ in reference to a single set of countable entities, as in (139-41).
+(139) /ayu‡p=d’´h /ˆ¤n-ˆ¤h!
+one=PL1pl-DECL‘We are of one set!’ (OS) (referring to clan membership)
+(140) mç¤da/a‡p=d’´h nˆ‡
+three=PL1sg.POSSbáb’=d’´h=cáp-áh;/ayu‡p tQê‚h=d’´h... /ˆ¤n-ˆ¤hsibling=PL=INTS1-DECL oneoffspring=PL 1pl-DECL‘My siblings are three; we are of one clan / one father.’ (P.int.140)
+(141) /ayu‡p (hup) yo‡y=d’´h
+one
+person line=PL
+‘A line of people’ (EL)264Note this collective use of =d’´h with ‘one’ is not generally found with inanimate nouns,
+which are not expected to be specified for number, as in (142).
+(142) /ayup mú(*=d’´h) kç¤w-ç¤h
+onemound (*PL)hot.pepper-DECL‘One pile of hot peppers’ (EL)
+The use of the Plural marker with pronouns also illustrates its collective function.
+Although the first, second, and third person plural pronouns are already lexically
+specified for number, they can nevertheless occur with =d’´h, indicating a well-defined
+set or group of individuals, as illustrated in examples (143-45). On the other hand, =d’´h
+is ungrammatical with the first, second, and third person singular pronouns.
+Corbett (2000: 118) observes that collectives derived from pronouns appear to be
+very rare in the world’s languages, but the Hup collective pronoun construction does
+seem to be a bona fide collective in Corbett’s sense of a group of items “considered
+together as a unit”. As the examples below illustrate, the collective is not spatial so much
+as conceptual; it is usually used in reference to an ethnic group, as distinct from a more
+contextually defined group of referents (which would be referred to with the simple
+pronominal form).
+(143) nˆ¤N=d’´h wˆd-nQ¤n-tQ‡n=hin,
+2pl=PL/ãh /ˆd-tuk-yQ‚êh-Q‚parrive-come-COND=also 1sgspeak-want-FRUST-DEP‘When you types (Non-Indians) come here, I’d like (in vain) to talk (with you).’
+(but can’t speak Port.) (T-PN.5)
+(144) /ˆ¤n=d’´h húp=d’´h j’u‡g-an
+1pl=PLperson=PLní-íyforest-LOC.OBJ be-DYNM‘We Hupd’ah live in the forest.’ (RU)(145) hˆ¤d=d’´h wç‡h=d’´h
+3pl=PLde‡h=mícó/265ní-íyRiver.Indian=PL water=creek LOCbe-DYNM‘The River Indians live by the river.’ (EL)
+Similarly, =d’´h can occur as a collective marker on the interrogative pronoun hˆ‚n’ˆ‡h
+‘what’, in reference to a set (but only the Associative plural -an-d’´h is possible with /u‡y
+‘who’):
+(146) hˆ‚n’ˆ‡h=d’´h
+what=PLnúp /a‡n=b’ay,
+thismate‡w?1sg.POSS=AGAIN Mateus‘What’s this bunch of things on me, Mateus?’ (B.Cv.88)4.4.3. Uncountable or mass nouns
+Inanimate nouns conceived as a mass cannot, in general, receive plural marking at all
+(whereas countable inanimate nouns usually do not, but in principle can):
+(147) /adócu(*=n’a‡n) /ˆnwQ¤d-Q¤yrice(*=PL.OBJ)eat-DYNM1pl‘We’re eating rice.’ (EL)
+(148) kQ‡n=mQh, kQ‡nd’o/-yó/ /´¤g-´pfarinha=REP farinha take-SEQ/ápdrink-DEP NEG:ID‘A little farinha, having taken farinha (and) drinking; not doing this.’ (T.PN.22)
+An inanimate mass noun can be made countable by specifying a unit; this is
+usually done by means of a bound noun (see §5.4), as in the following example:
+(149) peyãêw
+peyãêw=wˆg
+peyãêw=tat‘beans’
+‘bean seed’ (=individual bean)
+‘bean fruit’ (=bean pod)For a few mass nouns, the plural marker may in fact be grammatical, but only in a
+collective-type sense:266(150) pãÙt
+pãÙt tˆ¤t
+pãÙt=d’´h‘hair’
+‘strand of hair’
+‘lots of hair’The use of measure terms (which are frequently bound nouns) is required when
+mass nouns are modified with numerals, as in examples (151-52).
+(151) ko/ap b’ç‡/d’u‡çdeh tˆh /´g-yˆ¤/-ay-áh,twotimbówater 3sg drink-TEL-INCH-DECL twocuiako/ap b’ç‡/
+cuia‘He drank two cuias of timbó juice, two cuias (full).’ (P.B.9)
+(152) hç‚p k´k tˆ¤t
+fishpç¤t /ayu‡p, hç‚pk´‡k /ayup dúciya,pull string rollonefish.pulloneku‚nye‚h/ayu‡p,dozen(Pt) spoon(Pt) one‘One roll of fishing line, a dozen fishhooks, one spoon,
+ya/áp=yˆ/t ˆhnç¤/-ç¤hthat.much=TEL3sggive-DECLshe gave all this.’ (P.txt.93)
+This use of measure terms has a formal parallel in the common (though not obligatory)
+use of noun classifiers or other bound nouns when numerals modify countable inanimate
+nouns, as in examples (153-54). This supports the notion that nouns unmarked for
+number in Hup are conceptually akin to mass nouns; in the same way, it suggests that the
+function of the bound construction—and more specifically, the noun classifiers—is one
+of individuation, closely linked to that of measure terms (see §5.5-6).64
+(153) /ˆ¤n-a‡n cúkutˆh nç¤/-ç¤h,bodáca/óytu=b’ah1pl-OBJ juice(Pt.) 3sg give-DECL cookies(Pt.) eight(Pt)=SPLIT‘She gave us juice, and eight cookies…’ (P.txt.94)
+(154) ka/ap=te‡g!
+two=THING‘Two of them!’ (helicopters: pˆpˆh=teg) (OS)
+Also compare the use of the ‘singulative’ bound noun =/ãêw ‘swarming insect’ (§4.4.1.B above) with
+mass-like insect nouns, and the obligatory participation of human nouns in the bound construction (§5.4.2
+and §5.5).","[273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283]"
+"(68)/am yénu=w´h´¤d!
+2sgmoney=full.of‘You’re loaded with money!’ (OS)
+(69)pán=w´d
+sloth=full.of‘Many Sloths’ (i.e. one who encounters many sloths); ‘Lord of Sloths’
+(personal name)
+The various uses of =w´d can probably be explained via the semantic and
+pragmatic links between old age, the social status accompanying it, and the large quantity
+of years, children, hunting-and-gathering experience, and the like that also are associated
+with it. While grammaticalized markers of respect, or honorifics, are not uncommon in
+the languages of the world, they are considerably less common in highly egalitarian, nonstratified societies like that of the Hupd’´h. Nevertheless, age is clearly a meaningful
+measure of social status in such societies. This is reflected linguistically not only in Hup,
+but also in languages such as Tunebo (Colombia) and Guugu-Yimidhirr (Australia; cf.
+Foley 1997: 326-28). Example (70) illustrates the co-occurrence and marginal ambiguity
+of the ‘respected’ and ‘full of’ manifestations of =w´d:445(70)hç‚Ùp=w´d=mahyúw-úh,cç¤=w´d!fish=full.of/lord=REPthat=DECLrainbow=old/respected‘He’s lord of/ has lots of fish, Old Rainbow Man’ (H.40)7.5. Indefinite Associative /u‡y (‘who’)
+The ‘Indefinite Associative’ construction involves the attachment of the interrogative
+pronoun /u‡y ‘who’ to a noun N, usually following an intervening Directional/Object case
+marker (-Vêt or -a‡n), to indicate ‘a person from N, associated with N’. This use of ‘who’
+is probably linked to the more general function of interrogative pronouns to mark
+indefinite reference (see §6.4); however, it is more grammaticalized. In the Indefinite
+Associative construction, /u‡y is typically pronounced [du‡y] due to assimilation with the
+preceding dental stop [t] or [n] of the case marker. Some speakers maintain this
+assimilation even in slow speech, and do not even recognize a connection between this
+form of /u‡y and the interrogative pronoun.108
+The Indefinite Associative construction almost always contains a case marker;
+this is usually the Object (or possibly the Directional oblique) form -an (71), but in many
+cases the Oblique -Vêt is also acceptable (examples 72-73). There are also a very few
+examples of this construction where no case marker is present, as in (74) below (note that
+in this environment /u‡y is not pronounced [du‡y]). Finally, the construction is almost
+always followed by a bound nominal form; this is usually the masculine, feminine, or
+108According to the morphophonological parameters defined for Hup formatives in §3.4, the peripheral
+formative /uÙy should be labeled a postpositional ‘particle’, rather than an ‘enclitic’, because it receives446plural enclitic, but may be another bound noun when the referent is inanimate, as in
+example (73), which refers to a piece of plastic pipe.
+(71)n’i=có/ni-yó/, núp ma-an-/u‡y=/ãy=n’a‡nthat=LOC be-SEQthisriver-OBJ-who=FEM=PL.OBJtçn-yó/...
+hold-SEQ‘Having lived there, having taken (in marriage) the women of this river...’ (H.38)
+(72)núp=b’ay katánya-át-/u‡y=/i‚h /ˆ¤n-a‡n hu‚Ùt
+this=AGAINCastanha(Pt)-OBL-who=MSC 1pl-OBJw’ob-nˆ¤h yQ‚êh=nihtobacco place-NEGtíFRUST=EMPH.CO EMPH.DEP‘That guy from the Rio Castanha hasn’t put any tobacco out for us.’ (P.Sp.102)
+(73)hç‚Ùp mç¤h-ç¤t-/u‡y=teg
+fishlake-OBL-who=THING‘(It’s a) thing from the fish-pond.’ (OS)
+(74)máh=yˆ/-/u‡y=d’´h, w’éh-éy=d’´h
+near=TEL-who=PLfar-DYNM=PL‘People from nearby, from far away’ (T-Song.2)
+The Indefinite associative construction can also follow a personal pronoun, as in
+the expression /ãêh-an-/u‡y=d’´h (also /ãêh-ãêt-/u‡y=d’´h) [1sg-OBJ/OBL-who=PL] ‘my
+friends/those who are with me’. It is found with demonstratives (example 75) and with
+interrogative pronouns (example 76) as well.","[461, 462, 463]"
+"5.5. Making sense of the bound noun construction
+Why should such a heterogeneous group of phenomena—kin terms, humans, plant parts,
+game animal body parts, and a few other entities—be expressed by a single syntactic
+construction type? And why should human body parts not be encoded in the same way?
+Taking a step back, we can ask what the bound construction has in common with
+the nominal compound construction in general (§5.1). Syntactically, these are clearly
+equivalent; both involve a N1 N2 combination in which N2 is the head noun, N1 the
+modifier or possessor. I propose that the formal and constructional similarity among all
+of these forms in fact reflects a functional unity: all of the Hup compound constructions
+have to do with the individuation of the head noun out of the indeterminate mass of
+potential referents.
+In the case of the noun compounds composed of free lexemes, this individuation
+is signaled via a possessive relationship, a whole-part relationship, or qualification by a
+certain property; in the case of the bound nouns discussed above, the relationship326between them is likewise that of possessor-possessed or whole-part (or more loosely,
+an inherent association between two entities). The set of bound nouns in Hup thus bears
+a resemblance to the class of inalienable nouns in the Australian language Mayali; Evans
+(1995) describes these as characterized by the existence of some other entity, a ‘whole’ to
+which they belong or are associated. In Hup, these relationships between the components
+of the compound construction all entail that the N2 or head of the compound is defined
+and specified by the N1, or modifier. The functional relationship between this
+individuating function and the more general phenomena of definiteness and specification
+is illustrated by the use of forms like tˆ¤h=/ãy, tˆ¤h=/i‚h (3sg-FEM ‘that woman’; 3sg-MSC
+‘that man’) in examples (96-97) above.
+Furthermore, I argue that this individuating function of the bound construction in
+Hup applies specifically in the context of human interaction. While Chappell and
+McGregor (1995: 8) propose a cross-linguistic characterization of the inalienable
+construction as a function of the ‘personal domain’, this is not in itself enough to explain
+the patterning of the bound construction in Hup, since human body parts are not included
+in the set. Finally (in keeping with Chappell and McGregor 1995), a full account of the
+membership of the set of bound nouns in Hup must appeal to the socio-cultural context of
+its speakers.
+Below, each of the subsets of obligatorily bound nouns is considered in turn, visà-vis the proposal that their participation in the bound construction is determined by their
+association with another entity, and that this in turn relates to their individuation relative
+to a set of potential referents.","[342, 343]"
+"(76)wç‡h=d’´hb’ˆ¤yˆ/-áhRiver.Indian=PL only-FOCyúpd´¤b-´cápd’o/-g’ét-eh´¤/that.ITGmany-INTS1take-stand-TAG2830‘Only the River Indians plant a lot, you know.’ (P-Sp.7)
+(77)náw=yˆ/-áhtˆ¤h-a‡ndç/kéy /ãh /ˆ¤d-ˆ¤ygood=TEL-FOC 3sg-OBJ correct1sgbá/!speak-DYNM PROTST‘All right, I’m telling it to her correctly!’ (in response to another’s comment)
+(AL-PN.54)
+Finally, Focus -áh occurs in one other context involving a clause-final affect
+marker, but here its distribution is somewhat different from the cases described above. In
+this construction, rather than marking a focused argument elsewhere in the clause, -áh
+always immediately precedes a clause-final nominal argument that is marked as a topic
+by the Dependent marker -Vp (cf. §7.1.5) (note -Vp also acts as a clausal subordinator;
+see §18.2.4.1). The Focus marker -áh usually falls on the immediately preceding
+predicate of the clause, and the resulting construction as a whole is relatively emphatic
+(see §7.1.5). Note that in a more neutral affirmation, subject-final constituent order in the
+clause typically requires the Declarative marker -Vêh instead of the Dependent marker,
+and the preceding predicate has no special marking.
+(78)nˆ-d’´‡h-a‡n, nˆ‡
+this-PL-OBJhup=c´¤t=d’´h-áhnúw-úp, tˆh nç¤-ay=mah-áh1sg.POSS RFLX=older.brother=PL-FOCthis-DEP3sgsay-INCH=REP-DECL‘To them, those who are my older brothers, he spoke.’ (LG-C.34)
+(79)páti-a‡nhúp-út/ãh /ˆ¤d-ˆh´¤/,Pattie-OBJ Hup-OBL 1sgspeak-TAG2/ˆ¤d-ˆ¤y-áh/ãêh-ãw-ãêpspeak-DYNM-FOC 1sg-FILR-DEP‘I speak Hup to Pattie, you know, I really speak (it)!’ (P.Sp.)
+In this context, as in those contexts discussed above, -áh may be replaced with another
+focus-type marker, such as the Distant Past contrast form j’ám / j’ãêh:
+(80)yˆ‚-nˆh-pó-yj’ãêh/ˆ¤n-ˆ¤pthat.ITG-be.like-EMPH1-DYNM DST.CNTR 1pl-DEP‘That’s just how it was for us!’ (TD.Cv.98)83115.2.4. Filler form -Vw- as an emphasis marker
+The so-called ‘Filler’ syllable -Vw- is perhaps the most neutral morpheme in Hup, in
+terms of carrying a particular semantics. It appears in a number of distinct contexts: it
+appears to play a role in clause linkage and subordination, as discussed in §18.1.2 and
+§18.2.3 (see also below); in other contexts the main role of -Vw- appears to be one of
+conveying emphasis, which corresponds to and is perhaps even iconically motivated by
+the phonological weight the Filler syllable adds to the word. The connection between
+these various uses, and the motivation for the Filler syllable in some of these contexts, is
+not yet fully understood; however, certain other mechanisms used in signaling clausal
+linkage—most notably the Dependent marker -Vp (see §7.1.5 and §18.2.4)—are also
+used as discourse-markers on main clauses, so this dual-duty is not unique to the Filler
+syllable. This section focuses on its use as an emphasis marker in main clauses.
+Formally, Filler -Vw- is limited to contexts preceding a vowel-initial Boundary
+Suffix, and is the only case in Hup of a vowel-initial form that is not itself a Boundary
+Suffix. Its function is in many cases largely determined by that of the vowel-initial suffix
+that follows it. Filler -Vw- tends to occur on a clause-final constituent, but can appear
+both clause-internally and clause-finally in a single clause.
+Filler -Vw- frequently occurs with clause-final nominal arguments (subjects or
+objects), followed by Declarative -Vêh or the Dependent marker suffix -Vp (which here
+serves an emphasis-related function), or (particularly in the case of demonstrative
+pronouns) by a case-marker (Object -a‡n or Oblique -Vêt). In this context, -Vw—which is
+purely optional—functions to place additional emphasis on the participant in question.","[846, 847, 848]"
+"568related functions. While the use of locative adpositions to express temporal concepts
+is not rare cross-linguistically (e.g. compare English ‘before’, ‘after’), the particularly
+salient semantic overlap between spatial, temporal, and conceptual relations is also a
+feature of Hup grammar more generally (cf. Appendix I). The semantic extensions of the
+locative adpositions are included in the tables below.
+The Hup locative postpositions fall into two sets, based primarily on their
+morphological properties. The forms in the first set, given in Table 10.1, are relatively
+heterogeneous. They are all morphologically frozen forms, although some appear to
+contain identifiable inflectional markers that occur elsewhere in the language (such as
+Directional/object -an, Locative có/, Sequential -yo/, Telic/adverbial =yˆ/, and Measure
+=tQn). Most can also take additional inflectional markers, particularly Directional -an
+and Locative có/, and the Diminutive intensifier =mQh can follow the locative
+postposition to emphasize closeness in the spatial relationship; e.g. ‘just above’, ‘just
+below’, etc. (see §15.1.4). The postpositions in this set are akin to adjective modifiers or
+bound nouns, in that they follow nouns in noun phrases, and case marking and other
+inflection occurs NP-finally. The locative NP as a whole typically functions adverbially.
+Most of these postpositions must be preceded by a noun, and cannot appear ‘bare’ (i.e.
+with no object at all), as adverbs; minimally, they take the default nominal form tˆh= (as
+do adjectives and bound nouns).","[584, 585]"
+"(92)yúpwáb-átw’ob-/é/=n’a‡nd’´h-d’´h-hí-íhthat.ITG smoking.platform set.on-PERF=PL.OBJ send-send-descend-DECL‘(He) brought down those that had been put on the smoking-platform.’ (H.txt.47)
+(93)núp nˆ‡
+thisyç‡h=/ãêy=d’´h-´¤t, tát1sg.POSS affine=FEM=PL-OBLdeh hayám-át, /ãh wˆd-nQ¤n-Q¤htaracua.ant water town-OBL1sgarrive-come-DECL‘To my female affinal relations, to Tat Deh village, I came.’ (A.int.118)
+There is some evidence that the instrumental function is in some sense more basic
+to Oblique -Vêt than is the locative function. In cases where the interpretation of the
+noun’s semantic role is potentially ambiguous between instrumental and locative, -Vêt is250preferred for the instrumental role, and Directional -an for the locative, as in example
+(94a) and (b). That this preference only surfaces in cases of ambiguity is illustrated by
+the related but locative -Vêt-marked example in (95).","[266, 267]"
+"246The semantic roles indicated by this form include locative (inanimates), instrumental
+(inanimates), and comitative (animates);62 such an overlap of semantic roles and
+grammatical relations is not particularly uncommon (cf. Blake 2001: 63).
+In certain cases (see discussion in §18.2.6.2), the ‘Filler’ form can intervene
+between the noun stem and the Oblique marker (although elsewhere this is usually found
+only between verb stem and case marker in a relative clause). When the ‘Filler’ form is
+present, an optional variant of -Vêt is -ˆ¤t (or, with some speakers, nasal -ˆ‚tê ), as in example
+(84) below. The two forms appear to be in free variation in this context.
+The different semantic roles indicated by the Oblique case are discussed below.","[262, 263]"
+"289(25)nuh y´y´¤g
+yç/ j’Q‚j’Q‚Ùp
+ya/am wãwãÙt
+j’ˆb’ˆh j’u‚j’u‚Ùy’
+j’ˆb’ˆh k´k´‡c
+cu‡g pu‚pu‚ê=mQh(head RED-?)
+(wasp RED-?)
+(jaguar RED-?)
+(bat RED-?)
+(bat RED-?)
+(hummingbird RED-?=DIM)‘upper neck in back’
+‘wasp sp.’
+‘bush dog’
+‘Sheath-Tailed Bat’
+‘Fruit bat (?)’
+‘hummingbird sp.’The second attributive strategy for complex nominals involves the opposite order
+of modifier + noun, in which the modifier is marked by the suffix -Vêy (elsewhere a
+Boundary Suffix on verbs and predicate adjectives indicating Dynamicity—i.e. temporal
+continuity, usually vis-à-vis the speech moment—in declarative clauses; see §12.2). This
+strategy differs from that involving reduplication in several respects. Perhaps most
+importantly, this construction bears perhaps a greater resemblance to a relative clause
+than to a compound, in that it involves a modifier + subordinating morphology + head
+noun (compare the prototypical relative clause: verb + Dependent marker -Vp + head
+noun; see §18.2.3.1). Unlike relative clauses, the first element of the construction is not a
+verb; however, it is also not invariably an adjective, but in a few cases is a nominal form,
+or even an interrogative pronoun, as in (28) below. Finally, some of these complex
+nominals are marginally productive in the sense that the same adjective + Vêy can appear
+with different head nouns, as is the case of póh-óy ‘high’ in example (26) below. In
+keeping with this semi-productivity, stress in these constructions falls on the first
+component rather than on the second. However, these forms are semi-lexicalized, and are
+not productive in the sense that any adjective can combine freely in this way with any
+noun.","[305, 306]"
+"(83)[hop-yQ‚êh-Q‚p]yúpdeh=bçyç‡/=mah wQgyç‡hthat.ITG immerse-send-DEP water=spider=REPd’o/-/áy-áhsand1005take-VENT-DECL‘So that water-spider who had been sent into the water came up with some sand.’
+(LG-O.13)
+(84)[/ãh /éy-ep]=/i‚h
+1sgwˆd-yé-éhcall-DEP=MSC arrive-enter-DECL‘The one I called entered.’ (EL)
+Either object (direct object or recipient/ beneficiary) of a ditransitive relative clause can
+be relativized:(85)[picána ya/ambo‡/-a‡n d’o/-ham-/e‡-p]bi‡/na/-yˆ¤/-ˆ¤ycatratdie-TEL-DYNMdog-OBJtake-go-PERF-DEP‘The rat [which the cat brought to the dog] is dead.’ (EL)
+(86)[yud‡/ˆn j’ek-/e‡-p]=/ãêyclothes 1plsteal-PERF-DEP=FEMna/-yˆ¤/-ˆ¤y=mah
+die-TEL-DYNM=REP‘The woman [from whom we stole clothes] has died, it’s said.’ (EL)
+In (87), the relativized noun is not only the object of the relative clause, but also the
+object of the main clause; it appears as headless and Object-marked:(87)t ˆhyçhç¤y-çphˆdnˆ‡hhçhç¤h, [hˆd key-/é]-w-a‡n3sgsearch-DEP3pl.POSStoad3plsee-PERF-FLR-OBJ‘He’s looking for their toad, the one they had been looking at.’ (FS.3)
+Note, however, that while case marking is obligatory when the headless relative is the
+main-clause object (as in 88), case marking is not required (although it is preferred) when
+the relative clause in this position is headed (and the referent is non-human; recall that
+Object-marking is elsewhere required only on human objects, see §4.3.1.2):(88)[/ãêh du-/e‡-p]
+1sghçhte‡g(-a‡n)t ˆhb’uy-d’´h-yˆ¤/-ˆ¤ytrade-PERF-DEP canoe(-OBJ)3sgthrow-send-TEL-DYNM‘He lost the canoe I had bought.’ (EL)1006In example (89), the relativized noun is the object of the relative clause and the
+oblique in the main clause; the head nominal is case-marked accordingly:(89)wç‡n’wót-óy=cud[j’u‡g-anyu)Ù d’o-ye-/e‡-p]tegd’uh tQê‚h-Q‚êtmingau stir-DYNM=INFR forest-DIR João take-enter-PERF-DEP treesmall-OBL‘She’s stirring mingau with the stick that John brought from the forest.’ (EL)C. Relativized noun is oblique in relative clause
+Examples of a relativized noun that is an oblique in the relative clause are given in (90),
+in which it is also the subject of the main clause, and in examples (91-92), in which it is
+the object of the main clause. Again, case-marking on the relative clause corresponds to
+its main-clause role.","[1021, 1022, 1023]"
+"15.5. ‘Whatchamacallit’ morpheme hãêy
+The function of the ‘whatchamacallit’ form hãêy is to fill the space left by a mental block,
+maintaining the flow of speech and the conversational turn of the speaker; it is thereforesomething like English ‘watchamacallit’ and ‘um’. Whatchamacallit hãêy can act as an862interjection (allowing the speaker to hold the floor while searching for words), and it can
+also occur in place of a lexical item within the clause (but not a grammaticalized particle
+or bound morpheme), typically a noun or verb stem. In this case, hãêy itself takes the
+inflectional morphology of the replaced stem. Note that this ability of a single root to
+inflect as either a noun or a verb stem is not unique to hãêy (cf. §3.1), but hãêy is extreme
+in its flexibility.
+The interjection-type use of hãêy is illustrated in (173), where the speaker uses it to
+correct himself when he absent-mindedly called someone by the wrong name. Note the
+similarity between this use and that of Protestive bá/ for self-correction (§15.3.5) in
+example (154) above.
+(173) páti, hãêy, wáwdu
+PattieumEvaldo‘Pattie, what’s-your-name, Evaldo!’ (OS)
+In examples (174-76), Whatchamacallit hãêy fills in for a noun within the clause,
+and inflects for case and number just like a normal noun. Interestingly, the ability of hãêy
+to take object case and number marking is governed by the animacy of the referent, just
+as it is for any normal noun. This suggests that even though the speaker has a mental
+block on the word itself, information pertaining to the animacy and number of the
+referent is still available.179
+(174) hãêy-ãêt, tegc´‡h-´¤ttˆhum-OBL wood.ash-OBL 3sgmçnQ-yó/=mah
+mix-SEQ=REP‘Having mixed it with, um, with cinders, it’s said.’ (I.M.56)
+179Cf. English ‘I’ll take some of those whatchamacallits’.","[878, 879]"
+"59In indicating morpheme juncture, a hyphen is used to indicate boundaries
+between (compounded) verb stems and affixes, while an equals sign marks juncture for
+clitics and bound nouns. Particles (defined in §3.4.2.2 as grammatically bound
+formatives that are phonologically relatively free) are written as unattached forms (i.e.
+separated from their grammatical host by a space), as are most constituents of NPs. In
+cases where an internally analyzable form has been relexicalized as essentially
+monomorphemic, no juncture is indicated in the transcription, but the semantic
+breakdown of the parts is indicated in the gloss line; the general meaning of the full unit
+as a whole is given in the translation line.
+The examples used in this grammar are drawn from a number of sources. The
+majority come from texts of traditional stories, personal narratives, spells, speeches, and
+descriptive and hortatory discourse (recorded, transcribed and translated in the field);
+these examples are coded with a series of letters and numbers corresponding to the text in
+which they occur. A few examples come from songs (coded as (Song)), and others from
+spontaneous conversations, coded as (cv.txt); both of these text genres were also recorded
+and transcribed in the field. Still other examples come from speech I happened to
+overhear or that was addressed to me in the context of daily life (which I checked
+afterwards with consultants), glossed (OS) (for ‘Overheard Speech’). Finally, elicited
+examples are of two types. Many are statements that were volunteered more or less
+spontaneously by a consultant, often in the context of an elicitation setting (i.e. ‘we say X
+when…’); these are coded (RU) (for ‘Reported Utterance’). Others are explicit
+grammaticality judgments and direct translations, glossed as (EL) (for ‘Elicited’); these
+are relied on as little as possible, but sometimes could not be avoided. Almost all of the60examples herein were double-checked with consultants when the grammar was in draft
+form.
+Additional conventions used in this grammar are the following. I have chosen to
+capitalize the grammatical labels applied to individual Hup formatives (e.g. Perfective
+aspect, Future tense). This reflects the fact that these labels are all language-specific to
+some degree, even when they appeal to categories that are widely attested typologically.
+Also, in the comparative sections of the grammar involving the other Nadahup languages
+(Yuhup, Dâw, and Nadëb), I have adapted the orthographies of Martins, Ospina, and
+Weir to correspond as much as possible to that used with Hup, in order to facilitate
+comparison on the part of the reader. In some cases, however, the changes necessarily
+reflect my own analysis of phenomena in Hup phonology, and do not always accurately
+represent the analyses of these authors. Finally, the orthographic conventions used in this
+grammar to write the Hup language are discussed in §2.5.","[75, 76, 77]"
+"(17)Prox: núp=g’Qt
+Dist: n’íp=g’Qt
+Intg: yúp=g’Qt
+Alter: cãêp=g’Qt‘this leaf’ (relatively close by)
+‘that leaf’ (relatively further away)
+‘that leaf’ (esp. if out of sight or not physically present)
+‘another, a different leaf’(18)Prox: núp g’ˆ
+Dist: n’íp g’ˆ
+Intg: yúp g’ˆ
+Alter: cãêp g’ˆ‘this year’
+‘last year’
+‘that (some other) year’
+‘next year’Syntactically, the various derived forms fulfill all of the major functions of
+demonstratives, as identified by Diessel (1999: 57-58). They occur as independent
+pronouns in argument positions of verbs and adpositions (where they are used in lieu of
+nouns or noun phrases and inflect for case, number, and so on just as nouns do), and they370occur together with nouns in noun phrases as determiners (Hup has no
+definite/indefinite articles per se). Demonstrative forms can also occur as adverbs
+modifying a verb, and as demonstrative ‘identifiers’ in copular and nonverbal clauses.
+This discussion focuses on the semantics, morphology, and syntax of the Hup
+demonstratives (with the exception of the interrogative particle, which is discussed in
+§6.2 above). The Proximal, Distal, Intangible, and Alterative terms are discussed in turn.","[386, 387]"
+"3.4. Formative classes and their combination
+While roots—the smallest units of syntax—were discussed in §3.1, this section focuses
+on formatives. These are morphemes that do not head phrases, govern/ be governed, or
+trigger/ undergo agreement. Two general classes of formatives, and several finer
+distinctions, can be defined with respect to the structure of the Hup word (i.e.
+corresponding to slots in the word template). These are the ‘core’ formatives, which are167made up of prefixes and suffixes (including Inner Suffixes and Boundary Suffixes),
+and the ‘peripheral’ formatives, which include clitics and particles. Hup morphology is
+almost exclusively suffixing (or otherwise post-stem), a common feature of verb-final
+languages.
+Definitional morphosyntactic criteria for classifying the Hup formatives include
+their distance from the root (i.e. position in the core vs. the periphery of the word,
+especially the verb) and the obligatoriness of the formative vis-à-vis the word class of the
+host. Important definitional phonological features for classifying formatives include
+stress/tone, vowel harmony and other morphophonemic processes, and underlying
+syllable structure. In general, the degree of phonological integration of formatives with
+their host stem corresponds to their degree of syntactic and semantic integration. There is
+some flexibility between the Inner Suffix and the enclitic position, an issue which is
+discussed in §3.5 below.
+Hup nominal morphology is relatively isolating, whereas its verbal morphology is
+quite rich (note that this is largely focused on the marking of tense-aspect-mode and of
+discourse-related phenomena such as focus and emphasis, rather than agreement). Both
+nouns and verbs can associate with affixes, clitics, and particles, but prefixes are strictly
+verbal (with the exception of nominals derived from verbs). Likewise, the distinction
+between Inner and Boundary Suffixes only has a distinct reality with regard to verbs; in
+the few cases in which formatives identified as verbal Inner Suffixes (based on their
+behavior with verbs) associate with nouns, they appear formally indistinguishable from
+Boundary Suffixes or enclitics. In fact, most of the core formatives in general (with the
+exception of case markers) arguably are primarily verbal forms, although many do occur168with predicate nominals as well and even with nominal arguments. When they
+associate with nominal arguments, these suffixes often have significantly different
+functions from when they associate with verbs; for example, many verbal aspect/mode
+markers have focus- or emphasis-related functions when occurring in combination with
+nouns (see §7.1).
+In relation to the semantic and functional categories by which reference grammars
+are typically organized (e.g. aspect, tense, mood, etc.), each subset of formatives
+(Boundary Suffixes, enclitics, etc.) in Hup is largely heterogeneous; in other words, it is
+in many cases impossible to predict the function of a formative based on its form-class,
+and vice versa. This organization of this grammar employs a breakdown of grammatical
+morphemes by semantics and function (such that formatives relating to aspect, valency,
+etc. are grouped together), which is judged more user-friendly, rather than attempting to
+organize according to the formal identity of each class of morpheme. The formatives are
+treated purely according to their slot-class membership in this chapter alone. However,
+there are certain broad generalizations that can be drawn to relate form-class to semantics
+and function; these will be discussed in this chapter and also addressed in the relevant
+chapters throughout the grammar.
+The verbal template is summarized here (see also §8.3); note that the minimal
+verb word usually requires a stem and a Boundary Suffix (although the latter is absent in
+the imperative and apprehensive moods, and in some cases of clause chaining).","[183, 184, 185]"
+"911eat-CNTRFACT-DYNM PRX.CNTR 1sg.OBJ-DECL‘A spirit nearly ate me up!’ (M.NS.68)
+As is common in many languages, pronominal subjects in Hup (which tend to be
+highly topical) almost always immediately precede the verb in the clause (examples 1415) (resulting in a default OAV order). Because pronominal objects are obligatorily
+case-marked, ambiguity in the identity of core syntactic arguments is always avoided
+when one argument is a pronoun. Probably as a result of this preference for pronominal
+subjects to directly precede the verb, they have acquired some of the characteristics of
+proclitics when in this position in the clause (i.e. lack of stress, and a tendency for the
+third person singular pronoun tˆh to be phonologically dependent on the verb in the
+Umari Norte dialect; see §3.4.2.1 and §6.1).",[928]
+"PRX.CNTR-DECLINTJ‘I really have some sores, dang it!’ (B.Cv.88)
+cum-ni- ‘begin’ (compare tˆh=cúm ‘the beginning, first part’)
+(120) /ˆn b’oy-cum-ni-yQ‚êh-Q‚êh
+1plstudy-beginning-be-FRST-DECL‘We began studying (in vain).’ (P-B.1)
+hç-ni- ‘to think about something’ (hç¤ ‘liver’)
+(121) cãê-wag /ãh hç-ní-íy,
+w’éh-éy=/ãy=mˆ‡/
+other-day1sgliver-be-DYNMj’ámfar-DYNM=FEM=UNDER DST.CNTR‘Sometimes I think, “I’m a woman from far away”…’ (T.PN.3)
+do/-d’´h-ni- ‘have children, be a parent’ (uses a plural incorporated noun regardless of
+number of referent)
+(122) /íp
+/a‡n
+do/-d’´h-ni-yó/
+father1sg.OBJchild-PL-be-SEQ‘After father had me…’ (txt)
+yçh-ni- ‘have as in-laws’
+(123) ba/tˆ‡b’=n’a‡n /ayu‡p=/i‚h yçh-ní-íh
+spirit=PL.OBJone=MSCin.law-be-DYNM‘A man had spirits for in-laws.’ (i.e. he had married a spirit woman).
+bab’-ni- ‘accompany, be accompanied by; be consanguinally related to’
+(124) /apóncu-a‡n /ãh bab’-ni-té-h
+Alfonso-OBJ1sgsibling-be-FUT-DECL‘I’ll be accompanied by Alfonso.’ (OS)
+There is no verb cç)h- in Hup. There is also no noun meaning ‘a dream’. The form cç‚h also appears in
+cç‚h-có/ (-LOC) ‘left-hand’ (side, direction), and cç‚Ùh refers to the islands formed in the areas of flooded
+forest during the rainy season.
+114537k´d-ni- ‘be seated on a bench’ (uses the nominal form k´d ‘bench’, as opposed to the
+verb k´d- ‘pass’ or the auxiliary form ‘quickly’)
+(125) núp
+this/ãh k´d-ni-ye-pQm-/é-p=yˆ/
+1sgbench-be-enter-sit-PERF-DEP=TEL‘There on the bench where I’d sat when I entered…’ (TD.102)
+hat-ni- literally ‘having a name’; used in nominalized form to mean ‘an important person’
+(126) hat-ní-ip=/ãy
+name-be-DEP=FEM‘An important woman’ (txt)
+There is considerable evidence that these constructions involve the incorporation
+of a noun into a verbal construction, and that they form a distinct, probably closed class
+vis-à-vis the open, fully productive set of intransitive clauses of the type [noun ni-],
+which have the meaning ‘X exists’, ‘X is here’. First, the incorporated [noun + ni-]
+compounds form single phonological words: they take a verbal stress pattern (where
+stress falls on the final stem and/or inflectional affix), there is no pause phenomena
+dividing the noun from the verb, and the incorporated noun lacks distinctive tone
+(contrastive tone is characteristic of Hup nouns, but is not usually realized on Hup verbs;
+see §2.3.2.2). Second, the idiomatic meanings of some of these constructions supports
+their analysis as a set of compounds distinct from intransitive clauses; for example, bab’ni- (sibling-be) ‘be accompanied by; accompany’ may refer specifically to siblings, but
+need not; also compare hç-ni- (liver-be) ‘think about something’, etc.
+In addition to these factors, incorporating forms differ syntactically from
+intransitive clauses with ni-. For example, the incorporated verbs take a nominative
+pronoun, whereas non-incorporated nominal constructions can only take a possessivepronoun. This is illustrated in example (127) for cç‚h-ni- ‘dream’ and (128) for wan538ni- ‘knife exists’:(127) a)/ãh cç‚h-ní-íy
+1sgdream-be-DYNM‘I dreamed.’ (OS)
+b)*nˆ‡cç‚Ùhní-íy1sg.POSS dream?? be-DYNM(128) a)b)*/ãhwa‡nní-íy1sgknifebe-DYNMnˆ‡wa‡nní-íy1sg.POSSknifebe-DYNM‘My knife exists/ is here.’ (i.e. ‘I have a knife.’) (EL)However, some nouns can occur both in intransitive clauses with ni- and in incorporated
+constructions, as illustrated in example (129-30).
+(129) /ãh
+1sghçm-ní-íy
+sore-be-DYNM‘I have a sore/sores.’ (EL)
+(130) nˆ‡hç¤m1sg.POSS sorení-íy
+be-DYNM‘My sore exists.’ (i.e. ‘I have a sore.’) (EL)Another syntactic indication of incorporation is the fact that non-incorporated niclauses are intransitive, whereas many incorporated constructions can take a direct object
+which is distinct from the incorporated noun. That the incorporated noun is itself not a
+direct object is evidenced by the fact that it cannot be marked for case, despite its number
+and animacy, whereas case-marking is obligatory for plural and human direct objects.","[553, 554, 555]"
+"(3)yu‚ê⇒ w´h´d-tég-ay-áh
+Joãoold.man-FUT-INCH-DECL‘João will get old’4.2. Nominal morphology
+Hup’s nominal morphology is considerably less complex than its verbal morphology.
+Nevertheless, a given nominal root can often take multiple formatives, including suffixes
+as well as enclitics. In keeping with Hup morphological patterns in general, these always
+follow the stem—with the marginal exception of the procliticization of the third person
+singular pronoun tˆh to some bound nouns (see §5.4). In general, formatives attach to the223last element of the noun phrase in Hup, rather than to the head noun within the NP,
+regardless of how phonologically integrated the bound morpheme is with its host stem.55
+A morphological slot sequence for the noun is given here:
+STEM—Number[-d’´h]—(Filler[-Vw])—Case[-a‡n, -an, -Vêt]/Dependent marker[-Vp]
+—Aspect/Focus—Declarative[-Vêh]
+The discussion of nominal morphology in this chapter concentrates on the
+inflectional marking of case and number; these forms are considered to be
+morphosyntactically maximally ‘basic’ to the noun, since they relate intrinsically to the
+identity of the individual nominal referent and to its syntactic role in the clause.
+However, the list of formatives that can be associated with nouns is in fact much longer,
+and most of these are addressed in chapter 6. In general, the primary function of these
+latter forms is one of marking pragmatic focus and other functions related to the larger
+focus of the discourse context. In addition, many of them are highly ‘promiscuous’, in
+that they are also found on other parts of speech and in a variety of constructions, often
+with quite distinct functions for a single form; for example, several occur as aspect
+markers on verbs. Still other promiscuous forms can be associated with virtually any part
+of speech—which frequently functions as a convenient host in a key position within the
+clause—with no substantial difference in semantic contribution; most of these are
+discussed in chapter 15 (see also Appendix I).","[239, 240]"
+"(67)a)dó/=d’´h muhu/-nˆ‡N
+child=PLplay-COOP‘The children will play (with it).’ (i.e. together with a shared object such
+as a ball) (EL)
+b)/QyQ¤t-yˆ/dó/=d’´hmuhu‚/-té-htogether-TELchild=PLplay-FUT-DECL‘The children will play together.’ (EL)759Use of -nˆ‡N with a singular subject is also possible. In these cases, the focus is
+often on a cooperative or solicitous activity, such as the speaker’s offer to delouse the
+addressee in (68):(68)nQ¤m /ám-a‡n/ãêhkey-nˆ‡Nlice1sgsee-COOP2sg-OBJ‘How about I check you for lice.’ (T-C.2)
+In addition to the focus on a cooperative activity linking participants, use of -nˆ‡N in
+singular-subject clauses—as in those with plural subjects like (67a) above—often
+highlights the role of some object that is required for the activity (i.e. with which the
+activity must be performed):(69)/amˆ‡hhçhtég/a‡nway-/é/,hç‚Ùp/ãhk´k-/ay-nˆ‡N2sg.POSScanoe1sg.OBJ go.out-PERF.IMP fish1sgpull-VENT-COOP‘Lend me your canoe, I’ll go fishing (with it).’ ~ ‘it will allow me to fish’ (EL)
+(70)“/a‡nnˆN d’o/-nQ¤n,1sg.OBJ 2pl“/ãêh/´g-nˆ‡N !”take-come.IMP younger.sister say-DYNM 1sgmQ¤h!”nç¤-ç¤y,drink-COOP‘Bring me some, sister!’ (I) said, ‘I’ll drink some!’ (TD.Cv.103)
+(71)t ˆhyç‚Ùhd’ó/-op yQ‚êh=mahtˆhham-yQ‚êh-Q‚êh,3sgmedicineget-DEP3sggo-FRUST-DECLFRUST=REP‘He went to get medicine (in vain);
+tã/ãêy=n’a‡nt ˆhyç‚h-ni-nˆ‡Nwoman=PL.OBJ3sgmedicine-be-COOPhe would medicate/enchant the women (with it).’
+~ ‘which would allow him to medicate/enchant the women’ (LG-C.16)
+In addition to its use with both singular and plural forms of first and third person
+subjects, Cooperative -nˆ‡N may be used with a singular second person subject:(72)760/ám/ç‚h-nˆ‡N2sgsleep-COOP‘You can sleep with it.’ (handing someone a hammock) (EL)
+However, the use of the -nˆ‡N verbal marker is ungrammatical with the second person
+plural pronoun, creating a gap in the paradigm. The only readily apparent motivation for
+this is that the second person plural pronoun nˆ¤N is essentially identical to the
+Cooperative suffix. Their incompatibility may be a clue to a diachronic relationship
+between these two forms; alternatively, it could possibly be motivated by a desire to
+avoid repetitive forms, especially since pronominal nˆ¤N is extremely common in Hup
+discourse.
+The form nˆN plays another role in Hup grammar, in addition to its use as second
+person plural pronoun and verbal suffix. It acts as a verb root relating to a personal
+association between human participants, meaning roughly ‘expect someone, await
+someone’s arrival’, as in (73):
+(73)cãp=/i)h-a‡ntˆh nˆ¤N-ˆptíh !other=MSC-OBJ 3sg expect.somone-DEP EMPH2‘He was expecting a different person!’ (P.DP.84)
+It frequently occurs together with the frustrative marker in the expression nˆN-yQ‚êh-Q‚êh
+‘hope for, expect someone (in vain)’, typically used in situations where the speaker had
+thought someone was coming but was mistaken. People in the village reportedly said
+(74) when they were expecting me and heard another boat pass by on the river.","[775, 776, 777]"
+"A) Derivation
+To the extent that the N1 members of compounds can be considered heads of the noun
+phrase, the classifying nouns—in cases where N1 is a verbal stem—can be understood to
+have the derivational function of creating an object or instrument nominalization from the
+verb stem, as in (173). Such derivational functions are common for noun classifiers in
+other languages (see Aikhenvald 2000: 220), especially those of Western Amazonia
+(Grinevald and Seifart, forthcoming).
+(listen=THING)
+‘thing for listening’ = ‘headphones’
+(173) wˆ‡/=teg
+tác=tat
+(kick=FRUIT)
+‘round for kicking’ = ‘soccer ball’
+kQ¤y b’uy-d’´‡h=hçb (trash throw-send=HOLLOW)
+‘hollow for throwing out trash’ = ‘wheelbarrow’
+B) Anaphoric reference
+One of the most common functions of classifier terms in Hup is that of anaphoric
+reference, as in examples (174-76). Classifying nouns can refer anaphorically back to the
+full compound (or directly to a physically present object) in constructions where the N1 is
+the default/possessor form tˆh=, a demonstrative (174), a numeral (175), or a relative352clause (176). An anaphoric function is a common feature of noun classifiers
+generally, especially in Amazonian languages (cf. Derbyshire and Payne 1990: 243).
+(174) yˆ‚ê-n’ˆ‡hhˆdbˆ¤/-ˆ¤h,that.ITG-NMZ 3plnúp=tatwork-DECL this=FRUIT‘Thus they made it (a clay musical instrument), this size (round).’ (showing with
+hands) (H.22)
+(175) ka/ap=te‡g!
+two=STICK‘(There are) two of them!’
+(watching flying airplanes: wayd’ó/=teg [fly=STICK])
+(176) nup
+thisbóda=tat-/e‡/,[núp d’çh-yQ¤t-Qp]=tatball=FRUIT-PERF thisrot-lie.on.ground-DEP=FRUIT‘This was a ball, this rotting round thing lying here.’ (EL)This anaphoric function is not specific to classifying nouns, however. In their
+non-semantically extended use, the plant-part forms and various other bound nouns can
+be used for anaphoric reference in just the same way:
+(177) do‡g=wˆg
+vapisuna=seedb’ah-yó/… tˆh=wˆ¤gwç‚t-d’´h-way-yó/split-SEQpull.out-send-go.out-SEQ3sg=seed‘Having split a vapisuna seed, having pulled the seed’s insides out…’ (H.15)
+(178) deh=mí
+water=riverke‡y=d’´hhám=b’ay-áh,see=PLgo=AGAIN-DECL another=rivercãêp=mípQ¤-ay-áh
+go.upstream-INCH-DECL‘They went again to see the river, and went up another river.’ (LG.C.15)
+With relative clauses, numerals, and demonstratives, the bound or classifier form
+may be interchangeable with a distinct monomorphemic head noun, depending on how
+specific the speaker chooses to be, as in (179). However, the slot cannot be filled by a
+full compound if a bound form is available. Thus either the lexeme cug’Q‡t ‘leaf, paper,book (generic)’ or the bound form =g’Qt ‘leaf, paper, book’ can follow a relative353clause, but not pˆhˆ¤t=g’Qt ‘banana leaf’ or hˆ‡/=g’Qt ‘notebook’.(179) a)[/ãh kéy-ep]g’ogcak-yˆ¤/-ˆ¤y1sgtiti.monkeyclimb-DYNMsee-DEP‘The titi monkey I saw climbed up.’
+b)[/ãh
+1sgkéy-ep]=/i‚h cak-yˆ¤/-ˆ¤y
+see-DEP-MSCclimb-DYNM‘The one I saw climbed up.’C) Agreement
+Hup classifying terms can arguably serve a marginal agreement-marking function by
+virtue of appearing, optionally, on multiple constituents of the clause (as with noun class
+marking in Bantu, for example), as in (180). This concord has been identified by
+Grinevald (2002) as a hallmark of a true nominal classification system. However, this
+agreement-like phenomenon is extremely rare in natural discourse in Hup (being
+confined mostly to elicitation contexts), and may be better characterized as apposition of
+distinct noun phrases, rather than as marking concord within a single noun phrase.
+(180) núp=(g’Qt) pˆhˆ¤t=g’Qt
+this=FRUITpineapple=FRUITtˆh=po‡g=(g’Qt)
+3sg=big=FRUIT‘this big pineapple’ (EL)An incipient classifier system
+Typologically, the Hup system is best characterized as an incipient classifier or ‘class
+term’ system (cf. DeLancey 1986, Grinevald 2000). It falls near the lexical end of the
+Grinevald’s proposed scale of classifier grammaticalization:354
+<Lexical------------------------Grammatical>
+measure terms
+noun classes—gender
+class termsThe arguments for considering the Hup system to be incipient are the following.
+a) Only a small subset of Hup bound nouns—and even of plant-part terms—are
+consistently used in metaphorically extended ways (see the list in 150 above).
+b) For the most part, the contexts of semantic extension have to do with newly
+introduced cultural items, and the influx of these items is a relatively recent
+phenomenon—the majority have become available within the lifetime of adult
+speakers. Some bound nouns appear to have been only recently extended in
+semantically specific ways, in order to classify a particular variety of new item;
+the best example of this is leaf Æ book.
+c) The bound classifier nouns have undergone little grammaticalization and
+essentially no phonological reduction; they are all recognizable nouns that can act
+as heads elsewhere (cf. the incipient classifier systems in some Australian
+languages (e.g. Reid 1997, Wilkins 2000, Grinevald 2000: 84).
+d) The classifying terms are used for derivation (see §5.7.4.2A), but are used only
+minimally for agreement-marking purposes (§5.7.4.2C).
+e) The presence of the classifying form is sometimes optional in the NP (see §5.6.4.1
+above), and is absent altogether from most nouns in Hup.","[368, 369, 370, 371]"
+"5.2. Alienable possession
+Like noun compounding, the expression of possession in Hup involves the conjunction of
+two nouns into a noun phrase. Most Hup nouns are non-obligatorily or alienably
+possessed; that is, they can appear by themselves as complete NPs. When these nouns
+are possessed by another entity, an additional morphological marker of the possessive
+relationship is required. This is the postpostional particle nˆ‡h (which receives stress and
+rising tone); this marker is associated with the possessor (phonologically so in the case of
+pronouns), and usually precedes the possessum, as in examples (29-30). (Note that this
+form is homonymous with the clausal Negative suffix -nˆ‡h.)(29)292tQ¤=d’´h nˆ‡h,yˆ-d’´‡h nˆ‡hde‡hant.sp=PL POSSthat-PLtˆnˆ‡hg’o‡d-ót,hib’ah-tQ‚h=/i‚h nˆ‡hmç‡yg’o‡d-ót…inside-OBLcreated-son=MSChouseinside-OBLPOSSwater‘The water (saliva) of those ones, those tQ¤ ants.’ (M.70)
+(30)mç‡y3sg.POSS housePOSS‘Inside his house, the created one’s house…’ (MD.DT.82)
+The possessive pronouns are formed from the fusion of the subject pronoun and
+the possessive suffix. These forms are somewhat phonologically reduced (via
+simplification of consonant clusters) in the Tat Deh and Barreira dialects, but are almost
+fully transparent in the dialect spoken in Umari Norte, with the exception of the 1sg form.
+The paradigm for the possessive pronouns is given below in Table 5.1 (restated from
+§4.1.2), and examples of their use in text are provided in (31-33).","[308, 309]"
+"(49)hç‚‡p=n’a‡ntˆh w’ób-óhfish=PL.OBJ 3sg place-DECL‘She placed the fish (on the smoking-platform).’ (T.C.73)
+(50)/ãh cug’Q‡t=n’a‡npu‚hu‚t-d’´h-hi-yˆ¤/-ˆ¤y1sgblow-send-descend-TEL-DYNMleaf/paper=PL.OBJ‘I blew the papers down.’ (EL)4.3.1.3. Object marking on NPs and relative clauses
+Case marking in Hup is not limited to the individual nominal word, but also occurs on
+noun phrases and relative clauses. In these cases, it marks the phrase as a whole, rather
+than attaching to phrase-internal nominal heads or other constituents, and occurs phrasefinally—even following nominal enclitics.59 In this section, I provide a short discussion
+of the patterning of object marking with demonstrative and adjective NPs (which are
+discussed in more detail in §6.3 and §6.6.), and with headless relative clauses (see
+§18.2.3)239A. Demonstrative + Noun NPs
+Just as object marking is required on all demonstratives acting as nominal heads, NPs
+containing a demonstrative also receive obligatory object marking, regardless of their
+animacy or number. The case marker usually attaches to the final constituent of the NP,
+as in examples (51-54).","[255, 256]"
+"397Given their common resemblance, the forms for ‘two’ and ‘three’ seem to be
+reconstructable across the Nadahup family, although they have retained semantic
+transparency. The ‘fraternal’ form for ‘four’ is perhaps even more intriguing, since it is
+common not only to three of the Nadahup languages, but also to the Vaupés region and
+beyond: calqued equivalents of ‘has a brother/companion’ for ‘four’ are found in the
+Tukanoan languages generally, in Tariana (probably due to diffusion from Tukanoan,
+since it is not found in the related language Baniwa; cf. Aikhenvald 2002: 107-8). The
+‘fraternal’ term for ‘four’ also occurs in several Witotoan/ Bora languages (Colombia),
+including Miraña (Frank Seifart, p.c.), Murui and Mˆnˆca (Huber and Reed 1992: 183);
+some also use ‘without a brother’ for ‘three’ (Huber and Reed 1992: 183). Finally, in
+Kakua/Nukak ‘two’ is literally ‘brother’, and the same word is contained in the other
+even numerals (Huber and Reed 1992: 180-84).
+The ‘has a sibling’ strategy is clearly a widespread areal phenomenon, although it
+does not appear to be a more generally cross-linguistically common strategy for
+representing ‘four’ (cf. studies of numeral etymologies, e.g. Blaz‡ek 1999). It is possible
+that the ‘fraternal’ tally system present in Dâw might once have been a more widespread
+strategy, later superseded (in some cases) by a base-five system (also probably a tally
+system). There may also be a cultural explanation for the equation of ‘four’ with two
+pairs of siblings: in the Vaupés region (and beyond it), having and living among one’s
+actual and classificatory siblings is culturally extremely important; these are one’s fellow
+clan members (and in the case of the Vaupés River Indians, the fellow speakers of one’s
+language). Moreover, as Pozzobon (1997: 167) points out, sister-exchange is the ideal398marriage pattern in the region, in part because this allows spouses to return to the
+community of one of their parents; thus if a person has an opposite-sex sibling, he/she is
+more likely to find a partner. This involves two sets of two; two married pairs of
+siblings—four individuals. Thus there is a culturally highly salient reason to associate
+the quantity 3 with a ‘failed’ set (‘without a sibling’) and 4 with a full set (‘has a
+sibling’).99
+Hup and Yuhup closely fit the Vaupés areal profile in having language-specific
+lexical forms for 1-3, a calqued form of ‘has a sibling/ is accompanied’ for ‘four’, and
+terms based on hands and feet for five and up. Interestingly, the range of numeral
+strategies across the family corresponds to their geographical proximity to the Vaupés
+region: Nadëb (the most distant) has lexical forms for 1-3; Dâw (peripheral) adds a
+minimally lexical ‘fraternal’ system for 4-10; and Hup and Yuhup have these strategies
+plus a base-five system for 5-10. The current systems in Hup and Yuhup may represent
+historical layers of developing complexity, which are currently reflected in geographical
+distribution (across the Nadahup languages) as well as diachronically. I therefore suggest
+the following stages of development for the Hup and Yuhup numeral systems:
+1) A basic 1-3 system (like that found in Nadëb);
+2) Adoption of a minimally productive ‘fraternal’ system (like the one in Dâw);
+3) Adoption of a base-five system (probably borrowed from the Tukanoan
+languages); this would have stranded ‘four’, giving it a specific quantitative value
+to replace the general meaning ‘even number’;
+4) Currently: adoption of Portuguese numerals for 6+, resulting in the stranding of
+‘five’ as a distinct lexical item, rather than part of a more general system.","[413, 414, 415]"
+"(97)/ˆn hibab’ní-/ap wágni-yó/ /ˆnb’ay-yˆ¤/-ay-áh1plbe-SEQreturn-TEL-INCH-DECLfour-QTYday1pl‘Having stayed there for four days, we returned (home).’ (S-PN.2)
+The form /ap is most commonly encountered in the quantifier/a‡p-yˆ/ ‘every, all’, which
+involves the Telic (contrastive focus) marker =yˆ/ (see §7.1.2). This quantifier acts like
+an adjective in that it can follow the noun or pronoun that it modifies (as in examples 98100), but it can also occur by itself as a nominal head (example 100). Objects modified
+by /a‡pyˆ/ do not take case marking.",[420]
+"(4)nˆ¤N=huppˆ¤dbˆ/-yó/,nˆ¤N=hup2pl=RFLX.INTSDISTwork-SEQ 2pl=RFLX.INTSdúh
+buy.IMP‘All of you yourselves having worked, you yourselves buy (things).’
+(i.e. we will no longer give you these things as gifts) (P-B.2)
+(5)tegd’uh tQ)êhtúhuptree3sg.RFLX.INTS divide.in.two-TEL-DYNMsmallj’ap-yˆ¤/-ˆ¤y‘The stick broke in half by itself.’ (EL)In contrast to these uses of hup as a free lexical noun and as a nominal enclitic, it
+appears strictly as a verbal preform in its manifestation as a valency-decreasing Reflexive
+marker. As a Reflexive, hup- indicates generally that the grammatical subject is being
+directly acted upon. Interpretations of the constructions in which it occurs can vary; the
+use of hup- can result in a standard reflexive reading (i.e. the subject acts on him/herself
+directly), a passive (some other participant acts on the subject), or—more marginally—a
+reciprocal (coordinated subjects act on each other), depending on the semantics of the
+verb and on the general context.
+A correlation between passive, reflexive, and reciprocal constructions is not
+uncommon cross-linguistically. Shibatani (1985: 826) observes that many languages
+exhibit such a correlation, including Spanish, Russian, Quechua, and Yavapai, and he
+offers the explanation that this similarity “arises largely from a semantic property of these
+constructions: in all of them, surface subjects are affected” (1985: 840). In other words,
+these constructions all involve a reduction in the Transitivity of the clause (in the sense of579Hopper and Thompson 1980), in that the grammatical subject is in some way also a
+semantic patient.
+Formally, the Reflexive form hup- displays the properties typical of Hup
+preforms: it is unstressed, is not separated from its verbal host by pause phenomena, and
+no other constituents can come between it and the verb (with the exception of an object of
+a ditransitive verb; see below). Requirements for the use of Reflexive hup- include the
+stipulation that it can occur only with a transitive or ditransitive verb; it is ungrammatical
+with an intransitive verb, as illustrated in example (6a). In any case where the form hup
+does occur in a clause with a subject nominal and an intransitive verb, it can only be
+interpreted as a Reflexive intensifier, encliticized to the noun, as in (6b); it cannot act as
+an impersonal subject, since a subject is already present.","[595, 596]"
+"415Table 6.9. Adjective vs. bound noun in Hup
+Adjective
+Bound noun
+nd
+Appears as 2 element in NP yes
+yes
+Can appear alone (bare) as NP no
+yes (some)
+Can appear alone (bare) as
+yes
+no
+predicate
+Negator
+verbal or nominal
+nominal only
+Can take numeral as N1
+no
+yes
+Preferred stress pattern when
+Adjective only (some
+Both N1 and N2, or
+N1 is a full noun
+variation)
+N1 onlyAnother noteworthy feature of adjectives in NPs (which also helps to differentiate
+them from most bound nouns) is their ability to occur in an explicitly nominalized form
+in association with other nouns. This results in a noun phrase composed of [N tˆh=Adj].
+Grammatically, this can be considered as two appositional NPs, since both elements can
+take case and number marking separately; by contrast, in an NP formed from [N Adj]
+without intervening tˆh=, inflection can only attach to the end of the NP. Examples of
+appositional NPs involving nominalized adjectives are given in (131-32).
+(131) /ˆn tˆh=pˆ‡b=d’´h hup-hipãêh=d’´h b’ˆ¤yˆ/-ay
+1pl3sg=strong=PLRFLX-know=PLonly-INCH‘We adults all know better.’ (B.Cv.94)
+(132) yúp
+that.ITGjapudutút… pi‚Ùh,tˆh=w’´‡t tíh !japurutut3sg=longfluteEMPH4‘That japurutut... (it’s a) flute, the long (kind)!’ (H.txt.23)
+Where multiple adjectival modifiers occur in reference to a given entity, consultants
+judge tˆh= to be obligatory on all of them:
+(133) núp=tat tˆh=po‡g tˆh=pa‡y nçh-yˆ¤/-ˆ¤y
+this=fruit 3sg=big3sg=badfall-TEL-DYNM‘This big ugly fruit fell.’ (EL)Adjectives taking tˆh= are clearly nominalizations. For example, a nominal416negator is required when tˆh= is present (example 134a-b), whereas a predicate adjective
+(or a ‘bare’ adjective modifier within an NP, see above) takes a verbal negator (135).(134) a)cadaka‡/ tˆh=po‡g /a‡p
+chicken3sg=bigNEG:ID‘(That’s) not a big chicken’ (EL)
+b)*/amˆ‡hpãêttˆh=w’´t-nˆ¤h2sg.POSS hair 3sg=long-NEG(Intended meaning: ‘Your hair is not long’)
+(135) /amˆ‡hpãêt w’´t-nˆ¤h2sg.POSS hairlong-NEG‘Your hair is not long’ (EL)
+The [N tˆh=Adj] type of NP may optionally also pattern like a single NP
+constituent, with inflectional marking occurring only once, at the end the unit, regardless
+of the presence of tˆh=. Moreover, in many cases neither pause phenomena nor
+consultants’ Portuguese translations of [N tˆh=Adj] constructions provide support for two
+distinct NPs, and consultants often judge the variants ([N Adj] and [N tˆh=Adj]) to be
+interchangeable.
+Within NPs of the form [N tˆh=Adj], the main function of tˆh= appears to be one
+of placing additional focus on the quality conveyed by the adjective. In particular, the [N
+tˆh=Adj] construction always indicates a quality that is inherent or permanent, while an
+adjective modifier without tˆh= may be either permanent or temporary. (Note that this
+association of the more nominal form with a more time-stable attribute, and the more
+verbal form with a more fleeting attribute, parallels the prototypical semantic distinction417between verbs and nouns across languages; it is also a characteristic of the bound
+nominal construction, which typically signals a whole-part or inalienably possessed
+relationship.) For example, a naturally dark-skinned hand is described as dapu‚êh (tˆh=)j’á
+(hand [3sg=]black); but tˆh= is ungrammatical when referring to a soot-blackened hand,
+which would be dapu‚êh j’á(-áy) (hand black[-DYNM]). Some adjectives, such as color
+terms, almost always appear with tˆh=, and a few have even undergone phonological
+reduction (consonant cluster simplification and vowel harmony), e.g. tuhúp ‘beautiful,
+new’ and tˆdó [tˆRó] ‘red’ (Umari Norte dialect only). Examples of this type of adjectival
+NP are given in (136-37).(136) j’ám
+yesterdaynˆ‡[b’éjtˆh=po‡g]hˆ dd’o/-way-yˆ/-ní-h!3sg=big3pltake-go.out-TEL-INFR2-DECL1sg.POSS jandia‘Yesterday they took out my [big jandia fish]!’ (B.Cv.94)
+(137) nˆ-d’´‡h nçh-tu/-key-yó/
+this-PLfall-immerse-see-SEQ[tˆh=cáp tˆh=tohó] ní-íh
+3sg=body 3sg=whitebe-DECL‘Because those (people) jumped in, their body was white (lit. their [white body]
+existed).’ (LG.O.33)
+Where it occurs between noun and adjective in what appears to be a single NP
+constituent, the marker tˆh= may be developing an identity as an attributive marker,
+functioning to signal the connection between the nominal and the modifier in the NP.
+While the above discussion has argued that the bound noun and the adjectival NP cannot
+be considered the same construction synchronically, it is very likely that they are
+historically and/or functionally related. Typological work has shown that there is crosslinguistic precedent for the grammaticalization of a possessive marker to an attributive
+marker (e.g. in Oceanic languages, Ross 1998; Rießler 2004); in a number of cases, such418as in Ural-Altaic languages (cf. Rießler 2004), intermediate stages apparently include
+a nominalizer, marker of definiteness, and marker of anaphoric-demonstrative focus. In
+Hup, as this discussion has shown, one and the same marker tˆh= has the role of a marker
+of inalienable possession (and individuation, related to definiteness) with nouns, and of
+nominalization and—to some degree—focus and attribution with adjectives.","[431, 432, 433, 434, 435]"
+"(80)m’a‡c-átpˆ¤dhˆd bib’-ní-h,de‡h=teg-éhmud-OBL DIST 3pl close-INFR2-DECL water=tree-DECL‘They would stop it up again with mud, the water tree.’ (LG-O.9)
+(81)/am /ˆ‡d
+2sgd’´h-d’´h-hám=teg-ét /am /ˆ‡dspeech send-send-go=THING-OBL 2sgd’´h-d’´h-hám-b’ay-áhspeech send-send-go-AGAIN-DECL‘With the thing you send speech with (i.e. telephone) you sent your words.’
+(I.M.83)
+(82)yú-uw-ˆ¤t=yˆ/=mahtˆ hcoh-tud-k´dcak-yˆ¤/-ay-áhthat.ITG-FLR-OBL=TEL=REP 3sguse.cane-support-pass.climb-TEL-INCH-DECL‘With that (staff) he propelled himself up (and out of the fight).’ (H.YP.76)
+Example (83) illustrates two Obliques in a single clause, one marking an instrumental
+role, the other a locative role. Note that the case marker occurs on the final constituent of
+the (N + Adj) NP and of the compound nominal, as is standard for all case markers in
+Hup (see §4.3.1.3).
+(83)pídiyapo‡g-ót /uê‚hbattery(Pt)big-OBLhãÙy=hçb-ç¤tj’ámEPIST DST.PSTum=HOLLOW-OBL‘It was with big batteries, I think,
+tQ/-yó/j’ámt ˆhwˆ¤/-ˆ¤hbe.end.to.end-SEQDST.PST3sghear-DECLstuck end-to-end in a whatchamacallit-hollow-stick that he listened (to his
+radio).’ (B.Cv.91)248C. Locative
+The Oblique’s locative function indicates that X is at the place of Y. In this semantic role
+(but not in the comitative or instrumental), consultants usually judge Oblique -Vêt to be
+grammatically interchangeable with the (object-like) Directional marker -an, and can
+give no insights into any semantic difference between the two options (this is the case, for
+example, in 84-88 below).63 Nevertheless, a comparison of how the two pattern naturally
+in discourse suggests that -an is preferred where the spatial range in question extends
+beyond the point of reference, while -Vêt is preferred when the event is carried out
+completely within the given location, without reference to directional movement from, to,
+or through it.","[264, 265]"
+"Desano=PLTuyuca=PL3pl-INCH=EMPH.COthat.ITG-FLR-DECLthe Desanos… the Tuyucas, it’s so for them too!’ (M-Kap.121)
+The Declarative suffix -Vêh can also signal coordinated nominal entities (example
+141), and is likewise sometimes used to indicate clause coordination (cf. §17.3.2 and
+§18.1.2)
+b’oh‡ -óh, wa‡n-áh,(141) yág,mç‡m-ç¤h,hammock salt-DECL machete-DECL axe-DECLnuhu‚ê/d’´h-d’´h-wáy-áhallsend-send-go.out-DECL‘(He) brought out hammocks, (there was) salt, (there were) machetes, (there were)
+axes, everything.’ (H.txt.64)
+Other strategies for coordinating multiple nominal arguments include use of the
+‘Parallel’ marker =hin ‘also’ (§7.7), which—among other related functions—is used as
+an optional emphatic coordinator (example 142), and the ‘Associative plural’ marker
+-and’´h, which is links associated participants who are acting together (see §4.4.6). Note
+that these two markers cannot serve a clause-linking function, unlike the strategies above,
+but are limited to use with nominal arguments within the clause.(142) yúp=mahhˆd yçhçy-pˆ¤d-ˆ¤h,that.ITG=REP 3plya/ambo‡/=hin yçhç‡y,search-DIST-DECL dog=also‘So they were searching, the dog also searching,
+tˆ¤h=hup=hínyçhç‡y,3sg=RFLX.INTS=also searchní-íy=mah
+be-DYNM=REPand he himself (boy) also searching.’ (FS.2)search4207. Nominal discourse-marking morphology
+This chapter presents the wide range of bound morphology associated with the
+noun phrase and having functions relating generally to discourse marking. The forms
+discussed here all associate primarily with nominal arguments, or else have specific
+functions in combination with nominals that differ from their functions with predicates.
+In general, these forms have functions relating to focus, emphasis, topicality, etc.
+Nominal morphology relating more narrowly to the semantic or syntactic status of the
+referent (primarily case and number marking) is covered in Chapter 4. Other forms in
+Hup that combine relatively freely with various parts of speech (including nominals) and
+undergo little or no change in function from one host to another are discussed in Chapter
+15.
+The forms, slot classes, and functions of the formatives discussed in this chapter
+are summarized in Table 7.1:421Table 7.1. Nominal discourse-marking formatives in Hup
+Form-aySlot class
+(formative
+type)
+SuffixIdentity/ wordclass of hostFunctionOther relevant functions of same
+form=yˆ/EncliticNouns, various
+hosts
+NounsInchoative focus
+Contrastive emphasisInchoative aspect (Inner/Boundary
+suffix w/ verbs)
+Telic aspect (Inner Suffix w/ verbs)
+Adverbializer (enclitic w/ adverbs,
+clauses)
+Repetition or return to a state;
+(Enclitic/Inner Suffix with verbs)
+Verb root ‘return’
+Reflexive marker (prefix w/ verbs)
+Noun ‘person’; Adj. ‘new, good’
+Dependent marker (Boundary
+Suffix w/ verbs and clauses)
+Inferred evidential (enclitic w/
+predicates)
+Verb root ‘be inside’
+Bound nouns w´h´¤d ‘old man’; wá
+‘old woman’=b’ayEncliticNounsTopic-switch marker=hupEncliticNounsReflexive intensifier-VpSuffixTopic marker=sudEncliticNouns, various
+hosts
+Nouns=w´d
+=waEncliticNouns-/u‡yNominal
+suffixNoun + Oblique
+or Object casetá/ParticleNouns=hinEncliticn’u‡hParticleNouns,
+adverbials
+NounsRespect markers
+(male/gender-neutral
+and female)
+Indefinite associative
+‘one from X place;
+associated with X’
+Related instance
+marker
+Parallel comparisoncó/ParticleVarious hostshu‚ÙyParticleNouns
+(animate)Deceased referent
+markerContrast between
+entities
+Locative; shift of
+attention among
+entities
+‘Following’ markerInterrogative pronoun /u‡y ‘who’Locative postpositions: hu)Ùy/ah
+‘after, behind’; hu)Ùyan ‘in water’7.1. ‘Promiscuous’ verbal morphology and the noun class103
+In general, Hup bound morphology tends to be highly promiscuous, as discussed in §3.3
+(see also Appendix I). Even the forms that are most closely integrated phonologically
+with their hosts (i.e. the vowel-copying formatives defined as Boundary Suffixes in
+relation to verbs) are usually able to attach to various parts of speech, often occurring in a422range of distinct constructions, and serving a variety of functions. Accordingly, very
+little nominal morphology in Hup is strictly nominal. As discussed in Chapter 4, even the
+markers of case and number—the main inflectional forms that can be considered
+primarily nominal—are not strictly limited to nominal hosts; the case suffixes are capable
+of combining with verb stems to form adverbial clauses, and the case and number
+markers attach to verb stems in relative clause contexts (producing nominalizations).
+Bound formatives in Hup sometimes perform much the same function regardless
+of the word class of their host, but in other cases their function may be quite distinct
+depending on whether the host is a predicate, a nominal argument, or even a main or a
+subordinate clause. One of the most striking cases of this involves the set of markers that
+indicate aspect when occurring on verbs (and typically on predicate nominals and
+adjectives as well), but which on nominal arguments tend to serve discourse-related
+functions of marking focus, topic, or emphasis. Nevertheless, the distinction between
+these forms’ functions with predicates (verbal, nominal, or adjectival) versus nonpredicate constituents of the clause is often blurred. A single form is often able to convey
+a range of meanings, depending not only on its host and on the construction in which it
+occurs, but also on the pragmatic context. The many possible variations are not all fully
+clear in this work, and will have to await future clarification.
+Among verbal morphological forms, some can also combine directly with a nonverbal predicate (adjective or nominal) with no change in either function or form, while
+others require a copula host. To the extent that these forms are predicative, they are
+treated together with verbal morphology (primarily in Chapter 12; also see 13 and 14).
+103Extra thanks to Orin Gensler for his especially helpful comments on this section.","[436, 437, 438, 439]"
+"3485.6.4.1. From bound nouns to classifiers: a grammaticalization story
+Clearly, a subset of bound nouns—mainly plant part terms—have ‘turned into’ noun
+classifiers. But how did the shift from plant parts to classifying terms come about?
+Where and how, exactly, have the two diverged?
+Most importantly, while both non-semantically extended plant-part compounds
+and classifying compounds have to do with individuation, they may differ as to what is
+being individuated. In particular, the simple paradigms of noun-noun compounds (in
+which no semantic extension is involved) have a certain ambiguity regarding which
+component is being specified. This is especially the case with the plant-part compounds.
+As we have seen, a plant-part compound can be interpreted either as encoding a
+whole-part relationship, or as encoding a property-entity relationship—which is
+inherently one of classification. A speaker may be dealing either with a banana tree and
+focusing on its leaf, or with a pile of leaves and picking out a particular banana leaf.
+Does the Hup speaker start with ‘banana’ and restrict it to ‘leaf-part-of’, or with ‘leaf’
+and restrict it to ‘banana-type’? Is he or she foregrounding the property, as defined by
+the entity, or the entity, as defined by the property? The compound itself is neutral as to
+what counts as the ‘figure’ or new information, and what as the ‘ground’ or given
+information (cf. Talmy 1978).
+In defining a given set of compounds, this question of figure and ground translates
+into the question of which slot in the compound—the slot expressing the different types
+of leaves, or the different parts of a tree—is likely to be more salient in speakers’ daily
+lives. For Hup speakers, as discussed in §5.4.3, the most prototypical paradigmatic
+oppositions in plant-part compounds involve a constant form as the second member of349the compound (N2) and a varied set of forms as the first member (N1); moreover, the
+stress pattern (where N1 receives primary stress) reflects the fact that the speaker’s
+attention is more likely to correspond to the variable form than the constant one. This
+higher salience of one paradigm type over the other reflects the typical interaction of
+speakers with their environment: a Hup speaker is much more likely to be concerned
+about the identity of a leaf or stick, because that is crucial to what he or she can do or
+make with that object.
+In the case of the classifier-type constructions, this tendency to foreground the
+(N1) property has become crystallized—it is now the only option. Just as ‘banana-leaf’
+gives us information about the identity of the leaf, ‘study-LEAF’ gives us information
+about the type of book, but here no whole-part construal is possible. The first member of
+the compound (N1) has now become the focus of the construction; in some sense, it can
+now be considered the semantic head. The fact that phonological stress already falls on
+the N1 form in these constructions surely helps to reinforce the interpretation that it is
+also semantically stressed. At the same time, the bound N2 form in these classifying
+constructions is becoming a grammaticalized morpheme, and as such is becoming
+categorially distinct from ‘regular’ bound nouns. Its lack of stress and its compound-final
+position give it a resemblance to the unstressed enclitics that are extremely common
+elsewhere in Hup grammar. Finally, while metaphorical extension is a frequently
+encountered feature of compound constructions in Hup (especially metaphors involving
+N2), the existence of large plant-part paradigm sets of the variable N1 type (as in set 7
+above) probably fostered the conventionalization of particular metaphorical extensions,350which in each case became codified along one specific semantic parameter, notably
+shape (cf. Lakoff’s Idealized Cognitive Model, 1987).
+There is also evidence that the reinterpretation of the semantic head in these
+classifying compounds is being played out in the syntax of these constructions as well. In
+some cases, the N1 of the construction is now arguably the syntactic head, as well as the
+semantic head. The most likely force behind this change is lexical borrowing from
+Portuguese and/or Tukano; this generated new terms, which Hup speakers would have
+organized according to the system already present in their language for dealing with
+manufactured or manipulated items. However, since the new terms first came into the
+language as independent monomorphemic nominals, they naturally assumed the function
+of nominal heads, to which the classifying form was subsequently added. Given the large
+(and growing) number of these borrowed nominals, the classifying forms are gradually
+coming to be perceived as something extra, tacked on to the main entity. In some cases,
+the presence of the classifier is in fact optional:(171) píta (=b’ah)
+mandádiya (=wˆg)
+wéda (=teg)
+badãêw (=tat)‘cassette tape’
+‘medallion on necklace’
+‘candle’
+‘balloon’(Port. fita=SPLIT.WOOD)
+(Port. medalhão=SEED)
+(Port. vela=STICK)
+(Port. balão=FRUIT)This ‘tacked-on’ effect of classifying terms is even found with a few native
+words, such as those in (172), in which the classifier appears optionally:
+(172) nçg’Q‡d (=b’ah)
+núh(=tat) pog‘tongue’
+(tongue=SPLIT.WOOD)
+‘a big head’ (head=FRUIT big)
+(when emphasizing shape/size of head)3515.6.4.2. Functions of the Hup classifier system and the typology of noun classification
+The transitional appearance of the Hup classifier-like system brings us to the next
+question: How do the Hup noun classifying terms fit into a general typology of
+classifiers? Below, I consider the various functions of the Hup classifier-like bound
+forms vis-à-vis the functions of noun classifiers cross-linguistically, and evaluate the
+arguments for characterizing the Hup case as an incipient noun classifier system.","[364, 365, 366, 367, 368]"
+"1543.1.1. Nouns
+Prototypical members of the noun class are those roots that head noun phrases and
+typically function as arguments of the clause. Unlike verbs, nouns can regularly appear
+bare in the clause, without any inflectional morphology or other associated formatives,
+and they contrast lexically for tone (see §2.3.2.2). Examples of nouns are given in (1-2):
+(1)tˆnˆ‡hmç‡m3sg.POSS axenç¤h-ç¤h
+fall-DECL‘His axe fell.’ (M.NS.65)
+(2)yawa‡ç=mahtˆh cç¤w-ç¤h,capuchin.monkey=REP 3sgko/a‡pshoot.with.blowpipe two‘He had shot two capuchin monkeys with his blowpipe.’ (M.NS.65)
+Nouns and verbs are also distinguished by the formatives with which they
+combine, and under what circumstances the formatives occur. Nouns regularly inflect for
+case and number, whereas members of the verb class can only take case- and numbermarking formatives when they are themselves nominalized or head adverbial clauses
+(where the case marker arguably has a distinct function from its usual one; see §18.2.6.2).
+Unlike verbs, nouns can be possessed (alienably and/or inalienably), and can be
+quantified and otherwise modified by numerals, adjectives, demonstratives, etc.
+Moreover, nouns and verbs are negated via distinct strategies (‘existential’ vs. ‘clausal’
+negation, see chapter 16). Example (3) illustrates inalienable possession and case
+marking on the noun:
+(3)yˆnˆy=mah,/ãh=yawám-a‡nhˆdthat.ITG.be.like.DYNM=REP 1sg=younger.brother-OBJ 3plmQh-yˆ¤/-ˆ¤h
+kill-TEL-DECL‘Then (he said) they killed my younger brother.’ (TD.Cv04.28)155Hup’s rich system of aspect-mode morphology is primarily associated with
+verbs; nevertheless, many of these markers can also combine with nouns. Nouns acting
+as predicates of clauses can take many (although not all) of these markers. Even when
+acting as arguments, nouns can take some formatives that are (sometimes primarily)
+associated with verbal predicates, although these markers often have distinct functions
+depending on what part of speech they combine with; for example, the verbal Inchoative
+aspect marker signals focus when occurring on nouns (see §7.1.1).
+Nouns in Hup undergo regular compounding (which is also a feature of verbs), as
+example (4) illustrates. A distinction exists between nominal roots that are ‘bound’—i.e.
+that can appear only in a compound construction—and those that are free; this formal
+difference corresponds roughly to the semantic distinction of inalienable vs. alienable
+possession (see chapter 5).
+(4)tecáphç)Ùp yam /ãh yam-té-htomorrowfishsong 1sgsing-FUT-DECL‘Tomorrow I’ll sing the Fish Song.’ (M.K.118)
+The majority of the members of the noun class function exclusively as nouns, and
+have no derived variants in other word classes. However, as discussed below and in
+§4.6.1, some nouns can be considered to be derived from verbs (by removing the verbal
+inflection and allowing the stem to function as a bare form, and assigning it rising tone).
+In principle, this derivation can also go in the opposite direction, to derive verbs from
+nouns; however, this does not appear to be a particularly productive process. Where a
+verbal and nominal form of the same root do coexist, the verbal form usually appears to
+be more basic and the nominal form more derived. In other cases, however, there is no
+clear argument for directionality one way or the other; e.g. coh- ‘walk with cane/stick’,co‡h ‘cane/stick for walking’. A small subgroup of nouns yield derived verbal forms156via a different process: noun-incorporation with the verb ni- (see §9.6); e.g. hç‡m
+‘wound’, hçm-ni- ‘have a wound’, while as a bare verb stem itself *hçm- is
+ungrammatical.","[170, 171, 172, 173]"
+"615contour and/or a focus on the resulting state that the event brings about or causes in
+one participant; hi- is for this reason glossed ‘Factitive’.
+Crucial to the use of hi- are the semantic roles of actor and undergoer, in addition
+to the syntactic roles of agent and object. In many cases hi- is essentially signaling that
+these roles do not match up according to the prototypical model.139 To the extent that this
+construction relates to “subject affectedness”, or that it is “intermediate in transitivity
+between one-participant and two-participant events”, it bears some resemblance to the
+middle voice (Kemmer 1993: 2-3). However, it is unlike a typical middle voice form in
+that it normally results in a multi-valent construction.
+Factitive hi- usually occurs with stems that normally take only one argument,
+particularly adjectives and stative or state-change verbs. In most cases it adds a
+participant, increasing the valency of the clause, and has a causative reading. In (80-81),
+the Factitive adds an agent, and the grammatical object O would be the subject SO—
+semantically the undergoer—of the corresponding intransitive clause, as the non-Factitive
+examples in (b) illustrate.","[631, 632]"
+"INTERJ 3sg=black-FLR-DECLdarn it; (it was) a black one!’ (B.Cv.93)
+In (127), the interrogative form hˆ‚-n’ˆh ‘what’ (a derived nominal) occurs in place of an
+adjective (some unspecified color value), preserving the bound nominal construction.
+(127) tˆh=hˆ‚-n’ˆ‡h /am túk-u/ ?
+3sg=Q-NMZ2sgwant-INT‘What (i.e. which color beads) do you want?’ (OS)
+Stress and tone (word-accent) patterns for adjectival NPs are not fully consistent
+across speakers and speech events. The underlying lexical tone value for adjectives is
+almost always high tone, with the primary exception of bˆÙg ‘old’ (it is possible that this
+may be at least partially motivated by the contrast with bˆêg ‘tapir’). In general, a noun
+phrase composed of [N Adj] is treated phonologically as a single lexical unit, with
+primary stress on the second constituent. In the case of tˆh=Adj constructions, this stress
+pattern is quite consistent: tone always falls on the adjective and is realized as rising
+(except in the case of CV roots, which always have high tone). In NPs involving full
+lexical nouns, on the other hand, tone on the adjective may vary. The pattern in less
+careful speech tends to favor a pattern like that of the tˆh= form (including rising tone on
+the adjective), but in more careful speech (especially in cases of potential ambiguity, such
+as when the speaker is confronted with a minimal pair set contrasting by tone), the noun
+may receive equal stress and take tone. In these cases, the following adjective assumes411its underlying tonal value (and so is usually high). In at least one case, this general
+pattern gives rise to a minimal pair contrast:
+(128) tˆh=po‡g
+tˆh póg(3sg=big)
+(lie big)‘big one’
+‘liar’ (literally ‘big liar’, although tˆh by itself is not
+generally used in this sense)Note that this pattern for tˆh= adjectival NPs is consistent with the most frequent wordaccent (stress/tone) pattern for bisyllabic (monomorphemic) lexical items in general (see
+§2.3.2), and bound nouns with tˆh= are also always stressed on the N2.
+The fact that adjective modifiers must take an explicit preceding nominal, for
+which the default is the tˆh= preform, gives them a formal resemblance to bound (and
+inalienably possessed) nouns in Hup (see §5.4). Compare, for example, the human noun
+‘child’ and the adjective ‘big’ in the nominal constructions in (129):(129) a)tiyi‡/=dó/
+tˆh=dó/‘male child’
+‘child’b)tiyi/ po‡g
+tˆh=po‡g‘big man’
+‘big one’Functionally, too, there are parallels between the two constructions. The
+prototypical bound noun construction signals an inherent relationship between two
+entities, where the first possesses and/or defines the second (e.g. in a whole-part
+relationship; see §5.5); likewise the adjective denotes a property that is inseparable from
+the entity that ‘possesses’ it, and may be difficult or impossible to even conceptualize
+without some kind of physical embodiment. Similarly, the association indicated by the
+bound noun construction also helps to individuate the entity in question from other412entities like it (i.e. by restricting a set), just as the denotation of a property may have a
+restrictive function, helping to pick out an individual referent from the set of possible
+referents—although adjectives do not just restrict reference, but also enrich the semantics
+of a known entity.
+Given the formal and functional parallels between the adjectival NP and the
+bound noun NP, could these actually be one and the same construction? If so, then the
+relative order of modifier and head in the adjectival NP must be the opposite of what it
+seems, as defined earlier in this section: [(Nom) Head + (Adj.) Modifier], where the
+adjective is the modifier and the noun the head. As example (129a) above illustrates, the
+bound noun construction involves the order [Modifier + Head]; is this actually the
+structure of the adjectival NP as well? This does indeed seem to be the case for
+adjectival NPs taking the dummy nominal tˆh—which is both semantically contentless
+and phonetically unstressed, as in (129b) above (tˆh=po‡g ‘the big one’); here the
+adjective (and final element of the NP) is a plausible head, at least semantically. This
+type of adjectival NP really does appear to mirror the bound noun construction.
+On the other hand, it seems much less plausible to assume that a noun-adjective
+NP containing a full noun—such as tiyi/ po‡g (man big) in 129b—should have the order
+of [(Nom) Modifier + (Adj) Head]; that is, that the adjective should be the head of the
+construction. Yet could the adjectival NP in Hup be internally inconsistent, in that one
+type has one order, and the other the opposite order?
+It is difficult to resolve these questions definitively, since there are few syntactic
+clues to headedness in Hup. However, to the extent that heads can be determined at all,413there is actually no reason to think that head-modifier order cannot vary within the
+Hup NP; in fact, such syntactic inconsistency already exists among different subtypes of
+the bound noun constructions. In §5.6, I argue that the semantic head of the bound-noun
+NP may be ambiguous, and that for many NPs involving classifying bound nouns, this
+ambiguity has fostered a switch of the syntactic head of the construction from N2 to N1.
+Thus interpreting one type of adjectival NP as having head-modifier order while the other
+has modifier-head order is not inconsistent with the facts of Hup more generally.
+Given that significant differences between subtypes of bound-noun NPs and
+adjectival NPs are possible in Hup, the question of whether the two constructions should
+themselves be considered one and the same becomes less meaningful. Instead, it makes
+more sense to consider them as distinct types of NP that simply share a number of
+features. In fact, upon closer inspection, quite a few differences between them can be
+identified.
+First, were the parallel with the bound noun construction complete, we would
+have to assume that the ‘adjective’ head of the adjectival NP is itself no more than a
+bound noun; however, the set of bound nouns and the set of adjectives in Hup do not
+actually pattern in the same way at all. Adjectives must be preceded by a nominal when
+acting as the argument of a predicate, but appear alone (i.e. bare) as predicates
+themselves; most bound nouns, on the other hand, can appear outside the bound
+construction in contexts where semantic individuation is irrelevant, but otherwise can
+only function as predicate (nominals) while bound. As the discussion in §3.1.3
+illustrates, the identity of adjectives as a formal class of their own hinges on their
+possession of both nominal and verbal qualities, and their ability to move freely between414argument and predicate constructions—usually retaining attributes of the one while
+functioning as the other, and vice versa.
+Other features of adjectival NPs that differentiate them from purely nominal NPs
+include their stress pattern: while bound noun constructions with a full noun as N1
+typically have primary stress either on the N1 only, or on both members of the compound
+construction (e.g. tiyi‡/=dó/ (man=child) ‘male child’), stress in noun + adjective NPs
+usually falls on the adjective (this difference can be seen in example 129 above). Yet
+another difference involves the verbal negation strategy, which can be applied to
+adjective modifiers within NPs (see 119 above); in the case of bound nouns, on the other
+hand, the entire NP (and not simply the bound noun within it) must be negated by a
+nominal negation strategy. Finally, another difference is the fact that unmodified
+adjectives—unlike bound nouns—do not directly follow a numeral acting as N1
+(although they can follow a demonstrative, see above). Instead, the adjective appears in
+nominalized form with tˆh=, as in (130).
+(130) ko/a‡p tˆh=po‡g tˆh tç¤n-ç¤h
+two3sg=big3sg hold-DECL‘She has two big ones.’ (EL)
+The differences between the adnominal adjectives and the bound nouns are
+summarized in Table 6.9.","[427, 428, 429, 430, 431]"
+"(79)hçhç¤h, [pQm-ní]-iw-a‡n, mQh-d’o/-yó/=mah...
+toadsit-be-FLR-OBJ1004beat-take-SEQ=REP‘Having whacked the toad that was sitting there…’ (P.BT.93)
+In example (80), the relativized nouns are the subjects of the relative clauses and the
+direct object and recipient, respectively, of a ditransitive main clause:(80)g’ájya/ám wç¤y-ç¤h,cutivara jaguar[g’ájhold.back.from-DECLwç¤n]-çw-a‡n-áh,cutivara follow-FLR-OBJ-DECL‘The jaguar protects the cutivara, from the one that follows the cutivara,
+ya/ambo‡/-a‡n-áh;[tˆ¤h-a‡n k´w´‡g d’o/-tu/-/é]-w-a‡n-áhdog-OBJ-DECL3sg-OBJ eyetake-go.into.liquid-PERF-OBJ-DECLfrom the dog; ( the jaguar protects) the one who put his eyes in for him.’
+(H-CO.79)
+Finally, the relativized nouns in (81-82) are the subjects of the relative clauses and
+predicate nominals in the main clauses:(81)/ãh [bˆ/-hipãêh-ãp]=/‚ih
+1sgwork-know-DEP=MSC‘I’m one who knows how to do (this).’ (OS)
+(82)[/ˆnˆ‡h/ˆ‡d/ˆ¤d-ˆp]=/ãêytˆ¤h=ti/,nç-yó/...1pl.POSS speech speak-DEP=FEM 3sg=EMPH.TAG say-SEQ‘Having thought, “this is one who speaks our language!”…’ (T.PN.27)B. Relativized noun is the object of the relative clause
+In (83-86), the relativized noun is the object of the relative clause and the subject of the
+main clause. As expected (vis-à-vis the discussion above), case marking on the relative
+clause (whether headed or headless) corresponds to its role within the main clause, not its
+role within the relative clause.","[1020, 1021]"
+"358father’s) language. This cultural focus on the emblematic function of language has led
+speakers of many Vaupés languages to consciously resist lexical borrowing, even while
+unconsciously allowing their languages to converge on a structural level (e.g. Sorensen
+1967, Jackson 1983, Aikhenvald 2002). Probably for this reason, Hup speakers often
+create a word from all-Hup components (verb/noun stem + classifier) for a new item,
+even when they are aware of its name in Tukano or Portuguese. Likewise, when Hup
+speakers do use a borrowed word, they typically tack on an extra piece of Hup
+morphology, a classifying term, to give the new name a clear Hup stamp.
+Finally, language contact with Tukano was surely an additional motivating force
+behind the development of the classifier system. While at first glance this would seem to
+be diametrically opposed to linguistic conservatism as a catalyst, the two factors manifest
+themselves in different ways, which are not at all incompatible. It is a general fact among
+Vaupés languages that intense language contact has led to considerable structural
+convergence, despite speakers’ conscious efforts to keep their languages free from lexical
+mixing. In fact, classifier systems in other Vaupés languages have been shown to be
+sensitive to language contact (Gómez-Imbert 1996 for Cubeo-Baniwa, Aikhenvald 2002
+for Tukano-Tariana).
+Classifiers are an important feature of Tukanoan grammar, and in many ways the
+Hup system looks like an incipient version of the Tukanoan one: Tukanoan languages
+classify physical objects on the basis of shape, and animate entities on the basis of gender
+(see Gómez-Imbert 1996, Aikhenvald 2000, etc.), just as we have seen for Hup.
+Moreover, classifiers in Tukanoan languages appear in noun phrases with numerals,359adjectives, and demonstratives, with nouns as derivational markers, and with
+relativized verbal forms (Aikhenvald 2000), just as they do in Hup.
+From a typological point of view, the Hup case is particularly intriguing because
+it represents a classifier system in its initial stages of development, with its nuts and bolts
+still visible. Moreover, this is one of the relatively rare cases in which the effect of an
+identifiable cultural change is clearly visible in the grammar of a language. Finally,
+despite the likelihood that culturally novel experiences have driven the development of
+the Hup noun classification system, its dependence on plant parts shows that the Hupd’«h
+have dealt with these new experiences in ways that make sense within their world view,
+in keeping with life in the rainforest.","[374, 375, 376]"
+"967The bound formatives relating to clause-combining (their functions, slot
+classes, etc.) are summarized in Table 18.1:
+Table 18.1. Formatives relating to clause combining
+FormSlot class
+(formative type)=nihEncliticka‡h
+-VpParticle
+Boundary Suffix-n’ˆ‡hBoundary Suffix=yˆ/EncliticAdverbs,
+clauses-Vt
+-anBoundary
+SuffixesVerbs-yó/Boundary Suffix-mˆ‡/Boundary Suffix-kamíParticle
+Boundary Suffixkeyó/ParticletéParticleIdentity /
+word-class of
+host
+Various
+hosts, clauses
+Predicates
+Verbs,
+clauses
+VerbsVerbs
+(Oblique case
+nouns)
+VerbsVarious hosts
+Verbs
+Nominals
+Verbs
+(Object-case
+nouns)
+FreeFunctionOther relevant functions of
+same formEmphatic Coordinator
+Adversative conjunction
+Dependent marker
+Nominalizer,
+complementizer
+AdverbializerAdverbializersTopic marker (w/ nouns, other
+hostsTelic aspect (Inner Suffix w/
+verbs)
+Contrastive emphasis marker
+(enclitic w/ nouns)
+Case markers (w/ nouns;
+Oblique, Directional oblique)Sequential
+Adverbial: simultaneous
+events (different actors);
+concessive
+Concessive
+Temporal adverbialLocative postposition mˆ‡/
+‘under’CauseVerb ‘see’ + Sequential:
+key-yó/Spatial / temporal
+adverbial ‘until’Cf. Portuguese até ‘until’
+(space/time)18.1. Coordination
+Hup has a number of strategies for indicating a conceptual link between two clauses,
+where both are on the same syntactic level and neither is dependent on the other. These
+strategies include simple juxtaposition of linked elements, as well as additional968morphological means for signaling the relation between them. In some cases, the
+clause-level strategies can also apply to linked phrases or constituents within the clause.
+As discussed in chapter 9, many distinct activities (usually performed by the same
+subject) are expressed in Hup not through clause-level coordination, as they would be in
+English, but through verb compounding, as in the following example:(1)(hˆd) /´g-yamhi)dç/-/e‡-h
+3pldrink-sing-PERF-DECL‘(They) were drinking and singing (at the same time).’ (TD.Cv.98)
+Such compounding involves co-subordination at the nuclear level (in the terminology of
+Foley and Van Valin 1984), whereas in Hup linking or ‘nexus’ at the peripheral level (i.e.
+involving whole predicates) is preferred for events that are conceptually relatively less
+integrated. This latter type of linking is the subject of this chapter.","[983, 984, 985]"
