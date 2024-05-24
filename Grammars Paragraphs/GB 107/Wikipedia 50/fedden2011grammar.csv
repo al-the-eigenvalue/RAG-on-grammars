@@ -1,0 +1,4904 @@
+Paragraph,Page number
+"Negation (with the existential verb)Negation is commonly expressed with the negative particle mo and the clitic
+=ba, which is always the last formative in the verb before the illocutionary
+particle (see 3.13.3). Mian has an alternative way of expressing negative
+polarity in the perfective only, involving an invariable form of the existential
+verb:
+(170) Tesinab=e
+tl-im
+bl-im=o=be
+PN=SG.M
+come.PFV-NEG
+exist-NEG=PRD=DECL
+‘Tesinab hasn’t come.’ [Observed]
+In this example the perfective verb stem tl is inflected with -im signalling
+negative polarity, followed by the existential verb bl inflected with the same
+suffix, effectively yielding a double negation construction.
+The exact semantic difference between this type of negation and the
+negation with =ba and their respective usages are not fully clear at the
+moment. However, a few observations can be made which might inform
+further research. The negation with the existential verb is restricted to
+perfective aspect and can only be used to express negative polarity of events
+which could have happened (but did not happen) in the past. For instance, it is8.6. TAM morphology of final verbs303not allowed with future time reference. In order to say that someone will not
+or does not want to come, only the ba-negation is possible:
+(171) Tesinab=e=mo
+tl-aamab-e=ba=be
+PN=SG.M=NEG
+come.PFV-IRR.NANPL.SBJ-3SG.M.SBJ=NEG=DECL
+‘Tesinab won’t/doesn’t want to come.’
+Likewise negation with the existential verb is disallowed in the imperfective.
+Again, the ba-negation needs to be used:
+(172) Tesinab=e=mo
+wen-b-e=ba=be
+PN=SG.M=NEG
+eat.IPFV-IPFV-3SG.M.SBJ=NEG=DECL
+‘Tesinab isn’t eating.’8.6.7.","[328, 329]"
+"The negative clitic =baTo express negation in clauses which contain a finite verb the clitic =ba is
+employed. It follows the subject suffix (198). In verbs with a tense suffix in
+the post-subject slot =ba follows the tense suffix (199). =Ba mostly co-occurs
+with the negative clitic =mo (3.13.4):
+(198) n
+1SGmén=o=mo
+string_bag=PL.N1=NEGol-êb
+PL.RESID.O-take.PFVun-aamab-i=ba=be
+go.PFV-IRR.NANPL-1SG.SBJ=DECL
+‘I will not carry the string bags.’ [Dictionary]
+(199) n
+1SGmén=o=mo
+string_bag=PL.N1=NEGun-Ø-i-bio=ba=be
+go.PFV-IRR.NANPL-1SG.SBJ=DECL
+‘I didn’t carry the string bags.’ol-êb
+PL.RESID.O-take.PFV3.13. Clitics and particles159Medial verbs cannot be marked for negative polarity with =ba. =Ba always
+has scope over the whole sentence, which can consist of any number of
+chained clauses. On negation in clause chains, see 12.2.
+To express negation in non-verbal predications =ba is also used. In this
+case it follows the predicate term. This is discussed in more detail in 9.11.4.
+An example is:
+(200) yeye
+y
+asyang=ba=bo
+DEM.DIST
+sharp_stick=NEG=QUOT
+no
+‘ “No, that’s not a sharp stick.” ’ [Pig story]
+Usually the negative clitic =ba co-occurs with negative =mo elsewhere in the
+sentence. Within a single sentence or clause, =mo may only be expressed
+once, namely on the constituent immediately preceding the verb which is
+marked for negative polarity with =ba. =Ba is independent of stem aspect and
+TAM morphology. The use of =ba can have an influence on which subject
+marker alternant is selected (see section 8.5.2 on subject marking).","[184, 185]"
+"
+3SG.Mayam
+goodb.bib
+placeDEM.PROX.N2bi-Ø-e=a
+stay.IPFV-SIM-3SG.M.SBJ=MEDlohâa’-biaan-e=ta
+roam.IPFV-AUX.IPFV.SS.SIM-3SG.M.SBJ=MED
+c.ya-têm’-aam-e=ba
+kesoa
+PL.AN.O-see.PFV-DEONT-3SG.M.SBJ=NEG
+because
+‘because he wasn’t well and couldn’t walk around this place
+and see them, …’ [Crows]47612. Operator scope in clause chaining constructionsIf the medial clause in clause (a) occurred in a clause chain whose final verb
+was not marked with =ba to indicate negative polarity, its meaning would be
+‘he was well’. Due to the scope of negation over whole clause chains,
+however, this interpretation is impossible for (9).
+As the polarity specification must not change within a clause chain, two
+independent sentences have to be used in order to say something like ‘He
+didn’t see Asuneb, he saw Beitab’, for example:
+(10)
+3SG.MAsuneb=e=mo
+PN=SG.M=NEGa-têm’-Ø-e=ba=be
+3SG.M.O-see.PFV-REAL-3SG.M.SBJ=NEG=DECL
+
+3SG.MBeitab
+PN-ta
+3SG.M-EMPHa-têm’-Ø-e=be
+3SG.M.O-see.PFV-REAL-3SG.M.SBJ=DECL
+‘He hasn’t seen Asuneb. He saw Beitab.’
+Medial verbs can never be marked for negative polarity with =ba. A clause
+chain in which a medial verb is marked as negative is ungrammatical:
+(11)*
+3SG.MAsuneb=e=mo
+PN=SG.M=NEGa-têm’-n-e=ba=ta
+3SG.M.O-see.PFV-SEQ-3SG.M.SBJ=NEG=MED
+-ta
+a-têm’-Ø-e=be
+3SG.M-EMPH
+3SG.M.O-see.PFV-REAL-3SG.M.SBJ=DECL
+Intended: ‘He didn’t see Asuneb, he saw Beitab.’
+BeitabPN12.3.","[501, 502]"
+"PolarityLike illocutionary force, positive polarity, which is unmarked, and negative
+polarity marked by =ba on a final verb in a clause chain are interpreted as
+having scope over the whole clause chain:
+(9)a.",[501]
+"The negative pronoun suffix -kobThe negative suffix -kob attaches to roots of the simple bound series. It always
+co-occurs with the negative enclitic =ba, which is used in negated verbal
+predications. Pronoun forms negated with -kob only occur in the predicate of
+non-verbal clauses:
+(122) kb-kob=ba=be
+2SG.M-NEG=NEG=DECL
+‘(It’s) Not you.’
+(123) n-kob=ba=bo
+1SG-NEG=NEG=EMPH
+‘(It was) Not me!’ [Danenok]1343. Word classes and grammatical relationsA pronoun negated by the suffix -kob plus the enclitic negation =ba and
+functioning as the predicate in a non-verbal clause can be preceded by an
+overt noun phrase as the topic, as in (124):
+(124) wéng=o
+-kob=ba=be
+N2-NEG=NEG=DECL
+talk=N2
+‘Talk, no!’ (lit. ‘Talk, it’s not it.’)3.7.7.","[159, 160]"
+"8.6.7.5. Auxiliary-serialized verb forms plus -Vm ‘Deontic’
+Deontic mood is a form of speaker-oriented modality used to express that the
+situation denoted by the verb should or – if negated – must not take place.
+All deontic forms of vowel-final perfective stems are serializations of a
+perfective lexical verb stem and the perfective auxiliary n, which is inflected
+for deontic mood with the suffix -Vm. The capital ‘V’ indicates regressive
+vowel harmony. The suffix vowel always has the same quality as the first
+vowel in the following subject marker (see 2.7.2 on vowel harmony in this
+suffix):3108. Verb morphology(192) 
+3PL.ANam=o
+house=N2ge-n-im-io=be
+build.PFV-AUX.PFV-DEONT-2/3PL.AN.SBJ=DECL
+‘They are should/must build a house.’
+Verbs inflected with -Vm are often found in in the protasis of conditionals (see
+13.2 on adverbials). In that case the interpretation is ‘Conditional’ rather than
+‘Deontic’, e.g.:
+(193) n
+fút=e
+halà’-n-im-i=o
+tobacco abstain.PFV-AUX.PFV-COND-1SG.SBJ=N2
+1SG
+‘If I abstain from tobacco…’
+Negation of deontic forms (i.e. with the clitic =ba and the negation particle
+mo) expresses that an action is impossible or forbidden:
+(194) tn=i=sna
+child=PL.AN=toounáng=i=sna
+woman=PL.AN=too=mo
+PL.AN=NEGwent-aa-ib=ba=be
+hear.PFV-DEONT-2/3PL.AN.SBJ=NEG=DECL
+‘Children and women must not hear (the name of the Sofelok
+tobacco).’ [Sofelok, 2]8.6.7.6. Prohibitive
+For the prohibitive, deontic verb forms followed by a hortative illocutionary
+particle are used. Although the verb cannot be marked for negative polarity
+with =ba ‘negation’ in the prohibitive, negation is obligatorily expressed
+through the negation particle mo:
+(195) fút=e=mo
+fu-n-em-eb=e!
+smoke-AUX.PFV-DEONT-2SG.SBJ=HORT
+tobacco=SG.N1=NEG
+‘You must not smoke!’
+Prohibitives always take the hortative illocutionary marker =e (=ne after
+vowels):8.6. TAM morphology of final verbs311(196) =mo
+tl-aam-o=ne!
+come.PFV-DEONT-3SG.F.SBJ=HORT
+3SG.F=NEG
+‘She must not come!’8.6.8.","[335, 336, 337]"
+"The negative clitic =moThe negative clitic =mo is used in clauses that are negated with =ba ‘negation’
+and prohibitives (see 8.6.7.6). It cannot be used in negated non-verbal
+predications. =Mo typically encliticizes to the final constituent before the
+verb. It can occur as a free word clause-initially. Examples of =mo in
+declaratives can be found in 3.13.3 above. An example of the prohibitive is
+given in (201):
+(201) mo
+NEGdob-ski
+3SG.M_CL.O-turndob-ski-n-em-eb=e!
+3SG.M_CL.O-turn-AUX.PFV-DEONT-2SG.SBJ=HORT
+‘Do not keep turning him (a male child) around!’ [Crows]
+If the negated verb consists of a coverb and a function verb in case of a
+function-verb construction, =mo attaches to the final constituent before the
+whole predicate, which includes the coverb accompanying a function verb. An
+example is:1603. Word classes and grammatical relations(202) n
+tekein
+knowledge
+1SG
+‘I know.’ke-b-i=be
+do-IPFV-1SG.SBJ=DECL(203) n=mo
+tekein
+knowledge
+I=NEG
+‘I don’t know.’3.13.5.ke-b-i=ba=be
+do-IPFV-1SG.SBJ=NEG=DECLThe interrogative clitic =mThe interrogative clitic =m is employed in polar questions (see 10.1.1). Like
+negative =mo, interrogative =m typically encliticize to the final constituent
+before the verb (or the coverb in case of a function-verb construction) but can
+occur as a free word clause-initially. An example is (204):
+(204) m
+Qwentê-b-eb=ta
+hear.IPFV-DS.SIM-2SG.SBJ=MEDo-b-i
+say.IPFV-IPFV-1SG.SBJbleka?
+or
+‘Do you understand what I’m saying?’
+(Lit: ‘Are you hearing as I’m saying, or?’) [Mianmin and Telefomin]3.13.6.","[185, 186]"
+"Polar questions with the interrogative clitic =aPolar questions can involve verbal and non-verbal predicates. In the former
+case, the illocutionary particle cliticizes to the verb, in the latter case, the
+particle cliticizes to the non-verbal predicate term.
+The interrogative clitic =a is realized as =ya when following /a/, e.g.
+naka=ya? ‘A man?’. After emphatic and restrictive pronouns, which end in
+the emphatic suffix -ta, the interrogative clitic =a is also realized as =ya, but
+here the preceding /a/ is deleted, e.g. kb-ta ‘you (M, EMPH)’ and kb-t=ya? ‘Is
+it you?’, y-ta ‘only this (restrictive)’ and y-t=ya? ‘Is it only this?’
+In polar questions involving verbal predications the interrogative particle
+cliticizes to the finite verb, as in the formulaic greeting in (1):
+(1)klayâm
+bi-Ø-eb=a?
+properly_good
+stay.IPFV-IPFV-2SG.SBJ=Q
+‘Are you (staying) well?’ [Observed]Constituent order does not change in questions. The declarative marker =be,
+the emphatic/quotative marker =bo, or the exclamative marker =ble are simply
+replaced by =a and the utterance receives a marked intonational contour as
+opposed to the corresponding declarative sentence. Compare the polar
+question in (2) and its declarative counterpart in (3):
+(2)kb
+2SG.M.POSSmn=e
+child=SG.Msm
+stillgwáab
+smallbi-Ø-e=a?
+stay.IPFV-IPFV-3SG.M.SBJ=Q
+‘Is your boy still small?’
+(3)kb
+2SG.M.POSSmn=e
+child=SG.Msm
+stillgwáab
+small10.1. Polar questions387bi-Ø-e=be
+stay.IPFV-IPFV-3SG.M.SBJ=DECL
+‘Your boy is still small.’
+The verb in (2) is pronounced bia. On this unusual contracted form, see
+section 8.6.5, where irregularities in the inflection of the existential verb are
+described.
+Optionally, polar questions can additionally contain the interrogative clitic
+m (as opposed to negative mo with low tone). This typically encliticizes to
+the final constituent before the predicate, as in (4), but can appear as a free
+word if it occurs clause initially, as in example (15) below.
+(4)ns
+songlo=m
+DEM.N2=Qgo-ˆb’-o-bi-Ø-eb=a?
+like.PFV-give.PFV-N2.R-AUX.IPFV-IPFV-2SG.SBJ=Q
+‘Do you like this song?’
+As with the negative clitic mo, interrogative m may only occur once per
+sentence. Thus, it may only appear once in any given clause chain, which
+constitutes one sentence. Usually this would be the first clause to signal right
+from the start that a question is coming:
+(5)kbo
+2SG.Mglol-amît=o=m
+wind-opening=N2=Qbetelâ’-n-eb=a
+open.PFV-SEQ-2SG.SBJ=MEDimín
+dòu-n-eb-bu=a?
+again
+close-REAL-2SG.SBJ-GPST=Q
+‘Did you open and again close the window?’ [TMA Questionnaire,
+61]
+The interrogative marker =a can be combined with hortative verb forms in
+order to query whether the addressee wants the speaker or the group of which
+both speaker and addressee are members to perform a certain action:
+(6)ayal=e
+kemela-n-an=a?
+extinguish.PFV-REAL-1SG.SBJ.HORT=Q
+light=SG.N1
+‘Shall I extinguish the light?’ [Observed]38810. Question formation(7)un-Ø-om=a?
+go.PFV-REAL-1PL.SBJ.HORT=Q
+‘Shall we go?’ [Observed]In polar questions involving non-verbal predications the interrogative particle
+attaches to either a noun (8), an emphatic pronoun (9), a distal demonstrative
+(10), an adjective (11), or an adverb (12). The interrogative clitic m may not
+be used. The range of possible hosts for the clitic is exactly co-extensive with
+the range of word classes that can appear in the predicate slot in declarative
+non-verbal clauses. Detailed information on non-verbal clauses can be found
+in section 9.11.
+(8)tíl=a?
+dog=Q
+‘Is it a dog?’(9)n-t=ya?
+1SG-EMPH=Q
+‘Is it me?’ (for example: ‘Is it my turn?’)(10)y-t=ya?
+that-EMPH=Q
+‘Is that it? (lit. ‘Is it only that?’)(11)ayam=a?
+good=Q
+‘Is it good?’(12)fiab=a?
+slowly=Q
+‘Is it (done) slowly?’Possible answers to these five non-verbal questions are given in (13):
+(13)a. ae tíl=o=be
+b. ae kb-ta=be
+c. ae y-ta=be
+d. yeye ayam=ba=be – misiam=o=be
+e. ae fiab=o=be‘Yes, it’s a dog.’
+‘Yes, it’s you(r turn)!’
+‘Yes, that’s it!’
+‘No, it’s not good. It’s bad.’
+‘Yes, it’s slowly.’10.1. Polar questions10.1.2.","[412, 413, 414, 415]"
+"-(V)m ‘Deontic’The suffix -(V)m ‘Deontic’ can but does not have to have scope over the
+whole clause chain. In (22), both readings are possible:
+(22)a.
+heayam
+goodb.bib
+placelobi-Ø-e=a
+stay.IPFV-SIM-3SG.M.SBJ=MEDDEM.PROX.N248212. Operator scope in clause chaining constructionshâa’-biaan-e=ta
+roam-AUX.IPFV.SS.SIM-3SG.M.SBJ=MED
+c.ya-têm’-aam-e=bakesoa
+because
+‘Because he wasn’t well and he couldn’t walk around this
+place and see them, …’
+OR ‘(Given his affliction, i.e. a severed child’s foot stuck in
+his gullet) because he couldn’t be well, walk around and see
+them, …’ [Crows]
+PL.AN.O-see.PFV-DEONT-3SG.M.SBJ=NEGOn the full scope of the negative clitic =ba, see 12.2.
+To sum up the discussion on mood category scope, irrealis marking with
+-(a)mab/-omab and deontic marking with -(V)m differ from ‘full-scope’operators like tense and all operators indicating illocutionary force or polarity
+in that they can also be interpreted locally. Realis marking with -n ~ -Ø always
+have scope over the whole chain because medial verbs cannot be inflected for
+irrealis or deontic mood.","[507, 508]"
+"Yet, despite the considerable degree of similarity between medial and final
+verbs, there are principled differences between the two. Medial verbs can
+neither be marked for irrealis or deontic mood nor for negative polarity. Nor
+can they be inflected for hortative mood. Furthermore, medial and final verbs
+do not co-occur with the same set of clitics. While the latter co-occur with
+clitics indicative of illocutionary force, such as =be ‘Declarative’ and =e
+‘(Content) question’, the former usually only co-occur with the medial verb
+marker =a. This marker is presumably derived from the co-ordinator =a ‘and’
+which is used to coordinate noun phrases, e.g. tn=a unáng=a=i
+[child=and woman=and=PL.AN] ‘(the) children and women’, and which in
+turn is a shortened form of eka ‘and’.
+As noted above, morphological markers indicating co- or disjoint subject
+reference are a common feature of medial verbs in clause chaining
+constructions. Medial verbs carry a marker (which may be zero), whose main
+function is to indicate whether the subject of the verb in the following clause
+has the same subject or a different one, but which also incorporates other
+meanings, mainly temporal and aspectual ones, such as sequentiality (SEQ)
+and simultaneity (SIM) of events described by the two consecutive clauses
+(Stirling 1993, Roberts 1997). The following sections deal with S/R
+morphology of medial verbs in Mian.",[450]
+"10.2. Content questions391The interrogative words fàb and wan neither encode number nor gender.
+Emphatic pronouns, which can be compounded with both fàb and wan, have
+to encode number and in the third person singular also gender. Mian
+interrogative words do not overlap with relative pronouns and they are
+semantically unambiguous, i.e. they do not have alternative interpretations as
+indefinites, as interrogatives do for example in Japanese (Nichigauchi 1990)
+or in the Australian languages Kayardild (Evans 1995: 365) and Kuuk
+Thaayorre (Gaby 2006: 243-244). Both fàb and wan can be used pronominally
+and adnominally.
+Content questions in Mian usually have declarative (i.e. falling) intonation,
+but can be intonationally marked by a quick rise and subsequent fall of pitch
+on the last syllable of the utterance, whose nucleus is invariably formed by the
+illocutionary particle. This intonational pattern is very similar to the one found
+in polar questions.
+The interrogative clitic =e can be combined with hortative verb forms in
+order to indicate that the speaker assumes that the addressee wants this action
+to be performed by the speaker (or by a group to which both speaker and
+addressee belong), e.g.:
+(20)fàb
+o-fâ-n-an=e?
+where
+3SG.RESID.O-put.PFV-REAL-1SG.SBJ.HORT =CQ
+‘Where shall I put it?’ [Observed]Interrogative phrases, which contain the interrogative words fàb and wan,
+always appear in situ, i.e. they occur in the same position as non-interrogative
+phrases with the same grammatical function (Li and Thompson 1984: 51,
+Dryer 2005).
+As in polar and alternative questions, constituent order is not changed with
+respect to the corresponding declarative sentence and the interrogative phrase
+occupies the position which the queried constituent would have in an
+appropriate answer sentence.
+There are a few cases where the interrogative phrase seems to be not in situ
+but rather to be postposed after the verb. I will turn to this issue in more detail
+below.","[416, 417]"
+"Typological profileMian has a relatively small segmental phoneme inventory though of fairly
+typical shape and size by Papuan standards. An unusual feature of the
+segmental inventory is the presence of a contrast between a plain /a/ (spelled
+<a>) and a pharyngealized /a/ (spelled <aa>). The tonal phonology is
+complex. Mian is a word tone language, i.e. the domain for the assignment of1.3. Typological profile7one of five tonal melodies (H, L, LH, LHL, and HL) is the phonological word,
+not the syllable. Lexemes are specified for one tonal melody and an accent
+which serves as the anchor point for the melody. Tonal melodies spread over
+the entire phonological word including all affixes and most clitics. Verbal and
+nominal compounds are treated as a single word phonologically, i.e. they have
+one tonal melody (i.e. a composite of both stem tones) and one accent. The
+tonal inventory of compounds is a proper subset of the tonal melodies found
+on monomorphemic words. While the function of tone is mainly to make
+lexical distinctions, there is one tense (the non-hodiernal past) which is
+marked tonally for some verbs in addition to a suffix.
+There is hardly any nominal inflectional morphology. The only inflectional
+noun suffix is -wal, which signals plural and only attaches to a subset of the
+noun vocabulary to boot, namely kin nouns, dyads, and proper names, where it
+indicates an associative plural. If a noun is used referentially, it is followed by
+a cliticized article which is etymologically related to the third person free
+pronouns. There is a tendency to use inanimate nouns without this marker,
+even if they are used referentially. There are several derivational noun
+suffixes which derive adverbs from nouns and express meanings like
+instrumental, e.g. sbun-dum ‘with a spoon’. Furthermore, there is a
+derivational suffix -an, which attaches to either nouns or adjectives to form
+verbs. The meaning is inchoative, e.g. ayam ‘good’ and ayam-an- ‘become
+good’. These derived forms are further inflected as intransitive verbs.
+Mian has four genders: Masculine, feminine, neuter 1 and neuter 2 which
+are defined by sets of agreement markers. Agreement targets are the
+adnominally used pronouns, the article and demonstratives, and the
+pronominal affixes on the verb.
+The structure of the noun phrase is relatively simple and constituent order
+within the noun phrase is fixed. The leftmost position is the possessor slot. It
+can be filled by a possessive pronoun or a noun phrase expressing the
+possessor. Most adjectival modifiers and quantifiers follow the noun. The
+adjectives sin ‘old’ and memâ ‘new’ tend to precede the noun but they can
+also follow it. The rightmost position in the noun phrase is reserved for a
+determiner, e.g. a clitic pronominal article or an adnominally used emphatic
+pronoun. The clitic article can be distributed throughout the noun phrase and
+show up on the head noun, all adjectival modifiers, and on numerals. Mian has
+prenominal and head-internal relative clauses. The former are unmarked
+clauses embedded in the noun phrase before the head noun, the latter are
+essentially clausal noun phrases and end with a determiner, such as an article.
+Mian only has postpositions many of which have a noun origin.
+About half of the Mian verbs show an aspectual stem distinction with
+formally distinct perfective and imperfective stems. This is a typical feature of
+the Ok languages and also found in Telefol and Tifal. Outside of Ok, aspect81. The language and its speakersdistinctions in the stem can be found in the Papuan languages Marind and
+Kiwai (Foley 1986: 146-148), in Korafe (Farr 1999: 22-23) and in Abui
+(Kratochvíl 2007: 82-86). Some verb stems (approximately 50) are defective
+and lack either the perfective or the imperfective stem. The rest of the verb
+stems are trans-aspectual and do not have a formal perfective-imperfective
+distinction.
+Verbal morphology is complex. Mian is mainly a nominative-accusative
+language though in a limited number of cases argument marking proceeds on
+an absolutive basis, mainly – but not exclusively – with classificatory prefixes,
+which index transitive objects and intransitive subjects. Alignment in
+ditransitives is indirective.
+Mian is basically head-marking at the clause level and mildly
+polysynthetic. Core arguments are subject (S) in intransitive clauses, subject
+(A) and object (O) in monotransitive clauses, and subject (A), object (O) and
+recipient (R) in ditransitive clauses. There is no morphological case- or
+adpositional marking for these. Core arguments are cross-referenced on the
+verb by cross-referencing affixes. These index all subjects and recipients. The
+language is not fully head-marking at the clause level because many transitive
+verbs do not index their object. Object prefixation is only found in a small
+number of transitive verbs, including ‘see’, ‘kill’, ‘grab’, and ‘bite’.
+In the perfective, recipient arguments are introduced through a compound
+construction with -(û)b’- ‘give’, or allomorphs thereof. In contemporary Mian,
+-(û)b’- ‘give’ and its allomorphs serve a quasi-applicative function. In the
+imperfective, recipient suffixes immediately follow the verb stem. The notion
+of ‘recipient’ is semantically relatively general and includes benefactives and
+malefactives, possessors, goals of ballistic motion, and experiencers.
+In addition to the argument affixes, which work on a nominativeaccusative basis, Mian has a set of classificatory verb prefixes which are
+obligatory for some verbs, most of which involve the handling or
+manipulation of objects, including predications such as ‘take’, ‘throw’, ‘give’,
+and ‘fall’. The classificatory prefixes classify a verbal argument according to
+semantic criteria, such as biological sex but also shape and function on an
+absolutive basis, i.e. classification extends to the subject of intransitive verbs
+and the object of transitive verbs. These prefixes are in many ways
+reminiscent of classificatory verbal elements in various North-American
+languages, e.g. Navajo and Diegueño.
+Inflectional tense, aspect, and mood marking is moderately complex. The
+verb has two slots for TAM suffixes which are on either side of the subject
+suffix slot. The pre-subject slot is filled by various tense, aspect, and mood
+markers. The post-subject slot can only be filled by tense markers (which are
+formally and semantically distinct from those in the pre-subject slot). There1.3. Typological profile9are some co-occurrence restrictions pertaining to the suffixes in these two
+slots.
+Verbs are inflected directly for some TAM categories, but for others the
+verb must be serialized with an auxiliary before the respective TAM suffixes
+can attach.
+Mian makes pervasive use of chaining constructions. Verbs can be
+serialized at the core or the nuclear level of the clause. Serialized verbs share
+the same subject which is marked on the last verb in the construction. An
+exception is the causative serial verb construction, in which subject marking
+indexes the causer on the first verb of the serialization and the causee on the
+second verb. The predications expressed by a core serial verb constructions
+are of relatively low semantic integration and serialized transitive verbs
+commonly have their own overt object noun phrases. Serializations on the
+nuclear level of the clause are possible. They are tighter-knit than core
+serializations and do not allow separate objects.
+Clause chaining is very common in Mian. Verbs can be medial and
+function as the predicate of a medial clause or final and function as the
+predicate of an independent sentence or the last clause in a clause chain.
+Medial verbs show switch-reference morphology indicating whether the
+subject of the succeeding clause is co-referent or disjoint in reference, in
+addition to marking events as sequential or simultaneous. In languages that
+use clause chaining, medial verbs are often morphologically impoverished.
+Mian medial verbs, however, only have the morphological restriction that they
+cannot be marked for polarity, irrealis or deontic mood or be followed by one
+of the sentence-final illocutionary clitics. The Mian switch-reference system
+has a typologically unusual property in that ‘same subject’ marking by -n only
+forces the following subject to be co-referent in the first person singular. In all
+other person-number combinations the switch-reference meaning of -n is
+suspended and the suffix only indicates sequentiality of events.
+Adverbial clauses with temporal, locative or conditional meaning – like
+head-internal relative clauses – are clausal noun phrases and function as
+referring expressions in Mian. They are followed by the default neuter article
+=o. Other embedded structures found in the language are embedded questions
+and quotatives.
+Unmarked constituent orders in medial and final clauses and independent
+sentences are SV and AOV. Due to the head-marking characteristics of the
+language, constituent order is relatively flexible with the mandatory restriction
+that the verb be clause-final. The verb can only be followed by =ba, signalling
+negative polarity, and/or an illocutionary clitic particle, which marks
+independent sentences or whole clause chains as declarative, exclamative,
+interrogative, quotative, or hortative. Post-verbal locative adverbials following
+motion verbs are possible but rare and always constitute their own intonational101. The language and its speakersunit. Under no circumstances can the verb be followed by an overt core noun
+phrase argument.","[32, 33, 34, 35, 36]"
+"IndexAbui, 243
+accent, 7, 19, 37, 48-49, 50, 59, 74
+off-stem, 49, 50, 77-79, 80-81,
+84
+stem, 49, 50, 75-77
+adjective, 114-120
+as a secondary predicate, 117118
+as modifier, 114, 208-210
+colour, 119-120, 208
+headless adjective, 119
+position in noun phrase, 7, 208
+reduplication of, 118
+used adverbially, 116-117, 367
+vs. noun, 118
+vs. prenominal modifer, 121
+adjunct
+adverbial, 233, 235, 337-338,
+368-369
+noun, 327, 369
+adnominal use
+of pronouns, 124, 203, 207-208
+use of interrogative words, 393,
+400-401
+adverb, 121-124
+as intensifier, 122-123, 213
+constituent order, 367-368
+vs. adjective, 123
+vs. ideophone, 153
+vs. verb, 123
+adverbial clause, 7, 370-371, 491499
+temporal, 494-495, 496
+causal, 493-494
+conditional, 496
+locative, 496
+agent, 163agreement, 86, 111, 169-170, 177,
+178-179, 261-262, 500
+triple, 269
+Alamblak, 172
+alignment
+accusative, 8, 164, 265-267,
+341-342
+indirective, 8, 165, 269-271,
+342-344
+absolutive, 8, 103, 165, 185,
+267-269, 338, 340-341
+ambisyllabicity, 23-24, 41
+Amele, 220, 380
+animacy, 95, 109, 124, 127, 129,
+130, 134, 139, 171-172, 177, 188,
+189, 190, 195, 225, 269, 272, 346,
+358, 365, 376, 390, 398
+apposition, 205, 224, 228-229
+apodosis, 492-493
+apophony, 250, 268
+argument elision, 260-261, 345
+argument marking, 105, 260-282
+argument structure, 331-332
+article, 7, 38, 109-114, 219, 223,
+495, 504
+distributed, 7, 112, 204, 228
+(is a) clitic, 112
+collective, 95, 96, 113-114
+gender, 110, 170-171
+number, 86
+referentiality, 110-111
+vs. free pronoun, 109, 112-113
+aspect, 482-484
+habitual, 246, 287-288, 292,
+305-306, 483-484
+imperfective, 7, 107, 245-258,
+277-278, 304-305, 312-313,
+315, 316, 318-320, 381, 433-598Index437, 482-483, 492
+perfective, 7, 107, 245-258,
+273, 306-307, 311-312, 315,
+318, 381, 437
+stem distinction, 7-8, 103, 107,
+245-258
+suffix, 283-284
+associative plural, 95
+auxiliary, 9, 103, 303-310, 377,
+411, 416-418, 433-437
+benefactive, 165, 279-280
+body part, 88, 89, 357, 360
+body tally system, 147-148
+Bininj Gun-wok, 80
+careful speech, 26, 113, 128, 334
+causative, 381-383, 418-419
+classificatory prefix, 8, 45, 103,
+185-201, 267-268, 340-341
+allomorphs, 186
+bundle, 192-193
+covering, 193
+F-class, 190-191, 193, 200
+in intransitives, 338
+long, 45, 192
+M-class, 45, 189-190
+reclassification, 197-201
+residue, 193-194
+clause
+adverbial, 7, 370-371, 491-499
+chaining, 9, 421
+medial, 9, 362, 421-424, 467469, 471, 509-510
+non-verbal, 132, 133, 371-375,
+469-470
+final, 362, 471, 509-510
+marked, 421
+reference, 421
+relative, 500-514
+colour word, 119-120, 208
+comparison, 92, 119, 232
+compound, 7
+additive co-compound, 91, 226noun, 7, 33, 87-91, 219
+verb, 7, 105-108, 414-416
+conditional, 492-493, 496
+apodosis, 492-493
+counterfactual, 493
+protasis, 492-493
+conjugation classes, 258-260
+conjunction, 149-152
+coordinating, 149, 150
+consonant
+allophones, 20-24
+cluster, 42-43
+inventory, 19
+minimal pairs, 24-25
+phonotactics, 40-43
+continuous, 246
+constituent order, 9, 362-371
+basic, 331, 362-363
+marked, 363-364
+coordination, 149-152, 225-228
+co-subordination, 405
+counterfactual, 493
+counting, 145-146, 147
+coverb, 324, 325
+creaky voice, 37
+Dani, 423
+data/corpus, 12
+declarative, 9, 157, 472
+demonstrative, 86, 136-138
+adnominal, 136, 137, 138
+consitutent order, 214
+distal, 137-138, 508
+proximal, 136-137, 508
+deontic, 45-46, 263, 295, 310, 481482
+derivation adjective-to-noun, 7, 93
+adjective-to-verb, 7, 339
+noun-to adjective, 93, 108
+noun-to-adverb, 7, 92-93, 397-398
+noun-to-verb, 7, 91-92, 108,
+339
+determiner, 7, 86, 116, 169, 205-Index207, 212, 214, 221, 234, 238,
+337, 369, 485
+slot in the noun phrase, 203
+different subject, 9, 102, 379, 422,
+425, 427-428, 429-430, 431432, 438
+Diegueño, 8, 189, 513
+diphthong, 20, 28, 30
+directional, 140-142
+and the topographic
+environment, 140-141
+as an adverb, 141-142, 333-334
+as an intransitive verb, 104,
+336-337
+as a postposition, 141, 236-238
+demonstrative directional, 142143
+in a serial verb construction,
+411-412
+dyad, 95-99, 372
+constituent order, 223-225
+inclusory, 224-225
+metaphorical extension, 99
+vs. common nouns, 96
+Dyirbal, 394
+Enga (proto-), 271
+English, 3, 85, 101, 132, 149, 177,
+292, 359, 385, 392, 500
+ethnonym, 1-2
+examples conventions, 16-18
+exclamative, 9, 157, 473
+experiencer, 163, 165, 282
+exclusive, 124
+expletive subject, 163
+fast speech, 28, 42, 44, 394
+Fasu, 422
+fieldwork, 11
+focus, 231-232
+contrastive, 231
+Fore, 423
+function verb, 101, 109, 154-155,
+156, 320-321, 323-326, 328599future, 292, 294
+gender, 7, 86, 110, 111, 169-189,
+442
+and prefix classes overlap, 188
+assignment, 171-173
+body part, 174
+conventionalized, 171
+cross-classification, 176-177
+definition, 170
+feminine, 171, 173, 190, 193
+masculine, 171, 173, 189, 317,
+379, 380
+neuter (neuter 1), 171, 174-175,
+192, 200
+neuter (neuter 2), 99, 101, 171,
+175-176, 317
+of loan words, 177-178
+vs. classificatory prefixes, 195196
+general past, 296-297, 298, 304,
+448-450, 450-453, 477-478,
+493
+geographic location, 3
+‘give‘ compound, 8, 80-81, 273277, 349-350, 352, 353-354,
+357, 415-416
+goal, 281
+of ballistic motion, 281
+Gokana, 442
+grammatical relations, 163-167
+habitual, 246, 287-288, 292, 305306, 483-484
+head-marking, 8
+hesitation, 162
+hesternal past, 297-298, 304, 448,
+453-456, 477-478
+heterosyllabicity
+consonants, 43
+vowels, 43
+hortative, 9, 311-314, 391, 395,
+473, 486
+Hua, 423600Indexideophone, 109, 153-156
+constituent order, 153
+illocutionary force, 9, 157-158,
+371, 472-475
+declarative, 9, 157, 472
+exclamative, 9, 157, 473
+hortative, 9, 157, 311, 473, 486
+interrogative, 9, 157, 385, 389,
+390
+quotative, 9, 157-158, 473, 486
+Imonda, 189
+imperative, 315
+imperfective, 7, 107, 245-258,
+277-278, 304-305, 312-313,
+315, 316, 318-320, 381, 433437, 482-483, 492
+suffix, 287-288, 446
+inchoative, 288-290, 431, 483
+inclusive, 124, 125
+Informants, 11
+instrument, 92, 233, 392
+interjection, 162-163
+interrogative word, 390-392, 398402
+interrogative phrase, 391
+interrogative pro-verb, 394
+intonation break (pause), 124, 229
+interrogative, 386
+irrealis, 79-80, 264, 292-294, 308309, 480-481, 492-493
+iterative, 252-253, 287, 321-323
+Japanese, 391
+Kaingáng, 442
+Kairi, 47
+Kalam, 422, 423
+Kapauku (Ekagi), 423
+Kayardild, 220, 391, 394
+Kewa, 47, 270, 273
+kinship term, 94-95, 372
+Kiwai, 8
+Kobon, 423
+Korafe, 243, 315, 457Kuot, 394
+Kuuk Thaayorre, 391
+Kuman, 47
+Lenakel, 80
+loan words, 21, 48, 85, 101, 146
+language name, 1-2
+malefactive, 165, 279-280
+malefactive source, 280
+Manambu, 181
+Marind, 8
+Menya, 273
+Mian
+affiliation, 4-5
+and other Ok languages, 3, 4-6
+as an endangered language, 3
+dialects, 3
+ethnographic notes, 13-16
+kinship term, 94-95, 372
+speakers, 3
+topographic notes, 3, 12-13
+typological profile, 6-10
+mood, 283, 479-482
+deontic, 45-46, 263, 295, 310,
+481-482
+irrealis, 79-80, 264, 292-294,
+308-309, 480-481, 492-493
+realis, 263, 290-291, 304, 446,
+448-450, 477, 479-480, 492
+Navajo, 8, 189
+near past, 284
+negation, 9, 111, 157, 158-160,
+302-303, 326, 486
+in clause chains, 475-476
+in medial clauses, 476
+in serial verb constructions, 405
+non-verbal clauses, 374-375
+neuter (neuter 1), 171, 174-175,
+192, 200
+neuter (neuter 2), 99, 101, 171,
+175-176, 318
+Ninggerum, 5, 125
+non-hodiernal past, 7, 82, 270,Index284-286, 297, 305, 477
+non-verbal clause, 132, 133, 371375, 469-470
+noun, 85-101, 205, 240
+classes of, 86
+count noun, 173
+in complex postpositions, 240242
+kinship term, 94-95
+mass noun, 175
+taxonomic term, 220-223
+temporal noun, 99, 369-370
+verbal noun, 100, 104
+phrase, 7, 203-232, 495, 504
+noun phrase modifier, 161-162
+noun phrase temporal, 99-100
+numeral, 144-147, 211-212
+consituent order, 212
+phrasal, 145-146, 212
+number, 86, 110, 111, 442
+object, 8, 9, 125-126, 133, 164167, 204, 376, 396, 399-400
+classificatory prefix, 8, 45, 103,
+185-201, 268, 340-341
+constituent order, 9
+grammatical relation of, 164167
+prefix, 164-166, 265-267, 341342
+relativization of, 165-166
+suffix, 269-271, 342-344
+Ok, 13
+languages, 2, 4-6, 86, 179
+Lowland, 4-5, 124
+Mountain, 4-5, 124, 129, 147
+Western, 5
+Oksapmin, 1, 20
+older speakers, 21, 26, 113, 265
+operator scope, 406, 471-484
+synopsis, 484
+orthography, 17-18, 20, 28, 83-84
+Paamese, 394, 414601Papuan, 85, 243, 269, 291, 394,
+421, 423, 440, 446, 457, 466,
+485, 505
+past, see tense
+patient, 164, 165
+perfective, 7, 107, 245-258, 273,
+306-307, 311-312, 315, 318,
+381, 437
+performatives, 291
+pharyngealization, 6, 19, 21, 29,
+35-37, 59, 70
+polarity (gender), 181-183
+polarity, see negation
+possession
+attributive, 216-220
+predicative, 374
+recursive nesting of, 218
+possessor, 165, 219, 237-238, 280
+pronoun, 7, 97, 98, 126-128,
+216, 237-238
+slot in the noun phrase, 7, 97,
+98
+raising, 357-359
+question about the, 399
+postposition, 143-144, 233-242
+complex, 239-240
+nominal, 236-238, 239, 398,
+497
+simple, 234-236
+post-verbal constituent, 9, 456-457
+prefix
+pronominal, 107
+classificatory, 107
+gapping, 106-107, 275, 414
+prenasalized stops, 20, 128
+prenominal modifiers, 121
+vs. adjectives, 121
+pro-drop, 126
+prohibitive, 311-312
+pronominal affixes, 260-262
+pronoun, 124-139
+adnominal, 124, 203, 207-208602Index‘alone’ series, 126, 128, 129,
+132, 134
+bound, 46, 128-130
+demonstrative 136-138
+emphatic, 7, 130-131, 372, 390,
+391, 398, 508
+free personal, 109, 124-126
+(absence of) indefinites, 139
+negative, 133-134
+possessive, 97, 98, 126-128,
+216, 237-238
+possessive pronoun with
+nominal function, 132-133,
+374, 487-488
+reflexive, 134-135, 204-205,
+360
+resumptive, 498, 507-508
+synopsis of all pronoun series,
+138-139
+proper name, 87, 88, 94-95, 97, 98,
+372
+spelling, 18
+protasis, 492-493
+purpose, 395-396
+quantifier, 144-148
+constituent order, 212-213
+question, 40, 160, 385-403
+alternative, 389-390
+content, 390-402
+embedded, 491
+non-verbal, 388
+polar, 160, 385-390
+topic-only, 402-403
+quotative, 9, 157-158, 473, 486490
+realis, 263, 290-291, 304, 446,
+448-450, 477, 479-480, 492
+recipient, 8, 165, 269-271, 271272, 273, 275, 278, 400
+reciprocal, 375-381
+reduplication, 23, 82, 86, 98, 153,
+211referentiality, 87, 109, 110, 111,
+220-221
+referential overlap, 457-461
+relative clause, 215-216, 500-514
+constituent order, 511-514
+head-internal, 7, 504-514
+headless head-internal, 506-507
+prenominal, 7, 500-504
+relativization of
+location, 503
+object, 502, 505
+subject, 500, 505
+remote past, 286-287, 306, 446,
+477
+reported speech, 489-490
+same subject, 9, 102, 421, 425,
+426, 432, 438
+scope of operator, 406, 471-484
+secondary predicate, 117-118
+sequentiality, 9, 102, 379, 425,
+426, 429-430, 431-432
+Serbo-Croat, 182
+serial verb construction (SVC)
+and stem aspect, 412
+causative, 9, 418-419
+core-layer, 9, 406-412
+nuclear-layer, 9, 412-414
+object sharing, 406, 408-411
+purposive, 395-396
+tone in SVCs, 79
+vs. V-V compounds, 414-416
+Sikaritai, 47
+simultaneity, 9, 102, 425, 427-428,
+432
+Skou, 47
+Somali, 181
+status, see mood
+stress patterns (absence of
+consistent), 83
+subject, 8, 9, 125-126, 133, 204,
+376, 396, 399, 421-422, 438,
+486Indexconstituent order, 9
+different subject, 102
+expletive, 163
+in hortatives, 311
+same subject, 102
+suffix, 39, 43, 44, 82, 163, 262265
+subordinator, 149-152
+suppletion, 251
+switch reference, 9, 421-422, 423424, 438-439, 445, 474, 485486, 509-510
+and referential overlap, 457461
+syllable, 28, 40-41, 50
+syllable polysyllabic shortening,
+32-33
+syncretism, 181
+tail-head linkage, 422, 466-467
+Tairora, 274
+TAM, 8-9, 159, 243, 278, 445-446
+distributional restrictions, 284
+post-suffix slot, 8-9, 295-296,
+pre-subject slot, 8-9, 283-284
+taxon, 220-223
+Telefol, 3, 4, 5, 6, 31, 147, 169,
+179, 219
+temporal expression, 99, 123-124,
+242
+adverb, 136
+constituent order, 369-370
+expression noun, 99-100
+tense, 283, 476-479
+general past, 296-297, 298,
+304, 448-450, 450-453, 477478, 493
+hesternal past, 297-298, 304,
+448, 453-456, 477-478
+near past, 284
+non-hodiernal past, 7, 82, 270,
+284-286, 297, 305, 477603remote past, 286-287, 306, 446,
+477
+theme, 165, 269, 400
+Tifal, 169
+Tok Pisin, 3, 11, 22, 40, 48, 85,
+101, 109, 146, 177, 209, 221,
+222, 291, 325, 397
+loan words, 21, 48, 85, 101,
+146
+tone, 6, 46-83
+across word boundaries, 70-71
+association in disyllables, 55
+association in monosyllables,
+51
+association in trisyllables, 60
+composite (in compounds), 7,
+70, 87
+contour, 50, 71
+deletion, 38, 71
+grammatical, 82
+in N-N compounds, 68-70
+melody, 19, 48, 50
+minimal pairs, 49
+spreading, 50, 76, 137
+word tone, 46-47, 62
+tone-bearing unit, 50
+topic, 160, 163, 229, 371, 402
+adverbial clause, 496
+medial clause, 465-466
+noun phrase, 160, 229-230
+Trans New Guinea, 2, 125, 179,
+266, 271, 274,
+Usan, 422, 423, 457
+verb, 101-109
+ambitransitive, 345, 346-348,
+381-382
+auxiliary 9, 103, 303-310, 377,
+411, 416-418, 433-437
+citation form, 317
+constituent order, 9
+defective, 103, 107, 255-258604Indexditransitive, 351-353, 353-357,
+400
+existential, 38, 152, 155, 246,
+299-302, 302-303, 303-310,
+321, 432-433
+final, 9, 102, 422-424, 471,
+486, 501
+finite, 104
+impersonal, 359
+intransitive, 108, 332-340
+medial, 9, 102, 158, 422-424,
+448, 467-469, 471
+non-finite, 104, 315-321
+notation conventions, 105
+transitive, 340-346, 348-351
+verbal noun, 100, 104, 206-207,
+316-321
+vocative, 95vowel
+allophones, 28-30
+clusters, 42, 43-44
+harmony, 44-46
+inventory, 28
+length, 31-35, 84
+minimal pairs, 30-31
+Warembori, 60
+Waris, 188-189
+West Greenlandic, 394
+word
+phonological, 46
+word class
+closed, 85
+open, 85
+Yimas, 503-504
+younger speakers, 26, 146, 397
+Yup’ik, 442","[622, 623, 624, 625, 626, 627, 628, 629, 630]"
+"9.12. Reciprocal constructions375(135) yeye
+y
+yi=ba=bo
+DEM.DIST.N2
+wound=NEG=QUOT
+no
+‘ “No, that is not a wound.” ’ [Pig story]
+(136) n
+monî=o
+s m=ba=be
+money=N2 big=NEG=DECL
+1SG.POSS
+‘I don’t have much money.’ (lit. ‘My money isn’t big’)
+(137) táang
+flintle
+DEM.PROX.SG.N1kbmi=ba=be
+yours.SG.M=NEG=DECL— nmi=be
+— mine=DECL
+‘This lighter is not yours. — It is mine.’
+Pronouns as predicate terms in negated non-verbal predications first have to
+be affixed by -kob followed by =ba. The negative suffix -kob attached to the
+bound pronoun series (see 3.7.6) and can only be found in non-verbal clauses:
+(138) kb-ta
+2SG.M-EMPHal=o
+faeces=PL.N1ge-s-e
+say.PFV-DS.SEQ-3SG.M.SBJ
+yeye
+nofaa-Ø-ebo=ba
+excrete.PFV-REAL-2SG.SBJ=EMPH
+eka
+andmak=e
+other=SG.Mn-kob=ba=bo
+1SG-NEG=NEG=QUOTge-s-e
+monsa-n-ib=to
+go_on-SEQ-2/3PL.AN.SBJ=MED
+say.PFV-DS.SEQ-3.SG.M.SBJ
+‘“You shat!”, he said and the other said “No, not I!”, and so they went
+on like that, and then …’ [Danenok]9.12.","[400, 401]"
+"PolaritySyncretism of forms across features is called ‘polarity’. In the Mian case, we
+are dealing with (partial) gender polarity, i.e. for (countable) inanimates a
+change in number means a change to an agreement pattern associated with a
+different gender, e.g. imen ‘taro’ in the plural shows the same agreement
+patterns as singular feminine nouns. The term ‘polarity’ refers to situations in
+which in a “given system of two terms (grammatical features) and two
+exponents, values and exponents can be inverted.” (Lecarme 2002: 110).
+For a (two-class) gender system this means that any given noun has a
+certain gender in the singular with concomitant agreement patterning whereas
+in the plural the same noun is used with the agreement patterns of the other
+gender (as used in the singular). Polarity systems have been reported for
+Cushitic languages, e.g. Somali (Serzisko 1982, Saeed 1999). The agreement
+pattern of the definite article in Somali are set out in table 4.7 (from Saeed
+1999: 112).
+Table 4.7. Definite article in Somali
+Masculine
+FeminineSingular
+-ka
+-taPlural
+-ta
+-ka1824. GenderIn the Somali polarity system, there are two categories, gender and number,
+and two markers, -ka and -ta. Changing the value of one of the categories
+causes the marker to change, whereas the marker remains the same if both
+values are changed (Corbett 1991: 196). Such systems of full or genuine
+polarity are comparatively scarce.
+Systems of ‘partial polarity’ are less rare and can, for example, be found in
+Serbo-Croat. Table 4.8 illustrates agreement patterns of the predicate
+agreement marker (Corbett 1991: 197).
+Table 4.8. Serbo-Croat predicate agreement markers
+Singular
+Masculine
+Ø
+Feminine
+a
+Neuter
+oPlural
+i
+e
+aFeminine and neuter are in a relation of partial polarity in Serbo-Croat because
+the feminine singular form is identical to the neuter plural form (meaning that
+agreement is marked following the pattern for the feminine singular), whereas
+the neuter singular and feminine plural forms are not identical. This situation
+is similar to what we find in Mian.
+The important point is that the four-gender and the two-gender analysis for
+Mian make profoundly different assumptions about what polarity actually is.
+For the four-gender analysis, polarity is a descriptive term for a situation in
+which a noun in the plural follows the agreement pattern associated with
+another gender in the singular without assuming that the gender of the noun
+actually changes with a change in number, thus creating a special form of
+syncretism which cross-cuts features. Corbett (1991: 196) uses the term in this
+sense. For Mian, this means that we analyse four genders and state that
+feminine and neuter 1 are in a relation of partial polarity with each other (table
+4.9).
+Table 4.9. Agreement patterns on the article
+Gender
+Agreement patterns
+Singular
+Plural
+Masculine
+=e
+=i
+Feminine
+=o
+Neuter 1
+=e
+=o
+Neuter 2
+=oExample
+naka ‘man’
+unáng ‘woman’
+imen ‘taro’
+am ‘house’In Mian, as in Serbo-Croat, polarity is only partial because the feminine
+singular form is identical to the neuter 1 plural form, while the neuter 1
+singular form is not identical to the feminine plural form.","[207, 208]"
+"Negation in non-verbal clausesNon-verbal clauses are negated like clauses with a finite verb with the
+negation clitic =ba. This attaches directly to the predicate term. Unlike verbal
+predications, the negation clitic =mo, which attaches to the constituent
+immediately before the predicate, cannot be used in negated non-verbal
+clauses.
+The following examples show negation of non-verbal predications
+expressing identity (135), a property (136), and possession (137).",[400]
+"389Polar questions with bleka ‘or’ at the end of the sentenceAnother way of forming a polar question is using bleka ‘or’ at the end of the
+sentence. In that case, there is no illocutionary clitic. This is illustrated for a
+non-verbal predication in (14), and a sentence whose predicate is a finite verb,
+in which case the interrogative clitic m is commonly used (15):
+(14)(15)yi=e
+yi
+bleka?
+wound or
+wound=SG.N1
+‘A wound, is it a wound?’ (lit. ‘A wound, a wound, or?’) [Pig story]
+m
+Qwentê-b-eb=ta
+hear.IPFV-DS.SIM-2SG.SBJ=MEDo-b-i
+say.IPFV-IPFV-1SG.SBJbleka?
+or
+‘Do you understand what I’m saying?’
+(Lit: ‘Are you hearing as I’m saying, or?’) [Mianmin and Telefomin]
+Questions with bleka ‘or’ at the end are not leading but rather neutral polar
+questions that introduce the (implied) negation of the proposition as a second
+alternative, which is equally probable. Thus, the alternatives offered in (14)
+are that the referent either is a wound or is not a wound. This is a type of polar
+question because the appropriate responses are ‘yes’ or ‘no’.",[415]
+"IntroductionGrammatically marked categories such as tense, mood, polarity, illocutionary
+force and the like, called operators by Foley and Van Valin (1984) and Foley
+and Olsen (1985), differ in the scope they have in clause chaining structures.
+The final verb is usually marked for such categories whereas the medial verbs
+in the same clause chain depend on some of this information. While medial
+verbs encode sequentiality or simultaneity of events and switches in subject
+reference, they rely on final verbs for information on temporal location, mood,
+and illocutionary force of the events denoted by the medial verbs. This is
+typical for co-subordinated structures, such as clause chains (Reesink 1983,
+Foley and Van Valin 1984).
+In this chapter, all operators that occur in final verbs in clause chaining
+constructions and the scope they have over the clause chain will be examined
+in some detail. The operators are ordered according to categories:
+Illocutionary forcePolarity
+Tense1MoodAspect
+Habituality=be
+=ble
+=bo
+=a
+=e
+=o ~ =e
+=ba
+-bio
+-so
+-b(H)
+-s
+-n
+-(a)mab/-omab
+-(V)m
+-b, -l
+-m
+bina‘Declarative’
+‘Exclamative’
+‘Quotative, emphatic’
+‘Question’
+‘(Content) Question’
+‘Hortative’
+‘Negation’
+‘General past’
+‘Hesternal past’
+‘Non-hodiernal past’
+‘Remote past’
+‘Realis’
+‘Irrealis’
+‘Deontic’
+‘Imperfective’
+‘Inchoative imperfective’
+‘Habitual’47212. Operator scope in clause chaining constructionsOf these, illocutionary force, polarity, and tense always have full scope, mood
+and habituality can have full scope but do not have to, and aspect finally is a
+local phenomenon that never has scope.","[497, 498]"
+"Table of contentsAcknowledgements
+Abbreviations
+1
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+v
+xxiiiThe language and its speakers
+1.0
+Introduction
+1.1
+Mian wéng: The Mian language
+1.2
+The Ok languages
+1.2.1
+The Ok languages as a family
+1.2.2
+Previous linguistic research on the Ok languages
+1.3
+Typological profile
+1.4
+Note on the revised version
+1.5 
+Fieldwork and consultants
+1.6 
+The Miantén: The Mianmin people
+1.6.1
+Landscape and climate
+1.6.2
+Mianmin settlements
+1.6.3
+Food preparation
+1.6.4
+Political organization
+1.7 
+Notes on examples and the orthography
+1.7.1
+Examples
+1.7.2
+Orthography in the examples1
+1
+2
+4
+4
+5
+6
+10
+11
+12
+12
+13
+15
+16
+16
+16
+17Phonology
+2.0
+Introduction
+2.1 
+Consonants
+2.1.1
+Phonetic description and allophonic distribution
+of consonants
+2.1.1.1
+Stops
+2.1.1.2
+Nasals
+2.1.1.3
+Fricatives
+2.1.1.4
+The lateral glide /l/
+2.1.1.5
+Semivowels 
+2.1.2
+Minimal pairs for consonants
+2.1.3
+Regular phonological processes for consonants
+2.1.3.1
+Final devoicing
+2.1.3.2
+Aspiration and withheld release
+2.1.3.3
+Word-final free variation of [ph], [p], [f], and []
+2.1.3.4
+Intervocalic lenition of /b/ and /k/19
+19
+20
+20
+20
+21
+22
+22
+23
+24
+25
+25
+25
+26
+26x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of contents2.1.3.5
+2.1.3.6
+2.1.4
+2.2
+2.2.1
+
+2.2.2
+2.3 
+2.4 
+2.4.1
+2.4.2
+2.4.3
+2.5 
+2.5.1
+2.5.2
+2.5.3
+2.5.4
+
+2.5.5
+2.5.6
+2.5.7
+2.5.8
+2.6 
+2.6.1
+2.6.2
+2.6.3
+2.6.4
+2.7 
+2.7.1
+2.7.2
+2.7.3
+2.8 
+2.8.1
+2.8.2
+2.8.2.1
+2.8.2.2
+2.8.2.3
+2.8.2.4
+2.8.3
+2.8.3.1
+2.8.3.2
+2.8.3.3Homorganic nasal assimilation
+Optional schwa-insertion into consonant clusters
+Assimilation with following alveolar nasal /n/
+Vowels
+Phonetic description and allophonic
+distribution of vowels
+Minimal and near-minimal pairs for Mian vowels
+Vowel length
+Pharyngealization
+Contrasts involving pharyngealization
+Creaky voice accompanying pharyngealized /a/
+Pharyngealized /a/ and word accent
+Phonologically conditioned allomorphy
+The existential verb bi
+The verb -lò ‘hit, kill’
+The article =i ‘Animate plural’
+The subject suffixes -i ‘1SG.SBJ’ and -ib(o)
+‘2/3PL.AN.SBJ’ 
+The subject suffix -o ‘3SG.F.SBJ’
+-bio ‘General past’
+-so ‘Hesternal past’
+=a ‘Question’ and =e ‘(Content) Question’
+Phonotactics
+Syllable structure
+Syllable-initial consonant clusters
+Heterosyllabic consonant clusters
+Vowel clusters
+Vowel harmony
+In classificatory prefixes
+In the modal suffix /Vm/ ‘Deontic’
+In the bound pronouns of the ‘alone’-series
+Tone
+
+Introduction
+Tonal phonology of nouns and adjectives
+Tone association in monosyllables
+Tone association in disyllables
+Nominals with the accent on the first syllable
+Tone association in trisyllables
+Expanding the tonal domain
+Tone in non-verbal predications
+Cliticization of the article
+Tone in noun-noun compounds 27
+27
+28
+28
+29
+30
+31
+35
+35
+37
+37
+38
+38
+38
+38
+39
+39
+39
+40
+40
+40
+40
+42
+43
+43
+44
+45
+45
+46
+46
+47
+49
+51
+55
+59
+60
+62
+62
+66
+68Table of contents
+
+
+
+
+
+
+2.8.3.4
+2.8.4
+2.8.4.1
+2.8.4.2
+2.8.4.3
+2.8.4.4
+2.8.4.5
+2.8.4.6
+
+
+
+2.8.5
+2.8.63Word classes
+3.0
+Introduction
+3.1
+Nouns
+3.1.1
+Properties common to all nouns
+3.1.2
+Compound nouns
+3.1.3
+Additive co-compounds
+3.1.4
+Noun-to-verb derivation
+3.1.5
+Noun-to-adverb/adjective derivation
+3.1.6
+Adjective-to-noun derivation
+3.1.7
+Proper names and kin nouns
+3.1.8
+Dyads
+3.1.8.1
+dum ‘father and child’ and hat ‘mother and child’
+3.1.8.2
+mikim ‘siblings of opposite sex’ and dab ‘siblings 
+
+of same sex’
+3.1.8.3
+kam ‘(married) couple’ 
+3.1.9
+Temporal nouns and noun phrases
+3.1.10
+Verbal nouns
+3.2
+Verbs
+
+3.2.1
+Notation conventions for verbs
+3.2.2
+Verb compounds
+3.2.3
+Denominal and deadjectival verbs derived 
+with -an
+3.2.4
+Function verbs
+3.3 
+Articles
+3.3.1
+The pronominal article and referentiality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.8.7 
+2.8.8
+2.9Contour delinking across word boundaries
+Tonal phonology of the verb
+Accent and tonal melodies
+Unaccented verbs
+Stem accented verbs
+Off-stem accented verbs
+The inherently accented irrealis suffixes
+Tone of -ûb’- ‘give’ and of compounds with
+-ûb’- ‘give’
+High tone in forms of the non-hodiernal past
+High tone on the stem of the verb ge/gen ‘build, 
+roll, fasten’
+The LH melody in lexical reduplications
+Tone and syllable prominence
+Orthographyxi
+71
+72
+73
+74
+75
+77
+79
+
+80
+82
+
+82
+82
+83
+8385
+85
+85
+86
+87
+91
+91
+92
+93
+94
+95
+97
+
+98
+98
+99
+100
+101
+105
+105
+
+108
+109
+109
+109xiiTable of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3.2
+3.4 
+3.5 
+3.6 
+3.7 
+3.7.1
+3.7.2 
+3.7.3
+3.7.4 
+3.7.5
+3.7.6
+3.7.7
+3.7.8
+3.7.9
+3.7.10
+3.7.11
+3.7.12
+3.8 
+3.8.1
+3.9 
+3.10
+3.11
+3.11.1
+3.11.2
+3.11.3
+3.11.4
+3.11.5
+3.11.6
+3.12
+3.12.1
+3.12.2
+3.12.3
+3.12.4
+3.12.5
+3.13
+3.13.1
+3.13.2
+3.13.3
+3.13.4
+3.13.5
+3.13.6The collective article =o
+Adjectives
+Prenominal modifiers
+Adverbs
+Pronouns
+The free pronoun series
+Possessive pronoun series
+The bound pronoun series
+Emphatic pronouns
+The possessive pronouns with nominal function
+The negative pronoun suffix -kob
+The free ‘alone’-series
+Reflexive pronouns
+Demonstratives
+Synopsis of pronouns
+Interrogatives
+Note on indefinites
+Directionals
+Demonstrative directionals
+Postpositions
+Quantifiers
+Conjunctions and subordinators
+eka ‘and’
+bleka ‘or’
+otâne ‘but’
+kesoa ‘because, since’
+bita ‘until’
+mole ‘if’
+Ideophones
+With function verb ge/ga ‘say’
+With function verb ge/ga ‘say’ or existential 
+verb n/bl~bi
+With motion verbs
+With function verb ge/ga ‘say’ or motion verb
+With a semantically more specific verb
+Clitics and particles
+Illocutionary force clitics
+Medial verb clitics
+The negative clitic =ba
+The negative clitic =mo
+The interrogative clitic =m
+The topic clitic =le113
+114
+121
+121
+124
+124
+126
+128
+130
+132
+133
+134
+134
+136
+138
+139
+139
+140
+142
+143
+144
+149
+149
+150
+150
+151
+152
+152
+153
+154
+
+155
+156
+156
+156
+157
+157
+158
+158
+159
+160
+160Table of contentsxiii
+
+
+
+3.13.7
+3.13.8
+3.14
+3.14.1
+3.14.2
+3.14.3The noun phrase modifier =sa ‘too’
+Interjections and formulaic utterances
+Grammatical relations
+Subject
+Object
+Ditransitives161
+162
+163
+163
+164
+1674Gender
+4.0
+4.1 
+4.2 
+4.2.1
+4.2.1.1
+4.2.1.2
+4.2.2
+4.2.2.1
+4.2.2.2
+4.3 
+4.4 
+4.5 
+4.6 
+4.6.1
+4.6.2
+4.7Introduction
+Agreement on the article
+Gender assignment
+Nouns referring to animates
+Nouns of masculine gender referring to humans
+Nouns of feminine gender referring to humans
+Nouns referring to inanimates
+Nouns of neuter 1 gender 
+Nouns of neuter 2 gender
+Cross-classification
+Gender assignment of Tok Pisin loans
+Summary of the agreement patterns
+Alternative analysis of the gender system
+Two genders: Only masculine and feminine
+Polarity
+Evaluation169
+169
+169
+171
+171
+173
+173
+174
+174
+175
+176
+177
+178
+179
+179
+181
+183
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+Classificatory verb prefixes
+5.0
+Introduction
+5.1 
+Classificatory prefixes
+5.2 
+The M-class: dob-/dol-
+5.3 
+The F-class: om-/dol-
+5.4 
+The long class: tob-/tebel-
+5.5 
+The bundle class: gol-/gulel-
+5.6 
+The covering class: gam-/gemel-
+5.7 
+The residue class: ob-/ol-
+5.8 
+Verbs with obligatory classificatory prefix
+5.9 
+Gender system vs. classification by prefix
+5.1 
+Reclassification
+5.10.1 
+Plurals of inanimate nouns of neuter 1 gender
+5.10.2
+Use of feminine singular om- for broken and
+half objects185
+185
+185
+189
+190
+192
+192
+193
+193
+194
+195
+197
+200
+200xivTable of contents6The noun phrase
+6.0
+Introduction
+6.1 
+Pronouns as noun phrases
+6.2 
+Minimal noun phrases
+6.2.1 
+Bare nouns
+6.2.2 
+Articles as noun phrase determiners
+6.2.3 
+Emphatic pronouns as noun phrase determiners
+6.3 
+Modified noun phrases
+6.3.1 
+Adjectival modifiers
+6.3.2 
+mak ‘certain, (an)other’
+6.3.3
+Prenominal modifiers
+6.3.4 
+Reduplicated adjectives
+6.3.5
+Quantifiers
+6.3.6
+The intensifiers dót ‘very’, wekîb ‘very’, and 
+klâ ‘really’
+6.3.7 
+Demonstratives in the noun phrase
+6.3.8 
+Relative clauses
+6.4 
+Attributive possession
+6.5 
+Taxonomic terms
+6.6 
+Dyadic terms
+6.7 
+Noun phrase coordination
+6.8 
+Noun phrase apposition
+6.9 
+Noun phrase topicalization
+6.10
+Focused noun phrases203
+203
+204
+205
+205
+205
+207
+208
+208
+210
+210
+211
+211
+
+213
+214
+215
+216
+220
+223
+225
+228
+229
+231The postpositional phrase
+7.0
+Introduction
+7.1 
+Simple spatial postpositional phrases with a 
+directional
+7.2 
+Simple spatial postpositional phrases with a
+nominal postposition
+7.3 
+Postpositional phrases with complex postpositions
+7.4 
+Nouns in complex postpositions
+7.5
+Temporal postpositional phrases233
+233Verb morphology
+8.0
+Introduction
+8.1 
+Classification of verbs
+8.2 
+Notation conventions for verbs
+8.3 
+Perfective and imperfective verb stems243
+243
+244
+244
+245
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+8
+
+
+234
+
+236
+239
+240
+242Table of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.3.1 
+8.3.1.1
+8.3.1.2
+8.3.1.3
+8.3.2
+8.3.2.1
+8.3.2.2
+8.3.3
+8.3.4
+8.4 
+8.5 
+8.5.1 
+8.5.2
+8.5.3 
+8.5.4 
+8.5.4.1
+8.5.4.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.5.5.3
+8.5.5.4
+8.5.5.5
+8.5.5.6
+8.6
+8.6.1 
+8.6.1.1
+8.6.1.2
+8.6.1.3
+8.6.1.4
+8.6.1.5
+8.6.1.6
+8.6.1.7
+8.6.1.8
+8.6.1.9
+8.6.2 
+8.6.2.1
+8.6.2.2
+8.6.3 
+8.6.4 8.5.5 
+8.5.5.1
+8.5.5.2Biaspectual verbs: Stem alternation
+Suffixation 
+Apophony
+Suppletion 
+Irregular aspectual stem alternation
+tl~te/tle~te ‘come’ 
+un~on/unê ‘go’ 
+Trans-aspectual verbs
+Defective verbs
+Conjugation classes
+Argument marking
+Pronominal affixes
+Subject suffix
+Object prefix (accusative alignment)
+Object (or subject) prefix (absolutive alignment)
+Classificatory prefixes
+Stem apophony in perfective ‘cut and break’-
+verbs
+Object suffix (indirective alignment)
+The zero root ‘transfer’
+Compounds with -ûb’- ‘give (PFV)’ in the
+perfective
+Recipient marking in the imperfective
+Semantic spectrum of the suffixed object
+Verbs with obligatory object suffix
+Verbs which never have an object suffix
+TAM morphology of final verbs
+TAM markers (pre-subject slot)
+-nab ‘Near past’
+-b(H) ‘Non-hodiernal past’
+-s ‘Remote past’ 
+-b ‘Imperfective’
+-l ‘Imperfective’
+-m ‘Inchoative imperfective’
+-n ~ -Ø ‘Realis’ 
+-(a)mab ~ -aamab and -omab ‘Irrealis’
+-aa(m) ‘Deontic’ in C-stems
+Tense markers (post-subject slot)
+-bio ‘General past’
+-so ‘Hesternal past’
+Perfective stems serialized with na ‘do’
+A note on the verb -êb ‘take’xv
+247
+247
+250
+251
+251
+251
+253
+254
+255
+258
+260
+260
+262
+265
+267
+267
+
+268
+269
+271
+273
+277
+278
+282
+282
+282
+283
+284
+284
+286
+287
+288
+288
+290
+292
+295
+295
+296
+297
+298
+299xviTable of contents
+
+
+
+
+8.6.5 
+8.6.6
+8.6.7 
+8.6.7.1
+8.6.7.2
+8.6.7.3
+8.6.7.4Inflection of the existential verb
+Negation (with the existential verb)
+Auxiliary-serialized verbs
+Auxiliary-serialization with imperfective stems
+Habitual forms
+Auxiliary-serialization with perfective stems
+Auxiliary-serialized irrealis forms of perfective
+stems
+Auxiliary-serialized verb forms plus -Vm
+‘Deontic’
+Prohibitive
+Hortative
+Perfective hortatives
+Imperfective hortatives 
+Stem change in hortative forms
+Imperative
+Non-finite verb forms
+M-forms
+Perfective M-forms
+Imperfective M-forms
+Imperfective M-forms of N-Stems
+Verbal nouns
+Perfective verbal nouns 
+Imperfective verbal nouns 
+Imperfective verbal nouns of N-stems
+The verbal noun of basic motion verbs
+The verbal noun of the function verbs
+The verbal noun of the existential verb
+Iteratives
+Function verb constructions
+With ge/ga ‘say’
+With ke ‘do’
+Noun-verb idioms
+The ‘Immediate action’ construction299
+302
+303
+304
+305
+306Argument structure and the syntax of the clause
+9.0
+Introduction
+9.1 
+Intransitives
+9.1.1 
+Motion verbs
+9.1.2 
+Directly inflected directionals as intransitives 
+verbs331
+331
+332
+333
+
+3368.6.7.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+
+
+8.6.7.6
+8.6.8 
+8.6.8.1
+8.6.8.2
+8.6.8.3
+8.6.9 
+8.7 
+8.7.1
+8.7.1.1
+8.7.1. 
+8.7.1.3
+8.7.2 
+8.7.2.1
+8.7.2.2
+8.7.2.3
+8.7.2.4
+8.7.2.5
+8.7.2.6
+8.8 
+8.9 
+8.9.1 
+8.9.2 
+8.10
+8.11308
+309
+310
+311
+311
+312
+313
+314
+315
+315
+315
+315
+316
+316
+318
+318
+319
+320
+320
+321
+321
+323
+323
+324
+327
+328Table of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.1.3 
+9.1.4 
+9.1.5 
+9.1.6 
+9.1.7 
+9.2 
+9.2.1 
+9.2.2 
+9.2.3 
+9.2.4 
+9.3 
+9.4 
+9.4.1 
+9.4.2 
+9.5 
+9.6 
+9.6.1 
+9.6.2 
+9.6.2.1
+9.6.2.2
+9.6.2.3
+9.7 
+9.8 
+9.9
+9.10
+9.10.1 
+9.10.2
+9.10.3
+9.10.4
+9.10.5
+9.10.6
+9.10.7 
+9.10.8 
+9.11
+9.11.1
+9.11.2
+9.11.3 
+9.11.4Locative adjuncts
+Noun phrases as locative adjuncts
+Classificatory prefixes in intransitive verbs
+Denominal and deadjectival inchoative verbs
+Underivable intransitives
+Transitives
+Transitives with classificatory prefix (absolutive
+alignment)
+Transitives with object prefix (accusative 
+alignment)
+Transitives with object suffix (indirective 
+aligment)
+Transitives without object affix
+Ambitransitives
+Derived transitives
+Productive derivation of transitives
+Idiosyncratic derivation
+Ditransitives
+Derived ditransitives
+Productive derivation of ditransitives
+Idiosyncratic derivation of ditransitives
+-Øˆ- ‘give (PFV)’ from -Øˆ ‘take (PFV)’
+-ka- ‘give (IPFV)’ from -ka ‘put (IPFV)’
+dei- -/— ‘leave sth for sb’ (PFV) from dei-/— 
+‘leave sb/sth (PFV)’
+Possessor raising
+
+Impersonal verbs
+Reflexivization
+Constituent order
+
+Argument order in transitive clauses
+Argument order in ditransitive clauses
+Position of non-arguments
+Position of adverbs
+Position of postpositional adjuncts
+Position of nominal adjuncts
+Position of temporal nouns
+Position of adverbial clauses
+Non-verbal clauses
+Identity
+Property
+Possession
+Negation in non-verbal clausesxvii
+337
+337
+338
+339
+339
+340
+
+340
+
+341
+
+342
+344
+346
+348
+349
+350
+351
+353
+353
+355
+355
+355
+
+356
+357
+359
+359
+362
+362
+364
+366
+367
+368
+369
+369
+370
+371
+372
+373
+374
+374xviiiTable of contents
+
+
+
+
+9.12
+9.12.1
+9.12.2
+9.12.3
+9.12.4
+9.12.5
+9.13Reciprocal constructions
+The bare reciprocal construction
+The sese-construction
+The morphological status of -sese
+A variant of the sese-construction
+Reciprocals in the imperfective
+A note on causatives375
+376
+376
+378
+379
+381
+38110Question formation
+10.0
+Introduction
+10.1
+Polar questions
+10.1.1
+Polar questions with the interrogative clitic =a
+10.1.2
+Polar questions with bleka ‘or’ at the end of 
+
+the sentence
+10.1.3
+Alternative questions with bleka ‘or’
+10.2
+Content questions
+10.2.1
+The interrogative word fàb
+10.2.2
+fàb ‘where?’ 
+10.2.3
+fatnà- ‘do what?’
+10.2.4
+The verbal noun fatnàmin ‘what’
+10.2.5
+Fatnàmin with derivational suffixes
+10.2.6
+Fatnàmin plus the nominal postposition dim ‘on’
+10.2.7
+The interrogative word wan
+10.2.8
+Is wan an interrogative verb?
+10.3
+Topic-only questions385
+385
+385
+386
+
+389
+389
+390
+391
+392
+394
+396
+397
+398
+398
+402
+402Chaining constructions
+11.0
+Introduction
+11.1
+Serial verb constructions
+11.1.1
+Core-level serial verb constructions
+11.1.1.1 Serialization of intransitive verbs
+11.1.1.2
+Serialization of a transitive and an intransitive
+verb
+11.1.1.3
+Serialization of transitive verbs and argument
+sharing
+11.1.1.4 Auxiliary-serialized stems inside a core SVC
+11.1.1.5 Directionals inside a core SVC 
+11.1.2
+Nuclear serial verb constructions
+11.1.3
+Verb serialization versus compounding (synopsis)
+11.1.4
+The morphological status of the auxiliary405
+405
+405
+406
+406
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+407
+408
+411
+411
+412
+414
+416Table of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+
+
+11.1.5
+11.1.6
+11. 2
+11.2.1
+11.2.2
+11.2.3
+11.2.3.1
+11.2.3.2
+11.2.3.3
+11.2.3.4
+11.2.3.5
+11.2.4
+11.2.5
+11.2.5.1
+11.2.5.2
+11.2.5.3
+11.2.5.4
+11.2.6
+11.2.6.1
+11.2.6.2
+11.2.7
+11.2.8
+11.2.9
+11.2.10
+11.2.11
+11.2.12
+11.2.13
+11.3
+11.4
+11.5
+11.6Causative serialization
+Purposive serialization
+Medial verb morphology and clause chaining
+Introduction and terminology
+Medial versus final verbs
+Switch reference morphology in directly inflected 
+verbs
+Unusual behaviour of -n ‘(SS.)SEQ’
+-b ‘DS.SIM’ 
+The DS sequential markers and -Ø and -s
+-m ‘Inchoative imperfective’ plus -s ‘DS.SEQ’
+-nab ‘DS.SEQ.SHORT INTERVAL’ 
+The existential verb n/bi~bl as a medial verb
+Auxiliary-serialization in medial verbs
+-bi ‘Imperfective auxiliary’ 
+-bi ‘Imperfective auxiliary’ plus -Ø ‘DS.SIM’
+-biaan ‘Imperfective SS.SIM auxiliary’
+Imperfective auxiliaries and perfective stems
+Complications in the Mian S/R system
+Inconsistencies in S/R marking 
+Accounting for the inconsistencies in S/R marking
+Tense marking in medial verbs
+Tense marking with -bio ‘General past’ in medial 
+verbs
+Tense marking with -so ‘Hesternal past’ in medial 
+verbs
+Postposed locative adjuncts
+Referential overlap
+Repetition, repair and elaboration in clause chains
+Shortened medial clauses
+Topicalized medial clauses
+Tail-head linkage
+Medial verbs in utterance-final position
+Non-verbal clauses in clause chainsOperator scope in clause chaining constructions
+12.0
+Introduction
+12.1
+Illocutionary force
+12.2
+Polarity
+12.3
+Tense
+12.3.1
+Pre-subject slot tense suffixesxix
+418
+419
+421
+421
+422
+
+424
+426
+427
+429
+431
+431
+432
+433
+433
+435
+435
+437
+438
+438
+445
+448
+
+450
+
+453
+456
+457
+461
+464
+465
+466
+467
+469471
+471
+472
+475
+476
+477xxTable of contents
+
+
+
+
+12.3.2
+12.4
+12.4.1
+12.4.2
+12.4.3
+12.5
+12.5.113Embedding
+13.0
+Introduction
+13.1
+Embedded quotatives
+13.1.1
+Quotatives as sentential complements
+13.1.2
+Embedded questions
+13.2
+Adverbial clauses
+13.2.1
+Conditional adverbial clauses with mole ‘if’
+13.2.2
+Causal adverbial clauses with kesoa ‘because’
+13.2.3
+Temporal adverbial clauses with bita ‘until’
+13.2.4
+Adverbial clauses with the article =o
+13.2.5
+Topicalized adverbial clauses
+13.2.6
+Adverbial clauses with the postpositions temwât 
+
+‘while’ and dim ‘at the time when’
+13.2.7
+The semantic difference between temwât
+
+‘while’ and dim ‘at the time when’
+13.3
+Relative clauses
+13.3.1
+Prenominal relative clauses
+13.3.2
+Head-internal relative clauses
+13.3.3
+Omission of the internal head in head-internal
+
+relative clauses
+13.3.4
+Use of resumptive pronouns after head-internal
+relative clauses
+13.3.5
+Other markers of head-internal relative clauses
+13.3.6
+Complex head-internal relative clauses and 
+
+switch reference
+13.3.7
+An analytical issue in head-internal relative
+clauses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix I
+
+1
+
+2 
+3Post-subject slot tense suffixes
+Mood
+-n ~ -Ø ‘Realis’
+-(a)mab/-omab ‘Irrealis’
+-(V)m ‘Deontic’
+Aspect
+Scope of habitual markingTexts
+The origin of the Afoksitgabáam fruit
+Danenok and his brother
+
+Rolling smokes477
+479
+479
+480
+481
+482
+483485
+485
+486
+486
+491
+491
+492
+493
+494
+495
+496
+
+497
+
+499
+500
+500
+504
+506
+507
+508
+
+509
+511515
+515
+524
+541Table of contentsAppendix IINotes
+References
+IndexMian-English wordlistxxi
+545579
+585
+597Abbreviations1
+2
+3
+A
+ADNOM
+AN
+AUX
+COLL
+COND
+CP
+CQ
+DECL
+DEM
+DEONT
+DET
+DIST
+DS
+EMPH
+EP
+EXCL
+EXCLAM
+EXPL
+F
+F_CL
+GPST
+HAB
+HORT
+HPST
+IMMACT
+INCH
+INCL
+INTERJ
+IPFV
+IRR
+ITER
+IU
+M
+M_CLFirst person
+Second person
+Third person
+(Di-)Transitive subject
+Adnominal
+Animate
+Auxiliary
+Collective
+Conditional
+Classificatory prefix
+(Content) Question
+Declarative
+Demonstrative
+Deontic
+Determiner
+Distal
+Different subject
+Emphatic
+Epenthetic vowel
+Exclusive
+Exclamative
+Expletive
+Feminine
+F-class
+General past
+Habitual
+Hortative
+Hesternal past
+Immediate action
+Inchoative
+Inclusive
+Interjection
+Imperfective
+Irrealis
+Iterative
+Intonational unit
+Masculine
+M-classxxivAbbreviationsMed-Cl
+Medial clause
+MED
+Medial
+N1
+Neuter 1
+N2
+Neuter 2
+NANPL
+Not animate plural
+NRPST
+Near past
+NEG
+Negation
+NHODPST Non-hodiernal past
+O
+Object
+PST
+Past
+PFV
+Perfective
+PL
+Plural
+PN
+Proper name
+Q
+Question
+POSS
+Possessor
+PRD
+Predicator
+PROX
+Proximal
+QUOT
+Quotative
+REAL
+Realis
+RESID
+Residue class
+REFL
+Reflexive
+RECP
+Reciprocal
+RPST
+Remote past
+S
+Intransitive subject
+sb
+somebody
+SBJ
+Subject
+SC
+Sentential complement
+SG
+Singular
+SI
+Short interval
+SIM
+Simultaneous
+SEQ
+Sequential
+sp.
+species
+SS
+Same subject
+sth
+something
+SURP
+Surprise
+SVC
+Serial verb construction
+TOP
+Topic
+TP
+Tok Pisin
+V
+Verb
+VBLZ
+Verbalizer
+VN
+Verbal noun
+VOC
+VocativeAbbreviations
+||
+()Phonological word
+Intonational break
+Inherent featurexxvChapter 1
+The language and its speakers1.0.","[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]"
+"Illocutionary force clitics157These are clitics which mark a non-verbal clause or a sentence (i.e. a single
+independent sentence or whole clause chain) for illocutionary force. The
+inventory comprises:
+(195) =be
+=bo
+=ble
+=a
+=e
+=o
+=e‘Declarative’
+‘Emphatic, quotative’
+‘Exclamative’
+‘Question’
+‘(Content) Question’
+‘Hortative (first person singular and plural, third person
+singular)’
+‘Hortative (second person singular, second/third person
+plural)’All illocutionary clitics are discussed in 12.1. The interrogative clitics =e and
+=a receive treatment under question formation in chapter 10. The hortative
+clitics are described in 8.6.8.
+The illocutionary clitic =bo ‘Emphatic, quotative’ has three different
+functions in Mian. First, it is used to mark embedded quotatives (see 13.1).
+Second, while =be just signals that an utterance is declarative, =bo can be used
+to make a statement more emphatic, especially under negation, as in (196):
+(196) nái=o
+vagina=SG.Ffiamî=e
+arrow_type=SG.N1toli=e
+arrow_type=SG.N1
+SG.N1fiamî=ba=bo
+arrow_type=NEG=EMPHtem=e
+in=SG.N1biki-n-ib=a
+pierce.PFV-SEQ-2/3PL.AN.SBJ=MED
+‘they pierced her vagina on a Fiami arrow – not a Fiami arrow – a
+Toli arrow, and then …’ [Initiation ritual]
+Third, =bo is used in clause chains to indicate that the event described in the
+following clause comes as a surprise. In this function it only occurs following
+a medial verb form of the intransitive verb têm’/temê’ ‘have a look’, for
+example:1583. Word classes and grammatical relations(197) daak-n-o=a
+down-SS.SEQ-3SG.F.SBJ=MED
+têm’-Ø-o=a=bo
+look.PFV-DS.SEQ-3SG.F.SBJ=MED=SURP
+aai=e
+ba-Ø-e-bio
+kesoa
+water=SG.N1 dry_up-REAL-3SG.N1.SBJ-GPST because
+‘she went down and had a look and  oh no!  since the water had
+dried up, ...’ [Flood]3.13.2.","[183, 184]"
+"EvaluationAn analysis of the Mian gender system as a two-class system makes sense of
+the striking patterns of homophony in the agreement markers by treating =e
+and =o as exponents of the masculine and the feminine gender, respectively.
+Above, we have seen that an analysis of Mian gender in terms of masculine
+and feminine gender entails that we have to accept that for animate referents
+gender operates independently of number, whereas (at least) for inanimates
+that allow a number opposition, a contrast in number or quantity is expressed
+by means of a contrast in gender. In such a system a change in number results
+in a change in gender and vice versa, conflating the categories number and
+gender for these inanimate nouns.
+It is my view that such an analysis should be rejected in general and in
+Mian in particular because despite the patterns of homophony, gender and
+number are different phenomena and should therefore be kept separate in a
+synchronic description of a language. Gender is a lexical feature of a noun.
+Evidence for this assumption comes from the fact that assignment can be
+arbitrary and agreement is strict and consistent. Number, on the other hand, is
+generally not a feature a noun is inherently specified for though there are
+exceptions, for example suppletive or irregular plural stems and pluralia
+tantum, such as scissors or oats in English, which are indeed lexically plural,
+but rather a feature of the noun phrase as a whole in a certain context in which
+it is used to denote a plural referent. It might be possible to argue that in
+English most count nouns are inherently singular because the form of their
+lexical entry is identical to the singular form. In Mian, however, a lexical
+citation form, e.g. naka ‘man’, is unspecified for number. Only the addition of
+a determiners, e.g. the articles =e or =i clarifies whether one man or more that
+one is/are being referred to.
+A two-gender analysis would have ramifications for the structure of the
+Mian lexicon. Each of the two genders would contain both animate and
+inanimate nouns and the entries for animates would differ considerably from
+those for inanimates. While animate nouns can be specified for either gender
+(mostly depending on sex) and then regularly have their plural marked with1844. Gender=i, some inanimates, such as imen ‘taro’, would need a feature ‘polaric’,
+which indicates that the noun shows gender polarity when its number value is
+changed. We cannot assume a general rule that makes all inanimates polaric
+because some, such as káawa ‘steel axe’, do not show gender polarity and
+therefore would have to be specified as invariant. Consequently, even a twogender analysis has to make a sub-classification within each gender, in other
+words, it has to make reference to both gender and animacy to account for the
+gender and number behaviour of any given noun.
+In summary, the two-gender analysis is plagued by the fact that it has to
+assume polarity as a principle of Mian grammar. Furthermore, it is not more
+parsimonious than the four-gender analysis since it also has to acknowledge a
+four-way contrast. Hence, the solution I propose for Mian is to adopt the fourgender analysis because it permits us to keep number and gender separate.
+Rather than saying that a given inanimate noun, such as imen ‘taro’ is
+masculine in the singular and feminine in the plural, this noun is lexically
+specified as neuter 1, which forces the article to be =e in the singular and =o
+in the plural. In other words, the correct agreement patterns follow directly
+from the lexical gender specification of the noun.","[209, 210]"
+"231Focused noun phrases“[F]ocus is the most important or salient piece of information in the utterance,
+as perceived by the speaker. [...] The focus [...] always presents new
+information, though new relative to the topic, not necessarily new in the
+discourse” (Siewierska 2004: 159).
+Focus in Mian is marked by using an emphatic pronoun, etc., i.e. a bound
+pronominal form suffixed with the emphatic pronoun suffix -ta (see 3.7.4)
+Marking of focus is characteristic of Papuan languages in general, contrary to
+fixed positional encoding in European languages, where focus is associated
+with clause-final position (Foley 2000: 387-8).
+Contrastive focus in Mian is generally expressed by using emphatic
+pronouns. Two examples are given below:
+(100) 
+3SG.M
+
+3SG.MAsuneb=e=mo
+PN=SG.M=NEGa-têm’-Ø-e=ba=be
+3SG.M.O-see-REAL-3SG.M.SBJ=NEG=DECL-ta
+3SG.M-EMPHBeitab
+PNa-têm’-Ø-e=be
+3SG.M.O-see-REAL-3SG.M.SBJ=DECL
+‘He didn’t seen Asuneng. He saw Beitab.’
+(101) [...] ‘she married him and they stayed there for some time and then...’
+imak=e
+husband=SG.Méil
+pigasyam=e
+tou-ûb’-e-nam
+fruit=SG.M sit_down-give.PFV-PL.AN.R-PFVon-s-e=ta
+go.PFV-DS.SEQ-3SG.M.SBJ=MED
+alél
+wife-ta
+SG.F-EMPHawók=o
+mother=SG.Fom-êt-n-o=ta
+3SG.F_CL.O-take-SEQ-3SG.F.SBJ=MED
+‘the husband went to sit down at pig fruits (to ambush pigs), the wife
+took the mother and ...’ [Afoksitgabáam]
+Focus marking with the emphatic pronoun is obligatory in alternative
+questions (see 10.1.3). When there is a choice between two alternatives, each2326. The noun phraseexpressed by a noun phrase, both are in contrastive focus and emphatic
+pronouns have to be used, as in the following example:
+(102) kbo
+2SG.Méil
+pig-ta
+SG.M-EMPHbleka
+or-ta
+SG.M-EMPHaning
+fishdowôn’-aamab-eb=a?
+eat-IRR.NANPL.SBJ-2SG.SBJ=Q
+‘Do you want to eat pork or fish?’
+On completive focus in content questions with wan ‘who’, see 10.2.7.
+Focus marking is used in comparisons. I recorded example (103) as the
+Mian translation of the English sentence “Port Moresby is bigger that
+Vanimo” (|| indicates an intonational break):
+(103) Mosbi
+PN=le
+SG.N2=TOP|| sm
+bigeka
+andBanimo
+PN-ta
+SG.N2-EMPHgwáab=o=be
+small=PRD=DECL
+‘(As for) Port Moresby (, it) is big, and Vanimo is small.’
+This example consists of a topical noun phrase ‘Port Moresby’, set off
+intonationally from the rest of the utterance, and a comment which actually
+predicates something about this topic. The comparative element is focused
+with -ta, but the statement, which prima facie seems to be about Vanimo, is in
+effect a statement about the topic Port Moresby.","[257, 258]"
+"Interjections and formulaic utterancesInterjections are particles which express assent or dissent, emotional states,
+and hesitation in speech. Due to the fact that interjections are usually uttered
+with a marked intonation, and the difficulty of teasing apart lexical tone and
+intonation, I will not mark tone on interjections. The inventory comprises:
+(211) ae, ai
+ayasi
+ayo
+ba (< baa ‘say’)
+dowe
+ekskyus (from Tok Pisin)
+klâye
+o
+yait, yaiks (from Tok Pisin)
+yle, yle
+yeye‘yes’
+‘expressing surprise or disbelief’
+‘sorry (feeling regret or pity)’
+‘ehm (hesitation in speech)’
+‘boah man’
+‘excuse me’
+‘well now’
+‘oh’
+‘yuck’
+‘well (also hesitation)’
+‘no’The interjection ayo can only express regret and is not used for apologies.
+I think it is plausible that ba ‘ehm’ indicating hesitation goes back to the
+verb stem baa ‘say (PFV)’. As bare verb stems are commonly used as
+imperatives, it is conceivable that speakers used the imperative form baa
+[mbà] ‘Say (it)!’ to “order themselves” to continue speaking. Synchronically,
+however, the interjection ba is not pronounced with a pharyngealized /a/.
+In the eastern dialect, there are no interjections for the purpose of greeting
+people. Instead whole formulaic sentences are exchanged. The following
+patterns of question and answer are customary:
+Arriving party says:
+bo y bliba? — ‘Are you (PL) there?’
+klayâm bieba? — ‘Are you well?’Customary answer:
+ae, n y biobobe — ‘Yes, we are there.’
+ae, klayâm blibe — ‘Yes, I am well.’Departing party says:
+klayâm biebte! — ‘Stay well!’Customary answer:
+klayâm one! — ‘Go well!’3.14. Grammatical relations163In the morning:
+(klayâm) seba? — ‘Did you sleep (well)?’Customary answer:
+(ae, klayâm) sibe — ‘(Yes,) I have
+slept (well).’Going to sleep:
+klayâm áan one! — ‘(Go to) Sleep well!’Customary anwser:
+kbsa klayâm áan one! — ‘You too (go
+to) sleep well!’Both parties meet (on a path):
+kbo y tleba? — ‘You have come to
+this place.’Customary answer:
+(ae,) y tlibe ‘(Yes,) I have come to this
+place?’In the western dialect area, the form klayâmo ‘really good’ is commonly used
+to say hello or bid farewell to somebody. Speakers of the eastern dialect do
+not have this convention.","[188, 189]"
+"1103. Word classes and grammatical relationsArticles are enclitics which also indicates the number of the noun phrase and,
+in the singular, the gender of the noun. Articles are usually toneless (see
+below) and receive their tonal specification from the host they encliticize to.
+The forms of the article are given in table 3.2.
+Table 3.2. The pronominal article
+Gender
+Agreement patterns
+Singular
+Plural
+Masculine
+=e
+=i
+Feminine
+=o
+Neuter 1
+=e
+=o
+Neuter 2
+=oExample
+naka ‘man’
+unáng ‘woman’
+imen ‘taro’
+am ‘house’The animate plural article =i is realized as =ei if it cliticizes to a word ending
+in a high vowel /i/ or /u/. The following examples may suffice: /Hsnabi/
+‘crocodile’ and /Hsnabi=i/ ‘(the) crocodiles’; /Lumasou/ ‘fish species’ and
+/umasou=i/ ‘(the) umasou fish’, but /naka=i/ ‘(the) men’ not */naka=i/.
+Consider example (60) where three nouns – each with a pronominal article
+– appear as subject, object, and possessor:
+(60)nakamîn=e
+man=SG.Mimen=o
+taro=PL.N1éil=e
+pig=SG.Mwen-ha-b-e=a
+eat.IPFV-3SG.M.R-DS.SIM-3SG.M.SBJ=MED
+‘While a pig was eating a man’s taro, the man…’ [Pig story]
+The formatives under discussion are articles rather than overt number/gender
+markers because they also indicate referentiality. The noun without the article
+occurs in contexts in which the noun is used non-referentially, that is in any of
+the following contexts:
+--in the citation form, e.g. nakamîn ‘man, brother’, éil ‘pig’, imen ‘taro’,
+sók ‘rain’, kukub ‘way, custom’.
+in generic object arguments in the citation form of (some) transitive
+verbs, e.g. as hakalin [wood break.IPFV.VN] ‘(activity of) breaking
+wood’
+in first elements in N-N compounds, e.g. wan-am [bird-house] ‘bird
+blind’
+in generic terms used to classify animals and plants, e.g. wan ‘bird’ in
+wan tolim [bird eagle] ‘New Guinea eagle (sc. Harpyopsis
+novaeguineae)’3.3. Articles-111in non-verbal predications about identity, e.g. tíl=o=be
+[dog=PRD=DECL] ‘it’s a dog’
+under negation, e.g. imen bl-im [taro exist-NEG] ‘there’s no taro’,
+yi=ba=be [wound=NEG=DECL] ‘it’s not a wound’This suggests that the article does not behave like overt gender or noun class
+markers in many Australian or Bantu languages, in which a noun either
+invariably has a certain marker or invariably lacks it, but rather functions as an
+article marking the noun as definite-referential or indefinite-referential but is
+left out if the noun is used non-referentially. However, there is a tendency to
+leave out the article if the noun is inanimate even if it is used referentially.
+Mian does not mark its nouns overtly for gender but rather requires the
+article to agree in gender with its noun. There is evidence that the article is on
+the way of becoming a purely classificatory gender marker through the
+extension of the form with article to non-referential contexts. Although the
+form without article is the preferred choice under negation, as in
+as bl-im [wood exist-NEG] ‘there’s no wood’, one also finds as=e bl-im
+[wood=ARTICLE exist-NEG] with the same meaning. Greenberg (1978) shows
+that across languages the definite article often winds up as a gender marker on
+the noun after going through a grammaticalization process during which it is
+increasingly used both as a definite article, meaning ‘the N’, and an indefinite
+specific article, meaning ‘a specific N’ or ‘a certain N’. When the use of the
+article becomes a function of the syntactic construction in which the noun
+appears (e.g. negation), the original contrast between the form with article and
+the form without article is lost and the distinction becomes redundant. At this
+point the form with article usually starts to spread to all contexts. If this form
+becomes universal in the language, the former article has become a gender
+marker on the noun (Greenberg 1978: 63).
+Articles can follow all nouns, i.e. common nouns, proper names, dyads,
+and temporal and verbal nouns (see section 3.1). Articles can also follow finite
+verbs in head-internal relative clauses and adverbial clauses. In head-internal
+relative clauses (61), the article agrees in number and gender with the noun. In
+adverbials (62), the article is invariably =o. Square brackets indicate clause
+boundaries:
+(61)[no=i
+marsupial=PL.ANya-l-êb
+PL.AN.O-kill.PFV-take.PFVtl-Ø-e=i]
+come.PFV-REAL-3SG.M.SBJ=PL.AN
+‘the marsupials he has killed and brought’ [Crows]1123. Word classes and grammatical relations(62)[naka=i
+man=PL.ANutl-Ø-ib=o]
+come_up.PFV-REAL-2/3PL.AN.SBJ=N2
+ninín=o
+dl-â-n-ib=a
+name=N2
+PL.F_CL.O-put.PFV-SEQ-2/3PL.AN.SBJ=MED
+3PL.AN
+‘when the people grew up, they assumed names and then…’
+[Dimosson]
+Adverbial clauses and head-internal relative clauses are discussed in 13.2 and
+13.3 under embedding.
+Articles can be distributed throughout the noun phrase and follow the noun
+and any adjectival modifiers. They can also follow numerals (see 6.3 for
+details on modified and quantified noun phrases):
+(63)tíl=e
+milil=e
+black=SG.M
+dog=SG.M
+‘a/the big, black dog’sm=e
+big=SG.MIn (63), referentiality, number and gender are marked per article =e on the
+noun and on each adjectival modifier. More common in natural discourse,
+however, is to have only one article for the whole noun phrase, namely
+following the rightmost modifier, for example:
+(64)tíl
+milil
+sm=e
+dog black
+big=SG.M
+‘a/the big, black dog’I analyse the article as a clitic rather than a suffix for the following reasons:
+(a) Apart from nouns, articles can attach to adjectives and numerals and also
+to verbs in adverbial clauses and head-internal relative clauses. (b) The
+coordinating clitic =a (presumably a shortened form of eka ‘and’) usually
+intervenes between the noun and the article in the last constituent of a
+sequence of coordinate noun phrases:
+(65)naka=i=a
+unáng=a=i
+woman=and=PL.AN
+man=PL.AN=and
+‘(the) men and women’ [Dimosson]Articles are segmentally identical to the third person forms of the free
+pronouns series, from which they are probably derived. Synchronically,
+however, they differ from the pronouns in their suprasegmentals. While all
+free pronoun forms are lexically specified for a high tone, articles are subject3.3. Articles113to suprasegmental phonological erosion, i.e. they are on the way to becoming
+toneless. As lexical tone spreads to any toneless affixes and clitics, the
+phonetic pitch value of the article depends on the lexical tone specification of
+the noun (see 2.8.3.2).
+I assume three stages in this grammaticalization scenario. Contemporary
+Mian is moving from stage (b) to stage (c):
+(66)(a) naka  (lit. ‘man he’) > (b) naka= > (c) naka-e ‘a/the man’In the first stage (a), nouns were followed by a free pronoun which was
+realized as a phonologically independent word. Synchronically, articles are
+generally not realized as independent phonological words anymore, although
+this still happens occasionally in very old speakers (over 80 years).
+In the second stage (b), the article encliticizes to the noun. Concomitantly,
+suprasegmental attrition sets in.
+At the final stage (c), the vocalic formative will have developed into a
+toneless nominal suffix.
+As the article is part of the phonological nominal word (even in very
+careful speech), it is clear that the language has moved beyond the first stage.
+However, one finds the pronunciations [na.ka. ] and [na.ka.] ‘a/the man’. In
+the former, the article has its own high tone, in the latter it is toneless and low
+tone is spread from the noun to the article. Articles which retain their own
+high tone (characteristic of the second stage) and ones which are toneless
+(characteristic of the third stage) occur in free variation.","[135, 136, 137, 138, 139]"
+"IntroductionThis chapter deals with two different types of chaining construction, both of
+which are highly frequent in Mian discourse. The first type is verb
+serialization where two or more verb stems are concatenated to form a
+sequence of predicates within a single clause. Within serial verb constructions,
+I distinguish between core and nuclear (or ‘tight’) serializations. The second
+type of chaining construction is clause chaining where two or more clauses are
+chained together to form a sentence.
+These two construction types have in common that they are essentially
+coordinate (i.e. not subordinate or embedded) structures and that their last
+constituent carries grammatical information, such as illocutionary force and
+polarity, which has scope over the entire construction. This form of
+dependency relation in serial verb constructions and clause chains is also
+called co-subordination in the literature (Reesink 1983, Foley and Van Valin
+1984). A succinct definition of co-subordination can be found in Reesink
+(1983: 224-226): “[Co-subordination] refers to a process whereby two items
+are coordinated into a new whole with operators applying to this new whole
+rather than to one of the conjuncts.” The scope rules of operators in clause
+chains will be taken up in detail in chapter 12.",[431]
+"4.7. Evaluation183The two-gender analysis has to understand polarity as a grammatical
+principle which allows nouns to change their gender as a means of changing
+their number. This, however, has consequences for linguistic theory, which
+usually assumes gender and number to be two distinct categories or features.
+An evaluation of a two-gender analysis for Mian taking into account its merits
+but also the theoretical issues arising when one treats polarity as a
+grammatical principle is given in the next section.","[208, 209]"
+"Polar questionsThe appropriate answer for a polar question is ‘yes’ or ‘no’, which are ae and
+yeye in Mian, respectively. They are formed with the interrogative illocutionary clitic =a. Very rarely, one finds polar questions with =e (which is
+usually used for content questions). Like all illocutionary particles (see38610. Question formation3.13.1), =a encliticizes to the immediately preceding word and forms a single
+prosodic word with it. A second type of polar question ends with bleka ‘or’.
+Intonationally, polar questions are characterized by a short intonational
+peak and subsequent fall on the last syllable of the utterance, whose nucleus is
+formed by the illocutionary particle or the final syllable of bleka ‘or’.","[411, 412]"
+"8. Verb morphologyClassification of verbsVerbs can be classified according to three criteria, namely position in the
+sentence, possibility of direct inflection, and finiteness. A further division in
+four conjugation classes will be made in 8.4.
+First, finite verbs can either be directly inflected for various TAM
+categories or serialized with an auxiliary. See 8.6.1 on directly inflected verbs
+and 8.6.7 on auxiliary-serialized verbs.
+Second, finite verbs are either final or medial. Mian is a clause-chaining
+language. Simple sentences contain one final verb, whereas complex
+sentences usually consist of clauses chained together, each of which contains a
+medial verb while the last clause in a given chain, which forms the end of the
+sentence, terminates with a final verb. All final verbs index their subjects and
+any of the object(s) that this verb has to index, and can be inflected for all
+TAM categories, while medial verbs are slightly more restricted in terms of
+their TAM morphology. Medial verbs cannot be inflected for irrealis or
+deontic mood. Furthermore, they are never marked for polarity or
+illocutionary force. Tense marking with -bio ‘General past’ and -so ‘Hesternal
+past’ on medial verbs is possible. Medial verbs partake in the switch-reference
+system of the language. They are inflected for same or different subject, i.e.
+they have suffixes which mark whether or not the subject of the following
+clause is the same. The same suffixes also indicate sequentiality or
+simultaneity of events.
+Third, verbs are either finite or non-finite. Any verb (or serial verb
+construction) marked for subject is finite, any verb not marked for subject is
+non-finite.
+As medial verbs and their morphology are intricately linked to the
+phenomenon of clause-chaining, their morphology is described in section 10.2
+under clause-chaining constructions.",[270]
+"IntroductionThis chapter deals with the formation of questions. Formally, there are five
+different types of question in Mian. Questions can employ:
+1)
+2)
+3)
+4)
+5)only the interrogative illocutionary clitic =a at the end of the sentence
+bleka ‘or’ at the end of the sentence, and no interrogative clitic =a
+the interrogative illocutionary clitic =a at the end of the sentence and
+bleka ‘or’ inside the sentence (separating two alternatives)
+the interrogative illocutionary clitic =e plus an interrogative phrase with
+either fàb ‘where’ or wan ‘who’
+the topic clitic =leFunctionally, these can be assigned to the following types:
+Types (1) and (2) are polar questions, i.e. questions for which the
+appropriate answer is ‘yes’ or ‘no’.
+Type (3) are alternative questions, where the speaker wants a specification
+of the offered alternatives, e.g. Do you want pork or fish for dinner?.
+Type (4) are content questions, which are used to request information about
+the who, what, when, etc. of an event or action. Content questions consist of a
+proposition which is completely presupposed apart from one element, which is
+the one queried (Givón 1990: 714-715). In Mian, the maximum number of
+queried constituents is one. Thus, multiple constituent questions, such as
+English Who did what?, are not possible.
+Type (5) are topic-only questions, in which only a topic is given, as in
+English What about John? or And you?. The speaker has a particular question
+in mind, and it must be obvious from the context what the implied question is.",[411]
+"Subject suffixAll finite verbs obligatorily have a pronominal suffix which indexes the
+subject and signals person, number, and in the third person also gender of the
+subject. Having subject marking is the defining feature of finite verbs in Mian
+(see 3.2).
+Subject marking in final verbs differs from subject marking in medial verbs
+in that there is some suffix allomorphy that subject suffixes in medial verbs
+lack.
+Table 8.2 below gives the forms of the subject marker for final and medial
+verbs, including all allomorphs (which are only found in final verbs).
+Depending on the number of syllables following the subject suffix and its
+phonological context, there are three – or for first person plural four –
+alternants for those subject markers which end in /b/ in final verbs. Grey areas
+in the table indicate the neutralization of a gender contrast.2
+In non-first person there is clear evidence for the diachronic identity of
+subject suffixes on the verb and the pronoun forms: kb > -eb,  > -e,  > -o,
+and b > -ib. Note the loss of tone in the bound pronominal forms.
+The choice of subject suffix alternants is determined by the number of
+syllables following the suffix and its phonological environment, not by the
+category of the formative preceding or following the subject suffix.
+Table 8.2. Subject suffixes
+Person
+Number Gender
+1
+2
+Singular
+31 EXCL/INCL
+2/3PluralMasc.
+Fem.
+Neuter 1
+Neuter 1
+Neuter 2Subject suffix (final
+verbs)
+-i
+-eo ~ -ebo ~ -eb
+-e
+-o
+-e
+-o
+-o
+-uo ~ -obo ~ -ob ~ -bio
+-io ~ -ibo ~ -ibSubject suffix
+(medial verbs)
+-i
+-eb
+-e
+-o
+-e
+-o
+-o
+-ob
+-ib8.5. Argument marking263The first alternant (-eo, -uo, -io) is used if the subject marker is the last suffix
+in the verb form, followed by those cliticized illocutionary particles which
+start with /b/, namely =be ‘declarative’, =bo ‘emphatic/quotative’, and =ble
+‘Exclamative’, to avoid two /b/’s in sequence at the last syllable boundary
+within the phonological word.
+(52)bo
+unín=o
+ifu-b-eo=be/*ifubebbe
+food=N2
+serve.IPFV-IPFV-2SG.F.SBJ=DECL
+2SG.F
+‘You (F) are serving food.’The function of the subject suffix alternation is solely to avoid a clash of two
+/b/’s, if they constitute the coda of the penultimate and the onset of the last
+syllable of a phonological verbal word. The language does not mind
+heterosyllabic b-clash in any other position within a phonological word (cf.
+example (57) below).
+In order to avoid b-clash, the second alternant (-ebo, -obo, -ibo) can be
+used but only in forms either inflected with -n ~ Ø ‘Realis’ or -Vm ‘Deontic’:
+(53)kbo
+unín=o
+ifa-n-ebo=be
+food=N2
+serve.PFV-REAL-2SG.SBJ=DECL
+2SG.M
+‘You (M) served food.’Instead of ifanebobe, one can use ifaneobe with the first subject suffix
+alternant. Subject suffix alternation is independent of semantics. Compare:
+(54)
+-maye
+gò’-n-io=be/*gò-n-ib=be
+cut_skin-REAL-2/3PL.AN.SBJ=DECL
+3PL.AN 3PL.AN-REFL
+‘They have cut themselves.’(55)
+-maye
+3PL.AN-REFL
+3PL.AN
+‘They have cut themselves.’gò’-n-ibo=be
+cut_skin-REAL-2/3PL.AN.SBJ=DECLWhenever the subject suffix is followed by any other verbal suffix, e.g. a tense
+suffix in the post-subject slot, as in (56) or the negative clitic =ba (57), the
+third alternant must be used:
+(56)kbo
+unín=o
+ifa-n-eb-so=be
+food=N2 serve.PFV-REAL-2SG.SBJ-HPST=DECL
+2SG.M
+‘You (M) served food yesterday.’2648. Verb morphology(57)bo
+unín=o=mo
+ifu-b-eb=ba=be
+serve.IPFV-IPFV-2SG.SBJ=NEG=DECL
+2SG.F food=N2=NEG
+‘You (F) are not serving food.’The same applies if the subject suffix is followed by any illocutionary clitic
+which does not start with /b/, for example the interrogative clitics =a and =e,
+for example in the formulaic greeting in (58):
+(58)klayâm
+tl-Ø-eb=a?
+very_good
+come.PFV-REAL-2SG.SBJ=Q
+‘Did you arrive safe and sound?’ [Observed]The third alternant also appears in all final verbs in which the subject suffix is
+the last morpheme, for example, before conjunctions or subordinators like
+kesoa ‘because’, otâne ‘but’, and mole ‘if’, as in (59):
+(59)amît=e
+tala unê-b-ib
+kesoa
+enter go.IPFV-IPFV-2/3PL.AN.SBJ
+because
+opening=SG.N1
+‘because they were entering the opening, …’ [Dafinau]The issue arises here as to whether /o/ in the second alternant, e.g. -ebo
+‘2SG.SBJ, is really part of the subject suffix. After all, it seems to occupy the
+same slot as the hesternal past suffix -so in the verb form infanebsobe
+‘yesterday you served food’ in (56) above and might therefore be another
+tense suffix in the post-subject slot. Under negation, however, it is obvious
+that /o/ is not a tense suffix in the post-subject slot because it does not show
+up, whereas the tense suffix does. Compare:
+(60)ifa-n-eb=ba=be/*ifanebobabe
+serve_food.PFV-REAL-2SG.SBJ=NEG=DECL
+‘You did not serve food.’(61)ifa-n-eb-so=ba=be
+serve_food.PFV-REAL-2SG.SBJ-HPST=NEG=DECL
+‘Yesterday, you did not serve food.’The subject suffix -bio in the first person plural is only chosen over -uo if the
+subject suffix follows the irrealis suffix:
+(62)n
+unín=o
+dowôn’-omab-bio=be
+food=N2
+eat.PFV-IRR.AN.PL.SBJ-1PL.SBJ=DECL
+1PL.EXCL
+‘We (EXCL) want to eat food.’8.5. Argument marking265It is never used when following any of the other TAM markers in the presubject slot. Although the first plural irrealis in -bio is the usual form in
+contemporary Mian, old speakers still use the first alternant for first person
+plural in -uo. The following example (63) is from an account of how spirit
+houses were built in former times. The speaker is well over 80 years old:
+(63)tl-omab-uo=be
+come.PFV-IRR.AN.PL.SBJ-1PL.SBJ=DECL
+‘We would come.’ [Building a spirit house]In medial verbs, only the first alternants of the subject suffix -eb, -ob, and
+-ib, are ever used. This can be explained phonologically. The second alternant
+comes into play to avoid b-clash at the syllable boundary between the
+penultimate and the last syllable of the verb. In medial verbs, the clitics =a
+and =ta, which mark the verb as medial and which form the last syllable of the
+phonological verbal word, never start with /b/. There can be no b-clash and
+consequently the alternation of the subject suffix is never triggered.
+In two cases, there is solely phonologically conditioned allomorphy to
+avoid */ii/ or */ui/ sequences, e.g. the subject suffixes which begin in /i/, -i
+‘first person singular subject’ and -ib(o) ‘second/third person plural animate
+subject’, are realized as -ei and -eib(o), respectively, if they attach to a stem
+ending in a high vowel /i/ or /u/, such as ki ‘align, read’ or fu ‘cook’.
+Therefore, the correct forms are kieibiobe ‘I read’ and fueibbiobe
+‘you(PL)/they cooked’.","[288, 289, 290, 291]"
+"Content questionsIn content questions, the speaker requests information about some participant,
+theme, location, time, manner, etc. of an event or action. The proposition of a
+content question is presupposed apart from the queried constituent.
+Content questions are formed with the interrogative clitic =e (=ne after
+vowel). It encliticizes to the (clause-final) finite verb or the interrogative
+phrase. Content questions are never marked by the interrogative particle m.
+Apart from being flagged with the interrogative clitic =e, content questions
+also involve one of the two basic question words or interrogative words fàb
+‘where’ (18) or wan ‘who’ (19), which have further semantic extensions into
+other epistemic domains (see below):
+(18)fàb
+un-Ø-eb=e?
+where
+go.PFV-REAL-2SG.SBJ=CQ
+‘Where do you go?’(19)wan-ta
+who-3SG.M.EMPHkàb
+cuple
+DEM.PROX.SG.N1klutâ-n-e=ne?
+smash.PFV-REAL-3SG.M.SBJ=CQ
+‘Who’s broken this cup?’ [TMA questionnaire, 127]
+Semantically, the two interrogative words almost exactly divide the world up
+into animates (wan ‘who’), on the one hand, and inanimates and adverbials
+(fàb ‘where, what’), on the other. The only exception to this rule is that wan
+plus emphatic pronoun is employed to find out about people’s names, which
+are not strictly animate but nonetheless important properties of people.",[416]
+"References591Hyman, Larry M.
+1978
+Tone and/or accent. In Elements of Tone, Donna J. Napoli (ed.), 1-20.
+Washington, DC: Georgetown University Press.
+Jacobsen, William H.
+1983
+Typological and genetic notes on switch-reference systems in North
+American Indian languages. In Switch Reference and Universal
+Grammar, John Haiman and Pamela Munro (eds.), 151-183.
+Amsterdam: John Benjamins.
+Keenan, Edward
+1984
+Semantic correlates of the ergative/absolutive distinction. Linguistics
+22: 197-223.
+Kemmer, Suzanne
+1993
+The Middle Voice. Amsterdam: John Benjamins.
+Klatt, Dennis H.
+1976
+Linguistic uses of segmental duration in English: acoustic and
+perceptual evidence. Journal of the Acoustical Society of America 59:
+1208-21.
+Kratochvíl, František
+2007
+A grammar of Abui. Ph.D. diss., Faculteit der Letteren: Universiteit
+Leiden.
+Ladefoged, Peter, and Ian Maddieson
+1996
+The Sounds of the World's Languages. Oxford: Oxford University Press.
+Langdon, Margaret
+1970
+A Grammar of Diegueño: The Mesa Grande Dialect. Berkeley:
+University of California Press.
+Lawrence, Marshall
+1972a
+Oksapmin sentence structure. In Papers in New Guinea linguistics 16
+(A-34.), 17-46. Canberra: Pacific Linguistics.
+Lawrence, Marshall
+1972b
+Structure and function of Oksapmin verbs. Oceanic Linguistics 11:4766.
+Leben, William
+1973
+Suprasegmental phonology. Ph.D. diss., Department of Foreign
+Literatures and Linguistics, Massachusetts Institute of Technology.
+Lecarme, Jaqueline
+2002
+Gender “polarity”: Theoretical aspects of Somali nominal morphology.
+In Many Morphologies, Paul Boucher and Marc Plénat (eds.), 109-141.
+Somerville, MA: Cascadilla Press.
+Lehiste, Ilse
+1972
+The timing of utterances and linguistic boundaries. Journal of the
+Acoustical Society of America 51: 2018-2024.
+Lehmann, Christian
+1984
+Der Relativsatz: Typologie seiner Strukturen, Theorie seiner
+Funktionen, Kompedium seiner Grammatik. Tübingen: Narr.
+Lewis, M. Paul
+2009
+Ethnologue: Languages of the World. Dallas: SIL International.","[616, 617]"
+"IntroductionThe Mian verb is by far the most morphologically complex category in the
+language. Many verbs formally distinguish a perfective and an imperfective
+stem, which are used to express bounded and unbounded events, respectively.
+Aspectual stem distinctions are a typical feature of the Mountain Ok
+languages (Healey 1964a: 68). They can also be found in other Papuan
+languages, e.g. Korafe (Farr 1999: 22-23) and Abui (Kratochvíl 2007: 82-86).
+Mian is mildly polysynthetic in that all finite verbs obligatorily index their
+subject and the recipient object, if a recipient is part of the verb’s argument
+structure. A subset of verbs also marks their objects. All argument affixes are
+pronominal in nature, i.e. they are not pure agreement affixes. They crossreference overt argument noun phrases, which can be freely elided. Argument
+affixes agree with overt argument noun phrases in person, number and gender.
+If the argument noun phrase is elided, argument affixes agree anaphorically.
+The verb has two slots for tense, aspect, and mood suffixes, one on either
+side of the subject suffix slot. The pre-subject slot accommodates a range of
+tense, aspect, and mood suffixes, whereas the post-subject slot is filled only by
+tense suffixes. The fillers of the post-subject slot are probably more recent
+grammaticalizations from erstwhile auxiliary constructions, in which an
+inflected auxiliary has been reanalysed as a tense suffix.
+Verbs are inflected directly for certain TAM combinations. Direct
+inflection here means that the TAM suffix is appended directly to the verb
+stem. A serialization of a lexical verb stem with a form of the existential verb
+is required for other TAM combinations. In this case the TAM suffix is
+appended to the existential verb.
+It is typical for verbs in many Papuan languages to be marked for
+illocutionary force (Foley 1986: 164). Mian has several sentential clitic
+particles which attach to the verb to signal the illocutionary force of an
+utterance as declarative or quotative, as a question, or as hortative.
+Mian verbs productively form serial verb constructions. Verb serialization
+is discussed in section 11.1 under chaining.",[269]
+"Topic-only questionsTopic-only questions are a type of interrogative in which only a topic is given,
+as in English What about John? or And you? The speaker has a particular
+question in mind, and it must be obvious from the context what the implied
+question is, normally something that would have been asked immediately
+before about a different discourse participant or something that was
+anticipated by a statement, such as I’m going. What about you? (Implied: Are
+you going as well?). In Mian topic-only questions are formed by using a free
+pronoun or noun phrase and the low-toned topic clitic =le. In the examples
+below, possible implied questions are given in brackets. If context is lacking
+the default interpretation of a topic-only question would be about the topic’s
+whereabouts:
+(58)bo=le?
+2SG.F=TOP
+‘What about you?’ (Possible implication: ‘What are you doing?’,
+‘What do you want to eat?’)10.3. Topic-only questions(59)403=le?
+3SG.F=TOP
+‘What about Leoni?’ (Possible implication: ‘What’s Leoni doing?’,
+‘Where is Leoni?’)
+LeoniPNTopic-only questions are a special case because they do not display any of the
+usual strategies to mark an utterance as a question in Mian. As can be seen
+from the two examples above, there are no interrogative words nor do any
+interrogative particles occur.
+I assume that there are two reasons why (58) and (59) are readily
+interpreted as topic-only questions though they do not bear any of the markers
+typical of questions in Mian: (a) they have their own distinctive intonational
+contour, namely a level high pitch on the topic marker =le which is almost as
+high as the H on the preceding vowel and (b) as a matter of convention, any
+utterance of the structure NP=TOP is interpreted as a topic-only question.","[428, 429]"
+"61. The language and its speakersVoorhoeve’s (2005) genealogy is wider in scope. He examines the genetic
+relationship of the Asmat-Kamoro, Awyu-Dumut and Ok families based on
+regular sound correspondences in the daughter languages. A study of the
+genetic relatedness of Oksapmin, which to date has been classified as an
+isolate, and the Ok languages can be found in Loughnane and Fedden (2011).
+Previous linguistic work on Mian was done by Jean Smith and Pamela
+Weston of the Summer Institute of Linguistics (SIL), two missionaries who
+lived in Sokamin for 15 months and in Telefomin for several years where they
+worked with visiting and live-in Mian speakers (my main consultant Kasening
+Milimab among them). Smith and Weston published a two-part sketch
+grammar, dealing with the phonology and the morphosyntax of the language,
+respectively (Smith and Weston 1974a, 1974b). Apart from this sketch, Smith
+(1977) published an article on sentence structure, and Weston (1977) one on
+interrogatives. Smith and Weston (n.d.-a) is a compilation of this material with
+some additional information on Mian discourse. Smith and Weston (n.d.-b) is
+a sizable wordlist, which comprises approximately 2,000 entries, each with a
+Mian headword and Tok Pisin and English glosses. Apart from indication of
+word class, the wordlist contains no further grammatical information.
+Although Smith and Weston were not formally trained linguists and their
+linguistic work has always been directed to the end of translating the complete
+New Testament into Mian (Smith and Weston 1986), their grammar sketch,
+i.e. Smith and Weston (1974a, 1974b), was invaluable as a starting point for
+my own linguistic analysis of Mian.
+The only other Ok language described in greater detail is Telefol. Phyllis
+and Alan Healey did research on Telefol phonology (Healey 1964b), noun
+phrase (Healey 1965a), clause structure (Healey 1965b), verb phrase (Healey
+1965c), and clause chaining constructions (Healey 1966). In addition to that,
+the Healeys published an excellent dictionary (Healey and Healey 1977).
+Their findings have never been published in a single volume.
+Materials on Tifal phonology can be found in Steinkraus (1963, 1969),
+materials on Tifal grammar in Healey and Steinkraus (1972) and in Boush
+(1975). For information on Faiwol, see Mecklenburg and Mecklenburg (1969,
+1977) and Mecklenburg (1974).","[31, 32]"
+"Medial verbs in utterance-final positionIt is quite a common phenomenon for Mian medial verbs to appear utterancefinally in natural discourse. However, such utterances are usually not taken to
+be grammatically complete sentences (Reesink 1987: 87). Their verbs are
+clearly medial and not final because they are not interpreted with respect to
+the moment of speaking (as final verbs are) but rather with respect to some
+subsequent event which is not mentioned but implied or understood, since it is
+obvious to the addressee from the context established by the situation in which
+the utterance was made (Reesink 1983: 225).
+Although clause chains do not involve subordination (in the sense of
+embedding) but rather co-subordination, the phenomenon under discussion
+here is comparable to the widespread use of subordinate constructions as main
+clauses in the world’s languages with particular semantic or discourse effects
+(Evans 2007).
+Note that medial verbs in utterance-final position always take the medial
+verb marker =ta rather than =a. An example is provided in (124):
+sít=o
+fubâ-n-i=ta
+(124) n
+tooth=PL.N1 wash-SS.SEQ-1SG.SBJ=MED
+1SG
+‘I’ll brush my teeth first and then I’ll …’ [Observed]
+Medial clauses as independent utterances are invariably understood as
+desiderative statements about the future. Examples like (124) are abbreviated46811. Chaining constructionsversions of a full clause chain ending in a final verb inflected for irrealis. A
+possible example is (125):
+(125) n
+1SGsít=o
+tooth=PL.N1fubâ-n-i=ta
+wash-SS.SEQ-1SG.SBJ=MEDáam
+un-aamab-i=be
+lie.SG.SBJ go.PFV-IRR.NANPL.SBJ-1SG.SBJ=DECL
+‘I’ll brush my teeth and then go to bed.’
+A clause with a medial verb in final position, such as n sít=o fubâ-n-i=ta in
+(124) above cannot be construed to mean: *‘I have brushed my teeth’, for
+which an independent sentence has to be employed, as in (126):
+(126) n
+sít=o
+fubâ-Ø-i-o=be
+tooth=PL.N1
+wash-REAL-1SG.SBJ-EP=DECL
+1SG
+‘I’ve brushed my teeth.’
+In (126), the final verb fubâiobe ‘I’ve washed (it)’ is zero-marked for realis
+mood. As there is no alternative temporal reference point indicated, the default
+interpretation is that the action took place immediately before the moment of
+speaking.
+Another reason why utterance-final verbs in examples such as (124) above
+should be treated as medial and not as final verbs is that the markers in the
+pre-subject slot are interpreted as S/R markers. The S/R system limits the set
+of available subjects for the implied event. For instance, the medial verb in
+(124) fubânita is inflected with -n ‘SS.SEQ’. As the subject is first person
+singular, the subject of the implied event must be coreferential. In all other
+person-number combinations, -n only indicates sequentiality of events (127):
+(127) funa-n-eb=ta
+think.PFV-SEQ-2SG.SBJ=MED
+‘You think first and then (anybody)…’
+In the next example the medial verb is marked for DS. Consequently, the
+subject of the implied event must be disjoint (regardless of person and number
+specification of the subject):
+(128) aai=e
+dowôn’-s-eb=ta
+eat.PFV-DS.SEQ-2SG.SBJ=MED
+water=SG.N1
+‘You’ll drink water first and then someone else will…’11.6. Non-verbal clauses in clause chains469It is possible for utterance-final medial verbs to also take one of the
+illocutionary particles =be ‘Declarative’, =bo ‘Emphatic/quotative’, =ble
+‘Exclamative’, =a ‘Question’, or =e ‘(Content) Question’ (which normally
+only occur on final verbs) in addition to the medial verb clitic =ta. Again,
+such structures are not grammatically complete utterances but imply an event
+which must be readily retrievable from the linguistic or extra-linguistic
+context. Examples (129) and (130) illustrate this for a declarative and an
+interrogative sentence, respectively:
+(129) fanin-wal=i
+ancestor-PL=PL.ANwengsâng
+storybaa-n-ang-ge-n-i=ta=be
+say.PFV-REAL-IMMACC.SG.SBJ-say.PFV-SS.SEQ-1SG.SBJ=MED=DECL
+‘I am about to tell an ancestor story.’ (Implied: ‘and I will tell it
+now’)
+(130) sít=o
+fubâ-n-eb=t=ya?
+wash-SEQ-2SG.SBJ=MED=Q
+tooth=PL.N1
+‘Will you brush your teeth first?’ (Implied, e.g. ‘and then go to bed’)11.6.","[493, 494, 495]"
+"IntroductionMian has four types of embedded structure. These are:
+-quotative sentences
+adverbial clauses
+head-internal relative clauses
+prenominal relative clausesThese four structures can be distinguished with respect to their syntactic
+category and the structures into which they are embedded.
+Quotatives are full sentences, i.e. they receive marking for illocutionary
+force, e.g. =bo for quotatives, =a for embedded polar questions, =e for
+embedded content questions, or =e ~ =o ‘hortative’. These are always
+embedded as sentential complements of the function verb ge/ga ‘say’.
+Adverbial clauses and head-internal relative clauses display clausal syntax
+but are formally marked as noun phrases, i.e. they occur with a proper subset
+of the determiners which fill the determiner slot in ordinary noun phrases. It is
+quite typical for Papuan languages to treat adverbials and relatives formally
+the same, the functional reason for this being that both types of clause provide
+background information (Foley 1986: 202).
+Prenominal relative clauses are embedded within noun phrases. They do
+not receive any overt marking. There is no subordinator, determiner and no
+illocutionary marking.
+Embedded structures are on a different syntactic level with respect to their
+matrix clauses because in complex sentences, embedded clauses are skipped
+by the switch reference (S/R) morphology operating in the main clause, i.e.
+S/R is calculated with respect to the next clause after the embedded structure.
+Verbs in simple embedded clauses are morphologically very similar to
+independent sentence-final verbs, e.g. both the former and the latter can be
+inflected for irrealis mood whereas medial verbs cannot. All embedded
+structures can be complex themselves. They can consist of a clause chain
+themselves. In such cases, the last clause has a final verb and all clauses in the
+embedded chain have medial verbs with S/R morphology pertaining only to
+subject tracking and to the temporal structure of the events in the embedded
+clause chain. In other words, S/R morphology only tracks subjects across48613. Embeddingclauses on the same syntactic level. Subject-tracking never reaches into
+embedded clauses or out of embedded clauses into the matrix clause.
+Verbs in embedded quotatives are always fully independent of any
+information marked on the final verb in the matrix clause. Verbs in embedded
+adverbials and relative clauses are only minimally dependent on the matrix
+verb in that it always has to have the same illocutionary force value. This
+dependency is familiar from clause chains. Unlike medial clauses, however,
+verbs in embedded adverbial and relative clauses have their own TAM value
+and are independent of any negation on the matrix verb, as shown in (1).
+Adverbial clauses are “impervious to denial from such following clauses”
+(Haiman 1980: 142), e.g.:
+(1)bomânomo
+tomorrowbalubib=e
+airstrip=SG.N1aai=e
+water=SG.N1êi-n-em-e=o
+accumulate-AUX.PFV-COND-3SG.N1.SBJ=N2
+balu=e=mo
+tl-aamab-e=ba=be
+come.PFV-IRR.NANPL.SBJ=NEG=DECL
+plane=SG.N1=NEG
+‘If tomorrow the airstrip accumulates water, the plane won’t come.’
+Habitual marking likewise never extends to an adverbial clause. The hitting of
+cats cannot be interpreted as habitual in (2):
+(2)kbo
+2SG.Mbusi
+cati-nâ’-n-em-eb=o
+PL.AN.O-hit.PFV-AUX.PFV-COND-2SG.SBJ=N2
+meou
+ga-bina-b-io=be
+meow say.IPFV-AUX.HAB-IPFV-2/3PL.AN.SBJ=DECL
+3PL.AN
+‘If you hit a cat, it (habitually) meows’ [TMA questionnaire, 75]13.1.","[511, 512]"
+"VerbsAs verbs are morphologically by far the most complex word class in Mian, I
+will only be concerned with the defining features at this point and only give a
+few examples to illustrate the most fundamental points about verb inflection in
+Mian. For a detailed treatment of the morphology of the verb the reader is
+referred to chapter 8.
+Loans from Tok Pisin or English cannot be inflected like native Mian
+verbs, but rather such loans have to be followed by the function verb ke ‘do’ in
+a function verb construction:
+(36)
+futbol
+pilai
+football(TP) play(TP)
+3PL.AN
+‘They are playing football.’ke-b-io=be
+do-IPFV-2/3PL.AN.SBJ=DECLMian has intransitive, transitive, ditransitive, ambitransitive, and impersonal
+(atransitive) verbs. Transitives can be productively derived from intransitives
+and ditransitives from transitives. On basic argument structures and derived
+ones, see sections 9.1 to 9.7.
+Semantically, verbs refer to actions, processes, and states. Verbs fulfil the
+function of the predicate of a clause.
+Suprasegmentally, verbs are either unaccented, in which case they are alllow, or are lexically specified for an accent to which one of two complex tonal
+melodies (either HL or LHL) is assigned. Nouns, on the other hand, are
+associated with one of five tonal melodies.
+Syntactically, verbs are easily identified. Mian is an SOV language.
+Although there is some pragmatically motivated variability with respect to the
+position of subject and object, the last word in a clause is almost always the
+verb and under no circumstances can the verb be followed by any of its
+arguments. Occasionally, however, one finds locative adjuncts postposed after
+the verb which are adverbial modifiers of the preceding verb syntactically, but
+which form their own intonational unit (see 11.2.10).
+Morphologically, verbs can index their core arguments with pronominal
+affixes cross-referencing subject (37) and object (38):1023. Word classes and grammatical relations(37)lo
+y
+fu-m-i=be
+now
+there smoke.IPFV.INCH-1SG.SBJ=DECL
+‘Now I start smoking.’ [Rolling smokes](38)ya-temê’-b-e=a
+PL.AN.O-look_at.IPFV-DS.SIM-3SG.M.SBJ=MED‘while he was watching them, (they …)’ [Danenok]
+For more information on the indexation of arguments on the verb, see the
+sections 3.14 on grammatical relations, 8.5 on argument marking, and 9.2 on
+transitive verbs.
+Final verbs, i.e. verbs in independent sentences or in final clauses of clause
+chains, can be inflected for various aspectual categories, e.g. -b ‘Imperfective’
+(39), modal categories, e.g. -n ‘Realis’ (40), and temporal categories, e.g. -s
+‘Remote past’ (41):
+(39)sm
+y
+gen-b-i=be
+still
+there
+roll.IPFV-IPFV-1SG.SBJ=DECL
+‘I am still rolling.’ [Rolling smokes](40)as=e
+fa-n-e=be
+make_fire.PFV-REAL-3SG.M.SBJ=DECL
+fire=SG.N1
+‘He (has) made a fire’(41)y le
+éil=e
+a-nâ’-s-ib=e?
+well
+pig=SG.M 3SG.M.O-kill.PFV-RPST-2/3PL.AN.SBJ=Q
+‘Well, did they kill the pig?’ [Mianmin and Telefomin]Medial verbs, i.e. verbs in non-final clauses in clause chains, can be inflected
+for co- or disjoint reference of the subject in the succeeding clause in
+combination with sequentiality or simultaneity of events. In (42), the suffix -b
+‘DS.SIM’ indicates that the event described in the first clause is on-going
+when the event described by the second clause takes place and that this second
+clause has a different subject:
+(42)gwáab=i
+small=PL.AN-maye
+3PL.AN-REFLunê-b-ib=a
+go.IPFV-DS.SIM-2/3PL.AN.SBJ=MEDdowôn’
+eat.PFV3.2. Verbs103haleb
+-ta
+te-s-e=a
+SG.M-EMPH
+come.PFV-DS.SEQ-3SG.M.SBJ=MED
+wild_boar
+‘the small (ones) themselves ate and (then) were going away, when
+a wild boar came’ [Afoksitgabáam]
+A subset of verbs, almost all of which make predications of handling or
+movement, has an obligatory classificatory prefix which classifies one of the
+arguments according to semantic characteristics, namely sex, form, and
+function, on an absolutive basis. In (43), the object fukêt ‘smoking gourd’ is
+classified as belonging to the residue class.
+(43)
+3PL.AN.POSSdab=o
+same_sex_siblings(dyad)=COLLfukêt=e
+smoking_gourd=SG.N1
+ob-ò-n-ib=a
+3SG.RESID.O-take.PFV-SEQ-2/3PL.AN.SBJ=MED
+‘the brothers took a smoking gourd’ [Danenok]
+About half of the verbs show an aspectual stem distinction with a
+perfective/imperfective contrast. The rest are trans-aspectual, i.e. they have
+only one stem which is vague with respect to aspect. A few verbs are defective
+and lack either a perfective or an imperfective stem. Formally distinct
+perfective and imperfective stems are subject to certain inflectional
+restrictions, e.g. a perfective stem cannot be directly inflected for imperfective
+aspect but has to enter an auxiliary construction. Trans-aspectual stems are not
+restricted in terms of their inflectional morphology.
+For certain tense-aspect combinations, some verbs cannot be inflected
+directly, but have to be serialized with the existential verb functioning as an
+auxiliary before inflection can proceed:
+(44)fu
+unan-biaana-b-io=be
+cook
+eat.IPFV-AUX.HAB.PST-IPFV-2/3PL.AN.SBJ=DECL
+‘They used to cook and eat (some kind of fruit) until now.’Two verb stems can be compounded into one phonological and grammatical
+verbal word which forms a single predication denoting a single event. Verbs
+also frequently appear in serial verb constructions in which only the last verb
+is fully inflected and all preceding verbs are either bare verb stems or stems
+with affixes indexing any object(s) but lack TAM inflection or marking for1043. Word classes and grammatical relationssubject, polarity or illocutionary force. Mian allows verb serialization at the
+core or the nuclear level. See 11.1 for a detailed description of verb
+serialization.
+Directionals can be directly inflected to form intransitive verbs of motion,
+for example from daak ‘down’:
+(45)daak-n-i=a
+down-SS.SEQ-1SG.SBJ=MED
+‘I go down and then I…’.","[127, 128, 129, 130]"
+"421Medial verb morphology and clause chainingThis section deals with medial verb morphology and clause chaining. It
+consists of a description of switch reference morphology in medial verbs and a
+discussion of some unexpected semantic and functional inconsistencies in
+switch reference marking, which have their origin in the fact that the Mian
+switch reference markers are derived from the homophonous TAM markers
+used in final verbs. The scope rules of operators, such as tense, polarity and
+illocutionary force, an important and often overlooked topic in clause-chaining
+languages, will be taken up in chapter 12.",[447]
+"References
+1986587Noun classes and noun classification in typological perspective. In
+Noun Classes and Categorization, Colette G. Craig (ed.), 105-112.
+Amsterdam: John Benjamins.
+1994
+Ergativity. Cambridge: Cambridge University Press.
+2002
+Australian Languages: Their Nature and Development. Cambridge:
+Cambridge University Press.
+2004
+Adjective classes in typological perspective. In Adjective classes,
+Robert M. W. Dixon and Alexandra Y. Aikhenvald (eds.), 1-49.
+Oxford: Oxford University Press.
+Donohue, Mark
+1997
+Tone systems in New Guinea. Linguistic Typology 1: 347-386.
+1999
+Warembori. (Languages of the World/Materials 341.) München:
+Lincom Europa.
+2003
+The tonal system of Skou, New Guinea. In Proceedings of the
+Symposium Cross-linguistic Studies of Tonal Phenomena: Historical
+Development, Phonetics of Tone, and Descriptive Studies, Shigeki Kaji
+(ed.), 329-365. Tokyo University of Foreign Studies: Research Institute
+for Language and Cultures of Asia and Africa.
+Dryer, Matthew S.
+1992
+The Greenbergian word order correlations. Language 68: 81-138.
+2005
+Position of interrogative phrases in content questions. In The World
+Atlas of Language Structures, Martin Haspelmath, Matthew S. Dryer,
+David Gil, and Bernard Comrie. Oxford: Oxford University Press.
+2007
+Word order. In Language Typology and Syntactic Description. Vol. 1:
+Clause Structure. 2d ed. Timothy Shopen (ed.), 61-131. Cambridge:
+Cambridge University Press.
+Durie, Mark
+1995
+Grammatical structures in verb serialization. In Complex Predicates,
+Alex Alsina, Joan Bresnan, and Peter Sells (eds.), 289-354 Stanford:
+CSLI.
+Evans, Nicholas R. D.
+1995
+A Grammar of Kayardild: With Historical-comparative Notes on
+Tangkic. Berlin: Mouton de Gruyter.
+1997
+Head classes and agreement classes in the Mayali dialect chain. In
+Nominal Classification in Aboriginal Australia, Mark Harvey and
+Nicholas Reid (eds.), 105-146. Amsterdam: John Benjamins.
+2002
+The true status of grammatical object affixes: evidence from Bininj
+Gun-Wok. In Problems of Polysynthesis, Nicholas R. D. Evans and
+Hansjürgen Sasse (eds.), 15-50. Berlin: Akademie Verlag.
+2003a
+An Interesting Couple: The Semantic Development of Dyad Morphemes.
+Arbeitspapier Nr. 47 (Neue Folge). Köln: Institut für Sprachwissenschaft, Universität zu Köln.
+2003b
+Bininj Gun-wok: A Pandialectal Grammar of Mayali, Kunwinjku and
+Kune. Canberra: Pacific Linguistics.
+2006
+Dyad constructions. In Encyclopedia of Language and Linguistics. Vol.
+4, Keith Brown (ed.), 24-27. Oxford: Elsevier.","[612, 613]"
+"10. Question formationfatnà- ‘do what?’This is an interrogative pro-verb (Hagège 2008) consisting of the interrogative
+word fàb and the verb stem na ‘do’. Fatnà ‘do what?’ can be inflected as a
+verb and has the meaning ‘do what’:
+(27)fatnà-b-eb=e?
+do_what-IPFV-2SG.SBJ=CQ
+‘What are you doing?’ [Observed]There is a case to be made that fatnà is best analysed as an interrogative proverb, i.e. as a single root which contains both a verbal and an interrogative
+meaning. Such interrogative pro-verbs can be found in Papuan languages, e.g.
+Kuot (Lindström 2002), Austronesian languages, e.g. Paamese (Crowley
+1982) and Australian languages, e.g. Kayardild (Evans 1995: 371-372) and
+Dyirbal (Dixon 1972). Outside the Pacific area, interrogative verbs can for
+example be found in West Greenlandic (Kalaallisut) (Sadock 1984: 206).
+In Paamese, there is an intransitive monomorphemic interrogative verb
+kosaa ‘do what’, which is not segmentable into an interrogative and a verbal
+element (Crowley 1982: 159).
+For Kayardild, Evans (1995: 371) analyses the pro-verb ngaakawatha ‘do
+what’ as an inchoative form of the interrogative word ngaaka ‘what/who’.
+Here, the pro-verb is derived from an interrogative word with the suffix
+-watha which derives verbs from nominals (Evans 1995: 282).
+The degree of fusion between the interrogative and the verbal element in
+fatnà is relatively low. The interrogative word fàb and the verb stem na ‘do’
+can still clearly be discerned. /b/ goes to [t] before the alveolar nasal /n/. This
+form of place assimilation applies across the board in Mian and is thus not
+necessarily indicative of a beginning fusion between the interrogative and the
+verb stem.
+On the other hand, there is a semantic shift of the interrogative word fàb
+from ‘where’ to ‘what’ in fatnà. Bare fàb cannot mean ‘what’, while fatnà
+cannot mean ‘do where’. It contrasts with fàb na ‘do where’. As the meaning
+of fàb is clearly construction-specific here, the meaning of fatnà cannot be
+said to be fully transparent anymore. Also, the [t] in the interrogative verb
+ftna is often elided in normal and fast speech to yield fanà ‘do what’. I
+therefore analyse fatnà as an interrogative pro-verb, albeit one with a low
+degree of fusion between the interrogative and the verbal part.
+The core meaning of fatnà is ‘do what’:
+(28)n
+1SGul
+funguslo
+DEM.PROX.PL.N1dowôn’-aam-i=o
+eat.PFV-COND-1SG.SBJ=N210.2. Content questions395fatnà-n-amab-i=ne?
+do_what-AUX.PFV-IRR.NANPL.SBJ-1SG.SBJ=CQ
+‘If I eat this fungus, what will happen to me?’ [TMA Questionnaire,
+81] (lit. ‘If I eat this fungus, what will I do?’)
+In other contexts the free English translation of a question with inflected fatnà
+is closer to ‘why’, as in (29) or ‘how’, as in (30):
+(29)
+3SG.Ffanà-n-o=ta
+do_what-SEQ-3SG.F.SBJ=MEDbesao
+me-b-o=ne?
+just
+cry.IPFV-IPFV-3SG.F.SBJ=CQ
+‘Why is she crying without reason?’ [Newlyweds]
+(lit. ‘What has she done, is she just crying?’)
+(30)fanà=ta
+un-ût’-ne-n-e=ne?
+go.PFV-give.PFV-1SG.R-REAL-3SG.M.SBJ=CQ
+do_what=MED
+‘How has he escaped me?’ [Klebein]
+(lit. ‘What has he done, has he gone on me?’)The last two examples also shed some light on the syntactic and
+morphological behaviour of fatnà in content questions.
+First, these forms function as verbs and are heads of their own clauses as
+can be seen in (29), which consists of a medial clause  fatnànota and a final
+clause besao mebone. This is captured in the literal translations above. Like
+medial verbs, inflected fatnà is subject to the usual inflectional restrictions for
+medial verbs, namely that they cannot be marked for polarity or for irrealis or
+deontic mood.
+Second, the bare stem fatnà can appear in shortened medial clauses under
+subject identity as in (30). If the verb in the following clause has the same
+subject, Mian medial verbs can be shortened to just the stem which is marked
+as a medial verb by the clitic =ta (see 11.2.13).
+Therefore, fatnà ‘do what’ is a morphologically and syntactically regular
+verb in many respects. It can also form hortative verb forms (31) and appear in
+purposive serializations (32):
+(31)fatnà-n-an=e?
+do_what-REAL-1SG.SBJ.HORT=CQ
+‘What shall I do?’39610. Question formation(32)fatnà-m
+un-Ø-eb=e?
+go.PFV-REAL-2SG.SBJ=CQ
+do_what-IPFV
+‘You go to do what?’10.2.4.","[420, 421, 422]"
+"Map 1.1. The Ok languages of Papua New Guinea1.1. Mian wéng: The Mian language3Geographically, the Mianmin area is delimited by the August and May Rivers
+in the west and east, respectively, and the Hindenburg Range in the south.
+This area is roughly located between the 141st and 142nd degrees of longitude
+and between the 4th and 5th parallels. Mianmin airstrip and the villages
+Timeilmin and Temsakmin, where the data used in this description of the
+language were obtained, is located at 4º 54' south and 141º 37' east.
+Mian has about 1,750 speakers according to the 2000 census (Lewis 2009).
+Two dialect varieties can be distinguished: West Mian (also known as
+Wagarabai or Skonga)3 in and around Yapsiei, a government and Catholic
+mission station about 15 km east of the border to Papua (Irian Jaya) with
+approximately 350 speakers, and East Mian in the villages around Mianmin
+airstrip (Timeilmin, Temsakmin, and Sokamin), in Gubil, Fiak, and Hotmin
+with approximately 1,400 speakers. While the western dialect is contiguous to
+several other Ok languages to the west and to the non-related Abau language
+(Bailey 1975) upstream from Yapsiei, the eastern dialect is in contact with the
+closely related Ok languages Telefol to the east and south and Tifal to the
+southwest. Some men above 50 years of age speak or at least understand
+Telefol. The map shows geographical contiguity with the Lowland Ok
+language Ngalum as well but there are no traditional ties between Mian and
+Ngalum speakers.
+Both Mian dialects are under strong influence from English and Tok Pisin,
+the local variety of Neo-Melanesian pidgin (Verhaar 1995). Although the
+former is clearly the most prestigious of the two and school education and
+official business is conducted in English, Tok Pisin serves as a lingua franca
+throughout the area. Only old speakers (above 75 years of age) have little or
+no Tok Pisin. Mian speakers are aware of the influence of these nonindigenous languages, especially their destructive influence, and some
+regularly identify words and grammatical constructions which are inspired by
+or calqued from either Tok Pisin or English. They describe these words and
+constructions as wan wéng funin or tablasébwali wéng funin, meaning ‘Tok
+Pisin thinking’ and ‘English thinking’, respectively.4 As is the case in many
+parts of the world, creoles and pidgins like Tok Pisin and the languages of the
+European colonizers in combination with the prestige associated with these
+idioms and the inferiority associated with the tok ples, i.e. the local,
+indigenous languages, endanger the future of both Mian dialects. One speaker
+(a local school teacher) estimated that Mian will have vanished in favour of
+Tok Pisin and English in 50 to 100 years. My impression is that the eastern
+dialect is even more susceptible to this development because the speakers are
+generally more educated, have better English and higher chances of finding
+work outside the speech community or going to college or university where
+Mian is no good as a means of communication so that they are forced to speak
+Tok Pisin or English.","[28, 29]"
+"44611. Chaining constructionsThe suffix -n ~ -Ø ‘Realis’ has a default temporal interpretation of
+‘Immediate past’, but one finds verb forms marked in this way interspersed in
+discourse about various stages of the past:
+(81)ilem=e
+blood=SG.N1te=ta
+come.PFV=MEDna-ˆt’-ne-n-e=be
+make-give.PFV-1SG.R-REAL-3SG.N1.SBJ=DECL
+‘(Some) blood comes and does (this) to me.’ [Afoksitgabáam]
+The suffix -s ‘Remote past’ locates events in the remote past. It is mainly
+found in myths and stories about the past or in actual historical accounts.
+(82)yle
+éil=e
+a-nâ’-s-ib=e?
+well
+pig=SG.M 3SG.M.O-kill.PFV-RPST-2/3PL.AN.SBJ=Q
+‘Well, did they kill the pig?’ [History of Mianmin and Telefomin]The suffix -b ‘Imperfective’ has a default temporal interpretation of ‘present’
+but can also be used for events in the past, as in (83):
+(83)met
+upriverte
+come.PFVyomin
+am=o
+initiation house=N2gen-b-io=be
+build.IPFV-IPFV-2/3PL.AN.SBJ=DECL
+‘They came upriver and were building the initiation house.’
+[Initiation rituals]
+S/R markers having their origin in the TAM morphology of the language does
+not seem to be a common development in New Guinea languages. Existing
+theories of the origin of S/R markers in Papuan languages trace them back
+either to gapping under identity, which gives rise to zero marking for SS
+(Haiman 1983), or to a pronominal or deictic origin. For a condensed
+summary of these theories of origin and an evaluation of their plausibility, see
+Roberts (1997: 190-192). In general, homophony between aspect and S/R
+markers does not seem to be well attested typologically, but see Jacobsen
+(1983: 174-177) on some formal similarities of S/R and aspectual morphology
+in North American languages.
+Yet, the formal parallels between the Mian TAM markers in final verbs
+and S/R markers in medial verbs are too striking to be coincidence and the11.2. Medial verb morphology and clause chaining447semantics of the former make them very likely candidates for the forms from
+which the latter have been derived.
+The S/R marker -n originates in the homophonous realis mood marker. So
+what it does is simply marking the ‘real’ status (Foley and Van Valin 1984) of
+an event. As a marker in medial verbs, -n remains noncommittal with respect
+to conjoint or disjoint subject reference in the verb of the reference clause with
+the added complication that -n does function as a fully developed S/R marker
+if the subject is first person singular.
+In medial verbs, the suffix -b means ‘DS.SIM’ and in final verbs -b means
+‘Imperfective’. Apart from the homophony there is also a semantic
+connection. In final verbs, marking for imperfective aspect by -b indicates that
+the action is on-going at the moment of speaking. In medial verbs, -b indicates
+that an action is on-going when the next takes place, in other words, that the
+two actions are overlapping and at least partially simultaneous. Looking at it
+from the other end, an action or event which is marked as simultaneous with
+the one described in the following clause is very likely to be temporally
+extended (barring the case where two punctual actions occur simultaneously,
+as in “(Right) as the clock struck one, the bullet hit him”).5 Hence, there is a
+strong association between imperfective aspect and simultaneity of events.
+Longacre (1983) argues for a two-fold ‘naturalness assumption’ in S/R
+languages. By this he means an association between SS marking and
+sequentiality, on the one hand, and DS marking and simultaneity, on the other.
+It is the case that “[…] we can normally expect that actions in succession are
+performed by the same person, while actions that overlap are performed by
+different people” (p. 183).
+If we follow Longacre and assume that actions which occur simultaneously
+are expected to be performed by different individuals, it is not surprising that
+the marker -b acquired DS as an additional meaning in medial verbs.
+The suffix -n, on the other hand, which goes back to the homophonous
+realis marker, generally only signals sequentiality of events but if it indicates a
+S/R-related meaning, namely with first person singular subjects, it will always
+be SS. Hence, even -n goes the way predicted by the naturalness assumption.
+The marker -s ‘DS.SEQ’ is derived from a deictic tense category, namely
+‘Remote past’, the temporal meaning would of course be sequential. Two
+points are noteworthy here.
+First, -s has acquired a further meaning apart from DS. It is used to express
+sequentiality, DS, and a close temporal or causal relation between events. This
+is in contrast to -Ø ‘DS.SEQ’, which does not have this additional meaning.
+Second, it might seem counterintuitive that a S/R marker meaning ‘DS.SEQ’
+should be derived from the remote past tense suffix. After all, ‘Remote past’ is
+not part of the meaning -s has in medial verbs. However, only TAM suffix
+occurring in final verbs that is not also used in medial verbs is44811. Chaining constructions-b(H) ‘Non-Hodiernal past’, which is (at least segmentally) homophonous with
+-b ‘Imperfective’ in final verbs and ‘DS.SIM’ in medial verbs. Hence, if one
+assumes that the language filled out its S/R paradigm by deriving forms from
+the TAM suffixes used in final verbs, it seems that choosing -s was a
+reasonable option for the language.
+Finally, we have to account for the most problematic case, namely -Ø
+‘DS.SEQ’. Like -n ‘(SS.)SEQ’, it always indicates event sequentiality, which is
+not surprising given their common origin is the realis marker -n ~ -Ø. Unlike
+-n ‘(SS.)SEQ’, however, it forces the reference clause subject to be disjoint in
+reference. The semantic dissociation between the S/R markers -n and -Ø needs
+an explanation because as mood markers in final verbs they are allomorphs,
+both with the meaning ‘Realis’. However, the semantic dissociation in the S/R
+forms is only partial. A substantial, and I would argue crucial, portion of the
+meaning remains constant. Both -n and -Ø still signal sequentiality which is
+associated with the ‘Realis meaning’ of the original mood marker. The
+dissociation only began when the additional meaning of SS or DS filtered into
+the aspect system of medial verbs. It seems quite natural that the language
+would have chosen one of these two to also indicate SS and the other to also
+indicate DS apart from their basic temporal meaning of sequentiality, once a
+SS/DS contrast had developed elsewhere in the system.","[471, 472, 473, 474]"
+"3. Word classes and grammatical relationsDirectionalsDirectionals are an important and very variable category in Mian. They can be
+used as adverbs or postpositions and be directly inflected to form verbs of
+motion.
+All directionals primarily have spatial meaning and denote locations or
+directions. They can never be combined. The inventory consists of six items:
+(145) ut~wit
+daak
+met
+tab
+wt
+tm‘up(wards)’
+‘down(wards)’
+‘upriver, up a little’
+‘downriver, down a little’
+‘across (a river or valley)’
+‘sideways, to the side (on same level)’Mian directionals are intimately linked to the topographical environment in
+which the speakers of the language live. Figure 3.1 illustrates the basic
+meanings of the directionals in relation to the topographical environment.utmet
+tm
+tab
+tmdaakRIVERFigure 3.1. Mian directionals and the topographic environmentwt3.8. Directionals141The two main axes of orientation are (a) ground elevation, i.e. ut ‘up’ vs. daak
+‘down’ and (b) the rivers Hak and Sek, which run roughly parallel to each
+other near Mianmin, i.e. met ‘upriver’ vs. tab ‘downriver’.
+Directionals are also employed in small(er)-scale environments, in which
+the directionals met ‘upriver’ and tab ‘downriver’ are not used with reference
+to a river as a landmark but rather mean ‘up (a little)’ and ‘down (a little)’,
+respectively.
+Locations around the upper part of the human body are commonly referred
+to as ut, e.g. kwel ut [neck up] ‘up at the neck’, and locations around the lower
+part as tab, e.g. kakam tab [buttocks down] ‘down at the buttocks’. However,
+more systematic research in spatial deixis is needed for reliable
+generalizations about the use of directionals in small-scale reference frames.
+Directionals are used for all locations inside and outside of the Mianmin
+area. Selected example are: ut - Sokamin; daak - Oksapmin, Tabubil, Fiak,
+Lae, and Germany; met - Tifalmin; tab - Gubil, Yapsiei, Hotmin, Green River;
+tm - Ogisai; wt - Telefomin, Vanimo, Aitape, Port Moresby, and Australia.
+Farther away locations show inter-speaker variation, for instance, one only
+finds tab for Gubil, which is a six-hour walk downriver from Mianmin,
+whereas the location of Germany or Australia are referred to by either daak or
+wt.
+Directionals can be used as postpositions and adverbially. As postpositions
+they follow a noun phrase. See also 7.1. They typically cliticize to their noun
+host:
+(146) Skiobib tab
+PN
+downriver
+‘downriver in Skiobib’ [Dimosson]
+They can be marked with an article which agrees in number and gender with
+its nomnial complement. In such a configuration, the postposition does not
+cliticize, e.g.:
+(147) kwel
+ut=o
+neck(F) up=SG.F
+‘up at her neck’ [Selimin]
+In their adverbial use, directionals indicate that a movement event specified by
+a verb of motion takes place in a certain direction. In this case, the directional
+comes immediately before the verb:1423. Word classes and grammatical relations(148) Klefol=i
+daak
+te-n-ib=ta
+PN=PL.AN
+down
+come.PFV-SEQ-2/3PL.AN.SBJ=MED
+‘The Telefomin people came down and then …’ [Mianmin and
+Telefomin]
+Furthermore, all directionals can be inflected directly to form intransitive
+verbs of motion. For details on this special type of inflection, see 9.1.2 on
+motion verbs.","[166, 167, 168]"
+"The interrogative word wantl-Ø-eb-bu=e?
+come.PFV-REAL-2SG.SBJ-GPST=CQThe interrogative word wan ‘who’ is used to inquire about the identity of
+animates including their names.
+There are four variants wan, un and wal, ul. The variation between /wa/
+and /u/ is free and can be found in other areas of Mian grammar, e.g. in the
+variation of the object agreement prefix wa- ~ u- (see 8.5.3). The variants wal
+and ul have the morphophonemic variants wale and ule if the following
+emphatic pronoun start in /i/, there is. Thus, the forms for the second and third
+person plural are walibta/ulibta ‘who (you PL)’ and walita/ulita ‘who
+(they)’, respectively.
+Without an emphatic pronoun, wan only occurs in questions about
+possessors. Like possessors expressed by full noun phrases, the interrogative
+word wan precedes the possessed. Either the pronominal article =e in the
+singular masculine form (44) or =i in the animate plural form (45) is
+obligatory:10.2. Content questions(44)lewan=e
+who=SG.M
+‘Whose (man’s) dog is this?’tíl=e?
+dog=CQletíl=e?
+dog=CQDEM.PROX.SG.M(45)wan=i
+who=PL.AN
+‘Whose (people’s) dog is this?’
+DEM.PROX.SG.M399In questions about the identity of a certain individual wan ‘who’ has to be
+compounded with an emphatic pronoun, such as ta ‘he (EMPH)’ (see 3.7.4).
+The interrogative clitic =e is used to mark interrogative illocution. When =e
+follows the pronoun suffix -ta, this suffix is realized as -t, as in (46) and (47):
+(46)bo
+wan-bt=e?
+who-2PL.AN.EMPH=CQ
+2PL
+‘Who are you (PL)?’(47)unáng
+lo
+DEM.PROX.SG.F
+woman
+‘Who is this woman?’wan-t=e?
+who-3SG.F.EMPH=CQIn questions about arguments in a clause, wan ‘who’ is compounded with an
+emphatic pronoun and occurs in situ. In (48) and (49) the subject is being
+queried:
+(48)blaya
+damnul-ta
+who-3SG.M.EMPHkwéit
+sugarcanehal-ût’-ne-n-e-bu=e?
+cut.PFV.SG.O-give.PFV-1SG.R-REAL-3SG.M.SBJ-GPST=CQ
+‘Damn, who cut my sugar cane?’ [The Unangkliten village]
+(49)wan-ta
+who-3SG.M.EMPHam
+houselo
+DEM.PROX.N2ge-n-e-bu=e?
+build.PFV-REAL-3SG.M.SBJ-GPST=CQ
+‘Who built this house?’ [TMA Questionnaire, 128]
+So far, all instances of wan have been to inquire about the possessor or the
+subject. It is also possible to use wan to inquire about the object of a transitive
+verb:40010. Question formation(50)wan-ta
+a-temê’-b-eb=e?
+3SG.M.O-see.IPFV-IPFV-2SG.SBJ=CQ
+who-SG.M.EMPH
+‘Who are you looking at?’In ditransitives, content questions about either the recipient (51) or the theme
+(52) are possible, but not both in the same clause. The maximal number of
+queried constituents is restricted to one:
+(51)buk=o
+book=N2wan-ta
+who-SG.M.EMPHom-ûb’-a-n-eb=e?
+3SG.F_CL.O-give.PFV-3SG.M.R-REAL-2SG.SBJ=CQ
+‘To whom did you give the book?’
+(52)naka=e
+man=SG.Mfatnàmin
+whatdl-ûb’-a-n-eb=e?
+PL.AN.O-give.PFV-3SG.M.R-REAL-2SG.SBJ=CQ‘What did you give to the man?’
+The use of the classificatory prefix dl- ‘plural animate object’ in the last
+example does not entail that the referent of the object is animate and plural.
+Rather it is used as a default form in content questions about the object, i.e.
+when the identity of the object referent is unknown and queried. For inquiring
+about inanimate objects, see section 10.2.4 on fatnàmin ‘what’ above.
+The combination wan ‘who’ plus emphatic pronoun is used in a non-verbal
+construction to inquire about proper names, which are important properties of
+humans and some animals. Example (53) is the idiomatic way of inquiring
+about a man’s name. To ask about a woman’s name wanbte has to be used.
+(53)kb
+ninín=o=le
+wan-kbt=e?
+name=N2=TOP
+who-2SG.M.EMPH=CQ
+2SG.M.POSS
+‘What is your (M) name?’ (lit. ‘As for your (M) name, who
+[are] you (M)?’)Like fàb ‘where’, the interrogative word wan plus an emphatic pronoun can
+also be used adnominally as an interrogative modifier. In adnominal position it
+means ‘which’:10.2. Content questions(54)naka=i
+man=PL.AN401wan-ta
+who-3PL.AN.EMPHtl-aa-ib=e?
+come.PFV-DEONT-2/3PL.AN.SBJ=CQ
+‘Which men are about to come?’ [Danenok]
+There is one case where the interrogative phrase seemingly does not appear in
+situ. Consider the two semantically more or less equivalent utterances. In both
+(55) and (56), the speaker wants to know who broke the cup (|| indicates an
+intonational break):
+(55)wan-ta
+who-3SG.M.EMPHkàb
+cup(TP)le
+DEM.PROX.SG.N1klutâ-n-e=ne?
+smash-REAL-3SG.M.SBJ=CQ
+‘Who smashed this cup?’ [TMA questionnaire, alternative for 127]
+(56)kàb=e
+cup(TP)=SG.Mklutâ-n-e
+smash-REAL-3SG.M.SBJ=le
+3SG.M=TOP||wan-t=e?
+who-3SG.M.EMPH=CQ
+‘(As for) He who broke the cup, who (is he)?’ [TMA questionnaire,
+127]
+Compare constituent order in these two examples and also consider the order
+in the possible declarative answer in (57), which is parallel in structure to
+example (55):
+(57)Milsen=ekàb=e
+cup(TP)=SG.N1
+‘Milsen has smashed the cup.’
+PN=SG.Mklutâ-n-e=be
+smash.PFV-REAL-3SG.M.SBJ=CQExample (55) above consists of one clause showing the unmarked AOV order.
+The interrogative phrase is in subject position (i.e. in situ) and the verb is
+marked for interrogative illocution, whereas (56), on the other hand, does not
+consist of a finite clause but rather of a topic-comment construction with a
+head-internal relative clause in topic position, namely kàb=e klutâ-n-e =le
+‘he who broke the cup’, which is marked as a topic with =le, followed by a
+juxtaposed comment consisting of the interrogative word and the illocutionary40210. Question formationclitic, set off from the relative clause in topic position by a short intonational
+break. On head-internal relative clauses, see 13.3.2.","[424, 425, 426, 427, 428]"
+"11.2. Medial verb morphology and clause chaining(84)n
+1SGunín=o
+food=N2449fu-n-i-bio=ta
+cook-REAL-1SG.SBJ-GPST=MEDtl-Ø-i=be
+come.PFV-REAL-1SG.SBJ=DECL
+‘After I had cooked food, I came.’
+(85)n
+1SGunín=o
+food=N2fu-Ø-i-bio=ta
+cook-REAL-1SG.SBJ-GPST=MEDtl-Ø-i=be
+come.PFV-REAL-1SG.SBJ=DECL
+‘After I had cooked food, I came.’
+Both (84) and (85) are grammatical and mean – as far as I can tell – the same.
+If the suffixes -n and -Ø in these two sentences were really concerned with
+indicating S/R, example (85) should not be possible. As the subject in the
+reference clause is the same as the one in the marked clause, -Ø cannot be
+interpreted as ‘DS.SEQ’.
+Furthermore, we find examples like:
+(86)n
+1SGfút=e
+tobacco=SG.N1fu-n-i-bio=ta
+smoke-REAL-1SG.SBJ-GPST=MEDkbmi=e
+abuk ge-n-ebo=be
+yours=SG.N1 later roll.PFV-REAL-2SG.SBJ=DECL
+‘I had smoked and later you rolled yours.’
+If -n in (86) behaved like a normal S/R suffix it would have to indicate same
+subject and event sequentiality in the first person singular. Although a
+different subject is following, inflection of the verb in the marked clause with
+-n is allowed.
+Having established the behaviour of the suffixes in the pre-subject slot in
+tense-inflected medial verbs, I would like to point out that I still analyse these
+forms as medial and not as final verbs. The reasons for that are that they are
+still overtly marked as medial with either =a or =ta and do not take
+illocutionary particles, and that they obey the scope rules for medial verbs (see
+chapter 12). Furthermore, medial verbs inflected with -so-nom differ from
+final verbs inflected with -so in that the former need the special suffix -nom,
+which does not appear in the latter. Medial verbs inflected with -bio differ
+from final verbs inflected with -bio in that the former also allow -b45011. Chaining constructions‘Imperfective’ in the pre-subject slot, while in the latter the pre-subject slot
+can only be filled by -n ~ -Ø ‘Realis’.","[474, 475, 476]"
+"40611. Chaining constructionsThe last verb in a SVC is a fully inflected verb according to the
+morphological patterns of either medial or final verbs depending on whether
+the SVC is the predicate of a medial or a non-medial clause (i.e. a final clause
+in a clause chain or an independent sentence). Any information on
+illocutionary force, polarity, or tense invariably has scope over the whole
+SVC.
+An important structural distinction that is made for SVCs is at which
+‘layer’ of the clause they occur. Foley and Olsen (1985) argue that verb
+serialization can occur at either the nucleus or the core of the clause. The
+different clause layers are distinguished by sets of operators pertaining to a
+particular layer. For example, aspect operates at nucleus level and nominal
+arguments at core level.
+Core SVCs in Mian allow verbs to have their own objects, whereas aspect
+need not be shared. A nuclear SVC, on the other hand, has just a single object,
+if it is transitive. Furthermore, the aspect value of the component verbs must
+not be at variance. While it is possible for either stem to be trans-aspectual, it
+is impossible that one is perfective and the other imperfective. This is not a
+problem in core SVCs.","[431, 432]"
+"Illocutionary forceOnly final verbs can be marked for illocutionary force. The set of illocutionary
+markers consists of the clitics =be ‘Declarative’, =ble ‘Exclamative’, =bo
+‘Quotative, emphatic’, =a ‘Question’, =e ‘(Content) Question’, and =o ~ =e
+‘Hortative’. All of these have scope over the whole clause chain, e.g.:
+(1)
+3SG.Mbín=o
+floor=N2we-n-e=a
+sweep-SEQ-3SG.M.SBJ=MEDunín=o
+fu-n-e=be
+cook-REAL-3SG.M.SBJ=DECL
+food=N2
+‘He swept the floor and then cooked food.’
+In (1) the illocutionary particle =be marks the whole clause chain as
+declarative. The first clause cannot be interpreted as having a different
+illocutionary value, for instance, to construe it as a question: *‘Did he sweep
+the floor?’ is impossible. Note though that the first clause on its own could
+indeed be a question,2 provided it has the appropriate interrogative intonation:
+(2)
+bín=o
+we-n-e=a?
+floor=N2 sweep-REAL-3SG.M.SBJ=Q
+3SG.M
+‘Has he swept the floor?’Nonetheless, in (1) above an interrogative reading of the first clause is
+impossible due to the scope of the marker of declarative illocutionary force on
+the final verb.
+The same holds for the illocutionary markers =ble ‘Exclamative’ in (3),
+and =bo ‘Quotative, emphatic’ in (4):
+(3)wan
+birdtiam=i
+crow=PL.ANi=e
+dad=SG.Msangwân te-n-ib=a
+suddenly come.PFV-SEQ-2/3PL.AN.SBJ=MEDdob-Ø-ûb’-e
+3SG.M_CL.O-take.PFV-give.PFV-PL.AN.R12.1. Illocutionary force473un-Ø-io=ble!
+go.PFV-REAL-2/3PL.AN.SBJ=EXCLAM
+‘ “Crows came suddenly and took our Dad away!” ’ [Crows]
+(4)mukùng=e
+nose=SG.N1goi-ˆs’-o-s-i=a
+smash.PFV-give.PFV-3SG.F.R-DS.SEQ-1SG.SBJ=MEDkaan-s-o=a
+die.PFV-DS.SEQ-3SG.F.SBJ=MED
+le
+hereom-fâ-Ø-i-bio=bo
+3SG.F_CL.O-put.PFV-REAL-1SG.SBJ-GPST=QUOTge
+baa-s-o=a
+say.PFV-DS.SEQ-3SG.F.SBJ=MED
+say.PFV
+‘ “I smashed her nose, so she died, so I put her down here”, she said
+and then someone else…’ [Afoksitgabáam]
+The illocutionary clitic =ble indicates that the whole of (3) is an exclamation
+and =bo in (4) likewise expresses that all preceding medial clauses are
+quotative, i.e. they represent what the woman said at that point in the story. On
+quotatives as embedded structures, see 13.1.
+Markers of interrogative and hortative illocutionary force obey the same
+scope rules. In order to turn the wohle of (1) above into a question, one can
+replace =be ‘Declarative’ with =a to indicate a polar question:
+(5)
+3SG.Mbín=o
+floor=N2we-n-e=a
+sweep-SEQ-3SG.M.SBJ=MEDunín=o
+fu-n-e=a?
+cook-REAL-3SG.M.SBJ=Q
+food=N2
+‘Has he swept the floor and cooked food?’
+*‘He has swept the floor, and has he cooked food?’
+The verb in the medial clauses which precedes the final verb funea? ‘Has he
+cooked (it)?’ is not marked as a question itself, but the scope rules for the
+interrogative illocutionary clitic =a force an interpretation of the entire clause
+chain as interrogative.
+In clause chains in which the final verb is marked as hortative by =e ~ =o,
+scope is over the whole chain as well, e.g.:47412. Operator scope in clause chaining constructions(6)deb-êt-n-i=a
+3SG.M_CL.O-take.PFV-SS.SEQ-1SG.SBJ=MED
+mo-n-i=a
+go.PFV-SS.SEQ-1SG.SBJ=MED
+sita-n-an=o!
+care_for-REAL-1SG.SBJ.HORT=HORT
+‘ “I should take him and go and care for (him)!” ’
+*‘ “I took him and went and should care for him!’ ” [Afoksitgabáam]Although the verbs in the medial clauses which precede the final verb
+sitanano ‘I should care for’ are not marked as hortatives themselves, the scope
+rules force an interpretation of all these verbs as hortative.
+The illocutionary markers still have scope over the whole chain if the
+subject reference changes. This is illustrated for hortative illocution in (7):
+(7)alél
+wifehat-wal=i
+mother_child(dyad)-PL=PL.ANte-s-ib=a
+come.PFV-DS.SEQ-2/3PL.AN.SBJ=MED
+ya-têm’-s-eb=ta
+PL.AN.O-see.PFV-DS.SEQ-2/3PL.AN.SBJ=MEDdei-ˆb’-e=ta
+leave.PFV-give.PFV-PL.AN.R=MED
+un-Ø-om=o!
+go.PFV-REAL-1PL.SBJ.HORT=HORT
+‘ “Your wife and children must come first and you must see them
+then let’s leave them and go!” ’ [Crows]
+The domain of all markers of illocutionary force is invariably the whole
+sentence, which can either be a simple sentence or a clause chain.
+Illocutionary markers never have scope over other sentences apart from the
+one in which they occur. Sentence boundaries are indicated by brackets in (8):
+(8)[=le
+3PL.AN=TOPy
+therekou-biaan-ib=ta
+have_sex-AUX.IPFV.SS.SIM-2/3PL.AN.SBJ=MED12.2. Polaritymemé=i
+children=PL.AN475yo-bina-b-io=bo]
+beget-AUX.HAB-IPFV-2/3PL.AN.SBJ=QUOT[kb=sna
+2SG.M=too
+kou-ˆb’-o-n-al=e!]
+have_sex -give.PFV-3SG.F.R-REAL-2SG.SBJ.HORT=HORT
+ge=ta
+ngana-ˆb’-a-s-e=be
+call.PFV-give.PFV-3SG.M.R-RPST-3SG.M.SBJ=DECL
+say.PFV=MED
+‘ “Copulating (in) there, they beget children. You too have sex with
+her!” he called out to him.’ [Pig story]
+The embedded discourse in (8) consists of two independent sentences. The
+first one is itself a clause chain whose final verb is marked as quotative by
+=bo. The second one is a simple sentence with a hortative verb. Only this
+second sentence can be interpreted as hortative because the scope of the
+hortative marker =e does not have scope into or over the preceding quotative
+sentence.","[498, 499, 500, 501]"
+"590ReferencesHaiman, John, and Pamela Munro
+1983
+Switch Reference and Universal Grammar. Amsterdam: John
+Benjamins.
+Halle, Morris, and Jean-Roger Vergnaud
+1990
+An Essay on Stress. Current Studies in Linguistics. Cambridge, Mass.:
+MIT Press.
+Hardie, Peter
+2003
+Is Kuman tonal?. MA thesis, Australian National University.
+Healey, Alan
+1964a
+A survey of the Ok family of languages, reconstructing Proto-Ok. Part
+of Ph.D. diss., Australian National University.
+Healey, Alan
+1964b
+Telefol Phonology. (B-3.) Canberra: Pacific Linguistics.
+Healey, Phyllis
+1965a
+Telefol Noun Phrases. (B-4.) Canberra: Pacific Linguistics.
+Healey, Phyllis
+1965b
+Telefol clause structure. In Linguistic Circle of Canberra Publications.
+(A-5.), 1-26. Canberra: Pacific Linguistics.
+Healey, Phyllis
+1965c
+Telefol verb phrases. In Linguistic Circle of Canberra Publications. (A5.), 27-53. Canberra: Pacific Linguistics.
+Healey, Phyllis
+1966
+Levels and Chaining in Telefol Sentences. (B-5.) Canberra: Pacific
+Linguistics.
+Healey, Phyllis, and Walter Steinkraus
+1972
+A Preliminary Vocabulary of Tifal with Grammar Notes. Santa Ana,
+CA: Summer Institute of Linguistics.
+Healey, Phyllis, and Alan Healey
+1977
+Telefol Dictionary. (C-46.) Canberra: Pacific Linguistics.
+Heine, Bernd
+1997
+Cognitive Foundations of Grammar. Oxford: Oxford University Press.
+Himmelmann, Nikolaus P.
+1997
+Deiktikon, Artikel, Nominalphrase. Tübingen: Niemeyer.
+2005
+The Austronesian languages of Asia and Madagascar: typological
+characteristics. In The Austronesian Languages of Asia and
+Madagascar, K. Alexander Adelaar and Nikolaus P. Himmelmann
+(eds.), 110-181. London: Routledge.
+Hoijer, Harry
+1945
+Classificatory verb stems in the Apachean languages. International
+Journal of American Linguistics 11: 13-23.
+Hopper, Paul, and Sandra Thompson
+1980
+Transitivity in grammar and discourse. Language 56: 251-299.
+Hylkema, Sibbele
+1996
+Kamus Nalum Weng a Belanda-Indonesia. Ms.","[615, 616]"
+"Alternative questions with bleka ‘or’When using an alternative question the speaker expects the addressee to
+specify one of two alternatives offered rather than just say ‘yes’ or ‘no’. They
+are formed with the interrogative clitic =a and do not involve a change of
+constituent order. The maximum number of alternatives is two. The
+conjunction bleka ‘or’ conjoins the elements denoting the alternative options
+in polar questions. These can be two noun phrases, as in (16), or two
+sentences, as in (17):
+(16)kbo
+2SG.Maning
+fish-ta
+SG.M-EMPHbleka
+oréil
+-ta
+dowôn’-aamab-eb=a?
+SG.M-EMPH
+eat.PFV-IRR.NANPL.SBJ-2SG.SBJ=Q
+pig
+‘Do you want to eat fish or pork?’ [Observed]39010. Question formation(17)kbo
+2SG.Mmemâlo
+todaybib
+villagebi-aamab-eb
+stay.IPFV-IRR.NANPL.SBJ-2SG.SBJbleka
+damìb
+un-aamab-eb=a?
+garden
+go.PFV-IRR.NANPL.SBJ-2SG.SBJ=Q
+or
+‘Are you staying in the village today or are you going to the garden?’
+If the alternatives given are instantiated by noun phrases each needs an
+emphatic pronoun in adnominal position, as in (16) above, not just an article.
+The use of the interrogative clitic m in alternative questions is unattested.","[415, 416]"

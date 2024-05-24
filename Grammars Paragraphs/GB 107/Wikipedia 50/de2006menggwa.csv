@@ -1,0 +1,692 @@
+Paragraph,Page number
+"335The following table lists the tense-aspect-mood categories associated with
+each of the six status-polarity combinations for ordinary verbs (for copulas, see §6.4).
+Positive realis and positive irrealis are indicated by zero morphs (but the tenseaspect-mood affixes for positive realis and positive irrealis moods are mutually
+exclusive); negative realis (§6.1.3) is conveyd by negative realis verb boke (class I)
+or -boka (class II); positive semi-realis (§6.2.1) is conveyd by the positive semirealis verb samby or its bound form -mby/ -mb; negative-semi-realis (§6.2.2) is
+conveyd by a particle ga; and negative-irrealis (§6.3) is conveyd by an affix ma-/ -ma/ -me/ -m.","[349, 350]"
+"6.2SemiSemi-realis status
+Semi-realis status encompasses only one tense-mood category — futuredeclarative (other future categories are irrealis; §6.3). Future declarative verbs of
+positive and negative polarities have markedly different morphological forms:
+positive semi-realis verbs are characterised by a serialised ‘positive semi-realis verb’
+366samby (class I) (§6.2.1), whereas negative semi-realis verbs have a negative semirealis particle ga (§6.2.2). Finite verb stems are used for semi-realis verb forms
+(§5.1.1), and if the lexical verb lexeme makes a distinction between future versus
+non-future finite verb stems (§5.1.2), the future form must be used. The form of the
+positive semi-realis verb varies greatly depending on the person-number-gender
+features of the subject, and it is difficult to give a general morphological template of
+positive semi-realis verbs. In some cases the positive semi-realis verb forms a
+separate phonological word from the lexical verb, and in other cases the positive
+semi-realis verb forms a phonological word together with the lexical verb (see
+§6.2.1). On the other hand, negative semi-realis verbs are morphologically simple in
+comparison. Negative semi-realis verb forms begin with a negative semi-realis
+particle ga and then followed by a (future) finite verb stem (§5.1.1-2) together with
+its cross-reference suffix(es). The cross-reference suffixes used in negative semirealis verb forms are always class A suffixes (§5.2). The negative semi-relias
+particle ga is a separate phonological word.ga(FUTURE) FINITE VERB STEM — CLASS A CROSS-REF SUFFIX(ES)The following verbs exemplify realis versus semi-realis, and positive versus
+negative verb forms of the verb lexeme hofu (hof-/ gof-) ‘come’ (class I).6-84. hof-efa-hwa.6-85. hofu boke-efa-hwa.come-1PL-PASTcome NEG:R-1PL-PAST‘We came.’ (-efa class IA)‘We did not come.’3676-86. gof-efusamby-efu.6-87. gagof-efa.come:FUT-1PL POS:SMR-1PLNEG:SMRcome:FUT-1PL‘We will come.’ (-a class IB)‘I will not come.’The functional differences between semi-realis verbs and other future verb
+forms will be discussed in §6.2.3.","[380, 381, 382]"
+"Table 6.5Cross-reference suffixes in positive/ negative realis independent verbsverb class of verb stem/ verb
+IIHIIBIIIIIIAIHAIIBIIAIIIAlexeme:
+cross-referencing in positive realis:
+negative realis verb:bokebokacross-referencing in negative realis:IAIIAThe negative realis verbs boke and boka are not used as independent verbs.
+The negative realis verb always take subset A cross-referencing (§5.2). Other than
+independent verbs, the negative realis verb boke/ boka is also used in realis
+subordinate clause verbs (§7.1) and disjoint-referential chain clause verbs (§7.2.1).
+Coreferential chain clause verbs (§7.2.1) and non-finite chain clause verbs (§7.3.1)357cannot be in negative polarity, while verbal noun phrases (§7.3.2) are negated by an
+abessive case clitic =mboka (§4.5.5.)Also notice that due to the a-deletion rule and the vowel degemination rule
+(§2.3), the initial segment of cross-reference suffixes which begin with a or e would
+be deleted by the preceding a or e segment at the end of boke or boka, e.g. boke-aha
+(NEG:R-1SG) > bokeha, boke-efa (NEG:R-1PL) > bokefa, boka-Ø-a (NEG:R-N1SG3FSG:O) > boka . The following are examples of positive and negative realis verb
+forms formed from class I lexical verb lexemes.","[371, 372]"
+"7.2.1.2Polarity and cross-reference suffixes on chain verbs
+Except for class IIB verbs which can only take class IIB cross-referencesuffixes (§5.2.2), DR chain verbs take subset A cross-reference suffixes, and CR chain
+verbs take subset B cross-reference suffixes. DR chain verbs can be in positive or
+negative polarity; CR chain verbs must be in positive polarity. In Menggwa Dla, the
+domain of negativity does not extend beyond clause boundaries; if the subjects of13See also §7.4 on the use of mefi (ma-)/ me as a grammatical verb indicating completive aspect.",[465]
+"Independent verbs carry cross-reference suffixes (§5.2) and other affixes
+which indicate tense, mood, status, polarity, and sometimes aspect (§6). There are
+three tenses: past, present and future. Three statuses are distinguished: realis (§6.1),
+semi-realis (‘certain future’; §6.2) and irrealis (§6.3). Morphology associated with
+the three statuses is markedly different, especially the way negatives are formed
+(negativity is independent from status in Menggwa Dla; §6.1.3, §6.2.2, §6.3).",[22]
+"There is no affix marking positive irrealis specifically. The positive irrealis
+verb forms have the following morphological structure (the prohibitive mood verbs
+are never in positive polarity):FINITE VERB STEM — CROSS REF SUFFIX(ES) — TM SUFFIXFormally, the negative irrealis verbs differ from the positive irrealis verbs by
+having an extra negative irrealis affix which is affixed to the verb stem. The
+negative realis affix has the form of ma-, -ma, -me or -m. The negative realis affix
+is always ma- when affixed to non-finite verb stems (§5.1.1). For finite verb stems,
+the regular allomorphy of the negative irrealis affix is as follows:•-ma is suffixed to class IIB, class II or class III verb stems.",[393]
+"3626-69. a. Conservative negative realis:
+wamlaaflambli seru boke-aha-hwa.betel.nut manyeatNEG:R-1SG-PAST‘I did not chew (‘eat’) a lot of betel nut.’ (-aha class I)
+b. Innovative negative realis:wamlaaflambli ma-ser-iha-hwa.betel.nut manyNEG:R-eat-1SG-PAST‘I did not chew (‘eat’) a lot of betel nut.’ (-iha class IH)Positive realis:6-70. wamlaaflambli ser-iha-hwa.betel.nut manyeat-1SG-PAST‘I chewed (‘ate’) a lot of betel nut.’Negative irrealis:6-71. wamlaaflambli ma-ser-i-naho.betel.nut manyNEG:IR-eat-1SG-CNTR‘I would not have chewed (‘eaten’) a lot of betel nut.’ (-i class IHB)6.1.4Questions in realis status
+Except for copulas (§6.4), there are no verb forms which indicateinterrogative mood specifically. Polarity questions are only distinguished from their
+statement counterparts by intonation: statements usually end in low pitch, whereas
+questions end in a high pitch (§2.4.2).","[376, 377]"
+"Independent verbs are grammatically marked for status1, tense, aspect, mood
+and/or polarity. In terms of verbal morphology, the most important categories are
+status and polarity (polarity is independent of status in Menggwa Dla), as the overall
+morphological structure of a verb is determined first by its status and polarity. A lot
+of languages have a binary realis-irrealis status distinction; Mithun (1999:173)
+generalises the binary status distinction as follows: ‘The realis portrays situations as
+actualized, as having occurred or actually occurring, knowable through direct
+perception. The irrealis portrays situations as purely within the realm of thought,
+knowable only through imagination’. In addition to realis status and irrealis status,
+there is also an in-between status category called ‘semi-realis’ in Menggwa Dla,
+which signifies that on one hand it is like irrealis in that the situation is imagined,
+but on the other hand it is like realis in that the speaker is conveying his/ her
+certainty over the realisation (positive future declarative) or non-realisation (negative
+future declarative) of the situation.",[349]
+"Table 6.1Realis categories
+Positive realis:Negative realis:Ø (§6.1)boke (class I)/ boka (class II) (§6.1.3)
+Present transitional -mbi (§6.1.1.1)
+Present stative -mbi (§6.1.1.2)
+Present continuous -hi (§6.1.1.1-2)
+Past -hwa (§6.1.2)
+‘Past with focus’ -hya (§6.1.2)Table 6.2Semi-realis categories
+Positive semisemi-realis:Negative semisemi-realis:
+realis:samby (class I)/ -mb / -mby (§6.2.1,3)ga- (§6.2.2-3)336Table 6.3Irrealis categories
+Positive irrealis:Negative irrealis:Ø (§6.3)ma- ~ -ma ~ -me ~ -m (§6.3)Imperative and jussive moods -Ø (§6.3.1)Prohibitive moodCautious mood -we ~ -e (§6.3.2)ma- … -we ~ -e (§6.3.2)Tentative mood -ni (§6.3.3.1-2)
+Future interrogative mood (§6.3.3.3)
+Indirect imperative mood (§6.3.3.3)
+Counterfactual mood -naho (§6.3.4)For independent clauses, tenses always have the time of utterance (‘present
+time’)2 as the point of reference; for dependent clauses, the point of reference may
+be the time of utterance (absolute tense) or the time of some other clause (relative
+tense). Three tenses are distinguished: past, present and future tense. Present tense
+in Menggwa Dla conveys present time or near present time. Near present time
+refers to immediate past time or immediate future time, in other words time which is
+considered by the speaker to be near the present time, typically no more than a few
+minutes away from the present time. Correspondingly, past tense and future tense
+convey non-immediate past time and non-immediate future time respectively. If the
+progression of time is represented by a horizontal line running from left to right, and
+the time of utterance by an × on the horizontal time line, this is how the tenses in
+Menggwa Dla dissect the time line:2‘Time of utterance’ and ‘present time’ here refer to the time of utterance in real time or the time of
+utterance of a direct quote.","[350, 351]"
+"4347.1.2.1Realis -hwani ‘when’ clauses
+A realis -hwani verb has a (non-future) finite verb stem (§5.1.1-2), subset Across-reference suffix(es) (§5.2), and a -hwani ‘when’ suffix at the end. With realis-hwani clauses, the situation is known by the speaker as having occurred (positive
+polarity) or not occurred (negative polarity), or habitually occurring (positive) or
+habitually not occurring (negative), and the situation of the matrix clause begins
+after the inchoation point of the situation of the -hwani clause. The use of
+subordinate realis -hwani clauses is rather rare, for that sequential meaning is mostly
+conveyed by chain clauses (§7.2). A realis -hwani clause is used as the final clause
+of a non-finite clause chain or when it is followed by non-finite chain clauses (and
+non-finite chain clauses themselves are rather rare; §7.3.1). In a non-finite chain
+clause, the subject must be coreferential with the subject of the following clause in
+the clause chain. On the other hand, the subject of a -hwani clause must be disjointreferential with the subject of its matrix clause. In effect, a non-finite chain verb
+and a realis -hwani verb is the coreferential (CR) and disjoint-referential (DR) verb
+forms — respectively — of a switch-reference (SR) system. Nevertheless, this nonfinite/ -hwani SR system is used much less often than the chain clause SR system.
+(See §7.2 on chain clauses and §7.3.1 on non-finite chain clauses.)In the following examples, the clauses preceding the -hwani clauses are nonfinite chain clauses; in example 7-48 the -hwani clause is followed by another nonfinite chain clause, and in example 7-49 the -hwani clause is followed by an
+independent clause. Notice the change in subject between the realis -hwani clause
+and the following matrix clause in both examples.","[448, 449]"
+"451two adjacent clauses are coreferential but the first clause is in negative polarity, the
+first clause cannot be a chain clause (a subordinate (§7.1) or independent clause (§6)
+can be used instead).","[465, 466]"
+"8While the negative semi-realis verb form remains unchanged: the negative semi-realis particle ga
+plus followed by a (future) finite verb stem plus subset A cross-reference suffix(es) (§6.2.2).",[376]
+"The negative form of a DR chain verb is formed by serialising a negative verbboke (class I) or boka (class II) in DR chain verb form to a non-finite form of the
+lexical verb; class I, IH and IIB lexical verbs take boke (which takes class I crossreference suffixes), whereas class II and III lexical verbs take boka (which takes
+class II cross-reference suffixes). This is formally the same as the negative realis
+verb boke/ boka used in independent clauses (§5.1.3). Nevertheless, the chain clause
+negative verb boke/ boka does not indicate status, unlike the independent clause
+negative realis verb boke/ boka which indicates realis status. The following are
+examples of positive CR chain verbs, positive DR chain verbs and negative DR chain
+verbs in different verb classes. Notice the changes in the cross-reference suffixes,
+especially when the negative verb boke (class I)/ boka (class II) is used. The class
+III verb lexeme sefi (sa-/ da-) ‘give’ has a special negative non-finite form sekoni
+(§5.2.3).",[466]
+"Class II lexical verbs:6-61. klikli-Ø-a-hwa.
+scratch-N1SG-3FSG:O-PAST
+‘S/he scratched.’ (klikli ‘scratch’ class II, -Ø-a class IIA)6-62. kliklibokahwa (< boka-Ø-a-hwa).scratchNEG:R-N1SG-3FSG:O-PAST‘S/he did not scratch.’ (-Ø-a class IIA)6-63. iŋgufu-hi-Ø-hwa.
+attack-1SG-3MSG:O-PAST
+‘I attacked him.’ (iŋgufu ‘attack’ class II; -hi-Ø class IIA)6-64. iŋgufu boka-hi-Ø-hwa.
+attackNEG:R-1SG-3MSG:O-PAST‘I did not attack him.’ (-hi-Ø class IIA)Class III lexical verbs:6-65. sa-ka-wa-hwa.
+give-3SG-3SG:O-PAST
+‘S/he gave (it) to him/her.’ (sefi (sa-/ da-) ‘give’ class III; -ka-wa class IIIA)3616-66. sekoniboka-i-Ø-hwa.give:NEG:R NEG:R-3MSG-3MSG:O-PAST
+‘He did not give (it) to him.’ (-i-Ø class IIA; 50I)6-67. sekoniboka-ya-Ø-hwa.give:NEG:R NEG:R-3FSG-3MSG:O-PAST
+‘She did not give (it) to him.’ (-ya-Ø class IIA)6-68. sekoniboka-Ø-a-hwa.give:NEG:R NEG:R-3SG-3FSG:O-PAST
+‘S/he did not give (it) to her.’ (-Ø-a class IIA)Another important point concerning the negative realis verb form is that in
+the eastern villages of Menggau and Wahai, but not in western villages of
+Wanggurinda and Menggwal, there is a trend of the negative irrealis suffix (ma-/ -ma/ -me/ -m; §6.3) being used to indicate negative realis.8 These innovative
+negative realis verb forms are formed by the positive realis verb form (e.g. example
+6-70) affixed by a negative irrealis affix, which now also indicates negative realis
+(e.g. example 6-69b, compare this with the conservative negative realis form 6-69a).
+Example 6-71 demonstrates a negative irrealis verb form.","[375, 376]"
+"6.3.3.1Non-future tentative mood
+Positive non-future tentative mood verb forms consist of a non-future finiteverb stem (§5.1.2), followed by subset A cross-reference suffix(es) (except for class
+IIB verbs which must always take class IIB cross-reference suffixes; §5.2.2), and
+finally by a tentative -ni. Negative forms have a negative irrealis affix ma-/ -ma/ -me/ -m/ (§6.3) affixed to the non-future finite verb stem (§5.1.2).6-141. yafli sihafaiplwa ser-yefye-ni.dog 2SG:GEN fisheat-N1FDU-TENT‘Maybe the dogs ate/ is eating your fish.’
+(seru (ser-/ det-) ‘eat’ class IH; -yefye class IH)6-142. nyewi tupopo-Ø-a-ni.people egg take.egg:MASS-N1SG-3FSG:O-TENT
+‘Maybe someone took/ is taking the eggs.’
+(popo ‘take eggs from nest’ class II, mass undergoer; -Ø-a class IIA)6-143. fa-ya-a-ni.
+leave-3SG-3FSG:O-TENT
+‘Maybe s/he has just left.’
+(fefi (fa-) ‘leave’ class IIB; -ya-a class IIB)3876-144. hwahwamayani.
+a. hwahwa-ma-Ø-ya-ni.
+know-NEG:IR-N1SG-1SG:O-TENT
+‘Maybe s/he/you does not know me.’b. hwahwa-ma-ya-Ø-ni.
+know-NEG:IR-N1FSG-3MSG:O-TENT
+‘Maybe she/you does not know him.’
+(numu (num-) ‘sit’ class I; -Ø-ya, -ya-Ø class IIA)11Another strategy to convey tentativeness is having a realis clause followed by
+a tentative copula (§6.4.1). The following is an example.6-145. akana num-u-hi
+theremeni.sit-3MSG-PRES:CONT COP:TENT‘Maybe he is there.’ (numu (num-) ‘sit’ class I; -u class IA)6.3.3.2Future tentative mood
+Future tentative mood verbs always carry a negative irrealis affix; there is nopositive formal counterpart. Even though all future tentative mood verbs have a
+negative irrealis affix, the speaker is not biased towards the positive or negative
+outcome by using a future tentative verb. Future tentative verb forms are formed by
+a future finite verb stem, a negative irrealis affix (§6), a set of cross-reference
+suffixes, and optionally a tentative suffix -ni. The sets of cross-referencing used are
+11The speaker cannot remember which the intended interpretation was. Without context this
+sentence remains ambiguous. Also see the paradigm of class IIA cross-reference suffixes in §5.2.2.","[401, 402]"
+"3516-33. yesini=mbe pe-u-mbithen sky=INSrani.be.gone-3MSG-PRES:STAT that‘(The moon) went into the sky and stayed there (ever since).’
+(pe ‘be gone’ class I; A)In Menggwa Dla, dynamic situations in negative polarity are treated like
+stative situations. Like other states, the present continuous -hi is used to convey that
+the negative state is temporary, and the present stative -mbi is used to convey that
+the negative state is permanent or the inchoation and completion points are not
+salient. See §6.1.3 for negative realis verb forms.6-34. seru boke-aha-hi.
+eatNEG:R-1SG-PRES:CONT‘I have not eaten yet.’/ ‘I am not eating now.’
+(seru (ser-/ det-) ‘eat’ class IH; -aha class IA)6-35. utiseru boke-wa-mbi.prawn eatNEG:R-3FSG-PRES:STAT‘She does not eat prawns.’6-36. ai fofo
+3boke-wa-hi.smoke NEG:R-3FSG-PRES:CONT‘She is not smoking currently.’ (fofo ‘smoke’/ ‘blow’ class I)3526-37. ai fofo
+3boke-wa-mbi.smoke NEG:R-3FSG-PRES:STAT‘She does not smoke.’6.1.2Past tense -hwa and past tense with focus -hya
+Past tense in Menggwa Dla signifies non-immediate past time.5 Both -hwaand -hya mark past tense, and neither are specified for aspectual information. The
+difference between -hwa and -hya is that -hwa only marks past tense, whereas -hya
+also indicates that a constituent in the clause or the whole clause is focused. We
+will see some examples of the semantically less marked -hwa first.6-38. tikyewi ap-ehye-hwa.
+smallsleep-1DU-PAST‘We slept a little bit.’ (apu (ap-) ‘sleep’ class I; N)6-39. kapaliimbu na-Ø-pa-hwa.tree.kangaroos two shoot-3SG-N1DU:O-PAST
+‘S/he shot two tree kangaroos.’ (nefi (na-) ‘shoot’ class II)6-40. mi=lofoklo-hya-a-hwa.mother=COM separate-1SG-3FSG:O-PAST
+‘I parted with my mother.’ (klo (klo-) ‘separate’ class IIB)5Immediate past time is conveyed by present tense. See §6.1.","[365, 366, 367]"
+"4357-48. [hofahi-Ø, hofo=hi
+[fall-DEPek-wa-hwani,]ground=ADS exist-3FSG-when]palaŋgi=nambo hwela numuli-Ø,
+machete=ALLskinremove-DEP‘(The
+The sago palm)
+people)
+palm falls, and then it lies on the ground, then (people
+people remove
+the bark with machetes, and…’ (B)7-49. [waŋguharifi-mbo, num-wa-hwani,] butya-hwa-a-Ø.[sparrow enter-DEPsit-3FSG-whenhit.with.stick-1DU-3FSG:O-JUS‘The
+The sparrows enter (the cave), and when they are already there, we will
+catch the sparrows.’ (N)The following is an example with two positive realis -hwani clauses.
+Whether the first -hwani clause is subordinate to the second -hwani clause or not is
+unclear.7-50. efi-ya-a-hwani,hwalfehi ap-ei-hwani,become.dark-3SG-3FSG:O-when womanyani dofo heli=nasleep-N1FPL-whenpi-mbo,man secret ceremony=ALL go-DEP
+‘When it becomes dark, when the women sleep, the men go to the secret
+ceremony, and…’A negative realis -hwani verb is formed like an independent negative realis
+verb: the lexical verb is in its non-finite form; class I, IH and IIB lexical verbs are436serialised with the negative verb boke (class I), and class II and III verbs are
+serialised with the negative verb boka (class II) (see §6.1.3). The following is an
+example of a negative realis -hwani clause.7-51. hihifuboke-Ø-hwani,wulihanu-mbo,be.happy NEG:R-3MSG-when house go.down-DEP
+‘When he is not happy, (the
+the foreign bride j) would leave the house, and…’7.1.2.2Irrealis -hwani ‘if/ when’ clauses
+Positive irrealis -hwani verbs have the same form as realis -hwani verbs(§7.1.2.1), except that sometimes a future finite verb stem is used instead of a nonfuture finite verb stem (see below). Negative irrealis -hwani verbs are formed by
+affixing the negative irrealis affix ma-/ -m/ -ma/ -me (§6.3) to the verb stem of a
+positive irrealis -hwani verb.","[449, 450, 451]"
+"Other than having defective paradigms (as they cannot have object crossreference suffixes other than -a (3FSG:O)), these monovalent class IIB verbs have the
+same formation as other class IIB verbs. Most importantly, these monovalent
+transitive class IIB verb lexemes form the realis negative form in the same manner as
+other bivalent class IIB verb lexemes. The realis negative form of class IIB verb
+lexemes are formed with the lexical verb lexeme in its non-finite verb form followed
+by the realis negative verb boke (class I). In other words, negative realis clauses
+with a class lexical IIB verb would only have one cross-reference suffix, i.e. they can
+be intransitive as class I verbs only have one cross-reference suffix. The following
+example shows that kefi ‘break’ in negative polarity is ambiguously monovalent and
+bivalent,Monovalent:5-105. kefiboke--efye
+efye-mbi.break NEG:R-N1DU-PRES
+‘The two (things) are not broken.’
+(kefi (kefi-) ‘break (monovalent)’ class IIB)315Bivalent:5-106. kefiboke--efye
+efye-mbi.break NEG:R-N1DU-PRES
+‘They two did not break it.’
+(kefi (ka-) ‘break (bivalent)’ class IIB)The completive verb fefi (fa-) ‘class IIB’ can be serialised with a monovalent
+lexical verb in a coreferential chain verb form (§7.2.1), in which case the object
+cross-reference suffix would be semantically empty. In the following example, the
+completive verb fefi (fa-) is serialised with apu (ap-) ‘sleep’ (class I) which only has
+one semantic argument; the 3FSG object suffix -a on the completive verb is
+semantically empty.5-107. ap-ehifa-hwa-aØ-numb-ehi-mbo,sleep-1DU COMPL-1DU-3FSG:O SEQ-1DU-DEP
+‘After we have slept…’ (N) (ap ‘sleep’ class I, fefi class IIB, nuŋgu class I)The only semantic argument of hihili ‘turn around/ back’ has an actor
+semantic role. The actor is treated as the subject; the object cross-reference suffix is
+semantically empty.5-108. (yo=na) hihili-hwa-aØ-numb-ehi-mbo,(1=TOP) turn.back-1DU-3FSG:O CR-SEQ-1DU-DEP
+‘We turned back, and then…’ (N)316There is also the class IIB verb efifi ‘become dark/ late’ which has two crossreference suffixes but no semantic arguments. For this avalent transitive verb, both
+cross-reference suffixes take the default person-number-gender combination of 3FSG,
+and expectedly there can be no (pro)nominals representing core relations in the
+clause.205-109. efi-ya-a-mbi.
+get.dark-3SG-3FSG:O-PRES
+‘It is getting dark.’ (lit. ‘It darkens it.’)
+(efifi (efi-) ‘get dark’ class IIB)Most other avalent meteorological verbs belong to class I (but not all
+meteorological events are expressed by avalent clauses; see below). The following
+are examples of meteorological events expressed by avalent class I verbs.5-110. hwi-wa-mbi.
+rain-3FSG-PRES:STAT
+‘It is raining.’5-111. mumri-wa-mbi.
+thunder-3FSG-PRES:STAT
+‘It is thundering.’20There seems to be no verb which specifically means ‘to get bright’; the notion of ‘getting bright’
+can be conveyed by simbu ‘be morning’ (class I).","[329, 330, 331]"
+"3566.1.3Negative realis verb boke and boka
+A negative realis independent clause is formed by the lexical verb in its non-finite form (§5.1.1) followed by a negative realis verb boke (class I) or boka (class
+II). Whether boke or boka is used depends on the verb class membership (§5.2) of
+the lexical verb: for class I, IH and IIB lexical verbs, boke (class I) is used; for class
+II and III lexical verbs, boka (class II) is used. Class IH, IIB and III lexical verbs
+have mismatching classes of cross-reference suffixes between positive and negative
+realis verb forms: in positive realis, the finite lexical verb stem itself controls the
+class membership of the cross-reference suffixes; in negative realis, it is the negative
+realis verb boke (class I) or boka (class II) which controls the membership of the
+cross-reference suffixes. The following table summarises the class of crossreference suffix used in positive realis verb form versus negative realis verb form.","[370, 371]"
+"1823-155. [afilahwilaaniŋgi-Ø-hi-a-Ø,seri-hi-a-hya](=mbo)[father mother use-CR-N1FPL-3FSG:O-DEP eat-N1FPL-3FSG:O-PAST](=OBJ)hwambo,
+be.the.caseyeyaflei huri “amamo huri” s-efu-hu-a-mbithen cloud dew “moondew” call-1PL-1PL-3FSG:O-PRES:STATrani.
+DEM‘Like how father and mother have been using and eating it, we call cloud
+dew “moon dew”.’ (A)The word hwambo often takes ilo-Ø ~ ilo-mbo ~ iro-Ø ~ iro-mbo (be.like.soNOML) as its argument (ilo ~ iro ‘be so’ class II).3-156. ... gihali me-Ø-wa-mbo,
+hungry COMPL-CR-3FSG-DEPilo-mbohwambotamako semi nuŋgu-mbo…be.like.so-NOML be.the.case axetakeSEQ-DEPbani numu-a=nambo pi-mba-mbo.
+sago sit-place=ALLgo-POST-NOML‘(People) are hungry, and so they take axes, and … go to the place where the
+sago palms exist.’ (B)The following example shows a variant of hwambo — hwahwambo. The last
+clause in the following example also shows that hwambo can occur without any
+argument expressions. (The copula no which follows hwambo in the last clause183does not indicate that hwambo is a noun: copulas can be placed after any predicates,
+including verbs, to indicate that the whole clause is in focus; see §6.4.3.)3-157. awe gwa,
+nobutyohwefa ulua hwi
+1PL:GEN fatiro-Ønumami ayaliquid aboveakani=mbe.father put-3SG-3FSG:O-PAST:FOC there=INShwahwambo aniŋgi-Ø-hu-a-Ø,be.like.so-NOML be.the.casehwambosaku-ya-a-hyause-CR-1PL-3FSG:O-DEPØ-ser-yefu-Ø,
+CR-eat-1PL-DEPno.be.the.case COP:3FSG
+‘Nothing really, father put our oil up there. Like so we use it and eat, and
+that is the case.’ (A)There are the cautionary particle we and the exclamatory particle ke. The
+cautionary particle we can be used on its own meaning ‘beware!’ or ‘watch out!’, or
+placed after a verbal noun or noun in predicate position indicating prohibition. The
+exclamatory particle ke is used in sentence final positions and conveys positive
+exclamation. The cautionary particle we can be thought of as the negative
+counterpart of the exclamatory particle ke.3-158. we!
+CAUTakwani yafu-kyau we!
+snaketooth-bite CAUT‘Watch out! Be cautious of the snake biting.’1843-159. amani no
+goodke!","[196, 197, 198, 199]"
+"Saturday morning die-3MSG-PAST:FOC
+‘He died on Saturday morning.’On the other hand, past tense with focus -hya tends not to be used in polarity
+questions and answers to polarity questions as there is no focused consituents.
+Polarity questions are mostly answered simply with ini ‘yes’ or awe ‘no’ (§3.2.9).
+However, if a finite past tense verb is used in the answer, the verb is most usually
+marked with -hwa.6-44. a. hihiri-mbo homba-i-Ø-hwa?
+steal-NOML see-N1SG-3MSG:O-PAST
+‘Did you see him stealing?’ (hihiri ‘steal’ class I; homba ‘see’ class II)b. ini homba-i-Ø-hwa.[? homba-i-Ø-hya]yes see-N1SG-3MSG:O-PAST
+‘Yes, I saw him (stealing).’Of course -hya is not only used in answers; -hya is also often found in
+narrative clauses. When a piece of new information is presented, it is normal for the
+verb to be marked with -hya if the sentence is in past tense.",[369]
+"For first person dual (1DU) and plural (1PL) subjects only, the positive semirealis verb stem (§6.2.1) can freely alternate between samby (morphologically free)372and -mby (bound to the preceding lexical verb). The following are examples of
+positive semi-realis verbs with class IIB, II or III lexical verb stems:Class IIB verbs:6-98. ka-nya-pusamby-afani.break-N1DU-N1DU:O POS:SMR-N1MDU
+‘The two of you/ them broke the two things.’
+(kefi (ka-) ‘break something’ class IIB; -nya-pu class IIB)6-99. gafa-hu-asamby-efu.go.across:FUT-1PL-3FSG:O POS:SMR-1PL
+‘We will go across.’
+(hafu (haf(a(f))-/ gaf(a(f))-) ‘go across/ pass’ class IIB; -hu-a class IIB)Class II verbs:6-100. na-Ø-i-ah-u-mb-i.
+shoot-N1SG-1SG:O-3-M-POS:SMR-3MSG
+‘He will shoot me.’ (nefi (na-) ‘shoot’ class II; -Ø class IIA, -i class IIB)6-101. hoho-ha-ni-mby-a.
+tell-1SG-2SG:O-POS:SMR-1SG
+‘I will tell you (SG).’ (hoho ‘tell’ class II; -ha class IIA, -ni class IIB)373Class III verb stems:6-102. da-ka-i-ah-o-mb-e.
+give:FUT-3SG-1SG:O-3-F-POS:SMR-3FSG
+‘She will give (it) to me.’ (sefi (sa-/ da-) ‘give’ class III; -ka III, -i IIIB)6-103. da-niŋgi-nisamby-ei.give:FUT-N1FPL-2SG:O POS:SMR-N1FPL
+‘They will give (it) to you.’ (-niŋgi class III, -ni class IIIB)6.2.2Forms of negative semi-realis verbs
+A negative semi-realis verb is formed by a negative semi-realis particle gafollowed by a (future) finite verb stem (§5.1.1), and then suffixed by subset A crossreference suffixes (§5.2), again with the exception that class IIB verb stems must
+take class IIB cross-reference suffixes (§5.2.2).6-104. ga
+NEG:SMRnamb-aha.
+hang.up-1SG‘I will not hang (it) up.’(naŋgu (namb-~naŋg-) ‘hang up’ class I; -aha class IA)6-105. ga
+NEG:SMRdet-yefa.
+eat:FUT-1PL‘We will not eat.’ (seru (ser-/ det-) ‘eat’ class IH; -yefa class IHA)3746-106. ga
+NEG:SMRnumu-ya-a.
+wear-3SG-3FSG:O‘S/he will not wear (it).’ (numu ‘wear’ class IIB; -ya-a class IIB)6-107. ga
+NEG:SMRwamblwa-Ø-nya.
+force-N1SG-2SG:O‘S/he will not force you.’ (wamblwa ‘force’ class II; -Ø-nya class IIA)6-108. ga
+NEG:SMRda-ŋgi-mua.
+give:FUT-N1FPL-1NSG:O‘They will not give (it) to us.’
+(sefi (sa-/ da-) ‘give’ class III; -ŋgi-mua class IIIA)When the verb stem is a vowel-ending class I verb stem (§5.2.1), an -l
+ligature is placed between the verb stem and the class IA cross-reference suffix,
+unless the subject is third person masculine singular (3MSG), in which case the crossreference suffix is -Ø and the -l ligature is not used. The following are a few
+examples of negative semi-realis verb forms with vowel-ending class I verb stems.6-109. ga
+NEG:SMRsuŋgwani-l-wa.
+be.sick-LIG-3FSG‘She will not be sick.’ (suŋgwani ‘be sick’ class I; -wa class IA)3756-110. ga
+NEG:SMRsuŋgwani--Ø.
+be.sick-3MSG‘He will not be sick.’ (-Ø class IA)6-111. ga
+NEG:SMRmome-l-efye.
+be.together-LIG-N1FDU‘They two will not be together.’ (mome ‘be together’ class I; -efye class IA)6-112. ga
+NEG:SMRsumbu--l-uma
+uma.
+laugh-LIG-N1MPL‘They will not laugh.’ (sumbu ‘laugh’ class I; -uma class IA)6-113. ga
+NEG:SMRnumuŋgwa--l-ei.
+ei
+die-LIG-N1FPL‘They will not die.’ (numuŋgwa ‘die’ class I; -ei class IA)6.2.3Functions of semi-realis verbs
+Verbs in semi-realis status are statements which convey the speaker’sabsolute certainty that a proposition will hold in the future, and that the speaker is
+committed to the truth value of of the proposition. Semi-realis sentences cannot be
+used as questions; future tense questions are in irrealis mood (§6.3). The following
+are a few examples of clauses with verbs in semi-realis status.","[386, 387, 388, 389, 390]"
+"7.2.1Form of chain verbs
+All chain verbs carry a cross-reference morpheme indicating that its subjectis coreferential (CR) or disjoint-referential (DR) with the subject of a following clause
+(see §7.2.2 on the syntax of switch-reference). Chain verbs which indicate
+coreference of subjects between clauses are called CR chain verbs, and chain verbs
+which indicate disjoint-reference of subjects between clauses are called DR chain
+verbs. There are a number of morphosyntactic differences between CR chain verbs
+and DR chain verbs: a) CR chain verbs have a zero CR morph, whereas DR chain
+verbs have a ma-/ -ma or -me DR affix; b) CR chain verbs carry subset B crossreferencing (§5.2), whereas DR chain verbs carry subset A cross-referencing, with the
+exception of class IIB verbs which must take subset B cross-referencing regardless
+(§5.2.2); c) CR chain verbs must be in positive in polarity, whereas DR chain verbs
+can be in positive or negative polarity;10 d) CR chain verbs can be serialised with the
+completive verb fefi (fa-) ~ mefi (ma-)/ me and the sequential verb nuŋgu
+(nu[mb/ŋg]-) (§7.4), whereas DR chain verbs cannot be serialised with these verbs;
+10If two clauses have coreferential subjects and the first clause is in negative polarity, then the first
+clause cannot be a (CR or DR) chain clause; the first clause must be an independent clause, e.g.:
+• Ø-hof-u-mbona
+gwa, wuli hahofu boke-Ø-hwa.
+wuli=hi
+Ø-num-u-mbo...
+CR-come-3MSG-DEP but house go.up NEG:R-3MSG-PAST house=ADS CR-sit-3MSG-DEP
+‘He j came here but he j did not go into the house. He j/k sat outside the house, and…’445and e) as for the dependency suffix, CR chain verbs usually take -Ø or -mbo,
+whereas DR chain verbs usually take -mbo or -mbona (see §7.5); -mbona is rare with
+CR chain verbs and -Ø is rare with DR chain verbs.","[459, 460]"
+"Table 7.2Morphosyntactic differences between CR and DR chain verbs
+CR chain verbs:DR chain verbs:CR/DR morph:Øma-/ -ma/ -mecross-referencing:subset Bsubset A
+(except for class IIB verbs
+which must take subset B)polarity:must be positive: Øcan be positive: Ø; or
+negative: boke / bokainterclausal temporal can be serialised with
+relations:fefi (IIB) ~ mefi (IIB) /me (I)do not indicate interclausal
+temporal relations‘completive’ and nuŋgu (I)
+‘sequential’ (§7.4)
+dependency suffix-Ø ~ -mbo ~-Ø (rare) ~(§7.5):-mbona (rare)-mbo ~ mbonaThe following are examples of a simplex CR chain verb, a CR chain verb
+serialised with both a completive verb and a sequential verb, and a DR chain verb, all
+in positive polarity. See §7.4 for more discussions on the completive verb and the
+sequential verb; see §7.5 for more discussions on the dependency suffix -Ø ~ -mbo ~-mbona.",[460]
+"Negative non-future copulas and the future interrogative copulas have the
+same forms (e.g. both have the non-finite form me). This unification suggest that
+with copulas, negativity is semantically subordinate to the status of irrealis, unlike
+other verbs where negativity is independent from status (§6.1; §6.2; §6.3). Negative
+non-future/ future interrogative copulas have a class IB cross-reference suffix, except399that when the subject is first person singular (1SG), the class IA suffix of -aha is used
+instead (some younger speakers pronounce this suffix as -aya). The negative nonfuture/ future interrogative copula stem is me, except when the following crossreference suffix begins with a, then the copula stem is m. This allomorphy is
+identical with that of the negative irrealis affix (§6.3).","[413, 414]"
+"CR, positive:7-102. Ø-da-ka-ni-mbo,
+CR-give:FUT-3SG-2SG:O-DEP‘S/he j will give you (something), and s/he j ...’ (-ka-ni class IIIB)DR, positive:7-103. ma-da-ka-nya-mbo,
+DR-give:FUT-3SG-2SG:O-DEP‘S/he will give you (something), and someone else ...’ (-ka-nya class IIIA)However, in a DR negative verb form, the non-finite verb form of the lexical
+verb is used, and non-finite verb forms are invariant (§5.1.1); the same DR negative
+verb form is used no matter what tense the sentence is in.",[471]
+"3.2.9Interjections, greeting phrases and miscellaneous would classes
+Interjections are words which are semantically not related to the rest of theutterance. All of the following words except hya can form utterances on their own.a‘ah’o‘oh’wu‘oh’hyaINTJyambi‘OK’ (example 3-160 below)ai‘ai!’ (exclamation of surprise/ accidents/ forgetfulness)ini‘yes’awe‘no’The interjection a ‘ah’ can be used utterance initially (example 3-144 below)
+or medially (example 3-75 above), o ‘oh’ is used utterance-initially (example 3-102
+above), and wu ‘oh’ is used utterance-medially (example 3-145 below).3-144. ayanu.ah enough
+‘Ah, (that is) enough.’ (N)1793-145. yebani safa aflambe wu ma-ek-wa-mbo,then sago meat plentyoh DR-exist-3FSG-DEP‘Then there would be a big pile of sago starch, and…’ (B)The interjection hya — homophonous with the ablative case clitic =hya
+(§4.5.3) — is a frequently used space filler which is used after noun phrases or
+direct quotes.3-146. ahala=na=pahyaimbu safo tamako=nambo kikifi nuŋgu-mbo,root=ALL=only INTJtwohalf axe=ALLchop SEQ-DEP‘People chop (the trunk) into two halves along the length of the trunk (‘only
+to the root’), and…’ (B)3-147. yapluhyacoconut.stalk INTJØ-numb-a-mbo,
+CR-stand-1SG-DEP‘I put the coconut stalk up, and…’ (B)3-148. wara rani hya rani sa-ya-a
+sopi-Ø-Ø-mbo,that INTJ that take-3SG-3FSG:O go-CR-3MSG-DEP‘so then he took it away, and…’ (A)3-149. “ naho ni”
+whathya hya tutu-Ø-nigwa,TENT INTJ INTJ ask-3MSG-TENT but‘maybe he asked (them) “what is it”, but’ (A)180Other than forming utterances on their own, the words ini ‘yes’ and awe ‘no’
+can also be followed by gwa ‘but’ (§3.2.6), the exclamatory particle ke or the
+cautionary particle we (see below)). The word ini ‘yes’ is used to indicate
+agreement or existence (ini ‘yes’ is used in agreement with a negatively-polarised
+question), whereas awe ‘no’ is used to indicate non-agreement or non-existence (in
+example 3-151 below, awe ‘no’ signifies non-existence rather than non-agreement to
+a statement raised by someone).3-150. “gapo-l-afa?”","[193, 194, 195]"
+"7.2.1.1The DR affix and irregular DR verb forms
+The most salient difference between DR and CR chain verbs is that CR verbforms have a zero CR morph, whereas DR chain verbs have an overt DR affix.
+Usually, the DR affix comes in the form of ma-, -ma or -me. The DR morph has the
+same allomorphy as the negative irrealis affix (§6.3).11 However, some verb
+lexemes have irregular DR chain verb forms and/or irregular negative irrealis verb11There is also an -m allomorph of the negative irrealis affix. However, -m is only used when
+followed by a subset B cross-reference suffix (§5.2), and DR chain verbs only take subset A crossreference suffixes, so -m is not used with DR chain verbs.",[461]
+"FINITE VERB STEM — CROSS-REF SUFFIX(ES) — TA SUFFIXNegative realis verbs are formed with the lexical verb in its non-finite form plus a
+following negative realis verb boke (class I) or boka (class II). The non-finite verb
+stem (§5.1.1) of the lexical verb and the negative realis verb boke/ boka are separate
+phonological words. Class I, IH and IIB lexical verbs take boke, while class II and
+III lexical verbs take boka. The class of cross-reference suffixes used, however, are
+338determined by the verb class of the negative realise verb boke and boka: boke is a
+class I verb, and boka is a class II verb. See §6.1.3 for more discussions on negative
+realis verb forms.","[352, 353]"
+"Nevertheless, there are verb lexemes with irregular negative irrealis affixes,
+e.g. sihefi (siha-) ‘remove cooked food from fire’ (class IIB) has a negative irrealis
+infix [ma]: si[ma]ha-. Except for verb lexemes which have irregular negative379irrealis affix and/ or irregular disjoint-referential affix (§7.2.1), the negative irrealis
+affix is formally identical with the disjoint-referential affix, except that -m is not
+used in disjoint-referential chain verbs as they always take subset A cross-reference
+suffixes.","[393, 394]"
+"388similar to those of positive semi-realis verbs (§6.2.1) and other irrealis categories
+like present imperative-jussive (§6.3.1) and counterfactual moods (§6.3.4):
+•class IB/ IHB cross-reference suffix(es) for class I and IH verb stems;•class IIB subject plus class IIB object suffixes for class IIB verb stems;•class IIA subject plus class IIB object suffixes for class II verb stems; and•class III subject plus class IIIB object suffixes for class III verb stems.6-146. kyambema-gof-a(-ni).tomorrow NEG:IR-come:FUT-1SG(-TENT)
+‘I may come tomorrow.’
+(hofu (hof-/ gof-) ‘come’ class I; -a class IB)6-147. homba-ma-na-ni-ni.
+see-NEG:IR-N1DU-2SG:O-TENT
+‘Maybe the two of them will see you.’
+(homba ‘see’ class II; -na class IIA, -ni class IIB)6-148. yohwefa tirati pa-ma-ya-a-ni.
+1PL:GEN letter write-NEG:IR-3SG-3FSG:O-TENT
+‘Maybe s/he will write the letter for us.’
+(pefi (pa-) ‘write’ class IIB; -ya-a class IIB)3896-149. wanu aflambli ma-sa-mbu-mu(-ni).
+money plentyNEG:IR-give-N1MPL-1NSG(-TENT)‘Maybe they will give us lots of money.’
+(sefi (sa- / da-) ‘give’ class III; -mbu class III, -mu class IIIB)6.3.3.3Questions in future tense
+Future tentative mood verb forms can also be used for questions in futuretense. We have seen that future declaratives are expressed by semi-realis verb forms
+(§6.2). Future interrogatives, however, must be in irrealis status. The future
+tentative verb form is used for both content questions (question word questions) and
+polarity questions (yes-no questions). The following are some examples of content
+questions in future tense.6-150. dani=hya=naga=napo-ma-afu?here=ABL=TOP where=ALL go:FUT-NEG:IR-2SG
+‘From here where will you go?’ (pi (pi-/ po-) ‘go’ class I; -afu class IB)6-151. nahombo kaha-ma-wa-a?
+whychop-NEG:IR-2SG-3FSG:O‘Why will you chop it down?’
+(kahefi (kaha-) ‘chop standing things’ class IIB; -wa-a class IIB)6-152. nuŋgwibli-ma-ha-a?how.many buy-NEG:IR-1SG-3FSG:O
+‘How many should I buy?’ (bli ‘buy’ class II; -ha class IIA, -a class IIB)390The following are some examples of polarity questions in future tense.6-153. yoambo hiniŋgi-m-afa?
+1SG:OBJ wait-NEG:IR-N1MDU
+‘Will they wait for me?’ (hiniŋgi ‘wait’ class I; -afa class IB)6-154. amani mome-m-a?
+canbe.together-NEG:IR-1SG‘Can I be together (with you)?’ (mome ‘be together’ class I; -a class IB; 80I)An extension of this interrogative function is that future tentative clauses in
+the form of polarity questions also convey indirect commands or exhortations in the
+right contexts (mainly when the subject is the addressee). Commands and
+exhortations expressed by future tentative verb forms are less direct and more polite
+than commands or exhortations expressed by imperative verb forms (§6.3.1).6-155. byama-dom-afu.coconut NEG:IR-drink:FUT-2SG
+‘Please drink the coconut.’
+(simi (simi-/ dom-) ‘drink’ class I; -afu class IB)3916-156. sea=hima-num-afu.chair=ADS NEG:IR-sit-2SG
+‘Please sit on the chair.’
+(numu (num-) ‘sit’ class I; -afu class IB)6.3.4Counterfactual mood
+Counterfactual mood conveys that the polarity of the proposition is oppositeto what has actually occurred. Counterfactual verb forms have a non-future finite
+verb, a counterfactual suffix -naho at the end of the verb, and cross-reference
+suffix(es) in between:
+•class IB/ IHB cross-reference suffix(es) for class I and IH verb stems;•class IIB subject plus class IIB object suffixes for class IIB verb stems;•class IIA subject plus class IIB object suffixes for class II verb stems; and•class III subject plus class IIIB object suffixes for class III verb stems.","[402, 403, 404, 405, 406]"
+•semi-realis positive (§6.2.1; §6.2.3);•semi-realis negative (§6.2.2; §6.2.3);•future imperative/ jussive mood (§6.3.1); and•future tentative mood (§6.3.3).,[280]
+"3=TOP money=PROP COP:3MSG
+‘He has (lots of) money.’6-195. amuŋgwamba=na hwalfehi imbu=mbi Ø-hwa.
+village.head=TOP womantwo=PROP 3MSG-PAST‘The village head had two wives.’The negative counterpart is formed by the possessum in abessive case
+(§4.5.5), and the copula still in positive polarity.6-196. refugee=na TB=mbi (wi-hwa)gwa ufati=mbokaefa-hwa.refugee=TOP TB=PROP (N1FPL-PAST) but medicine=ABSS 1PL-PAST
+‘The refugees had tuberculosis, but we did not have medicine.’4096-197. ai=na wi=mboka nu.
+3=TOP child=ABSS COP:3MSG
+‘He does not have a child.’6-198. ai=na yulu=mboka no.
+3=TOP leg=ABSSCOP:3FSG‘She does not have leg(s).’6.4.2.3Genitive possessive and genitive beneficial copular clauses
+Another strategy to indicate possession at the clause level is using a copularclause with the possessor in genitive case (§4.5.2) as the predicate and the
+possessum as the subject. As the genitive case marks both possessor and beneficiary,
+these genitive copular clauses can ambiguously indicate both possessive and
+beneficial meanings.6-199. tirati=na yowala no.
+letter=TOP 1SG:GEN COP:3FSG
+‘The letter is mine/ for me.’6-200. buku=na sihei(no).book=TOP 2FPL:GEN (COP:3FSG)
+‘The book is yours/ for you.’4106-201. rani kapali=naGaramut=laØ-hwa.that aeroplane=TOP Garamut=GEN 3MSG-PAST
+‘That aeroplane belonged to Garamut.’The negative counterpart is formed by the copula in negative polarity.6-202. dani hofo=na yohwefa m-efu.
+this land=TOP 1PL:GEN NEG:COP-1PL
+‘This land is not ours.’6-203. dani ilo=napetwa yani=lathis work=TOP oldme-o.man=GEN NEG:COP-1PL‘This job is not the old man’s.’6.4.2.4Locative copular clauses
+Copular clauses can be formed with the predicate (pro)nominal in one of thefour local cases: inessive case =mbe, adessive case =hi / =sehi, allative case=na(mbo) and ablative case =hya (§4.5.3). Inessive copular clauses signify ‘be in’,
+‘be going in’ or ‘be coming out of’; adessive copular clauses signify ‘be at’; allative
+copular clauses signify ‘be going to’; and ablative copular clauses signify ‘be
+coming from’.6-204. mi=larumu=mbe no.mother=GEN room=INSCOP:3FSG‘It is in mother’s room.’4116-205. Syatan=na ehalasufwa=mbe nu.","[423, 424, 425, 426]"
+"There are two grammatical case clitics in Menggwa Dla: object case =mbo
+(§4.5.1) and genitive case =la (§4.5.2); subjects and second objects are zero casemarked. There are four local cases: inessive case =mbe (‘in’/ ‘from inside’, ‘to
+inside’), adessive case =hi/ =sehi (‘on’), allative case =na(mbo) (‘to’) and ablative
+case =hya (‘from’) (see §4.5.3). There is actually another local case: perlative case=roŋgo (‘through’). However, it is also often used to mean ‘together’, similar to
+210the comitative case =lofo (see §4.5.4). There are also the proprietive case =mbi
+and abessive case =mboka, meaning ‘have’/ ‘exist’ and ‘not have’/ ‘not exist’
+respectively (see §4.5.5). There are three non-case nominal clitics: the topic clitic=na (§4.5.6) and the focus clitics =amba ‘also’ and =pa ‘only’ (§4.5.7). The
+following is a table summarising the nominal clitics, and any corresponding verbal
+affixes in Menggwa Dla. See also §6.1 for discussions on the grammaticalisation of
+certain case clitics into verbal suffixes and grammatical verbs.
+Table 4.3Nominal clitics and corresponding verbal suffixes
+nominal cliticsverbal suffixes/ grammatical verbobject case =mbo (§4.5.1)dependency -Ø ~ -mbo ~ -mbona (§7.5)genitive case =la (§4.5.2)
+inessive case =mbe (§4.5.3)
+adessive case =hi/ =sehi (§4.5.3)present continuous -hi (§6.1.1)
+simultaneous -hi (§7.1.3)allative case =na(mbo) (§4.5.3)
+ablative case =hya (§4.5.3)past tense (with focus) -hya (§6.1.2; §7.1.1)perlative case =roŋgo (§4.5.4)
+comitative case =lofo (§4.5.4)
+proprietive case =mbi (§4.5.5)present (stative/ transitional) -mbi
+(§6.1.1; §7.1.1)abessive case =mboka (§4.5.5)realis negative verb boke/ boka
+(§6.1.3; §7.1; §7.2; §7.3.1)topic =na (§4.5.6)
+focus =amba ‘also’ (§4.5.7)
+focus =pa ‘only’ (§4.5.7)211There are several reasons why the nominal clitics are clitics rather than
+particles or affixes. Firstly, the nominal clitics are attached to the last independent
+word in a noun phrase (or other clitics if the noun phrase has more than one clitic);
+the clitics are not attached to words of any particular word classes. (Unlike the
+corresponding verbal suffix which is always attached to verbs.)4-59. wali imbu=na/
+pigtwo=TOPimbu wali=na
+twopig=TOP‘As for the two pigs’10Secondly, case clitics which begin with /b/ are prenasalised [mb], which indicates
+that the phoneme /b/ in these clitics is considered word-medial rather than wordinitial (§2.1.3.2). Thirdly, the case clitics (sometimes) form part of the stress and
+pitch domain of their phonological host (see §2.4).","[224, 225, 226]"
+"6.4.1Copulas
+Copula is a special class of verb in Menggwa Dla. Like other verbs, copulasalso have finite forms which carry cross-referencing and non-finite forms which do
+not. However, as the main verb of a clause, finite copulas only head independent
+clauses (§6), and the non-finite copulas only head non-finite chain clauses (§7.3.2)
+(copulas are not used as the main verb of subordinate clauses (§7.1) and chain
+clauses (§7.2); see also §6.4.3 on auxiliary copulas). Moreover, finite copulas mark
+less tense-aspect-mood categories than ordinary verbs, and the way tense-aspectmood-polarity categories are expressed in copulas is also mostly different from those
+in ordinary verbs (§6.1-3). The following table summarises the copulas in Menggwa
+Dla; the copulas are introduced in the listed order in the rest of this section.",[408]
+"7-136. Kamby=hiklo--ma-hwa-a-mbo
+,
+masubject = 1DUKamberatoro=ADS separate--DR-1DU-3FSG:O-DEPyehof-aha-mbi.subject = 1SGthen come-1SG-PRES:TRANSN
+‘We
+We i+j separated at Kamberatoro and I came (here).’ (60I)4787-137. “... butya-hwa-a-Ø”meme-h-u-mbona,subject = 3MSG“… hit.with.stick-1DU-3FSG:O-IMP” DR-say-3MSG-DEPtikyawi ap-ehye-hwa.
+smallsubject = 1DUsleep-1DU-PAST‘He
+He j said “… we will catch (sparrows)” and we two j+k slept a little bit.’ (N)7.2.3Hypothetical protases
+Protases, in other words the ‘if’ clauses of conditional sentences, can bemarked in two different ways. Simple indicative protases, of which the truth value
+can be true or false, are expressed as irrealis -hwani clauses (§7.1.2). On the other
+hand, hypothetical protases, in other words protases of which the polarity must be
+false based on real word knowledge, are indicated by chain clauses. The
+dependency suffix (§7.5) of a hypothetical protasis chain verb is usually -mbona, but-mbo can be used as well. Hypothetical protasis often have counterfactual apodoses
+which carries the -naho counterfactual suffix (see §6.3.4 for more examples). The
+following exemplifies some hypothetical protases.7-138. hwahwa-Ø-a-mbona, wanu ma-sa-ŋga-u-naho.
+know-CR-1SG-DEPmoney NEG:IR-give-1SG-3SG:O-CNTR‘If I had known, I would not have given him/her the money.’
+(hwahwa ‘know’ class I, sefi (sa-/ da-) ‘give’ class III)4797-139. rani amani sama-ma-ya-a-mbona,
+DEM goodsuŋgwani-me-u-naho.cook-DR-3SG-3FSG:O-DEP be.sick-NEG:IR-3MSG-CNTR‘If it was well cooked, he would not be sick.’
+(samefi (sama-) ‘cook’ class IIB, suŋgwani ‘be sick’ class I)7-140. pi boke-me-Ø-mbo,kyambeyo efaAmanab=nago NEG:R-DR-3MSG-DEP tomorrow 1 1PL:RSUMP Amanab=ALLpo-l-emby-efu.
+go:FUT-LIG-SMR:1NSG-1PL
+‘If he did not come, we would (have to) go to Amanab tomorrow.’
+(pi (pi-/ po-) ‘go’ class I)7.3NonNon-finite chain clauses and verbal noun phrases
+Non-finite chain clauses and verbal nouns are rare in natural discourse. Non-finite chain verbs and verbal nouns are formally nearly identical; non-finite chain
+verbs are formed with a non-finite verb stem (§5.1.1), an optional ‘posterior’ suffix -mba, and a dependency suffix -Ø ~ -mbo ~ -mbona; verbal nouns are formed with a
+non-finite verb stem, an optional posterior suffix -mba, and a nominalising suffix -Ø
+~ -mbo. In addition, verbal noun phrases can also take certain case clitics (§4.5).
+Neither non-finite chain verbs nor verbal carry cross-reference suffixes (§5.2). The
+meaning of the ‘posterior’ suffix -mba is different depending on whether it is used
+on non-finite chain verbs or verbal nouns, see §7.3.1 and §7.3.2 respectively.","[492, 493, 494]"
+"5-2.kaka-hya-asaha-hya-aØ-numb-a-mbo,break:MASS-1SG-3FSG:O put-1SG-3FSG:O CR-SEQ-1SG-DEP
+‘I would divide (the pile of sago starch) and put them (on the palm stalk),
+and…’ (B)
+(kakefi (kaka-) ‘break’ (MASS, bivalent) (class IIB); sahefi (saha-) ‘put
+horizontally’ (class IIB), nuŋgu (nu[ŋg/mb]-) SEQ (class I))261Alternatively, when a lexical verb is followed by certain grammatical verbs
+like the realis negative verb boke (class I)/ boka (class II) (§§6.1.3) or the
+completive verb fefi (fa-) (class IIB) (§7.4), the lexical verb must be (for realis
+negative) or can be (for completive) in the non-finite form. The following is an
+example of a negative realis serial verb form.35-3.(hamani)apu boke-aha-hwa.(yesterday) sleep NEG:R-1SG-PAST
+‘I did not sleep (yesterday).’ (apu (ap-) ‘sleep’ (class I); boke NEG:R (class I))5.1.2Finite verb stems: non-future versus future
+Most verb lexemes have only one finite verb stem which is used in allenvironments where a finite verb stem is required (§5.1.1). The following are
+examples of the verb apu (ap-) ‘sleep’ (class I) in past tense (§6.1.2), present tense
+continuous aspect (§6.1.1) and future tense (§6.2). The finite verb stem remains
+invariant for apu (ap-) ‘sleep’ (class I) and most other verb lexemes.","[275, 276]"
+"Prohibitive mood is the semantic negative counterpart of imperative-jussive
+mood (§6.3.1). Prohibitive verb forms are non-finite as well; they do not carry any
+cross-reference suffixes. Prohibitive verbs are formed by prefixing a negative
+irrealis prefix ma- (§6) and suffixing a cautious mood suffix -e ~ -we (see above) to
+a non-finite verb stem.",[399]
+"Despite having three or more undergoer referents, the undergoer reference is
+always cross-referenced as singular if the undergoer reference is cross-referenced on
+the verb. With mass undergoer verbs, the individual identities of the inanimate
+undergoer referents are not pragmatically salient, and the group of undergoer
+referents is viewed as one single mass rather than plural individuals. Take the
+example of bi ‘hold’ (class II), of which the mass undergoer counterpart is bibi
+‘hold’ (class II). To convey ‘I am holding string bags’, one can simply use the nonmass undergoer verb bi, and if the undergoer referents — the string bags — are low
+in discourse saliency, the undergoers can be cross-referenced by a number-neutral
+3FSG cross-reference suffix (§5.2.4).
+2705-20. alu(=mbo)bihahi (< bi-ha-a-hi).string.bag(=OBJ)hold-1SG-3FSG:O-PRES:CONT‘I am holding string bag(s).’ (-ha-a class IIA)To specify that there are three or more undergoer referents, the mass
+undergoer verb bibi can be used.5-21. alubibi-ha-a-hi.string.bag hold:MASS-1SG-3FSG:O-PRES:CONT
+‘I am holding string bags.’ (-ha-a class IIA)If the three or more undergoer referents are for some reason very salient in
+the discourse, then the undergoers can be cross-referenced as plural. However, the
+non-mass undergoer verb bi must be used, as the undergoer can only be crossreferenced as singular in a mass undergoer verb.5-22. alubi-ha-ti-hwa.string.bag hold-1SG-N1FPL:O-PAST
+‘I was holding string bags.’If the undergoer reference is specified as having two referents, the undergoer
+can be cross-referenced as singular if the undergoer is not salient (see §5.2.4), or
+‘correctly’ cross-referenced as dual. A non-mass undergoer verb must be used as271mass undergoer verbs indicate that the undergoer reference has three or more
+referents.5-23. aluimbu bi-ha-a-hwa.string.bag twohold-1SG-3FSG:O-PAST‘I was holding two string bags.’5-24. aluimbu bi-ha-pa-hwa.string.bag twohold-1SG-N1DU:O-PAST‘I was holding two string bags.’Mass undergoer verbs cannot be in negative polarity. The negative
+counterpart of both examples 5-20 (non-mass undergoer) and 5-21 (mass undergoer)
+has to be formed from the non-mass undergoer verb lexeme (see §6.1.3 on realis
+negation).5-25. alubiboka-ha-a-hi.string.bag hold NEG:R-1SG-3FSG:O-PRES:CONT
+‘I am not holding string bags.’ (-ha-a class IIA)The use of mass undergoer verbs is not obligatory. Whether the undergoer
+noun phrase is overt or covert, or whether the undergoer noun phrase is quantified or
+not has no influence over whether a mass undergoer verb or a non-mass undergoer
+verb is used. This optionality is further demonstrated in the following example. In
+the first clause the verb pupuhwa ‘we plucked feathers, and…’ is formed from the272non-mass undergoer verb lexeme pupu. In the second clause, the verb pupuahwehi
+‘we plucked feathers, and…’ is formed from the mass undergoer verb lexeme pupu-ahwe. The two clauses depict the same situation.5-26. ninala pupu-Ø-hwa-a-Ø,
+feather pluck.feather-CR-1DU-3FSG:O-DEPpupu-ahwe-ehiØ-numb-ehi-mbo,pluck.feather-MASS-1DU CR-SEQ-1DU-DEP
+‘We plucked the birds’ feathers, and after we have plucked the feathers,
+then …’ (-hwa-a class IIB, -ehi class IB) (N)Different types of mass undergoer verbs are introduced in the rest of this
+section. The following lists of mass undergoer verbs are probably not exhaustive, as
+the use of mass undergoer verbs are optional, and speakers’ repertoires of mass
+undergoer verbs vary. Mass undergoer verb lexemes are derived from their nonmass undergoer counterpart. However, the derivation process is not productive and
+not predictable, and only some mass undergoer verb lexemes have a clearly
+segmentable mass undergoer affix.","[284, 285, 286, 287]"
+"447forms, in which case the DR affix may differ from the negative irrealis affix. The
+(regular) allomorphy of the DR morph is as follow.","[461, 462]"
+"337past tensepresent tensefuture tensetAlso in this chapter 6, we will look at different forms of the copula and
+copular sentences (§6.4). Clauses in Menggwa Dla are most usually verb final, but
+it is not uncommon to find a single noun phrase occupying the post-verbal position.
+Copulas form a special class of verbs in Menggwa Dla. Essentially, copulas have
+one or more class I cross-reference suffixes (§5.2.1), and they mark less status, tense,
+mood and polarity categories than independent verbs.","[351, 352]"
+"398Table 6.14Negative future declarative copulas
+123ga … l-ahaga … l-afaga … ØM
+SGga … l-waFga … l-afaMga … l-ehyeDU
+Fga … l-efyeMga … l-umaga … l-efaPLga … l-eiF6-166. yo ga
+1amani gluNEG:SMR goodl-aha.teacher LIG-1SG‘I will not be a good teacher.’6-167. ga
+NEG:SMRtite nesi Ø.
+bad nurse 3MSG‘He will not be a bad nurse.’The non-finite form of the negative declarative copula is me. Finite forms of
+the negative declarative copula distinguish two tenses: non-future and future.","[412, 413]"
+"Sentence final non-posterior non-finite chain clauses convey instructions:7-149. hwi=lofoyarifi-Ø.water=COM stir.sago-DEP
+‘Stir sago with water.’7-150. hutumu=hi bahefi-mbo.
+leaf=ADScut.put-DEP‘Cut and distribute (food) on the (big) leaves.’On the other hand, sentence-final posterior non-finite chain clauses are often
+used in place of jussive verb forms (§6.3.1) or positive semi-realis verb forms (§6.2).
+For instance:Sentence-final posterior non-finite chain verb:7-151. pi-mba-mbo ~ pi-mba-Ø.
+go-POST-DEPgo-POST-DEP‘(I/ we/ you/ someone) will go.’486Jussive mood:7-152. pi-efu-Ø!
+go-1PL-DEP
+‘Let’s go (now)!’Positive semi-realis mood:7-153. po-l-efusamby-efu.go:FUT-LIG-1PL POS:SMR-1PL
+‘We will go.’Semi-realis verb forms convey the speaker’s absolute certainty that the
+situation will occur in the future, and jussive forms convey slight coercion. On the
+other hand, posterior chain verbs — which depict situations posterior to the time of
+utterance — are relatively polite in that they are semantically vague; they do not
+indicate the speaker’s attitude towards the proposition (i.e. devoid of modal
+meaning), and the actor of the situation does not have to be expressed. The
+following are other examples of sentence-final non-finite chain clauses.7-154. (hwalfehi pi-me-wi-mbo,)
+(woman go-DR-N1FPL-DEP)ilo-mba-mbo.
+work-POST-DEP‘(When) the women leave,) (we) will work.’4877-155. ayo [humbli-me-aha-mbo hoho-hi-a-hya]ah 1 [hear-DR-1SG-DEPtell-N1FPL-3FSG:O-PAST]amamo=la hwafo hoho-mba-Ø.
+moon=GEN storytell-POST-DEP‘Ah I will tell you the moon’s story which I heard them telling.’ (A)7.3.2Verbal noun phrases
+Verbal nouns are nominalised forms of verbs, akin to gerunds in English.","[500, 501, 502]"
+"3SG:GEN dad.bro COP:3MSG
+‘[The man [who saw him]/ the man [whom you/he saw]] is my uncle.’427Relative clauses which are not in past tense and positive polarity are rare in
+natural discourse. The following are some examples of relative clauses which are
+not positive and/ or not past tense.","[441, 442]"
+"Table 6.4Realis suffixes and corresponding case clitics
+Realis suffixesCorresponding case cliticspresent transitional/ stative -mbi (§6.1.1)proprietive case =mbi (§4.5.5)present continuous -hi (§6.1.1)adessive case =hi ~ =sehi (§4.5.3)past -hwa (§6.1.2)(no corresponding case clitic)past with focus -hya (§6.1.2)ablative case =hya (§4.5.3)The negative realis verb boka/ boke is no doubt related to the abessive case
+clitic =mboka (§4.5.5). There are no specific interrogative forms for realis
+categories. See §6.1.4 on questions in realis status.",[354]
+"360class III verb lexeme sefi (sa-/ da-) has a special negative realis verb form sekoni
+(which is then followed by boka).","[374, 375]"
+"Table 6.13Positive future declarative copulas
+123l-a-mby-al-afu samby-afuM
+SGl-a-ah-o-mb-eF
+Ml-e(hi sa)mby-ehiDUl-a-ah-u-mb-il-afani samby-afaniFl-efi samby-efiMl-uma-ah-u-mb-imul-e(fu sa)mby-efuPLl-ei samby-eiF(lehi sambyehi (1DU) and lefu sambyefu (1PL) can be contrated to lembyehi (1DU)
+and lembyefu (1PL) respectively.)6-165. yo amani glu
+1l-a-mby-a.good teacher LIG-1SG-POS:SMR-1SG‘I will be a good teacher.’Negative future declarative copulas are formed like negative semi-realis
+verbs (§6.2.2): the predicate nominal is preceded by a negative semi-realis particlega and followed by an l ligature which is suffixed with a class IA cross-reference
+suffix. The exception is that when the subject is third person masculine singular
+(3MSG), the cross-reference suffix is -Ø and the l ligature is not used.",[412]
+"Yohanes=GEN=TOP weight-PROP(COP:3FSG)‘Yohanes’ (one) is heavy.’With the genitive case =la, the possessor is marked in relation to the
+possessum head noun. In some situations, the reverse marking pattern is possible: a
+possessum can sometimes be marked with a proprietive case =mbi (or the negative
+counterpart the abessive case =mboka) in relation to a possessor head noun. See
+§4.5.5 on the proprietive and abessive case clitics.",[231]
+"2384-137. ga=na(mbo)pi-afe (< pi-afa-hi)?where=ALLgo-2SG-PRES:CONT‘Where are you going?’A non-subject can also be topicalised. When an object is topicalised, only
+the topic case clitic =na is used, and the object case clitic =mbo (§4.5.1) is not
+used. This is rather similar to Korean and Japanese where the topic particle
+(Korean 은 ɯn/는 nɯn; Japanese は wa) always suppresses the subject case particle
+(Korean 이 i/가 ka; Japanese が ga) or the object case particle (Korean 을 ɯl/ 를lɯl; Japanese を o) when a subject or object is topicalised. In Menggwa Dla, when
+a pronominal is topicalised, it is always in its citation form (§4.6.1). As shown in
+example 4-139 below, a noun phrase cannot be marked with both an object case
+clitic =mbo and a topic clitic =na.184-138. dani=na yo ilo-ha-a-hya.
+this=TOP 1work-1SG-3FSG:O-PAST:FOC‘As for this, I made it.’4-139. * dani=mbo=na yo ilo-ha-a-hya.
+this=OBJ=TOP1work-1SG-3FSG:O-PAST:FOCTopicalised ditransitive second objects have never been observed in natural
+discourse. The following are a few constructed examples showing different core18Nevertheless, =nambo is one of the free variants of the allative-instrumental case (§4.5.3).","[252, 253]"
+"The situation of an irrealis -hwani clause is imagined by the speakers, and the
+truth value of the -hwani clause proposition can turn out to be true. In some
+instances the speaker can be sure that the proposition of a -hwani clause will happen
+in the future (as in the example below). In these cases the -hwani clause is
+comparable with a when clause in English.7-52. efi-ya-a-hwani,ehalawulipi-mba-Øno.become.dark-3SG-3FSG:O-when 3SG:GEN house go-POST-NOML COP:3SG
+‘When it gets dark, (we) will go to his/her house.’437Most usually an irrealis -hwani clause is used as the protasis (the if clause) of
+a real conditional sentence. Real conditional sentences are conditional sentences
+where the protasis can be true or false based on (the speaker’s) real world
+knowledge.7 The proposition of the irrealis -hwani apodosis (the then matrix clause)
+becomes true if the proposition of the irrealis -hwani protasis becomes true. The
+following sentences exemplify irrealis -hwani protases followed by apodoses in
+semi-realis status (§6.2).7-53. hwihof-wa-hwani, ga-gof-aha.water come-3FSG-ifNEG:SMR-come:FUT-1SG‘If it rains, I will not come.’7-54. numuŋgwa-wa-hwani, ilo-hya-ni-mby-a.
+die-3FSG-ifwork-1SG-2SG:O-POS:SMR-1SG‘If she dies, I will kill you.’7-55. yafli bli-mbohof-ei-hwani,numbala holombodog buy-NOML come-N1FPL-ifblackfirstda-mba-u-mbohomba-Ø-asamby-afu.give:FUT-2SG-3SG:O-DEPsee-N1SG-3FSG:O POS:SMR-2SG‘If (someone) comes to buy the dogs, you try (‘see’) to give them the black
+ones first.’7On the other hand, hypothetical protases, which cannot be true based on real world knowledge, are
+rendered as chain clauses (§7.2.3).","[451, 452]"
