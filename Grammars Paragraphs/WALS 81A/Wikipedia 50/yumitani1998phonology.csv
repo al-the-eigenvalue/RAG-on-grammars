@@ -1,0 +1,798 @@
+Paragraph,Page number
+"2.5.18.2. Lexical and postlexical modulesIn Lexical Phonology, some phonological rules apply only in the lexical
+module, some only in the postlexical module, and some in both. The main difference
+between the two modules is that the lexical module creates words as the output, so
+sometimes a rule may require morphological information to derive the correct lexical
+representation. In the postlexical module, however, supposedly there is no
+morphological information to determine if a rule can apply. The postlexical module
+consists of two submodules-asyntactic module and a phonetic implementaionmodule. The phonetic implementation includes, among other things, what are called
+'allophonic rules' in classical phonemics.
+The lexical module in Jemez seems to consist of three levels. Level 1 (simplestem formation) is necessary because some phonological rules must apply within a stem
+first before the stem is compounded or affixed. Compounding and incorporation are
+placed in Level 2 since a set of rules including tone rules only applies to compounds.
+Finally, Level 3 (affixation) consists primarily of rules which operate on affixed stems.
+Morphological processes do not have to be ordered at the same level, but phonological
+rules must be ordered. In the model provided below, phonological rules in (a) must
+apply before those in (b), and (b) before (c), etc. Within each group, the rules can
+apply in any order. Note that L-effect operates at both Level 2 and LeveI 3. Also, e
+Raising, Syllable-final Consonant Drop, F to M, and M to L, which are marked with an
+asterisk *, apply both lexically and post-lexically.",[104]
+"'I came (in order) to see you.'
+(I tr[ l sg:2sg]-seelpotn-comp intr[I sg]-comelpf)(342) n t p7&li bide tazpnjdieni im$
+'I went to the mountain (in order) to catch a rabbit.'
+nf p7&li bid%* ta-zfde-d$ni &m$(I mountain rabbit tr[1 sg:3bas]-catchlpotn-comp intr[ 1sg]-go/pf)
+Like the example in (339b), a future form with l-hf.1can be used in a clause that is
+juxtaposed to the clause expressing motion, as in (343b).
+(343) a.dbgi mf idk3@a:n#'He is going there to sing.'d@gi 0-mf il-z&*'~-d&ni
+(there intr[3bas]-go/prog tr[3sglrefl]-sing/potn-comp)
+b.dbgi mEl idiko3~h$'i'He is going there to sing.'d&@ 0-rnr^ il-z&*?~-k:
+(there intr[3basl-go/prog tr [3sg/refl]-sing/potn-fut)4.9.3.3. /-d$khe/ 'purposive complementizer'
+Another complex suffix /-d%khe/also indicates the purpose of an action. The
+difference is that the sentence which contains /-d%ngmeans something like 'X
+wentlcame to a place to do something'. The implication of location is lacking in
+/-d$khe/.",[258]
+"(76)'I am tired.' (in&[l sg]-be.tired/stat)i-kh&n€This speaker uses the forms with the palatalized stop, [kw6.1ami]and [khy&ni]
+after
+prefixes which do not contain [g (e.g. [Q-] 'intransitive prefix for second person
+singular subject'), or when the prefix is null, as with third person singular subject.
+This is in agreement with the above-mentioned distribution of velar stops, i.e. the
+occurrence of palatalized and non-palatalized velar stops is phonetically conditioned:
+the non-palatalized stops occur after non-low back vowels, and the palatalized stops
+occur after other vowels.
+Both Rh]and [khy]seem to occur freely before [e] or [e*].
+(77)
+(78)vakh&khe- vakhyi3.khYe
+W&-khe*ji wb-khye-ji'plains'
+'Albuquerque'Thus because their distribution is not entirely predictable, we must treat both
+palatalized and depalatalized velar stops as separate segments in our underlying
+consonant inventory for now.
+The rule of Velar Stop Depalatalization which applies to velar stops after a
+benefactive prefix can be formulated as (79).
+(79)Velar Stop Depalatalizationr-C- continuant
+anterior- delayed re11Some speakers seem to have generalized the Depalatalization rule to any
+environment in which a non-low back vowel such as /i/ and /o/ occurs before a velar
+stop, whether or not a benefactive prefix is present. Such a generalized rule can be
+formulated as (go), and it produces surface forms such as those in (81).
+Velar Stop Depalatalization (Generalized)(80)-- continuant
+- anterior*[+ back]/V+ back- delayed re1[+ high- low]- back
+Lb(8 1)a. 'I am tired.'(intr[ l sg]-be.tiredistat)i-khy6*lamiURikh6*lamjVelar Stop Depalatalization (Generalized)ikh8*lamjSRb. 'I am tired.'(intr[ 1sg]-betiredfstat)i-khy&@URkh$@Velar Stop Depalatalization (Generalized)W&@SRSimilar variation as seen in possessive constructions with an incorporated noun which
+involves L-effect could be the result of a different order in rule application. The verb
+stem-initial velar stop becomes depalatalized if the Velar Stop Depalatalization rule
+applies before noun incorporation in a possessive construction, as in (82a). On theother hand, if noun incorporation takes place fust, then the Depalatalization rule may
+only apply to the initial consonant of the incorporated noun, in which case, the velar
+stop may remain palatalized. (See (82b) below.) This suggests that as in the case of Leffect, these phonological and morphological rules may apply at different levels in word
+formation.","[82, 83, 84, 85]"
+"In the unlikely event that the author did not send UMI a complete
+manuscript and there are missing pages, these will be noted. Also, if'
+unauthorized copyright material had to be removed, a note will indicatethe deletion,Oversize materials (e.g., maps drawings, charts) are reproduced by
+sectioning the original, beginning at the upper left-hand corner and
+continuing fiom left to right in equal sections with small overlaps. Each
+original is also photographed in one exposure and is included in reducedform at the back of the book.
+Photographs included in the original manuscript have been reproduced
+xerographically in this copy. Higher quality 6"" X 9"" black and white
+photographic prints are available for any photographs or illustrationsappearing in this copy for an additional charge. Contact UMI directly to
+order.",[1]
+"( 108) Vowel Truncationa. The first vowel is unstressed.
+v1##[- stress]b. The first vowel is stressed.[+ stress](109) a. 'They (du) went home, I heard.' (they rep intr[3du]-go.home/pf)
+d6. gYajl-zkmqURd6- gYaSldhmqL-effectd6. gYajdkmqSyllable-final Consonant Dropd8- gYjd&mgVowel Truncation (a)d6* gYidikmqSR(109) b. 'Iam awornan.'
+?baWh
+g?e(woman intr[ l sg]-cop)
+UR?eVowel Truncation (a)?eSR(1 10) 'Where did you (sg) buy it?' (where Q intr[2sg]-buy/pf)
+t$h$ ~ ~ - k ~ ~ & @ t ~ 6 UR
+it@ h$q-khYfrn4t%F to Mt$h$ q-khYfmQt%High Vowel Frontingt$hi$ khYimgt%Vowel Truncation (b)t& h$ khyfrn$t%SR2.5.18. Interaction between phonological and morphological d e s2.5.18.1. The domains of rule application
+As we have seen, the application of some phonological rules requires
+morphological information. In turn, some phonological rules must apply before certain
+morphological processes in order to generate the correct output. Thus there is an
+interaction between phonological rules and morphological processes, and the theory ofLexical Phonology seems to explain the Jemez data well. In this section, we will
+briefly survey the domains in which phonological rules apply.
+In the formation of simple stems (i.e. non-compounds), the rules in (1 1 1)
+apply. Reduplication is used in deriving the imperfective form of some verbs. It must
+apply before any other rule (e.g. L-effect) changes the shape of the verb root. The
+imperfective form of some other verbs involve the change of root-final consonants.
+The application of the Nasality Spread and Oral to Nasal Stop rules are limited to within
+the stem.","[101, 102]"
+"1.3. Previous research on the language and people of Jemez
+1.3.1. Linguistic studies
+There are not many published works on the Jemez language, and most of these
+deal with comparison of Kiowa-Tanoan languages. Harrington (19 lob) was the first
+linguist to include Jernez data. He compared the newly obtained Kiowa vocabulary
+with similar words from Tiwa, Tewa, and Jemez. He did not provide any phonetic
+guide to the triu~scription,and although some Jemez words cited there have accent
+marks, the meanings of the marks are not clear.",[19]
+"3.4.4.3. Class IIT nouns
+The basic number for nouns in this class is singular and plural, so the inverse isonly dual. There is some overlap in categories of nouns, as reckoned in English terms,
+between Classes II and III, but Class HI includes many terms for clothing, ornaments,
+and modem objects. (Note that Jemez people use English words for items such as
+television and radio.) It is also interesting that the word for 'sun' is a Class III noun,
+but the word for 'moon' is Class I.
+(38)a. Clothing, ornaments:'shoe'n@n@chYi
+'belt'wQte 'glove'tt-hete 'shirt'#tYi 'pants'l%vo 'coat'm&latkse 'ring'.",[127]
+"Finally, the verb [m$] 'give' occurs with a couple of bound verb roots which
+denote the transfer of an object but which do not specify the direction of the transfer.
+With [m&], A is the source of the transfer and P is the recipient, not the transferred?
+Contrary to the usual patterns in languages where 'give' is ditransitive, /m&/ is a simple
+transitive.
+(51)RootCom~ounds/mq*Sa/ 'loaning'm$-Sam$'loan, lend'rn&Sqr~*'borrow'khybqm&'sell'khybqr~*'buy'khyhet%'buy (intr)'/khybimg/ 'trading'(52)a.b.","[177, 178]"
+"PerfectiveImmrfectivegYf@gY@e'bend'S&peS&ve'shoot (with arrow)'aSipemfgive'rub'yktky%Ie'throw'Qnctkle'string'7e.e'&le'run'40Actually, the alternation between [ty]and [S] is found in the stem-initial position,
+too-in the word for 'fall off/pf: [tYaand [Sq. The first form occurs when S (i.e.
+intransitive subject) is plural, while the second one when S is singular or dual (for noun
+classes I, XI, and m).It is not clear whether this particular alternation is systematic
+since this is the only such example I have. (See Section 4.1.3 for a related discussion.)(56)
+C.","[74, 75]"
+"However, the meaning of the indefinitelinterrogativeword is often clear from the
+context. In (157)' the sentence means ""What is this?""
+(157)fifah& @dae'What is this?'fifni h& fiedae @-%(what/something Q this intr[3bas]-beistat)CHAPTER 4. VERB MORPHOLOGY4.0. IntroductionVerbs in Jemez are defined as those words which are inflected for aspect, mood
+and transitivity and which occur with pronominal prefixes. In addition to words which
+denote actions and processes, most of the words which would be treated as 'adjectives'
+in other languages belong to this class. (See Section 3.8 'Noun qualifiers'.)
+There are two classes of verbs: transitive and intransitive. Transitive verbs are
+obligatorily detransitivized (i.e. passivized) under certain syntactic conditions, and this
+is reflected in the inflectional paradigm and the pronominal prefixes which they take. It
+is also possible to classify verbs as active or stative. All active verbs have at least five
+inflected forms, while most stative verbs have just one basic form.
+Jemez verbs are quite complex phonologically. Some consonants alternate, and
+tones and vowel length vary with particular inflectional categories. For this reason,.there is a greater coverage of phonological phenomena in this chapter than in the
+preceding chapter on noun morphology. The discussion of verbs in this chapter centers
+around three main topics: (a) stem formation (Section 4.1 through 4.4), (b) pronominal
+prefixes (Section 4.6), and (c) inflection (Section 4.8).
+Unless stated otherwise, the citation forms of verbs found in the text (and many
+examples) of this chapter are the perfective form for active verbs and the basic form for
+stative verbs. This is necessitated by the fact that the surface forms of Jemez verbs can
+be very different from the underlying forms due to various phonological processes.","[162, 163]"
+"'I am tired.' (intr[ l sg]-be. tired/stat)44/gy6./occurs when the possessed object is plural.
+45Note that In/ in /khy&ng'dog' is not glottalized when the word is incorporated in the
+verb. The underlyingly F tone in the second syllable of the word is lowered to L
+through the F to M and M to L rules (Section 2.4.3), and the Glottalization rule does
+not apply to the 1111. Thus the surface form of the word for 'dog', when incorporated,
+is homophonous to [khy$ni]'betired'.",[82]
+"CHAPTER 2. PHONOLOGY2.0. Introduction
+This chapter discusses the sound system of Jemez, including consonants and
+vowels, phonotactics, suprascgmentals, and phonological rules. The language has a
+complex phonology, and one of its most prominent features is the alternation of various
+consonants. Some of the consonants have a limited distribution and are derived from
+underlying segments. This is the rationale for setting up surface and underlying
+consonants.
+Martin (1964) contains a detailed description of Jemez sounds. She uses a nonabstract, classical phonemic approach in her analysis. She does not explain the
+underlying systematic alternations among segments, some of which are phonologically
+conditioned, others of which are morphologically conditioned. Her discussion of
+syllables and tones is also brief, and there is a need for a more detailed account of them.
+A more abstract, generativist approach is used in this analysis and description of
+Jemez phonology in order to explain the underlying regularities. This dissertation
+employs some notions and formal notations of generative phonology, particularly a
+version of Lexical Phonology. However, I have tried to include a detailed account of
+the facts since the data presented here should be accessible to linguists of various
+theoretical orientations. I have also tried to keep the usage of formalism to a minimum
+for the same reason.
+Two terms and notations require clarification. I use the term 'underlying'
+representation in the same sense as generative phonologists do, and I indicate the
+underlying form by enclosing it between slashes / 1. This level is necessary for
+capturing morphophonological alternations, which are very common in Jemez.
+However, my 'surface' representation (or 'surface' forms), enclosed in square brackets[ 1, is not the same as 'surface' (or 'systematic phonetic') representation, as was usedin early generative phonology.' It is an abstraction from the systematic phonetic
+representation; that is, not all the phonetic details are represented. Some sounds have
+'allophonic' variants: for example, [th]is sometimes pronounced as [ts]in Jemez.
+(Note that I use square brackets for both the basic and the variant phones? The
+phonetic symbol for the more common variant is used to refer to the particular 'surface'
+segment, i.e. [th]in this case.) I have included a discussion of some speech variation,
+but a detailed analysis of stylistic and other types of variation is beyond the scope of
+this study.
+This surface level of representation is useful for practical reasons, too, that is,
+for developing an orthography for the language. It is against the speakers' intuition to
+insist that the letter 'byshould be used instead of 'm' in writing a word because the
+former is the underlying form of (some occurrences of) the latter.
+The surface segments were identified primarily on the basis of whether they
+contrast on the lexical level, usually by identifying minimal or near-minimal pairs.","[24, 25, 26]"
+"(13)a.@m3ebi-'The Jemez people (pl) are big.hfm4Je-M-(Jemez-inv much intrC3invI-size/stat)nk*b61h kh61e'That bread is small.'n%*be16 kh61e @-?S (that bread small intr[3basl-cop/stat)b.ni.t7ae E l k kh6*jM 'Those (loafs of) bread (du) are small.'
+nia-t?ae b616-S kh6=il-M* (that-inv bread-inv small intr[3du]-sizelstat)(13)c.nrn. be16 kh6- bi-'Those (loafs of) bread (pl) are small.nF M16 kh6- 0-bi*(that/pI bread small intr[3basj-sizelstat)As (14) and ( 15) show, the singular rE] can be used when S is dual, but the plural [bi-]is much more common for the dual S.
+(14)(1 5)hfmE ?fi;ebe jp1$'The Jemez people (du) are big.'urn-6:?ila=be(Jemez-inv big intr[3du]-coplstat)ni-t3a: M1$ kh61eS i71iii'Those (loafs of) bread (du) are small.'n i . - t ? ~b615-S kh61e-S jl-'8(that-inv bread-inv small-inv intr[3du]-coplstat)The occurrence of number-differentiated verb stems is widespread in North
+American Indian languages. It is interesting that many languages have different stems
+for verbs of position such as 'lie' and 'sit', and for stative verbs such as 'big' and
+'small' (Booker 1982). For a comparative Kiowa-Tanoanit is particularlystriking that in both Jemez and Kiowa, the same forms are used for the verbs 'be
+sitting/stat' and 'by lying down/stat' when the subject is plural.54.2. Derivation
+4.2. l. Detransitive verbsJemez has a detransitivizing suffix l-tz/ (perfective), which is used to derive
+intransitive verbs mostly from transitive roots. (There are two cases where the
+detransitives are derived from the intransitive roots, as we will see below.) The
+morpheme has two phonologically conditioned allomorphs: [itk]occurs with roots
+which end in /d/ or fl/, and [-&l with other roots. Both the transitive verbs and theirSThe Kiowa verb stem for 'be sitting (pl)' and 'be lying (pl)' is /k7(ll/ (Watkins
+1984: 154).","[168, 169]"
+"Mary gya John be16 Q-0-h6 (Mary rep John bread tben[3sg:3sg]-basbake/pf)4.10.3.2. / ~ 1 //QI/ can mean 'also' or 'still'. It occurs with both active and stative verbs.(373) vg3wk ty8-tibae Q sgpqpk-'We both also made a box.'vP wf tY&tlba-S~1 sqpq-p$* (both box-inv also tr[ l du:3invl-rnake/pf)
+(374) ~1 tw&-figQI t-wii-fif'We are still strong/heaIthy.'
+(still intr[ldu]-stronghtat)CHAPTER 5. TEXT5.0. Introduction
+The following text is a personal narrative told by one of my older consultants
+about her childhood. The text serves two purposes: (a) it illustrates, in natural
+discourse, some of the phonological and morphological points discussed in the
+preceding chapters; (b) it gives a glimpse into aspects of Jemez life, both past and
+present.
+After transcribing the text from the tape, I checked my transcription with the
+same speaker. During the second session, she explained details and helped to refine the
+translation, and in addition, she sometimes made corrections to her original. All the
+changes are noted in Section 5.1.4.
+Each line is marked with a number enclosed in parentheses in order to make iteasy to relate the text to the translation, the interlinear gloss, and the notes. Each line
+represents a single clause or a rnain clause and an embedded clause. A comma indicates
+places where the speaker paused.","[264, 265]"
+"There are still questions regarding the internal relationship of the language
+family. Some linguists-for
+(1967)-suggestedinstance, Irvine Davis (1959) and George Tragerthat the family had first split into Kiowa and Tanoan. Others hintedthat this might not be the case. Watkins writes that ""the label Kiowa-Tanoan reflects an
+obvious cultural division rather than a linguistic one"" (1984:2).1 (See also Paul
+Kroskrity ( 1993:56-57).)
+It is not certain if there was any other language in the Towa sub-group. It has
+been generally assumed that Pecos spoke another dialect of Towa. Harrington wrote
+that Jemez and Pecos were two dialects of the Towa language:
+It was also suggested that the dialects of group B be known as constituting the
+Towa language, since the term tdwa, meaning ""native,"" is applied by the Jemez
+and Pecos to their own language. (Harrington 1910a: 13)
+However, the Jemez historian, Joe Sando, rejects this assumption: ""What few words
+are known of the Pecos language sound more Tewa than Towa"" (1982: 149).","[18, 19]"
+"APPENDIX 1. ABBREVLATIONSact
+adm
+agt
+=P
+aux
+bas
+ben
+comp
+cond
+conj
+COP
+dem
+detr
+du
+excl
+fut
+hor
+iaux
+iben
+imp
+irnpf
+inc
+incl
+indef
+instr
+int
+interr
+intr
+inv
+iter
+locactive
+admonitive
+agent
+aspect
+auxiliary
+basic number
+benefactive
+complementizer
+conditional-temporal
+conjunction
+copula
+demonstrative
+detransitive
+dual
+exclusive
+future
+hortative
+inflectional auxiliary
+intransitive benefactive
+imperative
+imperfective
+incorporative
+inclusive
+indefinite
+instrumental
+intensifier
+interrogative
+intransitive
+inverse number
+iterative
+locativeModmodal particle
+negative
+neg
+obj
+object
+optative
+opt
+potn potential
+prog progressive
+passive
+PSV
+p e r ktive
+Pf
+plural
+PI
+poss possessive
+prefix
+pfx
+P P ~ X pronominal prefix
+question marker
+B
+reciprocal
+rec
+reportative
+rep
+reflexive
+refl
+singular
+sg
+stative
+stat
+subordinator
+subj subject
+suffix
+sfx
+stative
+stat
+tense-aspect particle
+TA
+tben transitive benefactive
+tr
+transitive
+unf
+unfulfilled
+unsp unspecified
+vb
+verb
+S
+Asubject of intransitive verb
+subject of transitive verbobject of transitive verb
+beneficiary4ativeHigh tone (' )
+Low tone (unmarked)
+Falling tone (^)
+Mid tone C )
+Consonant
+Vowel
+morpheme boundary
+word boundary
+pauseAPPENDIX 2. A LIST OF SPANISH LOANWORDS IN JEMEZJernezSpanishEnplish gloss'alag6qnqlagunalagoon?alaw&taa la huertagarden?av&-nt.avenaoats?ar6arrozrice?as$. t6aceiteoil (for machine, car)?awaskalguacilsheriff, someone with authority with
+the law?i-v$uvagrapeb;t=l+nemel6n(es)muskmelonbktomateflatbelega~nt.arnericanowhite man, English, loan word(s)
+from English""bi-liburroburro, donkeyEivG-tichivatoBilly goatEi-nichinoChinese (person); curlydgsedulcecandyW-JuanJohn**v6juevesThursdayfi-faalfalfaalfalfaga*caf6coffeegiwkyicabal10horsegirk-yicorreomailmangisenqcocinakitchenhapanijaponesJapanese (person)havbjab6nsoapkhamQ-ta=camabedkh6-lecol(es)cabbagekhy&tYilaCastillaMexican, Spanish-speaking person,
+Spanish languagekwitzcuentabead, necklacelQparaIhparalamp1%-voleva 'frock coat' (Am. Sp.)coat, jacketIeEii-khalechugalettuceli-nilunesMondayrnqtek""iyamantequillabuttermqtslabastilla 'hem'?skirtmQ*khinqmiiquinamachinem&tkmartesTuesdaym@-sa:(m$-sa)mesa tablem&-tomaestroteacher, schoolme16rneladosyrupme-sizmisamassmtgilemikrcolesWednesdaymil& t imulatoblack (person)mgs6moza 'girl'?catn ~ & anaranjaorange (fruit)nqv&anavajapocket knifepiishap 4astrawpi3-kwapascuafeastpaiioclothperaPearpizote 'red coati'pig(C. Arner., Mex. Sp.)
+polipolicia (from Eng. police?)policeman (in uniform)pot6portalporchsalawClaciruelacherry (tree), plum (tree)s6.voIasiibadoSaturdaysk-lksedasilks&pasopabread puddingsrqpiitrarnpatrapt&sa (t&sa)tazacup, disht%*te(wild) teatenf tetenientelieutenantt6-hedetejidoshirtautom6vil (Sp)?cartits-setotache (Mex. Sp.)priest, ministertom@tetomatetomatotomrg idoming0Sunday, weekt6-16torobullty&.datiendaStoretyi.Eilecuchara (?)(tab1e)spoonvakh$-kheAlbuquerqueAlbuquerquevatiiqyebotellabottle, jarv&sivasodrinking glassv%gavegameadow, pasturetimqvi.","[280, 281, 282, 283, 284, 285]"
+"3.4.2.1. Intransitive agreement
+The intransitive third person subject prefixes are shown in Table 6.44The intransitive prefix encodes S (the sole argument of an intransitive clause), so only
+the third person S prefixes are given in the table. See Section 4.6.3 for the complete
+intransitive prefix paradigm.",[116]
+"(227) Detr stem toneRootDetr Perfective35/FF//t7qd/tPQ*
+t?k'beat'fib/?fp%'tell'/mjw/mf3w&'see'lpa*ylpL3yk'make'P;e.tYl?&et%'bathe, wash'/g yil/gym'close'/ma;s/m$sk'give'/gyid/gYid$'bury'&.b/Sfb$'stop'/ta-l/t6-l$'chop'
+'show up'/@b/
+/woleblw6leb;e'pass by'Me-Sol/kw&Sola='pay'TWO phonological rules are involved in the derivation of some of the detransitive
+perfective forms. /ae/ changes to [e] after /W/,/y/ and /ty/through the a:Raising rule.
+(This rule also applies to the derivation of the detransitive potential form, discussed in
+the next section.) The root-final /b/and Id/, when occurring before [g], change to [p?]
+and [P], respectively, by the application of the Glottalization rule, which requires the
+presence of a F tone in the following syllable. (The gIottalization is also found in the
+active perfective form.) Note that a nasalized vowel does not cause these consonants to
+change to [m] and [n], respectively, when they are followed by the vowel /ad of the
+perfective suffix. (See Sections 2.5.12 ( E Raising), 2.5.3 (Glottalization) and 2.5.2.2
+(Nasalization) for the details of the phonological rules.)4.8.3.2. Potential
+The detransitve potential form takes the suffix l-a-1.36
+(228) RootDetr Potential37/gyil/gyaae.(/gYil$*/)'close'/t'~*d/t3@d'ae.(/t?ij-d%*/)'beat'fib/'gbae- (f @$./)'tell'/m€w/mfwk (/rniw$*/)'see'/PE-y/pikyk*(/p%y$*/)'make'Pz*tY/?2.t*. (p'&-tY*./)'bathe, wash'/gyid/gYida.(/gyidc/)'bury'/woleblw6lebae- (/w6lebz-/) 'pass by'Just as with non-derived intransitive verbs with potential inflection, /dae~'~lus
+the detransitive potential form is a more common way of expressing a command. (See
+Section 4.8.2.4.)(229) dae p7i.ye?e
+d z p?i*y%*
+(230) die khyfw~tye3e
+d z khyh~ty%*'Get wet.'
+(opt get.wet/detr.potn)
+'Have a dream.'
+(opt dream/detr.potn)The detransitive potential forms of two transitive verbs, i.e. [h&sk-]'bite' and[h&pk] 'bake', are also used in giving a command. In this case, the A is second
+person (i.e. the person ordered to perform an action), and the P is third person (i.e. the36The vowel /%-1is realized as [g?=]or [i&e] in pre-pause position.
+3'Note that neither the sonorants nor the voiced stops /bl and Id/ at the end of the root
+are glottalized before the long /=-l.","[232, 233]"
+"....................................................................
+3.10.2. Inte~~ogative
+words ...............................................................
+3.10.1. Indefinite wordsCHAPTER 4. VERB MORPHOLOGY4.0. Introduction ............................................................................................ 1464.l. Stems ................................................................................................... 147.......................................................... 147
+4.1.2. Verbroots ................................................................................1474.1.1. Constituents of the verb4.1.3. Number-differentiated stems ...................................................
+4.2. Derivation ...............................................................................................","[12, 13]"
+".....................................
+1.3. Previous research on the language and people of Jernez .......................
+1.3.l . Linguistic studies ....................................................................
+1.3.2. Linguistic data in ethnographic and other studies ...................
+1.4. Fieldwork ................................................................................................
+1.5. Scope of the dissertation ........................................................................
+1.2. Jemez and the Kiowa-Tanoan language familyCHAPTElR 2. PHONOLOGY
+2.0. Introduction ............................................................................................",[9]
+"4.3.1. Causative verbsJemez has a small number of lexicalized causative verbs. The language has no
+productive syntactic process of causativization. The causative verbs end in [p=] and
+were historically derived by compounding [pk*]'make' to other morphemes, such as
+active verb roots (21), descriptive nouns (22), and nouns (23). (All the examplesbelow are perfective forms.)'fill' (gY<'be full')
+'sharpen' (kai 'be sharp')
+'make someone cry' ($11- 'cry')
+'make someone laugh' (hf-l- 'laugh')
+'anger someone' (khyQ--'angry')
+'dry something' (t7kle 'dry one')
+'make something wet' (p7Fyk. 'wet one')
+'gather, rake' (bi 'whole thing')
+'melt' (p3$ 'water')
+'write' (tiY 'mark')
+The causative verbs are all transitive. Contrast the transitive verbs (24a) - (27a)
+with the non-causative (i.e. intransitive) counterparts in (24b)- (27b). The causative
+verbs are simple transitives with two arguments, which are encoded as A and P in the
+transitive prefixes. The patient (P) in the transitive sentences corresponds to the S of
+the intransitive verbs.
+(24)a.b.","[171, 172]"
+"(33)c. Plants:
+weha; 'pumpkin' sqd6ya 'watermelon'
+d. Heavenly bodies:p?&* 'moon'wQh~'star'The following nouns are found with non-inverse plural prefixes.
+(34)p?$- 'moon'w$hq- 'pumpkin'w Q h ~'star'3.4.4.2. Class I1 nounsClass I1 nouns have plural as the basic number, and singular and dual as the
+inverse. All the nouns are inanimate objects. Terms for tools, plants and body parts
+are distributed between Classes 11 and m.","[124, 125]"
+"UMI300 North Zeeb Road
+Ann Arbor, M1 48103ABSTRACTThis is a descriptive study of Jemez (or Towat-aNative American language ofthe Kiowa-Tanoan family, spoken at the Pueblo of Jemez in New Mexico. It providesa detailed account of the phonology, noun morphology, and verb morphology.
+Although the phonological analysis in this work is essentially generative, a
+phenomenon-oriented approach is used rather than a model-oriented approach. Data
+contained in this dissertation should be readily accessible and comprehensible to other
+linguists.
+Jemez has a large vowel and consonant inventory. There are 22 vowels,
+distinguished by vowel length and nasality as well as tongue height and lip rounding.
+Some of the surface consonants have a limited distribution and are derived from
+underlying segments. The alternation of various consonants is the most prominent
+feature of Jemez phonology, and is useful for understanding the morphology,
+particularly the verbal morphology. The language has four surface tones, derived from
+three underlying tones.
+Just as in other Kiowa-Tanoan languages, Jemez nouns are grouped into four
+classes on the basis of what is called 'basic number'. The noun classification is
+reflected in the distribution of the nominal 'inverse-number' suffix and coreferential
+demonstratives and in the pronominal verbal prefixes which encode grammatical
+relations.
+There are two ways of grouping Jemez verbs: one is according to the criteria of
+transitivity and stativity, which results in four verb types: transitive active, transitive
+stative, intransitive active, and intransitive stative. The other is a grouping into
+morphological classes of verbs, based on the shared inflectional properties. Thisclassification takes into account the alternations of root-final consonants and tonal
+patterns in inflected stems, among others.
+The dissertation includes a short narrative. It illustrates, in natural discourse,
+some of the phonological and morphological points, and also gives a glimpse into
+aspects of Jemez life, both past and present. The appendices include a list of Spanish
+loanwords and Jemez numerals.","[4, 5, 6]"
+"Furthermore, these prefixes occur when the P of a transitive verb is
+unspecified. In the (a) examples below, a basic-number P corresponds to the patient in
+(123a), to the source of a transferred object in (124a), and to the recipient in (125a). In
+the (b) examples, on the other hand, P is unspecified in (123b)-(125b)' so the
+'Reflexive, Plural P, Indefinite P' prefix /til-l occurs.
+(123) a.nf t6-hetetap&@€
+t6-heteta-p$mn*b.(124) a.b.(125) a.b.","[196, 197]"
+"4.5.3. Transitive active verbs
+Transitive verbs are characterized by having active and passive forms. They are
+two-place predicates and CO-occurin active sentences with transitive prefixes, which
+index A and P. (See Section 4.6 for the discussion of syntactic roles.)
+(77)a.b.d6- S6- tat&&'I punched that man.'d6- Sb* ta-t6se(that man tr[ l sg:3bas]-punchlpf)d6- S6-tq its-s'ae'I was punched by that man.
+(= That man punched me.)'dB $6--tq i-t6-sb(that man-agt intr[lsg]-punch/psv.pf)While most transitive verbs can take any transitive prefix, there is a subclass of
+transitive verbs which occur only with a subset of transitive prefixes which I tentatively
+call 'reflexive/indefinite object' prefixes. (See Section 4.6.1 for the details.) These'reflexive' verbs are structurally intransitive, i.e., there is only one argument, and many
+of them refer to actions performed with the body, particularly the mouth or the legs.
+They are listed in (78) below.13 They are still considered a subtype of transitive verbs'3[hp7~*]
+'laugh, smile' is not inherently a reflexive verb because it can occur with any
+transitive prefix-not just the reflexive prefixes. [tahfrg*]'I laughed at him'; [titfilh*]'I
+laughed, smiled'. Many of the verbs listed in (78) contain the verb root P&/ 'do,
+make', but this is not a defining characteristic of 'reflexive' verbs, as the above
+example shows. [m@Sap*]'borrow' can also take a non-reflexive transitive prefix.",[185]
+"3.7.1. Possessive marking by benefactive prefixesThe most common way of asserting possession is by means of intransitive
+benefactive preilxes.18 The intransitive benefactive prefixes are typically attached to the
+copula re/ 'be' or the stative verbs of position to indicate a possessor. The possessed
+objects occurring in such constructions can be animate or inanimate. The examplesentences (75) through (77) literally mean 'X (possessed object) is (lying down) for
+me'. Note that / k W has a different plural form /g%*/.l9
+(75)ni.t7a ti-he(g) ni. 4%'That house is mine.'ni.-t'a: ti.ha-(-S) I$(that-inv house/II(-inv) me iben[ l sg]-invbe/stat)(76)a. n$* d6'1i. nf &?hng*del$ nf #-0-ka6'That chicken is mine.'
+(that chicken/I me iben[lsg]-basbe.1ying.down (sg/du)/stat)b. nft3a de311(S) nf g?&nt-t'a: dCE(-S) nf hl-kaii'Those chickens (du) are mine.'
+(that-inv chicken(-inv) me iben[l sg]-inv-l8The benefactive prefixes are used primarily to indicate the possessor or the
+beneficiary of an action. (See Sections 4.6.2 and 4.6.4 for the details.)
+l q h e verb-stem-initial velar stops W /and /g*/, combined with a benefactive prefix, are
+usually realized as depalatalized velar-B?] and [g], respectively. For the details of the
+alternation between palatalized and depalatalized velar stops, see Chapter 2, Section
+2.5.8.",[142]
+"1.2. Jemez and the Kiowa-Tanoan language family
+Jernez belongs to the Kiowa-Tanoan language family. It is the only member of
+the Towa branch of the family. The other branches are Tewa, Tiwa, and Kiowa.
+Tewa, Tiwa, and Towa are generally grouped as ""Tanoan"" languages. It was John
+Powell(189 1) who first used the name ""Taiioan"" to group them. He treated Kiowa as
+constituting a different family ""Kiowan"" at the time. J. P. Harrington (1910a) was the
+first to propose the classification of the Tanoan languages into three branches-Tewa,
+Tiwa, and Towa. He also noted similarities in vocabulary and sounds between Kiowa
+and Tanoan languages (Harrington 191Ob). The genetic relationship between these
+groups of languages is well established through the comparative works of Wick Miller
+(19591, George and Edith Trager (Trager and Trager 1959), Kenneth Hale (1962,1967), and Laurel Watkins (1 977, 1978).",[18]
+"Similarly, (107a) contains a kinship verb with an intransitive prefix and an intransitive
+benefactive prefix on the main verb. In (l07b), the main verb is marked by an
+intransitive prefix, not an intransitive benefactive prefix.
+(106) a. nl.#'&?aPe ba=mfw$'Look at my child.'nf b8-khy6k3y6-3e
+bae-0-mfwT(meiben[lsgj-bas-child-be.lyi.ng.down(sg/du)/stat-nom
+tben [2: l]-bas-seelimp)
+b. nf ;k""&?a3e qm&vjnf i_0-khygka6-?6qmfwi'Look at my child.'
+(me iben[lsg]-bas-child-be. lying.down(sg/du)/stat-nom tr [2sg:3bas]-seelimp)(107) a. nf- it^-% fib-mi
+nf i-t@-?6 g@-fi6*mj'My father is ill.'(meintr[l sg]-be.someone's.father-nom
+iben[ l sgJ-bas-ilystat)b. nf itVC fi6-mi
+ni. i-t4--?6 0-fi6.rnj'My father is ill.'
+(me in&[l sgl-be.someone's.father/stat-nom
+intr[3bas]-ilystat)3.8. Noun qualifiersJemez does not have a separate class of adjectives that is structurally distinct
+from other word classes. The Jemez equivalents of adjectives found in other languagesare mostly stative verbs. In addition, there are descriptive words which cooccur with
+the copula and behave like nouns. The qualification of nouns is usually done by
+relativized verbs, including the copula, or by compounded noun modifiers, as we saw
+in Section 3.3.
+First, let us look at the structural characteristics of stative verbs modifying
+nouns. In (108a) and (109a)' the verb /N'bright' occurs as the predicate of the
+sentence. In ( l OBb), (109b), and ( 109~)'it qualifies the noun /wQh~/'star', formingan NP with the nominalizer /-?6/ which functions as the P of 'see'. The norninalized
+clause shows the expected agreement with a Class I noun.""
+(108) ab.w Q h ~pf'The star is bright. 'W Q ~ Q0-pj(star intr[3bas]-brighdstat)wQh~H3e tarn$'I saw a bright star.' (lit. 'I saw a star that
+is bright.')wQhq 0-pj5'6 ta-mi(star intr[3bas]-brighthtat-nom
+tr[ l sg:3bas]-see/pf)(109) a.b.wi w Q ~ Q S ipf'The two stars are bright.'wi wQhq-S i-H(two star-inv intr[3du]-brightktat)wf wijh~9ipf3e t b f'I saw two bright stars.'wi wQh~-Si-N3i5 tj-m$(two star-inv intr[3du]-brightktat-nom
+tr[1sg:3dul-see/pf)c.wi w Q h ~M3eS tjmf'I saw two bright stars.'wf wQhq i-p&%-Stj-m$(two star intr[3du]-brightistat-nom-inv24Notethat the inverse suffix /-S/ can follow the modified noun, as in (109b), or the
+nominalizer, as in (109c).","[149, 150]"
+"(1 12) ? k b e 'big oneTuykbe 'big one'kh61e 'small one'@tYi 'loose one (as of nails)' t?$wi 'tight one (as of trousers)'
+v&la 'old (male)'?6-w6'old (female)'khyi 'young one't3fpi. 'wet one't%le 'dry one'p% 'ripe one'p?%se 'unripe one'di*y6 'quiet one'w&t7e 'quiet one'tYi- 'old one''new one, fresh 0ne'~6ykbbkwa 'high one (as of mountains)'
+kh6b&kWa'low one (as of mountains)'
+s$*y6mq 'well (good health)'
+Note that some of the words can form compound verbs.
+(1 13) t7&lepae'dry (tr)'(ct3kle 'dry' + p$- 'make')t7&lem#'be dry'(ct3kle 'dry' + m6 'be')4ity~'be weak'(c@ltYi'loose' + mi 'be')(114) a.nf tet7&lepa:'I dried it (e.g. the bark of a tree) out.'
+'I emptied it (e.g. a bottle).'b.ni. te-t?%lepa:(I tr[lsg:3inv]-dry/pQdi3.@itYim#'He is weak (due to old age, illness).'dti* Q)-4ftyh$(thathe intr[3bas]-weaklstat)25rII~be],[ykbe], and [kh61e],compounds containing the roots P i l d , /yk%WY6*/,
+respectively, are only used when the nouns with which they CO-occurare singular or
+dual. When the nouns are plural or dual, especially plural, the alternative forms of
+K-],[y$ &*l,and Rh&M]occur. /H-/
+is a stative verb, and these alternative forms
+appear regardless of the class membership of the nouns: e.g. [p&--S?fla:i-bin] 'The
+deer (du) are big'. Pike1 and l y k l mean 'large amount, degree', while /khy6*/
+mean
+'small amount, degree'. They can occur independently to modify nouns or verbs. (See
+more in Section 3.9.)
+26Its inverse form is [tpfmiS]: e.g. [m$*sie t?CrniS e%?e] 'a new table'.rnieFurthermore, some words can be compounded to nouns.
+'male cat'(-c mgsh 'cat' + v&la 'male')rni*salo-wa'female cat'(c mesh 'cat' + %*wb'female')p$*khyi'young deer' (c p$- 'deer' + kbi 'young one')ty&t3ale'constipation' (< tY%'excrement' + tl%le 'dry one')(1 15) m+save*laIn compounds, it is the right-most constituent that is inflected for number. Thus the
+inverse form for 'male cat' is [mf-save.lae(S)],not [mi.sz(S)ve*la]. Compare this with
+the example in (1 16).
+( 1 16) tihx.3 tYi*Se3?e'an old house'timhdw-S tYf*-S e-?e-?6 (house-inv old-inv intr[3inv]-belstat-nom)
+As shown in (1 12)' there are three words for 'old': [tyi-1,[vE-la],and rb-wh].
+As [vSla] and [36*w&]
+also mean 'man,old man' and 'woman, old woman',
+respectively, the sense 'old man/woman' is conveyed by a nominalized clause, as in
+(1 17b) and (1 18b).27(117) ab.vSla tarrq''I saw a man.'v&la ta-m$(man tr[ l sg:3bas]-seelpf)v&la ?F'e tan$'I saw an old man.'v&la 0-?i5-?6 ta-rni(oldjmale intr[3bas]-be/stat-mm tr[lsg:3bas]seelpf)(118) a.' 6 . ~ 5tcimf''I saw a woman.'?6-w6ta-mi(woman tr[ l sg:3bas]-see/pf)""The word [khYfJ(lkhyf/), too, has such a double meaning, i.e. 'child' and 'young one'.","[151, 152, 153]"
+"'I saw several (different) things.'
+(something-p1 tr[ l sg:3bas]-see/pf)
+'I went to some (different) places.'
+(somewhere-p1 intr[ l sg]-go/pO
+'Didn't you see anybody?' (Lit. 'Did you see nobody?')
+(anyone-neg Q tr[2sg:3bas]-seelpf)
+'Didn't you go anywhere?' (Lit. 'Did you go nowhere?')
+(anywhere-neg Q intr[2sg]-go/pf)
+'I was attacked by someone.'
+(someone-agt intr[ l sg]-attack/psv.pf)3.10.2. Interrogative wordsThe interrogative words include lfijhg 'something'; /sty 'someone', /&l
+'somewhere', lkhy61U'when', and /fie/ 'how'. They typically occur at the beginning of
+a sentence if they are immediate constituents of the matrix clause.(137) fifni h& qkhyimi)t%fiini h$ q-khy@Qtye
+(138) SCE$ dPE khYfmQt%
+sB1 h$ dCIS. 0-khy&$tye'What did you buy?'
+(What/something Q intr[2sg]-buy/pf)'Who bought the chicken?'30
+(who/someone Q chicken intr[3sg]-buy/pf)29/s6l/ can take /-ell, but not /-to]/. (See example (149).)30/khy/changes to /E/ after an /V. See Section 2.5.1 on 'L-effect '.",[159]
+"(35)a. Man-made objects:
+gYCba='water jar't&sa 'cup'v&si 'drinking glass'bityf 'fork'Pc 'dipper, spoon'tyfEhiie'spoon'?61eh 'chair'm&*sae'table'kham8*tae'bed's6?13e 'broom'khY6i-tyise'scissors'p&yi 'cloth'pp 'thread'd6.bii 'board'khyfda.
+ba 'cradle'tY&tiba'box'b6itapQ 'rug'ty6*khyi-'ladder'ty6- 'arrow'telet'ae 'gun'tY6 'stick3hij-mitk 'shovel'h6-Col% 'wheel'+?thb 'smoking pipe, cigarette'p@ 'drum'nQto 'book'fi6Ie 'hat'w&kWq 'bridge'ti.ha. 'house'(35)b. Plants:
+pPli 'apple'tY&- 'cactus't?6* 'piiion tree'@6'leaf'kW&*'ponderosa pine''root'pB 'flower'c. Body parts:
+w&t% 'ear'Wse 'nose'hij*Wyk 'knee't3+"" 'head'w.16 'head-hair'?ij*'n?4'foot'tY8'animal horn'Those Class II nouns which are indexed with non-inverse plural prefixes are as
+follows:
+@?l%'apple'tY&'mow'd&bh 'board, door'nQto 'book, paper'tY&tiba'box'ty$- 'cactus'% l e e 'chair'bityl' 'fork'fi6Ie 'hat'tieha- 'house''leaf'kW$- 'ponderosa pine'@f 'root'hQ-rnitk 'shovel'kaf 'feather'p6 'flower'tYiw6 'onion'nqr*akh&tyise'scissors'@?thb'smoking pipe' tyfEile 'spoon'tYe'stick'pf(n0 'thread''orange'There are a few other plant terms which appear to belong to this class,
+according to some speakers, but at least one speaker uses the inverse intransitive prefix
+le-l for both singular and plural objects, presenting a new paradigm. (Compare thiswith the prefixes in Table 6.)(37)a.p%-lae(S)eSi'A pear (inv-sg) fell off.'b.p%*lae(S)jji'Pears (inv-du) fell off.'","[125, 126, 127]"
+"A set of tone and other phonological rules in (1 13) applies to compounds,including verb stems which incorporate a noun or a verb.
+(1 13) Compounding and incorporation (nouns, verbs)Non-initial Root H LoweringL Spread
+Long Vowel Shortening
+y InsertionA couple of phonological rules are subject to specific types of prefix or suffix.
+Velar Stop Depalatalization applies to the stem-initial velar stop when it is preceded by abenefactive prefix. The Low Vowel Fronting rule changes the root-final vowel /a/ to[se], when it is followed by the inverse-number suffix /-S/.",[103]
+"Even when a syllable-final consonant occurs on the surface, there is a tendency
+toward a CV template in the language, i.e. a tendency toward eliminating a closed
+syllable in favor of an open syllable. For instance, the 'inverse' suffix /-Uis often
+omitted from the noun stem, and when it does occur before a verb stem with a
+pronominal prefix, speakers usually pause slightly between the noun stem and the
+suffix, and pronounce [S] and the following vowel (i.e. the initial vowel of the
+pronominal prefix on the verb) as one syllable: e.g. [v8*la:Sijq 'Men (du) fell off' <
+/v&la-S P-Si/ (man-inv intr[3du]-fall.sg/pf). In the early 1920's Elsie Clews Parsons'
+(Parsons 192570) transcription [ywa' kishi sernihy] 'your children send' suggests
+that the pronominal verbal prefix [i] was already phonetically bound to the inverse
+number suffix [-sh] in [kjshi].)
+Word-internally, closed syllables are not possible in present-day Jemez, but it
+appears that there used to be a consonant cluster of word-medial [t] plus a stop
+consonant in the language: [pdpa'] '(term for) September-October' (Parsons 1925:75).
+Although long consonants also occur, they are not contrastive. Voiceless stops,
+particularly lpl, N and Ity/,are lengthened if the preceding vowel is short and stressed:
+e.g. 14itYimv[@itYtYirnd
+'weak';lsipaeyd [sippaeya] 'marry'. l l
+There is a remaining question of whether Jemez has true vowel-initial syllables.
+What appear to be syllable-initial vowels in some roots start at a low pitch level, the
+pitch quickly rising as the vowel is pronounced. Often a voiced glottal fricative [fi] is
+heard before the vowel: e.g. [fii.p7ae] 'yesterday'. l2 ' [fi] is present at least in rootinitial syllables. Hale (1967) points out that in all the Kiowa-Tanoa languages except
+1lThe double consonant symbols here indicate long consonants; they do not mean
+rearticulated geminate consonants.
+l2Laurel Watkins (personal communication) observes a similar low-high tonal pattern
+on syllable-initial vowels and on vowels which follow an initial voiced consonant, and
+argues that there is a voiced laryngeal /W at the beginning of what appear to be vowelinitial syllables.","[38, 39]"
+"Henderson, and ShengLi Feng.
+I would like to thank my teachers in the Linguistics Department of theUniversity of Kansas. In addition to Professors Yamamoto, Henderson, and Pye,
+Professors Frances Ingemann, Kenneth Miner, Keith Percival, and Robert Rankin havetaught me a great deal about linguistics. Mary Haas deserves special recognition: she
+introduced me to Native American languages when she came to teach at the University
+of Kansas as a visiting professor.
+Kenneth Hale did a pioneering work on the Jemez (Towa) language and has
+generously made copies of his Jemez grammar notes available to me and other
+researchers. I find his insight into Jemez even more impressive now than before since I
+know the language better.","[7, 8]"
+"2.4. Suprasegmentals
+2.4.1. Surface tones and their distributionJemez uses pitch differences for lexical and grammatical contrast. At the
+surface level, there are four tones: High (H), Low (L), Falling (F), and Mid (M). H is
+represented by [' ] above a vowel, F by [""I, M by I'1, and L is unmarked.
+Phonetically, H and L are level. F has an onset lower in pitch than that for H, and it is
+followed by a quick drop in pitch. F on a short vowel starts at an even lower pitch thanF on a long vowel. M is generally level, but sometimes it has a short downglide. Its
+onset is perceptually close to that of F.
+The distribution of tones relative to positions within words differs between
+native Jemez words and Spanish loanwords. To summarize the differences: in
+Spanish loanwords, (a) L tone can occur in an initial syllable in polysyllabic stems; (b)F tone is found in non-initial syllables; (c) a L-tone syllable may be followed by a H-18The word is sometimes pronounced [veymiJ.
+19In a small set of verbs, [v] systematically alternates with [p] in inflection: e.g. [gyipe]
+'bend/pf, potn, inc', [gyfve]'bendimpf"". In the verb for 'enter', [z] occurs steminitially in some inflectional forms (e.g. potential and imperfective), while [P] is found
+in perfective and imperative stems.",[45]
+"Although surface F and L must logically be treated as underlyingly different
+since M and L contrast, and F and M belong to the same underlying tone, the
+relationship between these surface tones is not straightforward. They are never found261n the analysis, only native Jemez words were used, since many Spanish loanwords
+exhibit different tonal patterns.
+27See Section 2.5.3 for the relation between tone and glottalization.",[51]
+"(8)khyfmij'vendor, trader'(cf. khyimotY'e'buy', khyirnqrn&'sell')3.2.2. Nominalizing suffixThere are nouns which are derived by suffixing the nominalizer /-W to verbs.
+The verbs are mostly stative verbs, but in the case of non-stative verbs, the imperfective
+form takes the nominalizer .
+(9)?@?e'sugar' < ?Q- 'be sweet'bktasa3e'glue'bktasa 'stick-impf3.3. CompoundsCompounding is the most common method of noun formation in Jemez. The
+constituents are mostly nouns and verbs, and the combinations include noun + noun
+and noun + verb. The noun class membership of compounds, which will be described.",[110]
+"(17)?@p722'honey' c ?Q* 'be sweet' +p?% 'water'wQ-haeya'rattlesnake' < W@ 'be real' + h$y6 'snake'w@piJO(28) h8*pqPyi.
+p?%-@~**'apricot' < W@ 'be real' + pi.%'apple''caterpillar' c h 6 'vomit' + p$?y$ 'worm'
+'popcorn' c p?&- 'pop, explode' +'cooked corn'( 19)tYtn jth'plow' < tYi.ni 'plow' + tB 'hoe'p$ni?~*E?'sewing needle'hfph'mattress'p&n# 'sew' +?QET1 'needle'hi. 'sleep' + p6 'mat'3.4. Number and noun classes
+3.4.1. Basic and inverse numberOne of the important features shared by Kiowa-Tanoan languages is that nouns
+are grouped into four classes on the basis of what is called 'basic number'. In Jemez,
+the basic number for Class I nouns is singular; that is, when a Class I noun occurs
+without the suffix /-S/, it indicates singularity. When the suffix is added to the stem,
+the noun is considered to be dual or plural. Generally speaking, this suffix changes the
+number of the noun from its basic number to its 'inverse', that is, its complementary
+number. Thus the inverse of singular in Class I nouns is dual and plural.
+For Class II nouns, the basic number is plural, so its inverse number is singular
+and dual. The basic number of Class III nouns is singular and pkural, the inverse of
+which is dual. Class IV nouns are so grouped because they do not'occur with the
+suffix /-S/. This is the distribution of the basic number in Jemez, and interestingly the
+basic numkr has exactly the same distribution in Jemez and Rio Grande Tewa (R.
+Speirs 1986), although the class membership of individual nouns differs among these
+languages. Other Kiowa-Tanoan languages have different distributions. In Kiowa, the
+basic number is singularldual (Class I), duaVplura1 (Class II), dual (Class m),and no
+basic/inverse distinction in Class TV nouns (Watkins 1984:79).","[113, 114]"
+"(76)c. nft?a dk711(S) nf'Those chickens (pi) are mine.'ni.-t'ae dW(-S) nf- bl-gY6-(that-inv chicken(-inv) me iben[lsg]-inv
+be.lying.down (pl)/stat)(77)a. nft3a: tY&tibae(S)n t g?a'That box is mine.'
+'Those boxes (du) are mine.'nf-t?;e tY2-tibt(-S)nt bl-k'ti(that-inv born(-inv) me iben[lsg]-invbe.lying.down (sg/du)/stat)b. nf ty&tiba nt tg6-nf tY&tibanf #-@g%-'Those boxes (pl) are mine.'
+(that box/bas me iben[lsg]-basbe.ly ing.down (pl)/stat)When a possessive clause functions as an argument, the clause is norninalized
+with /-?U,as in (78) and (79). The possessed noun of the nominalized clause may bemoved out to the right of it, resulting in a construction with an external head: [l HEAD,as in (80). The noun or independent personal pronoun which indicates the possessor
+occurs at the beginning of the norninalized clause.
+(78)nf ?@?e@Ye tyf'My sugar fell off.'n t ?Q-?ei_@-g$-?6 a - t y j(me sugar/IV iben[ l sg]-bas-be.lying.down/statnom intr[3bas]-fall (pl)/pf)(79)John ~k~~&'r@k?a?e
+tan-$'I saw John's dog'John ~ - 0 - k ~ ~ & & k ~ hfa-rni
+-?k(John iben[3sg]-bas-dog-be.lying.down.
+(80)(sg/du)/stat-nom tr[ l sg: 3basI-seelpf)np &?ii36 M16 Si'My bread fell off.'np b0-khb-?6 b616 0-Si(me iben[l sg]-bas-be.ly ing.down(sg/du)/statnom breadm intr[fbas]-fall/pf)The possessed object, if it is mono- or disyllabic, is often incorporated in the verb.
+(81)a.","[142, 143, 144]"
+"4.6.1. Transitive prefixes
+The transitive prefixes, which encode A and P, occur with two-place transitiveverbs. (The entire transitive prefix paradigm appears in Table 15.16 )
+(105) v&la dPli f&
+v&la d6E (4-fi$(106) nf qmf'A man killed a chicken.'(man chicken tr[3sg:3has]-kilvpf)'I saw you (sg).'nf pm$(I a[l sg:2sg]-see/pf)(107) nt tafiity6pa:'I made him angry.'nf ta-fiitY6pae(I tr[ l sg:3basl-make.angry/pf)Sprott (1992:87) writes that the transitive prefixes register agreement with only
+the ""ergative"" and the ""absolutive"" (i.e. the A and P of transitive predicates). However,
+with a few ditransitive verbs, P indicates the recipient rather than the transferred object.",[192]
+"(38)b. Modem objects (English words):televisionrefrigerator?6 'bow'tYf-nith'plow'navlha 'pocket knife's@ni 'hammer'h 6 'ax'ty8@e- 'match'v60t'e 'bucket'grnq 'bag't6-pae 'pencil'b6lb 'bread't?Sp~'pillow'tY$-da 'store''song'fia-wa 'kiva'kn&paya 'adobe'gY@g'bell'gYid6'pot'radio
+tractor
+c. Other man-made objects:2%-p?@ 'road'
+d. Plants:khyi'bean, seed'n$*tYq 'potato''banana'dtkpe 'cave'wG-?wh 'arroyo'p$* 'heart'm3 'finger'pfbidae 'cotton ball'
+e. Nature:p6 'sun'
+f. Body parts:h$* 'arm'
+g. Others:
+@kWa'village'The Class III nouns which occur with non-inverse plural prefixes include:
+?6 '.bow'b6l6 'bread'1%-vo 'coat'#tYi 'pants'pkbide 'cottonball'gYidd 'pot'k W 'rock'tb-hete 'shirt'ka8-paeya 'adobe'w@te 'glove'khyi'seed''shoe'3.4.4.4, Class LV nounsAll the nouns in Class IV are mass nouns. They do not occur with the inverse
+suffix.?t)m3e 'sugar'hf 'flour'dkhaela 'mud'tY&haela'clay (for pottery)'kw6-p% 'milk'me16 'syrup'p'$'water'sf- 'lard'arb 'rice'
+All but one noun in this class, only some of which are listed here, are indexed
+only with the basic-number verbal prefixes, but [hi] 'flour' occurs with both the basicnumber and the non-inverse plural prefixes on verbs. Thus there are two subsets of
+nouns in the class.
+Sprott (1 992) recognizes mass nouns as Class N, but he favors ""redefining it
+on the basis of verbal morphology rather than nominal."" In other words, whether a
+noun takes the inverse suffix 1-51should not be the deciding factor (1992:96). His
+argument is summarized in (41).
+(41)a. Some of what he groups as Class IV nouns appear to show singularlplural
+distinction in the verbal prefixes-justlike nouns of other classes-butthe nouns themselves (i.e. no inverse suffix): [sfm]not in'sand', [w&*sa]'ice',[@6*lb] 'hair', [w6h071k] 'dough' (1992:93-94).10 They can take both the basicnumber and the non-inverse plural prefixes.
+b. Other nouns do not show such a number distinction in verbal agreement.","[127, 128, 129]"
+"S6na7e 0-khyYidttisa (always intr[3bas]-rolVimpt)
+c.h& da khyidit9?a:'Let it roll!'h& da 0-khyidit%* (Mod hor in tr[3bas]-rolYpotn)4.3. CompoundsCompound verbs may consist of more than one verb root or a noun plus a verb
+root. Many of the examples given in the following sections belong to the first type,
+which are some of the more common compound stems in the language.",[171]
+"4.1. Stems
+4. l. l . Constituents of the verbThe verb may consist of up to six parts: (a) pronominal prefix, (b) negative
+prefix /W&/, (c) incorporated element(s), adverb, noun or verb, (d) verb stem, (e)
+inflectional suffix(es), and (f) subordinating suffix.1 The constituents of verbs are
+schematically shown in (1).","[163, 164]"
+"(8)a.'fall, droplpf'4d6. ka6'He is lying down.'d8- 0-knh( t h a a e intr[3bas]-be.lying.down/stat)
+'They (du) are lying down.'
+(thathe-inv intr[3du]-be.lying.down/stat)
+'They (pl) are lying down.'
+(thathe-inv intr[3inv]-be.lying.down/stat)'He is sitting.'
+(thathe intr[3bas]-be.sitting/stat)
+'They (du) are sitting.'
+(thathe-inv intr[3du]-be.sitting/stat)
+'They (pl) are sitting.'
+(thathe-inv intrpinvl-be.sitting/stat)
+'An apple fell off.'pi.l&B e-Si(apple-inv intr[3inv]-falllpf)4The alternation between /S1 and /ty/in the verb stems may be a remnant of some
+phonological process which once existed in the language. Note that in some verb
+roots, the root-final h1 occurs -in the imperfective form, while Ity/appears in the
+perfective form. (See Sections 2.5.4 and 4.8.2.3.)(10)b.c.pi.?ESui'Apples (du) fell off.'pi.lGJ g-Si(apple-inv intr[3du]-falllpt)pi.3E tyC'Apples (pl) fell off.'pi-li 0-tYi(apple intr(3basl-falllpf)In the second type, there is one form for the singular, and another for the dual
+and plural. The only examples of this type in my data are stative verbs refening to theare verbs. rflzebe] and
+size of objects. In the forms shown in ( 1l), only PC] and [G*]
+[kh61e]are compound nouns, made up of the quantifiers r i l s ] and @ch6-1,
+respectively.
+Another quantifier which denotes a large size, [yk*],can be used instead of P a d , thus
+we have two more forms for 'being big': [ykbe] (sg), [yhM](du/pl). (See Section4.5.6 for a further discussion of intransitive stative verbs.)
+sg(/du)dub1a.?llzebe ?E?flze bi*'be big/stat9b.kh61e ?ekh6.'be smdl/stat'a.hf311;ebe%'The Jemez person is big.'hfm ?ilaebe 0-2(Jemez big intr[3bas]-coplstat)hfm% ?flae IM'The Jemez people (du) are big.'@m-& ?flae jl-W(Jemez-inv much intr[3du]-sizelstat)(1 1)(12)b.","[167, 168]"
+"Some descriptive words are structurally nouns (e.g. f flabe/ 'big one' rather
+than 'big'), and take the copula /-%l when they occur as the predicate of the sentence,as in ( l lOa), (1 lob), ( l l la), (l l lb). As noun modifiers, these words are foIlowed by
+the copula, and the resulting clause is norninalized, as in (1 1 0 ~ )(' l lOd), ( I l lc),
+( 1 l Id). These descriptive words can take the inverse suffix, just like nouns. In ( l lob)and (l lOd), the noun is inverse, so rilzbe] is followed by the inverse suffix 1-31. The
+same is true of [khyflin ( l l l b) and (l l Id).
+(110) a.b.","[150, 151]"
+"L tone in second or third syllable can follow a H or L syllable.
+(10)HHH ( ~ 9 ~ 9 ~ khWM
+9 ) 'knot' (kh6'small' + 4d6 'patch')
+HHM ( c ~ ( . ) c v c ~ )d6l& 'fall downlpfS6nlitk 'turn/pf'( c ~ ( * ) c ~ ( * ) c v *khyfwQt%.
+)
+'dream/potn9HHL (cv(*)c\~cv)w6-8l""si 'duck'HLM (CV(-)cv(*)c~) pdwavb 'faith'w6-gYiiSa COW'^^
+hQ-bi7y&'knee'23This Jemez word for 'cow' is likely an indirect loanword from Spanish vacas
+'cows'. It was probably borrowed from some neighboring Native American language
+such as Navajo (bekgashii) and Zuni (wa*kaSi). (Callaghan & Gamble 1996:111)( 10)HLL(cv(*)cv(*)cv)7jpekhYi'girl'(c~(*)cv(-)CV*) +Gap= 'pneumonia'
+Fh4L (CV(-)CV(-)CV) c@*trtta 'tadpole, wart'tY$*mbq 'centipede'
+wblebz* 'pass bylpotn'
+p&t%bi 'asparagus'FLM ( c ~ ( * ) c v c ~ ) tQ*daegYi'spring (season)' dd-kwqtra'step, stair'
+FLL(c~(*)cvcv)p?&kWele'Picuris'LHL(CVC~CV)gYiw$yi 'horse' (c Sp. caballo)p&tYabi'stone fetish'khor&yi 'mailman' (c Sp. correo)LFL(cvc~(*)cv)nqrQha 'orange' (< Sp. naranja)
+khamQ-tae 'bed' (cSp. cama?)LLH(CVCVCV)?awas6 'sheriff (< Sp. alguacil)
+timqvi 'automobile' (c Sp. autom6vil
+or < Eng. automobile)Long vowels in the final syllable carrying L tone alternate with a short vowel with L
+tone in some words (e.g. @Gap= 'pneumonia') and with [*V] in others (e.g.
+w61ebt7z 'pass by/potn' ).
+Of the words with four or more syllables, almost ail in my data are
+compounds.24 They exhibit the same surface tonal patterns found in words with one to
+three syllables. For example, the initial syllable can carry H or F in native words. H in
+non-initial syllable occurs only if the preceding syllable carries H tone, e.g. n@nise7yZ
+'oriole' (no-ni 'cottonwood'). M tone typically appears after a F syllable or wordfinally on a short vowel, e.g. p?6=lide?lg'turkey', w8-traSili 'blue' (w&t7b 'not ripe').","[48, 49]"
+"discusses 'Noun Phrase', 'Verb Phrase', 'Location Phrase', and 'Time Phrase', butshe tends to describe only the sequence of words in particular phrases without giving
+adequate morphological information. Like Martin (1964), her phoneme inventory is
+based on the classical phonemic approach. She does not indicate tones or stress in her
+phonetic transcription. In addition to the discussion of phrases, Myers provides a
+vocabulary list and the transcription of three informal talks.
+Laurel Watkins presented papers on aspects of Jemez phonology and verbal
+morphology at linguistic conferences (Watkins 1990a & 1990b).
+Robert Sprott's 1992 doctoral dissertation ""Jemez Syntax"" includesphonological and morphological analysis. Among the morpho-syntactic topics covered
+are the passive and incorporation. In addition, he provides a detailed analysis of Jemez
+pronominal prefixes in the framework of relational grammar. The most elaborated part
+of his work is the interlinear annotation of three biblical stories, as retold in Jemez by a
+Jemez man. Sprott's phoneme inventory is similar to mine, but there is a considerable'difference in our treatments of suprasegmentals. In fact, he did not undertake the
+analysis of tones.
+There are three instrumental studies of Jemez phonetics. Alan Bell (1992)
+discusses some issues related to Jemez prosody, including tones and stress. Rebecca
+Heins (1993) provides formant values for the Jemez vowel system. Heins (1994) is an
+MA thesis on the stop consonants in Jernez.","[20, 21]"
+"'(356) dae m@?$
+dae m$(357) die t&s6'Go.' (or 'You can go.')
+(opt golpotn)
+'Sit down.' (or 'You can sit down.')da= l-tYh-sC (opt refl-seatlpotn)
+Note that although the first part of the pronominal prefix does not appear after the
+particle / d d , the morpheme N is still present.(358) daethk*?o
+dre 1-sWo'Wakeup.'(orbYoucanwakeup.')
+(opt reWpl-wake.up/potn)/k'""il/ is most commonly used with the perfective, active or passive, but it is also
+found to occur when the verb is in the future plus/-?&g/,which expresses the speaker'swish that something had happened.
+'She made a basket for me.'(359) n&-tq kwi khY6*li%ipik7y&
+n@--tq kwil khYh-l&-S61-pbye(that/she-agt Mod basket-inv iben [lsg]-inv-make/psv.pf)(360) ha kwil l.m$*h~;rae3a 'I should have gone.'
+ha kwil km&*-hG3% (? Mod intr[l sgl-golpotn-fut-unf)
+/kwil/seems to convey inference, indeterminacy (of object, place, or time), or some
+distance in time.
+(361) a.n t kwi mnl. tami'I saw something.' (I do not know what it is.)nf kwil fihi ta-m#(I Mod something tr[l sg:3bas]-see/pf)(361) b.(362) a.nftI$fiini ta-nu''I saw something.' (I know what it is.)d(I something tr[ l sg:3bas]-see/pf)'He went somewhere.' (I infer because he is notda* kwi tk m&here. I do not know where it is.)b.66- kwil th @-m$(thathe Mod somewhere intr[3bas]-golpf)d6*t$rn$'He went somewhere.' (I know where it is.)d8. tik @-m&(thathe somewhere intr[3bas]-go/pf)(363) b6lh kwi Si'The bread fell off .'","[260, 261, 262]"
+"The terms 'inverse number' and 'basic number' were first used by Wonderly,
+Gibson, and Kirk (1954), in their paper on number in Kiowa:The suffix (9)
+is then described as marking the INVERSE (abbreviated inv.)
+number; i.e. it inverts the basic number to the categories not implicit in the stem.
+Thus it changes the duaVsingular of class I nouns to plural, and the duaVplura1
+basic number of class II to singular. (1954:3)
+Since then, the suffix /-g31 in Kiowa and its counterparts in other Kiowa-Tanoan
+languages have been referred to as the 'inverse suffix' or 'inverse-number suffix' by
+Kiowa-Tanoanists.","[114, 115]"
+"object acted upon). The verb takes an intransitive prefix which encodes the patient. As
+discussed in Section 4.7 'Passivization', passivization is normally not possible when
+the A is first or second person. The use of the detransitive potentiai form in an
+imperative construction is an apparent exception to this principle.(231) a.pG3B e h & s S a'Bite the apple (Class Q.'
+(lit. 'Let the apple be bitten.')b.pGIf e-h8-s$*(apple intr[3inv]-bite/psv.potn)b616 ha-s'ae3;e'Bite the bread (Class m).'
+(lit. 'Let the bread be bitten. ')bklb 0-hii.sik(232)be16 ha-pk7a(bread i n ~ [basl-bite/psv.potn)
+3
+'Bake bread (sg, Class m).'
+(lit. 'Let bread be baked.')be16 0-h69p$*(bread htr[3bas]-bake/psv.potn)4.8.3.3. Imperfective
+The detransitive imperfective form takes the suffix /-osa/.
+(233) RootDetr Immrfective/g yil/gYflasa(/gyflBsa/)'close'/t3~*d/tP@n?pa'beat'Pib/?frnbsa'tell'mfwhsa'see'/pae*y/p$yhsa'make'Pa.tY/?&*t%sa'bathe, wash'/gyid/gYidhsa'bury'/woleb/wblebasa'pass by'/r@w/.","[233, 234]"

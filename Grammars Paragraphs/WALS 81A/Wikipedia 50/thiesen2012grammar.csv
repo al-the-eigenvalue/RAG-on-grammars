@@ -1,0 +1,3712 @@
+Paragraph,Page number
+"Why is Bora so interesting?
+The Bora phonology is rich in nonsegmental phenomena. There is an elaborate tone system, intimately tied to both the lexicon and the grammar.
+(An entire chapter is dedicated to tone, and it is discussed in virtually
+every chapter.) Various phenomena are sensitive to syllable weight, and
+perhaps conditioned by foot structure.
+Morphologically, Bora is fairly agglutinative. There are many suffixes
+and few— if any— prefixes. Many apparent prefixes are proclitics.
+Typologically, Bora is an OV language. Evidence for this claim is as
+follows:
+1. Both Subject-Object-Verb and Object-Subject-Verb are common
+word orders. Predicate complement clauses generally have Complement-Subject-Verb order.
+2. There are postpositions, e.g., in the locative construction, but no prepositions.
+3. In the genitive construction the possessor precedes the possessed.
+4. Adjectives may precede the nouns they modify but it is more common
+for the modifier to follow the head in an appositive phrase. (This is a
+consequence o f the role played by the classifiers in forming referring
+expressions.)
+5. Auxiliary verbs follow the semantically main verb (which is structurally
+subordinate to the auxiliary verb); see, for example, section 4.3.6.
+Bora has a strong case system implemented by suffixes. There is an
+interesting animacy-controlled inversion o f the direct object and recipient
+(goal).
+Perhaps the most outstanding feature of Bora grammar is the presence
+o f a large number of classifiers and the various ways they are exploited in
+carrying out reference. Strikingly, apposition— not constituency— is the
+primary “ glue” for creating referring expressions.
+In forming discourses, Bora has a remarkable system o f sentential con­
+nectives, one that exploits the classifiers to provide great intersentential
+cohesion.
+©2012 SIL International ®©2012 SIL International ®Abbreviations and
+Conventions
+Abbreviations
+(} surrounds the gloss o f a
+classifier. In appendix G the
+symbols “ (” and “ } ” are also
+used to indicate the
+topicalized or thematic
+element fronted from within
+some other constituent.
++ in tone derivations: blocking
+(i.e., failure to doek a tone)
+* ungrammatical or unacceptable
+*LLX constraint against nonfinal
+low tone sequences
+= in tone derivations: delinking a
+tone
+.£? final high tone o f interrogative
+phrases
+• sentence boundary (in phonemic
+representations)
+. syllable boundary (in phonemic
+representations)
+: vocalic length
+m optional glottal stop (?) in the
+syllable coda
+(0} ‘thing’ or ‘event’ (two
+morphemes that differ onlyin tonal properties)
+(0 } ‘thing’ on marked sentences
+having -hmkho ‘focus’
+^ mora
+O a placeholder corresponding to
+a syllable; e.g., -(OOnG
+indicates that a low tone is
+imposed on the penultimate
+syllable o f the stem to which
+-ne is affixed
+0 null, empty category (gap,
+tracé,...) 0i} 0 j, 0k empty
+category co-indexed with
+some other element
+A , $... variables
+$ i ...
+the subscripts indicate
+that $ and ^ are
+coreferential
+o syllable
+acc accusative
+Adj adjective
+Adj/Adj a suffix that occurs
+on an adjective and results in
+an adjective
+Adv adverb (or adverbial phrase)©2012 SIL International ®AbbreviationsXXXAdvP adverbial phrase
+Adv/Adv a suffix that occurs
+on an adverb, resulting in an
+adverb
+AG agent
+anim animate
+AnPl animate plural
+aug augment
+C consonant
+(O the floating low tone at the
+juncture between a classifier
+and the preceding element
+■v low tone (on a vowel) due to a
+following classifier
+-caus causative
+CF contrary-to-fact
+DET determiner
+DHT Default High Tone
+dim diminutive
+DO direct object
+du dual
+DuF animate dual feminine
+duin dual for inanimates
+DuM animate dual masculine
+DVC deverbal classifier
+emph emphasis
+ex. exclusive (first person plural
+exclusive)
+EXPER experiencer
+FDLT Final Default Low Tone
+FLTS Final Low Tone Split
+frs frustrative, contraexpectation,counterfactual
+fut future
+(O the juncture between the
+modifier (possessor) and
+head (possessed) o f a
+genitive construction. In
+some contexts O ïs also used
+to indicate the floating low
+tone at this juncture.v low tone (on a vowel) due to the
+genitive construction
+Gv low tone (on a vowel) due to the
+genitive construction and
+also a lexically marked low
+tone
+G
+N
+v low tone (on a vowel) due to the
+genitive construction and
+nonfinite tone
+H high tone
+(O high tone imposed on a
+preceding syllable
+v lexically marked high tone (on a
+vowel)
+th) optional preaspiration (that
+occurs in the preceding
+syllable coda)
+hab habitual
+Imp imperative
+v low tone (on a vowel) due to the
+imperative
+in. inclusive (first person plural
+inclusive)
+inan inanimate
+InPl inanimate plural
+Inst instrument
+irr irrealis
+® optional palatalization
+-KI implicit -ki ‘purpose’
+L low tone
+(O low tone imposed on a
+preceding syllable
+v lexically marked low tone (on a
+vowel) or a low tone
+highlighted for the reader’s
+benefit
+L.H adjacent homorganic vowels
+with low and high tones
+respectively
+Link sentence-initial connective©2012 SIL International ®Abbreviationsxxxilit. literally
+*LLX constraint against nonfinal
+low tone sequences
+^ mora
+max maximum, finalized
+med medial
+mln multiple action, intransitive
+mSt multiple action, stative
+mTr multiple action, transitive
+v nonfinite low tone (over a
+vowel)
+(n} the negative verb-terminating
+classifier (used when there is
+a preverbal subject)
+N noun
+N/N suffix that occurs on a
+noun and results in a noun
+N/Ncase suffix that occurs on
+a noun and results in a
+“ cased” noun
+N/V suffix that occurs on a
+noun and results in a verb
+-NE implicit -ne (n}
+neg negative
+nwit nonwitnessed (evidential)
+NP noun phrase
+objAn animate object (the explicit
+accusative case marker)
+oblln oblique (case marker) for
+inanimate noun phrases
+P postposition
+palat palatalized
+PC predicate complement
+per pertain to
+pl plural
+plAn plural for animates
+plln plural for inanimates
+plQ plural for quantifiers
+PLTS penultimate low tone split
+PP postpositional phrase (or
+prepositional phrase)
+PPHE possessor’s penultimatehigh extension
+PredAdj predicate adjective
+prob probable
+prox proximate
+prtc participle
+PT projected time
+pur purpose
+ques question (root)
+ree recent past
+recip reciprocal
+rem remote past
+res.pos resulting position
+R/P reflexive or passive
+rpt reportative
+ResultS result clause with same
+subject
+S sentence or clause; subject
+v high tone on the first syllable of
+the verb o f a subordinate
+clause
+s-V verb with a proclitic subject
+SAP speech act participant, first
+person plural inclusive
+sg or Sg singular
+SgF animate singular
+feminine
+Sglmp singular imperative
+SgM animate singular
+masculine
+sib sibling
+sim similar
+sin single action, intransitive
+Site site of attachment
+sou source
+sSt single action, stative
+sTr single action, transitive
+STR structure (in figures)
+su subject
+sub subordinator (-h)
+T tone
+(t} the verb-terminating classifier
+(used when there is a©2012 SIL International ®Conventionsx x x iipreverbal subject)
+TD tone derivation (in figures)
+TBU tone bearing unit
+-thm theme (grammatical
+relation)
+thm- thematic connective
+UTAH the “ uniformity o f theta
+assignment hypothesis”
+V verb
+v vowel
+var variety, various
+voc vocative
+V/Adv suffix that occurs on a
+verb and results in an adverb
+V/V suffix that occurs on a verband results in a verb
+V / V su b o r d in a t eSuffix that OCCUrS Ona verb and results in a
+subordinate verbWH interrogative word
+tx) optional preaspiration (that
+occurs in the preceding
+syllable coda)
+-x or -h preaspiration from the
+following root (in genitive
+construction)
+- x in the glosses o f appendix G:
+preaspiration from the
+following root
+yes or noConventions
+THE INDEX:In the index, entries are ordered according to the English alphabet. Bora
+words are written according to the Bora writing system (the “ practical
+orthography”) to facilitate finding them in alphabetical order.
+EXAMPLES:Examples generally present four types of information. The position of
+these parts varies in the interest o f saving space. (1) The Bora example is
+written in a phonetic or phonemic form using the International Phonetic
+Alphabet (IPA). (2) The example is also written in the Bora writing
+system, with this sort o f font (sans serif). This is sometimes located
+above the phonetic / phonemic representation and sometimes following
+the phonetic / phonemic form (in parentheses). (3) A
+morpheme-by-morpheme gloss is given either below the Bora example or
+in parentheses following it. (4) A free translation follows, either on a line
+below the morpheme-by-morpheme text or following it at the end o f the
+line.
+BORA C ITATIO N FORMS:(a) Words given “ in isolation” (i.e., without any preceding or following
+text) may meet the conditions for the application of either PLTS or FLTS.
+If so, the isolation form will be the output o f the rule (which is how it
+would be pronounced in isolation). (b) Sometimes the phonetic /
+phonemic representation of words, roots, affixes,...make lexically
+©2012 SIL International ®Conventionsx x x iiimarked tones explicit, as discussed below, while omitting the tones of
+other syllables. (c) When verbs are cited, the phonetic / phonemic
+representation may make lexically marked tones explicit whereas the
+orthographic form gives the nonfinite form; see section 4.1, page 100,
+especially figure 4.1. For example, akpakhumrn (awacunu) ‘to yawn’.
+PHRASE MARKERS:Phrase markers ( “ trees”) with which structure is represented are
+intended as suggestive, neither definitive nor what would might be
+expected for any particular theoretic perspective. Some sentences are
+given with a rather flat structure. This makes it easier to deal with Bora’s
+relatively free word order, but at the cost o f sometimes obscuring
+subcategorization relationships. For example, see the tree given for
+example 662, page 277. Some affixes are treated as separate syntactic
+constituents; for example, case markers are treated as postpositions.
+TONE DERIVATIONS:The Bora forms in tone derivations are written as Bora people normally
+read and write their language. Tone derivations use the font with
+which this sentence is written.
+LETTERS REPRESENTING USES OF TONE:We sometimes use v to highlight a high tone and v to highlight a low
+tone. Further, to help the reader keep track of different uses o f tone, we
+sometimes indicate the use by writing a small letter over the vowel.
+These letters are as follows:
+LETTERTONEUSElo w to n ecla ssifierlo w to n eg e n itiv eh ig h to n ele x ic a lly m a rk ed h ig h to n ecV
+GV
+HV
+H Lvvh ig h -lo w ton es re m o te past tenseiVlo w to n eim p e r a tiv e 0 (v e r b )lo w to n ele x ic a lly m a rk ed lo w to n elo w to n en o n fin ite (v e r b )h ig h to n esu b ord in ate (v e r b )LV
+NV
+sV“ This lo w tone is the nonfinite tone; I is used to rem ind the
+reader that the nonfinite verb is used to form an imperative.","[27, 28, 29, 30, 31, 32, 33]"
+"©2012 SIL International ®5.8. VALENCE-CHANGING SUFFIXES145(255) Dnbyedfvu oke t+tetsoóbe.
+ti-:piè-ti-§m
+o-khè i':thè-tshó-:pè
+that-(SgM) -anim-goal I-objAn see-cause-(SgM)
+‘He showed me him (lit. He caused me to see him).’
+EXPER
+|
+[
+SU
+AG
+|I[ SUIDOITHEME
+|
+DO
+|
+GOALSEE
+UTAH
+SEE ]
+CAUSE/SEE-CAUS ]Figure 5.4 Grammatical relations: ‘cause to see’
+The grammatical relations o f causatives are further discussed in section
+10.3.3.
+Adding -mei ‘reflexive or passive’ after -teho ‘causative’ yields only the
+passive interpretation in which the subject (o f the whole) is the causative
+agent (the one who caused the action):
+(256) Indhbedfvu méénutsamenbye.
+i
+© pa?pè-ti-§m
+mé:nm-teha-mèi-:piè
+self
+brother-anim-goal hit-caus-tff)-(SgM)
+‘He* provoked his* brothers to beat him* up.’ (lit.
+himselfj to be beaten up by his* brothers.’)‘He* allowedIf we assume that (1) when a transitive verb is made causative, its direct
+object is marked with -§m ‘goal’ and the causee is marked as the direct
+object, and (2) reflexivization identifles the direct object with the subject,
+then example 256 is problematic. We assume that the agent of H IT is the
+subject and the patiënt is the direct object, as consistent with UTAH , the
+“ uniformity of theta assignment hypothesis” (Baker 1988:46f).
+• If, on the one hand, we flrst apply causativization and then reflexiviza­
+tion, as in the first diagram in figure 5.5, the order o f verbal suffixes is
+correct but the subject o f the whole is incorrectly identified as the agent
+of HIT.
+• If, on the other hand, we apply reflexivization before causativization, as
+in the second diagram in figure 5.5, the verbal suffixes are incorrectly
+ordered. Further, the patiënt of H IT ends up as the direct object rather
+than the goal, so would incorrectly bear -khe (-ke) rather than -§m (-vu)
+(as in 256).","[178, 179]"
+"©2012 SIL International ®CHAPTER 8. PRONOUNS238a. He got that in order to eat it.
+b. He* got that in order that he^ eat it.
+C O M P L E M E N T CLAUSES:In 538 i max$ho-nè (self eat-(n)) is the complement o f the ïmi^e- ‘to want’.
+In 538a the subject of the complement is i ‘self’, which is bound by the
+subject o f the higher verb. By contrast, the overt pronoun in 538b must
+not be bound by the subject o f the main clause, so necessarily refers to
+someone other than the subject o f the main clause:
+(538) a. Im fllém é im ajchone.
+b. Im fllém é dibye m ajchone.imi^é-mé
+want-(AnPl)
+a. They want to eat.
+b. They want him to eat.
+Likewise, in 851b, page 328, the anaphoric subject of the complement is
+bound by the subject of ‘to want’ (whether indicated by a classifier as in
+851a or by an overt personal pronoun as in 851b).
+R E L A T IV E C L A U S E S :In 1030, page 392, the subject of the relative clause, indicated by i ‘self’,
+is coreferential with the subject of the main clause.
+In 539, the three cases o f i ‘self’ refer to the subject o f the main clause.
+The two that are underlined indicate the subjects o f subordinate clauses;
+the other (in the first word) is part of a possessive pronoun:
+(539) Ih n e im u jtatsón e im flleebe dihne iujcune.
+[ i ?-pè
+i
+mrnxtha-tehó ]-nè
+imi$è-:pè
+self-(0) self lose-cause
+-(event) want-(SgM)
+[ti?-pè i mxkhm ]-nè your-(0) self obtain -(0)
+‘Having caused the loss of his own, he wants to get yours.’
+We now turn to cases in which the anaphor is the modifier (possessor)
+in a genitive construction. In 540a the anaphor i ‘self’ modifies (possesses)
+©2012 SIL International ®8.3. THE ANAPHOR I ‘SELF’239‘house’ and refers to the sentence’s subject (John). By contrast, in 540b
+the personal pronoun ti-:pie must refer to someone outside o f this domain,
+that is, someone other than John:
+(5 4 0 ) a. Jóaa p ee ihjyavu.
+b. Jóaa p éé dffbyé ja vu .hóaa phé:-?i
+John go-(t)a. i?
+selfhja-§m
+house-goalb. ti-ip’e
+ha-§m
+that-(SgM) house-goala. ‘John* went to his* house.’
+b. ‘Johnj went to hisj house, (i = j ) ’
+And i ‘self’ behaves as an anaphor when it is part of a free possessive
+pronoun. For example, i?pe ‘self’s (thing)’ must refer to something pos­
+sessed by the referent of a nearby expression,one close enough to bind
+the anaphor. In 564, page 248, it refers to the sentence’s subject.
+Although i ‘self’ behaves like a typical anaphor in the majority of cases,
+some cases are unexpected. For example, in 541 it refers to the subject of
+the sentence, but that subject is outside o f the immediate clause o f the
+anaphor:
+(541) Jóaa w aajacu foohffbye ds+j+véne.
+hóaaj kpa:hakhm-? [ï* © (3:?i-:piè
+teihï^é ]-nè
+John know-(t)
+self
+dog-(SgM) die
+-(0)
+‘John* knows that his* dog died.’
+Example 542 is perhaps even more problematic. Generally anaphors must
+be coreferential to a noun phrase that is in a structurally more prominent
+position. However, in 542 i refers from within the subject to the direct
+object, which presumably is not more prominent:
+(542) Io o h ffb ye Jóaake thdóhi.
+1 © (3:?i-:piè
+hóa:-khè
+ï?tó-?i
+self
+dog-(SgM) John-objAn bite-(t)‘John*’s dog bit himj.’Technically, the binding expression should c-command the anaphor. Fur­
+ther, subjects generally c-command objects, but objects do not c-command
+subjects. This may be evidence that Bora has a “ flat” structure, one lacking
+a verb phrase. However, this raises other questions beyond the scope of
+this grammar. We leave the question as an outstanding research issue.","[271, 272, 273]"
+"5.1Basic sentence structureThe basic clause has a subject and a predicate, and the subject precedes
+the predicate. For example, in 209 the subject is the noun phrase o:?i:piè
+‘dog’ and the predicate is the verb teï:nè ‘run’:
+(209) (3:?i-:pié
+teï:né-?i (O ohn bye ds+tnéhi.) ‘The d og runs.’
+d o g - ( SgM ) run-(t)
+The subject may be a free, preverbal pronoun, as in 210:©2012 SIL International ®CHAPTER 5. M AIN CLAUSES AND VERBS126(210)a:nm $hèmé-?i (A an u ch em éh i.) ‘This one (SgM) is sick.’
+this be.ill-(t)
+A clause may contain many other phrases, the order of which may vary
+considerably. (This word-order flexibility is undoubtedly due to Bora’s
+healthy case system.)
+When the subject is an overt, preverbal pronoun, if it is either first or
+second person and either dual or plural, then the verb bears the proclitic
+me ~ ma1 ‘nonsingular speech-act participants’, which will be glossed SAP.
+For example, in 211 the subject is first person plural exclusive (that is, it
+does not include the hearer); in both the conditional and the main clause
+the verb bears me ‘ SAP’:
+(2 1 1 )f mf muha m ecu w aca tsa muha m echém étu róhi.
+im i? m m ?a mè khrnkpa-khagood we.ex SAP sleep-CF
+teha? mm?a mè ^hémé-thm-ró-?i
+not we.ex SAP be.ill-neg-frs-(t)
+‘ If we (ex.) had slept well, we would not have gotten sick.’
+In 212 the subject is second person plural:
+(2 1 2 ) im f amuha m ecuwahajchn tsa amuha m echém éftyuróhi.imi? amm?a mè khrnkpa-?ax$hi:
+good you.pl SAP sleep-if
+teha? amm?a mè $hémé-i-tjhm-fó-?i
+not you
+SAP be.ill-fut-neg-frs-(t)
+‘ If you (pl) sleep well, you are not likely to get sick.’
+Of course, me ~ ma- ‘SAP’ is not used when the subject is third person;
+compare 213 with 211-212:
+(213) Im f d itye cuwahajchn tsa d itye ch ém éftyu róhi.
+imi? ti-tjhè
+good that-(AnPl)khmkpa-?ax$hi:
+sleep-ifteha? ti-tjhè
+^hémé-i-tjhm-ró-?i
+not that-(AnPl)
+be.ill-fut-neg-frs-(t)
+‘ If they sleep well, they are not likely to get sick.’
+'/m a/ occurs before /a/.","[159, 160]"
+"NPsubject [predicate •**verb]-[classifiersubject]d *[p r e d ic a t e c o m p le m e n tf NP 1
+ïr ]^ P s u b je c t(^ c o p u la r )First, as represented in 626a, the subject may be a noun phrase preceding
+the verb, as in as in 627-629. In this case the verb is followed by - © 0 ? ï
+(t) or, when negative, by -(00 nG (n) as ïn 837, page 326. This order is
+the one most commonly used to introducé a referent into the discourse.
+(627) A vyéju u b é llffnajatéhi.
+a^iéhm-:pè $i:paha-thé-?i
+reign-(SgM) hunt-go.do-(t)‘A/The chief went to hunt.’(628) M ftyan e m+amunaa tsaahi.
+mitjha-nè miammnaa teha:-?i
+many-(0) people
+come-(t)‘Many people come.’In 629 the subject is a relative clause headed by the classifier -O^ps (SgM):
+(629) Llffn a ja atééb é mujtahi.
+[NP 0i ^i:paha:-thé ]-:péj
+mraxtha-?i
+hunt-go.do -(SgM) be.lost-(t)
+‘The one who went to hunt got lost.’
+Second, as represented in 626b, a third person subject may be indicated
+by a classifier suffixed to the verb. This order is generally used if the
+©2012 SIL International ®10.1. SUBJECT269subject has been previously introduced into the discourse. For example,
+in 630 the subject is the classifier - 0 :PG( _;be) (SgM):1
+(630) $i:paha:-thé-épè
+(Llffnajaatéébe.) ‘He went to hunt.’
+hunt-go.do- (SgM)
+A classifier subject may be followed by an appositive subject noun
+phrase, as in 631:
+(631) “ Juuju” neebévaa fllif.
+“ hm:hm” nè-:pé-§a-a
+<0 1^11
+OK
+say-(SgM)-rpt-rem
+his.son‘ “ OK,” said his son.","[302, 303]"
+"©2012 SIL International ®©2012 SIL International ®Chapter 11Clitics
+Enclitics (which we generally refer to simply as “ clitics”) have syntactic or
+semantic “ scope” over an entire phrase. They attach themselves phonologically to the last word o f a phrase.1 Bora uses the following types of
+clitics (among others, e.g., the personal pronominal subject proclitics of
+table 10.1, page 270):
+1. Second p o s it io n clitics occur only following a clause’s first con­
+stituent; these include:
+(a) TEMPORAL, i.e., ones that indicate tense (the time of an event rel­
+ative to the time o f speaking) are -phe ~ -© o ‘remote past’, -(?)ne
+‘recent past’, and -iikjhè ~ -i ‘future’. These are discussed in section
+5.9.3. They are also included in figure 11.1; note that they do not
+all occupy the same position relative to the other clitics.
+(b) EVIDENTIAL, i.e., ones that indicate how the speaker came to know
+what she or he is reporting; see section 11.1.
+(c) The verb ‘to be’ ixkjha has become a second-position clitic in a type
+o f predicate complement structure; see section 5.10.2.
+2. ADVERBIAL clitics follow various classes o f sentence constituent; see
+section 11.2.
+3. A NEGATIVE clitic is discussed in section 13.3, page 13.3.
+The clitics occur in the order given in table 11.1:
+*W e do N O T intend a strong claim that the morphemes discussed here are strictly clitics as
+opposed to suffixes. Examples like 790, in w hich -ro ‘ frs’ precedes -:pè -(S gM ), suggest that
+-ro is a suffix rather than a clitic.","[337, 338, 339]"
+"©2012 SIL International ®Chapter 7Nouns and Noun Phrases
+Noun phrases refer to persons, animals, things and abstract ideas (actions,
+events, states). They are formed from nouns, pronouns, numbers, nonfi­
+nite verbs, and classifiers.
+To join elements with a noun or noun phrase to form referring expres­
+sions, generally languages make liberal use of constituency, conjunction,
+and compounding. Bora, by contrast, favors other mechanisms because it
+has an ample set o f classifiers. These play a major role in the formation of
+noun phrases, arguably heading them. For example, in the-tehi ‘that baby’,
+the head is the classifier -tehi (baby) and this is modified by the demon­
+strative “ adjective” the(:)- ‘that’. See chapter 6 for a detailed discussion of
+classifiers.
+Various mechanisms for forming referring expressions are given in ta­
+ble 7.1 roughly in the order o f their frequency of use.1 The significance of
+this table should become clear as this chapter is read.
+1In table 7.1 “ N P ” should not be understood strictly as a phrase projected from a noun,
+but loosely as a set o f elements (morphemes, words, phrases, not necessarily contiguous) that
+cooperate in form ing a referential expression.","[222, 223]"
+"25310.1 Personal pronominal subject proclitics.............................. 270
+11.1 The order of c litic s ............................................................ 306
+14.1 Singular imperatives: changes in the initial syllable . . . . 339
+14.2 Simple imperatives and complements to ++cui ‘hurry’ . . . . 344
+14.3 Three degrees of urgency with majo and métsu ..............347
+15.1 The interrogative roots.......................................................350
+15.2 Interrogative phrases with mu- ‘WH’ and +vee- ‘why’ . . . 350
+15.3 Animate interrogative pronouns formed with mu- ‘who’ . . 351
+15.4 Animate interrogative pronouns formed with ca- ‘which’ . 352
+15.5 Inanimate interrogative pronouns formed with ke- ‘which’ 354©2012 SIL International ®LIST OF TABLESx x iii18.1 STR: relative clauses......................................................... 381
+19.1 Animate thematic pronouns (connectives).........................396
+19.2 Common adverbial connectives......................................... 397
+D.l Tone resistance by -jte (AnPl)......................................... 442©2012 SIL International ®©2012 SIL International ®Preface
+This book is intended as a baseline description o f the the Bora language.1
+It makes both structural and functional claims. Most o f the description is
+framed in terms of basic notions accepted across linguistic theories; occasionally we make a theory-specific excursus.","[22, 23, 24, 25]"
+"©2012 SIL InteOtstional ®CHAPTER 11. CLITICS306Table 11.1 The order of clitics
+O NLY M ODAL FUTa-reFRS6 PROBc REALIZE REPd N W IT e TENSE-hmkho -i(ikjhe) -ro
+-hi:(§a)
+-?ixkjha
+-?te-mpa -?a(akha) -§a
+-kha-?ha-phe ~ -(©cj
+-ne“ future
+6frustrative, contraexpectation
+cprobable
+dreportative
+enonwitnessedThe clitics combine quite freely, but some combinations are semantically incompatible. It is not infrequent to find four clitics on a single word,
+e.g.:
+(760) Aaneréjucóhjaa
+a:-nè-ré-hmkhó-?ha-a
+that- (0) -only-now-nwit-rem11.1‘After that only now’Evidential cliticsThe evidential clitics are -?ha ‘nonwitnessed’ and -§a ‘reportative’.
+There is no clitic indicating direct, first hand information, but the ab­
+sence of an evidential clitic (in a declarative sentence) implies first hand
+infomation. If a speaker fails to include an evidential clitic when reporting
+an event he or she did not witness, they may be challenged by the hearer.","[339, 340]"
+"327(843) Tsa o awacunutu(ne).
+teha? o akpakhmnm-thm-(nè)
+not I yawn-neg-(n)‘ I did not yawn.’(844) Tsa o aaj+vetétu(ne).
+teha? o a:hi§è-thé-thm-(nè)
+not I eat-go.do-neg-(n)‘I did not go to eat.’teha?(a) ‘not’ may be followed by the clitic -i ‘projected time’ (PT); in
+this case the negation applies to the meaning of the clitic. For example, in
+845 teha?ai (not-PT) denies that the event has already happened:1
+(845) Tsahai dibye tsaatune.
+teha?a-i [ti-p’è
+teha:-thm ]-nè
+not-PT that-(SgM) come-neg -(n)‘He has not yet come.’With postverbal subjects, there is no overt negative word (like teha?(a)
+‘not’ in the previous examples) and the classifier subject occupies the place
+o f -ne (0). Thus, two arguments for the claim that these negatives are sub­
+ordinate are not available; the only available argument is that the first syl­
+lable of the verb bears high tone (as characteristic of subordinate clauses).
+Examples follow. In 846, -©:pè (SgM) delinks the low tone o f -© thm ‘neg’
+in order to place its low tone on -thm.
+(846) maxtfhó-thm-:pè (Majchótuube.) ‘He has not eaten (bread).’
+eat-neg-(SgM)
+(847) a. tó:-thm-:pè
+(dóótuube)
+b. a:?i'Bé-thm-:pè (aah+vétuube)
+c. maxtfho-thm-mè (majchotume)13.3‘He has not eaten (meat).’
+‘He did not visit.’
+‘They have not eaten
+(bread).’Contrastive negation with -j++va ‘deny’-hi:(§a) (-j++va) ‘deny’ indicates contrastive or emphatic negation, denying
+that the referent o f the phrase to which it is cliticized was or did what has
+been asserted (or assumed) about it. The form -hi:§a is used at the end of
+a sentence and -hi: is used within a sentence. -hi:(§a) may be cliticized to
+verbs (13.3.1) or to nominals (13.3.2).
+1This is consistent w ith the suggestion that teka?a behaves like a com plement-taking verb.",[361]
+"©2012 SIL International ®CHAPTER 1. THE BORA PEOPLE24order o f the high and low tones is the means by which a message is sent
+and understood. For example, lb is drummed as in la (with no extra pause
+at word boundaries).
+(l)a.HL
+H H L L
+b. ?i kjho: kha cé ti $ha
+icyoocaré
+dicha‘Come here now!’Because many words have identical tone and syllable patterns it is necessary to have standardized phrases. A given message may have a number
+of different phrases; these may be repeated several times and in varying
+orders, but the word order within each phrase is rigid.
+How someone would be called to come is illustrated in table 1.1. First,
+the call notice is drummed. This varies depending on whether one or more
+than one person is being called, and on whether the person (or persons) is
+instructed to come immediately or at their convenience. Second, the name
+of the person or persons being called is drummed, first the clan name and
+then the personal name (or names). Finally, the purpose for wanting the
+person(s) to come is drummed.
+Table 1.1 A Bora drum message: Come to sing!
+HL
+H H
+i kjho:kharé
+Icyoocaré
+right.nowLL
+ti$ha
+dicha.
+come.SgHL
+H H
+i kjho:kharé
+Icyoocaré
+right.nowLL
+ti$ha
+dicha.
+come.SgHL H
+i pèhéL H L L
+thmtha§a:pèLH L
+$ikjha?paLH L
+$ikjha?paIneje
+clan.nametutavaabe
+chiefLlicyahba
+nameLlicyahba.
+nameHL
+H H
+i kjho:kharé
+Icyoocaré
+right.nowLL
+ti$ha
+dicha
+come.SgL H H L L
+mèmaxtehi§akhi
+memajtsfvaki
+for.to.singL H H L L
+mèmaxtehi§akhi
+memajtsfvaki.
+for.to.singIt is particularly interesting that drum communication does not exploit
+the distinction between short and long vowels, or between heavy and light
+syllables. Although no study has been made o f the effectiveness o f drum
+communication (what range o f messages can be communicated, if techniques are used to increase redundancy, how frequently “ repairs” must
+©2012 SIL International ®1.8. THE BORA SIGNAL DRUMS25be made, and so forth), it is clear that some level o f communication is
+possible. For example, Thiesen once needed his tape recorder, which was
+in a downriver village. Knowing that someone was travelling upriver, he
+had a drummer ask that the traveller bring it. Thiesen got what he had requested. On another occasion the chief from a downriver village drummed
+to the chief from an upriver village, asking him to send something down
+with Thiesen (who was travelling downriver).","[57, 58, 59]"
+"©2012 SIL International ®CHAPTER 5. M AIN CLAUSES AND VERBS146
+AG
+|
+[SU
+AG
+|PAT HIT
+|
+DO H IT ]
+|AG PAT HIT
+|
+[SU DO H IT ]
+| /UTAH
+CAUSEI I I[SU
+| /l /SUDOGOAL HIT-CAUS]
+|I /
+REFL/PASSlAGI IGOAL HIT-CAUS-R/PSU|
+REFL/PASS[SU
+|H IT -R /P ]DOHIT-R/P-CAUSCAUSEFigure 5.5 Grammatical relations: reflexive and causative
+Neither ordering o f reflexivization and causativization yields a satisfactory
+result. Figure 5.6 seems correct but is inconsistent with the generalization
+that, when transitive verbs are causativized, the subject (causee) becomes
+the direct object and the direct object becomes a goal.
+AG
+|
+[ SU
+AG
+|
+I
+I
+[ SU
+GOAL
+I
+I
+I
+I /
+|
+/
+I / I
+SU GOALPAT HIT
+|
+DO
+HIT ]
+|
+I
+DO HIT-CAUS ]
+/UTAH
+CAUSEREFL/PASS
+HIT-CAUS-R/PFigure 5.6 Another view of ‘he allowed himself to be beaten’
+We leave this question unresolved. Other examples of this type follow:
+(257) o wdhdah+nutsamefhi.
+ó kpa?ta?mm-teha-mèi-?i17
+I cut-caus-tff)-(t)
+(258) Ó tadbótsameftyé.
+ó tha:pó-teha-mèi-tjhé
+I cure-caus-tf£>-go.do‘I caused myself to be cut.’‘I am going to have myself treated.’Likewise, when -xkhatehi ‘reciprocal’ follows -teho ‘causative’, it is under­
+stood that the referents o f the subject caused each other to do the action
+indicated by the verb; for example:
+17In many cases the causative suffix has /o/, whereas in 263 and 257 it has /a/. This
+reflects the fact that most speakers o f the Ineje dialect apply a rule w h ereby -teko becomes
+-te^a b efore -mèi.","[179, 180]"
+"©2012 SIL International ®1917.1. APPOSITION‘man’ is inherently animate, singular and masculine. The other noun
+phrases share those features by virtue of the classifier -:pè (SgM).
+Numeral phrases and other quantifying phrases work the same way.
+For example, in 392 the numeral phrase teha?oxtehi ‘five’ combines with
+the classifier -me (AnPl); this combination is followed by the appositive
+noun (the animate plural suffixes providing the referential linkage):
+(392) Tsahojts+meva wajpiïmu tsaahi.
+teha-?oxtehi-mè-§a
+kpaxphi:-mm teha:-?i
+one-(hand)-(AnPl)-plQ man-plAn come-(t)‘Five men
+come.’A subject noun phrase may be appositive to a postverbal subject
+classifier:
+(393) nè-:pé-§a-a
+© [i
+© $i:] (neebévaa fllif) ‘said his son’
+say-(SgM)-rpt-rem
+self
+son
+A noun may be in apposition to a pronoun. For example, in 394 tha:
+kha:ni ‘my father’ is in apposition to the pronoun a:nm ‘this (SgM)’:
+(394) Aanu taacaani tsaahi.
+a:nm
+© tha: © kha:ni teha:-?i
+this(SgM)
+my
+father comes-(t)‘This, my father, comes.’A demonstrative adjective is made a demonstrative pronoun by the
+addition of a classifier. The noun it modifies is structurally appositive to
+it.
+(395)ti:-piè
+© pï:rmmm-hï (diibye b++rumuj+) ‘that (SgM) agouti’
+that-(SgM)
+agouti-sg
+(396)thé:-nè-ri
+that-(0) -oblln© teha?fópa-rï
+basket-oblln(tééneri tsahróbari) ‘in that
+basket’A classifier often provides the referential linkage that unites the parts, as
+in 397:
+(397) téniihyo méwdnnhyoke
+thé-ni:?jo
+(© mékpa-m:?jo-khè
+that- (mother)
+wife- (mother) -objAn‘that wife-objAn’Example 398 has both a demonstrative and quantifier:
+(398) ...ine paneere d++ts++ju bajtsohané...
+i-pè
+(© pha-nè-:rè (© [ti:
+© -tehi:hiu paxteh«D ?apé]
+this-(0)
+all-(0)-only
+your
+mother planting set
+‘ all of this your mother’s plantings’©2012 SIL International ®192CHAPTER 7. NOUNS AND N O U N PHRASESA relative clause can be appositive to the noun it modifies. In 391
+above the relative clause is appositive to the subject of the clause (the
+man); in 399 it is appositive to the direct object (the squirrel) o f the verb
+(not given here); in 400, to the goal o f motion, and so forth:
+(399) ...néépicyókevaa avyéjuube anuubeke...
+né:phïkjhó-khè-§a-a ©
+[a^éhm-ipè
+apm-:pè
+]-khè
+squirrel-objAn-rpt-rem kingdom-(SgM) shoot-(SgM) -objAn
+‘ ...the squirrel the chief shot...’
+(400) ...wanéhj+vu, iyamé wanéhjt fjcyanévu...
+Gkpapé?hï-§m, © [ija-mé
+kpapé?hi ixkjha-né]-§m
+festival-goalanimal-(AnPl) festival be-(0)-goal
+‘ ^ t o a festival, to where there was an animal festival...’
+The phrases in apposition may be noncontiguous, as in 401, where
+max$hó-:pè-khé-hi:§a is in apposition to ti-:piè-khè. (See also 807, page
+316.)
+(401) ^Iveekf dnbyeke u tsajtyé majchóóbekéj++va?
+i§è:-khi ti-:piè-khè
+m tehaxtjhé-?
+why-pur that-(SgM)-objAn you take-(t)
+© max$hó-:pè-khé-hi:§a
+eat-(SgM)-objAn-deny
+‘Why do you take him who has not yet eaten?’
+A negative deverbal adjective may be appositive to a noun or pronoun,
+as in 188 (page 116) and 189.
+A few words,3 among them mitjha-nè ‘many’, function like prenominal
+adjectives, as in 402:
+(402) mitjha-nè kpa:-mjm
+(mftyane waamyu) ‘many mosquitos’
+much-(0) mosquito-pl
+However, because these require the classifier -ne (0), the modifier and
+head are arguably related by apposition rather than constituency; for fur­
+ther discussion see section 7.8.I.2.
+3Others are: aja ‘little, fe w ’,
+‘all’ .‘little, fe w ’, tu’ hè ‘little, fe w ’, p1fpa- ‘ numerous’, pka-©2012 SIL International ®7.2. NOUNS7.2193NounsNouns may be animate or inanimate. They may be singular, dual or plural.
+Animate singular and dual nouns are either masculine or feminine.4
+The order o f suffixes following a noun stem is given in figure 7.1.
+'N U M B E R ''-m m
+-m m te hi
+-m m p i{AU G /D IM
+1 h '-n e
+-k ho-knopaV A R IO U S M A X
+> -? a p e-m ^ m- ?h i-kpmm-k hm-khe ‘objAn’
+(ti)Pm ‘goal/theme’
+(ti)t>hm ‘source’
+-tm ‘like’
+-ma ‘with’
+-ri ‘oblln’
+-$i:(?je) ‘motive’
+-x ‘voc’Figure 7.1 The order o f nominal suffixes
+There are three classes of nouns: concrete (7.2.1), abstract (7.2.2), and
+locative nouns (7.2.3).","[224, 225, 226, 227]"
+"©2012 SIL International ®©2012 SIL International ®Index
+A
+/a/ for animate objects 354
+aa ~ a ‘yes/no’ 321, 349
+a ( : ) - ‘thematic’ 177
+aa- ‘medial or distal pronoun’ 240
+aabe that-(SgM) 396
+aah+ ‘at home’ 199
+a a j‘Yes, what do you want?’ 320
+a a lle that-(SgF) 396
+aam e that-(AnPl) 396
+aam upt that-(DuF) 396
+aam utsi that-(DuM) 396
+aan aa ‘meanwhile’ 397
+aane ‘then’ 397
+aa-n éllii ‘for that reason’ 397
+abbreviations xxix
+able (clitic) 316
+about 286
+abstract nouns 197
+aca ‘incredulity’ or ‘disapproval
+321
+accusative case 273
+active verbs 137
+addressee 274
+adjective 198, 219
+bound adjectival roots 413
+combined with classifier 223
+derived from verb 113, 198
+enhancing an adjective 226
+negative 325
+suffixes for 226
+used as adverb 226
+adverb 157, 198adjectives used adverbially
+226
+clitics 310
+connective 397
+degree 160, 206, 226
+derived from verb 198
+distance 160
+duration 159
+interrogative 160
+lexical 159
+manner 159
+morphological 157
+place 159
+quantity 160
+reason 160
+time 159
+with imperative 340
+adverbial clause 369
+causal 376
+comparative 377
+conditional 371
+counterfactual conditional 372
+locative 376
+manner 377
+motive 298
+purpose 369
+reason 298
+relative clause used adver­
+bially 375
+temporal 373
+adverbial clitic
+-ami ‘disgust’ 315
+-ca ‘affirm’ 314©2012 SIL IntifHational ®INDEX536clitic
+-m ei 316
+-h aa a ca — -ha ‘realize’ 313
+-h aja — -h a ‘challenge verac­ity, curiosity, perplexity’
+314
+-hde ‘be able’ 316
+-i-y o ‘contrary’ 317
+-jta n e
+‘exclude,
+without
+regard for’ 316
+-ju co ‘focus’ 311
+-re — -y e ‘only’ 310
+-ro — -ra — -y o — -ya ‘frustrat­
+ive,
+contraexpectation’
+(frs) 313
+-uba ‘probable’ 312
+-véj+u ‘similar to’ 317
+adverbial clitics 305
+affirm (adverbial clitic) 314
+affixes
+suffixes with segments 421
+without segments 420
+after 289
+agreement with numeral phrases
+218
+ahajchota ‘for that time or dis­
+tance’ 397
+ahdu ‘in that way’ 397
+aijyu ‘ at that time’ 397
+aju ‘Here
+Take it
+’ 320
+allophonic variation
+of consonants 33
+of vowels 30
+alternative questions
+embedded 371
+-ami ‘disgust’ 315
+-am i ‘incredulity’ 421
+ami ‘or’ 319
+amuu- ‘second person nonsingular
+pronoun’ 231anaphora 360
+anaphoric pronouns
+i
+‘self’ 237
+inanimate 236
+animacy 193, 194, 218
+with accusative case 273
+animate
+classifiers 163
+concrete nouns 193
+demonstrative pronoun 240
+indefinite pronouns 242
+pronominal connective 396
+qualifier phrases 223
+apocope 42
+apposition 225, 270, 273
+embedded clauses 381
+argument
+of a nonfinite verb 261
+a rón aa ‘but’ 397
+aspect 154
+habitual 154
+imperfective 154
+with single versus multiple ac­
+tion 154
+assimilation of /e/ to /a/ 31
+a té r é e - ‘worthless, despicable’ 414
+atsihdyu ‘from that place’ 397
+a va request for confirmation o f re­
+ported information 321
+a v y e ta ‘very (much)’ 160
+B
+-ba ‘multiple action’ 139
+baa ‘below’ 199bases o f numeral phrases 212
+basic sentence structure 125
+-:be - -:b y e (SgM) 128, 164, 421
+beneficiary 298
+with -llifhye — -hlli 298
+with -m a 297
+benefit 284
+blocking 57, 80©2012 SIL International ®INDEX537boone ‘after’ 374
+Bora language
+endangerment 5
+Bora people
+animal husbandry 16
+bilingual education 4
+bilingualism 5
+burial 21
+clans 465
+dress 18
+drum communication 21
+fishing 15
+food 12
+preparation 13
+history 3
+patronage system 11
+homeland 1
+house construction 16
+hunting 15
+land rights 4
+location 1
+music 21
+population 1
+religion 19
+work 12
+bound adjectival roots 413
+bound noun
+classifer with 175
+bound stem
+followed by classifier 175
+bound verbs 116
+C
+-ca ‘affirm’ 314
+-ca(:) ‘bid for affirmation’ 422
+-ca — -cya counterfactual condi­
+tional 372, 421
+-ca ‘animate object interrogative’
+352
+caa- ‘which’ 352
+caame ‘above’ 199
+cana (request for permission) 321case 267
+ablative 282
+about 286
+contrast 290
+partitive 285
+site of attachment 287
+source 283
+time after 289
+about 286
+accusative 273
+beneficiary 297, 298
+causee 275
+circumstance 296
+co-subject 294
+comitative 294
+comparative 299
+contrast 290
+direct object 273
+goal 276
+inanimate oblique 290
+cause or reason 291
+instrument 290
+location 292
+medium 293
+topic o f conversation 294
+instrument 296
+location 292
+medium 293
+motive 298
+nominative 268
+object
+o f a causativized transitive
+verb 280
+partitive 285
+reason 298
+site of attachment 287
+source 282, 283
+theme 276
+time after 289
+topic of conversation 294
+vocative 302
+with 294©2012 SIL International ®INDEX538beneficiary 297
+circumstance 296
+co-subject 294
+comitative 294
+instrument 296
+causal adverbial clause 376
+causative 144
+causee 147, 275
+o f transitive verbs 280
+cause 291
+causee 275
+certainty 161
+challenge veracity (adverbial clitic)
+314
+characteristic 264
+chij — chii ‘surprise or admiration’
+320
+circumstance 296
+clans 465
+classifers
+explanation and disclaimers
+449
+list of 450
+classifier 128, 163
+as a nominalizer 178
+classifier subject 127
+cognate with derived nouns
+170
+cognate with incorporated in­
+struments 170
+cognate with root 182
+derived from verb root 168
+following -eme ‘similar to’ 180
+following -e ‘pertain to’ 180
+form 163
+forming connective 177
+forming participle 168
+head of relative clause 178
+in qualifier phrases 223
+interrogative 175
+morphosyntactic features 163
+multiple 179objects as cliticized as 274
+structural status o f 182
+(t) and (n) 131
+to form qualifier phrase 175
+to indicate the subject 173
+to make reference specific 179
+tone o f 94, 171
+uses of 173
+with adjectives 174, 223
+with bound nouns 175
+with bound stems 175
+with collective nouns 179
+with demonstrative 175
+with indefinite 175
+with nonfinite verbs 177
+with numeral 176
+with possessive pronoun 179
+with quantifier 176
+clefts 312
+clitic 305
+adverbial 310-317
+evidential 306-310
+nonwitnessed 306
+reportative 307
+-j++va ‘deny’ 327
+with nouns 329
+with verbs 328
+second-position 305
+temporal 151
+-co ‘implore’ 341, 422
+co-subject 294
+-coba — -cyoba ‘big, augment’ 206,
+422
+collective
+inanimate nouns 196
+noun 194, 200
+comitative case 294
+comparative 299
+adverbial clause 377
+complement 359
+embedded question 364
+factive 361©2012 SIL International ®INDEX539object 274, 360
+sensory verb 361
+subject 360
+complementation 359
+compound
+noun 103
+headed by classifier 103
+headed by noun 103
+verb 106
+with bound verb 116
+concrete see nouns
+conditional
+adverbial clause 371
+counterfactual 372
+conjunction 319
+list and summation 209
+connective 395
+classifier in 177
+form 395
+pronominal 395, 396
+thematic 397
+consonant
+inventory 33
+content questions 349
+context 148
+contraexpectation 158
+contrary (adverbial clitic) 317
+contrast 290
+contrastive negation 327
+conventional expressions
+onomatopoeic 323
+vocatives 303
+conventions xxxii
+citation forms xxxii
+examples xxxii
+index xxxii
+tone xxxiii
+tone derivations xxxiii
+trees xxxiii
+-cooca ‘when’ 373, 422
+(-)(j)cooj+-ve ‘be tardy (by day),
+spend the day’ 107counterfactual conditional 372
+-:cu ‘dual’ for inanimates (duin)
+115, 128, 195, 213, 223,
+236, 241, 245, 248, 354,
+423
+-cu ‘single action, transitive’ 139,
+422
+-cunu — -cyunu ‘multiple action’
+140, 423
+D
+degree adverb 160, 206, 226
+delinking 57, 82
+demonstrative
+modifier 175
+pronoun 240
+animate 240
+inanimate 241
+demonstrative pronouns see pro­
+nouns
+deny (adverbial clitic) 327
+derivation 99
+by suffixation 108
+by tone change 100
+classifier derived from verb
+root 168
+verb from noun 109
+verb from verbs 108
+verbal 106
+description 264
+detransitivization 147, 148
+DHT 62
+-di — -hdi ‘animate’ 276, 282, 423
+-di — -hdi ‘negative imperative’
+330, 423
+di- — d- ‘you, your’ 247
+in imperatives 334
+di- ‘that’ in personal pronouns 231
+dihne ‘yours’ 247
+diminutive 207
+direct object 273
+discourse 395©2012 SIL International ®INDEX540use of connective 397
+disgust (clitic) 315
+disjunction 319
+distal animate demonstrative pro­
+noun 240
+distance adverb 160
+-d++va ‘type o f’ 424
+doubt (adverbial clitic) 313
+drum communication 21
+-du — -dyu — -hdu ‘likeness, sim­
+ilarity, comparative’ 299,
+377, 424
+duration adverb 159
+E
+-e ‘pertain to’ 180, 425
+e e - — eh - ‘that’ (demonstrativenonproximate) 241
+ehdu ‘that many’ in conjunction209
+éje ‘Look
+’ 320
+ellipsis 405
+embedded questions 364
+-eme ‘similar to’ 180, 426
+emphasis 420
+tone with imperatives 340
+emphatic negation 327
+encounter 117
+evidential
+clitic 305, 306
+co-occurrence o f 309
+nonwitnessed 306
+reportative 307
+excessively 117
+exclude (adverbial clitic) 316
+exhorbitant see -uvu ‘maximal’
+exhortation 345
+existential presentatives 129
+explanation 345
+F
+factive complement 361FDLT 60
+festivals 7
+finalized see -uvu ‘maximal’
+FLTS 73
+focus (adverbial clitic) 311
+foot structure 53
+free verbs 106
+frustrative 158
+future tense 149, 429, see projected
+time
+with negative 150G
+geminate
+glottal stops 36
+vowels 31
+gender 193,218
+in conjoined noun phrases 209
+genitive
+construction 251
+proclitics
+comparison with imperative
+proclitics 337
+tone 252
+uses of 260-266
+glottal stop 35
+goal 276
+-vu — -vyu — -u 275
+grammatical relations
+in causatives 147
+inversion 278, 280
+grammatical tone 65, 88H
+-h aa a ca — -h a ‘realize’ 313, 426habitual aspect 154
+-h aja — -ha ‘challenge veracity,
+curiosity, perplexity’ 314,
+426
+-hajchnjyu — -hajchn ‘if’ 371, 427
+hajchóta ‘duration’ 375
+-hane ‘various, collection, set’ 197,
+427©2012 SIL International ®INDEX541-hde — -hdye
+‘be able’ 316
+‘concede’ 428
+-hdi see -di — -hdi ‘negative imper­
+ative’
+headedness 218
+heavy syllables 28, 48
+-hi — -h — 0 (t) 43, 131, 225, 428
+(-)hijcya ‘be’ used as ‘habitual,
+characteristic’ 154, 429
+-hja ‘not witnessed’ evidential 306,
+429
+-hj+ see -j+ — -hj+ ‘plural’
+-hnécu ‘immediate result’ 113, 428
+-hulle ‘yonder’ 376
+I
+-i — -iikye ‘projected time’ 153, 431
+-i — -© : ‘future’ 149, 429
+-i ‘future’in counterfactual conditionals
+372
+i ‘self’ 237, 247
+\- ‘this’ (demonstrative proximate)
+240, 241
+-ich o ‘somewhat, sort of, a little bit’
+227, 431
+ideophone 43, 322
+if
+conditional adverbial clause
+371
+counterfactual conditional 372
+-ih de ‘before’ 375
+ihne ‘ self’s (his, hers, theirs)’ 237,
+247
+(- )iijy é v e ‘be bothersome’ 107
+iijyu ‘yesterday’ 149
+-iikye see -i — -iikye ‘projected
+time’
+ijcya ‘be’ in conjunction 209
+-ijyu (time) 373, 431
+imminent see projected timeimperative 333
+degrees of strength 344
+emphatic 340
+exhortation 345
+form of 333
+modifying 340
+-co ‘implore’ 341
+j u j ‘quick” 341
+negative 330
+plural 334
+proclitics
+comparison with genitive
+proclitics 337
+softening 347
+tone o f 334
+imperfective aspect 154
+impersonal subject 127
+implicit direct objects 136
+inanimate
+classifier 167
+concrete nouns 195
+indefinite pronouns 245
+obliques 290
+pronominal connective 396
+pronouns 236
+qualifier phrase 223
+inchoative with -nu 107
+incorporated instruments 123
+cognate with classifiers and
+nouns170
+incorporation
+of object 105
+incredulity 421
+indefinite see muune ‘indefinite an­
+imate plural’
+modifier 175
+pronouns 242
+indefinite pronoun
+animate 242
+inanimate 245
+inflection 99
+contrasts in nouns 193©2012 SIL International ®INDEX542instrument 290, 296
+incorporated 123
+interactionals 320
+interjections 320
+interrogative see question
+adverb 160
+modifier 175
+phrase 349-351
+pronoun 351
+animate 351
+inanimate 353
+intransitive verbs 136
+inversion
+and reflexivization 280
+with ‘cover’ 278
+with ‘give’ 278
+with the addressee 274
+inejcuehójtsitu ‘from the hand on
+this side’ 215
+inejcuejtuhatyu ‘from the foot on
+this side’ 217
+-inu ‘go after doing’ 118, 431
+++- ‘inanimate interrogative’ 353
+++cui ‘quickly’ 342
+-i-yo ‘contrary’ 317
+-iyo — -iya ‘should, would’ 431
+J
+- j ‘vocative’ 302, 431
+-ja (shelter) (house, clothing,...)
+108
+-jcatsi ‘reciprocal’ 146, 148, 432
+-je ‘come after doing’ 118, 432
+-j+ — -hj+ ‘plural’ 115, 128, 223,
+236, 241, 245, 248, 354,
+432
+-j++va — -j++ ‘deny’ 327, 432
+-jkimei ‘behave like’ 112, 433
+-jpi (SgM) 164, 195, 243
+-jtane ‘exclude, without regard for’
+316, 433-jte — -te (AnPl) 200, 231, 243,
+441
+versus -me 177
+-jtélle (SgF) 164
+-jtépt (DuF) 164, 195
+-jtétsi (DuM) 164, 195
+-juco ‘focus’ 161, 311, 433
+-juco(:) — -coo ‘now’ 157, 433
+juhuu — uj(surprise) 320
+j u j ‘quick (vocative)’ 341, 433
+juuj uj —juu — uu ‘Yes!’ 320
+juuu ‘I can’t believe it!’ 320
+K
+-ke — -kye ‘objAn’ 233, 273, 433
+with interrogative -ca 352
+kee- — ke- ‘which’ 354
+-ki ‘purpose’ 369, 434
+kinship 261, 465
+terms for referring see figure
+F.l
+terms of address see figure F.2
+brother-in-law-sister-in-law
+471
+fathers-in-law-mothers-inlaw 472
+grandparent-grandchild
+470
+husband-wife 468
+not related by kinship 472
+parent-child 469
+parents-in-law-son-/daughter-in-law 471
+sibling-sibling 469
+uncle/aunt-nephew/niece
+470
+L
+labial-velar obstruent 34
+length see vowel length
+let’s go...346
+lexical adverbs 159©2012 SIL International ®INDEX543lexically marked tone 64, 78, 255
+light syllables 28
+-lle (SgF) 128, 164, 195, 243, 434
+-lle ‘treat like’ 109, 434
+-lle ‘try to’ 117, 434
+-(h )llifh y e — -(h )llii ‘motive’
+beneficiary 298
+reason, motive 298
+-llifh ye — -hllifhye — -llii — -hllii
+‘motive’ 298-299, 434
+lliine ‘lower part’ 199
+*LLX constraint 69
+Loayza family 4
+location 262, 292
+locative adverbial clause 376
+locative nouns 198
+low tone sequences 69
+M
+-m a ‘with’ 294, 295, 374, 435beneficiary 297
+circumstance 296
+co-subject 294
+instrument 296
+to conjoin noun phrases 208
+m a a h u u j‘ I don’t know!’ 320
+main clauses 125
+m ajo ‘Let’s (dual) go!’ 346, 370
+manner
+adverb 159
+adverbial clause 377
+maximal see -uvu ‘maximal’
+-m e — -m ye (AnPl) 77, 128, 164,
+435
+for nouns 435
+versus -jte 177
+m e- — m a- ‘SAP’ 126, 232, 247,
+345, 346
+imperative 334
+m e— m a- ‘ SAP’ 232
+medial animate demonstrative pro­
+noun 240medium 293
+meet 117
+mehne ‘ours (in.)’ 247
+-mei‘compassion, pity’ 316, 435
+‘reflexive, passive’ 145, 147,
+435
+m éjtuhatyu ‘from our fo o t’ 216
+metsu ‘Let’s (plural) go!’ 346, 370
+mii- — mi- ‘two’ 213
+minimal word 48
+minor categories 319
+mirative see realize
+Mirana 1
+m itya ‘o r’ 319
+m ftyane ‘many, much’ 222
+modifiers
+adjectives used as adverbs 226
+predicate adjectives 225
+prenominal 219
+qualifier phrases 223
+mood
+imperative 333
+morphology
+derivational 99
+morphophonemic 411
+motive 298
+adverbial clause 298
+-mu ‘plural’ for animate nouns
+(plAn) 59, 99, 193, 436
+mu ‘o f whom’ 247
+muha ‘indefinite animate singular’
+345
+muha ‘who’ (animate interroga­
+tive) 350
+— mu- 351
+muhne ‘whose?’ 247
+multiple action
+-ba 139
+inherent 139
+marking intransitive verbs 140
+participle 114©2012 SIL International ®INDEX544versus single action 137
+multiple classifiers 179
+-mup+ (DuF) 128, 193, 194, 196,
+436
+-m utsi (DuM) 128, 193, 194, 196,
+436
+muu- ‘first person nonsingular pro­
+noun’ 231
+muune ‘indefinite animate plural’
+345
+muura ‘confirm’ 322
+N
+-n aa a ca — -n aa ‘while’ 373, 436name
+shortening o f 303
+- (:)n e — -(:)n e ‘plural’ for inanimates (duin) 195, 437
+-ne — -hne ‘recent past’ 152, 438
+-ne — -n e ‘singular’ for inanimate
+adjectival, numeral and
+qualifier phrases 437
+-ne (0) 437
+as a classifier subect 437
+event 374
+with adverbial clauses 438
+with an adjective 437
+with complements 438
+with events or circumstances
+438
+with relative clauses 438
+-ne (n) with negative 131,132, 330
+negation 325
+contrastive or emphatic 327
+future tense 150
+imperative 330
+in finite clauses 326
+postverbal subject 327
+preverbal subject 326
+raising 332
+subordinate clause 326, 331
+with adjective 325nominal
+inflectional contrasts 193
+suffix 206
+nominalization 197
+classifier used for 178
+nominative
+case 268
+personal pronoun 232
+with te (:)- 236
+nonfinite verb 100
+argument of 261
+tone o f 68
+nonrestrictive relative clauses 386
+nonwitnessed (evidential) 306
+noun 193
+cognate with classifier 170,
+182
+compound 103
+concrete 193
+animate 193
+inanimate 195
+phrase 189, 225
+pluralizers 200
+-nu ‘do, become, cause to be, cause
+to have (d o)’ 108, 110,
+439
+number 218
+agreement 126
+in conjoined noun phrases 209
+on noun 200
+numeral
+borrowing numeral phrases
+from Spanish 218
+classifiers with 176
+larger than twenty 218
+paraphrase 214
+phrase 210, see -(:)ne — -(:)ne
+with overt nouns 191
+nóóoo expressing happiness 320
+O
+o ‘I’ 231©2012 SIL International ®INDEX545object
+as cliticized classifiers 274
+complement 360
+direct 273
+incorporation 105
+o f a causativized transitive
+verb 280
+object complement 274
+only (adverbial clitic) 310
+onomastic 265
+onomatopoeia 161, 322
+order o f suffixes 206, 207
+orthography 27
+ownership 260
+P
+-pa ‘multiple action, intransitive’
+421
+pa- ‘all, completely’ 115, 176
+palatalization 37
+pane ‘interior, inside’ 199
+papihchuu- ‘three’ 213
+part-whole 261
+participle 113, 137
+derived with a classifier 176
+with deverbal classifier 168
+partiele 320
+partitive
+-tu — -tyu ‘source’ 285
+passives 147
+past tense 420
+recent 152
+remote 152
+-pe ‘remote past’ 152, 420
+pejeóve ‘be tardy (by night), spend
+the night’ 107
+-pejtso ‘upon encountering’ 117,
+439
+personal pronoun 231
+form of 231
+use of 234
+phrase-final tone changes 70-pi ‘excessively, habitually’ 117,
+439
+pitch of tone sequences 60
+pity (adverbial clitic) 316
+pivye — pivyénu ‘desire’ 107
+-p+ (DuF) 243
+p++néehójts+- ‘four’ 213
+place adverb 159
+PLTS 70
+plural
+for numeral 205
+for quantifier 205
+imperative 334
+of noun 194, 200
+population 1
+possessed 251
+possessive
+genitive construction 251
+pronoun 179, 247
+possessor 251
+postverbal subject 268, 272
+preadjective 160
+preaspiration 40, 251
+predicate 125
+adjective 130, 225, 268
+complement 129
+locative 130
+nominal 268
+present-past tense 149
+preverbal subject 268, 358
+constraint 129
+probable (adverbial clitic) 312
+proclitics
+tone o f 93
+prohibition 330, see iperative, negative535
+projected time 153
+pronominal connectives 396
+pronoun 231, see pronominal con­
+nectives
+anaphoric 237
+demonstrative 240©2012 SIL International ®INDEX546animate 240
+distal animate 240
+inanimate 241
+medial animate 240
+proximate animate 240
+distal animate demonstrative
+240
+doubling 271
+inanimate
+anaphoric 236
+indefinite 242
+animate 242
+inanimate 245
+interrogative
+animate 351
+inanimate 353
+medial animate demonstrative
+240
+modified by a relative clause
+384
+personal 231
+form o f 231
+proclitic 270
+use of 234
+possessive 247
+pronominal connectives 395
+proximate animate demonstra­
+tive 240
+proximate animate demonstrative
+pronoun 240
+purpose clauses 369
+Q
+qualifier phrases 223
+classifiers to form 175
+form 223
+use 224
+quantifier
+classifier with 176
+pluralizer for 205
+quantity see vowel length
+with monosyllabic roots 49quantity adverb 160
+question 349, see interrogative
+phrase
+answers with -ifkye 154
+content 349
+embedded 364
+embedded alternative question
+371
+interrogative pronoun 351
+rhetorical 354
+yes/no 349
+R
+-ra see -ro — -ra — -y o — -ya
+-re — -y e ‘only’ 310, 440realize (adverbial clitic) 313
+reason 291, 298
+adverb 160
+adverbial clause 298
+recent past tense 152
+reciprocal 148
+reduplication 43, 161, 322
+with vocative 302
+referent tracking 400, 402
+reflexives 147
+relative clause 379
+genitive 266
+nonrestrictive 386
+relativization into nonsubject
+positions 391
+relativization into the subject
+position 389
+restrictive 178
+structure of 380
+used as adverbial clause 375
+relocation suffixes 118-120
+remote past tense 152, 420
+reportative (evidential) 307
+resultant
+immediate 113
+resulting
+position 114©2012 SIL International ®INDEX547rhetorical questions 354
+-ri — -yi ‘inanimate oblique’ (oblln)
+290, 376, 440
+-r+vaco ‘resulting position’ 114,
+440
+-ro — -ra — -yo — -ya ‘frustrative,
+contraexpectation’
+(frs)
+158, 313, 441
+in counterfactual conditionals
+372
+Ssecond-position clitic 305
+tense 151
+sensory verb complement 361
+set membership 265
+shortening
+of names 303
+of reduplicated vocatives 302
+similar (adverbial clitic) 317
+single action
+inherent 140
+small degree 139
+-uve 139
+versus multiple action 137
+singular see singular action
+by adding a suffix 194
+inanimate noun 195
+noun 194
+of collective noun 200
+singular versus multiple
+aspect 154
+site of attachment 287
+social structure 6
+sound symbolism 322
+source 283
+spatial relators see locative nouns
+sphere of existence 265
+stative verbs 137
+stem changes in imperatives 337
+stem-forming suffixes 254
+subject 125, 268classifier subject 127
+complement 360
+marking 333
+shortening vowels of personal
+pronouns 232
+subordinate clause
+adverbial 369
+embedded alternative ques­
+tions 371
+general comments 357
+negation as 326
+negation in 331
+relative 379
+tone 89, 420
+suffix
+added to imperative 341
+derivational 108
+order 206, 207
+that modifies noun 206
+used with subordinate clause
+verb 91
+syllable
+heavy 48
+re-syllabification 251
+structure 28
+syllabification and tone 56
+weight 24, 28, 42, 47, 50, 130,
+169, 232, 236, 241, 244,
+245,
+270, 337, 339, 440
+added by -r+vaco 114
+alternations 50
+T-ta ‘corresponding to’ 113
+ta ‘my’ 247
+tahne ‘mine’ 247
+-te see -jte — -te (AnPl)
+‘become like’ 111
+‘go t o do’ 77, 118, 441
+te- ‘participle’ 137
+tee- ‘previously mentioned’ 236
+temporal©2012 SIL International ®INDEX548adverbial clause 373
+clitic 151, 305
+tense 149, 151
+future 149
+imminent future see projected
+time
+present-past tense 149
+projected time 153
+recent past 152
+remote past 152, 420
+second-position clitic 151
+text
+glossed 473
+thematic connective 395, 397
+thematicity 395
+theme 276
+-vu — -vyu — -u 275
+time 264
+adverb 159
+after 289
+tone 55
+and grammar 55
+and syllabification 56
+animate classifier 164
+areas for further study 96
+blocking 80
+bumping 88
+changed by suffixation 258
+citation form 76
+conflicts 79
+default high tone (DHT) 62
+default tone o f classifiers 94
+delinking 82
+by -j++va 85
+-©ü ‘future’ 86
+-© ro ‘frustrative’ 87
+by the person markers 83
+by various suffixes 84
+derivations 62
+emphatic imperative 340
+final default low tone (FDLT)
+60final low tone split (FLTS) 73
+finite versus nonfinite 102
+future tense 150, 429
+genitive 251, 252
+grammatical 65, 88
+imposed by suffix 76
+in imperatives 334
+in negative preverbal clause 79
+in subordinate clause 358
+interaction of tone and vowel
+length 75
+lexically marked
+high tones 66
+low tones 65
+making a verb nonfinite 100
+marking the subject 232
+negation 326
+of proclitics 93
+on subordinate clause verbs 89
+overview of basic facts 56
+penultimate low tone split
+(PLTs) 70
+phrase-final changes 70
+pitch of tone sequences 60
+remote past tense 152
+subordinate clause 102, 420
+the cyclical nature of 63
+the rule of three and boundary
+marking 95
+to change category 198
+to make nonfinite verbs 68
+tonal elements 60
+with wai ‘permit’ 347
+with classifier 94, 171
+with interrogative pronoun
+352
+with noun 171
+writing 27
+topic
+decay and reestablishment 404
+establishing 397
+of conversation 294©2012 SIL International ®INDEX549toward 288
+tracé of preposed subject 131
+transitive verbs 136
+transitivity 136
+tsa ‘not’ 326
+-(:)tsa ‘one, each (indefinite)’ 244,
+246,
+442
+tsa(:)- ‘one’ 212, 213, 218, 243,
+245
+-tsi (DuM) 243
+t s i(:)- ‘other’ 243, 245
+tsfem é- ‘something similar’ 245
+-tsii — -tsih — -tsi (place) 283, 376
+ts++me ‘children’ 196
+-ts o — -tsa ‘causative’ 144, 442
+-ri ‘inanimate oblique’
+cause, reason 291
+instrument 290
+location 292
+medium 293
+topic o f conversation 294
+-tu — -tyu ‘source’ 282, 283, 376,
+443
+about, concerning 286
+contrast 290
+form 282
+partitive 285
+site of attachment 287
+time after 289
+(-)tu jk én u ‘begin’ 106
+-tu (n e ) — -ty u (n e ) ‘negative’ 79,
+116,
+326, 443
+typological characteristics xxvii
+U- (:)u derives classifiers from verbroots 115, 168
+-u see -vu — -vyu — -u ‘goal’ or‘theme’
+-u (singular) 194u ‘you’ 231
+-uba ‘probable’ 312, 444-ucunu ‘singular stative’ 444
+u j — juhuu (surprise) 320
+uniu ‘along side of, beside’ 199
+uu — ju u ju j— juu ‘Yes!’ 320
+-u ve ‘single action’ 139
+-uvu ‘maximal’ 207, 444
+V- (:)v a ‘have’ 108, 111, 445
+-v a ‘come to do’ 118, 446
+-v a ‘plural’ for numerals 205, 445
+-v a ‘reportative’ 307, 445valence
+decreasing 147, 148
+increasing 144
+reduction 144
+-:v e — -:vy e ‘singular imperative’
+446
+-:v e ‘become’ 108, 111
+-véj+u ‘similar to’ 317, 447
+verb
+active 137
+adjective derived from 198
+bound 116
+categories 136
+classifier derived from 168
+derived from noun 109
+derived from verbs 108
+intransitive 136
+made nonfinite by tone 100
+multiple action
+marking intransitive verbs
+as 140
+nonfinite derived by tone 68
+participle 113
+stative 137
+stem changes in imperatives
+337
+structure of 135
+transitive verb 136
+vocative see addressee, 302
+conventional expressions 303©2012 SIL International ®INDEX550vowel
+allophones 30
+inventory 29
+vowel length 24, 31, see quantity
+suppressed by -:cu ‘duin’ or
+-:ne ‘plln’ 50
+with anaphoric pronouns as
+objects 233
+with deverbal classifier 169
+-vu — -vyu — -u ‘goal’ or ‘theme’
+275, 376, 447W
+waabyuta ‘benefit’ 284
+wai ‘permit’ 322, 347
+with 294
+word
+flexible order of 126
+formation of 99
+minimal 48
+writing system 27
+-wuu — -wu ‘diminutive, very’ 59,
+77, 207, 226, 227, 447
+Y-ya see -ro — -ra — -yo — -ya
+-ye see -re — -ye
+yes/no questions 349
+-yi see -ri — -yi ‘inanimate oblique’
+(oblln)
+-yo see -ro — -ra — -yo — -ya©2012 SIL International ®","[567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584]"
+"Abbreviations
+The following abbreviations and conventions are used in these analyses,
+in addition to some from pages xxix-xxxiii.
+| apposition (between two appositive
+constituents)
+|| cleft (contrastive focus)
+; juncture between the modifier and
+head in a genitive construction
+(BE) implicit ‘be’
+0i coindexed null pronoun
+Adj adjective
+Adv adverb or adverbial clause
+A d v D adverbial clause with a dif­
+ferent subject
+AdvS adverbial clause with the
+same subject
+AdvDeg adverb of degree
+Aux auxiliary
+Aux-s auxiliary verb with a clas­
+sifier subject
+(BE) implicit copula
+Cir circumstance or circumstantial ad­
+verbial clause,
+Cird circumstantial adverbial
+clause with a different subject,
+Cirs circumstantial adverbial
+clause with a same subject,
+Cirü the n-th circumstantial ad­
+verbial clause with a same sub­
+ject
+ComplOfKnow complement of the
+verb “know”
+Cond conditional
+CoS co-subject
+Dem demonstrative
+DO direct object
+DOrecip direct object indicatingthe recipient of “give”
+F feminine
+frs frustrative, contraexpectation
+Goal NP with “goal” case marking
+Goaltheme goal-marked noun
+phrase indicating the thematic
+argument of “give”
+impl implore
+Instr NP with “instrument” (oblln)
+case marking
+Interj interjection
+-KI implicit /-ki/ ‘purpose’
+Link sentence-initial connector, usu­
+ally an anaphoric pronoun
+Loc NP with “location” case marking
+Man NP indicating manner
+N noun
+Neg negative
+NP noun phrase
+O object of a verb of saying, telling,...
+oblln oblique (case marker) for inani­
+mate noun phrases
+PostPos pospositional phrase
+PredCmpl predicate complement
+ProSent pro-sentence
+pur purpose
+Pur purpose clause, noun phrase indi­
+cating purpose,
+Purd purpose clause with a dif­
+ferent subject,
+Purs purpose clause with a same
+subject
+Q interrogative pronoun. This may be
+followed by the function:©2012 SIL International ®475QS questioned subject,
+QDO questioned direct object,
+QGoal questioned goal,
+and so forth for QCoS, Qlnstr,
+QLoc, QManSou, QPur, QSim,
+and QTime
+Qy/n yes/no question
+Quan quantifier
+ree recent past
+S subject, Spartitive partitive subject
+Sim similarity, comparison
+Site site of attachment
+Sou source
+sub subordinator (followed by an aux-iliar verb)
+Sum list terminator
+s-V verb with a pronominal proclitic
+subject
+TempN temporal noun like (boone)
+‘after’
+TempP temporal phrase headed by a
+TempN
+Th theme
+Time time
+V verb
+V-s verb with a classifier subject
+(cliticized)
+Voc vocativeConventions
+Xj, Xj , Xk The subscripted indices indicate coreference, e.g., <G oalj > to
+indicate that this Goal is coreferential to another constituent bearing
+a subscripted i.
+X* X will be further described in the same note, e.g., DO* indicates that
+this direct object will be further described.
+Xs The subject o f X is coreferential to the subject o f the superordinate
+clause, e.g., Advs is an adverbial clause with same subject as the
+higher clause.
+Xd The subject of X is not coreferential to the subject of the superordi­
+nate clause, e.g., Cird indicates that the subject o f this circumstantial
+clause is not coreferential to the subject of the higher clause.
+X1, X2 Superscripted digits distinguish constituents to be further de­
+scribed in the annotation, e.g., to distinguish Cirl and Cir2< X > The wedges indicate that the enclosed is a sentence-initial thematic
+link.
+Early Attachment. The analyses (given at the foot of the page) generally
+favor early attachment. For example, the sentence in 1194a could be
+analyzed either as in 1194b or as in 1194c:
+(1194) a. ... baajurf me thtune mé nijtyuhi
+b. ...[[manioc we peel] we wash]
+c. ... [manioc [we peel] we wash]
+b. ‘after having peeled the manioc, we wash it’
+c. ‘after having peeled it, we wash the manioc’©2012 SIL International ®476APPENDIX G. BORA TEXTSIn 1194b, the direct object ‘manioc’ is attached to the verb ‘we peel’ and
+then this phrase is attached t o ‘we wash’. ; hence [[DO s-V] s-V]. In 1194c,
+on the other hand, the attachment of ‘manioc’ is deferred until ‘we peel
+(it)’ has been attached to ‘we wash’; hence [DO [s-V s-V]].","[508, 509, 510]"
+"SAP eat-pur
+‘He got that in order that we (
+The personal pronouns may occur with case markers. When they are
+direct objects, they bear -© khe ‘objAn’, as in 525 and 526:2
+(5 2 5 ) ó axtjhmmi-? ti-:piè-khèI see-(t)that-(SgM)-objAn(Ó ajtyumt dffbyeke.) ‘I saw
+him.’(5 2 6 ) Ó ajtyu m t amuhp+ke.ó axtjhmmi-? amm-?phi-khè
+I see-(t)
+you-DuF-objAn‘I saw you two (DuF).’When they are goals, they take -(?)ti ‘animate’ along with
+as in 527:3
+(527) oke daacu téts+dfvu.
+0-khè ta:khm thé-tehï-ti-§m
+1-objAn give
+that-(baby)-anim-thm‘goal, theme’,‘Give me that baby.’When o, m, and me are used as direct objects (followed, of course, by
+-khe ‘objAn’) they have a single vowel, as in 528 and 529:
+(528)o-khè i:thè-:pè
+(Oke ++teébe.) ‘He looks at me.’
+I-objAn look-(SgM)
+(529)mè-khè
+i:thè-$è
+(M eke++telle.)‘She looks at us (in.).’
+SAP-objAn look-(SgF)
+2Another exam ple is 0-k‘ è ‘I-objAn’ in 527; see the follow in g footnote.
+3The first person pronoun is marked as a direct object due to the anim acy-m otivated
+inversion discussed on page 662, w h ile t^-te1""! ‘ th at-(child )’ (a personal pronoun, as stated
+just after table 8.1) is marked as goal or theme.",[267]
+"©2012 SIL International ®5.11. MOOD5.11157MoodMood indicates the speaker’s attitude regarding the content o f a sentence:
+affirming it, denying it, asking about it, ordering another to do it, and so
+forth. The unmarked mood is declarative. Imperatives are discussed in
+chapter 14, and interrogatives are discussed in chapter 15.","[190, 191]"
+"©2012 SIL International ®CHAPTER 3. TONE92(b) It could be a low tone prefix (© - ) that forces the initial syllable
+to bear high tone: #©-cr...-suffix. (The host’s first syllable would
+have to bear high tone to avoid violating the *LLX constriant.)
+This suggestion can be immediately rejected. Recall that o ‘I’,
+m ‘you’, i ‘self’, and me ‘SAP’ are proclitics that form a tonal
+phrase with the following verb. If © occurred between the pro­
+clitic and the verb, the proclitic should necessarily bear high tone.
+(Otherwise it and the following © - would violate the *LLX con­
+straint.) However, this is not the case, as seen in mè max^ho-khi
+(SAP eat-pur memajchoki) ‘in order that we eat’ and 1max$hó-nè-ma
+(self eat-(event)-with imajchónema) ‘after eating’.
+2. The initial high tone would be imposed by an independent process of
+subordination, and the suffixes of table 3.3 would subcategorize for a
+subordinate clause. For example, the subcategorization frame o f -(©khi
+‘purpose’ would be [[s[+Subordmate]---]_] (the verb being final within
+the subordinate clause). This subordination process could be imple­
+mented in either of the just-mentioned ways, namely simply imposing
+high tone on the verb’s first syllable or by a low tone prefix.
+Thus, we adopt the third possibility: (1) the suffixes o f table 3.3 subcatego­
+rize for a subordinate clause, and (2) subordination is marked by docking
+a high tone on the verb’s initial syllable. The derivations o f imipax^ho-khi
+‘to fix’ and max$hó-mè-khè ‘the ones (AnPl) who eat-objAn’ (from exam­
+ple 106c) are given in figure 3.34. In the latter, - © ©m e (AnPl) can not
+doek its low tone because this would displace the high tone that marks
+subordination.30
+imibajcho
+1 :
+H :
+: :
+: ::
+:
+:
+:: : :
+: H Hto fixmajcho1
+|
+subordinate
+1
+|
+L_ki
+purpose
+:
+:L
+:FDLT
+DHTimibajeho-ki
+fin order to fix':
+:to eat
+subordinate. me
+<AnPl>
+. 1
+• 1
+: L_ke
+objAn
+:
+H:
+:L
+:majehó-me-keFDLT
+DHT
+fthose who ate-objAn'Figure 3.34 TD: fmfbajchoki, majehómeke
+Finally, -ne (event)— in contrast to - © ©ne (0) (thing) and the -ne (n)
+(discussed in section 13.2)— seems to delink any preceding low tones ex­
+cept the root’s lexically marked tones; see the derivation of teihi§é-tehó-ijó-né-$i:?jè in figure 3.35:
+30Alternatively, i f the (A n P l) suffix is taken as -O m s , then it w ou ld be delinked b y -<Ok1E.","[125, 126]"
+"86
+87
+87
+89
+90
+92
+934.1
+4.2
+4.3Nonfinite tone ................................................................. 100
+TD: wakimyéi m undajpi.................................................... 104
+TD: ó cayobavatéhi, cayob avatétsóm é........................... 1205.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8The verb stem.................................................................... 134
+The verb (nonim perative)................................................. 135
+The imperative v e r b ......................................................... 135
+Grammatical relations: ‘cause to see’ ..................................145
+Grammatical relations: reflexive and cau sative................. 146
+Another view o f ‘he allowed himself to be beaten’ .......... 146
+Grammatical relations: ‘cause to cut oneself’ .................... 147
+TD: a:h+vetéhi, a:h+véteéhi ............................................1516.1
+6.2
+6.3
+6.4Classifiers derived from verb roots by l e n g t h ................... 169
+TD: tsifwa, fwa a ...............................................................172
+TD: tsuucaawa, tsfeméwa .............................................. 172
+‘A table like this one.’ .......................................................1867.1
+7.2The order of nominal suffixes............................................193
+The grammatical relation o f prenominal m o d ifie rs ........... 2198.1STR: example 5319.1
+9.2
+9.3
+9.4
+9.5TD: t a rnhbeke ...............................................................256
+TD: ta c a r a c a .................................................................... 257
+The possessor’s penultimate high extension ( p p h e ) ........... 259
+STR: dirnhbé taabake ‘your brother’s w ife’ ......................259
+TD: dirnhbé taabake .......................................................260............................................................",[19]
+"©2012 SIL International ®CHAPTER 7. NOUNS AND NOUN PHRASES2267.8.4Adjectives used as adverbsSome adjectives may be used adverbially. For example, in 505a imi (im i)
+‘good’ is a predicate adjective modifying the subject kharakha ‘chicken’ but
+in 505b it modifies the verb max$hó?i ‘eat’:
+(5 0 5 ) a_ f mf caraca.
+b. Im f ca ra ca m ajchóhi.a. imi? kharakha
+good chicken‘It is a good chicken.’b. imi? kharakha max$hó-?i
+good chicken eat-(t)‘The chicken eats well.’The word order in 505b is interesting: it is as though the adverb is predicated o f “the chicken eats.” To characterize the chicken as good— without
+“ good” being interpreted as an adverb, as in 505b— it is necessary to com­
+bine imi ‘good’ with a classifier and make “ chicken” appositive to the combination, as in 506:
+(506) Im iib ye ca ra ca m ajchóhi.
+imi-:piè(O kharakha max$hó-?i ‘The good chicken eats.’
+good-(SgM)
+chicken eat-(t)
+Another example of an adjective used adverbially follows:
+(5 0 7 ) M ftyan e fm fjyuuvém e.mitjha-nè imihjm-:§é-mè
+much-(0) happy-sIn-(AnPl)7.8.5‘They became very happy.’Suffixes added to adjectivesThere are three suffixes that can be added to an adjective: -kpm(:) (wuu
+~ wu) ‘diminutive’ (7.8.5.1), -i$ho (ic h o ) ‘somewhat’ (7.8.5.2) (the cooccurrence of these is discussed in section 7.8.5.3), and -(Om^m (-uvu)
+‘max’ (7.8.5.4).7.8.5.1 -wuu ~ -wu ‘diminutive, very’
+The suffix -kpium (-wuu) ‘dim’ is used to enhance the meaning o f its host.
+-kpm is used word finally and -kpium is used when some suffix follows;
+compare mé:m-kpm ‘little pig’ with mé:m-kpmm-mm /mé:ni-kpm:-mm/ ‘lit­
+tle pigs’.
+©2012 SIL International ®7.8. ADJECTIVES227When -kprn(rn) ‘dim’ follows a noun, both the noun’s final and penul­
+timate syllables generally bear high tone, as in the examples just given.
+Following an adjective the form is generally #O----kpui(m), that is, it im­
+poses a low tone on the adjective’s initial syllable, as in 508-509:
+(508) aja-kpm urai ( A ya w u uu.) ‘You are very tiny.’
+small-dim you
+(509) imi-kpm ti:-$è
+(Im fw u d iflle.) ‘She is beautiful.’
+good-dim that-(SgF)
+When #O----kptu(ü) ‘dim’ follows a scalar adjective, it indicates an
+extreme degree on the (implied) scale, as illustrated in 510:
+(510) Im fw u d+jts++méne.
+imi-kpm ti
+xtehi:ménè
+good-dim your child‘Your baby is very
+good (or pretty).’Because imi-kpm ‘very good’ is the predicate in 510, we might expect it
+to bear all high tones, but -kpm imposes a low tone on its host’s initial
+syllable. For additional examples, compare the a and b sentences in 511
+and 512:
+(511) a. C h ém épf difbye.
+b. Chem épfw u difbye.a. $hémé-phi(?)26 ti-:piè
+sick-excess
+that-(SgM)‘He is sickly’b. $hemé-phi-kpm ti-:piè
+sick-excess-dim that-(SgM)‘He is very sickly’(512) a. W a k fm y éfp f difbye.
+b. W akfm yéfpfw u difbye.a. kpakhimjéi-phi(?)
+work-excessti-:piè
+that-(SgM)b. kpakhimjéi-phi-kpm ti-:piè
+work-excess-dim that-(SgM)7.8.5.2‘He is a hard worker.’
+‘He is a very
+hard worker.’-icho ‘somewhat’The suffix -i$ho (-ic h o ) ‘somewhat’ is used with scalar adjectives to indi­
+cate a moderate degree along the (implied) scale; e.g., with big it means
+26- © O p 1' ‘excessive’ derives stative verbs (adjectives) from verbs; see also examples 193
+and 194, page 117.","[259, 260, 261]"
+"©2012 SIL International ®10.1. SUBJECT2712. The proclitic and the verb root’s initial syllable may not both bear low
+tones because these form a single tonal phrase which must respect the
+*LLX constraint.
+3. ti ‘you (imperative)’ and i ‘self’ cause a following consonant to be
+palatalized. (Palatalization applies across word boundaries only if the
+words belong to the same phonological phrase.)
+Further, t(i) ‘you (imperative)’ may be ti, t, or 0 (nothing) depending
+on the number o f syllables o f the root and whether it begins with a
+consonant or a vowel.
+If o ‘I’, m ‘you’, or me ‘SAP’ is used as the subject and bears any suffix,
+then it is repeated, procliticized to the verb. We will call this PRONOUN
+DOUBLING. For example, in 637 o ‘ I’ is followed by -i ‘projected time’, so
+the pronoun is repeated:
+(637)ó-i o phé-hmkhó:-?i (Ói o péjucóóhi.) ‘I am now about to go.’
+I-PT I go-now-(t)
+In 638 m ‘you’ is doubled:
+(638)m:-3a m phè-é-?i
+(U u va u p eé h i.)
+‘They say that
+you-rpt you go-fut-(t)
+you will go.’
+In 639 me ‘ SAP’ is doubled; the second cliticizes to the verb:
+(639)M etsu m eere m epéékif.mètehm mè-:rè
+mè phé:-khi:
+let.us SAP-only SAP go-pur‘Let’s go alone.’When me ‘SAP’ is the subject, it can be preceded by mm?a ‘we (ex.)’,
+mm?tehi ‘we (DuM)’, or mm?phi ‘we (DuF)’. A word may intervene between
+the free pronoun and the pronominal clitic, for example, ti:pièkhè in 640:
+(640) Muha dnbyeke méajtyum+hi.
+mm?a ti-:piè-khè
+mé axtjhmmi-?i
+we
+that-(SgM)-objAn SAP see-(t)‘We sawhim.’A preverbal subject noun phrase referring to aspeech act partici­
+pant (i.e., not third person) will always be accompanied by an appositive
+pronominal subject proclitic, as in 641 and 642:
+(6 4 1 ) 0 fjcy a ro ob e ó chem éhi.[o ixkjha-ro ]-:pè
+(0 ó $hèmé-?i
+I be-frs
+-(SgM)
+I be.ill-(t)
+‘Even I am sick.’ (lit. ‘Even being me, I was sick.’)
+(6 4 2 ) Cóóm fyi o fjcyaab e ó ajtyu m t dffbyeke.o ixkjha ]-:pè]
+0 ° axtjhmmi-?
+town-oblln I be
+-(SgM)
+I see-(t)[ N p [ s k hó : m i - j i©2012 SIL International ®272CHAPTER 10. CASE AND GRAMMATICAL RELATIONS
+ti-:piè-khè
+that-(SgM)-objAn
+‘When I was in town I saw him (lit. Being in town, I saw him).’Adverbs (and other constituents, e.g., direct objects as in 640) may
+intervene between the subject noun phrase or free pronoun and the subject
+agreement proclitic. Examples follow:
+(6 4 3 ) Ói ++cui o péju cóóhi.ó-i i:khmi o phé-hmkhó:-?i
+I-PT quickly I go-now-(t)‘I’m now about to go quickly.’(6 4 4 ) Cóóm fyi o fjcyaab e tsfhullétu dffbyeke ó ajtyum+hi.","[304, 305, 306]"
+"©2012 SIL International ®Why is Bora so interesting?xxviiWe wish to thank the following people, who read and commented on an
+earlier draft or some portion thereof (ordered by surname): Willem Ade­
+laar, Cheryl Black, Albert Bickford, John Clifton, David Coombs, Desmond
+Derbyshire, Tom Givón, Tom Headland, Mike Maxwell, David Odden,
+Steve Parker, David Payne, Doris Payne, Thomas Payne, Frank Seifart,
+and especially, very especially, Mary Ruth Wise.","[26, 27]"
+"10.2.4CauseeA CAUSEE is the subject o f a clause that has been made causative (not to
+be confused with the CAUSER, the one who does the causing). As in many
+languages, in Bora, the causee becomes the direct object, as represented
+schematically in figure 10.1:
+[ SUBJECT
+CAUSERII[ SUBJECT...",[309]
+"[NP [s. „N P i .. .[v < j^ ]]-[Nclassifieri] ]genitive
+construction:[NP [s_0i __[v ct__]] © [NclassifierJ]Consider the noun or noun phrase that in other languages would head
+the relative clause.
+a. In basic relative clauses there simply is no such noun phrase. For exam­
+ple, in 997a above, the relative clause is headed by the classifier -©:pe
+(SgM), which is coindexed with a gap that corresponds to the direct
+object o f the modifying clause, but there is no overt coreferential NP.
+b. Frequently the noun or noun phrase that in other languages would head
+the relative clause precedes the relative clause. The relative clause is
+appositive to it. These are discussed in section 18.1.1.
+c. Alternatively, the coreferential noun phrase may occur within the rel­
+ative clause. These are discussed in section 18.1.2.
+d. Finally, the relative clause may “ possess” the head, employing the gen­
+itive construction. These are discussed in section 18.1.3.",[415]
+"V
+|S '
+me:nm
+makeFigure 16.2 STR: Ó aah+veté u méénuja panévu16.2ComplementsGenerally a classifier following a subordinate verb forms a relative clause
+referring to a being or object of the type indicated by the classifier; see
+chapter 18. In this section we consider subordinate clauses in which the
+classifier following the verb is -ne (0 ) ( ‘thing’). These are C O M P L E M E N T S ,
+and may function as the subject o f a sentence (16.2.1) or as direct objects
+(16.2.2).
+Some subordinate clauses, such as that in 948, are ambiguous between
+a complement and a relative clause. This comes about because the maximally unspecified classifier -ne (0) may refer either to a object or to an
+event, as discussed in section 16.3.
+(948) Ó ajtyumt dibye majchone.
+ó axtjhmmi-? [ti-p’è
+ax$ho ]-nè
+I see-(t)
+that-(SgM) eat (0)
+‘ I saw that he ate.’ (event) or ‘I saw that which he ate.’ (thing)©2012 SIL International ®CHAPTER 16. COMPLEMENTATION36016.2.1Subject complementsThe subject of a sentence may be a subordinate clause. For example, in
+949 the subject is ti:piè phé:nè: ‘that he goes’, i?tatehó(?) ‘sad’ is a predicate
+adjective, and the copula is implicit:
+(949) Ihdatsó diibye pééneé.
+i?tatehó(?) [ti-ip’è
+phe: ]-nè: ‘It is sad that he goes.’
+sad
+that-(SgM) go
+-(0)16.2.2Object complementsThe following verbs (among many others) take object complements:
+axtjhmmi ‘see’, i:the ‘look’, $e:po ‘hear’, imi^e ‘want’, phi:^iethe ‘be able’,
+and kpa:hakhm ‘know’. The object complement usually follows the
+complement-taking verb, but it may also precede it.
+The verb of the complement always bears a high tone on the first syl­
+lable and is always followed by
+O nE (0)-3 - © O nG does not impose its
+(1) on a monosyllabic or bisyllabic verb because the initial syllable must
+Lbear high tone. Further, the tones o f # ...- O O ne (0) do not override the
+tones imposed by, for example, a preceding - O O tm ‘like’ or -OOi.Pm ‘g°
+after doing’.
+We now present various examples. Note that in 950a the subject o f the
+complement, which is coreferential to the subject of the main clause, is
+a pronoun; it is not— as might be expected— an anaphor. By contrast, in
+951, in which the subject o f the complement is third person, the anaphor
+i ‘self’ is used.
+a. Ó imfllé o pééneé.
+m m ', ' -'r f '?rJ(950 )o imi$e- K , .
+I want-(t) I '1l hsi— J‘ I W a n t tO g O .’>phe: ]-nee S i_
+-(0) b. 0 imfllé u pééneé.
+I go
+‘I want you to go.’(951) Muura tsa dibye fmflletu ipyééneé.
+mm:ra teha? ti-p’è
+imi^è-thm [1 p’hi^: ]-nèé
+confirm not that-(SgM) want-neg self go
+-(0)
+‘Well, he does not want to go.’
+The sentence in 952a (which contains a relative clause) is embedded under
+a sensory verb in 952b:
+3Relative clauses and some sensory verb complements are follo w ed b y a different classi­
+fier; for example, see 956 and exam ple 80, page 68.","[393, 394]"
+"10.4.6Time after-thm ‘ source’ may follow a phrase that refers to time in order to indicate
+some subsequent time. In 701 it follows a simple noun phrase:
+(7 0 1 ) A a b é v a a cu u vén etu ré iajkyéne m++cum+ri ++témefhi....a:-pé-§a-a
+khm:Bé-nè-thm-ré
+1 axkjhé-nè
+thm-(SgM)-rpt-rem dark-(time)-sou-only self awake-(0)
+mi:khmmï-ri i:thé-mèi-?i
+mirror-oblln look-i^f)-(t)
+‘ Early in the morning, having awakened, he looked at himself in the
+mirror....’
+In 702 it follows a subordinate clause:
+(702) Aanévaa a ffvyén etu te e n e d ó óto u n eeb ó “ t ó ó ” .
+a:-né-§a-a
+af-:&'é-ne-thm
+thè:-nè
+thm-(0) -rpt-rem burn-sln-(event)-sou that-(0)
+(© tó:tho-m
+nè:pó-?
+“ thó:”
+squash-(sphere) pop.open-(t) “ bang”
+‘After it heated up, that squash popped open with a bang.’
+©2012 SIL International ®CHAPTER 10. CASE AND GRAMMATICAL RELATIONS29010.4.7 Contrast
+-thm ‘source’ may mark the noun phrase indicating something with which
+another is contrasted. With a:-nè (theme-(0)) it forms a sentence-initial
+link indicating contrast, as at the beginning of 703b, where clothes such as
+soeks and underwear are contrasted with single-piece clothing like dresses.
+(The other three instances o f -thm can be understood in terms o f the con­
+ceptual direction o f attachment: “ hang from hangers,” “hang from a clothes
+line,” “from where we attach the clothes pins.”)
+(703) a. Paja nééja paihcyutu mépicyóóhi.
+b. Aanetu tsfhdyure ++vajdhj+ mépicyóóhi; móóhóutu mé+hdotsó
+uméhewaanetu.
+a. pha-ha
+né:-hapha-i?kjhm-thm mé phikjhó:-?i
+all-(clothes) say-(clothes) all-(frame)-sou SAP put-(t)
+b. a:-nè-thm
+tehi-?tjm-rè
+i:§a-ha-?hi
+thm-(0) -sou other-(like)-only different-(clothes)-pl
+mé phikjhó:-?i mó:?ó-m-thm
+SAP put-(t)
+vine-(vine)-sou
+[mé i?to-tehó-?
+mmé-?è-kpa-:nè
+1-thm
+SAP bite-cause-(t) tree-(tree)-(slab)-plln -sou
+a. ‘We put all the one-piece clothes onto hangers.’
+b. ‘By contrast, the other kinds o f clothes we hang on the clothes
+line, pinning them on with clothes pins.’10.5-ri ‘inanimate obliques’-© fï (-ri) is used to mark various inanimate obliques; it is only used on
+inanimate noun phrases and nominalized clauses. -(©ri is often used to
+mark instruments (10.5.1). Other uses include: cause (10.5.2), location
+(10.5.3), medium (10.5.4), and topic o f conversation (10.5.5).","[323, 324]"
+"55
+56
+60
+60
+60
+62
+63
+64
+65
+66©2012 SIL International ®50
+51
+51
+52
+52
+53CONTENTSix3.5.3
+Nonfinite v e r b s ...................................................
+The *LLX constraint .........................................................
+Phrase final tone c h a n g es .................................................
+3.7.1
+Penultimate low tone s p lit..................................
+3.7.2
+Final low tone s p lit.............................................
+3.8 The interaction o f tone and vowel l e n g t h ........................
+3.9 The tones of isolated words ( “citation forms”) ...................
+3.10 Tone changes caused by s u ffix e s ......................................
+3.10.1 Suffixes affecting the host’s final to n e s ................
+3.10.2 Affixes that affect the host’s initial to n e s .............
+3.10.3 Suffixes affecting both initial and final tones . . . .
+3.11 Tone conflicts and their resolu tion ...................................
+3.11.1 B locking..............................................................
+3.11.2 D e lin k in g ...........................................................
+3.11.2.1 Delinking by the person markers..............
+3.11.2.2 Delinking by
+di ‘animate’,
+ke ‘objAn’,
+- 0 ki ‘purpose’, - 0 ma ‘with’, - 0 te ‘go.do’
+and - 0 du ‘like’ .........................................
+3.11.2.3 Delinking by #0...-j++(va) ‘deny’ ...........
+3.11.2.4 Delinking by - 0 a ‘future’ .........................
+3.11.2.5 Delinking by -ro ~ -ra ‘frustrative, contraexpectation’ ............................................
+3.11.3 Bumping..............................................................
+3.12 Grammatical tone ............................................................
+3.12.1 Tone on the verbs o f subordinate clauses.............
+3.12.2 The tones o f p ro c litic s ........................................
+3.12.3 The default tone o f nouns and classifiers.............
+3.13 The rule of three and boundary marking...........................
+3.14 Areas for further study.......................................................
+3.6
+3.768
+69
+70
+70
+73
+75
+76
+76
+77
+78
+79
+79
+80
+82
+8384
+85
+86
+87
+88
+88
+89
+93
+94
+95
+964 Word Formation
+99
+4.1 Derivation with tone: nonfinite v e r b s ..............................100
+4.2 Compounding.................................................................... 103
+4.2.1
+Compound nouns................................................ 103
+4.2.1.1 Headed by classifiers.............................. 103
+4.2.1.2 Headed by nouns ................................... 103
+4.2.1.3 Object incorporation .............................. 105
+4.2.2
+Compound v e r b s ................................................ 106
+4.3 Affixal derivation.............................................................. 108
+4.3.1
+Verbs derived from verbs ....................................108
+4.3.2
+Verbs derived from n o u n s ....................................109
+4.3.2.1 -lle ‘treat like, regard as’ .........................109©2012 SIL International ®CONTENTSX4.4
+54.3.2.2 -nu ‘do’ ................................................... 110
+4.3.2.3 -:ve ‘sin’ and-te ‘become’ ........................ 111
+4.3.2.4 -va ‘have’ .................................................111
+4.3.2.5 -jkimei ‘behave like’ ................................ 112
+4.3.3 Nouns from verbs w ith-ta ‘corresponding to’ . . . 113
+4.3.4 Participles............................................................. 113
+4.3.5 Negative deverbal adjectives ............................... 116
+4.3.6 Affixal “verbs” ..................................................... 116
+4.3.6.1 -pi ‘excessive’ ........................................... 117
+4.3.6.2 -lle ‘try’ ................................................... 117
+4.3.6.3 -pejtso ‘upon encountering’ ..................... 117
+4.3.6.4 Relocation to or from doing .................. 118
+4.3.7 Adverbs and adjectives.......................................... 121
+Verbs with incorporated instruments................................123Main Clauses and Verbs
+125
+5.1 Basic sentence structure................................................... 125
+5.2 Subjects indicated with classifiers..................................... 127
+5.3 Predicate complements ................................................... 129
+5.4 End o f main verb m arkers................................................ 131
+5.4.1 -hi - -h ( t ) ............................................................. 131
+5.4.2 -ne ( n ) ................................................................... 132
+5.5 Statements of fact ........................................................... 133
+5.6 The structure of the verb ................................................ 135
+5.7 Verbal categories..............................................................136
+5.7.1 Transitive, intransitive, s t a t iv e .............................136
+5.7.2 Single or multiple action........................................137
+5.7.3 Marking multiple action with intransitive verbs . . 140
+5.8 Valence-changing su ffixes................................................ 144
+5.8.1 -tso ‘causative’ ..................................................... 144
+5.8.2 -mei ‘reflexive or passive’ .....................................147
+5.8.3 -jcatsi ‘reciprocal’ ................................................148
+5.9 T e n s e .............................................................................. 149
+5.9.1 The present-past te n s e .......................................... 149
+5.9.2 The future tense .................................................. 149
+5.9.3 Tense-marking second-position clitics ..................151
+5.9.3.1 -pe ‘remote past’ ......................................152
+5.9.3.2 -ne — -hne ‘recent past’ ...........................152
+5.9.3.3 -i — -ifkye ‘projected time (P T)’ ................153
+5.10 A s p ec t............................................................................... 154
+5.10.1 Aspect and the singular versus multiple contrast . 154
+5.10.2 Aspect indicated by -?ixkjha ‘habitual’ .................... 154©2012 SIL International ®CONTENTSxi5.11 Mood ............................................................................... 157
+5.12 A d v e rb s ............................................................................ 157
+5.12.1 Affixal a d v e rb s .................................................... 157
+5.12.1.1 -juco (:) ‘now’ ......................................... 157
+5.12.1.2 -ro — -ra — -yo — -ya ‘frustrative, contraexpectation’ ............................................158
+5.12.2 Lexical ad verb s.................................................... 159
+6 Classifiers
+163
+6.1 Form, distribution, t o n e .................................................... 163
+6.1.1
+General facts about animate and inanimate classi­
+fiers .................................................................... 163
+6.1.1.1 Animate classifiers................................... 163
+6.1.1.2 Inanimate classifiers.................................167
+6.1.2
+Classifiers derived from verb r o o t s ...................... 168
+6.1.3
+Classifiers cognate with other m orphem es........... 170
+6.1.4
+The tones o f classifiers......................................... 171
+6.2 The uses o f classifiers .......................................................173
+6.2.1
+Classifiers indicating the s u b je c t ......................... 173
+6.2.2
+Classifiers with a d je ctive s.................................... 174
+6.2.3
+Classifiers with bound n o u n s ...............................175
+6.2.4
+Classifiers to form qualifier phrases...................... 175
+6.2.4.1 Classifiers with demonstrative, indefinite,
+and interrogative m odifiers......................175
+6.2.4.2 Classifiers with numerals and quantifiers . 176
+6.2.4.3 Classifiers forming connectives with a(:)‘thematic’ ................................................. 177
+6.2.5
+Classifiers with nonfinite v e r b s ........................... 177
+6.2.6
+Classifiers as heads o f relative c la u s e s ................ 178
+6.2.7
+The classifier -ne with complement clauses . . . . 178
+6.2.8
+Classifiers with free possessive pronouns..............179
+6.2.9
+Classifiers to individuate collective or general nouns 179
+6.2.10 Multiple classifiers.............................................. 179
+6.2.11 Classifiers a fter-e‘pertain to’ or-em e‘similar to’ . 180
+6.2.12 Reference in discourse......................................... 181
+6.3 The structural status of classifiers...................................... 182
+6.3.1
+Some classifiers have corresponding free nouns . . 182
+6.3.2
+Classifiers have the referential properties typical of
+n o u n s ................................................................. 184
+6.3.3
+Classifiers have the distribution typical of nouns . 185
+6.3.4
+Classifiers head their p h ra ses.............................. 186©2012 SIL International ®x iiCONTENTS7Nouns and Noun Phrases
+189
+7.1 Apposition ...................................................................... 190
+7.2 N o u n s .............................................................................. 193
+7.2.1 Concrete................................................................193
+7.2.1.1 Animate ................................................ 193
+7.2.1.2 Inanimate................................................ 195
+7.2.2 A b stra ct................................................................197
+7.2.3 Locative n o u n s ..................................................... 198
+7.3 N u m b e r............................................................................200
+7.3.1 The singular of collective nouns............................ 200
+7.3.2 Plural nouns formed with plural classifiers............ 200
+7.3.3 Pluralization with - ( ( m m .................................... 201
+7.3.4 The plural suffix - n e .............................................202
+7.3.5 The plural suffix -(?)hï .......................................... 202
+7.3.6 The plural suffix -?ape ‘various’ ............................ 204
+7.3.7 The plural suffix - § a .............................................205
+7.4 Suffixes that modify nouns .............................................. 206
+7.4.1 -coba ‘augment’ ..................................................... 206
+7.4.2 -wuu — -wu ‘diminutive, small, few’ .................... 207
+7.4.3 -uvu ‘maximal’ ..................................................... 207
+7.5 Quantifier p h ra ses........................................................... 208
+7.6 Conjoining noun phrases................................................... 208
+7.7 Numeral phrases.............................................................. 210
+7.7.1 The composition of numeral phrases.................... 212
+7.7.2 Agreement with numeral phrases......................... 218
+7.8 Adjectives......................................................................... 219
+7.8.1 Prenominal modifiers .......................................... 219
+7.8.1.1 +m+a ‘of good quality’ ............................. 219
+7.8.1.2 mftyane ‘much’ ......................................222
+7.8.2 Qualifier ph rases.................................................. 223
+7.8.3 Predicate adjectives .............................................225
+7.8.4 Adjectives used as adverbs.................................... 226
+7.8.5 Suffixes added to ad jectives.................................. 226
+7.8.5.1 -wuu — -wu ‘diminutive, very’ ................226
+7.8.5.2 -icho ‘somewhat’ ..................................... 227
+7.8.5.3 The co-occurrence of -kpm(m)(:) and -i$ho 228
+7.8.5.4 -uvu ‘maximal’ ........................................ 2298Pronouns
+231
+8.1 Personal pronou ns........................................................... 231
+8.1.1 The form of personal p ronou ns............................ 231
+8.1.2 The use o f personal pronouns............................... 234©2012 SIL International ®CONTENTS
+8.2
+8.3
+8.48.58.6
+9x i iiInanimate anaphoric p ron ou n s......................................... 236
+The anaphor i ‘self’ ............................................................ 237
+Demonstrative pronouns.................................................... 240
+8.4.1
+Animate demonstrative pronouns........................240
+8.4.2
+Inanimate demonstrative pronouns..................... 241
+Indefinite pronouns ......................................................... 242
+8.5.1
+Animate indefinite p ro n o u n s ............................. 242
+8.5.2
+Inanimate indefinite pronouns............................. 245
+Possessive pronou n s......................................................... 247The Genitive Construction
+251
+9.1 Genitive t o n e .................................................................... 251
+9.1.1
+Stem-forming suffixes ........................................ 254
+9.1.2
+Lexically marked tones........................................ 255
+9.1.3
+A ffix a tio n ........................................................... 258
+9.1.4
+The possessor’s penult high extension ................258
+9.2 The uses of the genitive construction.................................26010 Case and Grammatical Relations
+267
+10.1 Subject ............................................................................ 268
+10.2 -ke — -0 ‘object’ ................................................................. 273
+10.2.1 Object com plem ents........................................... 274
+10.2.2 The addressee......................................................274
+10.2.3 Objects as cliticized classifiers............................. 274
+10.2.4 Causee.................................................................275
+1 0.3 -vu ‘goal’ o r ‘theme’ ......................................................... 275
+10.3.1 G o a l ................................................................... 276
+10.3.2 T h e m e .................................................................276
+10.3.3 The object o f a causativized v e r b ........................280
+10.4 -tu ‘source’ (ablative) .......................................................282
+10.4.1 Some matters of form ........................................ 282
+10.4.2 S ou rce.................................................................283
+10.4.3 P a rtitiv e .............................................................. 285
+10.4.4 About, con cern in g............................................. 286
+10.4.5 Site o f atta ch m en t..............................................287
+10.4.6 Time a ft e r ........................................................... 289
+10.4.7 Contrast.............................................................. 290
+10.5-ri ‘inanimate obliques’ .................................................... 290
+10.5.1 Instrument........................................................... 290
+10.5.2 Cause or reason................................................... 291
+10.5.3 Location.............................................................. 292
+10.5.4 M e d iu m .............................................................. 293©2012 SIL International ®CONTENTSx iv10.5.5 Topic o f conversation ......................................... 294
+10.6 -ma ‘with’ ..........................................................................294
+10.6.1 Co-subject............................................................ 294
+10.6.2 Circumstance.......................................................296
+10.6.3 Instrument............................................................ 296
+10.6.4 B e n e fic ia ry ......................................................... 297
+10.7 -hllifhye — -llii ‘motive’ .................................................... 298
+10.7.1 B e n eficia ry ......................................................... 298
+10.7.2 Reason................................................................. 298
+10.8 -hdu ‘comparative’ ............................................................ 299
+10.9 V ocative............................................................................ 302
+11 Clitics
+305
+11.1 Evidential c lit ic s ...............................................................306
+11.1.1 -hja ‘nonwitnessed’ .............................................. 306
+11.1.2 -va ‘reportative’ .................................................... 307
+11.2 Adverbial clitics ...............................................................310
+11.2.1 -re — -ye ‘only’ .................................................... 310
+11.2.2 -juco ‘focus’ ......................................................... 311
+11.2.3 -uba ‘probable’ .................................................... 312
+11.2.4 -haaaca — -ha ‘realize’ ......................................... 313
+11.2.5 -ra — -ro ‘frustrative, contraexpectation’ ..............313
+11.2.6 -ca ‘affirm’ ............................................................ 314
+11.2.7 -haja — -ha ‘challenge veracity’ ........................... 314
+11.2.8 -ami ‘disgust’ .......................................................315
+11.2.9 -hde ‘be able’ .......................................................316
+11.2.10 -mei ‘pity’ ............................................................ 316
+11.2.11 -jtane ‘exclude’ .................................................... 316
+11.2.12 -véj+u ‘similar to’ ................................................. 317
+11.2.13 The combination -i-ro ‘contrary’ ........................... 317
+12 Some Minor Categories
+319
+12.1 Conjunctions.................................................................... 319
+12.2 Interjections....................................................................... 320
+12.3 Particles............................................................................ 320
+12.4 O n om atopoeia................................................................. 322
+13 Negation
+325
+13.1 Negation with adjectives.................................................... 325
+13.2 Simple negation in finite cla u s e s ...................................... 326
+13.3 Contrastive negation with -j++va ‘deny’ ........................... 327
+13.3.1 -j++va with v e r b s ................................................. 328©2012 SIL International ®CONTENTSxv13.3.2 -j++va with n om in als...........................................329
+13.4 Prohibitions....................................................................... 330
+13.5 Negation in subordinate clauses......................................... 331
+14 Imperatives
+333
+14.1 The form of im peratives.................................................... 333
+14.1.1 Tone in imperatives ...........................................334
+14.1.2 Comparison of imperative and genitive pronominal
+proclitics...............................................................337
+14.1.3 Stem changes in imperatives................................337
+14.2 Modifying imperatives.......................................................340
+14.2.1 Emphatic imperatives ........................................ 340
+14.2.2 -co ‘implore’ and -juj‘quick’ with imperatives . . . 341
+14.2.3 The adverb ++cui ‘quickly; hurry’ ........................342
+14.3 Degrees of strength of im p eratives................................... 344
+14.3.1 Explanations ......................................................345
+14.3.2 Exhortation........................................................ 345
+14.3.3 Hortatives with majo and métsu ‘let’s go’ .......... 346
+14.3.4 Softening imperatives with kpai ‘permit’ .............347
+15 Question Formation
+349
+15.1 Yes/no questions...............................................................349
+15.2 Content questions ............................................................ 349
+15.2.1 Animate interrogative pronouns.......................... 351
+15.2.2 Inanimate interrogative pronouns........................353
+15.3 Rhetorical qu estions......................................................... 354
+16 Complementation
+357
+16.1 General comments about subordination........................... 357
+16.2 Complements.................................................................... 359
+16.2.1 Subject complements...........................................360
+16.2.2 Object com plem ents...........................................360
+16.3 -ne (0) versus (event) .......................................................364
+17 Adverbial Clauses
+369
+17.1 Purpose clauses................................................................. 369
+17.2 Conditional adverbial clauses............................................371
+17.2.1 “ Normal” conditional clau ses............................. 371
+17.2.2 Counterfactual conditional cla u s e s ..................... 372
+17.3 Temporal adverbial clau ses.............................................. 373
+17.4 Adverbial relative clau ses................................................. 375
+17.4.1 P la c e ................................................................... 376©2012 SIL International ®CONTENTSxvi17.4.2
+17.4.3Causal adverbial clauses......................................376
+Comparison and m anner......................................37718 Relative Clauses
+379
+18.1 The structure o f relative clauses......................................... 380
+18.1.1 Appositive embedded clau ses.............................. 381
+18.1.2 Relative clauses with an internalcoreferent . . . . 387
+18.1.3 Relative clauses possessing theirh e a d ................. 388
+18.2 Relativizing into s u b je c ts ................................................. 389
+18.3 Relativizing into nonsubject p o s itio n s .............................. 391
+19 Some Comments on Discourse
+395
+19.1 The thematic connective.................................................... 395
+19.1.1 The form of connectives...................................... 395
+19.1.1.1 Pronominal connectives........................... 396
+19.1.1.2 Adverbial connectives.............................. 397
+19.1.2 The use o f thematic connectives........................... 397
+19.1.3 Thematic connectives and subordinate clauses . . . 402
+19.1.4 Topic decay and reestablishment.........................404
+19.2 Co-text or context ............................................................ 404
+19.3 Ellipsis and g a p p in g ......................................................... 405Appendices407ADialect Differences407BSpeculations on Diachronie Processes411CA List of Bound Adjectival Stems413DAffixes
+419
+D.l Affixes without segm en ts ................................................. 420
+D.2 Suffixes with segments.......................................................421EThe Bora Classifiers
+449
+E.l Explanation and disclaimers.............................................. 449
+E.2 Classifiers..........................................................................450FBora Kinship Terminology
+465
+F.l Husband — wife relationship............................................468
+F.2 Sibling — sibling relationship............................................469
+F.3 Parent — child relationship.............................................. 469©2012 SIL International ®CONTENTS
+F.4
+F.5
+F.6
+F.7
+F.8
+F.9x v iiGrandparent — grandchild relation sh ip.......................... 470
+Uncle/aunt — nephew/niece relationship........................470
+Brother-in-law — sister-in-law relation sh ip ..................... 471
+Parents-in-law — son-/daughter-in-law relationship . . . . 471
+Fathers-in-law — mothers-in-law relationship.................. 472
+Addessing persons not related by k in s h ip ....................... 472G Bora Texts473Bibliography531Index535©2012 SIL International ®List of Figures
+1.1Where the Bora people l i v e ..............................................","[8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]"
+"©2012 SIL International ®Chapter 10Case and Grammatical
+Relations
+Case marking suffixes indicate the role o f a noun phrase (or subordinate
+clause) with respect to the clause within which it occurs. Bora has the
+following case markers: -0 ‘nominative’ for subjects ( 10.1), -khe ~ 0 (with
+animate and inanimate phrases, respectively) ‘direct object’ ( 10.2),
+‘goal’ or ‘theme’ (10.3), -thm ‘source’ (10.4), -fi ‘inanimate obliques’ (10.5),
+-ma ‘with’ (10.6), and -$i:?è ‘motive’ (10.7). In addition to these, there are
+two “ pseudo-cases”: -?tm ‘comparative’ (10.8) and -x ‘vocative’ (10.9).
+Some of the case-marking alternatives are illustrated in 625. 625a has
+a singular transitive verb whereas 625b-d have an intransitive verb.
+(6 2 5 )a. Oke ihjyunuube.
+b. Óhditu ihjyu vaabe.
+c. Óóm a ihjyuvaabe.
+d. T a h allu rf ihjyu vaabe.a. o-khè
+I-objAn
+b. ó-?ti-(thm)
+I-anim-sou
+c. ó:-ma
+I-withi?hjm-nm-:pè
+mouth-do- (SgM)d. tha © ?a^m-ri
+my
+top-obllni?hjm-§a-:pè
+mouth-have- (SgM)©2012 SIL InteCrï&tional ®CHAPTER 10. CASE AND GRAMMATICAL RELATIONS268a. to (at) me.’ (object)
+,TT
+„
+. b. about me.’ (source)
+H etalks<!c .w ith m e.’
+(co-subject)
+d. in my favor.’ (inanimate oblique)10.1SubjectSubjects are not marked for case; that is, the nominative is unmarked. (An
+exception is discussed below.) Subjects are recognized by the absence of
+another case marker, by their position in the sentence, or by the classifier
+suffixed to the verb.
+There are three possible patterns for the subject and predicate, as rep­
+resented in 626a, b, and d:
+(626) a.","[300, 301, 302]"
+"6.2The uses of classifiersThis section surveys the various ways classifiers are used. Classifiers may
+follow finite verbs to indicate the subject (6.2.1). Aside from this case,
+what precedes the classifier modifies the classifier. This may be a simple
+adjective (6.2.2). It may be a bound noun (6.2.3) or a bound stem such as
+demonstrative, indefinite, and interrogative modifiers (6.2.4.1), numerals
+and quantifiers (6.2.4.2) or a(:)- ‘thematic’ to form connectives (6.2.4.3).
+What precedes a classifier may be a nonfinite verb which, with the clas­
+sifier, forms a derived noun, e.g., ‘doctor’ from ‘treat’ (6.2.5). Classifiers
+may head relative clauses (6.2.6) or perhaps, in the case o f -ne (0), function like a subordinator (6.2.7). What precedes the classifier may be a free
+possessive pronoun (6.2.8) or a collective or general noun, in which case
+the classifier “individuates” it (6.2.9). Classifiers may occur multiple times
+in a word (6.2.10). Classifiers may follow -e ‘pertain to’ or -eme ‘similar to’
+(6.2.11). And classifiers play a vital referential role in discourse (6.2.12).",[207]
+"7.1AppositionThe primary mechanism for combining various nominal words into a noun
+phrase is apposition, not— as in most languages— constituency.2 Patterns
+like those in 390 are frequent (and in some cases the appositive parts are
+discontinuous).
+(3 9 0 )a. NPj (© NPj (© NP;...
+b. verb-(classifier); (© NP; © NP; ...
+The classifiers play an important role in linking the various parts of a
+phrase. Consider 391 for example:
+(391)Diibye wajpi cdracddfvu ó ajcuube péjucóóhi.
+ti-:piè
+© kpaxphi © [kharakha-ti-§m
+that-(SgM)
+man
+chicken-anim-thm
+ó 0i axkhm ]-:pè;
+phé-hmkhó:-?i
+I
+give
+-(SgM) go-now-(t)
+‘The man to whom I gave the chicken left.’The first noun phrase, ti-:piè ‘that (SgM)’ is a determiner-based pronoun;
+the second, kpaxphi ‘man’ is a noun; and the third, kharakhati§m ó axkhm:pè
+‘the one (SgM) to whom I gave the chicken’ is a relative clause. kpaxphi
+2By apposition w e mean the use o f tw o or m ore referring expressions, possibly discontinu­
+ous, interpreted as having the same referent, but lacking a syntactic relationship. Apposition
+depends on an interpretive link in a w a y that constituency does not.",[224]
+"©2012 SIL International ®188CHAPTER 6. CLASSIFIERSAnother case is that o f mï-nè transport-(0) ‘canoe’. By itself, the root
+mi- does not refer to a canoe; rather, it means quite generally ‘trans­
+portation’. However, it does refer to a canoe when combined with -nè
+(0), which (1) satisfies the structural requirement for a head, and (2) de­
+notes a class o f objects, thus enabling the phrase to refer.12
+5. It might be possible to formulate an argument against the claim that
+classifiers head their phrases based on the remarkable behavior of clas­
+sifiers with numeral phrases.
+When a numeral phrase is used to quantify a noun, that noun must agree
+in animacy, gender and number. For example, consider 478, page 218.
+The phrase that means ‘six’ ends with an animate, singular, masculine
+classifier because ‘ six’ is literally ‘one from this hand’. When this phrase
+quantifies a noun (phrase), it must agree in animacy, number and gen­
+der. Thus, in ‘six dogs’— contrary to what one might expect— ‘dogs’ is
+marked as singular and masculine. See section 7.7.2 for further discussion. However, this lends further support for the claim that classifiers
+head their phrases. What matters are the features of the the numeral
+phrase and the noun, which are precisely the features of the classifiers
+with which each ends. That is, the classifiers determine the features of
+their phrase, even though these features do not reflect the semantics of
+the expression.
+To conclude this section (6.3), it should be clear that Bora classifiers
+are eminently nominal. Here we have made a stronger claim: that Bora
+classifiers are nouns. By doing so, it follows that Bora classifiers should
+share the major properties o f nouns: the types o f meanings they encode,
+the grammatical functions they may have, their distribution/use, and so
+forth. Indeed, they do except that they have a more restricted distribu­
+tion than other nouns. And this restricted distribution is due to a simple
+property: that they are bound.
+Based on the claim that Bora classifiers are nouns, it seems reasonable
+to think that what have been called “ classifiers” in Bora are not really
+such, but simply a subclass o f nouns. We will not try to resolve this issue
+here because the answer depends on whether one believes in universal
+category definitions or that ultimately each category must be defined for
+each language.","[221, 222]"
+"10.2.3Objects as cliticized classifiersWhen a clause has a preverbal subject, the direct object may occur as a
+classifier cliticized to the verb, displacing the -(0 0 ?ï (t) that normally
+follows when there is a preverbal subject.
+(654) a. Tsuuca ó majchone.
+b. Tsuuca ó fmfbajchoja.
+a. tehm:kha ó maxtfho-nè
+already I eat-(0)
+b. tehm:kha ó imipaxtfho-ha
+already I fix-(shelter)‘I have already eaten it.’
+‘I have already fixed the house.’©2012 SIL International ®10.3. -V U ‘GOAL’ OR ‘THEME’275This is only possible in contexts in which the direct object is highly topical
+(thematic), as when responding to a question about the object. Perhaps
+these are not sentences, but relative clauses (in elliptical responses). As
+such, the high tone on the first syllable o f each verb marks the clause as
+subordinate.","[308, 309]"
+"©2012 SIL International ®CHAPTER 8. PRONOUNS234However, in single word responses to questions the vowel is long, as in
+530:
+(530)a. o:-khè (O ó k e.) ‘To me.’
+b. mè:-khè (Meéke.) ‘To us (in.).’8.1.2 The use of personal pronouns
+First and second person pronouns are used to refer to the speaker(s) and
+hearer(s) as needed. Third person pronouns are used either to “point” to a
+referent in the external context or to establish coreference with another
+referring expression, usually one that has been previously established.
+This latter use o f pronouns competes with two alternatives: (1) with the
+anaphor i ‘self’, and (2) with the use of a classifier subject to refer to the
+subject. We comment briefly on these in turn.
+First, i ‘self’ is an anaphor, so must be bound within a very local domain
+(as discussed further in section 8.3) while the personal pronouns must not
+be bound within that domain. For example, consider 531, the structure
+o f which is represented in figure 8.1. The possessor in the subordinate
+clause is ti-:piè (that-(SgM)) and it is bound from outside o f the subordinate
+clause. (It could refer to the speaker’s brother or any other male other
+than the speaker himself.) If instead it were i ‘self’, as in 1157, page 439,
+it would be bound by the subject o f its clause and thus refer to “ me” rather
+than to John.4
+(531)Tan ah be oke u hbapejtsó dffbyé ja v u o péébeke.tha © p a - ?pèo* -khè m?pa-phèxtehó-?
+mysib-(SgM) I-objAn upbraid-meet-(t)
+® [ [ti-:piè
+ha
+]-§m o* phe]-:pè i -khè
+that-(SgM) house -goal I go -(SgM)-objAn
+‘ My brother bawled me out right when I arrived at his house.’
+4Note further that w hat is interpreted as a time adverbial is structurally a postpositional
+phrase in apposition to the direct object.","[267, 268]"
+"©2012 SIL International ®UTAH5.8. VALENCE-CHANGING SUFFIXES147(259) Tdjts++ménemutsf tdatsójcatsfhi.
+tha xtehi:ménè-mmtehi tha:-tehó-xkhatehi-?i
+my child-(DuM)
+cry-caus-recip-(t)
+‘ My children made each other cry.’
+On the other hand, -teho ‘causative’ after -mei ‘reflexive or passive’
+yields only the reflexive interpretation in which the subject is understood
+as making the causee do the action to himself; for example:
+(260) Oke wahdah+numeichoóbe.
+a. ‘He made me cut{b. * He made someone
+cut me ’The changes in grammatical relations can be understood as in figure 5.7:
+AG PAT CUT
+|
+|
+[ SUDO
+CUT ]
+|/
+[ SU
+CUT-R/P ]
+AG
+|ISUIDOUTAH
+REFLEXIVE/PASSIVE
+CAUSECUT-R/P-CAUSEFigure 5.7 Grammatical relations: ‘cause to cut oneself’
+Likewise, -teho ‘causative’ after -xkhatehi ‘reciprocal’ indicates that the
+subject causes the referents o f the direct object to do the action indicated
+by the verb to each other; for example:
+(261) M uhtsikye m één u jcatsich oóbe.
+mm?tehi-kjhè
+mé:nm-xkhatehi-$ho-:pè
+we(DuM)-objAn hit-recip-caus-(SgM)5.8.2‘He made us (dual)
+hit each other.’-mei ‘reflexive or passive’When -mei ‘reflexive or passive’ is attached to a transitive verb, the combination is an intransitive verb indicating that the subject (rather than some
+other object) was affected by the verb’s action. The agent of that action
+can be understood as the subject himself, that is, “ reflexively,” as in 262a,
+or as some other person, that is, “ passively,” as in 262b:
+18In exam ple 260 the causative suffix could also be -teko.","[180, 181]"
+"The use of qualifier phrases
+Qualifier phrases can be used like other noun phrases to refer to persons,
+animals, or things. They are not used to introducé a new participant; they
+are only used when the context provides a referent. With sufficiënt context
+“ one” could be the subject, as in 497:
+(497) imia-:péteha:-?i (Im + a ab é t s a a h i.) ‘One who is
+proper-(SgM) come-(t )
+good comes.’
+Or they can be the direct object:
+(498 )mitjha-nè max$hó-mè (M fty a n e m ajch óm é.) ‘They ate a lot.’
+much-(0) eat-(AnPl)
+In most languages an adjective modifies a noun by means o f con­
+stituency: [NP Adjective Noun]. However, in Bora adjectives are made
+©2012 SIL International ®7.8. ADJECTIVES225into qualifier phrases and the nouns they modify are in apposition. For
+example, consider 499 in which kpaxphi ‘man’ is in apposition to imia-:pé
+‘good one’:
+(4 9 9 ) Im +aabé w ajpi tsaahi.imia-:pé
+@ kpaxphi teha:-?i
+proper-(SgM)
+man
+come-(t)‘A good man comes.’And this is the general case: qualifier phrases “modify” by the mecha­
+nism o f apposition: QualifierP @ NP. Classifiers play the crucial roles of
+(1) heading the qualifier phrase24 and (2) linking them referentially. For
+further discussion see section 7.1.","[258, 259]"
+"6.2.4.1 Classifiers with demonstrative, indefinite, and interrogative
+modifiersClassifiers combine with (bound) demonstrative modifiers, as in 355:
+(355) a. i-?jèè
+(fhyeé) ‘this tree’
+this-(tree)
+b. i-kpaa
+(fwad) ‘this slab (bench, ta b le ,^ )’
+this-(slab)
+Classifiers combine with (bound) indefinite modifiers, as in 356:
+(356) tshi'-?'a:mi (tsfhyaam+) ‘other leaf (paper, book,...)’
+other-(leaf)
+Classifiers combine with (bound) interrogative modifiers, as in 357:
+(357 )khé-i:?jo
+(kéifhyo) ‘which pencil (pen,...)?’
+which-(stick)©2012 SIL International ®176CHAPTER 6. CLASSIFIERS6.2.4.2Classifiers with numerals and quantifiersClassifiers combine with (bound) numerals like teha- ‘one’, as in 358, and
+with (bound) quantifiers like pha- ‘all, completely’, as in 359.
+(358) a. teha-?è
+(tsahe)
+‘one (tree, bush, plant, etc.)’
+one-(tree)
+b. teha-kpa
+(tsawa)
+‘one slab (plank, machete,...)’
+one-(slab)
+c. tsha-?a:mi (tsdhaamt) ‘one (leaf, paper, book,...)’
+one-(leaf)
+(359) pha-nè
+(pane) ‘all things’
+all-(0)
+pha-kpa
+(pawa) ‘all slab-like things’
+all-(slab)
+pha-:pè
+(paabe) ‘all of him (SgM)’
+all-(SgM))
+The resulting phrase is normally used in apposition to another noun
+phrase. For example, in 360 miammnaa ‘people’ is modified by phaa:mai
+‘all like sticks in a row’:
+(360) M+amunaa juuvayf péé paaamai.
+mi ammnaa hm:§a-ji phé:-? pha-a:ma-i
+people
+path-oblln go-(t) all-(in.row)-(stick)
+‘People go on the path in a column, i.e., one behind another.’
+Deverbal classifiers (as discussed in 6.1.2) may also be used this way. For
+example, in 361 the classifier -ï§ó?o:-m is derived from the verb i§o?o- ‘lie
+face down’ by the addition of -m ‘DVC’. This is combined with pha- ‘all’ to
+form a noun phrase that is appositive to -mi, the classifier subject on the
+main verb:
+(361) Teehf uniuri fjcyamt, m++ne pa+vóhoóu.
+[thè:?i xunim ]-ri
+ixkjha-mL © [mï:-nè
+river beside -oblln be-(canoe)
+transport-(0)
+pha-ï§ó?o:-m]
+all-overturn-DVC
+‘Alongside the river there is an overturned canoe.’©2012 SIL International ®1776.2. THE USES OF CLASSIFIERS
+6.2.4.3Classifiers forming connectives with a(:)- ‘thematic’A classifier may combine with the bound, anaphoric modifier a(:)- ‘the­
+matic’ to form a sentential connective. For example, the phrases in 362
+refer to a person, animal or thing mentioned in the previous sentence. For
+further discussion see section 19.1.
+(362) a. a:-$è
+( a a lle )
+‘she’
+thm-(SgF)
+b. a:-mi
+(aam+)
+‘that canoe (boat, car,...)’
+thm-(canoe)
+c. a-?a:mi
+(a h a a m t) ‘that leaf (paper, book,...)’
+thm-(leaf)
+d. a:-?è
+(a a h e )
+‘that tree (plant,...)’
+thm-(tree)6.2.5Classifiers with nonfinite verbsA verb is made nonfinite by adding a low tone regressive to the antepenult.
+(The nonfinite low tone is indicated by N in the examples below. For
+further details about the tonal modification, see figure 4.1, page 100.) A
+nonfinite verb may be combined with a classifier to refer to an object (o f
+the type indicated by the classifier) associated with the event indicated by
+the verb.
+The examples of 329, page 165, are like agentive nominalizations. Note
+that in 329e -xthe (AnPl) is used with a nonfinite verb, whereas in 346c
+above - © ©m e (AnPl) is used (to indicate the subject) following finite
+verbs.
+In the following examples the classifier refers to an object other than
+the subject (agent) o f the nonfinite verb:
+(363) kpa:hakhm-?a:mi (w a a ja c u h d a m t) ‘book’
+knowing-(leaf)
+akhm:§è-kpa
+sitting-(slab)(acuuvewa)‘bench’kha:thmnm-i:?jo
+writing-(stick)(caatununhyo)‘pencil (pen,....)’©2012 SIL International ®178CHAPTER 6. CLASSIFIERS6.2.6Classifiers as heads of relative clausesA classifier may head a relative clause, either restrictive or nonrestrictive. The initial syllable of the relative clause’s verb bears high tone, as
+characteristic o f subordinate clauses. Examples follow:
+(364) o ajtyumt teemt fmibajchóóbeke.
+ó axtjhmmi-? [thè:-mï
+imipax$hó ]-:pè-khè
+I see-(t) that-(canoe) fix
+-(SgM)-objAn
+‘ I saw the one (SgM) who fixed the canoe (launch, car,...).’
+(365) Ó ajtyumt teemt dibye fmibajchomt.
+ó axtjhmmi-? thè:-mï
+[ti-piè
+imipax$ho 1-mi
+I see-(t)
+that-(canoe) that-(SgM) fix
+-(canoe)
+‘ I saw the canoe (launch, car,...) that he fixed.’
+(366) Ópee o ds+jcoja tsuuca nójcanuhi.
+[ó-phéè7 o teixkho ]-ha
+tehm:kha noxkhanm-?i
+I-rem I sew
+-(shelter) already deteriorate-(t)
+‘The clothes that I sewed are now deteriorated.’
+As with adjective + classifier combinations, relative clauses headed by
+a classifier may be appositive to a noun phrase, thereby modifying it; see
+example 391, page 190. For further discussion and examples see chapter
+18.","[209, 210, 211, 212]"
+"6.3.3Classifiers have the distribution typical of nounsMorphologically, classifiers are like nouns in bearing inflection for number and case; e.g., $hémè-mé-?hï-khè (be.ill-(AnPl)-pl-objAn) ‘to the sick
+people’.
+Functionally, classifiers are like nouns in that they may indicate a sentence’s subject (see 6.2.1), as illustrated with -:phe (SgM), -?e (tree) and
+-ha (shelter) in 387:
+(387) tha:po-:pè (Taaboóbe.) ‘He treats (medically).’
+ai:^iè-?è (Affvyehe.) ‘The tree is burning.’
+fmfifc'e-ha (Imffvyeja.) ‘The house (clothes,...) is finished.’
+Significantly, preverbal overt subjects do N O T co-occur with classifier
+subjects. This is because the classifier IS the subject— not simply an agreement marker.
+A subject indicated by a classifier following the verb may be followed
+by an overt subject noun phrase, but this is appositive to the classifier
+subject:
+(388) [predicate*..verb] [subject -classifieri] (( (NPj)
+Like nouns, classifiers may head relative clauses; see examples 364-366
+and discussion in section 6.2.6.
+And, like nouns, classifiers may have adpositional complements as, for
+example, English (a ) table like this one. In Bora, this is i-kpa-èmé-kpa ‘a
+slab (plank, table, machete,...) like this one’, in which -eme- ‘similar to’ is
+a postposition. Compare the structures in figure 6.4:©2012 SIL International ®186CHAPTER 6. CLASSIFIERSlike|Det
+N
+I I
+this onedetnI
+ithisI
+-kpa
+-(slab)-kpa
+-(slab)-èmé
+-simFigure 6.4 ‘A table like this one.’
+In both cases there are two noun phrases. The lower refers to the object
+of comparison while the higher refers to the object being likened to it. In
+Bora both of these noun phrases are headed by an instance of -kpa (slab).
+Finally, as discussed in section 6.3.4, classifiers play a role within noun
+phrases typical of nouns, that is, they head the noun phrase.","[219, 220]"
+"17.2.1 “Normal” conditional clauses
+“ Normal” conditional adverbial clauses are formed with -?ah$hi:(hjm) (hajchnjyu) ‘i f ’. These indicate that the event o f the main clause depends
+on that o f the subordinate clause. Sentence finally -?ax$hi:hjm (-h ajch n jyu )
+is used, as in 971, and sentence medially -?ax^hi: (-h a jc h n ) is used, as in
+972.2
+(9 7 1 )Ó p ee u im flléhajchnjyu.ó phè-é-?
+[m ïmi^é ]-?ax$hi:hjm
+I go-fut-(t) you want -if
+(9 7 2 )‘ I will go if you wish.’U imflléhajchn uuma ó peéhi.[m ïmi^é ]-?ax$hi: m:-ma
+ó phè-é-?i
+you want -if
+you-with I go-fut-(t)‘If you wish, I will
+go with you.’Embedded alternative questions are expressed using -?ah^hiihjm, as in
+973:
+2A fuller version o f 972 follows:U fmflléhajchiï uuma ó pee dfhjyavu memajchoki.
+[m
+ïm f^é j - ï a ^ T : m:-ma
+ó p1è-é-'!
+[tf
+© Wa
+]-Pm
+you w ant -if
+you-w ith I go-fu t-(t) your
+house -goal
+[mè maxf l o ]-k‘ i
+SAP eat
+-pur
+‘I f you wish, I w ill go w ith you to your house to eat.’©2012 SIL International ®CHAPTER 17. ADVERBIAL CLAUSES372(973) Tsa o waajacutu diibye tsaahajchiïjyu.
+teha? o kpa:hakhm-thm [ti-:piè
+teha: ]-?ax^hi:hjm
+not I know-neg
+that-(SgM) comes -if
+‘ I do not know whether or not he is coming.’17.2.2Counterfactual conditional clausesCounterfactual conditional clauses are formed with -kh®a (-ca) ‘if
+(contrary-to-fact)’ (CF). Their underlying assumptions are: (1) the truth of
+the main clause depends crucially3 on the truth o f the conditional clause,
+(2) the conditional clause is false, and (3) therefore the main clause is
+false.
+The verb of the main clause always bears -i ‘future’ and -ra ~ -ro ‘frus­
+trative, contraexpectation’.4 For example:
+(974) U majchoca tsuuca u ts+jpanuiyahi.
+[m maxtfho 1-kha tehm:kha m tehixphanm-i-ja-?i
+you eat
+-CF already you be.strong-fut-frs-(t)
+‘ If you had eaten, you would now be strong.’
+(975) Teene u majchótuca tsa u chéméftyuró(ne).
+[thè:-nè m max$hó-thm 1-kha
+that-(0) you eat-neg
+-CF
+teha? m $hémé-i-tjhm-ró-(nè)
+not you be.ill-fut-neg-frs-(n)
+‘If you had not eaten that, you would not have taken ill.’
+(976) lA ca iiïmütuca meke p+aabóiyóne?
+a-kha
+[i
+i:mm-thm
+1-kha
+ques-doubt self be.savory-neg -CF
+mè-khè
+phia:pó-i-jó-nè
+SAP-objAn help-fut-frs-(0)
+‘If it were not savory, would it help us?’
+Note that the order of the main and subordinate clauses is reversed in
+977:
+3This is generally a causal dependence.
+4This requirem ent— that the main verb bear both the future and the frustrative (contra­
+expectation) suffixes— negates the future possibility o f the event o f the main clause, thereby
+givin g the counterfactual meaning.","[405, 406]"
+"©2012 SIL International ®134VERB FRS
+ROOTa -raSG/MUL'- t hUIUI-röAFXVRB6-?h a k hö
+-xk hö
+-nüi
+-:J3è
+-pa
+-ü ikhiiin ü i
+-xk hatjhè-1J1UI
+RELOC*
+-ph£xtShO
+R/Ph
+CAUS -th£
+(d o .g o / CAUSs
+-m£i
+-ph£xkho:J3£
+-tsho -J3a
+-xkhatshi -tsho
+-thu ixk h£nui
+-phi
+-h£
+(recip )
+-phi:Jii£
+-$£V rblzrc
+-J3a
+-nui
+-J3e
+-tfe-xkhim£i“ The verb root may also be preceded by an incorporated instrument as described in section 4.4.
+6textscfrs frustrative, contraexpectation
+cv r b l z r verbalizer
+^SG/MUL singular or m ultiple
+eAFXVRB affixal verbhR/p reflexive or passive
+‘ r e l o c relocationFigure 5.1 The verb stemCLAUSES AND VERBS■f‘do after goin g’
+*CAUS causativeCHAPTER 5. MAIN©2012 SIL International ®NOUN
+ROOTNEG5.6. THE STRUCTURE OF THE VERB5.6135The structure of the verbVerb stems are formed from verb roots by the addition o f derivational
+affixes as indicated in figure 5.1, page 134.
+Two types of verbal words are formed from verb stems. First, nonimperative verbs are formed as indicated in figure 5.2:
+-?i
+-ne (after -thm)
+ANIM. CLS.d (-:p e ,...)
+INAN. CLS.e (-n e ,...)with a
+preverbal
+subject
+with a
+classifier
+subject“ f u t future
+6NEG negative
+CFRS frustrative, contraexpectation
+dANlM. CLS. animate classifier
+elNAN. CLS. inanimate classifierFigure 5.2 The verb (nonimperative)
+When heading an adverbial clause, verbs so formed may be followed
+by an adverbial suffix, and when heading a relative clause or nominal
+complement, they may be followed by a case marker; see figure 16.1, page
+357. In all cases clitics may follow.
+Second, imperative verbs are formed as indicated in figure 5.3.
+PERSON ïmet( ADVERBI VERB STEM I -hmx
+i
+|-khoNEG (n)
+x ' -CLITIC-ti-peFigure 5.3 The imperative verb
+There are distinct types of verbs, as discussed in section 5.7.
+Tense (locating an event relative to the time o f speaking) is discussed
+in section 5.9.
+Aspect (the nature o f the event’s unfolding in time, i.e., whether it is
+presented as occurring in an instant, as ongoing, as a persistent state,...)
+is inherent in verb stems. Verb roots are frequently followed by a “ sin­
+gle versus multiple action” suffix that— to some extent— defines the verb’s
+aspect; see section 5.7.2.
+©2012 SIL International ®CHAPTER 5. M AIN CLAUSES AND VERBS136Mood (how the hearer should take the content of the utterance relative
+to his beliefs or behavior) is indicated in various ways. Imperatives are
+discussed in chapter 14. Interrogatives are discussed in chapter 15.
+Evidentiality (i.e., the basis on which one knows the information being
+communicated) is indicated by clitics; see section 11.1.
+Verbs can be modified by adverbs, which may be verbal suffixes
+(5.12.1) or independent words (5.12.2).","[167, 168, 169, 170]"
+"6.3.4Classifiers head their phrasesIn Bora the syntax of noun phrase formation is played out intemal to the
+word. Indeed, the syntax o f noun phrases extemal to the word amounts to
+little more than apposition; see section 7.1 for further discussion.
+We claim that—with the exception of classifiers used as (post-verbal)
+subjects11— classifiers are the structural heads o f their phrases. Given that
+classifiers are nouns, what is projected from them is a noun phrase. What
+precedes (nonfinite verb, subordinate verb, demonstrative, numeral, quantifier, adjective, and such) is a modifier.
+We now present various arguments:
+1. The head o f a phrase is what gives the phrase its character. Formally, a
+head’s features are shared by the phrase projected from it. For example,
+assuming that dog is [+animate] and brown is [+color], the phrase the
+brown dog is [+animate] because its head, dog, is [ + animate]. It is
+not [+color] because brown is a modifier, not the phrase’s head. (The
+phrase very brown is [+color] because its head, brown, is [+color].)
+In Bora, kpa:hakhm ‘know’ is a verb having features like [+verbal,
++cognitive], which it shares with its nonfinite form kpa:hakhm ‘knowing’. Suppose this is combined with with -?a:mi (leaf) (paper, book,...),
+11It m ight be possible to extend the claim to these cases on an analysis that projects sen­
+tences from their inflection, but w e do not pursue that possibility here.",[220]
+"CAUSEI/VERB-CAUSE ]Figure 10.1 Grammatical relations: causatives
+For example, the subject o f 655a is ó ‘I’; when this clause is made
+causative as in 655b, the subject becomes the causee and is marked as
+a direct object:
+(6 5 5 ) a_ q ds+tnéhi.
+b. O ohffbye oke ds++netsóhi.
+a.",[309]
+"This would follow direct object on the following hierarchy o f grammat­
+ical relations:
+SUBJECT >- DIRECT OBJECT >- OBLIQUE OBJECT ^ O t h e r OBLIQUES©2012 SIL International ®CHAPTER 10. CASE AND GRAMMATICAL RELATIONS282The direct object of a causative verb would be marked with
+because
+its prior grammatical relation, direct object, is usurped by the CAUSEE; to
+have a distinct case marking it takes the next relation in the hierarchy, the
+oblique object.
+While the object o f a transitive is generally marked with
+‘thm’
+when causativized, this is not always the case. In 671 it is treated as an
+inanimate object and thus has no explicit case marking. We do not know
+why.
+(671) Inehni meke uujétsoóbe.
+i
+pÉ?ni mè-khè
+m:hé-teho-:pè
+self bad SAP-objAn see-cause-(SgM)
+‘He showed us his ugly moral character.’10.4-tu ‘source’ (ablative)This section deals with -thm (-tu) ‘source’, ‘location’, and so forth, which
+in traditional terminology might be called an “ ablative.” The discussion
+is divided into the following topics: some matters o f form (10.4.1), source
+(10.4.2), partitive (10.4.3), about or concerning (10.4.4), site of attachment (10.4.5), time after (10.4.6), and contrast (10.4.7).","[315, 316]"
+"Acknowledgments
+We would like to acknowledge the indispensible role that various people
+have played in making this grammar possible:
+The Bora people welcomed the Thiesens into their community; they
+taught the Thiesens their language; they collaborated on the preparation
+of educational material, on a translation o f the New Testament, and on the
+preparation o f a dictionary. The following individuals made particularly
+noteworthy contributions: Julia Mibeco N., Eduardo Soria P., and Zacarïas
+Mibeco.
+Throughout the years o f involvement with the Bora people, Eva Thiesen
+constantly supported the work and was an active co-worker. In particular,
+she developed the series o f reading instruction materials whereby hundreds o f Bora people learned to read.
+The support network of the Instituto Lingüistico de Verano (Summer
+Institute o f Linguistics) in Peru: the aviation, radio and computer technicians, the doctors and nurses, the school teachers, the administrators...,
+all enabled living and working over a protracted period in an otherwise
+challenging environment.
+The Ministry of Education of Peru, by granting the Summer Institute of
+Linguistics a contract, made research such as that reported here possible.
+The backbone o f financial and moral support for this effort has been
+provided by Christians who desire that the Bible be translated into “forgotten” languages, even endangered ones like Bora. Without their support
+none of this would have happened.
+Steve McConnel and members o f the “ (La)TeX for linguists” mailing
+list (at ling-tex@ifi.uio.no) provided indispensible help for formatting this
+book with TgX, KTgX and finally XjTgX.
+Thiesen called his “ tone book.” I f w e assume that there are seven tone marks per w ord (a
+conservative estimate), then the tone book has over 20,000 tone marks. A fter exhaustive
+study w e have found on ly about a h alf dozen words in which Thiesen may have made an
+error.",[26]
+"©2012 SIL International ®CHAPTER 4. WORD FORMATION124Table 4.4 Instrumental prefixes with hdaht ‘break, sever’
+tó-?ta?i-ro
+(dóhdah+ro)
+ti-?ta?i-ro
+(d+hdah+ro)
+tha-?ta?i-ro
+(tahdah+ro)
+khi-?tja?i-ro
+(kfhdyah+ro)
+phi-?ta?i-ro
+(p+hdah+ro)
+kpa-?ta?i-ro
+(wahdah+ro)‘break something into pieces with the hand’
+‘break something into pieces with the teeth’
+‘break something with the foot’
+‘sever something with a cutting tooi’
+‘sever with something like a saw’
+‘cut or sever by a series of blows
+with some tooi’©2012 SIL International ®Chapter 5Main Clauses and Verbs
+Clauses are either main or subordinate. Main clauses are described here.
+Subordinate clauses are described in chapters 16-18.
+A complete sentence has at least one main clause with a subject and
+predicate. The subject may be either a postverbal classifier or it may be
+preverbal, in which case the verb is followed by either -?i (-h i) (t) or -ne
+(-n e ) (n), as described in section 5.4. A preverbal subject may be a noun
+phrase or it may be a proclitic. The tone o f proclitic subjects is discussed
+in section 3.12.2, page 93.
+The predicate may be a verb or verb phrase, as discussed in sections 5.1,
+5.2, and chapter 14, or it may be a noun or adjective phrase, as discussed
+in section 5.3. Verb phrases are conjoined by simple juxtaposition.
+How sentences are conjoined to form discourses is explained in section
+19.1, page 395.","[157, 158, 159]"
+"VSAv Y ^ U/. * 11
+imipaxqno-ne I
+self fix-(0)
+Ib. thè:-nè 1 imipaxtfhó-nèI take-(SgM)
+that-(0) self fix-(event)
+J
+a. ‘He carried off the thing that he fixed.’
+b. ‘After having fixed it, he carried (it) off.’
+Both types of -ne are present in mèkha?khmxtehónè mèimipai^éné in figure
+16.5; this is a subordinate clause which has a subordinate adverbial clause
+within it:7 The adverbial clause bears -ne (event) while the clause in which
+it is embedded bears -ne (0). (The tone o f the proclitics is explained in
+section 3.12.2, page 93.)
+5The distinction corresponds closely to w hat Langacker calls objects and interactions; he
+writes (Langacker 1991:183):
+Conceptually, objects and interactions present a maxim al contrast, having opposite values for such properties as dom ain o f instantiation (space vs. tim e),
+essential constituent (substance vs. energy transfer), and the possibility o f
+conceptualizing one independently o f the other (autonomous vs. dependent).
+Physical objects and energetic interactions provide the respective prototypes
+for the noun and verb categories, w hich likew ise represent a polar opposition
+am ong the basic gram m atical classes.
+6The crucial syllable is the host’s penult, which must not be the initial syllable because
+for both suffixes the host’s initial syllable bears the subordination high tone.
+7This example is taken from (Thiesen et aL 1982).",[399]
+"©2012 SIL International ®5.4. END OF M AIN VERB MARKERS5.4131End of main verb markersWhen a main clause has a preverbal subject, the verb is followed by - © © ?i
+(t) (5.4.1) or - © ©ne (n) (5.4.2).85.4.1 -hi ~ -h (t)
+The morpheme - © © ? (i) (t) is suffixed to the verb o f the main clause, as
+in 229:
+(229) A vyéju u b e ihajkimuke n éé d itye ihjya nmibajchoki.
+a^iéhm-:pè i
+?axkhi-mm-khè né:-?(i) ti-tjhè
+chief-(SgM) self folk-plAn-objAn say-(t) that-(AnPl)
+ï? hja
+i
+imipax$ho-khi
+self house self fix-pur
+‘The chief told his people to fix his9 house.’
+This suffix occurs only with explicit preverbal subjects, as in 230a. It does
+not co-occur with a classifier subject, as in the first alternative in 230b:
+(230) a. ï:hm mmï§a-?i (I+ju um+va.) ‘The horse escaped.’
+horse escape-(t)
+*mmi§a-:pé-?i{I(p f ^ (t) | (Um+vaabe.) ‘He escaped.’escape-(SgM)Nor does it occur in negative clauses; such cases are discussed in the next
+section.
+The suffix - © © ? (i) (t) imposes a low tone on its host’s penult:
+(231) a. ó $e:né-?i (ó lleen éh i) ‘I eat (fruit).’
+b. ó i?§èthé-?i (ó th v e té h i) ‘I stop.’
+8A theory that entertains some notion o f m ovem ent m ight consider (t) and (n ) to be
+“ tracés” o f subjects that have been m oved to a preverbal position. This could be m otivated
+by the follo w in g distributional facts: (1 ) (t) and (n ) never co-occur w ith a classifier subject,
+presumably because they occupy the position o f classifier subjects, and (2 ) (t) and (n ) occur
+i f and on ly i f there is an overt preverbal subject (pronoun, name, or noun phrase).
+9This could also refer to “ their” house, i.e., it could be bound by the indirect object rather
+than the subject o f the higher clause. The interpretation given in 229 is preferred because
+‘house’ is singular. If, how ever, the object w ere plural, that is i ’ Wa ?apè (s e lf house various)
+‘his/their various houses’, then the favored interpretation w ou ld be ‘ their houses’ .","[164, 165]"
+"6.2.1 Classifiers indicating the subject
+Classifiers may be suffixed to a verb to indicate its subject, as in 346 with
+-©:pe (SgM), -©tfè (SgF), and - © ©m e (AnPl):
+(346) a. tha:po-:pè (T a a b o ó b e .) ‘He treats (medically).’
+b. tha:po-$è (Taabolle.) ‘ She treats (medically).’
+c. tha:pó-mè (T a a b ó m e .) ‘They treat (medically).’
+(Compare these to the nonfinite verb + classifier combinations in 329.)©2012 SIL International ®174CHAPTER 6. CLASSIFIERSInanimate classifiers may also be used as subjects as in 347-350; in
+347 and 348 the classsifer is in - © ©ne
+(347) a^é-nè (Alléne.) ‘It is raining.’
+rain-(0)
+(348) a^’é-nè
+(Avyéne.) ‘It hurts.’
+suffer.pain-(0)
+(349) ai:^iè-?è
+(Affvyehe.) ‘The tree is burning.’
+burn-(tree)
+(350) Imffvyémeya.
+fmi'-i^'é-mef-ha
+finish-sln-tf£>-(shelter)6.2.2‘The shelter (clothes,...)
+is finished.’Classifiers with adjectivesA classifier may combine with an adjective to form a noun phrase referring
+to an object o f the type denoted by the classifier. For example, consider
+the noun phrases in 351 having the adjective mitjha ‘big’:
+(351) a. mitjha-?è
+(mftyahe)
+big-(tree)
+b. mitjha-kpa (mftyawa)
+big-(slab)
+c. mitjha-?a:mi (mftyahdamt)
+big-(leaf)‘big tree’
+‘big slab (plank, table,
+machete,...)’
+‘big leaf (paper,
+book,...)’(352) phanéthmè-?a:mi (panétuehdamt)
+main-(leaf)
+(353) athéréè-kpa
+(atéréewa)
+worthless-(slab)‘main leaf (paper, book,
+letter,...)’‘worthless slab (plank,
+bench,...)’A noun phrase consisting o f an adjective and a classifier may be appositive to another noun phrase of the same class, eithera simple noun or a
+noun phrase terminated by the same classifier6 asin the secondword of
+354:
+(354) uméhewa atéréewa
+mmé-?è-kpa(© athéréè-kpa
+tree-(tree)-(slab)
+worthless-(slab)‘ a worthless
+plank’6Schematically: [^ p X -classifier]i (gi [^ p YAdj-classifier]i©2012 SIL International ®6.2. THE USES OF CLASSIFIERS175Indeed, this is one of the most significant functions o f classifiers: they are
+the main mechanism for uniting various referring expressions (determiners, modifiers, nouns) into a single phrase; see section 7.1.","[207, 208, 209]"
+"7.4.1-coba ‘augment’Suffixed to a noun phrase, -khopa (- c o b a ) ‘augment’ indicates that its refer­
+ent is large. The host’s final syllable must bear high tone to avoid violating
+the *LLX constraint; see section 3.10.
+(456) a. mmé-?é-khopa
+(u m é h é c o b a )
+‘big tree’
+tree- (tree) -aug
+b. mmé-?é-khopa-nè (u m é h é c o b a n e ) ‘big trees’
+tree- (tree) -aug-pl
+Note that -khopa directly follows and modifies the noun phrase referring
+to a type of tree. Further note that, in 456b, the pluralizer follows -khopa.
+However, -khopa may follow the pluralizer, in which case it enhances the
+plurality of the referent:9
+(457) a. mmè-?é:-né-khopa (u m e h é é n é c o b a ) ‘many trees’
+tree- (tree) -pl-aug
+b. kpaxphi:-mm-khopa (w a jp ffm ü c o b a ) ‘many men
+men-(AnPl)-aug
+(or male animals)’
+Note the alternate orders of -khopa ‘augment’ and -mm ‘plAn’ in 458
+(where the G over the vowel indicates the genitive low tone):10
+(458) a. tha mé:m-kjhopa-mm (ta m é é n ic y o b a m u ) ‘my big pigs’
+my pig-aug-plAn
+b. tha me:m-mm-khopa (ta m e e n fm u c o b a )
+my pig-plAn-aug‘my very many
+pigs’9Perhaps the structure o f 456b is [ [ [ mmé-?é ] -k1opa ] -nè] w h ile that o f 457a is
+[ [ mmè-?é: ] [ -né-k1opa ] ].
+10In 458a -kkopa ‘augment’ is not part o f the stem so the genitive tone © docks on the
+m odifier. By contrast, in 458b -mm ‘plAn’ is part o f the stem so © docks on the head’s initial
+syllable.",[240]
+"©2012 SIL International ®5.3. PREDICATE COMPLEMENTS129(220) af:ft'é-?aimi'-khm (A ffvyéh aam +cu .) ‘ (The two books)
+burn-(leaf )-duIn
+are burning.’
+(221) ai:foé-?a:mi-hi (Anvyéhaam +j+.)
+burn-(leaf )-(pl)‘(The books
+are burning.)’A preverbal subject noun phrase and a classifier subject are mutually
+exclusive, i.e., either one or the other may occur, but not both. We will
+call this the PREVERBAL SUBJECT CONSTRAINT.
+When the subject is indicated by both a classifier suffixed to the verb
+and an overt phrase, then the phrase must follow the verb and is in apposition to the classifier subject. For example, in 222 the verb is followed by
+the classifier subject and then a noun (phrase) in apposition to the classi­
+fier subject:
+(222) T sa ju co ob e oohnbye.
+teha-hmkho-:pè
+@ oiTi-ip’è
+come-now-(SgM)
+dog-(SgM)‘The dog already came.’In 223, which might initiate a text, the verb is followed by the classifier
+subject and then by a pronominal phrase and a relative clause, both of
+which are in apposition to the classifier subject:
+(223) Ijc y a a b é e tsa a p i Jóaa im yém e (jcyaabe.
+be-(SgM)-rem one-(SgM) John self name
+‘There was a man whose name was John.’be-(SgM)From a cross-linguistic perspective it is not unusual to have a postverbal
+subject in an “ existential presentative” such as 223. In Bora, aside from
+existential presentatives, an overt postverbal subject generally serves to
+clarify the identity of the subject in contexts where the classifier is not
+sufficiently specific.","[162, 163]"
+"4.3.2.1-lle ‘treat like, regard as’The suffix -(OO$G(""He) ‘treat like, regard as’ and -(OOnm ( _nu) ‘cause to
+have, do’ derive transitive verbs. With -$e (-lle) ‘regard as’, the referent of
+the direct object is compared to the referent o f the host (i.e., the noun to
+which
+is suffixed). For example, in 158 he (subject) regards me (object)
+as a child (host):
+(158) oke ts++ménélleébe.
+0-khè tehi:méné-^è-:pè
+1-objAn child-regard-(SgM)‘He considers me to be
+like a child.’17For this reason the Bora dictionary (Thiesen & Thiesen 1998) lists both singular and
+m ultiple forms for verbs.
+18These m ight be considered noun-incorporating verbs.",[143]

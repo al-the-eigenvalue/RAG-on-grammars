@@ -1,0 +1,2575 @@
+Paragraph,Page number
+"154Theoretical Analyses: Verb ExtensionsLike most contemporary syntactic theories, Dynamic Syntax is lexicalist – language
+variation resides in the lexicon – and (8.7) shows an example of this. The lexical
+actions in (8.6) reﬂect the fact that Katcha is a full pro-drop language by decorating
+the argument nodes with metavariables, represented as U and V. Metavariables are
+objects which act as placeholders for contentful Formula values. They do not constitute
+expressions in the epsilon/lambda calculi and so must be replaced by such an expression,
+this is marked formally by the requirement ?∃x.F o(x). In this way, they satisfy a type
+requirement but replace it with a formula requirement. The formula requirement does
+not have to be fulﬁlled through a linguistic source. One way it may be done is through
+Substitution, a pragmatic process in which a suitable referent is chosen from context.
+Thus (8.8) is a grammatical sentence. (In non-pro-drop languages the argument nodes
+are decorated merely with a type requirement (?T y(e)), meaning that Substitution
+is not a possibility and some lexical item is needed to provide the node with a value.)
+(8.8) abʊ
+3m.beat
+‘he hits him/her/it’
+After constructing and decorating the propositional template, the lexical actions of
+the verb leave the pointer on the external argument node as in (8.7).3 The metavariable
+on this node can be resolved by indentifying the unﬁxed node and the external argument
+node. This is done by the computational action of Unification, which allows two typeidentical nodes with compatible addresses and content to be brought together. The
+unﬁxed node has a deﬁned formula value but an underspeciﬁed tree node address, while
+the external argument node has a deﬁned position in the tree but an underspeciﬁed
+formula value. Both are type e, so they may be Unified (8.9).
+(8.9) Uniﬁcation of unﬁxed node
+?T y(t)
+F o(Kuku′ ),
+T y(e)
+?∃x.T n(x)F o(V),
+?∃x.F o(x),
+T y(e), ♢Unify3?T y(e → t)F o(U),
+?∃x.F o(x),
+T y(e)F o(λx.λy.Beat′ (x)(y)),
+T (e → (e → t))Where the pointer is left by the lexical actions of the verb is another point of language variation.
+That it is left on the external argument node reﬂects the fact that Katcha basic word order is either
+SVO or VSO.","[172, 173]"
+"1.3. Theoretical Analyses7Chapter 8 presents a Dynamic Syntax analysis of valency-reducing verb extensions.
+The diﬀerence between a transitive verb with object pro-drop on the one hand, and an
+antipassive verb on the other, is that the transitive verb projects an object metavariable
+allowing a referential argument whereas the antipassive saturates its object node with
+a context-dependent epsilon term. Such a term picks out an arbitrary witness of some
+predicate deﬁned as being dependent on the immediate context. The epsilon term
+is thus a semantic object of minimal content, whose reference is both arbitrary and
+entirely context-dependent. Heavily context-dependent objects of this kind allow a
+straightforward analysis of reduced valency constructions such as ‘Drums are beaten
+(by some arbitrary agent of drum beating)’.
+Chapter 9 outlines a Dynamic Syntax approach to prepositional phrases which
+construes them as adjuncts, constructing LINKed structure from whichever node of
+the main propositional tree they modify. The analysis is developed by applying it not
+only to prepositional phrases, but also to other relevant constructions in the Katcha
+data. Prepositional phrases which have an intersective interpretation modify a term,
+either an individual or an event. They are construed as building a LINKed propositional
+tree that provides extra information about some argument in the matrix proposition.
+As such they are similar to relative clauses, and use the same technical apparatus as
+standard DS treatments of relatives. The formal details of the process are reﬁned
+slightly in order to extend the analysis to handle the recursive locative prepositional
+phrases common in Katcha. This reﬁnement makes use only of DS tools that have
+been proposed independently for other constructions in other languages. Prepositional
+phrases which have a subsective interpretation modify predicates. They are construed
+as building a LINKed tree providing extra information about some predicate in the
+matrix proposition. The analysis is then extended to locative adverbs, construing
+them as modifying a predicate projected by the locative preposition, thus bringing
+together the analyses of the two types of modiﬁcation. Lastly, the analysis is applied
+to applicatives, arguing that these may be treated much like prepositions, the only real
+diﬀerence being that the applicative morpheme does not form a syntactic constituent
+with its complement. The chapter ﬁnishes by discussing the notion of case in the light
+of the analysis presented for prepositional phrases and it is suggested that this may
+shed light on indirect and applied objects, topicalised subjects and the form of personal
+pronouns in Katcha.
+Chapter 10 provides a Dynamic Syntax analysis of nominal modiﬁers, following
+on from the arguments advanced in chapter 5 that nominal modiﬁers are appositional
+demonstrative pronouns, or are phrases headed by them. The implementation begins
+with an analysis of Katcha nouns, noting that lexical nouns cannot be modiﬁed internally and so must project a fully speciﬁed epsilon structure, and a discussion of the
+process of LINK Apposition and its evaluation which are used to allow modiﬁcation.","[25, 26]"
+"Chapter 9Adjuncts, Prepositions and Case
+Introduction
+The purpose of this chapter is to outline a Dynamic Syntax approach to prepositional
+phrases. To date, the only serious attempt at analysing prepositional phrases within
+Dynamic Syntax is that of Marten (2002), who treats them as optional arguments of
+the main predicate. This chapter proposes an alternative which construes prepositional
+phrases as adjuncts, an approach which more closely reﬂects the observations of Lakoﬀ
+and Ross (1976) that most prepositional phrases are adverbial and situated outside the
+verb phrase. A prepositional phrase constructs semantic structure which is separate
+from the main propositional tree but connected to the node it modiﬁes by means of
+a LINK relation. The analysis is developed by applying it not only to prepositional
+phrases, but also to other relevant constructions in the Katcha data.
+Section 9.1 demonstrates how this approach applies to prepositional phrases which
+have an intersective, or adjectival, interpretation. These are prepositional phrases which
+modify a term. This term may be an individual but is more commonly an event (again,
+this is in line with the observations of Lakoﬀ and Ross (1976)). The prepositional
+phrases are construed as building a LINKed propositional tree that provides extra
+information about some argument in the matrix proposition. As such they are similar
+to relative clauses, and use the same technical apparatus as standard DS treatments
+of relatives. The formal details of the process are reﬁned slightly in section 9.2 in
+order to handle the recursive locative prepositional phrases described in section 6.4.
+This reﬁnement makes use only of DS tools that have been proposed independently for
+other constructions in other languages.
+Given that the approach adopted here is to treat prepositional phrases as adjuncts, it
+should apply equally as well to adverbs. This is taken up in section 9.3, with a discussion
+of prepositional phrases which modify predicates and which therefore have a subsective,
+or adverbial, interpretation. They are construed as building a LINKed tree providing181182Theoretical Analyses: Adjuncts, Prepositions and Caseextra information about some predicate in the matrix proposition. Section 9.4 then
+extends this to locative adverbs. These words have been described by some authors as
+postpositions, but it was argued in section 6.4 that they are in fact adverbs. Locative
+adverbs are easily dealt with under an analysis that construes them as modifying a
+predicate projected by the locative preposition, thus bringing together the analyses of
+the two types of modiﬁcation.
+The ﬁnal two sections of the chapter apply the analysis to two constructions related
+to prepositional phrases. Section 9.5 discusses applicatives, arguing that these may
+be treated much like prepositions, the only real diﬀerence being that the applicative
+morpheme does not form a syntactic constituent with its complement. Section 9.6 then
+goes on to look at case. The DS construal of case as a ﬁlter on well-formed structure is
+discussed with respect to the analysis of prepositional phrases developed here and it is
+suggested that this may shed light on indirect and applied objects, topicalised subjects
+and the form of personal pronouns in Katcha.","[198, 199, 200, 201]"
+"1.4 Overall aims
+This study is very much data-led. It does not set out with a speciﬁc hypothesis to be
+tested (other than the very general hypothesis that Dynamic Syntax may be a suitable
+framework for the analysis of phenomena found in Nilo-Saharan languages). Rather,
+the goal has been to investigate the Katcha language with an open mind, ﬁnd out what
+is interesting about it and then try to provide a Dynamic Syntax analysis for that.
+The order in which the study is presented, with the morphosyntactic descriptions
+in part II separate from the theoretical analyses in part III, reﬂects this process.
+It also serves to make the study more accessible. In order to be of beneﬁt to the
+widest possible range of readership, I have endeavoured to keep the descriptive analysis
+as general and atheoretical as possible. It is hoped that those whose interest is in
+questions of typology, the description of Nuba languages or the genetic aﬃliation of
+Kadu, but who do not have a background in Dynamic Syntax or formal semantics,
+may ﬁnd at least the ﬁrst two-thirds of the thesis to be of use and of interest. It is
+hoped that the new data presented here will add to our knowledge and understanding
+of Nuba Mountain languages. Furthermore, in describing and analysing some of the
+typologically unsual features of Katcha’s nominal system, this thesis aims to challenge
+some standard assumptions about these constructions and contribute to the debate
+about the language’s genetic aﬃliation.
+Of course, data is not described in a vacuum; the general theoretical assumptions
+held by the researcher — any researcher — frame the questions he or she asks and
+inﬂuence the descriptive analysis. Although I aim to present the morphosyntactic
+descriptions in a relatively atheoretical way, the general assumptions underlying these
+descriptions are those of Dynamic Syntax, taking incrementality and dynamic processes
+seriously. It is to be hoped that adopting such assumptions will yield insights in the
+morphosyntactic descriptions that might otherwise be missed.
+The main aim of the theoretical analyses in part III is to test the suitability of1.4. Overall aims9Dynamic Syntax to model some of the key insights of the descriptive analysis, while
+also extending and reﬁning the theory where necessary. In testing DS as a model,
+the main criterion must be the extent to which the theoretical tools provided by DS
+are suﬃcient to model the Katcha data. Where it is necessary to make adjustments
+to those tools, the aim is to improve the theory and make it better suited to real-life
+language.
+The typological and theoretical ﬁndings which result from the application of a
+theoretical framework to new language data naturally have implications for a wider
+theory of language. Some brief comments on these are made at the end of the study in
+chapter 11.","[27, 28]"
+"158Theoretical Analyses: Verb ExtensionsTaking these assumptions into account, the antipassive suﬃx can be construed as
+decorating the internal argument node with some contextually dependent epsilon term.
+In the case of sentence (8.16), this will be the term given in (8.17), leading to the logical
+form shown in (8.18):6
+(8.17) ϵx , Laugh.at′ (x)(Kuku′ )(si )
+(8.18)F o(Laugh.at′ (a)(Kuku′ )(si )), T y(t), ♢F o(si ), T y(es )F o(Laugh.at′ (a)(Kuku′ )),
+T y(es → t)F o(Kuku′ ), T y(e)F o(Laugh.at′ (a)),
+T y(e → (es → t))
+F o(a),
+T y(e)F o(Laugh.at′ ),
+T y(e → (e → (es → t)))where a = ϵx , Laugh.at′ (x)(Kuku′ )(si )
+As noted in section 8.1, an epsilon term ϵx , F (x) represents some arbitrary individual,
+x, of which the property F holds. The epsilon term in (8.17), which forms the internal
+argument of the proposition at the root node of (8.18) represents the object of Kuku’s
+laughing: some arbitrary x such that, in situation si , Kuku′ laughs at x, in other words
+‘whatever it is Kuku is laughing at in this instance’. Importantly (given the semantics
+of the antipassive discussed in section 7.2.1), this term is completely dependent on the
+immediate context of the tree in which it occurs, drawing its content from the formula
+values of the other terminal nodes in the tree.
+The lexical actions associated with the antipassive suﬃx (8.19) achieve this context
+dependence by copying formula values from elsewhere in the partial tree. This lexical
+entry states that the pointer must be at the logical subject node (that is, a type e node
+whose mother is of type es → t) and that there must be some formula σ of type es
+decorating the situation argument node and some formula ϕ of type e → (e → (es → t))
+decorating the predicate node. If these conditions are met, the pointer moves to the
+logical object node and decorates it with an epsilon term which incorporates the formula
+value of the predicate (ϕ) as its restrictor and the values of the situation argument (σ)
+and logical subject (α) as arguments:
+6In order to declutter the tree diagrams, I suppress the λ-operators and their bound variables
+when representing predicate formulae. Thus in (8.18) the formula Laugh.at′ should be taken as an
+abbreviation for λx.λy.Laugh.at′ (x)(y). Functors always appear to the right of their arguments in the
+tree, and semantic types are stated explicitly on each node, so this should not lead to any ambiguity.","[176, 177]"
+"Neither areunambiguous. To give an example, the noun phrase kadu nyeꞌdꞌde... in (7.20) appearsto be a potential candidate for the agent of kussudene. The sentence would thenmean ‘God’s wisdom is known by all who accept God’s words’. However, we cannot
+discount the possibility that this noun phrase plays a more oblique semantic role, such
+as cause. That is, ‘God’s wisdom is known because of those who accept his words’,
+with the knower(s) being an implied third party. Indeed, if the English translation and
+the Katcha translation accurately paraphrase the same proposition, the latter is the
+favoured reading.
+(7.20) ataꞌdara maogo kussudene[kaataɗara ma sɔkɔ k-ʊssʊ-t nkawisdom ofGod 3p-know-passloc people alltannoamma kata-nɔamːakakatʊnyeꞌdꞌde kungngo
+ɲeɗɗetumma tanno
+tʊmːanon.core-3p.rel accept loc words
+nokaduta-nɔk-ʊŋːɔ3p-be.present
+a
+aogosɔkɔnon.core-3p.rel instr God]no
+3p.rel
+‘God’s wisdom is shown to be true by all who accept it.’(LUKE 7:35)It seems then that the agent of a passive construction is made explicit very rarely, if at
+all. If the agent of an event is important enough to the discourse to be made explicit,
+the passive suﬃx is unlikely to be used. An analysis of discourse structure lies outwith
+the scope of this study, but given that syntactic subjects can occur after the verb as
+well as before, it is perhaps a plausible speculation that word order, rather than verbal
+morphology, is the device used to signal the relative prominence of verbal arguments.
+3
+There are in fact 202 instances of words carrying the -tene passive suﬃx, but a number of these
+are derived nominal forms, such as katalaadene, ‘disciples’ (from laala, ‘teach’, thus ‘people who are
+taught’)7.2. Valency reducing suﬃxes1357.2.3 Unaccusative (‘Impersonal Passive’)
+Although the agent of a verb marked with Passive -tené is seldom stated explicitly, it
+appears that its existence is nevertheless always implied. This contrasts with the other
+passive-like suﬃx -nca, which is described by Stevenson as ‘Stative or Neuter-Passive’
+(Stevenson 1956-57:57). It has no obvious agent and in this sense can be thought of as
+an ‘impersonal’ type of passive. Perhaps the most useful term to use to describe this
+form is ‘Unaccusative’.
+Unaccusatives are deﬁned by Perlmutter, within the framework of Relational Grammar, as containing ‘a 2-arc but no 1-arc’ (Perlmutter 1978:160). That is to say, they
+have an underlying direct object (usually the semantic Patient) which is ‘advanced’ to
+the position of subject but, unlike passives, have no Agent argument to be ‘demoted’
+to an oblique position. Expressing this in more theory-neutral terms, an Unaccusative
+verb can be deﬁned as one whose syntactic subject is its Patient/Theme argument and
+which has no Agent argument. This is exactly the situation which occurs with the
+Katcha -nca suﬃx and so ‘Unaccusative’ would seem to be an appropriate name for
+this suﬃx.
+The contrast in meaning between Passive and Unaccusative forms can be seen in
+(7.21-7.23). Stevenson (1941:113-114) suggests that ‘the general implication’ of a verb
+marked with -nca ‘is ﬁnality, or state.’ Clearly, this does not mean that a verb marked
+with -nca must carry a stative/generic meaning: whilst this does appear to be the case
+for (7.23), examples (7.21-7.22) both refer to single events. Rather, it is a question of
+how the event is viewed. In the passive (7.21a/b, 7.22a) the focus is on the event itself,
+which is seen as an action and therefore has an implied agent. In the unaccusative
+(7.21c, 7.22b) the focus is on the result of the event, which is seen as a process and
+therefore has no implied agent. In both the passive and the unaccusative, the syntactic
+subject is the semantic undergoer (i.e. the patient) of the event described by the verb.
+(7.21) a. kʊrɪ ʊnɪ-t n ́
+food 3m.cook-pass
+‘the food is being cooked’
+b. kʊrɪ ʊk-ʊnɪ-t n
+food 3m.pfv-cook-pass
+‘the food has been cooked’
+c. kʊrɪ ʊnɪ-n akʊ́ɓʊ́food 3m.cook-unacc down
+‘the food is cooked’ (=‘has become cooked’)136Morphosyntactic Descriptions: Verb Extensions(7.22) a. ɔːjɔarɔmɔ-t ngrass 3m.cut-pass
+‘the grass is being cut’
+b. ɔːjɔarɔmɔ-na-n akʊ́ɓʊ́grass 3m.cut-antip-unacc down
+‘the grass is cut’ (=‘has become cut’)
+(7.23) a. ambá m-abʊ-t n ́ kâtabeːnédrum 3f-hit-pass loc wrestling
+‘the drum is being hit for wrestling’ (currently)
+b. ambá m-abʊ-n akâtabeːnédrum 3f-hit-unacc loc wrestling
+‘the drum is hit for wrestling’ (habitually)
+The Unaccusative is frequently followed by a locative adverb5 , such as kʊ́ɓʊ́, ‘down’
+in (7.21c) and (7.22b). This does not appear to be obligatory, and never appears when
+there is some other complement of the verb (as in (7.23b)). However, where there is no
+complement, it seems to be strongly preferred.
+There is a connection between the Unaccusative and the Antipassive, which manifests in two ways. The ﬁrst is morphological. Stevenson states that the Unaccusative
+suﬃx is ‘by preference attached to intransitive verbs’ (Stevenson 1941:114). An example
+of this is shown in (7.22b). According to my data, the preference is not quite as strong
+as Stevenson’s statement suggests; indeed, his own data includes as many verbs with-nca attached to a transitive stem as to an intransitive one. Stevenson’s examples of
+verbs where -nca attaches to an Antipassive suﬃx largely concur with mine, suggesting
+that this is perhaps a lexical preference. Nonetheless, there appear to be a reasonable
+number of these, so it seems fair to say that there is at least some correlation between
+these two forms of the verb.
+The second way in which Unaccusative and Antipassive are connected is a semantic
+one, seen in (7.23b). Like the Antipassive (see example 7.16), the Unaccusative can
+be used to describe events with a general scope or of a habitual nature. Thus while
+(7.23a) describes a present event, (7.23b) describes a habitual situation.
+4
+5Tones and vowel length are uncertain for this verb form.
+See chapter 6 for a discussion of these words.","[153, 154, 155]"
+"11.3.1 Taking a dynamic approach
+In any scientiﬁc enterprise, theory and data should be in a symbiotic relationship: the
+theory should explain and make sense of the data, but the data should lead and shape
+the theory. In research like that presented in the present study, whose main aim is the
+application of a particular theoretical framework to novel data, the continual interaction
+between theory and data must be a guiding principle.
+The way in which the data acts to shape the theory is relatively obvious. Chapters
+8–10 provide Dynamic Syntax analyses of various morphosyntactic phenomena found11.3. Concluding comments257in Katcha nominals. Some of these analyses are straightforward implementations of
+Dynamic Syntax as it has previously been used in the analysis of various languages,
+but others involve adjusting or extending the framework. Such extensions have been
+noted in the course of presenting the analyses. A clear example is the discussion in
+section 10.2, which extends the analysis of demonstrative pronouns from the projection
+of a simple metavariable to a more complex set of actions projecting a partial epsilon
+term including a nominal variable and epsilon binder in addition to the metavariable.
+It was noted in that section that this construal of demonstrative pronouns entails a
+reformulation of the notion of substitution, and that this may be a challenge to the
+Dynamic Syntax formalism.
+The way in which the theory acts on the data may be less blatant, but it is
+important to make it as explicit as possible. From an epistemological point of view,
+it is not possible to look at data in a completely objective, non-theoretical manner.
+The very act of using metalinguistic notions such as ‘noun’ to describe some element
+of the language being studied implies theoretical assumptions at some level. Indeed,
+it would be impossible to discuss the data at all without engaging in such theoretical
+abstraction. The whole point of theory is to provide a systematic framework for these
+assumptions, allowing the researcher to explain and make sense of the data. As such,
+I have tried throughout this thesis to maintain an awareness of how the descriptive
+analyses presented may have been inﬂuenced by the theoretical approach adopted.
+Maintaining a balance between data and theory has been a key objective throughout.
+This objective may have been concealed somewhat by the order of presentation,
+which purports to separate out the descriptions of the data in part II from the theoretical analyses in part III. This somewhat artiﬁcial separation was made for two reasons.
+The ﬁrst is a practical one. In order to make the study accessible and of beneﬁt to
+the widest possible range of readership, I have endeavoured to keep the descriptive
+analysis as general and atheoretical as possible. It is hoped that those whose interest
+is in questions of typology, the description of Nuba languages or the genetic aﬃliation
+of Kadu, but who do not have a background in Dynamic Syntax or formal semantics,
+may ﬁnd at least the ﬁrst two-thirds of the thesis to be of use and of interest.
+The second reason for separating the presentation of the data from the theory is
+that it reﬂects the fact that this research has been data-led. As noted at the beginning
+of this chapter, the goal of this research project was not to test a speciﬁc hypothesis, but
+to investigate the Katcha language with an open mind, ﬁnd out what was interesting
+about it and then try to provide a Dynamic Syntax anlaysis for that. In this way,
+separating the presentation of the descriptive analyses and theoretical analyses in this
+study reﬂects the nature of the process as a whole.
+The descriptive analyses in chapters 4–7 are thus presented with little or no explicit
+reference to Dynamic Syntax.","[275, 276]"
+"Semantically singularSemantically pluralformforms-éːɗéaɲ-éːɗés-ɔːrɔ́ns-eːraaɲ-ɔːrɔ́aɲ-eːraGloss
+water pot
+grain basket
+fenceThere are two comments to make concerning these nouns. The ﬁrst is that both sand aɲ- are rare morphemes. Neither occur with any nouns other than those given in(4.10). Most notably, there are no (non-replacive) singulative nouns which take s- as
+the singulative preﬁx, and no (non-replacive) plurative nouns which take aɲ- as theirplurative preﬁx. As discussed below, this is unusual.
+Secondly, it would seem likely the s- and aɲ- preﬁxes are indeed in the process ofdisappearing from the language. Besides Stevenson’s comment that plural aɲ- is being
+replaced by nV-, (4.10c) may be an indication that singulative s- is also disappearingand being replaced by ns-. Of course, this is speculation based on only one lexical item,
+but it is certainly plausible.
+Replacive marking using existing plurative/singulative preﬁxes
+In the vast majority of cases, Katcha nouns with replacive number-marking use some
+combination of the plurative and singulative aﬃxes seen in sections 4.1.1 and 4.1.2. The
+list in (4.11) gives some examples of replacive nouns. (This list is ordered by plurative
+preﬁx.)46Morphosyntactic Descriptions: Number and Gender(4.11)
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+i.
+j.
+k.
+l.
+m.","[64, 65]"
+"9.5 Applicatives
+Prototypical applicatives are valency increasing devices, which potentially constitutes
+a challenge to Dynamic Syntax. DS takes a strictly monotonic incremental approach to
+parsing. If the verb root and the applicative suﬃx are separate parsable morphemes,
+they must be processed in linear order. This would entail parsing the verb root ﬁrst,
+following the associated lexical actions and building a propositional structure with
+either one or two argument nodes (for intransitive and transitive verbs respectively).
+The question of how the applicative morpheme could then add an additional argument
+node is non-trivial.
+With this in mind, it is interesting to note that in chapter 7 applicative verb forms
+were described as possibly being more lexicalised than other verb extensions. Whereas
+the majority of verb extensions, with the possible exception of antipassive, appear
+to be phonologically discrete morphemes which may be suﬃxed to any semantically
+appropriate verb, the applicative has a number of forms, the choice of which is lexically
+driven. Moreover, unlike most verb extensions, some forms of the applicative harmonise
+with the vowels of the root suggesting a closer ‘connection’ between the root and the
+aﬃx. Following Kaye’s (1989; 1995) hypothesis that the main purpose of phonological
+phenomena is to facilitate parsing, these facts might be taken as evidence that the
+applicative suﬃx is not stored as a separate lexical entry, but that applicative verb
+forms are stored in the lexicon as a unit.
+If this is so, it is straightforward to deﬁne a lexical entry (9.32) for an applicative
+verb such as mʊnɪtá in (9.31) which constructs a partial tree with three argument nodes
+as in (9.33).
+(9.31) akkám-ʊnɪ-tákʊ́rɪ akʊ́kkʊ̂woman 3f-make-appl food dat Kuku
+‘The woman is cooking food for Kuku’204Theoretical Analyses: Adjuncts, Prepositions and Case(9.32)
+IF?T y(t))THENmake(⟨↓1 ⟩), go(⟨↓1 ⟩),
+put(?T y(es → t))
+make(⟨↓1 ⟩), go(⟨↓1 ⟩),
+put(?T y(e → (es → t)))
+make(⟨↓1 ⟩), go(⟨↓1 ⟩),
+put(?T y(e → (e → (es → t))))mʊnɪtámake(⟨↓1 ⟩), go(⟨↓1 ⟩),
+put(F o(cook′ ), T y(e → (e → (e → (es → t)))))
+go(⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(?T y(e))
+go(⟨↑0 ⟩, ⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(F o(V), T y(e))
+go(⟨↑0 ⟩, ⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(F o(U), T y(e))
+go(⟨↑0 ⟩, ⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(F o(si ), T y(es ))
+ELSEAbort(9.33)
+?T y(t)
+F o(si ), ♢
+T y(es )?T y(es → t)F o(U),
+T y(e)?T y(e → (es → t))F o(V),
+T y(e)?T y(e → (e → (es → t)))?T y(e)F o(cook′ ),
+T y(e → (e → (e → (es → t))))A couple of comments can be made about this approach. The extra, dative argument
+appears to be obligatory, that is, pro-drop is not permitted for indirect objects.6 The
+verb therefore decorates the indirect object node with a requirement for a formula
+of type e rather than with a metavariable. Also, if a lexical analysis is the correct
+approach, it implies that the dative a in this case is simply a case marker of the noun,
+marking the fact that it decorates the lowest argument node (the indirect object) of
+6I have not found any examples of an applicative verb with an implied indirect object, and given that
+the purpose of the applicative is to license an extra argument, it would be surprising if this argument
+was minor enough to be silent.","[222, 223]"
+"4.3 Number marking and gender
+It was demonstrated in section 4.2 that nominal agreement in Katcha is based on three
+gender classes and that semantic number is not relevant to agreement. However, this
+is only half the story. The nouns presented in (4.12)-(4.21), some semantically singular
+and some semantically plural, and the uncountable nouns presented in (4.22) are all
+morphologically unmarked for number. In such cases there is no apparent correlation
+between number and gender; the gender of any given noun is indeed insensitive to
+its number. However, when a noun carries morphological number marking, whether
+singulative or plurative, the number-marking aﬃx determines its gender. This can be
+demonstrated by looking at the gender properties of the nouns given in section 4.1
+above. The data are presented in this section in the same groupings as in section 4.1,
+i.e. by number aﬃx, and their gender class is noted. The gender of each noun was
+established by checking the gender agreement markers (as noted in table 4.1) present
+on possessors (such as those given in (4.12-4.21)), on demonstratives (4.23), or on verbs
+(4.24).
+(4.23) a. a a n-asáːsá[ɲɔrɔɲɔrɔ́ já]1sg 1sg-want k.o.spear prox.m
+‘I want this spear’
+b. a a n-iːtini[mʊrʊ mɔ́]1sg 1/2sg-see rabbit prox.f
+‘I see this rabbit’
+c. a a n-asáːsá[kânʈánɔ́1sg 1sg-want k.o.spear prox.n
+‘I want this spear’]52Morphosyntactic Descriptions: Number and Gender(4.24) a. miːte ∅-akʊ́ ɔ́ːjɔ́
+ox3m-eat grass‘The ox is eating grass’
+b. kɪbém-akʊ́ ɔ́ːjɔ́she.goat 3f-eat grass
+‘The goat is eating grass’
+c. kɪbɪ-ɪnɪ ́k-akʊ́ ɔ́ːjɔ́she.goat-pl 3n-eat grass
+‘The goats are eating grass’
+Ordering nouns by number aﬃx in this way will demonstrate that for nouns with
+a number-marking aﬃx, gender classiﬁcation is a property of the aﬃx and not the
+root. In each of the following data lists (4.25-4.33) the gender of the marked form is
+consistent for each aﬃx. This has the further consequence that the gender of a noun
+in the plural may diﬀer from that used in the singular, in fact, this is usually the case.","[70, 71]"
+"176Theoretical Analyses: Verb Extensions(8.46) Compiling logical object
+?T y(t)F o(a),
+T y(e)?T y(e → t)F o(ϵz , Shatter′ (z)(a)),
+T y(e), ♢
+F o(Shatter′ (z)(a)),
+T y(t)F o(Shatter′ ),
+T y(e → (e → t))F o(λP (ϵ, P )),
+T y(t → e)F o(Shatter′ (z)),
+T y(e → t)F o(a),
+T y(e)F o(z),
+T y(e)F o(Shatter′ ),
+T y(e → (e → t))where a = ϵy , Shatter′ (ϵx , Stones′ (x))(y)
+The propositional tree can now be evaluated, leading to the root node being decorated with the propositional formula in (8.47). This represents a proposition that a
+shattered b where a is some arbitrary shatterer of stones and b is some arbitrary thing
+shattered by a.
+Shatter′ (b)(a)(8.47)
+wherea = ϵy , Shatter′ (ϵx , Stones′ (x))(y)
+b = ϵz , Shatter′ (z)(a))(8.47) represents a proposition that a shattered b where a is any arbitrary stone
+shatterer and b is any arbitrary shatteree. In other words, this represents an event of
+shattering where neither the agent nor the patient are speciﬁed. This is exactly what
+might be expected from a verb carrying both antipassive and unaccusative morphology,
+but it does not appear to capture the fact that it was stones which shattered in the
+situation being described. In fact, this is only an apparent problem. Epsilon terms
+carry inherent existential force, meaning that the situation described in (8.47) involves
+not only a shatterer and a shatteree, but also stones. This is most clearly seen when the
+formula in (8.47) is translated into a formula of standard predicate logic. Algorithmic8.5. Middle Voice177rules for this conversion (‘Q-Evaluation Rules’) are deﬁned in Kempson et al. (2001:241243). Applying them to (8.47) results in (8.48).
+(8.48) ∃x∃y∃z[Stones′ (x) ∧ Shatter′ (x)(y) ∧ Shatter′ (z)(y) ∧ Shatter′ (z)(y)]
+The proposition in (8.48) is true just in case there are stones which shattered, while
+the agent of the shattering is unspeciﬁed. From a truth conditional point of view, this
+interpretation is exactly the same as the interpretation of the unaccusative. Given the
+similarities between the middle voice and the unaccusative noted in table 8.1 and in
+section 7.2.4, this is a welcome result. It is notable that the treating the verb as having
+both an unaccusative and an antipassive morpheme still results in an unaccusative
+interpretation. As may be clear from the derivation just outlined, this is because the
+unaccusative suﬃx precedes the antipassive and is processed ﬁrst. It is therefore the
+unaccusative which determines the tree position of the term projected by the sentential
+subject (step (8.43) above). The incremental nature of the parsing process is therefore
+crucial in providing the correct interpretation.11
+The Dynamic Syntax construal of terms as having internal complexity is also key
+to this explanation. The unaccusative suﬃx expresses the external argument of the
+predicate (some arbitrary shatterer), while the antipassive suﬃx expresses the internal
+argument of the predicate (some arbitrary shatteree). If the terms projected by these
+morphemes did not have internal structure, there would be no room for a lexical argument in addition (i.e. the syntactic subject stones). But because terms are construed
+as epsilon terms, it is possible for the term ϵx , Stones′ (x) to be incorporated into the
+term projected by the unaccusative morpheme, and ultimately to surface in the ﬁnal
+propositional formula as ∃x[Stones′ (x)]. The internal structure of arguments essentially
+allows the three argument-projecting morphemes to instantiate two argument roles, and
+to do so quite naturally.
+The truth conditional interpretation of (8.48) is entirely expressed by the ﬁrst two
+conjuncts. The third and fourth conjuncts are superﬂuous from a semantic point of
+view. But as noted above, Stevenson (1941:112) claims that the antipassive suﬃxes
+‘sometimes intensify the meaning of the parent verb.’ Stevenson’s presentation of the
+data on this matter is somewhat opaque and not entirely convincing. Nevertheless, it
+is notable that adding the antipassive suﬃx to an unaccusative verb causes the ﬁnal
+11
+In section 7.2.5 it was noted that for some verbs, the unaccusative suﬃx appears to attach to the
+antipassive, rather than to the transitive verb stem (7.22b). This causes a problem for the current
+analysis. Parsing the two morphemes in order would result in the inverse of the analysis just described
+for middle voice; such verbs would be expected to have an antipassive interpretation. In fact, their
+interpretation is unaccusative with the apparent antipassive morpheme seeming to make no semantic
+contribution. It is not clear how these data might be integrated into the analysis as it currently stands,
+other than it was noted in section 7.2.5 that there is some evidence that verbs with the antipassive are
+(or may be becoming) more lexicalised than other VE forms. It may be that some of these ‘antipassive’
+verbs are better treated as genuinely intransitive verbs.","[194, 195, 196]"
+"138Morphosyntactic Descriptions: Verb ExtensionsKemmer’s and Payne’s deﬁnitions of middle voice are not exactly the same as one
+another but taken together they seem to describe the Katcha data. In Katcha, verbs
+marked with -ncaːna express the notion that the subject is both ‘initiator’ and ‘endpoint’ to the extent that, in the draft Katcha New Testament, <njaana> is sometimes
+written as a separate word and glossed as ‘one another’. However, the verb appears to
+express a single event with a single participant, with the subject an aﬀected participant
+rather than an agent. Examples are given in (7.24-7.26).6
+(7.24) a
+atumma no
+tumːasubj wordstanyalanjaananɔkuꞌbu kat-aɲala-n a na kʊɓʊ kaꞌbuugu koona nyeꞌdꞌde
+ɓʊːkʊdem.3p inf-spread-mid down loc placekɔːna ɲeɗːe
+across allkungngo
+kʊŋːɔ
+thus
+‘News of this spread through all that region.’
+(7.25) a
+atenꞌdima at-enɗɪma lasubj sg-clothes of(MATT 9.26)ma ogo tadhösönjaanama sɔkɔ t-aʈoso-n a ana kʊɓʊ karoom ofGod inf-break-mid‘the curtain of the temple tore in two’
+(7.26) a
+aneekïsïtr tneːk-isi t-uːrutukuꞌbu kakasannanjaanasöödö
+soːtodown loc middle
+(LUKE 23.45)kuꞌbuk-asanːa-n a na kʊɓʊsubj pl-stone inf-collapse 3p-disperse-mid down
+‘the rocks split apart’(MATT 27.51)Middle Voice is syntactically detransitivising; it takes no syntactic object and the
+syntactic subject (whilst arguably also the the agent-like argument) has a clear patientlike status. Thus the verb asanːa, glossed as ‘disperse’ in (7.26), is elsewhere usedtransitively to mean ‘spray’ (eg. m-asanːa kɔnʈɔ ‘3f-spray perfume’). Likewise in
+(7.27), which is the active equivalent of (7.24), it can be seen that the morphologically
+simple verb aɲala is transitive, taking an overt object tʊmːa ‘words/news’. In (7.24),where aɲalancaːna carries the Middle Voice suﬃx, there is no syntactic object andtʊmːa has become the syntactic subject.","[156, 157]"
+"In other words the dative casesimply marks nouns which are neither the subject nor the object of their clause. In
+terms of modal tree logic, the logical subject node may be deﬁned as ⟨↑0 ⟩⟨↑1 ⟩T y(t)
+and the logical object node may be deﬁned as ⟨↑0 ⟩⟨↑1 ⟩⟨↑1 ⟩T y(t). The lexical actions
+of the a case marker therefore involve decorating the node under development withrequirements that neither of these two descriptions hold at that node. However, this
+characterisation precludes (9.43a), where the dative noun decorates the open ?T y(e)
+node in an applicative construction. To incorporate this possibility, dative a requires
+a disjoint lexical entry with a disjunct making reference to the fact that an applicative
+has been parsed (9.44).10
+(9.44) Lexical entry for dative a
+IF
+?T y(e)
+THEN
+a
+ELSEIF⟨↑0 ⟩⟨↓1 ⟩F o(ben′ ), T y(e → (es → t)THENput(?T y(e))ELSEput(?¬⟨↑0 ⟩⟨↑1 ⟩T y(t), ?¬⟨↑0 ⟩⟨↑1 ⟩⟨↑1 ⟩T y(t))AbortWhen the pointer is on an open term node, the actions in (9.44) check whether
+it is an applied argument (that is, whether the current node is an argument of the
+ben ′ predicate projected by the applicative morpheme). If so, no action need be taken
+and parsing may proceed. To allow this formally a ‘dummy action’ is carried out
+duplicating the type requirement which already decorates the node and thus adding no
+further information to the tree. If the node under development is not the argument
+of such a predicate, the actions decorate the node with modal requirements expressing
+the fact that the current node cannot be either the logical subject (?¬⟨↑0 ⟩⟨↑1 ⟩T y(t)) or
+the logical object (?¬⟨↑0 ⟩⟨↑1 ⟩⟨↑1 ⟩T y(t)).
+The lexical entry in (9.44) illustrates two diﬀerent ways in which context dependence
+may be formalised. The actions of the second disjunct reﬂect the usual DS construal
+of case, deﬁning the context in which the formula value of the node must ultimately
+be interpreted (in this case the fact that it cannot be subject or object). These actions
+10This is not an issue if applicative verbs are in fact lexicalised. In that case the structure in (9.43b)
+is the relevant one for applicative verbs as well as ditransitive verbs, and the lexical entry (9.44) does
+not need the disjunction.",[233]
+"2.4. Fieldwork and other data sources212.4 Fieldwork and other data sources
+The current study is based on data from the sources discussed above, but also original
+data collected through ﬁeldwork in Khartoum between November 2012 and May 2013.
+During this time I worked with two members of the Katcha community in Khartoum.
+Both were male, aged in their forties and speakers of the Tuna dialect of Katcha. Both
+men were born and grew up in the language area, speaking Katcha as their mother
+tongue and in most childhood contexts, though being educated in Arabic from the age
+of eight. However both had moved to Khartoum at relatively young ages and had lived
+in Khartoum for many years (24 years in one case, 36 years in the other). Within
+Khartoum both are active within the expatriate Katcha community and continue to
+speak Katcha at home and socially. One of the men works as a mechanic and therefore
+speaks Arabic at work, but the other is employed as a mother tongue literacy worker
+within the Katcha community and therefore teaches, reads and writes Katcha as well
+as speaking it most of the time. In addition to Katcha, both men are ﬂuent in Sudanese
+Arabic and have a reasonable level of English.
+My contact with Katcha speakers was largely limited to formal language sessions
+with my two main contacts. The community were wary of foreigners coming to their
+neighbourhood due to security concerns, so language sessions were conducted at my
+house and I did not get much contact with the wider community. Once a week, I sat in
+on a translation checking session with the Katcha Bible translation team (a further two
+native speakers) and a translation consultant, though those sessions were conducted in
+English.
+Language sessions, which happened once or twice per week, were a mixture of controlled elicitation and text elicitation. In order to make the most of potentially limited
+ﬁeldwork time, my controlled elicitation concentrated on morphosyntactic features of
+the language, eg. agreement paradigms, rather than collecting vocabulary.
+The data presented in this study is representative of the morphosyntactic data
+collected during ﬁeldwork. Audio recordings were made of the majority of it. A list
+of about 130 nouns in both singular and plural forms was also collected. In addition,
+three oral texts were recorded, transcribed and analysed using Fieldworks Language
+Explorer (FLEx) to create a small database of lexical and functional morphemes.
+A further resource is the text of the draft Katcha New Testament. The translation
+group have kindly granted me online reader access to their unpublished draft. The
+draft is currently under revision, which means it has a tendency to change, and it is
+translated material so may not necessarily always be in traditional Katcha cultural or
+literary style, but it nonetheless represents a substantial corpus of textual data and
+has proven a very helpful source of syntactic examples. An associated resource is the
+list of verbs found in the text which is maintined by the translation consultant. This22Preliminaries: Backgroundcurrently lists approximately 470 verbs.
+It should be noted that of these various sources of Katcha data, the vast majority
+are written only. In particular the two largest sources, Stevenson’s (1941) grammar and
+the draft Katcha New Testament are written with no tone and with some inconsistency
+with regard to the balance between phonetic detail and morphophonemic consistency.
+(More details are given on these matters in chapter 3.) Throughout this thesis I have
+therefore tried to use my own data where possible and use examples from the Bible or
+Stevenson’s data only sparingly, or to provide extra discussion for speciﬁc hypotheses.","[39, 40, 41]"
+"6.1.1 Pronoun Set 1 - ‘Core’ pronouns
+The primary function of the ﬁrst set of pronouns is to express the core arguments of a
+sentence: the subject and the direct object (i.e. argument roles S, A and P). For this
+reason, this set may be referred to as the Core pronouns. However as will be seen in
+section 6.2, these forms also appear with certain prepositions, so they do also express
+some peripheral arguments.
+There are eight forms of the core pronouns, listed in (6.1). The 1st and 2nd person
+pronouns distinguish singular and plural, while in the case of 1st person plural there is
+a further distinction according to the inclusion or exclusion of the addressee. There are
+three 3rd person pronouns, distinguishing grammatical gender (Masculine, Feminine
+and Plural gender).
+(6.1) ‘Core’ personal pronouns (tone not marked)
+1sga a1pl.excl
+1pl.inclʊŋːɔaŋːa2sgɔ ɔ2plaːka3mɪ ɪ3peːke3fɔːkɔThe forms given in (6.1) are the citation forms. In everyday use, however, they are
+often subject to shortening and/or lenition. The presence of the glottal stop in the 1sg,
+2sg and 3m forms is notable as these are the only words in which the glottal stop is
+attested as a consonant of the language. However, in non-emphatic contexts the glottal
+stop is frequently dropped and the pronouns realised as /aː/, /ɔː/ and /ɪː/ (or even
+shortened to /a/, etc). Similarly (though less frequently), the 2pl and 3p forms may
+be realised as /a:/ or /e:/.1
+The pronominal forms in (6.1) are listed without reference to tone. The tone pattern
+of core pronouns varies and it appears that this variation may be due to the pronoun’s
+function in the sentence. That is, pronouns seem to be marked tonally for case. Where
+the pronoun is the subject of its clause, it has a Low-Low melody, as in the second
+clause of (6.2); where the pronoun is not the subject of its clause, it is more likely to
+1I have no record of an equivalent lenition aﬀecting the 3f form, but this may simply be because
+this pronoun occurs much less frequently in my data.",[115]
+"In the case of arelative clause, this allows any verb to construct and decorate the restrictor node freely.
+However, the value of the logical subject is already ﬁxed, it is necessarily identiﬁed with
+the head noun. Thus a verb can only decorate the restrictor node directly when its
+subject is identiﬁed with the modiﬁed noun; only subjects can be relativised directly.
+In this, Katcha obeys the generalisations of Keenan and Comrie’s (1977) Accessibility
+Hierarchy, which states that subjects are more easily accessible to relativisation than
+other NP positions, that positions on the hierarchy lower than subject may require to
+be relativised using constructions other than the language’s ‘primary Relative Clauseforming strategy’, and that the alternative strategies are more likely to include the
+use of resumptive pronouns. Interestingly, while Keenan and Comrie (1977) suggest a10.4. Non-subject Relative Clauses247psychological motivation for the hierarchy, the analysis of demonstratives given here
+predicts (at least some aspects of) this observation from a formal, syntactic perspective.
+As noted above, the ﬁnal analysis of non-subject relatives is likely to rest on the
+analysis of the dependent clause marker, ka. Furthermore, any such analysis will
+have to take into consideration the fact that the verb of the relative clause cannot
+decorate the predicate/restrictor node directly. One possible approach is hinted at
+by the connection between relative clauses and possessive noun phrases, mentioned in
+section 10.3. It was noted there that possessives may be considered a type of relative,
+but the inverse may also be considered to be true. Indeed, the morphological similarity
+between the Katcha possessive construction and the non-subject relative construction
+is quite noticable, to the extent that Stevenson (1956-57:64) states that for the nonsubject relative, ‘a genitive construction (with genitive particle or possessive pronoun)
+is used’. It was suggested in chapter 5 that given the non-ﬁnite nature of non-subject
+relatives, and given their appositional nature, an appropriate paraphrase of the noun
+phrase in sentences such as (10.29) is to use constructions along the lines of ‘the hen
+of Kuku’s seeing her.’ This is a reasonable position to adopt reﬂecting as it does the
+morphological link between the ‘possessive particle’ and the ‘relativiser’, as well as
+reﬂecting the non-ﬁnite nature of the verb.
+One possible strategy for the analysis of non-subject relatives, then, might be to
+see the non-ﬁnite clause as a nominalisation. The entire clause would then provide an
+argument for the predicate represented in section 10.3 as P OSSD. If the predicate is
+merely a ‘relation whose value is constructed from some contextually provided value’
+(Kempson et al. 2001:145), it may be too restrictive to think of it as possession. In that
+case, there is no reason why the relation should not hold between the referent of the
+head noun and some more abstract entity, such as an event of seeing. Such an approach
+would lead to a ﬁnal epsilon-structure along the lines of that sketched in (10.31), where
+the internal structure of ϵx , Hen′ (x) is suppressed, SEEING′ is shorthand for some event
+of Kuku seeing some object, and P OSSD is the relation that holds between this event
+and x.","[265, 266]"
+"11.2.1 Verb extensions
+Katcha verbs are inherently transitive. If it is semantically plausible for a verb to be
+transitive, this is always the basic form. Katcha verb extensions decrease valency; their
+function is to license the absence of a syntactic argument. Most of these VEs decrease
+semantic valency in addition to syntactic valency, presenting the event described by the
+verb as having only one participant (though this is not the case for the passive). Katcha
+has a complete paradigm of valency decreasing verb extensions, allowing originally254Theoretical Analyses: Conclusionstransitive verbs to have either one or two arguments and for the subject to be either
+agent or patient.
+Verb extensions were analysed in chapter 8, making use of the Dynamic Syntax
+construal of terms as expressions of the epsilon calculus. The inherent internal structure
+of epsilon terms allows a straightforward way to incorporate context dependence into
+the account. An epsilon term represents an arbitrary witness of some predicate and
+we can straightforwardly deﬁne this predicate as being dependent on the immediate
+context. Thus it is straightforward to deﬁne structures such as ‘Kuku is laughing (at
+whatever it is that Kuku is laughing at in this instance)’ or ‘Drums are beaten (by
+whatever it is that beats drums)’.
+In terms of the Katcha data, the approach outlined here allows us to neatly capture
+the diﬀerence between (for example) an antipassive verb and a transitive verb with no
+overt object. A transitive verb decorates its logical object node with a metavariable: a
+term whose content is underspeciﬁed and requires subsequent update. In the case of
+a transitive verb without an overt object, this update will come from context. In the
+case of the antipassive, the update comes from the suﬃx, which supplies a contextually
+deﬁned epsilon term. The same is true for the other suﬃxes which reduce semantic
+valency, unaccusative and middle voice. Although the denotational content of the
+epsilon term is minimal, it decorates the object node and so prevents it from being
+instantiated from context by something with more substantive content. Thus ‘Kuku
+is laughing’ is semantically diﬀerent to ‘Kuku is laughing at something’, despite the
+same inherently transitive verb and an equally indeterminate ‘object’ being used in
+both cases. This analysis might be extendable to languages without morphological
+antipassives such as for detransitivized verbs in English; there are clear semantic
+diﬀerences between ‘Everyone was reading’ and ‘Everyone was reading something’.
+The analysis given here for Katcha construes a ‘missing’ argument as being represented
+by an arbitrary semantic object with properties dependent on context. It is quite
+straightforward to deﬁne lexical actions which specify the properties of the restrictor
+and thereby use this formalism to model highly context-dependent semantic objects.","[272, 273]"
+"166Theoretical Analyses: Verb Extensionslexical actions from their active counterparts (and therefore necessitate an additional
+lexical entry for each verb):
+(8.30) Lexical entry for passive verb ʊnɪtené
+IF
+?T y(t)
+THENmake(⟨↓0 ⟩), go(⟨↓0 ⟩), put(F o(V), ?∃x.F o(x), T y(e))
+go(⟨↑0 ⟩), make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(?T y(e → t)),ʊnɪtenémake(⟨↓1 ⟩), go(⟨↓1 ⟩), put(F o(Cook′ ), T y(e → (e → t))),
+go(⟨↑1 ⟩), make(⟨↓0 ⟩),
+go(⟨↓0 ⟩), put(F o(U), ?∃x.F o(x), T y(e)),
+ELSEabortThe second approach is to assume that the verb is parsed as normal and then the
+passive suﬃx is parsed separately. The suﬃx then simply has the eﬀect of moving the
+pointer from the external argument node to the internal argument node (8.31):
+(8.31) Lexical entry for passive suﬃx -tené
+IF
+T y(e), ?∃x.F o(x), ⟨↑0 ⟩?T y(es → t)
+-tené THEN go(⟨↑0 ⟩⟨↓1 ⟩⟨↓0 ⟩)
+ELSEabortAt this stage there is no clear reason not to assume the latter, compositional approach.
+In this case the lexical actions associated with the passive suﬃx (8.31) check that
+the pointer is on the logical subject node (⟨↑0 ⟩?T y(es → t)) and that it still requires
+a formula value (?∃x.F o(x)). The latter condition prevents a successful parse of the
+passive suﬃx where the logical subject node has already been decorated by the preverbal
+syntactic subject. In other words, a verb marked with a passive suﬃx is incompatible
+with the syntactic subject being interpreted as agent. If these conditions are met, the
+lexical actions simply move the pointer on to the logical object node, and then the
+parse proceeds as for transitive verbs. Thus in parsing (8.29), the subject and verb
+are parsed, giving the tree in (8.32).9 The passive suﬃx is then parsed and its actions
+move the pointer to the logical object node, where the metavariable may be resolved
+by uniﬁcation with the unﬁxed node, as in (8.33).
+The internal structure of the term projected by the syntactic subject, ϵx , Food′ (x)), is not relevant,
+so it is suppressed for clarity. As usual lambda operators and their variables are also suppressed.
+98.3. Passive167(8.32) Parsing subject and verb (kʊrɪ ʊnɪ)
+?T y(t)
+F o(ϵx , Food′ (x)),
+T y(e), ?∃x.T n(x)F o(si ),
+T y(es )?T y(es → t)
+F o(V),
+?∃x.F o(x),
+T y(e), ♢?T y(e → (es → t))
+F o(U),
+F o(Cook′ ),
+?∃x.F o(x),
+T y(e → (e → (es → t)))
+T y(e)(8.33) Parsing passive suﬃx, then application of Unify
+?T y(t)
+F o(ϵx , Food′ (x)),
+T y(e), ?∃x.T n(x)F o(si ),
+T y(es )Unify?T y(es → t)
+F o(V),
+?∃x.F o(x),
+T y(e)?T y(e → (es → t))
+F o(U),
+F o(Cook′ ),
+?∃x.F o(x),
+T y(e → (e → (es → t)))
+T y(e), ♢Having fulﬁlled all requirements on the internal argument node the tree can be
+compiled in the usual manner. The external argument node is unaﬀected by the passive:
+it remains decorated by a metavariable and a formula requirement. An appropriate
+referent for the agent therefore has to be found, substituted from context if there is no
+suitable linguistic referent. This characterisation of the passive therefore ensures that
+there is always a referential argument reading for the agent, i.e. that there is always
+a semantic agent, even if this is only implied. Once the agent node is decorated with
+an appropriate agent the ﬁnal logical form is as in (8.34), which is of course truthconditionally equivalent to its active counterpart.","[184, 185, 186]"
+"Only subjects can be directly relativised in Katcha. There is no subject agreement
+marker on the verb in a relative clause, being replaced by the relative marker. Verb
+stems always begin with a vowel, and the vowel of the (ﬁrst) relative marker in subject
+relatives elides. At the end of the relative clause is the marker já/mɔ́/nɔ́. Both relative
+markers display agreement with the gender of the head noun (5.18):
+(5.18) a. miːte [j-akʊ́
+oxɔ́ːjɔ́já] amaːlarel.m-eat grass rel.m 3m.be.brown‘The ox which is eating grass is brown’5.3. Relative Clauses
+b. kɪbe73
+ɔ́ːjɔ́[m-akʊ́mɔ́] m-amaːlashe.goat rel.f-eat grass rel.f 3f-be.brown
+‘The goat which is eating grass is brown’
+c. kɪbɪ-ɪnɪ ́ɔ́ːjɔ́[n-akʊ́nɔ́] k-ak-amaːlashe.goat-pl rel.p-eat grass rel.p 3p-pl-be.brown
+‘The goats which are eating grass are brown’
+Non-subject relatives are formed in a similar, but slightly diﬀerent, way. As with
+subject relatives, the subordinate clause is enclosed by relative markers which show
+agreement with the head noun. However, the internal structure of the relative clause
+is diﬀerent: a non-ﬁnite verb is used, being marked by the dependent clause marker ka
+(and sometimes the inﬁnitive marker t-). A resumptive pronoun is also common; this
+does not occur in the case of subject relatives. (5.19a-c) give examples of direct objects
+being relativised for masculine, feminine and plural gender nouns respectively. (5.20)
+demonstrates the relativisation of an indirect object and (5.21) gives an example of an
+oblique argument being relativised. Note that in these examples the word following the
+(intial) relative marker, the subject of the relative clause, begins with a consonant and
+the relative marker is consequently realised as [já/má/ná], rather than the [j-/m-/n-]
+seen in the subject relative examples.
+(5.19) a. miːte [já
+oxkʊ́kkû kaɪcɪ ́ ɪ ́ ɪ ́ já] akʊ́ɔ́ːjɔ́rel.m Kuku dcm see 3m rel.m 3m.eat grass‘The ox which Kuku sees is eating grass’
+b. kɔːkɔ́rɔ́ [má
+henkʊ́kkû kaɪcɪ ́ ɔ́ːkɔ́ mɔ́rel.f Kuku dcm see 3f] m-ɔʈɔ́merekérel.f 3f-peck sesame‘The hen which Kuku sees is eating sesame’
+c. kanʈá[nákʊ́kkû kaɪcɪ ́ éːké nɔ́k.o.spear rel.p Kuku dcm see 3p] k-ɔ́ʈɔŋkɔrɔrel.p 3p-be.long‘The spear which Kuku sees is long’
+(5.20) ti ́tô [jákʊ́kkû kaanáŋá kanʈáTito rel.m Kuku dcm giveɪ-ɪnɪ ́já] ɔkɔrɔːɓɔ́k.o.spear dat.3m rel.m 3m.angry‘Tito, who Kuku gives the spear to, is angry’
+(5.21) a a n-ɪcɪ ́ráːká [já1sg 1sg-see ﬁeldfi ́ːjɔ kat-akʊ́rɪ kɪtejárel.m cow dcm inf-eat there rel.m‘I see the ﬁeld in which the cow is eating’]74Morphosyntactic Descriptions: Nominal Modiﬁers
+Where the subject of the relative clause is a personal pronoun the oblique formof the pronoun is used. All pronouns begin with vowels; the vowel of the relative
+marker assimilates to the vowel of the pronoun and the relative marker cliticises to
+the pronoun. (5.22a-c) give examples of object relatives beginning with a pronoun
+(for masculine, feminine and plural gender nouns respectively), while (5.23) gives an
+example of an oblique relative clause beginning with a pronoun.
+(5.22) a. miːte [j -́ t́ ́
+oxkaɪcɪ ́ ɪ ́ ɪ ́ jáakʊ́ɔ́ːjɔ́rel.m-1sg dcm see 3m rel.m 3m.eat grass‘The ox which I see is eating grass’
+b. kɔːkɔ́rɔ́ [m -́ t́ ́
+henkaɪcɪ ́ ɔ́ːkɔ́ mɔ́rel.f-1sg dcm see 3f] m-ɔʈɔ́merekérel.f 3f-peck sesame‘The hen which I see is eating sesame’
+c. kanʈá[n -́ t́ ́ɪcɪ ́éːké nɔ́ ] k-ɔ́ʈɔŋkɔrɔ-be.longk.o.spear rel.p-1sg dcm see 3p rel.p
+‘The spear which I see is long’
+(5.23) tɪŋkéré [n -́ t́ ́
+bedkaáfʊ́ŋːɔ́ kɪ ́té nɔ́rel.p-1sg dcm sleep] k-ɪ ́ɓɔ́tɔ̂ɓɔtɔthere rel.p 3p-be.soft‘The bed on which I sleep is soft’
+(5.24)ogo mafakaɔːkɔm-afa3f3f-keep loc wordsmangngakatumma [tanno
+tʊmːa
+nomaaŋːaof1pl.incl rel.pta-nɔoono ka
+ɔnɔobl-rel.p 3fkatatirna akafaafat-atɪrna akafaːfadcm inf-tell dat fathers]nɔ‘He has kept the promise he made to our fathers’(LUKE 1.54)5.3.1 Relative clauses modifying Peripheral Arguments
+When the noun modiﬁed by a relative clause is not a core argument of the main verb,
+this is once again marked by the addition of t- before the clause-initial relative marker.
+This is true for both subject relatives (5.25) and non-subject relatives (5.26).
+(5.25)anam-anaꞌbangnga ma kadu
+ɓaŋːa3f-have mercyma katʊ
+of[tanno
+ta-nairiꞌba oonoɪrɪɓa a-ɔnɔpeople obl-rel.p fear‘He has mercy on those who fear Him.’no]nɔdat-3f rel.p
+(LUKE 1.50)5.3. Relative Clauses
+(5.26) Kussu75aaka tammakak-ʊssʊ aːka t-amːakalingko [tanno
+lɪŋkɔp-know 2pl inf-accept loc work
+takalingkonot-ak-alɪŋkɔkafaafa ma aaka kata-nakafaafa ma aːka kaobl-rel.p fathers of2pl dcm]nɔinf-past-do rel.p
+‘You admit you approve of what your ancestors did’(LUKE 11.48)5.3.2 Relative markers as Pronouns
+Relative clauses may occur without an overt head noun, in which case the relative
+marker can be considered to have a pronominal reading.
+(5.27) a
+ayaadïnï atene kajaatini -tene kaïmmï kateene ya
+imːikateːne jasubj rel.m- plant -pass loc thorns insiderel.m‘The ones which fell among thorns.’(MAT 13.22)5.3.3 Adjectives
+In Katcha adjectives do not form a separate grammatical category, but are a type of
+verb. There is some evidence of a slight morphological distinction between adjectival
+verbs and more prototypical verbs (an additional morpheme marking semantic plural
+in the case of adjectives), but with regard to agreement, adjectives show normal verbal
+morphology and behave in the same way as any other intransitve verb.
+When used predicatively as in (5.28-5.30b), adjectives take the usual verbal subject
+agreement preﬁxes (cf 5.28-5.30a).
+(5.28) a. miːte
+ox-akʊ́ɔ́ːjɔ́3m-eat grass‘The ox is eating grass’
+b. miːte
+ox-ama:la
+3m-be.brown‘The ox is brown’76Morphosyntactic Descriptions: Nominal Modiﬁers(5.29) a. kɪbém-akʊ́ ɔ́ːjɔ́she.goat 3f-eat grass
+‘The goat is eating grass’
+b. kɪbém-ama:lashe.goat 3f-be.brown
+‘The goat is brown’
+(5.30) a. kɪbɪ-ɪnɪ ́k-akʊ́ ɔ́ːjɔ́she.goat-pl 3p-eat grass
+‘The goats are eating grass’
+b. kɪbɪ-ɪnɪ ́k-ak-amá:lashe.goat-pl 3p-pl-be.brown
+‘The goats are brown’
+When used attributively, adjectives occur in a (subject) relative clause, as would
+any other intransitive verb:
+(5.31) ɲɔrɔɲɔrɔ́ [j-ɔ́ʈɔ́ŋkɔrɔjá] amaːlak.o.spear rel.m-be.long rel.m 3m.be.brown
+‘The long spear is brown’
+(5.32) tɔlɔ[m-áɗaŋkʊ́ɲʊ mɔ́] m-amaːlagourd rel.f-empty rel.f 3f.be.brown
+‘The empty gourd is brown’
+(5.33) kanʈá[n-ɔ́ʈɔ́ŋkɔrɔnɔ́] k-amaːlak.o.spear rel.p-be.long rel.p 3p-be.brown
+‘The long spear is brown’
+As with any other subject relative clause, when the modiﬁed noun is not a core
+argument of the verb, this is marked by the addition of t- before the clause-initial
+relative marker:
+(5.34) a a n-afʊ́ŋŋɔ́ kátɪŋkéré [tá-n-áɓɔ́tɔ̂ɓɔtɔ1sg 1sg-sleep loc bed
+‘I sleep on a soft bed’nɔ́obl-rel.p-be.soft rel.p]5.4. A uniﬁed analysis for nominal modiﬁers775.4 A uniﬁed analysis for nominal modiﬁers
+Assuming attributive adjectives to be relative clauses, there are three kinds of nominal
+modiﬁers in Katcha: demonstratives, possessive noun phrases and relative clauses.
+These are indicated by the presence of the morphemes listed in table 5.2. Aside from
+the medial and distal demonstratives, these three types of nominal modiﬁers are clearly
+all related. All three are introduced by similar morphemes showing agreement with the
+head noun. It is worth considering the nature of this relation in more detail and in
+particular, the question of whether the proximal demonstrative, the possessive marker
+and the relative marker are all the same morpheme and, if so, how this chould be
+characterised.
+Stevenson (1941) takes a conservative descriptive line, taking the common element
+to be just the j-/m-/n- gender agreement preﬁxes, which then attach to diﬀerent
+morphemes. Thus, in his view, these gender preﬁxes may attach to the demonstrative
+stem -a/-ɔ (Stevenson 1941:58), to the ‘genitive particle’ -a (Stevenson 1941:47) and‘possessive pronouns’ eːte, etc. (Stevenson 1941:48), and to verbs (Stevenson 1941:68).
+Although Stevenson does not explicitly state it as such, this approach essentially
+analyses the j-/m-/n- preﬁxes as a general marker of nominal modiﬁers. However,whilst it seems correct to a large extent, such an analysis does not go far enough in
+that it does not incorporate the medial and demonstrative pronouns, which agree in
+gender with the head noun, yet do not carry these preﬁxes. This fact is signiﬁcant for
+the hypothesis that j-/m-/n- are preﬁxes which mark modiﬁcation generally, because
+whilst the existence of a ‘general modiﬁcation’ marker does not preclude the existence
+of other constructions, it is surprising to ﬁnd that the possessives and relatives pattern
+with the proximal demonstrative, while the medial and distal demonstratives do not.
+The remainder of this chapter proposes an alternative analysis which uniﬁes the account
+of the three types of nominal modiﬁer, ﬁts the overall patterns of Katcha morphosyntax,
+and accounts for the medial and distal demonstratives. The proposed analysis is that
+all nominal modiﬁers in Katcha are headed by an initial demonstrative pronoun.
+Table 5.2: Nominal modiﬁers in Katcha — List
+Demonstratives
+Prox. Med. Dist.
+Masculine
+Feminine
+Pluraljá
+mɔ́
+nɔ́ékê
+ɔkɔ̂
+ékêi ́nːi ̂
+umːû
+i ́nːi ̂Possessive
+Marker
+já
+má
+náRelative Marker
+clause-initial clause-ﬁnal
+já
+má
+nájá
+mɔ́
+nɔ́78Morphosyntactic Descriptions: Nominal Modiﬁers5.4.1 The unity of nominal modiﬁers — Phonological evidence
+There is evidence to suggest that the já/má/ná found with possessors and at thebeginning of relative clauses is a phonologically conditioned allomorph of the já/mɔ́/nɔ́
+found in demonstrative noun phrases and at the end of relative clauses.
+There are notable phonetic diﬀerences between já/má/ná and já/mɔ́/nɔ́.","[91, 92, 93, 94, 95, 96, 97]"
+"PART III
+Theoretical Analyses147Chapter 8Verb Extensions
+Introduction
+In chapter 7, it was noted that the majority of verb extensions in Katcha are detransitivising and that these valency-reducing VEs can be classiﬁed according to two features,
+namely the thematic role played by the syntactic subject and the number of arguments
+expressed. This classiﬁcation is summarised in table 7.1, repeated here as table 8.1.
+Verb FormSuﬃxActive
+Antipassive
+Passive
+Unaccusative
+Middle Voiceunmarked
+-VnV,-VkV
+-tené
+-nca
+-ncaːnaSubject
+argumentNon-Subject
+argumentA
+A
+P
+P
+PP
+—
+A
+—
+—(Achievement)
+(Process)Table 8.1: Valency-reducing verb extensions and their argument rolesThe distinction between active and antipassive, and between passive and unaccusative/middle voice, is an important one. Katcha is pro-drop, so any semantic
+argument may be phonologically unrealised. However, the active (unmarked) form
+and the passive form of the verb each take two semantic arguments. Note that while
+passive may be deﬁned as reducing the verb’s syntactic valency by demoting the agent to
+the status of a (usually implied) oblique argument, the semantic valency is unchanged:
+there exists both an agent and a patient, even if the agent is only there by implication.
+This contrasts with the other forms, the antipassive, unaccusative and middle voice,
+each of which take only one semantic argument.
+Valency reduction is something of a challenge for standard formal semantics.1 A
+1Proponents of ’radical dissociation’ do not have this problem, but Dynamic Syntax takes a classical149150Theoretical Analyses: Verb Extensionstransitive verb expresses a relation, which by deﬁnition requires two arguments, raising
+the question of how a proposition with a ‘missing’ argument should be modelled. One
+approach is to allow the ‘missing’ argument role to be taken by some object of minimal
+semantic content, an object whose reference is both arbitrary and entirely contextdependent. Thus the agent of some unaccusative verb V in a given situation s is simply
+‘the V er in s’. An unaccusative sentence like ‘Drums are beaten’ can be thought of
+informally as meaning ‘Drums are beaten (by the agent of drum-beating)’ or ‘Drums are
+beaten (by whatever it is that beats drums)’. This contrasts with passive verbs, which
+have two semantic arguments, even if the agent happens to be phonologically unrealised.
+A passive sentence like ‘Drums are being beaten’ can thought of informally as ‘Drums
+are being beaten (by him/her/it)’ or ‘Drums are being beaten (by someone/something)’.
+This chapter presents a Dynamic Syntax analysis of such constructions. Section
+8.1 introduces the DS formalism and illustrates its use in a straightforward Katcha
+sentence with an active, transitive verb. Section 8.2 introduces the concept of epsilon
+terms. Dynamic Syntax construes all terms as terms of the epsilon calculus, and this
+provides a straightforward way to model the kind of term described in the previous
+paragraph . An epsilon term picks out an arbitrary witness of some predicate and this
+predicate can be easily deﬁned as being dependent on the immediate context. Thus
+the epsilon calculus allows us to deﬁne, with relative ease, structures such as ‘Kuku is
+laughing (at some arbitrary object of Kuku’s laughter)’ or ‘Drums are beaten (by some
+arbitrary agent of drum beating)’ and section 8.2 presents an analysis of antipassive
+verbs in Katcha in these terms. It is argued that the lexical actions associated with the
+antipassive suﬃx build a context-dependent epsilon structure at the logical object node.
+Section 8.3 discusses passives, the implementation of which is very straightforward: it
+is simply a case of moving the pointer to ensure that the sentential subject decorates
+the logical object node. This analysis highlights the fact that the passive has a more
+referential interpretation for the agent, in contrast with the arbitrary interpretations
+of the ‘missing’ arguments of the antipassive, unaccusative and middle voice. Section
+8.4 discusses unaccusative, the analysis of which is straightforward, following directly
+from the discussion in the previous two sections. Section 8.5 is slightly more speculative,
+considering what the analysis of middle voice might look like if it were to be treated as a
+sequence of unaccusative, followed by antipassive. Somewhat remarkably, under such an
+analysis, middle voice turns out to be truth conditionally equivalent to unaccusative but
+to carry extra information which might be interpreted as adding intensity, as suggested
+by Stevenson (cf section 7.2.5).
+view of predicate-argument relations.","[165, 166, 167, 168, 169]"
+"10.2. Subject Relatives233In (10.15′ ), the pointer is at the root node of the LINKed partial tree. However,
+there is an oustanding ?T y(t) requirement at its argument daughter which must be
+fulﬁlled. As noted above, one way of fulﬁlling this requirement is by Substitution
+of the metavariable with an epsilon-term and abduction of the necessary structure
+from that. However, all rules in DS are optional and in the case of the relative clause
+Substitution does not apply; the pointer is therefore compelled to move to the node
+with the unfulﬁlled requirement. With the pointer now at the ?T y(t) node, the verb of
+the relative clause can be parsed in the usual way, followed by the object noun. It is
+instructive to note that in a subject relative clause, the verb does not carry the subject
+agreement marker which is obligatory in other ﬁnite environments. This is reﬂected
+in the analysis given here, where the subject node has already been decorated by the
+demonstrative pronoun. A full DS analysis of Katcha verbs falls outwith the scope of
+the current study, but it is plausible to suppose that the obligatory subject agreement
+marker in a ﬁnite clause may be an ‘incorporated pronoun’ which decorates the logical
+subject node and that the verb projects the predicate and (where appropriate) object
+nodes. In the case of a relative clause an alternative pronoun, the demonstrative,
+decorates the subject node. Parsing the verb and object of the relative clause then
+gives the tree in (10.20).","[251, 252]"
+"9.7 Conclusion
+The basic proposal advanced in this chapter is that prepositional phrases should be
+treated as adjuncts. A prepositional phrase speciﬁes an additional property of some
+expression of the matrix proposition. In other words, it provides a predicate which
+takes such an expression as one of its arguments. That expression may be a term (an
+individual or event) in the case of an adjectival PP, or a predicate in the case of an
+adverbial PP. In Dynamic Syntax terms, prepositions induce structure which is LINKed
+to the matrix propositional tree and which shares semantic content with some node in
+the matrix tree.
+The approach to prepositional phrases proposed here treats adjectival prepositions
+somewhat diﬀerently to adverbial prepositions. Adjectival PPs are of type e → t while
+adverbial prepositions are of type (e → t) → (e → t). This distinction, of course,
+is reﬂective of the semantics. An adjectival PP has an intersective interpretation; it
+predicates over some term of the matrix proposition to express an additional proposition
+concerning that term. An adverbial PP has a subsective interpretation; it predicates
+over some predicate of the matrix proposition to express an additional property of that
+predicate. Nonetheless, both are prepositional phrases and it should be expected that
+they will behave in largely parallel ways. And in fact they do. Despite the diﬀerent
+semantic types, all prepositions project a predicate that expresses some relation between
+their complement and the expression that they modify. This relation is not part of
+the core structure of the matrix proposition, but rather semantically enriches some
+expression within it. This can be modelled quite naturally as a separate structure
+connected to the modiﬁed expression by means of a LINK.
+The construal of prepositional phrases as LINKed structures, and prepositions as9.7. Conclusion217predicates, explicitly categorises them as modiﬁers. There are therefore substantial
+parallels to be seen between prepositional phrases and other modiﬁers. The distinction
+between intersective and subsective PPs, for example, parallels the same distinction
+seen in the semantics of adjectives. Indeed, Cann (In prep.) suggests an analysis for
+English adjectives which directly parallels the one given here: intersective adjectives
+induce LINKed structure from the internal variable of an epsilon term (ie. a T y(e)
+node), while subsective adjectives induce LINKed structure from the restrictor of an
+epsilon term (i.e. a T y(e → t) node). Similarly, the treatment of prepositional phrases
+oﬀered here draws explicit parallels between (adjectival) prepositional phrases and
+relative clauses. Both prepositional phrases and relative clauses project propositions
+which share an argument with the matrix proposition. It is therefore not surprising
+that they should use the same basic technical apparatus. The diﬀerence between them
+is that relatives include an anaphoric device (either a relative pronoun or a resumptive
+pronoun), which introduces the shared argument into their sub-proposition. Like bare
+relatives in English, prepositional phrases contain no such anaphoric device so the
+shared argument must be introduced by the LINK-COPY Introduction rule.
+Sections 9.5 and 9.6 demonstrated that this analysis is also relevant to constructions
+other than prepositional phrases, and both applications have potential theoretical
+implications. In section 9.5 it was argued that applicatives can be treated in just
+the same way as prepositions, a stance which gains support from the fact that in many
+languages the two constructions are related by both a semantic equivalence and by
+a history of grammaticalization. The diﬀerence between the two constructions is one
+of constituency: the complement of a preposition immediately follows it, whereas the
+applied object (which is construed as the complement of the applicative morpheme)
+does not necessarily follow immediately after the applicative marker. To state that
+applicatives and adpositions are essentially equivalent is therefore something of a
+challenge to the importance of the notion of constituency, which is central to most
+theories of syntax.
+It was noted in several places, both in chapter 6 and in the present chapter, that
+case markers and adpositions represent two ends of a continuum and that there is
+no great diﬀerence between them. However, in discussing the diﬀerences between the
+Dynamic Syntax construal of case and the account of adpositions given here, section 9.6
+laid out what appears to be a quite clear distinction between them. Case is considered
+to be a ﬁlter on well-formed structure, specifying where a particular node may be
+situated in a tree, but providing no semantic content. On the other hand, adpositions
+induce a LINKed sub-tree, building semantic structure and contributing the Formula
+value of its predicate. The account oﬀered here can therefore be argued to draw a
+substantive theoretical distinction between case and adpositions; the two are quite
+diﬀerent within the DS framework. This apparently goes against the general view that218Theoretical Analyses: Adjuncts, Prepositions and Casecase and adpositions are actually very similar. However, ‘similar’ is not the same
+as ‘identical’. Payne oﬀers a ‘rule of thumb’ for distinguishing case markers from
+adpositions which he suggests ‘probably works 90 percent of the time.’ This is the
+notion that case marking is imposed by the structure within which the noun phrase
+occurs, while adpositions may occur freely. By this deﬁnition, case may be ‘determined
+by the grammatical requirements of the verb (or other case-governing element)… Adpositional phrases are usually (though not always) “optional” sentence constituents’
+(Payne 1997:100-101). The discussion of case and adpositions in section 9.6 might be
+thought of as something close to a DS-theoretic characterisation of this ‘rule of thumb’.
+With case, the propositional structure and semantic content is projected by the ‘verb
+(or other case-governing element)’; case markers simply decorate this structure with
+requirements to ensure the correct interpretation of the noun phrase. Adpositions on
+the other hand are ‘ “optional” sentence constituents’ because they construct a tree
+structure and decorate it with semantic content; moreover, the structure they project
+is an adjunct, a LINKed sub-tree. The two deﬁnitions of the diﬀerence between case
+and adpositions have a slightly diﬀerent focus though and so they are not quite the
+same. Payne’s ‘rule of thumb’ focuses on the obligatoriness of case compared with
+the optionality of adpositional constructions; the Dynamic Syntax account oﬀered here
+suggests that the diﬀerence is semantic: case morphemes are semantically null and build
+no structure, while adpositions contribute semantic content and also induce semantic
+structure. The observation that adpositions tend to be more optional is a reﬂection
+of the fact that, as modifying adjuncts, the structure they build is outside the main
+propositional tree.
+The application of Dynamic Syntax to Katcha prepositional phrases uses only
+standard DS rules which have been motivated in other contexts for other constructions
+in other languages. Nonetheless, applying these rules to the Katcha data considered
+here has implications for our understanding of applicatives and case, as well as for our
+understanding of prepositional phrases. The key insight oﬀered here is that prepositional phrases are predicates expressing additional information about some element of
+the core proposition of an utterance.","[235, 236, 237]"
+"7.4 Reciprocal and Reﬂexive
+In (7.7), repeated here as (7.36), -ceːné is given as a possible Reciprocal suﬃx.
+(7.36) a. kʊ́kkʊ́ ɪcɪ ́ɓɪ ́ːɓáláKuku 3m.wake boy
+‘Kuku wakes the boy’
+b. laːlá ɪcɪ-n ́boys 3m.wake-recip
+‘the children wake each other’
+Given the pattern that exists in Katcha of verb extensions marking information about
+the arguments of the verb, it is natural to suppose that the Reciprocal marker should be
+considered to belong to this group of suﬃxes. However, there is also evidence that casts
+doubt on this analysis, suggesting that the Reciprocal marker should not be considered
+a suﬃx which changes the verb’s argument structure, but a pronominal element which
+is the object of the verb.10 There are two pieces of evidence which might support the
+latter view.
+The ﬁrst comes from the form of the morpheme: it seems clear that the Reciprocal
+marker is derived from either the Accompaniment preposition nca or the verb cɔ ‘go’
+(which may be used to indicate directionality; see section 6.3.1), plus the 3rd person
+plural pronoun ené. Thus it is literally ‘with/to them’. Of course the fact that the
+Reciprocal marker looks like a pronoun does not prove that it is synchronically a
+pronoun, rather than historically derived from one, but it may be.
+The second piece of evidence comes from the fact that Katcha reﬂexives (which are,
+of course, conceptually very similar to reciprocals) are not expressed using a verbal
+suﬃx, but using an idiomatic possessed noun phrase, sometimes using ɔ́ːna, ‘body’, as
+10It is not one of the goals of this study to develop a theory of wordhood in Katcha. I have no strong
+opinions on whether -ceːné should be considered a suﬃx, clitic or word. However, if it could be shown
+that -ceːné should be analysed as a separate word, that would rule out the possibility of it being a verb
+extension.",[163]
+"Theformer generally have a shorter, more neutral vowel, which is often subject to vowel
+elision and harmony, both of which are very common general processes in Katcha.
+The tone of this vowel appears to be high but these morphemes are frequently run
+together with the following word (often eliding the vowel) such that it can be hard
+to establish tone accurately. The vowel also has a tendency to harmonise to some
+degree with the following vowel. So although generally written as <ya ma na>,
+pronunciation may vary according to the vowel that follows (eg. [jɪ ́ mɪ ́ nɪ ]́ or [jɔ́ mɔ́nɔ́]). The vowel harmony is not always as complete as in some other contexts (the vowel
+harmony between noun stem and number preﬁx, for example), presumably due to the
+word boundary: /má kʊ́kkʊ̂/ does often sound closer to [m ́ gʊ́kʊ̂] than to [mʊ́gʊ́kʊ̂] or[mɔ́gʊ́kʊ̂]. It can be diﬃcult to distinguish the exact vowel quality though, because the
+vowel is often very short or, as noted above, elided altogether in the case of a following
+vowel. This is in marked contrast with the já/mɔ́/nɔ́ morphemes which have slightly
+longer, more pronounced vowels. They are much less prone to elision before a vowel
+and carry an exceptionally high tone.
+Signiﬁcantly, the syntactic distribution of these forms is complementary within the
+noun phrase: já/má/ná (possessive marker and clause-initial relative marker) occurs atthe beginning of a nominal modiﬁer; já/mɔ́/nɔ́ (demonstrative and clause-ﬁnal relative
+marker) occurs only at the end. There is a strong argument therefore that the phonetic
+diﬀerences are to do with phrasal intonation. The já/mɔ́/nɔ́ marker occurs at the end
+of the noun phrase; importantly, it generally occurs before a pause. This, combined
+with the extra-high tone, serves to give it a notable emphasis. In the case of the
+demonstratives, there is naturally something contrastive about their semantics, and it
+would seem to be this that is reﬂected in the intonation. Relative clauses are generally
+parenthetical; again the intonation seems to reﬂect this with a higher than usual tone on
+the clause-ﬁnal relative marker and a pause before continuing with the matrix clause. In
+contrast, the já/má/ná marker occurs at the beginning of the modiﬁer and consequently
+does not carry the same contrastive or parenthetical intonation. It behaves like most
+short non-lexical Katcha words (eg. prepositions): undergoing vowel harmony, elision,
+etc.
+Evidence that the diﬀerence between já/má/ná and já/mɔ́/nɔ́ is primarily intona-tional can be seen in example (5.35), where the demonstrative morpheme nɔ́ occurs at
+the end of a left-dislocated object noun phrase a tʊ́mːá nɔ́, ‘these words’:5.4. A uniﬁed analysis for nominal modiﬁers
+(5.35) atʊ́mːá nɔ́a a n-asáːsa79t-atɪrna áːkátop words dem.p 1sg 1sg-want inf-tell 2pl
+‘I want to tell you these words’(TEACH:1.48)In this case, there is no contrastive intonation or pause and the vowel of the demonstrative is elided before the pronoun: [adʊ́mːánáː]. Thus this is an example of demonstrativenɔ́ being realised as n- before a vowel, exactly as the possessive/relative markers ná
+would be, apparently due to the intonational properties of its position in the sentence.
+Note that (5.35) is not an example of a relative marker: the subject pronoun is in
+the wrong case (nominative rather than oblique), the verb is ﬁnite and there is no
+corresponding clause-ﬁnal relative marker. All of these indicate that this sentence is
+made up of a single main clause (in addition to the fact that there is no other candidate
+for a matrix verb in this sentence). The analysis of this noun phrase as a left-dislocated
+demonstrative phrase also concurs with the translation provided by Katcha speakers
+and the spelling suggested by them (<no> rather than <na>).
+Some additional evidence that já/má/ná and já/mɔ́/nɔ́ are allomorphs comes from
+the spelling conventions used in literature written by Katcha speakers (in particular,
+the draft Katcha New Testament). When possessive and clause-inital relative markers
+(já/má/ná) occur with the oblique argument marker t- they are consistently written as
+<tiya tamo tano>3 even when preceding a vowel. When these markers occur without
+the t- and precede a vowel, they are consistently written as a preﬁx <y-/m-/n->.
+When they occur without the t- but precede a consonant, they are generally written
+as <ya/ma/na>. Thus the same morpheme may be spelled three ways according to
+context. Signiﬁcantly, spellings with <-o> and spellings with <-a> are both used
+in diﬀerent contexts for what is clearly the same morpheme, despite the fact that
+this spelling alternation does not reﬂect the phonetic realisation. Spelling habits
+should certainly not be taken as conclusive (it may simply be that certain spellings
+are becoming conventionalised in the vernacular literature), but they may be extra
+evidence that Katcha speakers do not distinguish between these morphemes.
+3
+The team also sometimes write <tammo> and <tanno>, but I am not convinced the consonant is
+long.","[97, 98]"
+"5.6 Conclusion
+There are, phonetically, ﬁve sets of morphemes marking nominal modiﬁers in Katcha,
+namely j-/m-/n-, já/má/ná, já/mɔ́/nɔ́, ékê/ɔkɔ̂ and i ́nːi ̂/umːû. These serve various
+functions, marking proximal, medial and distal demonstratives, possessives, subject
+relative clauses and non-subject relative clauses. As implied by table 5.2, the correlation
+between the surface phonetic form of the morpheme and its syntactic function is
+not completely clear. To reduce this mix of forms and functions to something more
+systematic is obviously desirable from the point of view of analytical elegance. However,
+it is also desirable for data-driven reasons: with the exception of the medial and
+distal demonstrative pronouns, there is considerable uniformity in the form of nominal
+modiﬁers and an understanding of how they are related would shed considerable light
+on the workings of the language.
+With regard to the similarities of form, it was argued in section 5.4.1 that there
+is in fact only one ‘j/m/n-style’ morpheme, with the variant pronunciations due tointonation-based allomorphy. This leaves three forms to give an analysis for: i ́nːi ̂/umːû,ékê/ɔkɔ̂ and já/mɔ́/nɔ́. The ﬁrst two of these are uncontroversial, being the distal
+and medial demonstrative pronouns respectively. The third includes the proximal
+demonstrative pronoun, but is also used in all other nominal modiﬁers. One possible
+analysis of the syntactic function of this latter morpheme is that it simply marks
+modiﬁcation generally. However, this does not account for the fact that the medial
+and distal demonstratives do not exhibit this marking, whereas the proximal demonstrative, along with relative clauses and possessive noun phrases, does. In section
+5.4.2 it was therefore argued that a better analysis is to assume that the three forms
+já/mɔ́/nɔ́, ékê/ɔkɔ̂ and i ́nːi ̂/umːû represent the three demonstrative pronouns and that
+other Katcha nominal modiﬁers are phrases headed by a demonstrative pronoun. All
+modiﬁers stand in a relationship of apposition to the modiﬁed noun. This approach
+allows a uniﬁed treatment of the various types of modiﬁer, including the medial and
+distal demonstratives. It is supported by the fact that there are no words in Katcha5.6. Conclusion93which can be unambiguously categorised as determiners or adjectives; lexical nouns
+appear to form complete noun phrases which do not allow phrase-internal modiﬁcation.
+Nominal modiﬁcation is therefore achieved by apposition of an external phrase.
+Finally, as noted in section 5.5, the analysis adopted here can be placed in a wider
+context within African linguistics. The demonstrative which heads the appositional
+modiﬁer shows gender agreement with the head noun, thereby encoding the function
+of ‘Attribution’ and connecting the modiﬁer with the head. In this way it acts as
+a relative marker of the type found in Afro-Asiatic and Niger-Congo languages. A
+prototypical relative marker is not a pronoun and indeed the demonstrative does not
+show the subordinate clause case marking that would be expected of a relative pronoun.
+Nonetheless, it was argued in section 5.4.2 that the demonstrative is best considered
+to be a pronoun. So it is not a fully prototypical relative marker, though it may be
+in process of being grammaticalized as such. Similarly, the possessive construction in
+Katcha does not alter the form of the head noun and therefore is not quite an example
+of the construct state found in many African languages, but it does represent the
+kind of structure from which such a phenomenon could develop. Construing nominal
+modiﬁers as appositional phrases headed by a demonstrative pronoun not only provides
+a uniﬁed analysis of the Katcha data, but also gives an example of one way in which
+two seemingly unrelated, typically African constructions might derive from a common
+source.","[111, 112]"
+"10.2. Subject Relatives231In order to fulﬁll the requirements of the ?T y(t) node, the partial epsilon-tree
+projected by the demonstrative must be updated to a fully speciﬁed epsilon-tree. This
+implies that the term which updates the metavariable through Substitution brings
+with it a full epsilon-structure of functor and argument daughter nodes. When the root
+node (the epsilon term) is substituted for the metavariable, some of these daughter
+nodes will ‘overlay’ the existing nodes in the partial epsilon structure projected by the
+demonstrative. However, none of this duplication is inconsistent and consequently the
+nodes will collapse together harmlessly (10.19).
+(10.19)
+F o(UU∈Fem ), T y(e)
+?∃x.F o(x), ♢
+?T y(t)F o(ιx , Daisy′ (x)), T y(e)SubstitutionF o(ϵ),
+T y(t → e)F o(Daisy′ (x)), T y(t)F o(x), T y(e)F o(x), T y(e)F o(ι),
+T y(t → e)F o(Daisy′ ),
+T y(e → t)F o(ιx , Daisy′ (x)), T y(e), ♢⇒F o(Daisy′ (x)), T y(t)
+?T y(t)
+F o(x), T y(e)
+F o(x), T y(e)F o(ι), T y(t → e)
+F o(ϵ), T y(t → e)F o(Daisy′ ),
+T y(e) → tThe result of this Substitution, as shown in (10.19), is to update the partial epsilonstructure projected by the demonstrative with a fully speciﬁed epsilon-structure. The
+root node of the epsilon tree is updated by Substitution in the normal way. The
+updates to the lower nodes are more reminiscent of the Unify action, in that two
+(partially) decorated nodes are given the same tree node address and conﬂated. This
+action is valid as long as there are no inconsistencies in the decorations on each node.
+In the case of the binding operator node, the ι-operator is a more speciﬁc version of
+the ϵ-operator, so there is no conﬂict here. In the case of the node decorated with the
+nominal variable, this uniﬁcation is licit because the ‘two’ variables are by deﬁnition one
+and the same. (‘Daisy’ can only refer to the same individual as ‘this one’.) In the case
+of the intermediate node, the ?T y(t) requirement is resolved satisfactorily. Finally, the
+restrictor is supplied in its entirety by the epsilon-term; there is no pre-existing node232Theoretical Analyses: Nominal Modiﬁersto cause any inconsistency.6
+Assuming that the approach sketched above can be formalised within the DS system,
+we now have a way of incorporating relative clauses into the account of demonstratives.
+After parsing the demonstrative pronoun using the revised version of the lexical actions
+(10.17), the tree is as shown in (10.15′ ), with the pointer at the node decorated by the
+metavariable.
+(10.15′ ) Parsing mʊsa asáːsá fɪjɔ m-:
+?T y(t)F o(Musa′ ), T y(e)?T y(e → t)F o(ϵx , Cow′ (x)), T y(e)LINKF o(Cow′ (x)), T y(t)F o(x), T y(e)F o(Want′ ),
+T y(e → (e → t))F o(ϵ),
+T y(t → e)F o(Cow′ ),
+T y(e → t)F o(UU∈Fem ), T y(e)
+?∃x.F o(x), ♢
+?T y(t)F o(ϵ),
+T y(t → e)F o(x), T y(e)In the case of the demonstrative pronoun, there is no further lexical material to be
+parsed and (the revised version of) Substitution (10.19) applies to instantiate the
+metavariable with an appropriate referent and complete the LINKed epsilon-tree. In
+the case of a relative clause however, Substitution does not apply and the LINKed
+tree is completed by processing additional lexical items.
+6
+This ﬁnal point, that the updating process includes the construction of the restrictor node, is
+notable. The process described here is not merely one of Substitution of a Formula value as deﬁned
+in Cann et al. (2005:72), but involves the abduction of structure. Formalising this process will require
+to be done carefully, to ensure there is an appropriate trigger for the construction of structure, and
+that monotonicity is retained; it is not clear that a free pragmatic process like substitution should
+be allowed to build structure in an unconstrained manner. I leave this formality to one side for the
+present.","[249, 250, 251]"
+"7.1. Possible Verb Extensions in Katcha
+b. akká129m-ʊ́ ɔ́-ɔnɔwoman 3f-grind-antip
+‘the woman is grinding’
+(7.3) Passive
+a. akkám-ʊnɪkʊ́rɪwoman 3f-cook food
+‘a woman is cooking food’
+b. kʊrɪ ʊnɪ-t n ́
+food 3m-cook-pass
+‘the food is being cooked’
+(7.4) Unaccusative
+a. kʊrɪ ʊnɪ-t n ́
+food 3m.cook-pass
+‘the food is being cooked’
+b. kʊrɪ ʊnɪ-n akʊ́ɓʊ́food 3m.cook-unacc down
+‘the food is cooked’
+(7.5) Middle Voice
+a
+atumma no
+tumːasubj wordsnɔtanyalanjaanakuꞌbu kat-aɲala-n a na kʊɓʊ kaꞌbuugu koona nyeꞌdꞌde
+ɓʊːkʊdem.3p inf-spread-mid down loc placekɔːna ɲeɗːe
+across allkungngo
+kʊŋːɔ
+thus
+‘News of this spread through all that region.’
+(7.6) Applicative
+a. akkám-ʊnɪkʊ́rɪwoman 3f-cook food
+‘the woman is cooking food’
+b. akkám-ʊnɪ-tákʊ́rɪ akʊ́kkʊwoman 3f-cook-appl food ben Kuku
+‘the woman is cooking food for Kuku’(MATT 9.26)130Morphosyntactic Descriptions: Verb Extensions(7.7) Reciprocal
+a. kʊ́kkʊ́ ɪcɪ ́ɓɪ ́ːɓáláKuku 3m.wake boy
+‘Kuku wakes the boy’
+b. laːlá ɪcɪ-n ́boys 3m.wake-recip
+‘the children wake each other’7.2 Valency reducing suﬃxes
+7.2.1 Antipassive
+A verb suﬃxed with an Antipassive marker corresponds to Stevenson’s “Intransitive
+Stem” (Stevenson 1941:110). There are two main Antipassive suﬃxes, the choice of
+which appears to be lexically determined by the verb. Probably the more common is-VnV (7.8b-7.11b), while -VkV (7.12b-7.13b) is also attested. In both cases the quality
+of the vowel in the suﬃx varies according to the vowel(s) in the verb root. The tone on
+the suﬃx also varies but there does not seem to be any clear pattern to this variation.
+(7.8) a. akkám-ʊ́ ʊ́mɪ ́kɪlewoman 3f-grind millet
+‘the woman is grinding millet’
+b. akkám-ʊ́ ɔ́-ɔnɔwoman 3f-grind-antip
+‘the woman is grinding’
+(7.9) a. ómúɗi ́ abʊ́
+manámbâ3m.beat drum‘the man is hitting the drum’
+b. ómʊ́ɗi ́ abá-ána
+man3m.beat-antip‘the man is hitting’
+(7.10) a. kʊ́kkʊ́ ɪcɪ ́ɓɪ ́ːɓáláKuku 3m.wake boy
+‘Kuku wakes the boy’7.2. Valency reducing suﬃxes131b. kʊ́kkʊ́ ɪce- n
+́ ́
+Kuku 3m.wake-antip
+‘Kuku wakes up’
+(7.11) a. kʊ́kkʊ́ ɪ ́kɪ ́cɪ ́kákkâKuku 3m.laugh.at Kaka
+‘Kuku is laughing at Kaka’
+b. kʊ́kkʊ́ ɪ ́kɪ ́cé- n
+́ ́
+Kuku 3m.laugh.at-antip
+‘Kuku is laughing’
+(7.12) a. kʊ́kkʊ́ ocófɪ ̂ːjɔKuku 3m.see cow
+‘Kuku sees a cow’
+b. kʊ́kkʊ́ ocó- ́k
+Kuku 3m.see-antip
+‘Kuku sees’
+(7.13) a. kʊ́kkʊ́ iti ́ni ́mɪ ́kɪleKuku 3m.sow millet
+‘Kuku is sowing millet’
+b. kʊ́kkʊ́ iti ́ni ́-iki
+Kuku 3m.sow-antip
+‘Kuku is sowing’
+A possible further example of an antipassive suﬃx is -rɪ as found in akʊ́rɪ ́ ‘eat (intrans)’(7.14b). This appears to be a unique suﬃx: no other examples of an antipassive -rɪ areattested in my data, and Stevenson also states that it it is ‘an unusual form’ (Stevenson
+1941:110). In addition, there is no sign of the vowel harmony between suﬃx and root
+which appears to exist for -VnV and -VkV. It may therefore be better to think of akʊ́rɪ ́
+as a separate intransitive verb (though one clearly related to the transitive akʊ́).(7.14) a. kʊ́kkʊ́ akʊ́mɪ ́teeneKuku 3m.eat asida
+‘Kuku is eating asida’
+b. kʊ́kkʊ́ akʊ́- ɪ ́
+Kuku 3m.eat-antip
+‘Kuku is eating’132Morphosyntactic Descriptions: Verb ExtensionsAs stated in section 7.1, the simple form of the Katcha verb is always the transitive.
+This is rather striking in examples such as ‘wake’ (7.10a) and ‘laugh’ (7.11a). It is not
+hard to conceive that a language might treat the intransitive ‘wake’ as the less complex
+form, rendering the transitive with a causative or similar device. Similarly, it seems
+intuitive that in English, intransitive ‘laugh’ is semantically more basic than transitive
+‘laugh at’, a fact which is reﬂected in the morphosyntax. This is not the case in Katcha.
+Morphologically at least, the transitive is always the simpler form, with the intransitive
+being formed by the use of the Antipassive suﬃx.
+Semantically, the Antipassive is used where the identity of the semantic theme or
+patient is unknown or unimportant to the point of non-existence. As a (relatively) fully
+pro-drop language, a clause in which the patient is known or implied may be expressed
+using an ordinary transitive verb. (7.15a) gives an example of a verb whose object,
+being implied, is simply ‘dropped’. (For comparison, (7.15b) shows the same verb with
+a full complement of overt object arguments.)
+(7.15) a. n-aɗáŋŋá êːne
+1s-give3p‘I give (it) to them’(THIEF:1.19)b. m-aɗáŋŋá nuk-urúːnú ʊ́ŋŋɔ́
+3f-givepl-yeark-áʈábbʊ́1pl.excl 3p-be.many‘she gives many years to us’(TEACH:1.60)Both the transitive and the antipassive forms of the verb, then, may occur with no
+overt syntactic object. The key distinction between them is semantic: a transitive verb
+with an implied semantic object is expressed using an unmarked transitive form; a
+transitive verb with no object (implied or otherwise) is expressed using a verb with an
+Antipassive suﬃx.
+Stevenson (1956-57:58) states that the Antipassive suﬃx (which he calls ‘Qualitative’) may in fact be used with ‘indeﬁnite objects’, in which case it has a general or
+habitual interpretation. He gives one example:
+(7.16) bibala iyanaɓɪːɓala ɪja-ana
+boyfɔeːfɔ3m.milk-antip cows‘The boy milks cows, (i.e. he cow-milks in general).’(Stevenson 1956-57:58)Although (7.16) has a syntactic object, it seems clear that the sentence does not
+refer to an event in which any individual actually undergoes milking, i.e. the semantic
+theme/patient has no denotation. To that extent, this construction is still in keeping7.2. Valency reducing suﬃxes133with the function of these suﬃxes. It is probably still appropriate to think of the suﬃx
+as marking antipassive.27.2.2 Passive (‘Personal Passive’)
+The suﬃx -tené marks a verb as passive. The subject agreement marker on the verb
+agrees with the syntactic subject, which carries the thematic role of theme/patient:
+(7.17) a. akkám-ʊnɪkʊ́rɪwoman 3f-cook food
+‘a woman is cooking food’
+b. kʊrɪ ʊnɪ-t n ́
+food 3m.pfv-cook-pass
+‘the food is being cooked’
+(7.18) a. ómúɗi ́ abʊ́
+manámbâ3m.hit drum‘the man is hitting a drum’
+b. ambá m-abʊ-t n ́ kátábeːnedrum 3f-hit-pass loc wrestling
+‘the drum is being hit for wrestling’
+The -tené suﬃx is used where there is an implied agent and as such is described by
+Stevenson as a “true passive” (Stevenson 1941:113). He states that ‘it often implies
+that someone is implicated in the action, and may have a noun complement’ (Stevenson
+1941:113), giving (7.19) as an example which includes an explicit agent introduced by
+the dative preposition a or locative preposition ka:
+(7.19) bibala abadh napupa thiyeniɓɪɓala abʊ-teneapʊppa tɪ-jaɪːnɪboyor ki
+ka3m.hit-pass prep father non.core-3m.poss 3m‘The boy is beaten by his father’(Stevenson 1941:113)However, the presence of a noun phrase taking the role of agent, as in (7.19), does
+not agree with my ﬁeldwork ﬁndings. In controlled elicitation sessions, I was unable
+to elicit a passive sentence with an explicit agent, nor have I found any clearcut
+2
+This construction could perhaps be thought of as some kind of object incorporation, but I have no
+examples of it in my own data, nor have I investigated compounding more generally.","[147, 148, 149, 150, 151, 152]"
+"9.4 Locative adverbs
+(9.23) ak-oɗoak-atáɗák-étékɪ ́ʈáimp.pl-come imp.pl-stand.in.line loc-1sg in.front
+‘come, line up in front of me’(THIEF:1.10)In chapter 6 it was noted that words such as kɪʈa in (9.23) are best described as locative
+adverbs rather than as prepositional phrases headed by ka. It is now possible to expandupon this distinction. A prepositional phrase like kete in (9.1) modiﬁes a term (even
+when that term is an event) and might therefore be described as adjectival. On the
+other hand, a prepositional phrase like a kʊɓɓʊ in (9.15) modiﬁes a predicate and mighttherefore be described as adverbial. Analysing words such as kɪʈa as locative adverbs
+suggests that they should be analysed in the same way as adverbial prepositional
+phrases, that is, as type (e → t) → (e → t) predicates. It was also noted in chapter
+6 that these adverbs add detail to the location provided by the locative prepositional198Theoretical Analyses: Adjuncts, Prepositions and Casephrase; in other words, they modify the prepositional phrase. Since the prepositional
+phrase projects a proposition whose predicate is a locative relation, it is straightforward
+to analyse the adverb as modifying this predicate.
+Under this analysis, the processing of sentence (9.23) will proceed in the following
+manner (ignoring the initial verb akoɗo for conciseness). As with all intransitive verbs,ataɗa , ‘stand’, projects a full propositional template, of type e → (es → t) including a
+metavariable decorating the logical subject node and a term decorating the event node.
+In the case of (9.23), the verb is in an imperative form. The imperative does two things:
+ﬁrstly, it speciﬁes the addressee as the logical subject of the proposition; secondly, it
+adds extra information marking the fact that the speaker desires the addressee to bring
+about the event expressed by the proposition. Exactly how this is achieved formally is
+not relevant to the current discussion, so I for now it is simply indicated by a +IMP
+imperative marker on the propositional root node and the proposition is otherwise
+treated as if it were declarative. I also assume that having parsed akataɗa, the logical
+subject is correctly identiﬁed with the addressee (in this case, the group of boys):
+(9.24) Parsing akataꞌda
+?T y(t), +IMPF o(si ), T y(es ), ♢?T y(es → t)
+F o(boys′ ),
+T y(e)F o(stand′ ),
+T y(e → (es → t))With the pointer on the event argument, the prepositional phrase kete, ‘loc-me’
+can be parsed, decorating a LINKed propositional tree just as in sections 9.1-9.2 above.
+The proposition projected by the prepositional phrase speciﬁes that the event to which
+it is LINKed (si ) stands in a LOC ′ relation with the speaker (9.25).","[216, 217]"
+"146Morphosyntactic Descriptions: Verb Extensionsnominals while (c-d) primarily aﬀect verbs. Katcha verb extensions are all of the
+former type, licensing the presence or absence of arguments.
+There are various morphemes related to argument structure which are potential
+candidates for being classed as verb extensions. Of these, reﬂexives and reciprocals are
+not encoded using verb extensions; Katcha uses a more analytic construction with a
+noun or pronoun expressing the reﬂexive or reciprocal object.
+The applicative is the only one of the Katcha verb extensions to increase valency.
+This makes it something of a special case. However, it is also something of a special
+case in that it is not typical of applicative constructions typologically. There is no alternative non-applicative construction with the same truth-conditional meaning. Also,
+the additional argument it licenses is marked with the dative preposition a rather than
+being a direct object, so in one sense this morpheme does not increase valency. Rather,
+it introduces an oblique argument and so acts somewhat like a preposition. A Dynamic
+Syntax theoretical analysis modelling applicatives from this point of view is given in
+chapter 9.
+If the ‘applicative’ does not in fact increase valency, then we can revise the statement
+at the beginning of this section to say that all Katcha verb extensions decrease valency;
+the function of all of them is to license the absence of a syntactic argument. This is
+not surprising given that it was noted in section 7.2 that Katcha verbs are inherently
+transitive. If it is semantically plausible for a verb to be transitive, this is always
+the basic form. Most of these VEs decrease semantic valency in addition to syntactic
+valency, presenting the event described by the verb as having only one participant
+(though this is not the case for the passive). As shown in table 7.1, Katcha has a
+complete paradigm of valency decreasing verb extensions. A theoretical analysis within
+the framework of Dynamic Syntax is given for these verb extensions in chapter 8. This
+range of VEs allows Katcha to use inherently transitive verbs to present an event as
+involving either one or two participants, and to take either the semantic agent or the
+semantic patient as subject, thereby providing alternative perspectives on the situation
+expressed.","[164, 165]"
+"8.2 Antipassive
+(8.16) kʊ́kkʊ́ ɪ ́kɪ ́cé-éné
+Kuku laugh.at-antip
+‘Kuku is laughing’
+As noted in section 7.2.1, the antipassive indicates that the identity of the semantic
+theme/patient is unknown or unimportant to the point of non-existence. However, as
+also noted there, the basic form of Katcha verbs is transitive; to analyse a verb like
+ɪ ́kɪ ́céen
+́ é as a simple one-place predicate would seem to go against the general pattern
+of Katcha verbs.
+The central insight in the analysis of a sentence like (8.16) therefore is that the
+antipassive provides the semantic object for the verb and that this object is indeﬁnite,
+arbitrary and completely dependent on the immediate context of the predicate and
+its co-arguments in the given situation. In other words, the interpretation of (8.16)
+is something like ‘Kuku is laughing (at whatever it is that Kuku is laughing at in
+this instance)’. Such an analysis is proposed within CCG by Steedman (2011) for
+detransitivised verbs in English (such as ‘John is reading’), using dependent Skolem
+terms to represent the indeﬁnite object. The Dynamic Syntax formalism, with its use
+of the epsilon calculus to represent noun phrases, is well-suited to this type of analysis.
+Furthermore, it is common within Dynamic Syntax to assume that propositions include
+an additional argument which stands for the situation of evaluation (Gregoromichelaki
+2006, 2011; Cann 2011). This situation argument is assumed to be of type es , that is
+a subtype of type e. Cann (2011) argues that the semantic content of the situation
+argument, like all other arguments of a proposition, should be modelled as an epsilon
+term.5 For ease of exposition I ignore the internal content of the situation argument,
+simply representing its formula value as an indexed variable, si . Where appropriate I
+add informal restrictions, such as si,event(i) or si,state(i) . Incorporating this situation
+argument into our account allows us to express the context-dependent nature of the
+‘missing’ object quite naturally.
+5This allows features such as tense to be construed as a restrictor on the temporal relation between
+the event and the time of utterance or other reference point.",[176]
+"244Theoretical Analyses: Nominal Modiﬁers(10.28) Final tree for mʊsa asáːsá fɪjɔ má kʊ́kkû:F o(Want′ (ϵx , Cow′ (x) ∧ P OSSD(ιy (Kuku′ (y)))(x))(Musa′ )), T y(t), ♢F o(Want′ (ϵx , Cow′ (x)
+∧P OSSD(ιy (Kuku′ (y)))(x))),
+T y(e → t)′F o(Musa ), T y(e)F o(ϵx , Cow′ (x)
+∧P OSSD(ιy (Kuku′ (y)))(x)),
+T y(e)F o(Cow′ (x)), T y(t)F o(Want′ ),
+T y(e → (e → t))F o(ϵ),
+T y(t → e)LINKF o(x), T y(e)F o(Cow′ ),
+T y(e → t)F o(ϵx , P OSSD(ιy (Kuku′ (y)))(x)), T y(e)F o(P OSSD(ιy (Kuku′ (y)))(x)), T y(t)F o(x), T y(e)F o(ϵ),
+T y(t → e)F o(λz(P OSSD(ιy , Kuku′ (y))(z))),
+T y(e → t)
+F o(ιy , Kuku′ (y)),
+T y(e)F o(λw.λz(P OSSD(w)(z))),
+T y(e → e → t)It is worth considering brieﬂy the nature of the ‘possession predicate’. Kempson
+et al. (2001) describe it as a semantically relatively weak predicate, a ‘relation whose
+value is constructed from some contextually provided value’ (Kempson et al. 2001:145).
+The case they consider is the English genitive and so they consider the predicate to be
+a binary relation with the possessor as its logical subject and the possessee as its logical
+object. For simplicity, they represent the predicate as P OSS. In the Katcha case, the
+logical subject of this possession relation is the variable representing the possessee which10.3. Possessive NPs245is projected by the demonstrative pronoun. The relation is therefore the inverse of that
+suggested by Kempson et al. (2001), and for convenience is written here as P OSSD to
+make the diﬀerence explicit. (It can be thought of as ‘x is possessed by y’.) At ﬁrst this
+seems like a slightly clumsy approach — hypothesising an implict predicate which may
+be construed one way in one language but exactly inversely in another — but there
+are two points to be made in its defence. One is that if the value of the predicate is
+contextually provided, it might well be expected to vary from language to language.
+The second point is that this diﬀerence is not unmotivated, but in fact reﬂects the
+morphology of the two languages rather neatly. English possessives are constructed
+using a dependent-marking strategy, that is, with morphological marking (‘genitive
+case’) on the modifying noun (the possessor). Contrastingly, Katcha possessives are
+head-marking8 and are expressed using something much closer to a construct state,
+as was noted in section 5.5.2. The Katcha ‘possessive marker’, ie. the demonstrative
+pronoun, does not morphologically mark the head noun (the possessee), but it is
+associated with it by agreement and anaphorically. So the apparent diﬀerence between
+the two languages in the semantics of the possession predicate may in fact be exactly
+what we should expect to see, given their contrasting marking strategies for possessives.
+If so, far from being clumsy, this is a very nice result. The analysis of the demonstrative
+pronoun given in section 10.2 is that it shares an argument variable with the noun it
+modiﬁes. This analysis was motivated by the need to account for relative clauses. But
+a side eﬀect of that analysis is that in the case of possessives the logical subject of the
+possession predicate must be the shared variable, forcing the possession predicate to
+be P OSSD rather than P OSS. This directly reﬂects the morphology of possessive
+constructions, because Katcha uses (something close to) a head-marking construct
+strategy rather than a dependant-marking genitive strategy.9
+8Or at least, ‘head-aligned’, through agreement relations.
+Although positing two alternative possession predicates reﬂects the morphology of possessive
+constructions quite neatly, it is not obvious that such a distinction should exist in the semantics.
+Assuming that the genitive construction in English and the possessive construction in Katcha express
+the same semantic relation, it should perhaps be expected that there would be only one ‘P OSS-type’
+relation. If so, the analysis given here forces this predicate to be expressed as the Katcha version with
+the head, the possessee, as the external argument, rather than the inverse. Kempson et al. (2001)
+make no strong claims for their assumed P OSS relation, describing it only as a relation whose value
+is contextually provided, holding between the possessor and the possessee. Likewise, I do not wish to
+make any strong claims about this predicate other than to suggest that if there is indeed only one such
+relation, it is better to think of it as a property of the head noun, i.e. some relation holding between
+the head noun and some modiﬁer.
+9246Theoretical Analyses: Nominal Modiﬁers10.4 Non-subject Relative Clauses
+(10.29) kɔːkɔ́rɔ́ [má
+henkʊ́kkʊ̂ kaɪcɪ ́ ɔ́ːkɔ́ mɔ́rel.f Kuku dcm see 3f] m-ɔʈɔ́merekérel.f 3f-peck sesame‘The hen which Kuku sees is eating sesame’
+Non-subject relatives are formed in the same way as subject relatives, the subordinate clause being introduced by a demonstrative pronoun and also being concluded
+with one (probably to mark deﬁniteness). However, the internal structure of the relative
+clause is diﬀerent – a non-ﬁnite verb is used, being marked with a dependent clause
+marker (and sometimes an inﬁnitive). A resumptive pronoun marking the relativised
+element is also common; this does not occur in the case of subject relatives.
+A fully worked-out analysis of the internal structure of non-subject relative clauses
+will be dependent on an analysis of the dependent clause marker ka and the discourse
+properties of non-ﬁnite clauses, which is outwith the scope of the current study. However, it is possible to note a few points about how non-subject relative clauses may ﬁt
+into the overall account of nominal modiﬁers.
+On the basis of the analysis presented so far, it is obvious why non-subject positions
+cannot be relativised. The lexical actions of the demonstrative pronoun, as deﬁned in
+(10.17), construct the partial epsilon tree in (10.18), repeated here as (10.30).
+(10.30)F o(UU∈Fem ), T y(e)
+?∃x.F o(x), ♢
+?T y(t)F o(ϵ),
+T y(t → e)F o(x), T y(e)Crucially, whilst these actions leave the restrictor node unspeciﬁed, they include the
+decoration of the internal T y(e) node with a nominal variable.","[262, 263, 264, 265]"
+"5.5.1 Relatives
+Given the analysis of já/mɔ́/nɔ́ as a demonstrative pronoun, it might be assumed that
+in a relative clause it would play the role of a relative pronoun. From a typological point
+of view, this would be distinctly surprising. Cross-linguistically, relative pronouns are
+an uncommon way of encoding relativization, and are largely non-existent in Africa.
+Of the 166 languages whose subject-relativization strategies are surveyed in WALS
+(Comrie and Kuteva 2013a), only 12 make use of relative pronouns. Of those, 11 are
+European languages and the twelfth is North American. Furthermore, the majority of
+relative pronouns are derived from interrogative morphemes; it is extremely rare for a
+demonstrative to be the source of a relative pronoun. This contrasts with the case of
+invariant relative complementizers, which often derive from demonstratives (de Vries
+2002; Gisborne and Truswell 2016). A demonstrative pronoun acting as a relative
+pronoun is therefore not something we would expect to ﬁnd in Katcha.
+In fact, there are ways in which the demonstrative head of a relative clause in Katcha
+does not act as a classic relative pronoun. The deﬁnition of the ‘relative pronoun
+strategy’ used in WALS is that ‘the position relativized is indicated inside the relative
+clause by means of a clause-initial pronominal element, and this pronominal element
+is case-marked (by case or by an adposition) to indicate the role of the head noun
+within the relative clause’ (Comrie and Kuteva 2013a). This is contrasted with the
+‘gap strategy’ where ‘there is no overt case-marked reference to the head noun within
+the relative clause’ (Comrie and Kuteva 2013a). Case-marking is therefore central to
+Comrie and Kuteva’s deﬁnition. In section 6.6, it will be suggested that case on Katcha
+pronouns may be indicated by tone. Since the tone on the demonstrative morpheme
+appears to remain consistently high, this suggests that there is no case marking. So by
+this deﬁnition, Katcha uses a ‘gap strategy’ for subject relatives, as would be expected
+given its genetic and geographical location. Also, note that non-subject relative clauses
+often utilise a resumptive pronoun (section 5.3). The internal syntax of non-subject
+relatives is yet to be investigated (pending a study of dependent and non-ﬁnite clauses),
+but a couple of implications can be drawn from this fact. Firstly, as with the gap
+strategy for subject relatives, a resumptive strategy for non-subject relatives is not
+out of place genetically or geographically (Comrie and Kuteva 2013b). Secondly, the5.5. Cross-linguistic connections89presence of a resumptive implies that it is this rather than the demonstrative which
+encodes ‘the syntactic-semantic role of the head noun in the relative clause’ (Comrie and
+Kuteva 2013c). By these deﬁnitions then, the demonstrative is not a relative pronoun
+in the classic sense.
+A better characterisation of the role of the demonstrative in Katcha relative clauses
+is that it is a ‘relative marker’ (RM) in the sense described by de Vries (2002). Following
+Lehman (1984), de Vries argues that there are three possible functions of a relative
+element: Subordination, Attribution and Gap Construction (de Vries 2002:155), and
+that an RM is a ‘type of relative particle that has just the Attribution function’ (de Vries
+2002:170). That is, an RM encodes the fact that the relative clause is attributed to
+the head. There are four distinctive characteristics of relative markers, all of which are
+true for Katcha (de Vries 2002:174-176):
+i) RMs are attested only in post-nominal relative clauses.
+ii) RMs occupy the ﬁrst position in the relative clause.
+iii) RMs show at least some overt evidence of agreement with the head noun.
+iv) RMs are predominantly found in Afro-Asiatic and Niger-Congo languages.
+When used in a relative clause, demonstrative já/mɔ́/nɔ́ is a relative marker encoding the function of Attribution, rather than a relative pronoun encoding Gap Construction. Gap Construction is concerned with the role of the relativised element within the
+relative clause and is therefore marked by a pronoun (relative or resumptive) whose case
+marks its role in the subordinate clause; Attribution is concerned with the relationship
+of the relative clause to the head and is therefore ‘indicated by ϕ-feature agreement
+with the head – i.e. person, number, gender, class (+ϕ, in short) – and placement at the
+sentence border’ (de Vries 2002:157). To put this another way, relative pronouns of the
+sort found in Europe are ‘dependant-focused’ and therefore exhibit the case required
+by the dependant, whilst relative markers of the sort found in Africa are ‘head-focused’
+and therefore agree with the head.","[107, 108]"
+"6.6 Pronominal case
+It has been argued throughout this chapter that the morphemes which specify oblique
+argument roles in Katcha are better described as prepositions than as case markers.
+This is on the basis that these oblique arguments do not generally have their form
+assigned obligatorily by the verb. This is not the same for pronouns, the form of which
+clearly is determined by some governing element, either the verb or a preposition. There
+is therefore a strong argument for describing the forms of the pronouns as cases. This
+is particularly true for the core pronouns where tone seems to play a role.
+As noted in section 6.1.1, it may be that the case of the core pronouns is marked
+by their tone melody. The use of tone to mark case is extremely rare in a global
+perspective and arguably does not exist at all outwith Africa, but is common in eastern
+Africa: ‘tone as a marker for case is the most salient feature of case behaviour in
+Africa’ (König 2008:224). There are a couple of comments to be made regarding the
+fact that Katcha may exhibit tonal case. One is a typological implication: the case
+alignment is likely to be ‘marked-nominative’. Marked-nominative systems display the
+same alignment as accusative case systems; that is, the subjects of both transitive
+and intransitive clauses (the S and A arguments) are marked in the same way, while
+the object of a transitive clause (the P argument) is treated diﬀerently. However, in
+a prototypical marked-nominative language, the accusative form is functionally and
+morphologically unmarked, acting as the default form, whilst the nominative form is
+morphologically marked with its use restricted to the realisation of S and A arguments.
+In that sense, marked-nominative systems are slightly reminiscent of ergative systems.
+Like tonal case, marked-nominative systems are rare from a global perspective, but
+‘constitute the most widespread type of case systems in Africa’ (König 2008:138). More
+signiﬁcantly,
+‘there is a connection between case expressed by tone and the existence of
+a marked-nominative system… If case is expressed by tone then there is a
+marked-nominative system.’ (König 2008:198,224)
+Therefore it is to be expected that if Katcha has tonal case it will have a marked-124Morphosyntactic Descriptions: Pronouns and Prepositionsnominative alignment.9
+A further interesting observation is that within tonal case systems it is particularly
+common for low tone to be the marker of Nominative case, which appears to be the
+case in Katcha. This tendency appears to be a universal feature of both the Cushitic
+(Afro-Asiatic) and Nilotic (Nilo-Saharan) families. There are other language families
+with tonal case which use other tone patterns to mark Nominative, but in Cushitic
+and Nilotic, ‘the nominative is always expressed by loss of a high tone, triggering a
+low tone’ (König (2008:223), citing Tosco (1994)). In the context of the ongoing debate
+about the genetic aﬃliation of the Kadu family, this is notable because Katcha nominals
+share characteristics with both of these families. The tripartite number marking system
+described in chapter 4 as being common in Nilo-Saharan is particularly prevalent in
+Nilotic, and this is also one of the few branches of Nilo-Saharan with a masculinefeminine gender system. Also in chapter 4, it was demonstrated that Katcha’s highly
+unusual gender system is found in several Cushitic languages. So whether it is a genetic
+or areal trait or a typological correlation, it seems that Katcha nominals do not only
+share features of number and gender with Nilotic and Cushitic languages, but also case.
+It is important at this point to state the caveat that there remains a great deal
+that is unclear about the tonal system of Katcha, and a good percentage of my textual
+data originally comes from written sources which do not mark tone at all. As such,
+conclusions about tonal behaviour should be treated as tentative. It is plausible that
+the diﬀerences in tone melody on pronouns which have been ascribed to case may in
+fact be conditioned by other factors, such as intonation or position in the sentence.
+Nonetheless, given its geographical location, it would not be surprising to ﬁnd case
+marked by tone in Katcha.
+If the tone variation on core pronouns is indeed a marker of the Nominative and
+Accusative cases, it may be that the oblique form of the pronouns described in section
+6.1.2 should also be thought of as a case, presumably ‘Oblique’ case. It is diﬀerent from
+the tonal case exhibitied in core pronouns, however, in that it is not assigned by verbs
+but by prepositions.
+Pronominal case can be summarised as follows. The verb assigns tonal case, which
+I tentatively take to be Nominative and Accusative, to the core arguments. Peripheral
+arguments are not generally marked by case, but by prepositions (though see section
+9.6 for discussion of the status of dative a). These prepositions also assign case, either
+Accusative (section 6.2.1), Oblique (section 6.2.2) or a mixture of both (section 6.2.3).
+9König (2008:198) suggests that this correlation is an absolute universal in the case of nouns, but
+that with pronouns tonal marking may also be found in a few languages with accusative case alignment.
+The question of whether Katcha nouns exhibit tonal case alternations remains open, pending a fuller
+investigation of tone. It could be that case is only relevant to pronouns, in which case the possibility
+exists that Katcha is one of the small number of exceptions with an accusative system realised by tone.","[142, 143]"
+"9.5. Applicatives209(9.39) Final tree for akká mʊnɪtá kʊ́rɪ a kʊ́kkʊ
+F o(make′ (food′ )(woman′ )(si ) ∧ ben′ (Kuku′ )(si )), T y(t), ♢F o(si ),
+T y(es ),F o(make′ (food′ )(woman′ )), T y(es → t)
+F o(woman′ ),
+T y(e)F o(make′ (food′ )), T y(e → (es → t))LINKF o(food′ )
+T y(e)F o(make′ ),
+T y(e → (e → (es → t)))F o(ben′ (Kuku′ )(si )), T y(t)F o(si ), T y(es )F o(ben′ (Kuku′ )), T y(e → t)
+F o(Kuku′ ),
+T y(e)F o(ben′ ),
+T y(e → (→ t))The approach laid out here explains the grammaticality of (9.31) and it correctly
+predicts the ungrammaticality of *akká mʊnɪtá kʊ́rɪ, because the applicative morpheme
+is construed as projecting a (LINKed) requirement which entails parsing some additional lexical items to resolve it. The presence of the applicative morpheme entails
+the presence of the benefactive argument. Nonetheless, the account as it stands is too
+powerful. The lexical actions of the applicative marker duplicate those of LINK Introduction. Since LINK Introduction is an optional computational rule, there is no
+need to also have a lexicalised version, rendering the analysis rather less elegant. More
+importantly, it predicts that the benefactive noun phrase could occur grammatically
+without the applicative morpheme being present, decorating a ?T y(t) node constructed
+by LINK Introduction just like any other event-modifying preposition. Likewise,
+this account predicts that any event-modifying preposition could follow the applicative
+morpheme. The lexical actions of the applicative morpheme build a LINKed node
+and decorate it with a ?T y(t) requirement; this is exactly the context for parsing a
+preposition. Thus the current account incorrectly predicts that a sentence like *akkamʊnɪta kʊrɪ ka kʊkkʊ, with both an applicative verb and a locative phrase, should be
+grammatical.
+The problem with this account is that it ascribes the semantic content (ben ′ ) to
+the ‘preposition’, leaving the applicative morpheme to undertake a purely structural
+task (and one for which there is a pre-existing computational rule). Yet in prototypical
+applicative constructions, the applicative morpheme clearly makes a semantic contri-210Theoretical Analyses: Adjuncts, Prepositions and Casebution (many languages have multiple applicative markers with diﬀerent meanings).
+Likewise, in prototypical applicatives there is an alternation between semantically (if
+not pragmatically) equivalent applicative and adpositional constructions. It should
+therefore be expected that an applicative morpheme will in fact build the same semantic
+structure as a preposition. A lexical entry for a prototypical applicative morpheme then
+might look more like (9.40), which builds a LINK from an event node, but also builds
+the LINKed propositional structure, decorating the nodes as appropriate (including a
+Formula value for the predicate node), then moves the pointer back to the matrix tree.
+These actions build the partial structure indicated in (9.41).
+(9.40) Lexical entry for applicative -ta (revised)
+IFF o(α), T y(es )THENmake(⟨L⟩), go(⟨L⟩), put(?T y(t))
+make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(?T y(e → t)
+make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(F o(ben′ ), T y(e → (e → t)))-tago(⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(?T y(e))
+go(⟨↑0 ⟩, ⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩)put(F o(α), T y(es )
+go(⟨↑0 ⟩, ⟨L−1 ⟩, ⟨↑0 ⟩)
+ELSEAbort(9.41) Partial tree constructed by applicative morpheme (revised)
+F o(si ), T y(es )
+LINK?T y(t)F o(si ), T y(es )?T y(e → t)?T y(e)F o(ben′ ),
+T y(e → (e → t))This revised account treats applicatives essentially as prepositions. This idea is
+supported by the semantic equivalence that often exists between adpositions and applicatives and also by the fact that from the point of view of grammaticalization, adpositions are one of the primary sources for applicative morphemes (Peterson 2006:125129). Since there is a synchronic and diachronic connection between prepositions and
+applicatives, it should not be surprising to ﬁnd that they are analysed in almost the
+same way as one another. The major diﬀerence between the two constructions is that
+the complement of an adposition is collocated with it in the string forming what would9.6. Case markers211in traditional grammar be termed a syntactic constituent, whereas the complement of
+an applicative, the applied object, may be separated from it.
+There are then two possible ways of analysing applicatives. The analytic approach
+has a slight semantic advantage: it expresses the semantic role of the applied object by
+projecting an additional predicate to related the applied object to the main proposition.
+In Katcha there is only one possible role, benefactive, but other languages may have
+more than one applicative morpheme assigning diﬀerent roles. The analytic analysis
+as laid out here also captures the similarity in function between applicatives and
+prepositions. The lexical approach has a slight empirical advantage: in Katcha there
+are phonological indications that applicative verbs are more likely to be lexicalised than
+verbs with other extensions.
+It has been mentioned more than once that the Katcha applicative is somewhat
+atypical. One of the ways this is true is the presence of the a marker before the
+benefactive argument. If we adopt the analytic analysis of applicatives, where the
+lexical actions of the applicative are essentially equivalent to those of an adposition,
+the implication is that a is not a preposition. Rather its role is presumably simply
+to mark which noun phrase is the applied object; in other words, it is a case marker.
+Alternatively, if we adopt the lexical analysis, the benefactive argument is an argument
+of the verb and so once again a must be a case marker. As noted above, the indirectobject of a ditransitive verb is also marked with a, which also supports the idea that ais a case marker that does not supply any substantive semantic content. A discussion
+of case is the focus of the next section.","[227, 228, 229, 230]"
+"8.3 Passive
+The subject of a Passive sentence is the patient/theme. So in (8.29), the passive
+morphology indicates that kʊrɪ will be interpreted as the logical object.
+(8.29) kʊrɪ ʊnɪ-tené
+food cook-pass
+‘some food is being cooked’
+The lexical actions projected by the passive morphology therefore serve to ensure that
+the pointer is left on the logical object node. The subject can then be processed in the
+usual way, which means it will decorate the internal argument node.
+There are two strategies that could be used to encode this.
+The ﬁrst is to treat passive verbs as lexical items and parse the verb and suﬃx
+together as a unit (8.30). This would treat passive verbs as having a diﬀerent set of
+8See chapter 9 for discussion of the LINK relation.",[184]
+"170Theoretical Analyses: Verb Extensions(8.38) Parsing ambá mabʊnca
+?T y(t)
+F o(ϵy , Drum′ (y)), F o(si ),
+T y(e), ?∃x.T n(x) T y(es )?T y(es → t)
+F o(U),
+?∃x.F o(x),
+T y(e)?T y(e → (es → t))
+F o(V),
+F o(Beat′ ),
+?∃x.F o(x),
+T y(e → (e → (es → t)))
+T y(e)?T y(e)F o(λP (ϵ, P )),
+T y(t → e)?T y(t)F o(si ),
+T y(es )?T y(es → t)F o(x),
+T y(e)?T y(e → (es → t))
+F o(V),
+?∃x.F o(x),
+T y(e), ♢F o(Beat′ ),
+T y(e → (e → (es → t)))With the pointer on a node requiring a formula value, the unﬁxed node projected
+by the syntactic subject can instantiate the metavariable. As was the case with the
+antipassive, the node it uniﬁes with happens to be the logical object node of the epsilon
+term rather than of the matrix proposition, but this is of no consequence because the
+two nodes are linked by the copy mechanism, so will end up being decorated with the
+same Formula value. It just happens to be that the incremental nature of Dynamic
+Syntax entails the lower node be instantiated ﬁrst. The tree can now be compiled as
+normal, the pointer working its way up the tree compiling the epsilon term to decorate
+the logical subject node of the propositional tree. The requirement for a formula value
+on the propositional object node means that the pointer has to move down to that
+node to update the metavariable there, which it will do using the value that has been
+established for V during the process of constructing the epsilon term. The ﬁnal tree
+for (8.35) is then as shown in (8.39) (with ϵy , Drum′ (y) abbreviated to D′ ), the root8.4. Unaccusative171node decorated with a formula expressing the proposition that drums are beaten by a
+in situation si , where a is some arbitrary beater of drums in si .
+(8.39) Final tree for ambá mabʊnca
+F o(Beat′ (ϵy , Drum′ (y))(a)(si )), T y(t)F o(Beat′ (D′ )(a)),
+T y(es → t)F o(si ),
+T y(es )F o(Beat′ (D′ )),
+T y(e → (es → t))F o(a),
+T y(e)F o(Beat′ (D′ )(x)(si )),
+T y(t)F o(si ),
+T y(es )F o(λP (ϵ, P )),
+T y(t → e)F o(ϵy , Drum′ (y)),
+F o(Beat′ ),
+T y(e)
+T y(e → (e → (es → t)))F o(Beat′ (D′ )(x)),
+T y(es → t)F o(x),
+T y(e)F o(Beat′ (D′ )),
+T y(e → (es → t))F o(ϵy , Drum′ (y)),
+F o(Beat′ ),
+T y(e)
+T y(e → (e → (es → t)))where a = ϵx , Beat′ (ϵy , Drum′ (y))(x)(si )172Theoretical Analyses: Verb Extensions8.5 Middle Voice
+(8.40) a
+aneekïsïtr tneːk-isi t-uːrutukasannanjaana kuꞌbu
+k-asanːa-ncaːna kʊɓʊsubj pl-stone inf-collapse 3p-shatter-mid down
+‘the rocks split apart’(MATT 27.51)In section 7.2.4 it was suggested that although middles express the notion that
+the subject is both ‘initiator’ and ‘endpoint’, they express a single event with a single
+participant, in which the subject is primarily the patient. In this way, they are semantically similar to unaccusatives, a fact brought out in table 8.1. If table 8.1 represents an
+accurate characterisation of the semantics of middles vis-a-vis unaccusatives, it seems
+likely that the basic argument structure of the two forms will be the same. If the
+primary diﬀerence between them is one of achievement vs process, this is a verbal
+property that falls outwith the scope of the current study but will in all likelihood be
+reﬂected in the properties of the situation argument.
+In section 7.2.5, it was noted that the form of the middle suﬃx -ncaːna looks like aconcatenation of unaccusative -nca followed by antipassive -VnV, and it was also noted
+that Stevenson (1941:112) claimed the -VnV suﬃx could mark intensiﬁcation. Bothof these possibilities were deemed less likely than an analysis of -ncaːna as a single
+morpheme marking middle voice. Nonetheless, pursuing a compositional analysis of
+the middle morpheme in which it is construed as being made up of unnaccusative-nca followed by antipassive -VnV provides some surprising results and turns out to be
+worthwhile.
+Ignoring for simplicity both the situation argument and the internal complexity of
+the verb phrase in (8.40), the parse of a subject followed by a middle-marked verb
+would begin by parsing the subject and verb stem in the normal manner (8.41).
+(8.41) Parsing neːkisi kasanːa
+?T y(t)
+F o(ϵx , Stones′ (x)),
+T y(e), ?∃x.T n(x)F o(U), ?∃x.F o(x),
+T y(e), ♢?T y(e → t)F o(V), ?∃x.F o(x),
+F o(Shatter′ ),
+T y(e)
+T y(e → (e → t))The unaccusative suﬃx -nca is then parsed using the lexical entry in (8.37). The
+lexical actions associated with this morpheme build an epsilon structure from the logical8.5. Middle Voice173subject node. This epsilon structure has propositional content whose sub-components
+are copied from the predicate and logical object nodes of the tree (8.42).
+(8.42) Parsing neːkisi kasanːa-nca
+?T y(t)
+F o(ϵx , Stones′ (x)),
+T y(e), ?∃x.T n(x)F o(U), ?∃x.F o(x),
+T y(e)?T y(e → t)F o(V), ?∃x.F o(x),
+F o(Shatter′ ),
+T y(e)
+T y(e → (e → t))?T y(e)F o(λP (ϵ, P )),
+T y(t → e)?T y(t)F o(y),
+T y(e)?T y(e → t)
+F o(V),
+?∃x.F o(x),
+T y(e), ♢F o(Shatter′ ),
+T y(e → (e → t))With the pointer on a node requiring a formula value, the unﬁxed node projected
+by the syntactic subject can instantiate the metavariable (8.43).","[188, 189, 190, 191, 192]"
+"8.6 Conclusion
+This chapter has outlined an analysis of valency-reducing verb extensions in Katcha,
+making use of the Dynamic Syntax construal of terms as expressions of the epsilon
+calculus. The inherent internal structure of epsilon terms allows a straightforward way
+to incorporate context dependence into the account. An epsilon term represents an
+arbitrary witness of some predicate and we can straightforwardly deﬁne this predicate
+as being dependent on the immediate context. Thus it is straightforward to deﬁne
+structures such as ‘Kuku is laughing (at whatever it is that Kuku is laughing at in this
+instance)’ or ‘Drums are beaten (by whatever it is that beats drums)’.
+In terms of the Katcha data, the approach outlined here allows us to neatly capture
+the diﬀerence between (for example) an antipassive verb and a transitive verb with no
+overt object. A transitive verb decorates its logical object node with a metavariable: a
+term whose content is underspeciﬁed and requires subsequent update. In the case of
+a transitive verb without an overt object, this update will come from context. In the
+case of the antipassive, the update comes from the suﬃx, which supplies a contextually
+deﬁned epsilon term. The same is true for the other suﬃxes which reduce semantic
+valency, unaccusative and middle voice. Although the denotational content of the
+epsilon term is minimal, it decorates the object node and so prevents it from being
+instantiated from context by something with more substantive content. Thus ‘Kuku
+is laughing’ is semantically diﬀerent to ‘Kuku is laughing at something’, despite the
+same inherently transitive verb and an equally indeterminate ‘object’ being used in
+both cases.12
+The semantic diﬀerence between a transitive verb with an unspeciﬁed object and a
+verb of reduced valency is not restricted to Katcha, nor to languages with morphological
+antipassives. Fodor and Fodor (1980) note in regard to scope eﬀects that the same is
+12The analysis as it currently stands has antipassives denoting some arbitrary patient, while the
+pro-dropped object of a transitive verb must have a referential interpretation. It may be that this is
+too strong. Intuitively, one might expect a transitive verb with no object to have the interpretation
+I have ascribed to antipassives (there is some patient but we do not know or care what it is), and
+for antipassives to be genuinely intransitive. Determining whether this is the case will require further
+empirical study on the referentiality of pro-dropped arguments.",[197]
+"9.5. Applicatives205the propositional structure. Since the indirect object of a ditransitive verb like aɗáŋŋá,
+‘give’, is also marked with a, this is not an unreasonable conclusion. Case is discussedfurther in section 9.6.
+A lexical analysis of applicative verbs is quite straightforward to implement in
+Dynamic Syntax and in the case of Katcha there are possibly some morphophonological
+arguments in favour of such an analysis. However, it is still worth considering whether
+an analytic approach may be possible. Even if Katcha applicatives are lexical rather
+than analytic, it is unlikely that applicatives are lexical in all languages, so a preliminary
+sense of how applicative morphemes might contribute to the semantics of a proposition
+is no bad thing. Indeed, considering any linguistic phenomenon from the point of view
+of a novel theoretical framework might provide new insights that would otherwise be
+missed.
+One approach to providing an analytic characterisation of the applicative is that
+presented by Marten (2002). Marten gives Swahili applicative verbs a lexical analysis
+on the basis that ‘the applicative morpheme does not provide lexical access because it
+does not constitute a phonological domain’ (Marten 2002:187), but he does give a sketch
+of how an analytic construal of the applicative might proceed (Marten 2002:184-185).
+His version of DS incorporates an underspeciﬁed semantic type e∗ . According to this
+view, a verb projects a semantic predicate of the underspeciﬁed type e → (e∗ → t)),
+allowing it to take any number of arguments. Furthermore, the predicate decorates an
+unﬁxed node in the ﬁrst instance. The tree node address and the semantic type for
+the verb are then resolved after all arguments have been processed. For ‘standard’ DS,
+however, adding an additional argument after the verb has been parsed - if we assume
+that this is the applicative’s function - would seem to constitute a major challenge to
+the Dynamic Syntax framework.
+An alternative approach would be to assume that the nominals licensed by applicatives should, on a semantic level, be analysed not as arguments of the verb but
+as adjuncts. Languages with applicatives prototypically have semantically equivalent
+non-applicative constructions where the peripheral arguments are marked as oblique
+by means of, for example, adpositions. The alternation between the applicative construction and its adpositional equivalent generally conveys discourse-level or pragmatic
+eﬀects (Peterson 2006:45-51; see also Marten 2002:192-198 for Swahili examples). As
+such, in a framework like Dynamic Syntax where the only level of representation is
+semantic, the parsing of an applicative construction and the equivalent adpositional
+construction should ultimately derive the same logical form. The same analysis given
+to prepositional phrases should also be given to applied objects.7
+7In fact, this is exactly what Marten (2002) does, though from the other direction. Rather than
+treating applicatives as adjuncts like prepositional phrases, prepositional phrases (and all ‘adjuncts’),
+are treated as additional arguments.","[223, 224]"
+"62Morphosyntactic Descriptions: Number and Gender(4.37) laːlá ∅-ánná káɗi ́j-ɪ ́ŋkɔʈɔ́ják-ataɓaːkáboys 3m.stay loc house rel.m-be.one rel.m pl-be.ten
+There were ten boys who lived in the same house. (Lit. some boys lived in one
+house, they were ten)(THIEF:1.1)The verb, ánná, shows Masculine agreement, agreeing with the syntactic gender of itssubject, laːlá. In the following clause where the subject is not overt (and through the
+rest of the text) the verb shows Plural agreement, agreeing with the semantic number
+of the noun’s referent. Note that there is no ‘Neuter’ noun to act as an antecedent
+for the subject agreement marker on the second verb; in this case the agreement is
+clearly with the plural number. Corbett (1991:225-260) describes nouns with this kind
+of variable agreement as ‘hybrid’ nouns. He posits an agreement hierarchy according
+to which certain types of agreeing morphemes (in Corbett’s terminology, ‘agreement
+targets’) are more likely to agree with the syntactic gender of their controller, while
+others are more likely to agree with its semantic gender. He also notes that,
+For any particular target type, the further it is removed from its controller,
+the greater the likelihood of semantic agreement (Corbett 1991:240).
+It seems that something like this is what is happening in (4.37). The subject agreement
+marker in the same clause as the hybrid noun agrees with its syntactic gender (Masculine), while the subject agreement marker in the later clause agrees with its semantic
+number (Plural).8
+There is potential confusion in naming this gender class Plural and for practical
+reasons it may be that an alternative name would ideally be found. Nonetheless,
+thinking of this gender class as plural ﬁts the agreement facts of Katcha and is logical.
+Assuming with Corbett (1991:8) that ‘there is always a semantic core to the assignment
+system’, (in other words, gender classes always have a semantic basis), the ‘semantic
+core’ of the third gender is clearly purality. To name this gender class Plural is merely
+an extension of the same class-naming convention which grammarians have followed for
+the last two millenia: there are three gender classes in Katcha; animate males generally
+belong to the ﬁrst class so we may refer to it as Masculine; animate females generally
+belong to the second class, so we may refer to it as Feminine; animate plurals generally
+belong to the third class, so we may refer to it as Plural.
+8It could be argued that masculinity is as salient a feature of a group of boys as plurality. I have
+therefore stopped short of suggesting that in the case of laːlá, Plural is the word’s ‘semantic gender’,
+though this would certainly ﬁt with Corbett’s hypothesis. It may be that the non-local agreement in
+(4.37) is actually with number, rather than ‘semantic gender’. Nonetheless, it is clear that the local
+agreement is with the word’s syntactic gender, while the more distant agreement is more semantically
+based. In the case of i ́ːjá, ‘women’, whose syntactic gender is Plural, there is no such gender mis-match:
+both local and non-local agreeing morphemes show plural agreement. It would be instructive to see
+what happens in the case of a semantically singular noun with Plural syntactic gender, such as kanʈá,
+‘spear’: local agreement is always with the syntactic gender (Plural) as expected, but I do not have
+data on non-local agreement.","[80, 81]"
+"9.6. Case markers213It always occurs at the left periphery of the clause, which often shows non-canonical
+verbal morphology marking the verb either with inﬁnitive t- or, as here, the dependentclause marker ka. A detailed analysis of these sorts of discourse features is outwiththe scope of the current study, but whatever the analysis, it seems clear that nouns
+marked with a are not treated by the syntax as canonical subjects. It may well be more
+accurate to think of them as something like hanging topics.
+The fact that this appears to be another case of a noun being marked by an a bringsup the intriguing possibility is that this subject-marking a and the dative a may in fact
+be the same morpheme. That is, it may be possible to characterise the lexical actionsof dative a in a way that captures all three constructions in which a-marked nouns
+occur. (9.43) sketches the immediate contexts of each of these with the relevant node
+highlighted by the presence of the pointer: as the applied object of an applicative verb
+(a), as the indirect object of a ditransitive verb (b), and preverbally as something like
+a newly introduced topical subject (c).9
+(9.43) a.
+F o(si ), T y(es )
+LINK?T y(t)?T y(es → t)F o(si ), T y(es )?T y(e)
+♢F o(ben′ ),
+T y(e → (es → t))b.
+?T y(t)F o(si ),
+T y(es )?T y(es → t)F o(U),
+T y(e)?T y(e → (es → t))F o(V),
+T y(e)?T y(e → (e → (es → t)))
+?T y(e)
+F o(give′ ),
+♢
+T y(e → (e → (e → (es → t))))9For illustrative purposes, I assume that the third of these contexts is a ‘hanging topic’.","[231, 232]"
+"9.1 Event-modifying prepositional phrases
+(9.1) aːfʊ́ ʊ́rʊ́néːné k-etek-ɔːnaants 3m.crawl loc-1sg loc-body
+‘ants are crawling on my body’
+In a sentence like (9.1), it is not necessarily obvious whether the locative phrase ketekɔːna describes the location of the ants or the location of the event of their crawling. In
+other words, this phrase might be thought of as modifying an individual or it might be
+thought of as modiﬁying an event. From a formal point of view, this distinction does
+not matter a great deal since both individuals and events project type e terms. A phrase
+such as on my body can be thought of as supplying an additional proposition which is
+‘intersective’ in that it shares an argument with the matrix proposition. Whether the
+shared argument is an event term or an individual term does not make much diﬀerence
+to the process of building the propositional tree.
+In Dynamic Syntax, the formal tool used for modelling the connection between
+propositions is the LINK relation. A LINK is the relation that holds between two
+semantic trees which share some content. It is generally interpreted as a conjunction of
+the values of the LINKed nodes. In the case of event-modifying prepositional phrases,
+the LINK will hold between the situation argument of the matrix tree and the root
+node of a LINKed tree that expresses an additional proposition about that situation.
+This formal apparatus, a proposition LINKed to a term, is standardly used in DS
+to model relative clauses. This is hardly surprising, given that a relative clause also
+represents an additional proposition about some argument of the matrix proposition.
+A PP adjunct modifying an argument is essentially a ‘small’ relative clause. To see how9.1. Event-modifying prepositional phrases183this might work, we can consider the process of parsing the sentence in (9.1), assuming
+an interpretation where the prepositional phrase modiﬁes the event (though as noted
+above, the implementation works in much the same way for an analysis in which the
+PP modiﬁes the subject argument).
+The processing of (9.1) begins with the parsing of the sentential subject and verb,
+the lexical actions of the verb leaving the pointer on the situation argument node as in
+(9.2).1,2
+(9.2) Parsing aːfʊ ʊrʊneːne
+?T y(t)
+F o(ants′ ),
+T y(e)F o(si ),
+T y(es ), ♢?T y(es → t)
+F o(U),
+?∃x.F o(x),
+T y(e)F o(crawl′ ),
+T y(e → (e → t))The string aːfʊ ʊrʊneːne forms a fully grammatical sentence; if there were no
+additional lexical material, the pointer would move to the logical subject node to resolve
+the metavariable by unification with the unﬁxed node and the tree could compile
+to give a fully speciﬁed proposition. But with the pointer at the event argument
+node, there is nothing to stop this node being developed further. This can be done
+using the computational action of LINK Introduction (Kempson et al. 2001:113;
+Cann et al. 2005:88). This rule constructs a LINK relation from a type e node to
+an open propositional node (a node with a requirement for type t). It also adds a
+modal requirement ?⟨↓∗ ⟩(F o(si ), T y(es )), which requires that somewhere below (i.e. in
+the LINKed tree) should be a copy of the node at the head of the LINK (9.3).
+1The assumption that the lexical actions of the verb leave the pointer on the situation argument
+node is an adjustment to the account given in chapter 8 where it was assumed that the lexical actions
+of the verb left the pointer on the logical subject node. This does not aﬀect the analyses given there,
+merely adding an additional step of pointer movement from the situation argument node to the logical
+subject node.
+2
+Cann (In prep.) argues that, like other type e terms, event arguments should be construed as epsilon
+terms. In the formulae given in this section the internal structure of terms, including event variables,
+is suppressed for notational clarity. The interpretation of PP adjuncts given here is a non-restrictive
+one and so does not need to make reference to the internal structure of the epsilon-term.","[201, 202]"
+"Nonetheless it must be acknowledged that certain258Theoretical Analyses: Conclusionsinterpretations of the data come from approaching it with a dynamic mindset. Again,
+the analysis of nominal modiﬁers is perhaps the clearest illustration of this.
+In chapter 5 it is argued that the modiﬁers of nouns in Katcha are themselves
+appositional nominals. This is an inherently dynamic view. Most traditional grammatical formalisms see syntax as a set of largely static relationships between words, and
+therefore explain modiﬁcation in terms of hierarchical notions such as constituency.
+In contrast, the analysis given here appeals not to a hierarchical relationship between
+head and modiﬁer but to the incremental build-up of information during the parsing
+process. One nominal (the ‘head’) is parsed, contributing semantic information to the
+proposition under construction; a further nominal (the appositional ‘modiﬁer’) is then
+parsed, contributing further semantic information.
+The analysis of nominal modiﬁers also relies on a sharp distinction between lexical
+NPs, which do not allow ‘internal’ modiﬁcation, and pronouns, which do allow such
+modiﬁcation. Again, this distinction has its source in a dynamic approach. Central to
+the dynamic perspective are the notions of underspeciﬁcation and subsequent update.
+Anaphoric elements are seen as semantically underspeciﬁed, requiring some subsequent
+update to make them interpretable. In contrast, lexical nouns have a fully speciﬁed
+semantics and so provide signiﬁcantly less scope for any further speciﬁcation of their
+interpretation. From this perspective, it is intuitive rather than surprising that there
+should be a diﬀerence in the way pronouns and lexical NPs undergo modiﬁcation.
+Approaching the data from a dynamic perspective thus opens up the possibility
+of analysing modiﬁers as appositional nominals. This analysis provides what I believe
+to be the best explanation of the facts of the Katcha data, incorporating the role of
+the medial and distal demonstratives within the account of nominal modiﬁcation and
+suggesting a connection between Katcha modiﬁers and the construct form found in
+many African languages. These insights would in all likelihood have been missed if the
+data had not been considered from a perspective whose underpinning presuppositions
+are dynamic.
+It has to be recognised then, that data is not described in a vacuum; the general
+theoretical assumptions held by the researcher — any researcher — frame the questions
+he or she asks and inﬂuence the descriptive analysis. In this study I have attempted
+to present the morphosyntactic descriptions in a relatively atheoretical way but the
+general assumptions underlying these descriptions come from a position which takes
+incrementality and dynamic processes seriously. Adopting such assumptions brings a
+particular perspective and yields particular insights in the morphosyntactic descriptions, which otherwise might be missed.","[276, 277]"
+"7.3 Applicative
+The applicative suﬃxes correspond to Stevenson’s ‘dative action’ (Stevenson 1941:112).
+Stevenson gives only one suﬃx under this heading, -tV, and my data concurs with hisinsofar as the most common applicative suﬃx in my data is -tá (7.28b-7.29b). However,
+some verbs take the suﬃx -nV̂, which appears to perform the same function (7.30b-7.31b). The distinction between -tá and -nV̂ would appear to be a lexical property of
+the verb rather than any semantic property of the aﬃx.
+(7.28) a. akkám-ʊnɪkʊ́rɪwoman 3f-cook food
+‘the woman is cooking food’
+b. akkám-ʊnɪ-tákʊ́rɪ akʊ́kkʊwoman 3f-cook-appl food dat Kuku
+‘the woman is cooking food for Kuku’
+(7.29) a. kʊ́kkʊ́ iti ́ni ́mɪ ́kɪleKuku 3m.sow millet
+‘Kuku is sowing millet’
+b. itina-táakʊ́kkʊ3m.sow-appl dat Kuku
+‘he is sowing millet for Kuku’
+(7.30) a. akkám-ʊ́ ʊ́mɪ ́kɪlewoman 3f-grind millet
+‘the woman is grinding millet’
+b. akkám-ʊ́ ʊ́-nʊ̂mɪkɪle akʊ́kkʊwoman 3f-grind-appl millet dat Kuku
+‘the woman is grinding millet for Kuku’
+(7.31) a. omuɗi urúɓú
+manɗi3m.build house‘the man is building the house’
+b. omuɗi uruɓú-nɗiakʊ́kkʊKuku 3m.build-appl house dat Kuku
+‘the man is building the house for Kuku’142Morphosyntactic Descriptions: Verb ExtensionsThe additional argument introduced by the applicative-marked verb follows the direct
+object (where there is one). It is preceded by the dative preposition a, which marks
+it as an oblique argument rather than a core argument of the verb. Assuming that
+‘applicative’ is deﬁned as ‘a valence increasing operation that brings a peripheral participant onto center stage by making it into a direct object’ (Payne 1997:186, emphasis
+mine), this means that the -tá/-nV̂ suﬃx does not strictly speaking mark applicative,
+but dative. Its function is still to license the presence of an extra argument beyond
+those required by the semantics of the verb (in contrast to ditransitive verbs such asanáŋːá ‘give’ which require no such suﬃx). But rather than licensing the presence of
+a direct object, the suﬃx licenses the presence of a dative object. A further typical
+feature of applicatives which is lacking in Katcha is an alternation between applicative
+and non-applicative (eg adpositional) constructions. In Katcha there is no preposition
+that can be used with non-applicative verbs to mark benefactive. The only way to
+express a benefactive meaning is with the applicative construction. Languages do exist
+where the use of applicative constructions are obligatory, but it is more prototypical
+for applicatives to be optional (Peterson 2006:45-51). So this is another way in which
+Katcha does not exhibit prototypical applicatives. Nonetheless, I retain the use of the
+term ‘applicative’ for now since this is a widely used term for a morpheme on a verb
+which licenses the presence of an extra argument. The diﬀerence in the Katcha case is
+that the morpheme licenses an oblique, rather than core, argument.
+The applicative form of a transitive verb does not appear to be aﬀected by the
+presence or absence of an object. There is no diﬀerence between the morphology of the
+verb in (7.31b), where the direct object is present and that in (7.32), where there is no
+direct object.
+(7.32) omuɗi uruɓú-nû
+manakʊ́kkʊ3m.build-appl dat Kuku‘the man is building for Kuku’
+One explanation of this is simply to note that as a ‘pro-drop’ language transitive
+verbs in Katcha do not require an overt object. Thus it may be the form in (7.32)
+is transitive, with an implied object; it would perhaps be better glossed as ‘the man
+is building it/something for Kuku’. The existence of examples such as (7.32) does not
+therefore preclude the existence of verbs which are both antipassive and applicative.
+The fact there are no clearly attested examples may simply be a matter of frequency and
+plausibility: the antipassive and the applicative are to some extent mutually exclusive.
+The antipassive is used to express situations in which there is no theme or patient and
+which are therefore quite general; the applicative is used to express situations in which
+there is a goal or a beneﬁciary and which are therefore much more likely to involve
+actions that are quite speciﬁc. It is not surprising that the two forms are seldom, if7.3. Applicative143ever, found together.
+An alternative explanation is to note that there are two lexically-conditioned applicative suﬃxes, one of which displays vowel harmony with the root. As was speculated
+for the antipassive, this may be an indication that applicative verbs are lexicalised. If
+so, we would not expect to see an antipassive ‘suﬃx’ and an applicative ‘suﬃx’ on the
+same verb: both form part of the stem and are in the same ‘slot’.
+The idea that the applicative may be lexicalised is supported by the existence of
+a couple of apparently irregular suﬃxes. The suﬃx -nVkV occurs with the verb ʊmʊ
+‘hold’ (7.33).8 It is unclear whether this is an irregular applicative morpheme; it may be
+a combination of Applicative -nV̂ with some additional morpheme. No other examples
+of this suﬃx have been found.
+(7.33) a. omuɗi ʊmʊ
+mankanʈa3m.hold k.o.spear‘the man is carrying a spear’
+b. omuɗi ʊmʊ-n k
+mankanʈaakʊkkʊ3m.hold-appl k.o.spear ben Kuku‘the man is carrying a spear for Kuku’
+Another apparently unique suﬃx is the -nɔta Applicative suﬃx which occurs only withthe verb ɪjɔ ‘wash’ (Tuna dialect) (7.34). In this case there is a plausible diachronicexplanation. In the larger ‘Katcha proper’ dialect, a diﬀerent verb is used: ɔkɔnɔ, whichtakes the regular -ta applicative suﬃx (7.35). It seems probable that the irregular suﬃx
+in (7.34b) is a borrowing and reanalysis of the ﬁnal two syllables of the verb in (7.35b),
+i.e. the ﬁnal syllable of the root used in the Katcha dialect area has been taken along
+with the regular -tá suﬃx and reanalysed to create an irregular suﬃx.9
+(7.34) a. akkam-ɪjɔenɗɗɪ[Tuna dialect]woman 3f-wash clothes
+‘a woman is washing clothes’
+b. m-ɪjɔ-nɔtaenɗɗɪ akʊkkʊ3f-wash-appl clothes dat Kuku
+‘she is washing clothes for Kuku’
+(7.35) a. akkam-ɔkɔnɔ enɗɗɪwoman 3f-wash clothes
+‘a woman is washing clothes’
+8
+9Tones unkown.
+Tones unkown for these two verbs.","[160, 161, 162]"
+"80Morphosyntactic Descriptions: Nominal Modiﬁers5.4.2 Nominal modiﬁers as demonstrative pronouns — Morphosyntactic
+evidence.
+Having noted the evidence that já/má/ná and já/mɔ́/nɔ́ are phonologically conditioned
+allomorphs, the question arises as to the nature of this morpheme. Based on the
+morphosyntactic properties presented in sections 5.1-5.3, this section argues that it is
+in fact the proximal demonstrative pronoun, acting as head of the modiﬁer phrase. A
+possible alternative answer is that the já/mɔ́/nɔ́ morpheme is simply a general marker
+of modiﬁcation. The latter suggestion does not ﬁt the Katcha data as well as the
+analysis proposed here but it should be noted that the two analyses are related, and in
+section 5.5.2 it is speculated that Katcha may be in the midst of a move from one to
+the other.
+It was demonstrated in sections 5.1-5.3 that demonstratives, possessive noun phrases
+and relative clauses all display the same morphosyntactic properties with respect to
+gender agreement, the modiﬁcation of peripheral arguments and pronominal use. Some
+relevant examples are repeated below (5.36-5.44).4
+Gender agreement
+(5.36), (5.37) and (5.38) demonstrate that gender agreement is exhibited by demonstratives, possessives and relatives, respectively.
+(5.36) a. omuɗi já
+manaɗiːlaprox.m 3m.good‘That man is good’
+b. akkámɔ́(ADVICE:1.1)táːlɔ m-áɗiːlá ɗɔwoman prox.f neg 3f-good very
+‘This woman is not good at all’
+c. katʊ́nɔ́(ADVICE:1.32)k-aɗiːlápeople prox.p 3p-good
+‘Those people are good’
+(5.37) a. ɲɔrɔɲɔrɔ́ já(ADVICE:1.3)kʊ́kkʊ̂k.o.spear poss.m Kuku
+‘Kuku’s spear’
+4
+These examples are rearranged slightly and given new numbering to make the presentation clearer,
+but they are all taken from the discussion above. (5.1→5.36, 5.10→5.37, 5.18→5.38, 5.5→5.39a,
+5.6a→5.39b, 5.14→5.40a, 5.15a→5.40b, 5.25→5.41, 5.9a→5.42, 5.17→5.43, 5.27→5.44 )5.4. A uniﬁed analysis for nominal modiﬁers
+b. tɔlɔmá81kʊ́kkʊ̂gourd poss.f Kuku
+‘Kuku’s gourd’
+c. kânʈánákʊ́kkʊ̂k.o.spear poss.p Kuku
+‘Kuku’s spear’
+(5.38) a. miːte [j-akʊ́
+oxɔ́ːjɔ́já] amaːlarel.m-eat grass rel.m 3m.be.brown‘The ox which is eating grass is brown’
+b. kɪbe[m-akʊ́ɔ́ːjɔ́mɔ́] m-amaːlashe.goat rel.f-eat grass rel.f 3f-be.brown
+‘The goat which is eating grass is brown’
+c. kɪbɪ-ɪnɪ ́ɔ́ːjɔ́[n-akʊ́nɔ́] k-ak-amaːlashe.goat-pl rel.p-eat grass rel.p 3p-pl-be.brown
+‘The goats which are eating grass are brown’Behaviour with non-core arguments
+(5.39b), (5.40b) and (5.41) demonstrate that demonstratives, possessives and relatives
+respectively are marked with the t- preﬁx when they modify a noun which is not a core
+argument of the verb.
+(5.39) a. a a n-asáːsá[tɪŋkere nɔ́1sg 1sg-want bed]prox.p‘I want this bed’
+b. a a n-afʊ́ŋɔ́[kátɪŋkéré tá-nɔ́1sg 1sg-sleep loc bed]obl-prox.p‘I sleep on this bed’
+(5.40) a. a a n-asáːsá[páppá jákʊ́kkʊ̂ ]1sg 1sg-want father poss.m Kuku
+‘I want Kuku’s father’
+b. a a n-asáːsáɗi[jápáppá tɪ ́-jákʊ́kkʊ̂ ]1sg 1sg-want house poss.m father obl-poss.m Kuku
+‘I want Kuku’s father’s house’82Morphosyntactic Descriptions: Nominal Modiﬁers
+ana(5.41)ꞌbangnga ma kadum-anaɓaŋːama katʊ3f-have mercyof[tanno
+ta-nairiꞌba oonoɪrɪɓa a-ɔnɔpeople obl-rel.p fearno]nɔdat-3f rel.p‘He has mercy on those who fear Him.’(LUKE 1.50)Pronominal use
+(5.42), (5.43) and (5.44) demonstrate that demonstratives, possessives and relatives
+respectively may occur without an explicitly realised head noun, in which case they act
+as pronouns.
+(5.42) já
+prox.m
+‘This one’
+(5.43) Nahamada nïïlenahamata ni:leposs.p Hamad Nile
+‘Those of Hamad Nile (i.e. Hamad Nile’s people/family)’
+(5.44)
+aya
+jaadïnï atene ka
+atini -tene ka(SPLA:7)ïmmï kateene ya
+imːikateːne jasubj rel.m- plant -pass loc thorns inside
+‘The ones which fell among thorns.’rel.m(MAT 13.22)Medial and Distal Pronouns
+The data in (5.36-5.44) demonstrate that relative markers, possessive markers and
+proximal demonstratives all behave in the same way. This is not surprising, as section
+5.4.1 has already shown evidence that they are all the same morpheme. However,
+it is important to note that the medial and distal demonstratives, which are clearly
+unrelated morphemes, also show exactly the same properties. Some relevant examples
+are repeated below(5.45-5.48).5
+5Again, these examples are rearranged and renumbered for clarity. (5.2b→5.45a, 5.3b→5.45b,
+5.4b→5.45c, 5.2c→5.46a, 5.3c→5.46b, 5.4c→5.46c, 5.6b,c→5.47, 5.9b,c→5.48)5.4. A uniﬁed analysis for nominal modiﬁers83Gender agreement
+(5.45) and (5.46) demonstrate that gender agreement is exhibited by the medial and
+distal demonstratives respectively.
+(5.45) a. a a n-asáːsáɲɔrɔɲɔrɔ́k
+́1sg 1sg-want k.o.spear med.m/p
+‘I want that spear’
+b. a a n-asáːsátɔlɔɔkɔ1sg 1sg-want gourd med.f
+‘I want that gourd’
+c. a a n-asáːsákânʈák
+́1sg 1sg-want k.o.spear med.m/p
+‘I want that spear’
+(5.46) a. a a n-asáːsáɲɔrɔɲɔrɔ́ ́n1sg 1sg-want k.o.spear dist.m/p
+‘I want that spear (way over there)’
+b. a a n-asáːsátɔlɔm1sg 1sg-want gourd dist.f
+‘I want that gourd (way over there)’
+c. a a n-asáːsákânʈá́n1sg 1sg-want k.o.spear dist.m/p
+‘I want that spear(way over there)’Behaviour with non-core arguments
+(5.47a) and (5.47b) demonstrate that medial and distal demonstratives respectively are
+marked with the t- preﬁx when they modify a noun which is not a core argument of
+the verb.
+(5.47) a. a a n-afʊ́ŋɔ́[kátɪŋkéré t- k
+́1sg 1sg-sleep loc bed]obl-med.m/p‘I sleep on that bed’
+b. a a n-afʊ́ŋɔ́[kátɪŋkéré t- ́n1sg 1sg-sleep loc bedobl-dist.m/p‘I sleep on that bed (way over there)’]84Morphosyntactic Descriptions: Nominal ModiﬁersPronominal use
+(5.48a) and (5.48b) demonstrate that medial and distal demonstratives respectively may
+occur without an explicitly realised head noun, in which case they act as pronouns.
+(5.48) a. ékê
+med.m
+‘That one’
+b. i ́nːi ̂
+dist.m
+‘That one (way over there)’
+The medial and distal demonstratives behave exactly like all other modiﬁers, except
+that they do not take j-/m-/n- ‘preﬁxes’. This concurs with the evidence presentedin the preceding sections that j-/m-/n- are not preﬁxes which attach to modiﬁers,
+but are themselves the modiﬁers. Moreover, the only nominal modiﬁers which arenot of the form já/mɔ́/nɔ́ are the medial and distal demonstratives. If the já/mɔ́/nɔ́
+morpheme which introduces a possessive noun phrase or a relative clause is the proximal demonstrative, then there is a uniﬁed analysis which accounts for all examples:
+nouns in Katcha may be modiﬁed only by demonstratives, or by phrases headed by
+demonstratives.
+As mentioned in section 5.1.2, there is evidence that demonstratives should be considered pronouns rather than determiners; in fact, there are no determiners in Katcha.
+Since there are also no adjectives, Katcha has no modiﬁers that are unambiguously
+internal to the noun phrase. This suggests that lexical nouns form complete noun
+phrases and cannot be modiﬁed directly, from within the noun phrase. That is to say,
+a noun phrase (in Minimalist terms, a DP) may be made up only of a noun. The
+demonstrative is a pronoun which can be considered to stand in apposition with the
+noun, taking its reference anaphorically. (5.2′ ) & (5.6c′ ) repeat some of the examples
+given earlier, with an altered free translation which is more reﬂective of this analysis:
+(5.2′ ) a a n-asáːsáɲɔrɔɲɔrɔ́ já1sg 1sg-want k.o.spear prox.m
+‘I want a spear, this one’
+(5.6c′ ) a a n-afʊ́ŋɔ́[kátɪŋkéré t- ́n1sg 1sg-sleep loc bed]obl-dist.p‘I sleep on a bed, that one (way over there)’
+In the case of possessives and relative clauses, the same analysis can be put forward. The
+anaphorically resolved demonstrative heads the modiﬁer phrase which is appositional to5.4. A uniﬁed analysis for nominal modiﬁers
+Proximal
+(Possessive)
+já noun
+mɔ́ noun
+nɔ́ nounjá
+mɔ́
+nɔ́Masculine
+Feminine
+Plural(Relative)
+já V
+mɔ́ V
+nɔ́ V85
+MedialDistalékê
+ɔkɔ̂
+ékêi ́nni ̂
+ummû
+i ́nni ̂Table 5.3: Nominal modiﬁers in Katcha — Analysisthe noun it modiﬁes. It is then the nature of the appositional phrase which determines
+the modiﬁer’s interpretation, as summarised in table 5.3.
+When the demonstrative is followed by a noun, it is interpreted with a possessive
+meaning. (5.10c′ ), (5.11′ ) & (5.17′ ) repeat some of the examples given earlier, with
+glosses and free translations more reﬂective of this analysis. Note that in the case of
+(5.17′ ) the free translation does not actually require to be changed at all from that
+originally given in (5.17):
+(5.10c′ ) kânʈánákʊ́kkʊ̂k.o.spear prox.p Kuku
+‘a spear, this one of Kuku’s’
+(5.11′ ) a a n-asáːsáɗij -́ t́ ́1sg 1sg-want house prox.m-1sg
+‘I want a house, this one of mine’
+(5.17′ )anahamada nïïle
+hamata ni:leprox.p Hamad Nile‘Those of Hamad Nile’(SPLA:7)When the demonstrative is followed by a verb, it acts as its subject, resulting in
+a subject relative clause. The demonstrative pronoun replaces the subject agreement
+marker in this case. If the subject agreement marker is thought of as an incorporated
+pronoun (as suggested by Norton (2008b)), then this is entirely natural. One pronoun,
+the demonstrative, has simply taken the place of another, the subject marker (5.18′ ):
+(5.18′ ) miːte [j-akʊ́
+oxɔ́ːjɔ́já] amaːlaprox.m-eat grass rel.m 3m.be.brown‘An ox, this one eating grass, is brown’86Morphosyntactic Descriptions: Nominal ModiﬁersIn the case of non-subject relatives, Stevenson (1941:68) notes that they are formed in
+Katcha using a construction parallel to that used for possessives. The relative clause
+is non-ﬁnite or nominalised, as indicated by the dependent clause marker ka (and
+also sometimes the inﬁnitive marker t-). Thus non-subject relatives can be seen asa ‘possessive’ relation holding between two ‘nominals’: the head noun, and the event
+described by the relative clause. (5.21′ ) & (5.22b′ ) repeat examples given earlier, with
+glosses and free translations more reﬂective of this analysis.
+(5.21′ ) a a n-ɪcɪ ́ráːká [já1sg 1sg-see ﬁeldfi ́ːjɔ kat-akʊ́rɪ kɪtejá]prox.m cow dcm inf-eat there rel.m‘I see a ﬁeld, this one of the cow’s eating grass in it’
+(5.22b′ ) kɔːkɔ́rɔ́ [m -́ t́ ́
+henkaɪcɪ ́ ɔ́ːkɔ́ mɔ́prox.f-1sg dcm see 3f] m-ɔʈɔ́merekérel.f 3f-peck sesame‘A hen, this one of my seeing it, is eating sesame’
+It should be noted that the morpheme at the end of a relative clause does not
+quite ﬁt the analysis as explained here. It does not seem to be appositional to any
+other nouns and does not take a t- preﬁx when within an oblique phrase. Both of
+these facts follow from its position at the end of the clause in that it does not directly
+follow the modiﬁed noun, and the t- preﬁx attaches to the clause-initial morpheme.
+Note also that its status is somewhat unclear. Stevenson (1956-57:63-64) states that it
+marks deﬁniteness, implying that it is optional. If this were true, the analysis should
+be straightforward, conﬁrming the morpheme to be a demonstrative. On the other
+hand, Gilley (2013:502) suggests that it is obligatory for masculine nouns, optional
+for feminine, and unattested for plural, which would make the analysis somewhat
+trickier. Neither of these descriptions quite match my data: the relative clause-ﬁnal
+marker seems to be present fairly consistently. Interestingly though, in chapter 10
+a Dynamic Syntax analysis of Katcha relative clauses is given which assumes the
+clause-ﬁnal relative marker to be a demonstrative. On the basis of that assumption it
+transpires that the role of the ﬁnal morpheme is to contribute deﬁniteness; in other
+words, Stevenson is predicted to be correct.
+The analysis that nominal modiﬁers comprise noun phrases in apposition, gets
+some extra support from the wider tendencies of Katcha syntax, in that Katcha has a
+tendency also to put verbs and clauses in apposition. Thus, while (5.49) is a perfectly
+grammatical way of expressing the proposition ‘Kuku is a tall man’, (5.50) is equally
+grammatical, and probably more common.","[98, 99, 100, 101, 102, 103, 104, 105]"
+"206Theoretical Analyses: Adjuncts, Prepositions and CaseRather than a lexical approach treating mʊnɪtá as a three-place predicate, as in
+(9.32-9.33), an analytic approach would treat it as a two-place predicate with the
+applicative morpheme signalling the presence of an adjunct (in DS terms, constructing
+a LINKed tree).
+The parsing of (9.31) under such an approach would begin with the parsing of the
+subject and verb, leading to the tree in (9.34).
+(9.34) Parsing akká mʊnɪ
+?T y(t)
+F o(woman′ ), F o(si ), ♢
+T y(e)
+T y(es ),?T y(es → t)F o(U),
+T y(e)?T y(e → (es → t))F o(V),
+T y(e)F o(make′ ),
+T y(e → (e → (es → t)))With the pointer on the event node, as is usual after parsing a verb, the applicative
+morpheme -ta is now parsed, according to the lexical entry given in (9.35), which builds
+a LINKed node, decorates it with a propositional requirement and returns the pointer
+to the matrix tree ready to parse the direct object, giving the tree in (9.36)
+(9.35) Lexical entry for applicative -ta
+-taIFF o(α), T y(es )THENmake(⟨L⟩), go(⟨L⟩), put(?T y(es ), ?⟨↓∗ ⟩F o(α), T y(es ))
+go(⟨L−1 ⟩, ⟨↑0 ⟩, ⟨↓1 ⟩, ⟨↓1 ⟩, ⟨↓0 ⟩)ELSEAbort9.5. Applicatives207(9.36) Parsing akká mʊnɪtá
+?T y(t)
+F o(woman′ ),
+T y(e)F o(si ),
+T y(es ),?T y(es → t)F o(U),
+T y(e)?T y(e → (es → t))LINKF o(V), ♢
+T y(e)F o(make′ ),
+T y(e → (e → (es → t)))?T y(t)The matrix tree can now be completed, the logical object node being resolved by parsing
+the object kʊ́rɪ and the logical subject node by uniﬁcation with the unﬁxed node. The
+entire structure is not yet complete though, with an outstanding requirement on the
+LINKed node. This reﬂects the fact that *akká mʊnɪtá kʊ́rɪ, with its applicative verb
+form, is not a grammatical utterance. The pointer therefore moves to the outstanding
+node (9.37), requiring further lexical material to allow the parse to proceed.
+(9.37) Parsing akká mʊnɪtá kʊ́rɪ
+?T y(t)F o(si ),
+T y(es ),F o(make′ (food′ )(woman′ )), T y(es → t)
+F o(woman′ ),
+T y(e)F o(make′ (food′ )), T y(e → (es → t))LINKF o(food′ )
+T y(e)F o(make′ ),
+T y(e → (e → (es → t)))?T y(t), ♢The additional lexical material comes from the dative noun phrase a kʊ́kkʊ. Assumingfor now that dative a is an ordinary preposition, its role will be parallel to that of ka
+described in section 9.1: it deﬁnes a relationship (in this case, benefactive) between its
+complement (Kuku) and the event it modiﬁes (in this case, the woman making food).","[224, 225, 226]"
+"6.7. Conclusion1256.7 Conclusion
+This chapter set out to describe the various forms of pronoun found in Katcha and to
+explain the diﬀerences between them. Given the fact that the choice of pronominal
+form is heavily dependent on the role it plays in the sentence and (in oblique cases)
+which preposition it follows, an extended discussion of prepositions and similar morphemes was necessary before it was tentatively concluded that these diﬀerent forms
+are realisations of case. Core cases (Nominative and Accusative) are assigned by verbs,
+while prepositions assign Accusative or Oblique case to their pronominal complements.
+The pronominal system once again reﬂects the importance in Katcha of the contrast
+between the notions of ‘core’ and ‘peripheral’.10 There are two sets of pronouns, one of
+which is used for the core arguments of subject and object while the other is used for
+oblique arguments. For this reason, I have proposed referring to these sets of prononuns
+as the core pronouns and the oblique pronouns respectively. Even if it is correct that
+there is a distinction between the nominative and accusative cases, this still amounts
+to a secondary diﬀerentiation within the category of core pronoun.
+When we look at the interaction between the pronouns and prepositions it becomes
+clear that these contrasting notions of core and non-core apply in other areas of the
+language, and not just to argument structure. There are three types of prepositions:
+those which take core pronouns as complements, those which take oblique pronouns as
+complements and those which take a combination. The third group, which includes the
+great majority of prepositions, is perhaps the most interesting because of the nature
+of the combination of pronouns. The relevant factor in this case is whether or not
+the preposition’s complement is a speech act participant. In 1st and 2nd person,
+i.e. the core speech act participants, these prepositions take core pronouns as their
+complements. In the 3rd person, i.e. non-speech act participants, the oblique pronouns
+are used. In this way, there is a morphologically realised connection between the
+notion of core arguments with regard to sentencial predicate-argument structure and
+the notion of core participants with regard to speech act participation. The fact that
+the pronouns used for subject and object (vis a vis oblique arguments) are also used for
+speaker and hearer (vis a vis non-participants) gives further support to the idea that
+the main diﬀerence between the two sets of pronouns is that of ‘core’ vs ‘peripheral’.","[143, 144]"
+"248Theoretical Analyses: Nominal Modiﬁers(10.31) Modiﬁed noun phrase kɔːkɔ́rɔ́ má kʊ́kkʊ̂ ka ɪcɪ ́ ɔ́ːkɔ́ (A hen which Kuku sees)
+F o(ϵx , Hen′ (x) ∧ ϵx , P OSSD(SEEING′ )(x)), T y(e), ♢
+LINKF o(ϵx , P OSSD(SEEING′ )(x)), T y(e)F o(ϵ),
+T y(t → e)F o(P OSSD(SEEING′ )(x)), T y(t)F o(x), T y(e)F o(P OSSD(SEEING′ )(z)),
+T y(e → t)
+F o(SEEING′ ), F o(P OSSD(w)(z)),
+T y(e)
+T y(e → e → t)If this is the correct approach to the non-subject relative construction, parsing (10.29)
+would entail parsing the head noun, constructing a LINK from it to a ?T y(e) node
+and parsing the demonstrative pronoun in the usual way. Since the next lexical item
+to be parsed is the proper noun Kuku the possessive set of lexical actions (the second
+disjunct from the lexical entry in (10.26)) will be executed, constructing the ‘possessive’
+predicate as well as the iota-structure as its object. Thus far the process is exactly as
+for possessives, leading to the partial tree in (10.32).
+(10.32) Parsing ɔːkɔ́rɔ́ má kʊ́kkʊ̂:
+F o(ϵx , Hen′ (x)), T y(e)
+LINKF o(UU∈Fem ), T y(e)
+?∃x.F o(x)
+F o(ϵ),
+T y(t → e)?T y(t)F o(x), T y(e)?T y(e → t)F o(ιy Kuku′ (y)),
+T y(e)F o(λw.λz(P OSSD(w)(z))),
+T y(e → e → t)At this point in the parse the dependent clause marker ka is parsed and presumably
+indicates that the term currently under development does not make up the entirety of
+the logical object, but is part of a larger entity. How the process unfolds to produce
+a term representing ‘the event of Kuku seeing it’ is a matter of the internal structure10.5. Conclusion249of the relative clause so I leave it aside for the present, pending an analysis of clauses
+with ka. For now it is suﬃcient to see how straightforwardly non-subject relatives may
+be integrated into the overall analysis of nominal modiﬁers.1010.5 Conclusion
+The analysis of Katcha nominal modiﬁers proposed in chapter 5 is that they are
+uniformly ‘headed’ by demonstrative pronouns appositional to the noun phrase. This
+is modelled in the Dynamic Syntax framework using a general computational rule
+of Appositive LINK Introduction (10.4). This rule constructs a LINK relation
+between two type e nodes which are decorated by epsilon terms projected by two noun
+phrases, namely the modiﬁed NP (a lexical noun) and the modiﬁer ‘headed’ by a
+demonstrative pronoun. The corresponding evaluation rule (10.9) merges the two into
+a single epsilon term with a conjoined restrictor. Thus the properties projected by two
+noun phrases in apposition can only be interpreted as holding of a single individual.
+The analysis of demonstrative pronouns presented here extends the actions associated with them to include the construction of more semantic structure than is
+standard in Dynamic Syntax. Pronouns are seen not only to be placeholders but also
+to build partial epsilon structures. Speciﬁcally, they project an argument variable and
+an epsilon binder, but no restrictor. The restrictor may be provided by substitution
+of a referent from context, in which case the demonstrative has a deﬁnite, pronominal
+interpretation (section 10.1). Alternatively, it may be provided by a verb, in which
+case the demonstrative essentially acts as a relative pronoun (section 10.2). Another
+possibility is that the restrictor’s value is constructed from some contextually provided
+value expressing some relationship, such as possession, between the argument variable
+and some other term (section 10.3). These possibilities directly model the analysis of
+chapter 5 where it was argued that the interpretation of a demonstrative pronoun is
+dependent on what follows in the rest of the modiﬁer phrase.
+The fact that the demonstrative pronoun projects an internal argument node and
+decorates it with a variable restricts how the metavariable can be updated by substitution and means that the analysis predicts certain correlations which do not necesarily
+seem to be related at ﬁrst. For example, the analysis predicts correctly that only
+subjects can be relativised directly. Similarly, the predicate of possession is forced to
+have as its logical subject the possessee rather than the possessor, which reﬂects the
+10An alternative approach would be to assume that the relative clause provides context to enrich
+some semantically weak predicate (possibly a metavariable) which holds of the head noun. In this
+case the dependent clause marker presumably marks the fact that the verb does not predicate over
+the nominal variable but has some other relation to it. Again, a full analysis will need to wait until
+the DCM has been studied more carefully. If this were the correct analysis, it would be likely to have
+implications for the present account of the semantically weak predicate P OSSD.","[266, 267, 268]"
+"986.2.2 Prepositions requiring oblique pronouns . . . . . . . . . . . . . . . . 101
+6.2.3 Prepositions requiring both core and oblique pronouns . . . . . . . . 103
+6.3 Related Morphemes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+6.3.1 Directional (goal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+6.3.2 Possessive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+6.4 Modiﬁcation of locative phrases . . . . . . . . . . . . . . . . . . . . . . . . 116
+6.4.1 Locative adverbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+6.4.2 Additional prepositional phrases . . . . . . . . . . . . . . . . . . . . 120
+6.5 Lexical speciﬁcation of prepositions . . . . . . . . . . . . . . . . . . . . . . 122
+6.6 Pronominal case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+6.7 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+7 Verb Extensions1277.1 Possible Verb Extensions in Katcha . . . . . . . . . . . . . . . . . . . . . . 128
+7.2 Valency reducing suﬃxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+7.2.1 Antipassive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+7.2.2 Passive (‘Personal Passive’). . . . . . . . . . . . . . . . . . . . . . 1337.2.3 Unaccusative (‘Impersonal Passive’) . . . . . . . . . . . . . . . . . . 135
+7.2.4 Middle Voice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+7.2.5 Summary of Valency-Reducing Verb Extensions . . . . . . . . . . . . 139
+7.3 Applicative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+7.4 Reciprocal and Reﬂexive . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+7.5 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145xiv
+IIICONTENTS
+Theoretical Analyses1478 Verb Extensions1498.1 Transitive verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+8.2 Antipassive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+8.3 Passive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+8.4 Unaccusative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+8.5 Middle Voice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+8.6 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+9 Adjuncts, Prepositions and Case1819.1 Event-modifying prepositional phrases . . . . . . . . . . . . . . . . . . . . . 182
+9.2 Recursive locative prepositional phrases . . . . . . . . . . . . . . . . . . . . 187
+9.3 Predicate-modifying prepositional phrases . . . . . . . . . . . . . . . . . . . 193
+9.4 Locative adverbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 197
+9.5 Applicatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+9.6 Case markers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+9.7 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
+10 Nominal Modiﬁers21910.1 Demonstratives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+10.2 Subject Relatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 227
+10.3 Possessive NPs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+10.4 Non-subject Relative Clauses . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+10.5 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+11 Conclusions25111.1 Typological ﬁndings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+11.1.1 Number and gender . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+11.1.2 Nominal Modiﬁers . . . . . . . . . . . . . . . . . . . . . . . . . . . 253
+11.2 Theoretical ﬁndings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25311.2.1 Verb extensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 253
+11.2.2 Adjuncts, prepositions and case . . . . . . . . . . . . . . . . . . . . 254
+11.2.3 Nominal Modiﬁers . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+11.3 Concluding comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+11.3.1 Taking a dynamic approach
+11.3.2 The notion of context. . . . . . . . . . . . . . . . . . . . . . 256. . . . . . . . . . . . . . . . . . . . . . . . . 25911.3.3 Grammar and lexicon . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+Bibliography263List of Tables
+2.1 Three proposed groupings of Kadu languages and dialects . . . . . . . . . . . .","[14, 15, 16]"
+"4.1. Number37exactly how this is done. Where there is no evidence to the contrary, my default is to
+assume a transparent analytic morphology for multimorphemic words on the basis that
+this best satisﬁes Occam’s razor.2 For this reason the descriptive analyses in part II
+largely focus on establishing the function of individual morphemes and the theoretical
+analyses in part III on deﬁning their formal semantics. I assume that evidence in
+favour of taking an alternative, more lexical position in any particular case will largely
+come from morphophonology (Kaye 1989, 1995). Since this study has little to say
+on phonology, I remain open minded about the best morphological analysis in any
+given instance and in places I consider analyses based on an alternative morphological
+characterisation.3,44.1 Number
+Number is marked on Katcha nouns by plurative and singulative aﬃxes. Most of
+these are preﬁxes, and they are relatively numerous. In some cases, singulative and
+plurative preﬁxes occur in pairs, and in a subset of these, it is possible to see a semantic
+connection between the nouns they inﬂect. In this way, Katcha nouns superﬁcially
+resemble Kordofanian nouns with their noun-class preﬁxes and Stevenson (1941, 195657) frames his presentation of nouns in these terms. Stevenson does note two important
+caveats: ﬁrstly, that the agreement system in Katcha is quite diﬀerent to those found
+in the Kordofanian languages (this is discussed in section 4.2), and secondly, that ‘most
+of the noun classes possess either a singular or a plural preﬁx, but not both’ (Stevenson
+1941:26).
+More recent work (Dimmendaal 2000; Gilley 2013) has argued that Katcha displays
+a system more typical of Nilo-Saharan nouns: a tripartite system consisting of ‘singulative marking, plural marking, and a replacement pattern’ (Dimmendaal 2000:214).
+That is to say, there are nouns whose plural form is unmarked and whose singular is
+marked morphologically; there are nouns where the unmarked form is the singular and
+it is the plural form which is morphologically marked; ﬁnally, there are nouns where
+both singular and plural carry morphological inﬂection. Diverging from Dimmendaal’s
+terminology slightly, I refer to morphology of the ﬁrst type as singulative, to the second
+type as plurative and to the third type as replacive. To avoid ambiguity, when referring
+to the number of the referent, I use the terms semantically singular or semantically
+plural.
+2We need a syntax to combine linguistic units anyway, so all things being equal we may as well use
+it rather than have a separate set of morphological operations.
+3
+For example, see the discussion in section 9.5 of whether verbs carrying an applicative suﬃx should
+be analysed as lexical items or analytically.
+4
+The approach to morphology summarized here is in line with the general assumptions of Dynamic
+Syntax. DS takes linguistic formatives as projecting semantic instructions to the computation, but is
+not exercised about whether those formatives are words or morphemes.","[55, 56]"
+"168Theoretical Analyses: Verb Extensions(8.34) Final tree for kʊrɪ ʊnɪ-tené
+F o(Cook′ (ϵx , Food′ (x))(Kaka′ )(si )),
+T y(t), ♢F o(si ),
+T y(es )F o(Cook′ (ϵx , Food′ (x)(Kaka′ ))
+T y(es → t)F o(Cook′ (ϵx , Food′ (x)),
+T y(e → (es → t))F o(Kaka′ ),
+T y(e)F o(ϵx , Food′ (x)),
+F o(Cook′ ),
+T y(e)
+T y(e → (e → (es → t)))8.4 Unaccusative
+(8.35) ambá m-abʊ-ncakâtabeːnédrum 3f-beat-unacc loc wrestling
+‘drums are hit for wrestling (habitually)’
+The lexical actions associated with the unaccusative directly correlate with those
+of the antipassive. The diﬀerence of course, is that unaccusative constructions are
+‘agentless’ rather than ‘patientless’, that is, the unaccusative decorates the logical
+subject node rather than the logical object node with a value indicating an individual
+which is indeﬁnite, arbitrary and context-dependent.
+In processing a sentence such as (8.35), after parsing the subject and verb, we have
+the partial tree in (8.36), with a type e term projected by the subject decorating an
+unﬁxed node, and the pointer sitting on the logical subject node:8.4. Unaccusative169(8.36) Parsing ambá mabʊ
+?T y(t)
+F o(ϵy , Drum′ (y)),
+T y(e), ?∃x.T n(x)F o(si ),
+T y(es )?T y(es → t)F o(U), ?∃x.F o(x),
+T y(e), ♢?T y(e → (es → t))F o(V),
+T y(e)F o(Beat′ ),
+T y(e → (e → (es → t)))The unaccusative suﬃx is then parsed. In the same way that the antipassive does
+for the logical object, the lexical actions associated with the unaccusative morpheme
+build an epsilon structure from the logical subject node. This epsilon structure has
+propositional content whose sub-components are copied from the predicate, logical
+object and situation argument nodes of the tree. These lexical actions are given in
+(8.37):
+(8.37) Lexical entry for unaccusative suﬃx -nca
+IF
+T y(e), ?∃x.F o(x), ⟨↑0 ⟩?T y(es → t)
+∧⟨↑0 ⟩⟨↓1 ⟩⟨↓1 ⟩F o(ϕ), T y(e → (e → (es → t)))
+∧⟨↑0 ⟩⟨↓1 ⟩⟨↓0 ⟩F o(α), T y(e)
+∧⟨↑0 ⟩⟨↑1 ⟩⟨↓0 ⟩F o(σ), T y(es )
+THENmake(⟨↓∗ ⟩), go(⟨↓∗ ⟩), put(?T y(e)),
+make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(λP (ϵ, P )), go(⟨↑1 ⟩),
+make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(?T y(t)),-ncamake(⟨↓0 ⟩), go(⟨↓0 ⟩), put(F o(σ), T y(es )), go(uz),
+make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(?T y(es → t)),
+make(⟨↓0 ⟩), go(⟨↓0 ⟩), put(F o(α), T y(e), ?∃x.F o(x)), go(uz),
+make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(?T y(e → (es → t))),
+make(⟨↓1 ⟩), go(⟨↓1 ⟩), put(F o(ϕ), T y(e → (e → (es → t)))),
+go(⟨↑1 ⟩), make(⟨↓0 ⟩), go(⟨↓0 ⟩), freshput(F o(x), T y(e)), go(⟨↑0 ⟩)
+ELSEabortApplying the lexical actions in (8.37) in the context of (8.36) produces the tree in
+(8.38).","[186, 187, 188]"

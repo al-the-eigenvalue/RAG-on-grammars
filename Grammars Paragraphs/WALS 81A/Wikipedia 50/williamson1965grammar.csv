@@ -1,0 +1,2874 @@
+Paragraph,Page number
+"PHRASE-STRUCTURE RULESZ.~
+THESENTENCE AND THE PREDICATEPHRASE-STRUCTURE RULES
+2.0 This chapter contains the phrase-structure rules of the grammar. They have been
+kept as simple as is consistent with a reasonably full coverage, and are to be applied in
+order. T h e principle followed in ordering the rules has been to develop constituents
+roughly in their order of importance rather than strictly from left to right. Lexical rules,
+following Lees's example, are treated together at the end (2.3) Overlapping in membership between lexical classes has been freely admitted.
+I n the translation of examples, a morpheme by morpheme rendering has been provided
+where the correspondence of xjp to English morphemes is not reasonably clear. Ahhreviations of very frequent function words have been used to prevent the translation from
+becoming too bulky, and are explained the first time they are used. I n literal translations,
+hyphens unite two-morpheme equivalents of asingle Ijp morpheme: e.g. deril 'laugh-at'.
+I n writing rules, conventions which have become established in transformational
+grammar are for the most part used. T h e symbols are listed below.
+X is replaced by Y.
+X+Y
+X is optionally present, Y is obligatorily present.
+(X) y2.1.1 T h e initial symbol S (sentence) is usually rewritten as noun phrase (NP) followed
+by ~redicate(P), but there are two minor sentence types consisting of a vocative (Voc)
+and an interjection (Inj), both of which are accompanied by exclamatory intonationI.","[19, 20]"
+"A G R A M M A R O F T H E K O L O K U M A D I A L E C T O F IJOhand. Westermann did not publish evidence supporting his tentative 1927 classification
+of I j p as Kwa, and the idea was dropped until recently suggested again by Greenberg.
+In the interval, Ijp has been classed so as to stress its isolation. M . Delafosse in Mcillet
+et Cohen, LES LANGUES DU MONDE (Paris, 1952), classifies Ijp as the sole member of a
+'groupe bas-nigtrien'. His cited material is from Nembe, and he misinterprets the
+definite articles and other affixes as evidence of a noun-class system, an error carried over
+into Westermann and Bryan's LANGUAGS OF WEST AFRICA (Oxford, 1952), where Ij? is
+treated in the chapter on class languages.
+0.3.2 Since no general description of any ijo dialect has yet been published, it was
+decided that an outline of the wholc system of one dialect, Kolokuma, would he more
+useful than a description of a single aspect of the language. Before dealing specifically
+with Kolokuma, some of the more unusual features of Tjp as a whole, and a few general
+comparisons of ijp with other Niger-Congo languages, will be briefly indicated.
+Tjp stands sharply distinguished from neighbouring languages in its complex system of
+tonal morphophonemics and intonational modifications of tone patterns, described in
+detail for IColokuma in Chapter 7. It is suggested by Gleason that a system of this type,
+where word-tones are subordinated to larger tone patterns, marks a language which is,
+historically, changing from a tonal t o a pitch-accent or purely intonational system
+(LANGUAGE
+37.300,1961). Most Niger-Congo languages are tonal, but some have lost their
+tones: e.g. several West Atlantic languages, and Swahili in the Bantu group. T h e immediate neighbours of rj?, however, are all clearly tonal; some of them, such as Yoruba, have
+a three-tone system, whcreas the original Ij? system seems to have had only two tones,
+like Proto-Bantu.
+Ijp has little morphology, but what there is contains several notcworthy features. I t has
+lost the original Niger-Congo noun-class system, and few relics of it remain even as
+meaningless vowel prefixes (as they do, for example, in Yoruba and Igbo). On the other
+hand, it has a system of delinitc articles sutIixed to thc noun, apparently developed from
+demonstratives. It is unusual, among Niger-Congo languages, in having a separatc
+feminine pronoun, demonstrative and delinite article; some dialccts, though not Kolokuma, also have a neuter.
+I n word-order, modifiers consistently precede heads and the object precedes the verb.
+T h e most interesting syntactic feature is the verb phrase, which may contain a scries of
+verb roots. Many 'Kwa' languages have a similar feature; Westermann has described it
+in his GRAMMATIK DER EWE-SPRACHE (Berlin, 1907), Ida Ward in her INTRODUCTION TO
+THE YO~IUBA LANGUAGE (Cambridge, 1952), and W. E. Welmers in his DESCRIPTIVE
+G R A ~ X A ROF FANTI (Baltimore, 1946). I n Kolol~umathere arc, in many cases, no connecting or subordinating grammatical morphemes to show the relationship of the different
+verb roots to one another, so that a good deal of experimenting is necessary to discover
+the permissible combinations. Chapter 3 contains the results of these investigations.
+OF KOLOKUMA
+0.4 THESPEAKERS
+T h e present study is a descriptive analysis of a single ijp dialect, Kolokuma, particularly
+as it is spoken in the town of Iiaiama. Speakers call their language jzQn bell 'Ijp language'
+or k6lolchmi bell 'Kolokuma dialect'. Members of the Iiolokuma-Opokuma clan live in
+ten towns along the River Nun, from Igbedi to Odi. T h e men trade, fish, cut palmfruit
+and do some farming; many leave home to work in Lagos, Ghana and elsewhere, often
+as cooks, stewards, sailors or policemen. Most men and many women, therefore, speakINTRODUCTIONsome English or Pidgin, and often one or more other African languages - Igbo, Yoruba
+Hausa; G5 or Fanti; even (in the case of an ex-serviceman) Swahili. T h e women do
+of the farming and some fishing, as well as their household duties. Some Kolokuma
+men marry Isoko or Aboh wives, and small communities of Isokos, forming their own
+villages, live in the area to cut palmfluit. Most children attend the primary schools run
+by the Church Missionary Society, where they learn English. For all education beyond
+the primary level young people must go away from home, so that the area is constantly
+being drained of its most intelligent and ambitious members. Geographical isolation
+ensures that, while many Kolokumas leave their home town, not many outsiders come in;
+there are usually more women than men in a town.","[6, 7]"
+"46This chapter and the next two deal with transformations of the verb phrase, the noun
+$rase, and the sentence respectively. Whatever part of the sentence they deal with,
+transformationsare, in Lees's terms, either SIMPLE or GENERALIZED. A simple transformationinvolves re-ordering of a single string by means of additions, deletions, and/or changes
+order. A generalized transformation combines two strings into a single one; it is either
+or co-ordinating. I n a subordinating transformation, a certain part of a
+CONSTITUENT sentence (labelled b) is incorporated into a MATRIX sentence (labelled A),
+and normally precedes the part of the matrix sentence it is modifying. Otherwise stated,
+subordinated or modifying elements normally precede the head. I n a co-ordinating
+twosentences, labelled A and B, of roughly equal structure, are combined;
+of the second sentence is co-ordinate with and follows part of the first sentence.
+The following conventions and symbols are used in transformational rules in addition
+to those introduced in chapter z.
+In the structural description (SD), the source strings upon which the transformation
+operates are specified, the various relevant parts heing separated by commas. (Commas
+in transformational or morphophonemic formulae are used only for convenience in a
+particular rule, to separate the elements to be re-ordered, and therefore do not have the
+same.reference as those in the examples, which are used to separate tone phrases.) T h e
+symhols W , X, Y, Z are used to denote parts of a sentence whose internal structure is
+irrelevant to the transformation in question; the convention is observed that, within one
+transformation, if X, etc., is used twice, it has the same internal structure each time.
+Any conditionslimitingthe applicationof the rule arestated after thestructural description.
+The elements separated by commas are assigned numbers. I n the structural change
+(SC), these numbers are re-arranged, some occurring in a different order, some heing
+omitted (for deletions), and added elements heing inserted at the appropriate place.
+The symbol =- means 'is transformed into'. Wherever square brackets are used, an element
+in a particular position in the first set of square brackets corresponds only to the element
+in the matching position in the second set.
+I n examples, two source sentences are linked by a brace and the transformation arrow
+follows directly to introduce the resulting transform.
+Transformations are only partially ordered, in that they have been arranged in groups
+dealimg with particular structures. Within the groups, each of which occupies one of the
+major sections of a chapter, rules are ordered, but the groups are not ordered with respect
+to one another.
+Transformations are numbered consecutively T.1, T.z, etc.; morphophonemic rules
+are numbered M.1, M.z, etc. Transformational rules are optional except when stated to
+he obligatory, morphophonemic rules are obligatory except when stated to he optional.
+3.1 ~ N S F O R M A T I O N SINVOLVING VERBS OF MOTION
+3.1.0 One of the most noticeable features of Ijp is its tendency to combine several
+verbs in one verb phrase. Some of the most common combinations involve verbs of
+motion and are treated below.
+47VERB P H R A S E T R A N S F O R M A T I O N SA G R A M M A R O F T H E K O L O K U M A D I A L E C T O F TJO3.1.' A very frequent combination is that of a specific verb with a general verb of the
+corresponding class, the specific verb modifying the general one.
+A. eri, b6-mi
+he come Spa
+he came
+b. eri, waii-mi
+he turn Spa
+he turnediA. pmjnj, tej-mi
+they escape Spa
+they escapedb. pmjnj, yoy-mi
+they paddle SPa
+they paddled.","[27, 28]"
+"T.6 SD: A. X N P + , V t r Y
+b. X, Vsp.2, Y
+sc: I . . . 5 142
+3.1.7 Two sentences with the same subject are combined to express purpose if
+they have the same subject and if the matrix sentence contains b62 'come' or mdz 'go';
+yQ-k$? 'in order to' is introduced.",[29]
+"* -6.1.6 Beforeaconsonant, short subjcctandobject pronounsare identicalin shape, except
+that subjects are separated by word juncture (when they are not followed by a noun sub)
+andobjects by hyphenjuncturefromthenextunit.Short subjects arein thesametonegroup
+as the following unit only when the latter is a noun suffix, whereas short pronoun objects,
+like all other objects, must be in the same tone group as their immediately following verb,
+Relationship nouns, in the singular only, are preceded, not by the ordinary possessive
+forms, but by short possessives identical with the short object pronouns: /-daQ 'mv
+father', a-y6i 'her husband'.
+T h e rules which follow inti-oducc all preconsonantal short pronoun forms, hyphen
+juncture after short pronoun objects, and the first person plural forms, which unlike
+those of other nersons do not diffcr before vowels and consonants.
+1st sg.",[48]
+"0,5 T H E PRIISENTSTUDY
+0.5.1 Fieldwork in Kaiama was carried out in August-September, 1957, June-July,
+1959, and October, 196z-Jannary, 1963. T h e chief informants were:
+Mr. F. Agara, church clerk (1959, 1962)
+Mr. A. A. Akene, teacher (1957, 1959)
+Mr. 0. A. Egberipou, teacher (1957, 1959, 1962-3)
+Mr. Pianto Egberipou, secondary school student (1957, 1959)
+Miss F. Kai, teacher (1957)
+Mr. J. Orumokinren, trader (1957)
+Mr. A. 0. Timitimi, trader and church treasurer (1959, 1962-3).
+In 1959 a number of texts were collected from two elderly monolingual informants,
+Chief 2. Amaran and Chief Y. Soobai, with the help of the Rev. J. Buseri. A little work
+was also done in the United States with Mr. L. Ekpebu, a graduate student of Princeton
+University. All of these people helped willingly, patiently, and with great interest in the
+work. T h e discovery of the passive, for example, is due to Mr. 0. A. Egberipou, who
+took the trouble to refute a statement that Tj? had no constluction corresponding to the
+English passive.
+0.5.2 An attempt has been made to write a kind of generative transformational grammar. Certain features of fjp appear to lend themselves well to such a treatment: for
+example, the limits of the tone groups within which elaborate tonal morphophonemics
+take place are determined by syntax, a fact which strongly suggests that the morphophonemics are better treated after the syntax, as in transformational grammars, rather
+than before it. T h e plus sign has been used throughout to unite syntactic elements which,
+after the application of the morphophonemic tone rules, will occur in the same TONE
+GROUP. When these elements have been joined into tone groups, some tone groups will be
+linked up into TONE PHRASES, the conditions for such linking being no longer syntactic but
+tonal. Tone patterns are, therefore, to be treated not in isolation, but as a systcrn partly
+interlocking with the syntax. By the systematic use of the plus sign, the tonal relationships demanded by the syntax are carried through to the morphophonemic rules, where
+they are tinally realized.
+I n some other respects, however, the transformational model has not been followed.
+Transformational grammars which treat phonology as distinct from morphophonemics
+usually do so in a distinctive feature analysis following the morphophonemic rules. This
+is possible where the language is a familiar one with an accepted orthography, hut in the
+case of a little-known language such as Ijp a transcription has to be provided before the
+syntax can be studied. For practical reasons, therefore, chapter I is devoted to phonology,A G R A M M A R O F THE ICOLOKUMA D I A L E C T O F T J O11with the aim of setting out a transcription which is useful in later chapters. It. would, of
+course, be possible to add another chapter after the morphophonemics continuing the j
+analysis down to distinctive feature level, but in view of the treatment in chapter I this
+has not been thought necessary.
+Keeping a phoneme level allows statistical statements of frequency to be made (e.g.
+1.4.4-5). Such statements are important in that part of the vocabulary of Kolokuma, the
+ideophones,6 can be shown to have a phonological structure which is statistically different
+from that of the other parts (1.5).
+0.5.3 As regards syntax, the model followed has been that developed in N. Chomsky's
+SYNTACTIC STRUCTURFS (The Hague, 1957) and R. Lees's THE GRAMMAR OF ENGLISH
+NOMINALIZATIONS (IJAL26:3, Part z , 1960). It is not suggested that this grammar is either
+a complete exemplification of generative transformational grammar or that the data might
+not be susceptible of a description, from another theoretical viewpoint, of equal or grcater
+validity. T h e approach was adopted because it was thought that the practical attempt to
+apply some of the new methods to a little-known language might be of interest, particularly since it bas been suggested that they can be applied only when the linguist has 'a
+very deep and expert understanding of a language' (Lees, p.186). Two comments suggest
+themselves on this statement. The first is that while certain deep underlying similarities
+in a language rcquire expert knowledge, other parts of the grammar are open to quite
+simple transformational statements (e.g. the active-passive relation). Secondly, it is
+possible that languages have sufficient in common for similar rules to be applied to parts
+of their grammars. Lees himself points out the close similarities between English and
+German nominalizations. I t is more surprising to find that, in describing Ijg, many of
+at least the more general rules for sentence and noun-phrase transformations are strongly
+reminiscent of rules which would be necessary for English, and that only the structure
+of the verb phrase appears markedly alien. If transformational analysis were developed
+with contrastive grammar in mind, it might be possible for a relatively small number of
+analyses made from deep knowledge to serve as reference points for a larger number of
+grammars of languages for which more superficial information was available.
+0.5.4 Some divergences from transformational practice in this grammar are due to the
+fact that wo1.k on Kolokuma was done through informants, whereas in most transformational grammars so far published the linguist has been his own informant and the grammar has thercfore been that of a single idiolect. A neat, consistent analysis is often possible
+for one idiolect which hrealcs down when a number of different idiolects are studied. The
+study of I<olol~umais based largely on a corpus of texts (mostly folk tales and proverbs
+with a few descriptive or historical texts) which were tape-recorded-and then transcribed,
+with the help of informants, and also on a body of isolated sentences, many of which
+were suggested by sentences in the texts and were elicited in the search for sentences
+which bear a transformational relation to one another. There are thus a number of
+idiolects and styles represented, and it is therefore necessary, at certain points, either to
+suggest alternative rules (e.g. 7.1,6), to note that variation exists (e.g. 3 . 7 . ~ )or~ to leave
+the rule open for further study.
+0.5.5 The problem of idiolectal variation is related to another one, which is also raised
+by working with texts given by informants. Some transformations appear to he much
+6 A n ideonhone
+i s defined as: 'a vivid reoresentation of an idea in sound. A word often onornato,~~~
+p8,*ir whi:h rlrscrrl,es n pr'~lic;lte,qu~1tlic;ittrcor n<l\.r.rl, i l l rerprrt t u ~ a > i l ! ~ r > c r , I . u ~ r ,..mn<l, sn>(111,
+n r ~ i o n , s t ~111
+~ tilllcllsily.'
+~.
+(l.'. h1. Dokc, BANTU I.!Nl:l IS., I C ~ I . I < > I I N O IO I : Y , 1 1 1 ( (1.<lnd,n, 1035).J
+~~~~~.%INTRODUCTIONmore basic than others: e.g. some expansions of the noun phrase, or the interrogative,
+are basic enough to require description in any grammar, whereas certain ellipses occurring
+in the texts would be described only where a requirement of comprehensive coverage of
+the corpus had been made. Just as the kernel is in some sense more basic than the optional
+transformations, so some of the transformations, and some transformed sentences, are
+more basic than others.
+hi^ conclusion is reinforced by observation of the editing carried on by informants
+when they repeated slowly for transcription what had been recorded at a natural speed on
+the tape; not only did they e l i i n a t e coughs and slips of the tongue, but they also left out
+false starts, and even re-phrased something they felt ungrammatical when it was played
+back. In particular, a bilingual informant translating a text recorded by an aged monolingual speaker frequently objected to the repetitious style of the old man and re-phrased
+parts of it despite pleas to repeat exactly what was on the tape. The recording and the
+final transcription were clearly both utterances in the language, but in different styles.
+~t is suggested that such a d i i r e n c e in style can be correlated with the extent of transformation the utterance has undergone, the more colloquial unstudied one being transformed to a much greater degree.
+If sentences can be repeatedly and indefinitely transformed in this way, it follows that
+a grammar can produce all the sentences of a language only if a line is drawn at which a
+sentence cannot be further transformed without ceasing to be a sentence. T h e exact line
+might be arbitrary, but could be drawn somewhere near the point where informants
+begin to re-phrase texts. (Presumably a linguist acting as his own informant normally
+performs the same editing process for himself.) The degree of grammaticality, or alternatively the degree of colloquiality of style, of a particular recorded text could then be
+described in terms of the proportion of sentences to non-sentences it contained.
+0.5.6 The presence of informants has led to an attempt to formulate transformational
+rules as realistic transformations of real sentences, intuition for extremely hypothetical
+constructs not being available. Some difficulties arise in the course of this procedure, in
+that realistic sources cannot be found for some strings, although these strings bear a
+strong resemblance to others for which convincing sources are available. For example,
+there is a fixed noun phrase t Q r y di ye 'spectacles, glasses', literally 'eye look-at thing'.
+I t superficially resembles other noun-verb-noun phrases such as beni wen1 igbika
+'rainboot', literally 'water walk thing', which is regularly generated by T . 3 2 T h e source
+sentences necessary to generate t+ry di ye by T.32 do not, however, occur, and no other
+convincing source can be found. T h e following rather ad hoc solution is suggested. Not
+all apparent transforms are real ones, i.e. developed directly from source strings. Once
+a pattern has been established (in this case, noun-verb-noun), similar strings are formed
+to it by analogy to the transforms. Analogy is generally recognized as a factor in linguistic
+change, and there seems no reason why it should not be active at the transformational
+level as at others. T h e difficulty still remains of finding an adequate way of formulating
+such analogical rules; if this can be done, the process involved is comparable to that
+whereby a complex series of phonological rules is replaced by a simpler one (M. Halle,
+WORD 18.65, 1962).
+0.5.7 An effort has been made to give rules to account for as much as possible of the
+text material. There has, therefore, been no attempt to present only rules which show
+elegant transformational relationships. I n deciding what is to go into the phrase-structure
+rules and what into the transformations, the guiding principle has, as far as possible, beenA GRAMMAR O F T H E KOLOICUMA D I A L E C T O F I J Oproductivity; that is, the constructions which occur in the most varied combinations with
+other constructions have been assigned to the phrase-structure rules, less flexible constructions mainly to the transformations. Compromise has been necessary in the case of
+elements which cannot reasonably be introduced transformationally and have therefore
+been assigned to the phrase-structure rules out of necessity. For example, very little can
+be done with interjections, but since they cannot he derived from anything else they are
+necessarily introduced in the phrase-structure rules.
+0.5.8 Semantic criteria have been used in a few cases where they seemed appropriate
+and necessary, for example in the analysis of the aspect markers (2.1 .z and Appendix I).
+It has been assumed that there are collocational as well as grammatical limitations on the
+occurrence of morphemes, the collocational ones being those which can be predicted with
+a high degree of probability from the English translation before the attempt is made to
+elicit an Ijo equivalent, and which are, therefore, considered outside the scope of this
+grammar.","[7, 8, 9]"
+"-3.4.5 There is a homophonous s u f i =m? which, when added to a transitive verb,
+alters its meaning. The force of the suffix is not clear; in the recorded examples it appears
+to be either intensive or de-intensive. Nu ~ u l e have
+s
+been set up for it because its meaning
+is not yet clear.
+eri, akpai bprimpmj
+he bag open int Spa
+(int = intensive)
+he forced open the bag
+contrasting with
+eri, akpai beri-mi
+he bag open Spa
+he p a d the bag open
+i r i o , ingo bjbj-mo gbabympmi
+she trap mouth T p l close de Spa (de = de-intensive)
+she narrowed the entrance to the traps
+contrasting with
+i r i q , ingo bib[-mo gbaby-mi
+she trap mouth Tpl close Spa
+she dosed up the entrance to the traps.
+3.5 PASSIVEAND INTRANSITIVE
+3.5.1 A passive is formed to transitive sentences with a definite object or to sentences
+containing a locative (definite or indefinite), the subject in each case being indefinite.
+Pronouns in this case act like definite nouns, since a sentence with a pronoun subject
+has no passive. T h e passive is formed by change of word order and of tone pattern.
+57VERB P H R A S E T R A N S F O R M A T I O N SA G R A M M A R O F THE K O L O K U M A DIALEC?' O F I J Oigere, ere-ma kQri-mi
+*
+crocodile woman T catch Spa
+a crocodile caught the woman
+er6-ma, iger6, kori-mi
+woman T crocodile catch Spa
+the woman was caught by a crocodile
+indii, wirj-bj-+, emi
+*
+fish house T in is
+there is fish in the house
+wiri-bi, indi emi
+house fish is
+there is fish in the house.
+I n this example of the passive of a sentence containing alocative it is impossible to show
+the difference between active and passive in the English translation. The construction is,
+however, quite parallel to that of the passive of a transitive sentence. I n each case the subject of the active sentence immediately precedes the verb in the passive but forms a different
+tone group from it; some tone groups l i d up (7.2) to form tone phrases (as in the second
+example), while others remain unlinked, separated by a comma (as in the first example).
+Further cxarnples of passives of transitive sentences:
+tykpa-bj, kjmi, ton[-mi
+lamp T man light Spa
+the lamp was lighted by someone
+am5-bi, beni, bilerno-mi
+town T water flood cs Spa
+the town was flooded by water
+eri, moon, Ikori-yemi
+he hunger seize CPr
+he is hungry (lit. he is being seized by hunger)
+eri, ye, detj-do0
+he thing tire IPa
+he is tired (lit. he has been tired out by somcthing)
+eri, b6lou, kqn-yemi
+he heart hurt CPr
+he is angry (lit, he is being hurt by his heart).
+Further examples of passives of locative sentences:
+kjmi toboy lkonu, or6r0, emi
+man child hack hollow is
+there is a hollow down a human being's back
+eri, b6lou, inbele-mi
+he heart be-sweet StPr
+he is happy (lit. he is sweet as to his heart).","[32, 33]"
+"SC: I . . 3 * 21 me4 3
+4.5 NUMERAI.A D J U S T ~ N T S
+4.5.0 The next four transformations make adjustments to the strings of numerals
+generated by the phrase structure rnles 46-50.
+4.5.1 There are forms diel 'fifteen' and slieiz 'thirty' which exist as alternatives to the
+regular compounded forms.[sd;;;r]SC: I . . . S "" I354.5.2 When a head consistillg of a noun, or of qndez 'four hundred' or of qndena ?ride
+'four hundred times four hundred' is receded by a modifying numeral, there is in most
+cases a change of order, the head being moved to precede the modifying numeral. The
+cases under which the change of order does not take place or is optional are stated as
+conditions in the rule.
+W e i dein
+d6in-a suei
+*30 night
+thirty nights.
+Similarly:
+buru-? ?nd+
+Y400
+four hundred yams
+ondena qnde-?, sQran si
+400 x 400 x 5 x 20
+16,ooo,ooo
+T.42 Obligatory
+IN
+SD: X, NC,
+qndena qnde+,Conditions: I . NC #((9;:))4.5.4 I t is possible for f/niz 'add' to be generated more than once in a colnplex numeral.
+Surplus ones are now deleted.*++-a,t6si oi s p r y fin! fini + qnde-a, t6si oi s?r?n fini
+thirty thousand
+400 X ((3 x zo)+(~o+l;))
+T.44 Obligatory
+SD: X+fjniz, f finiz, Y
+sc: I...3*13
+4.6 PRONOUN
+ADJUSTMENT
+4.6.1 Certain suffixes are preceded only by long and not by short pronouns.
+eri-ki, b6-d?v
+he em come IPa
+it is he who has comeT . ~Obligatory
+~ .",[40]
+"PHONOLOGY
+ELEMENTS,JUNCTURES AND DISTRIBUTION
+I.o.o At the phonological level Kolokuma can be describedin terms of PIIONEMES and
+p ~ o ~ ~ ~ ~which
+MES
+are, distributed in SYLLABLES,
+UNITS,WORDS, TONE GROUPS,
+TONE
+PHRASES and BREATH GROUPS, of which all but syllables and tone groups are delimited
+by JUNCTURES.
+1.0.1 The terms PHONEME and PROSODEME are preferred to SEGMENTAL PHONEME andSUPRASEGMENTAL PHONEME because the analysis of nasalization here given (1.3) requiresthat it be sometimes a suprasegmental and sometimes a segmental feature. Thc definition
+of PROSODEME is, however, different from that given by E. Haugen, 'Phoneme or Prosodeme? (LANGUAGE
+25.278-82, 1949): 'any significant sound feature whose overlap of
+other features is temporally correlated to syllabic contour'. As used in the present study,
+a prosodeme can be correlated with longer elements than a syllable (1.0.3); it includes
+what, in the other terminology, would be suprasegmental MORPHEMES.
+Thelimitation of the termPHoNEMErequires theuse of the wider term PHONOLOGY, rather
+than phonemics, for the subject matter of this chapter. As used here, PHONOLOGY includes the description of both phonemes and prosodemes.
+1.0.2 Phonemes consist of VOWELS (1.1) and CONSONANTS (1.4). They are distributed
+in sillables and units.
+I .o.3 Prosodemes consist of VOWEL HARMONY(I .2), distributed in units and words;NASALIZATION (1.3), distrihuted in syllables and units; TONEMES (1.6) distributed in syl-lables and breath groups; and TONE PATTERNS (1.7), distributed in units, tone groups
+and tone phl.ases.
+1.0.4 A SYLLABLE is a tone-bearing entity whose nucleus is either a single vowel or
+nasalization realized as a nasal homorganic with a following plosive (1.3.1). No juncture
+is postulated between syllables. Units are delimited by word space and/or hyphens;
+words are delimited by word space; tone phrases are delimited by commas and/or any
+other punctuation mark; breath groups are delimited by any punctuation mark except
+commas.
+Thus in the sentencenbelei, wiri-? bo-doy
+lizard house to come has
+Lizard has come home
+there are ten syllables, five units, three words, two tone phrases, and one breath group.
+Four junctures are set up: HYPHEN JUNCTURE,
+symbolized by a hyphen; WORD
+JUNCTURE,
+symbolized by word space; COMMA JUNCTURE, symbolized by a comma; and
+SENTENCE JUNCTURE, symbolized by any other punctuation mark. The first two junctures
+are not marked by any pause phenomena, and comma juncture has only a slight optional
+pause; they are set up as devices for simplifying the description of the distribution of the
+phonemes and prosodemes. Sentence juncture is, however, phonetically marked by
+pause, and vowel elision does not take place across it, as it does across other junctures.",[9]
+"4The first European record of a possible Ijy word was made in 1500, in Duarte Pacheco
+pereira's ESMERALDO DE SITU ORBIS, edited by Kimble, p.132 (1937). The problems it
+raises are discussed by G. I. Jones in AFRICA 28.44 (1958) and by P. I3. I-I. Hair in 'The
+early study and literature of some lower-Niger-Benue languages rgoo-1890' (MS.).5
+The numerals 1-5 were collected in the early seventeenth century and published in
+0. Dapper's NAURBURIGE BESSCHRIIVINGE DER AFRIKAENESCI~ GEWESTEN 2.135 (2nd ed.
+1676) Numerals were also published in E. Norris, OUTLINE OF A VOCABULARY OF A FEW
+OF TIIE PRINCIPAL LANGUAGES OF WEST AND CENTRAL AFRICA (London, 1840). J. Clarke's
+SPECIMENS OF DIALECTS (Berwick-upon-Tweed and London, 1848) contains numerals in
+four Eastern dialects (Okrika, Bonny, ISalabari, and Nembe) and ten other words in
+Bonny, Kalabari, and Nembe.
+The first substantial record of an Ijo dialect is a vocabulary and grammatical outline of
+Bonny by Hermanu Koler in EINIGE NOTIZEN iiBER BONNY AN DER KiiSTE YON GUINEA,
+MIT EINEM GLOSSARIUM (Gottingen, 1848). There
+SEINE SPRACHE UND SEINE BEWOHNER,
+are two Ijg word lists in S. W. Koelle's POLYGLOTTA AFRICANA (London, 1854), one of
+Bonny (Okuloma) and one of a western dialect (Ud~o).1. C . Taylor's IJO OR IDHO PRIMER
+(London, 1862) has faults, as its author was aware; like most later writings in Ijg it
+distinguishes only seven of the nine vowels, and it sometimes mistranslates the English;
+it is apparently based on the Nembe dialect. The first primer in Bonny is W. E. L.
+Carew's PRIMER IN THE UBANI DIALECT OF THE IDSO LANGUAGE (London, 1870). F. E. G.
+Johnson's VOCABULARY OF THB BONNY LANGUAGE (Lagos, 1903) and PRIMER I N THE IJO
+LANGUAGE (London, 1911) have not been seen.
+The first useful information on Nelnbe is given by Adebiyi Tepowa in 'Notes on the
+(Nembe) Brass language', JOURNAL OF THE AERICAN SOCIETY 13.117-33 (1904). N. W.
+Thomas gives vocabularies of 'Degema' (i.e. ISalabari), Nembe and Bonny in SPECIMENS
+OF LANGUAGES WOM SOUTIIERN NIGERIA (London, 191I ) .
+Little but religious translation has been published in Ijg. The earliest are two short
+translations into Bonny by W. E. I,. Carew: PORTIONS OF SCRIPTURE and A PORTION OF
+SIMPSON'S PRIMER,
+both published in 1870. I n Nembe there is the Book of Common
+Praycr (1923) and the complete Bible (1956). The Prayer Book has also been published
+in Okrika, Kalabari and Kolokuma; thc Catholic Catechism and a Jehovah's Witnesses
+booklet in Western Ijp. There are a few primers for schools, and Dinah D. S. ISalio has
+published a collcction of Okrika proverbs: KABO NA GRUN EKWEIN NA KIRIKENI BIPI BU
+(Port Harcourt, 1960). Two members of the Western Ijg Language Committee have
+produced works on their language: M. L. Agbegha has writtcn EON MO BEKE MO TEN-EYE
+FUN: IJAw-ENGLISH VOCABULARY (Warri, 1961), and T . 0. Ouduku RZQN XEBE GE BRR
+ME:HOW TO WRITE THE IJAW LANGUAGE (TVarri, 1960).
+In recent years several linguistic studies of Ijg have appeared. Hans Wolff has published vocabularies of ISalabari, Nembe, Kolokuma and North-Western Ijg in 'Niger
+Delta languages I: Classification', ~ V T H ~ O P O L O G I C ALINGUISTICS
+L
+I :8.32-53 (1959). An
+excellent tonal analysis of Nembe has appeared: E. C. Rowlands, 'Tone and intonation
+systems in Brass-Nembe Ijaw', AFRICAN LANGUAGE STUDIES 1.137-54 (1960). There is
+also a treatment of the ISolokuma tone system which is superseded by the present work:
+K. Williamson, 'The units of an African tone language', PHONETICA 3 :2/3.145-66 (1959).
+Most suggested classifications of Ijg have perforce been made with little material to
+I am indebted to Dr. Hair for the use of his MS., from which I have taken several of the following
+references.",[6]
+"T.8 SD: A. X NP+, Vtr, Y
+B. X NP+, Vtr, Y
+Conditions: I. I = 4
+2.2#5
+SC: I . . . 6 => 12533.2.3 I t is also possible to add - d i to non-final verbs (except dboz) in order to empha,ize that the action of the second verb is subsequent to that of the first: 'did X and then
+irap, ingo deri, pit$-mj * Brio, ingo d6ri-d5, pit$-mi
+she trap weave set Spa she wove a trap and then set it.
+she wove and set a trap
+eri, weni-da, ami syp-mi
+he walk and town enter Spa
+he walked and then entered a town.",[30]
+"I come Spa
+b. ari, u-di-mi
+I him look-at Spa
+I saw himI=.art, u-di yg-b?, b6-mi
+I came in order to see him.",[29]
+",z.z.9 A predicate noun phrase is a noun phrase with certain restrictions. I t never
+contains a noun s u e ; if it consists of a pronoun, it is a long pronoun (p+L, Prn+L);
+and after a definite noun phrase subject it does not contain a definite noun.
+kjmi-bi, eri
+(definite subject,
+long pronoun)
+man T he
+the man is he
+(definite subject,
+pjna kimj-bi, t6lumo ow&i
+indefinite PNP)
+white man T teach man
+the European is a teacher
+(indefinite subject,
+pjna kimj-ki, t6lumo ow&i-bi
+definite PNP)
+white man em teach man T
+a European is the teacher
+(indefinite subject,
+pjna kimj-ki, t6lump ow&
+white man em teach man
+indefinite PNP)
+a European is a teacher
+(These examples are not kernel sentences, but are included to show the relation of
+definite and indefinite in equational sentences.):
+c
+i{Ez;:]2.2.11 The next six rules generate sequences of numerals. The general principles of
+the system are these: there are nine digits (Dig) and the higher numerals 6iz 'ten', siz
+'twenty', ondez 'four hundred', and ondena onde 'four hundred times four hundred';
+a higher numeral can be multiplied by a preceding number not higher than itself, and a
+number lower than itself can be added after it, related by fjnjz 'be extra'. These rules,
+with the addition of three obligatory transformations (T.42-q), which make some
+changes in order and delete more than one occurrence of fjnjz, generate numeral
+sequences up to 25,600,000,000; but the more complex possibilities are not normally
+used, sequences containing more than four or five numeral morphemes being
+uncommon.
+The combination sia si 'twenty times twenty' occasionally occurs but is not allowed in
+these rules, which instead generate ondez 'four hundred'.mesi ma onde, 6ia si fjni
+( ( (z x zo)+z) x 400) (10 x 20)
+17,000
+tara ondp, 6i sonran si fjni
+(3 X 400) ( (10+5) X 20)
+1,500
+nia si, ken! fjni
+(4x 20)+1
+81
+si oi, mamy fjni++20+10+2(Num.2)(Nurn.2)A GRAMMAR O F T H E K O L O K U M A D I A L E C T O F IJOPHRASE-STRUCTURE RULES6i sonoma fjnj
+10+7
+I7
+s6ndie
+659. ~ a d j + alia he distant, akQ3be bitter, bhnz be blind, donl be sick, f h u z be
+dirty, pisil be wet, .","[25, 26]"
+"T.53 SD: NP X VP5.1.8 Examples of the second type of interrogative are given with the constituent to he
+queried and the phrase which replaces it underlined.
+eri, am&so?-mi
+* tvba-k/, a m i so?-mi-aa
+he town enter Spa
+who went to town?
+he went to town
+eri, wo bina 6wei-mp, b6-mi
+* eri, tyba-rn$-k/,
+b6-mi-ia
+he his relative man with come Spa
+who did he come with?
+he came with his relative
+?w?v-m?+, bjla-bj erj-rn!
+children T p l elephant T see Spa
+the children saw the elephant
+eri, i-di yo-lqp, b6-mi
+he you look in-order-to come Spa
+he came in order to see you
+?.m/nj, wirj-bj-+, timi-mi
+they house T in stay Spa
+they stayed in the house
+i</mi-bi,d6in-bi-+, b6-mi
+man T night T in come Spa
+the man came at night-owov-m?$, t e iy6-ki qr]-mi-aa
+what did the children see?* eri, t e tu-k++, b6-mi-ia
+why did he come?* omin], t e yo-kQQ, timi-mii?
+where did they stay?* kjmf-bi, deqi s6ri-k?, b6-mi-ia
+when did the man come?eri, ebi bara-kj iki-nj, a-bi-mi
+* eri, tybara-kj iki-n], a-bi-mi-;a
+he good way adv take her ask Spa
+how did he ask her?
+he asked her in a good way
+irio, osu6-bjm$jlc$, 16 bo-a
+she rain because-of succeed come not
+she couldn't come because of rain
+irig, bei b[d$ fe-q/mi
+she this cloth buy SF
+she will buy t E s clotb
+i r i g , osu6-bjm$jh+, li bo-a
+she rain hccause-of succeed come not
+she couldn't come because of rain-i r i q , t e iy6-Id-bjrn$jk+. Ii bo-a-Qa
+for what reason couldn't she come?* i r i o , t e bide-kj fe-qjmjj?
+whichcloth will she buy?
+i r i v , t e tu-kQ+, li bo-a-ia
+why couldn't she come?",[42]
+"INDEXA GRAMMAR OF T H E KOLOKUMA DIALECT O F J J Qte seri-k+$ when?
+78
+t e tu-kQ$ why?
+77-8
+te yyk+P where?
+77-8
+timi2 (irregular present emi2) be there
+37.94
+timiz continuous action
+36, 80,92-3, ""3-14
+toboy1 (PI owpvi) child
+89
+t6z reason
+64
+tyba-ki who?
+77-8
+tybara-k/ how?
+77-8-ye inanimate modified pronoun
+31,86,89
+-yemi simple present
+30, 40,92-3, 112
+continuous present
+92-3, I12
+continuous past
+799 933 ""2
+habitual
+93.11287-8, ""4
+y - ~ wo-5
+,
+him, his
+15.88, 114-yenbi while, as
+79
+yeqil (pl yegi-0th) mother
+89
+y 6 ~place
+y$-bi I. where
+79
+2. the fact that
+65-6
+te ypkQ$ where?
+77-8
+yQk$o in order to
+51-2, 78vig that other (opposed to this), that (first of two)
+46-52zjniz another
+46.62y,, wol he, hisweria past state
+36,93, 113
+w 6 ~we, our
+87-8, ""4
+w6-q US
+88, 114
+w6ni4 we
+86, 114
+-w6nimi present state tense (with transitives)
+30. 93, 113
+-ya when, if
+30, 80, 8 1 ~ 9 3
+yail son
+46>89
+yaril send (to)
+35-6
+yCz, iyCz thing
+64-6,77-8, 82-3","[66, 67]"
+"T.27 SD: X, N P (t),
+Y
+SC: 1 . . . 3 * 1 3
+4.2 NOMINALIZATIONS4.2.1 T h e object of a sense verb is replaced by a nominalization of a constit1lent sentence whose subject (if it is intransitive) or object (if it is transitive) is identical with the
+original object of the sense verb.",[35]
+"1tT.35 SD: A. X (D+), (M+) NG, (+) Y
+b. NP, (Dt),
+(M+) NG,+,{,)I
+VP
+Conditions: I. 2 = 6
+2. The noun in the N G of z is head of a nominal construction.
+SC: I . . . 9 * 1 4 + f
+579+23
+(If a demonstrative is introduced by both matrix and constituent sentences, one must
+be deleted by T.36.)4.3.5 By both T.34 and T.35 it is possible for two demonstratives to beintroduced into
+one of the resultant sentences. Either one of these is obligatorily deleted. If the demonstratives did not occur in immediate succession, there are two alternative word orders, resulting
+from deletion of one or the other demonstrative; if they occurred in immediate succession,
+it is impossible to tell from the resultant sequence which has been deleted, and ambiguity
+occurs. Usually the demonstrative is understood to refer to the nearest noun.
+""b6i ikijama bei mi+ ebi-bi
+* either: jkilarni bei mi? ebi-bi
+this Kaiama this do good T
+or:
+b6i jlkaiima mjq ebi-bi
+this good Kaiama did
+""b6i be? kirnj-rno-sq ama nana owei * b6i lkimi-mo-sy ama nana owei
+this this man Tpl all town have man
+either:
+Iring of all these men
+or possibly: this king of all the menT R A N S F O R M A T I O N S O F THE N O U N P H R A S EA G R A M M A R O F T H E I I O L O I < U M A D I A L E C T O F TJO4.3.8 I n all the preceding modifying constructions the modifier precedes the head.
+There is also a relative construction formed with the help of a constituent sentence of
+q a t i o n a l type in which the first noun is either identical with or has the same referent
+as the second, and in which the sccond noun has been modified by one of the earlier
+modifying transformations.
+A. ebi-bi, klmj m? nimi-a
+good T man i t know not
+the good is not known
+* ebi-bi-ni, jlkijamimje ye-bi, k/mi m o nimi-a
+the good which Kaiama did is not known.
+b. ebi-bi, jkijami mje ye
+good T Kaiama do thing
+the good is what Iiaiama did
+Similarly :
+be!, tobov-nj, gb6 ye pbi-a toboy-b/
+this child who say thing listcn not child T
+this is the child who did not listen to what was said
+eri-ki, owei-bi-nl, b6 tub0 kiri fini-bo-bj
+he em man T who came trade land open one T
+he is the one who came to open a trading post
+omin/-nj, ami-? mb-yemi-otu-mo, ine ikia-6tu
+they who town to go CPr people T p l my friend people
+they who arc going to town are my friendsT.36 Obligatory
+S D : X, Dem, (M+), Dem, (+) Ysc: I . . . 5 *{;}4.3.6 It is also obligatory for pronouns to recede and not follow demonstratives in
+modifiers.
+=. i b&iakj-qj-del jla-bi
++bei j ikj-qj-dei jla-bi
+this you take I F head T this bead you want to take
+3 ine bei bjni owei
+'bei in6 bjna owei
+this relative of mine.
+this my relative man
+T.37 Obligatory
+SD: X, D + ,sc: I . . . 4'IpCNj
+++,Y
+Prn
+13244.3.7 There is another way of introducing a modifier from a constituent sentence
+when the matrix contains a determiner. The modifier is not inserted between the determiner and the nominal of the matrix, but precedes both, followed by the locative -?.
+One result of this is that determiners are not separated from their noun heads; the
+ambiguity resulting from T.36 is thus avoided.
+A. b&i ere-bi, ogb6ogb6
+this name T Ogboogbo
+this name is Ogboogbo
+ami-bj-+, b6i ere-bi, ogb6bgb6
+b. ami-bj, ere, emi
+this name of the town is Ogboogho.
+town T name there-is
+the town has a name
+Similarly:
+eri-ki, kjmj-mpse-o, bei a m i nana owei
+he em man T p l all to this town have man
+he is this king of all the men1-be?,per? kjmj bkoba-mo-nj, fliru-otu-m? firru ye-m?
+this he-rich man money Tpl which steal people steal thing T p l
+this is the rich man's money which the thieves stole
+bei, wirj-bj-nj, ma lkjmi-mQ timi wart-bj
+this house T which two man Tpl stay house T
+this is the house which the two men stayed in.iT.39 SD: A. X, (DC) (M+) Nom+d, (+)Y
+b. (D+) (M+) Nom-1-d, Z (+) W + N o m
+i
+Condition: z = 4
+SC: I . . 6 IZ+-nj 5 d 3
+(The nouns of z and 4 must be definite; that of 5 is originally indefinite (necessarily,
+in an equational sentence after a definite subject), but becomes definite in the transform.)+,ominj, kjmj-bi-+, vi warj-b/-o, emf
+they man T to other house T in bc-there
+they are in the man's other house
+contrasting with
+?mi@, vi kjmi-bj war/-bi-o, emi
+is somewhat ambiguous, but would ns~lallyhe understood as 'they are in thc other
+man's house'.
+ere-ma-+, ma kala Qw+y, sulclilb bo-dQy
+woman T to two small children school pass IPa
+two of the woman's small children have gone to school.","[38, 39]"
+"SC: I . . 3 * 1tybara-k[
+-nda-k[
+(Y', Y"", and Y""' are different from one another and from Y.)
+5.1.9 When an interrogative phrase ending in -k/, replaces a modifying element, th
+-kj: will, as a result of the last rule, precede instead of following the noun head. Th
+order is now adjusted.
+'tyba-k[-m~
+* tyba-m+-ki
+who
+with
+who with?
+""nda-5 Ikora] * nda korij-kj
+how-many year
+how many ycars?
+* t e bide-k/
+""te-Id bide
+hat cloth
+which cloth?
+T.55 Obligatory
+tuba1
+-mod
+SD: [r2aJ],
++-*Ia,
+tIN, ]sc: 123 'I32i timi-mi-ebekpq; j mi?-qj ye, fa6
+you stay Spa even-if you do SF thing is-not
+even if you were there, there is nothing you could doeri, b6 timi-ni; w6ni, m6-ni, yw+y-?, y-la-mi
+road on him reach Spa
+he come CPa as we go
+as he was coming, we went and met him on the road
+u bo-bi; krmj-mq-s$, wiri-9 mu-dqy
+he come when man Tpl all house to go IPa
+when he came, everyone had gone home.
+Most frequently, -bJ follows the aspect marker -yemi in its meaning 'continuous past'.
+This combination will be written -yenbi and translated 'while, as'.
+iry bile-yembi; iwiri, oki tej-mi
+canoe sink while tortoise swim escape Spa
+while the canoe was sinking, 'rortoise swam away.",[43]
+"6.1 PRONOUNS
+6.1.1 When pronominalized nouns are preceded by modifiers, they are replaced by
+MODIFIED PRONOUNS: -ye (inanimate), - b q (masculine), -aray (feminine). Two of these,
+-ye and -aray, are related in form to iyez 'thing' and iri(i4 'she'; the third one, -b?,
+does not occur elsewhere. Setting up the class of modified pronouns therefore accounts
+for the limited distribution of -lqand, and, by allowing the occurrence of pronouns
+after modifiers, removes a restriction on their distribution.
+buru nana-bQ
+yam own one
+owner (m.) of yams
+buru nana-ir8y
+owner (f.) of yams
+inei (=in& ye, M.23)
+your thingthis build IF house T
+this house I intend to buildI++,6.1.4 I n all other cases where a pronoun precedes
+only a possessive form is
+possible. I n addition, possessives precede the locative marker -?. (All other noun suffures
+are preceded by either long pronoun subjects or preconsonantal short pronoun forms.)herT,n,l""cour6.1 .z The long pronouns, which act as subject or predicate noun phrase, but never as
+object, are now written wherever the string formerly contained L (length marker).
+IsheLp + L - k N + p l +they6.1.5 Short pronoun subjects, with the exception of the first person plural, have at
+least two forms, one before vowels and one before consonants. I n addition, the first and
+second person singular have other forms when they immediately precede a pronoun
+object. T h e prevocalic and pre-object forms are treated here for all persons except the
+first plural, whose forms are fewer and are given in M.15-16.",[47]
+"7
+MORPHOPHONEMICS 11: T O N E AND E L I S I O N
+7.0 It was explained in 1.7.1 that there are extensive morphotonemic changes that
+geatly affect the tone patterns of individual units. These changes will now be described
+in three ordered sets of rules. T h e first set deals with the tone pattern within the tone
+group; that is, with the tone pattern within stretches whose units have until the present
+been linked by plus signs (+). T h e second set unites certain of the tone groups into
+longer tone phrases, the conditions for this linking being purely tonal. T h e third set
+introduces intonational modifications into the tone phrases.
+Finally, there is a set of rules dealing with vowel elision and tone elision resulting
+therefrom.",[51]
+"1.2.2 Vowel harmony extends over a whole word in two cases:
+(a) When a short pronoun prefix (an object or a possessive) consists of a high vowel, it
+harmonizes with the verb or noun following it:
+i-yeqi
+[-dav
+my father
+my mother
+u-dii
+y-t/jn
+call him
+look at him
+A unit containing no vowel but a takes the open form of a high-vowel prefix:
+i-ti
+your wife
+(I-bai kill him
+Pronoun prefixes containing a non-high vowel do not harmonize with the following unit:
+?-dii
+look at them
+q-tjjn
+call them
+Short pronoun subjects frequently but not invariably harmonize with the following
+morpheme if they contain a high vowel; this concord is a case of harmony extending
+across word juncture:
+i bo-mi,
+I came
+/ bq-m[
+I passed
+i bo-mi
+iyi oki-mi, I swam
+iyi andi-mi I wrestled
+jyi oki-mi
+(b) When a monosyllabic enclitic contains i (no monosyllabic enclitics containing
+other high vowels occur), the enclitic harmonizes with the preceding unit:
+timi-mi
+created
+tern$-m j
+existed
+toru-bi
+tQry-bi
+the river
+the chalk
+The harmony is somewhat less consistent in the case of -qi, the non-final allomorph of
+the disyllabic enclitic -qjmi 'future tense':
+b6-gi,
+ahout to come
+bQ-qi
+about to pass
+b6-qiI .Z VOWELHARMONY1.2.1 The distribution of the vowels within the unit is severely limited by vowel
+harmony. I n the great majority of units, close and open vowels do not co-occur, although
+a occurs with both sets of vowels:
+Briz
+eriz
+see
+drying rack
+biouz
+b/yz
+hoard (a boat)
+interior (away
+from river)
+b610uz
+inside
+bQl?yz first
+iriz
+trick
+irj4
+you sg.",[11]
+"3. Bonny (!bani), now spoken in only one ward of Bonny town and in villagcs such as
+Finnema; elsewhere it has been replaced by Igbo.
+These three dialects are very closely related and mutually intelligible.
+B. Brass-Nembe:
+I. Brass-Nembe proper, spoken in Nembe, Brass, l'wgn, Olrpgma, and one or two
+other towns.
+z . Akassa, spoken in Akassa town, which d i e r s from Nembe mainly in the substitution
+of h for most of Nembe s, f (H. Wolff, 'Subsystem typologies and area linguistics',
+ANTHROPOLOGICAL LINGUISTICS I :7.1-88; October, 1959).
+Brass-Nembe is not fully intelligible with other dialects, perhaps partly bccanse, as
+suggested by E. C. Rowlands, the distribution of high and low tones is somewhat different
+in Nembe from what it is in other dialects ('Tone and intonation systems in BrassNemhe Ijaw', AFRICAN LANGUAGE STUDLFS I ,137-54; London, 1960). I n the hope that this
+centrally located dialect would become the basis of a standard Ijg, the entire Bible was
+translated into it (British and Foreign Bible Society, London, 1956), but the translation
+is used only in the Brass-Nembe and South-Central areas. 13.TVolff discusses the curious
+problcm of 'one way intelligibility' between South-Eastern and Nembe speakers; a
+Nembe man claims to understand a Ralabari, but not vice versa ('Intelligibility and
+inter-ethnic attitudes', ANTHR~POLOGICAL LINGUISTICS I :3.34-41; March, 1959). On the
+Swadesh zoo-word list, Nembe seorcs 73.9% with Kalabari, a percentage almost significantly different-rom the 65.2% it scores with Kolokuma and the 64.6% it scores with
+Boma. Brass-Nembc speakers can, however, communicate with some Central speakers,
+especially of South-Central dialects.",[5]
+"A G R A M M A R O F THE KOLOICUMA D I A L E C T O F 110
+INTRODUCTIONE. South-Eastern:
+I . Eduwini, spoken by the large Eduwioi clan, who live along the coast from theMidwest-East boundary to the mouth of the Forcados.
+2. Ogula, spoken by Ogula clan around the mouth of the Forcados.
+3. Oporws~,spoken by Oporoza (Gbaramatu) clan to the north of Ogula.
+4. Arogbo, spoken in the town of Arogbo in Okitipupa division, Wcstern Region, where
+it is surrounded by Yoruba-speaking towns.
+Thesc dialects differ sharply from the North-Western ones and have certain features in
+common with the South-Central and Nembe groups, suggesting ancient lines of communication through the coastal creeks as well as up and down rivers. No lexicostatistic
+calculations have yet been made for this group.
+I t is likely that a good deal of dialect borrowing talces place, for Inany Ijg men travel
+widely while trading or, in eastern areas, fishing, and intermarriage between members of
+different clans is also common. Nowadays, educated men such as teachers, clergy, and
+minor civil servants are frequently transferred from one area to another and are often
+acquainted with several dialects. There is, too, considerable influence upon a number of
+dialects from nearby languages. All Ijg groups trade with their neighbours. In addition,
+because of certain peculiarities in the rjg marriage system, there has for some time heen
+a tendency for rjg men to marry women from non-Ijp groups; consequently, a large
+number of children grow up biimgual. An Igbo in Okrika can speilk his own language
+and be understood. The effect of bilingualism on the Okriika dialect is seen in phonology
+(e.g. three tonemes, like Igbo and unlike Kolokuma), morphology (e.g. the future-tense
+morpheme -6ia, like Igbo and unlike ISolokuma), and lexicon (e.g. almost all names for
+food-plants except 'yam' borrowed fi-om Igbo).
+InRuence from non-Niger-Congo languages is confined to vocabulary. There are a few
+indirect loans from Hausa, some from Portuguese into western dialects, and a recent
+layer of loans from English.
+It should be mentioned that Ijg as a linguistic term is not exactly '0-extensive with Ijp
+as a political term. Opobo clan is at least sometimes considered politically Ijg, but speaks
+Igbo, while Ogbja and Epie-Atissa clans consider themselves fully Ijg but speak an
+Aboan and an Edo dialect respectively.
+AND LITERATURE
+0.3 CLASSIFICATION
+0.3.1 Ijg is a Niger-Congo language, but there are no languages closely related to it and
+its exact position within the Niger-Congo family is not yet clear. Iu 1927 Westermann
+placed it, tentatively, in the Kwa group (DIE WESTLICHEN SUDANSPRACHEN UND IHRE
+REZIEHUNGEN ZUM BANTU,
+p.20). Greenberg in 1955 assigned it to s separate branch of
+Niger-Congo (STUDIES
+IN AFRICAN LINGUISTIC CLASSIFICATION),
+but in 1963 considered it
+a member of the Kwa branch (THELANGUAGES OF AFRICA,IJAL 29:1). It is not at present
+clear to what extent the 'ISwa branch' actually constitutes a unity, so that it is rather a
+matter of re-examining the relationship of all the languages in the area, including fjg,
+than of trying to assign Ijo to a well-established group. Preliminary lexicostatistic counts
+do not indicate any significant difference between the relationship of Tjp to Kwa and to
+Benue-Congo languages.
+Ijg has been less studied than some other Nigerian languages (e.g. Yoruba or Hausa).
+There are several reasons; the variety of dialects, the use of Pidgin Englishin the early trade
+with Europeans, and the relatively small number of missionaries who have lived in the area.","[5, 6]"
+"+Short
+subject
+vwl+Short
+subject
+object prn+I sg.arj:,ineli-12 sg.irj4in&ine-5jliyllYe13 sg.m. eri5
+3 sg.f. iri(14WO11-2in&-4/z!Y!ZY&V-1WO-5V1WO1WO1ariza-2ari-4a2arizarizI pl.w6ni4w62~- ~~ 6- w62
+~w62w62z pl?mini4?rQz0-20'4-4?Z?rOzor623 plominisor010-1or?-501or01or016+INDEX
+A. Technical terms
+accompaniment (Acc)
+37-8
+accompaniment verb (Vacc)
+341 37, 44
+action verb (Vact)
+34. 37, 39-40, 45
+adjective verb (Vadi)
+.
+..
+34, 37, 45. 57
+adverb (Adv)
+38, 45, 74
+adverbial
+38-9
+adverbial phrase (AP)
+37-8,76-8
+ambiguity
+69-70
+animate
+35, 4% 7 7 4 , 83. 89
+animate noun (Nan)
+42.77-8
+aspect
+36-7
+aspect markers (Asp)
+10;36-7, 39-40,74-5,
+78,92-3,112-14
+auxiliarv IAux)
+back vowels
+12-13, 17. 14-5, go, i r r
+breath group
+11-12, 25-6first consonant
+2-3
+second consonant
+2-3
+ConStltuent sentence
+47,49, 53, 55-6, ~ 9 ~ 6 3 - 466,
+, 68-71
+context-restricted rule
+""continuant
+16, 18
+continuous (aspect) (C)
+36-7, I 12-13
+co-ardmatina- transformations
+47. 52-3. 61-2
+cross-classification
+3% 34, 42
+dash
+12, 83-4, 107, rro
+dehnite
+41-3. 57-8, 71.89
+dehnitc article
+6, 89
+dehnitc m a k e r (d)
+41-3. 57-8, 65-689
+deletion
+of demonstrative
+69-70
+of noun phrase
+42, 62-3, 66
+of pronoun,""causative
+34, 36, 45, 54-7, 94
+causative phrase (CsP)
+34,54-5
+cause adverbial (Cs)
+38-9.77-8
+change of state verb (Vch)
+34.44-5,593 104
+close vowels
+13. 24-5, 1 1 1
+collocational limitations
+1 0 , 60
+colon
+12,83demonstrative (Dem)
+39-40. 43,46. 6% 6 8 7 0 ~ 7 5 ~ 7 7 - 887,9z
+,
+determiner (D)
+38, 41. 43, 67. 70
+dialect
+1-4
+dialect borrowing
+20, 22-3commadigit (Dig)
+43-4.46.75
+distinctive features
+7-8, 17
+double hyphen
+32, 9447,86
+c o m a juncture
+11, 25, 58, iro
+complementation (Cpl)
+337,,74
+comecuve
+85
+consonant
+I r , 16-23, 25, 28, 31, 9s-lor,elision
+11,53,95,110-1~
+emphasis
+14, 75. 91-2. 107-9
+emphasis marker (ern)
+37.75
+emphatic intonation and tone pattern
+12, 107-9110-11A G R A M M A R O F T H E K O L O K U M A D I A L E C T O F IJO
+enclitic
+15-6, 28, 3+I, 53, 95-101, 104, 112-14
+exclamation mark
+12,33.41. 82
+feminine noun (Nf)
+42. 45. 86. 89
+final (F)
+28, 3 0 4 , 95-100
+free unit
+28. 95. 98
+fricative
+18, 20-3
+front vowels
+I P I 3 , 17, 24-5, 1 1 1
+full stop
+12, 33. 81
+future (tense) (F)
+3 6 7 , 113
+.6 , 42, 89
+general verb (of movement) (Vgen)
+36,45.47-52
+grammaticality
+habitual (aspect) (Hah)
+36-7. 82, 112-13
+high vowels
+12-16, 24, 1 1 1
+holnoganic nasal
+11~16-17
+hortative
+76
+hyphen j ~ m c h x e
+11, 15-16, 19-zo, 28, ~ r r r r r
+ideophonc (Id)
+8, 14, 20, 23-5, 39-40, 4 ~ 4 5
+ideophonc phrase (Id?)
+33r40
+idiolectal variation
+8-9, 60, 97-8
+immediate (aspect) (I)
+3 6 7 , 113-14
+im~erative
+;6
+inanimate
+4 ~ ~ 7 7 - 882,
+, 86
+inanimate noun (Nin)
+42. 86
+indefinite
+41-3. 57-8, 71.89-90, 92
+indefinite marker (i)
+41-3, 57-8,65-6,89-90
+interjection (Inj)
+10, 1 9 - ~ 0 , 3 3 , 4 6 , 8 2
+interrogative
+7 6 4 , 107, 109
+intonation
+12. 33.75-6. 95. 107-IOjuncture
+11-12,16kernel
+37, 42. 51s 59
+lexical d e s
+3~~44-6
+loanwords
+15, 19-20, 22-3
+locative (Loc)
+37-8: 57-8.69,74.77-8
+locatwe verh (Vloc)
+34. 37, 44
+long pronoun
+42-3,73,86.114
+lollg vowel
+13-14, 16, y,108-rz
+law vowel
+12-3nlasculine noun (Nm)
+42: 45,86,89
+matrlx sentence
+47.49. 51, 56. 59. 64-6,!68-o
+nlid vowel
+12-13
+modified pronoun
+8689
+modifier
+6 , 81
+modifier of manner (Man)
+37. 39-40.77-8
+modifier of noun (IM)
+66-71
+nladifier of sentence
+78-81
+minor modifier of manner (Mn)
+37, 39-40
+morpheme
+12, 15, 32
+morphophanetnic rule
+6 7 , 28, 47,86-IIZ
+movement verh (verb of motion) (Vmove)
+34.36-40~47-52
+nasal consonant
+16-18, 20
+nasalization
+I [ - w 1 6 - 1 8 , 20, zg, 1 1 0
+negative
+74-5, 93-4
+nominal (Nom)
+41, 43, 58,75> 92
+nominalization
+34.63-6
+non-high vowels
+13-14, 24, 1 1 1
+non-unique tone
+112INDEX
+noun (N)
+41-2, 62-72, 7 ~ ~ 786-90,
+8 , 92
+noun group (NG)
+41.77-8
+noun uhrase (NP)
+. .
+33, 37-40, 41-4,49-53, 55-7. 59-75.
+79-84,87-8, 9 1
+noun su& (ns)
+41-3,46,73, 87-8
+animate noun (Nan)
+48, 77-8
+feminine naun (Nf)
+42, 45, 86,89
+inanimate noun (Nin)
+42, 62, 77-8, 8 6 8 9
+masculine noun (Nm)
+42. 45, 86, 89
+minor naun phrase (Np)
+38, 41-3, 58
+other noun (Nx)
+42.46
+personnl noun (Nps)
+4% 45, 89
+place noun (Npl)
+42.46
+relationship naun (Nrel)
+42, 45.88
+singular-only naun (Nsg)
+42.. 46
+.
+singular/phwal noun (Nsp)
+4 ~ ~ 4 6
+time noun (Ntm)
+42,46,77-8
+number marker (nm)
+41-2
+numeral (Num)
+43-4. 73-3, 77-8, 90-1, 103
+objcct (NP)
+34-5. 37,49-59, 63-5, 69, 71-2, 82-3
+open vowels
+13, 24-5, 1 1 1
+optative
+75-6
+orthography
+14, 17-18, 20, 3 1
+other transitive verb (Vo)
+34>44
+passive
+7 . 5 7 4 , 67-8
+past (tense) (Pa)
+3 6 7 , 82, rrz-13
+phoneme
+8, II-25, 110-12
+phrase-struchre rules
+' 0 ~ 3 2 - 4 6 ,5 s
+plosive
+16-23, 25
+plural (pl)
+4a, 86-90possessive
+15, 64, 68,87-9, 96, 114
+predicate (P)
+33-40, 6 6 7 , 74-5.82. 91
+predicate noun phrase (PNP)
+33, 42-3,6z, 7 s 86
+present (tense) (Pr)
+3 6 7 , 4 o , 112-13
+pronominalization clement (p)
+42-3
+pronoun (Pm or P)
+15, a7-9, 41-3, 57-8, 6 4 6 4 , 70, 72-3, 75-6.
+86-9, 90. 9 5 7 , loo, 104-7,114
+prosodeme
+1 1 , 14-18
+punctuation marks
+11-1%
+25, 32. 47
+question mark
+lz, 76-7, 109
+reduplication
+23-4, I 1 2
+renlacement
+11-11reported speech
+82-5
+rhythmsccond transitive verh (Vtr.2)
+34-6
+semicolon
+1% 79-81, 84-5
+sense verh (Vsen)
+34. 44, 63-4
+sentence (S)
+9,33,74-8s
+sentence juncture
+11, 25, 3 z , 95
+simple (aspect) (S)
+3 6 7 , 40, 82, 112-13
+singular (sg)
+42, 86-90
+short pronoun
+27.73, 87-8, 90, 96, roo, 1 0 4 7 , 1 1 4
+short pronoun prefix
+15, 88, 95, 100, 104, 714
+short pronoun subject
+' 5 , 8 7 4 , 95, 9 7 , I 0 5 7 , 1 ' 4
+SOnDIBnt
+18., 21-2""
+specific verh (of movement) (Vsp)
+3 6 , 4 5 , 48-51
+stative (aspect) (St)
+36-7. 40, """"13
+Stress
+~ 6 ~ 2 109
+9 ,
+style
+9 , 20
+subject (NP)
+33, 52, 57-9, 62-4, 66, 80-2, 86-8, 96INDEXA GRAMMAR O F THE KOLOKUMA D I A L E C T O F 1 1 0subordinator (Sub)
+78-81, 94
+syllable11-14,167, zo, 25-6, 96-101, 106-9, i r zunique tane
+I12unit
+11-17,ao-31, 32, 95-110symbols (for rules)3 ~ ~ 495-6
+7,
+3 6 1 (see also aspect)
+time adverbial (Tm)38-9,77-8
+tone (=toneme)25-627-9, 95-105tone group7, xr-12,331. 39-40,47-60,75, 82, 91-2, 94
+verb of change of state (Vcb)
+34. 44-5. 59. 94,104
+verb of motion (Vmove)
+see movement verb
+verb of saying (Vsay)34-6,44.83-5tone class
+2.5,Open (dotted) vowels follow their close counterparts; gb, kp, q follow g , k and n respectively; low tone precedes high; affixes follow free units, and s u f i e s without a tone
+mark follow those which have one.verb (V)tenseI r, zo,B. Units c i t e d in specific rules, etc.","[61, 62, 63]"
+"PHONOLOGYA G R A M M A R O F T H E K O L O K U M A D I A L E C T O F I10(a) A very large number of ideophones are reduplicated (e.g. geengeenz 'shrill') or
+even triplicated (e.g. I&lalaz'pure white'). I n a language where the distribution of vowels
+is limited by vowel harmony and the distribution of consonants by statistical prohabilities, some reduplication would be expected and occurs (e.g. in reduplicated nouns like
+e16rnulernb4 'well'). I t is, however, much more marked among the ideophones than in
+other parts of the vocabulary. Out of 392 ideophones examined, 190 (48.4%) were reduplicated, 19 (48%) were triplicated, and 183 (46.6%) were neither. By contrast, on
+the Swadesh zoo-word list, only seven forms (3.5%) were reduplicated and none was
+triplicated; of units other than ideophones beginning with k, 7.80/, were duplicated
+and none was triplicated.
+(b) A much greater proportion of ideophones than of other units contain the same
+vowcl throughout; this fact is particularly striking because idcophones, on the whole,
+contain more syllables (and therefore more vowels) than other units. Of 158 forms on the
+Swadesh zoo-word list which contained more than one vowel, 40 (about 25%) had the
+same vowel throughout; of 385 ideophones with more than one vowel, 187 (about 48%)
+had the same vowcl throughout.
+(c) A much greater proportion of ideophones than of other units contain phonetically
+long vowcls. Of the 3gz ideophones studied, 107, or roughly z5%, had a long
+vowel; of non-ideophones beginning with k, only three, or about z:/,, contained a
+long vowel.
+(d) The most interesting property of ideophones is their tendency to cluster in groups.
+Each member of the group differs only slightly from the other members, both phonologically and semantically:
+geen4
+geen4
+goon4of an even, unblinking light; whence egengenl 'firefly'
+of a steady light, brighter than geen4
+of a light which is brighter than geen4, but does not bother one likegoon4of a light which is brighter than geen4 or geen4.geen4With these should he compared gegenegpgene4 'of someone with wilful, flashing eyes'
+and ganl 'be light', possibly the starting point for the whole series, which is not itsbf an
+ideophone.
+T h e above example is typical in showing the main phonological variation borne by the
+vowels. Of the threc dimensions in which vowels contrast, one is regularly and two
+sporadically associated with a regular semantic distinction. Pairs of ideophones which
+differ only in that one has close and the other open vowels refer to larger and smaller
+objects respectively. Somewhat less consistently, non-high vowels refer to larger objects
+than high ones, and back vowels to larger objects than front ones. These distinctions will
+be illustrated from one particularly complete series, referring to the size and shape of a
+man. Although there was some variation among informants in such a set, in that some
+speakers would not accept all the forms given by others, all of them accepted several of
+the series.
+(a) Non-high vowels associated with largeness, high vourels with smallness:
+gbegbereel refer to taller gbigbiriil
+people than
+gbjgbjrjjl
+gbag baraal
+gbog boroolgbygbyrvvl(b) Close vowels associated with largeness, open vowels with smallness:
+gbegbereel
+gbogborool
+beg bereel
+gbigbiriilrefers to taller
+people than
+refer to fatter
+people thangbegbereel
+gbygbyryyl
+gbjgbjrjjl(c) Back vowels associated with largeness, front vowels with smallness:
+gbog borool
+gbygbvrvylrefers to fatter
+gbeg bereel
+people than
+refers to less thin gbjgbirjjl
+people than1.5.2 I n view of these special features of ideophones, it might be expected that they
+would show a peculiar distribution of consonants. I t does in fact appear that the frequency of certain individual consonants is different in ideophones: there are more ideophones than other units with initial kp, although ideophones constitute only about a
+fifth of the collected vocabulary. But in terms of the overall distribution of plosives,
+fricatives and sonorants, ideophones do not differ markedly from the rest of the vocabulary, and the figures for ideophones and other units have therefore not been distinguished
+in 1.4.4-5.
+1.6 TONEMES
+I .6.1 There are two tonemes, ' high and ' low. Their allotones are described in relation
+to syllables and breath groups; the tone patterns they form, however, are to he described
+in terms of units, which in turn form tone groups and tone phrases (cf. 1.7 and 7.1-2).
+Every vowel and unit-initial nasalization bears a tone. Tone marks are not written on
+every syllable; instead, the following conventions are observed:
+(a) Tones are marked in relation to tone phrases, which are separated by comma and
+sentence juncture (i.e. by punctuation marks).
+(b) Within a tone phrase, unmarked syllables at the beginning are low.
+(c) The first high syllable in a tone phrase is marked high, the next low syllable is
+marked low, etc.
+(d) All unmarked syllables following a marked one hear the same tone as the marked
+one.
+(e) Units cited in isolation bear a subscript numeral assigning them to a morphophonemic tone class (1.7) if they ever occur initially in a tone phrase. They are marked with
+the tone pattern they hear in this initial position.
+(f) Other units cited in isolation are preceded by hyphen juncture; the tone patterns
+marked on them are those they most frequently bear (1.7).
+1.6.2 The following are the allotones of the high and low tonemes:
+(a) I n the breath group, the first sequence of high tones is higher than the second, the
+second than the third, etc., unless a sequence later than the first is raised for emphasis:
+'he is not well';
+each succeeding high tone is slightly lower than the preceding one.
+eri, qng4, kyro-5A GRAMMAR O F T H E KOLOI<UMA DIALECT OF TI9(b) A final low tone in a breath group is lowcr than the earlier low tones. If the breath
+group ends in two low tones on adjacent vowels (i.e. with no intervening consonant), they
+are phonetically realized as a low-falling tone:
+-imp? simple past tense before reported speech
+(c) A high+a low tone on adjacent vowels result in a phonetic high-falling tone:
+om6b4 sweat
+(d) A low+a high tone on adjacent vowels result in a phonetic low-rising tone:
+sanjj melt (intransitive)1.6.3 Stress is predictable. It falls:
+(a) On the first of a series of high tones:
+of6niz [3f6ni] bird
+(b) On the first part of a phonetically falling tone:
+om6b4 [6'm8ii] sweat
+(c) On the first part of a phonetically rising tone, unless the vowcl of the first part is
+high and the vowcl of the second non-high, in which case the second part is stressed:
+but
+ndai4 [h'dt]
+so, then
+anpa [inj'a]
+(d) On the first syllable of a unit of shape W:
+-hab
+['&I
+interrogative emphasizer
+There is a distinct tendency towards a rhythm which is, in Pike's terms,4 neither
+syllable-timed nor stress-timed. Tone groups tend to occupy roughly equal intervals of
+time; a subject at the beginning of the sentence forming its own tone group is often
+spoken slowly and followed by a slight pause, whereas the predicate which follows i t and
+forms at least one new tone group is normally longer than the subject but, being spoken
+faster, takes little more time to say. I n
+jnqy-s+, gridugudu-k(i) 6mi 'the wound is very deep',
+the four syllables of the subject (up to the comma) take roughly the same length of time
+as the six syllables of the predicate (the i of -ki is elidcd).
+I .7 TONE
+PATTERNS1.7.1 Tone patterns extend over tone phrases, which are built u p from tone groups,
+which in turn are built u p from units. T h e tone patterns borne by units in isolation are
+frequently completely changed when the unit occurs in non-initial position in the tone
+group, and sometimes partly changed even when the unit occurs in initial position. For
+example, there are three nouns which in isolation have the following patterns:
+bur6 yam
+biri ward, quarter
+war/ house.
+Initially in a tone group the first of these has a different tone pattern while others do
+not changc:
+wiri-bi
+buru-bi
+biri-bi
+the quarter
+the house
+the yam
+I n non-initial position any of the nouns can have any of the four possible combinations
+of high and low tone, depending on what precedes:
+INTONATION OF AhIERICAN ENGLISH 35(Ann Arbor, 1945).","[15, 16, 17]"
+"I2XBYKAY W I L L I A M S O NICAMBRIDGE
+A T T H E UNIVERSITY PRESS
+I N ASSOCIATION W I T HT H E W E S T AFRICAN LANGUAGES SURVEY A N D T H E
+I N S T I T U T E O F AFRICAN S T U D I E S , IBADANCONTENTSPUBLISHED BY
+T H E S Y N D I C S O F T H E C A M B R I D G E U N I V E R S I T Y PRESSI N ASSOCIATION WITH THEWEST AFRICAN L A N G U A G E S S U R V E YA N D THE INSTITUTE OF A F R I C A N STUDIES, IBADANBentley House, zoo Euston Road, London, N.W.1
+American Branch: 32 East 57th Street, New York 22, N.Y.
+West African Office: P.O. Box 33, Ibadan, Nigeria0
+KAY W I L L I A M S O N1965PREFACEviiINTRODUCTIONiGeneral
+0.2 Dialects
+0.3 Classification and.literature
+0.4 The speakers of Kolokuma
+0.5 The present study .
+0.1CHAPTERI PHONOLOGY
+1.0 Elements, junctures and distribution
+1.1 Vowels
+1.2 Vowel harmony
+1.3 Nasalization
+1.4 Consoi~ants
+1.5 Ideophones
+1.6 Tonemes
+1.7 Tone patterns
+1.8 Note on the conventional orthography-2 PHRASE-STRUCTURE
+RULES
+CHAPTER
+2.0 Introductory
+2.1 The sentence and the predicate
+2.2 The noun phrase
+2.3 Lexical rulesPrinted in Great Britain by
+Percy Lund, Humphries W Co. Ltd, London and Bradfordii4
+6
+7
+II
+II12'4
+16
+18
+23
+25
+26
+3'
+3'
+32
+33
+4'
+44CHAPTER
+3 VHRBPHRASE TRANSFORMATIONS
+3 .o Introductory
+3.1 Transformations involving verbs of motion
+3.2 Some co-ordinating transformations
+3.3 Introduction of akin 'use' and -njb 'linker'
+3.4 Causatives
+3.5 Passive and intransitive
+3.6 Comparison
+3.7 Transformations involving auxiliaries47
+47
+47
+42
+53
+54
+57
+59
+59CHAPTER4 TRANSFORTMATIONS
+OF THE NOUN PHRASE
+4.1 Co-ordination, apposition and deletion
+4.2 Nominalizations
+4.3 Modification of noun phrases
+4.4 Transposed object
+4.5 Numeral adjustment
+4.6 Pronoun adjustment61
+61
+63
+66
+71
+72
+73CONTENTSCHAPTER
+5 SENTENCE
+TRANSFORbIATIONS
+5.1 Re-arrangements of single strings
+5.2 Linking of sentencesI: NON-TONAL
+CHAPTER 6 M~RPHOPHONEMICS
+6.1 Pronouns
+6.2 Nouns and their suffixes
+6.3 Numerals
+6.4 Emphasis
+6.5 Aspect markers
+6.6 Verbs
+6.7 Subordinators
+11: TONE
+AND ELISION
+CHAPTER7 MORPHOPHONEMICS
+7.0 Introductory
+7.1 Tone groups
+7.2 Tone phrases
+7.3 Intonational changes
+7.4 Elision and replacement
+APPENDIX
+I : Uses of the aspect-tense morphemes
+APPENDIX11: Table of the various pronoun formsPREFACE
+This monograph is a revised version of my Ph.D, dissertation, accepted by Yale University in 1963. Its history is largely a record of those to whom I am indebted. It is impossible to name them all in a brief preface; equally impossible for the work to appear
+without thanks to the few who are named below and the many who have also contributed.
+I first begall work on the I<olokuma dialect of Ijo in 1957 under the guidance of the
+late Mr. H. J. Uldall, Senior Lecturer in Phonetics at the University of Ibadan, while
+I held a Leverhulme Research Scholarship, and have continued at intervals ever since.
+My field work has constantly been made pleasant by the interest and co-operation of the
+Ijo people; among many others, I would like to mention Chief G. D. Appah and Mr.
+J. H. B. Appah for their hospitality in Kaiama; 1Ur. S. K. Owonaro for his encouragement and comments on the phonology; Mr. Dagbo Alazigha for the use of his lists of
+numerals. Those who have chiefly assisted me in the study of I<olokuma are named in
+0.5.'; of them, Mr. A. A. Akene (now a student at the University of Nigeria, Nsukka),
+Mr. 0. A. Egberipou, Mr. Pianto Egberipou (now at the University of Lagos Medical
+School), and Mr. A. 0. Timitimi have borne the greatest part. Mr. J. C. Daworiye of
+Odi, a student at the University of Ife, has helped in the revision for publication. The
+willingness and interest of all my assistants have been a constant encouragemelit in the
+work.
+This grammar of Kolokuma began to take its PI-csent form when I was a student in
+the Linguistics Department of Yale University. I am iudebted to Professor Bernard
+Bloch and the whole Departme& for the atmosphere which allowed me to follow up my
+own lines of interest. As regards my dissertation, I am particularly grateful to Professor
+Samuel E. Martin, who supervised my wol-k and encouraged its progress, to Professor
+Rulon S. Wells for his course on syntax, and to Professor I, Dyen for a better understanding of lexicostatistics.
+My attempt to write a generative-transformational grammar stems from the interest
+that I felt in the work of Noam Chomsky and others. I t seemed that certain features of
+Ijg (such as the relation of the tone system to the syntax) might be interestingly described
+by such methods. I have not, however, studied under transformationalists, and am well
+aware that the grammar would be different if I had.
+From the American Council for Learned Societies I received an Advanced Graduate
+Fellowship in Linguistics, which enabled me to return to Nigeria for further fieldwork
+and to write my dissertation there. To the Department of Linguistics and Nigerian
+Languages, University of Ibadan, I am grateful for facilities for writing up the dissertation.
+In the revision which preceded publication, I have had the benefit of much help from
+Professor PaulSchachter, as a result of which the syntactic and morphophonemic rules
+have been almost completely recast. The infelicities which remain are entirely my own
+responsibility.
+IBADANviiINTRODUCTION
+0.1 Jjy (1jaw)l is a language spoken over a wide area in southern Nigeria. T h e Ijyspeaking peoples live mainly in Degema and Yenagoa Provinces in the Eastern Region
+and in the Western Ijaw Division of Delta Province in the Midwest Region, with a few
+outlying groups stretching as far west as Okitipupa Division in the Western Region. T h e
+exact number of speakers is not known, but there are probably at lcast half a million.2
+T h e area inhabited by Ijy-speakers forms part of the Niger Delta. T h e land is intersected by rivers and creeks; transport is often easier by water than by land. Conscquently
+lines of communication tend to run u p and down stream, roughly from north to south,
+rather than from east to west, except in the coastal creeks. T h e inland parts of the delta
+are fertile, as the silt brought down by the Niger in the flood season (roughly, July to
+Octoher) is deposited on the farmland; but the parts nearer the ocean and towards the
+east are tidal, and little vegetation except mangroves flourishes in the salt water.
+T h e economy of the salt-water area depends on fishing and on trading. From the
+fifteenth to the late nineteenth century, the Eastern Jjy speakers developed city-states and
+acted as middlemen between European traders on the coast and the peoples living in the
+interior; contact with Europeans is, therefore, no novelty to Jjp peoples. 146th European
+penetration of the interior, and particularly with direct access to the palm oil producing
+areas, the Ijy monopoly of trade collapsed.3 T h e fresh-water areas were never so dependent on trade, relying mainly, as they still do, on agriculture supplemented by fishing.
+Nowadays, the whole area suffers from lack of roads and industry, and has been classified
+by the Nigerian Government as a Special Development Area. T h e discovery of oil in
+various parts of the delta offers at least limited opportunities for employment to the
+inhabitants of the area.","[1, 2, 3, 4]"
+"I+I1
+Vacc
+Vadj2.1.5 T h e main group of transitive verbs (Vtr.1) is optionally followed by a limited
+group of second transitive verbs ( V t r . ~ ) ,which introduce a second complementation.
+y6 gba-nj,l y-pjrj
+thing say him give
+say something to him
+Alternatively, a transitive verb is developed into the verb miel 'make' followed by a
+causative phrase (CsP), which is not further developed in the phrase-structure rules, but
+is replaced by a constituent sentence i n the transformational rules (T.14).
+5. Vtr -tVtr.1 (Cp1Vtr.z)
+miel CsP2.1.6 Transitive verbs of type I consist of the following: a group that can be followed
+by yarjl 'send' as second verb (Vtr.11); gbQz 'say'; aQz 't2ke'; verbs of saying (Vsay);
+sense verbs (Vseu); verbs of change of state (Vch); and other transitive verbs (Vo),
+which do not fall into any of the other types.
+Vtr.11'-nib 'linker' occurs after a verb or rn5z 'then' when the next unit begins with a vowel: 3 . 3 . 2 ,
+34PHRASE-STRUCTURE RULES2.1.7 Second transitive verbs are divided according to the first verbs they follow.piril'give', often equivaleut to English 'to' or 'for', occurs after any first verb:
+dbma tun-ni, a-pjri
+song sing her give
+sing a song for her
+yaril 'send (to)' follows Vtr.11:
+bide firimQ-nj, a-yarj
+cloth send
+her send
+send her a cloth
+(the object of the first verb, equivalent to the English direct object, is followed by fjrjmql
+'send', yaril being used only to follow the second object and denote the person to whom
+the sending was done). gb5z 'say' takes an inanimate object and is followed either by
+piril or by dial 'show':
+egberi gbi-ni, y-pjr/
+story say
+him give
+tell him a story
+y6 gba-nj, y-djQ
+thing say him show
+tell him something.
+A verb of saying takes an object (most often animate) and is preceded by akjz 'take'
+with another object (most often inanimate):
+y6 akj-nt, y-bee
+thing take him say
+say something to him
+wo-Qkj, dlirna t u n
+him take song sing
+sing a song about him.
+A transitive directional verb (Vtr.d), preceded by a (frequently animate) object, takes the
+suffix -rnQ 'towards, in regard to', and follows akjz 'take' with anormally inanimate object:
+indi akj-nj, 9-die-mQ
+fish take them share D (=directional sutIix)
+share fish among them
+Qru-bj ikj, t j n kaka-rn?
+canoe T take tree tie D
+tie the canoe to a tree
+wo warj-bj hki, t j n dsri-m$
+its house T take stick weave D
+weave its web round the stick
+tari-am5 iki-ni, a-gbQna-rn?
+blessing pl take her place D
+bestow blessings upon her
+pulou akj-nj, ine tibj dpsy-rnQ
+oil
+take my head pour D
+anoint my head with oilPHRASE-STRUCTURE RULESA G R A M M A R O F T H E K O L O K U M A D I A L E C T O F TJO6ru ak/-nj, y-karj-me
+deity take him invoke D
+invoke a deity against him.
+Vtr.11ivsay1
+Vtr.d+-mQ2.1.8 Verbs of movement are divided into general (Vgen) and specific (Vsp). T . r
+results in specific verbs becoming modifiers of general ones.","[21, 22]"
+"A. td-bi, ebi-nimi
+reason T he-good StPr
+the reason is good
+b. i r i s f+y yoy-yemi
+you market paddle Hab
+you are trading
+Similarly:I1in6 fqy yqy-yemi tu-bi, ebi-nimi
+your reason for trading is good.arj, in6 bo-yemi tu-bi nimi-w6nimi
+I your come SPr reason T know StPr
+I know your reason for coming.
+T.zg S D : A. X, tdz+Y
+b. NP, Z V Pwo duma tlin-ysmi bara-bj, jnbele, b+-mi
+his song sing Hah way T be-nice be-much StPr
+the way he sings is very niceSC: I . . . 4 3 13++ 4 t z
+4.2.3 If the subject of a constituent sentence is identical with a subject or object of the
+matrix sentence, it is deleted. T h e rest of the constituent sentence followed by biras
+'way', replaces y6z 'thing' in the matrix.
+A. arj, y4 dqy-mj
+I thing seek Spa
+I looked for something
+b. arj, burud du-qjmj
+I yam dig S F
+I w m i g up the yamburud sbu-qj bara dqy-mi
+* arj,
+I looked for a way to dig up the yam.
+!",[36]
+"T.18 SD: Nom+i, (D+),I,:[Condition: I does not contain psc: I . . . 4 * Z I 4
+583,5,2 Intransitives are formed to transitive kernel sentences containing verbs of change
+ofstate. The object of the kernel sentence becomes the subject; the verb takes the
+s tone pattern. Verbs whose transitive form ends in =mo losearj, tjn-bj thumo-mi
+I stick T bend Spa* tjn-bi, toi-mi
+stick T bend st StPrI bent the stickthe i i c k is bent.
+(st = state)tjn bein ye, pui-doy
+tree ripe thing split st IPa
+the pod has split
+nima-mo, kpei-doy
+animal Tpl gather st IPa
+the animals have gathered.",[33]
+"-1.4.3 Consonants are distributed in syllables and units. T h e great majority of Kolokuma syllables can be summarized in the formula'I'
+(C) V (N),
+where C=consonant, V=vourel, T=tone, N=nasalization, and parentheses indicate
+optional clcments. A few syllab!es do not fit this formula:
+(a) As noted in 1.3.1, some unit-initial syllables consist of nasalization+tone.
+(b) A few syllables end in a consonant; units containing such syllables are loanwords,
+ideophones or interjections :
+baptiizi4
+baptize
+dibdibdib4 freshly-cut and oozing
+cry to shoo fowls
+6s os
+(c) A few units beginning with voiceless plosive+high vowel+ r have variants without
+the vou,cl: pjrjl or pril 'give'. Such forms are probably dialect borrowings from NorthWestern Ij?, and the longer form is used throughout this study.
+1.4.4 T h e distribution of consonants within the unit is not regulated as rigidly as that
+of the vowels, but it is statistically though not absolutely limited. Table 4 shows what
+combinations of first and second consonant (CI and Cz) were found in a tabulation of
+559 units, each of which contained two consonants. (The first consonant may he either
+initial or preceded by a vowel.)PHONOLOGYA GRAMMAR O F T H E K O L O K U M A D I A L E C T O F TJQPHONOLOGYA combination of the total occurrences of each consonant in C1 and Cz position yields
+the results that are shown in Table 5,which give a rough idea of the lexical frequency&ble consonant combinations were quite regular and could be stated as rules and not
+as fr~quencies.But there are two reasons why this is unlikely. Firstly, languages are
+rarely, if ever, in a state of complete equilibrium; borrowing from other dialects and
+languages is not likely to he a necessarily new feature of I<olokuma. Secondly, although
+in the example above six out of twelve cases of fricative-plosive were stated to he of
+recent origin, at least one of the others has to be assigned to Proto-Ijo. Further, other
+show that the number of fricative-plosive combinations has actually been
+reduced by conditioned sound-change. I t therefore seems improbable that there was ever
+rigid a limitation on consonant combinations as there is on vowels.
+1.4.5 A comparatively small number of Kolokuma units contain more than two
+consonants. Of the polysyllables that do occur, the greater number belong to the syntactic
+class of ideophones or descriptive verbs, which will he specially considered in 1.5below.
+For the present they will he treated like other polysyllables, except that in the case of
+reduplicated forms only the first half of the unit is considered.
+206 units, each containing three consonants, were examined. 27 combinations of
+*losive, fricative and sonorant are possible, and the number of units taking each combination is shown in Table 7.of the various consonants. (The text frequency has not been studied.)T ~ L5BczCombmedc1r 140
+93
+tn 54
+n
+49
+b 36
+k 33r 142
+k 138
+1 1131 2 0g13Y I9w10in '4PI3
+9
+z 8gb
+2V5Yrzf9
+7
+6
+5
+5
+4
+3CI-k 105
+b 60155
+44
+42
+38
+375!3b 32t-Pd
+5b
+t
+st3'
+27rn
+dkp 28d23ngkpIZPf2696
+82
+69
+68
+65
+58
+53czW""
+I'3VCombined41
+I ~ P 40
+9
+39
+gb 39
+Y 24
+fW232'3
+8
+7vTABLE
+7Table 4 is divided into plosives (P), fricatives (F), and sonorants (3). T h e possible
+combinations of P, F and S, for a two-consonant sequence, are nine; the occurrences of
+each combination are summarized in Table 6.","[14, 15]"
+"TABLE
+6c1cz{TotalPF
+SPPFSTotal'31
+281217
+I23213
+6560160
+42
+357391go78559Table 6 demonstrates that certain sequences are more common than others. I n particular:
+(a) Plosives are most frequent as C1, sonorants as Cz.
+(b) T h e most frequent combinations are
+(i) Plosive-sonorant
+(ii) Plosive-plosive
+(iii) Fricative-sonorant, sonorant-sonorant
+(iv) Plosive-fricative.
+The remaining combinations are uncommon, and many of their occurrences can be shown
+to be of fairly recent introduction into the language. For example, of the twelve cases of
+fricative-plosive, three are loanwords from English and three dialect borrowings from
+Nemhe. I t is therefore tempting to assume that at an earlier stage of the language the
+22Total
+PPP 9
+PPF 2
+PPS 57
+PFP PFF PFS 2
+PSP 36
+PSF 8
+p s s 33FPP 3
+FPF FPS IZ
+FFP FFFFFS 4
+ESP 5
+FSF FSS 5SPP 2
+SPF I
+SPS 4
+SFP z
+SFFSFS I
+SSP 7
+SSF I
+SSS I 2Total 1472930'4
+3
+73
+2-7
+48
+9
+50/206Table 7 shows that plosives are the most common first consonant (147 cases); that
+sonorants are the most frequent last consonant (130 cases), although the combination
+PSP comes quite high with 36 cases; and that fricatives, nowhere common, are particularly scarce as the second consonant of three.
+1.4.6 Some unreduplicated units contain more than three consonants, but insufficient
+numbers of them have been collected for useful generalizations to be made.i.5 IDEOPHONES
+1.5.' Ideophones are set up as a syntactic class, but are found to constitute a phonological subsystem as we11.3 They are distinguished from the main part of the system in
+the following ways:
+Many of the special phonological features noted for Ij? ideophones are similar to those described
+in huo recent studies of Bantu ideophones:
+G . Fortune, IDEOPHON~S IN SHONA (London, 1 9 6 ~ )
+D. Flvaz, Sam ASPECTS
+OF TEE IDEOPHONs IN ZULU (Hartford Studies in Linguistics 4, 1963).",[15]
+".b. X, Vsp.2, Vgen.2, Y
+Condition: z = 7
+SC: I . . 8 3 16734A. Hmj-bj, fa-dp(i
+man T be-lost IPa
+the man has perishedT.I SD: A. X,T.Z SD: A. X,I3 . ~ , 3The matrix sentence contains a verb of motion of class I or z; the constituent
+contains the verb ddoz preceded by an object, ddoz being equivalent to English
+~ ( ~through/from/along'.
+0)
+Sentences containing dfioz as the only verb are rather unusual, the transform containing
+a second verh being more common. I t is possible that dcoz is in the process of losing its
+verbal status and becoming a particle (cf. the locative marker -9, which, like dtioz,
+&ays follows a noun phrase), but the process has not gone so far that the constituent
+sentences set up here are impossible.
+A. eri, b6-mi
+he come Spa
+he came
+eri, am6 dbo, b6-mi
+* he
+came through the town.
+b. eri, atni dbo-mi
+he town1 go-through Spa
+he went through the town
+Similarly:
+eri, beni dbo, yoy-mj
+he water go-through paddle Spa
+he paddled through the water
+eri, ywQy dbo, wenj-mi
+he road go-along walk Spa
+he walked along the road.",[28]
+"T.28 SD: A. NP X, NP, +VsenFuxCondition: z = 5++(The symbol
+is required because a pronoun subject subordinated in this way is
+eventually rewritten as a possessive.)
+4.2.2 A constituent sentence is nominalized by becoming a modifier of the noun tliz
+'reason'.",[36]
+"[Lm?I. . 8 * 1237 (+=m?)53.4.2 Sentences resulting from T.14 which contain Vcs.12 are combined with a
+constituent sentence introducing akjz 'take, use'; the resulting string is of the form 'W
+took/used X to make Y do Z'.This transformation is therefore very similar to T.II, but
+55A GRAMMAR O F T H E K O L O K U M A D I A L E C T O F T J Qthere are extra conditions: the last verb in the matrix sentence must be transitive, and it,
+object must be identical with the object of akja in the constituent sentence.
+A. eri, 9-mi$-nj, of6ni-bi Gwej-dQy
+he them make bird T fear IPa
+he has made them afraid of the bird
+b. erj, of6ni-bi Bki-mi
+he bird T take Spa
+he took/used the birdI*eri, of6ni-bi iki-ni, ?-mi+-nj, ofhi-bi Qwei-dev
+he bird T take them make bird T fear Spa
+he has frightened them with the bird.
+Similarly:
+w6ni, uru a!+],
+y-mi+-nj, uru bou-mi
+we wine take him make wine drink Spa
+we made him drink by giving him wine.
+T.15 SD: A. NP, NP +miel, NP, +Vcs.~z Aux
+b. NP, NP, +akjz Aux
+Conditions: I . I = j
+z.3=6
+SC: I
+. 7 * 167234..","[31, 32]"
+"JHab
+Complementation comprises all kernel modifiers of verbs. I t always includes an
+optional adverbial phrase (AP). Before a transitive verb or a movement verb followed by
+.mQ 'towards' (directional and transitivizing sub) it also includes an object (NP),
+optionally preceded by a phrase inclndmg a minor modifier of manner (Mn); before an
+adjective, action, or movement verb, timi2 'be there', or miel 'make, act' it optionally
+includes a modifier of manner (Man); before a locative verb a locative (Loc); and before
+an accompaniment verb an accompaniment (Acc).
+(NP+V*)
+t o b q dii
+child look
+look at a child
+t o b y wenj-mQ
+(NP+Vmove+-mQ)
+child walk D
+walk towards a child
+ay6 bara-ki akj, ddma tun
+(Mn+ak/z NP+Vtr)
+new way em1 take song sing
+sing a song in a new way
+zjn/ bara-k] dki
+(Man+Vmove)
+another way em swim
+swim in another way
+akasj-b/-Q, tit$
+(LOCVloc)
+chair T on sit
+sit on the chair
+Z , .13
+~y-m?mQ, sy0
+(Acc Vacc)
+him with fight
+fight with him
+One rule introduces the more specialized complements in front of their appropriate
+verbs; the next introduces adverbial phrases with all other verbs.",[22]
+"Cw 1X is crou-classified, both into either A or B and into either C
+or D : the resulting classes will thus he A:C, A:D, B:C, and B:D.an elephant see Spa
+saw an elephantX is redaced hv Y before Z (context-restricted rule).kOk? bo-dqy
+actually come IPa (=immediate past)
+has actually come
+ogb66g b6
+(is) OghooghoX;s replaced by Y after A (hut not after B), and by Z after B
+(but not after A).
+Where the symbol X is replaced by Y in a restricted context A, but by Z in all other
+contexts, the restricted context is stated first.
+Some symbols are introduced linked by punctuation marks denoting sentence juncture
+(I .0.4). Grammatically, they mark different types of structures, as can be seen when they
+are first introduced. Abbreviations of the type NP 'noun phrase', P 'predicate' have been
+freely used, and are explained at their first introduction.
+Two types of sutlixes are written; those preceded by a hyphen, which continue to he
+written with a hyphen throughout and function as separate units in regard to tone, and
+those preceded by a double hyphen (=), which are eventually written and act tonally as
+part of the preceding unit (M.6&7).t6kitbki-kp? mi?
+gingerly-fashion too do
+(is walking) in a gingerly fashion
+2.1.3 T h e verb phrase is developed into a verb (V) followed by an auxiliary (Aux).
+3. V P + VAux
+mti timi-mi
+go CPa (=continuous past)
+was going
+na-d?Q
+hear IPa
+has heardA G R A M M A R O F T H E KOLOICUMA D I A L E C T O F 1102.1.4 T h e verb is dcveloped into a large number of types, with cross-classification.
+Verbs are, in the first place, classified as transitive verbs (Vtr), locativc verbs (Vloc),
+accompaniment verbs (Vacc), adjective verbs (Vadj), action verbs (Vact), or movement
+verbs (Vmove), which are optionally followed by the directional suffix -mQ 'towards',and
+which then take an object. A second classification crosscutting this one divides verbs into
+thrce major groups according to the type of causative construction they function in
+(Vcs.1, Vcs.2, Vcs.3). Finally, verbs are classified according to whether they form a
+noun identical in shape with the verb (Vnom), or whether they form a nominalization
+with baras 'way, -ness' (Vbara).","[20, 21]"
+"A GRAMI!/IAR O F T H E KOLOI<UMA D I A L E C T O F TJOTRANSFORMATIONS O F T H E NOUN PHRASESimilarly:SC: I . . . 5 * 14i,. I++ 5 + bira3 34.3.1 I n the first typc of modification, the matrix sentence contains a noun identical
+with that which occurs in the constituent sentence as the object of a@z 'take'. The
+constituent sentence is of the type ' X i s used to do Y', and has had its suhject deleted by
+T.27. The resulting modified noun phrase is of the shape 'an X for doing Y'.
+A. arj, ken/ 6g6u fe-dQy
+I an axe buy IPa
+I have bought an axe
+arj, ken/ fjnj pu ogou fe-dQy
+I have bought an axe to chop firewood.
+b. ogou akj, fini pu-mi
+axe take firewood chop Spa
+an axe is used to chop firewood
+Similarly:
+eri, beni wen/ igbika tya-d0y
+he water walk shoe put-on IPa
+he has put on rainhootsyoy ow6i-bi, y?y bo-y6mi
+paddle man T paddle come SPr
+the ferryman is coming
+of6ni-bi, kqrij timi angala gboly-mi
+fowl T burn CPa charcoal pick Spa
+the fowl pecked at some burning charcoal
+eri, g b i ye p6i-a-dei toboy
+he say thing listen not IPa child
+he was a child who did not listen to what was said
+bei, b6 tub0 lkiri fini owei-bi
+this come trade land open man T
+this is thc man who came to open a trading post
+yQ-bi-i, emi kimj-m?, ine bjna-6tb
+place T in be man Tpl my relative people
+the men ip the place are my relatives
+b6i, b6 furu kimi sypdei tpboy-bi
+this come steal man enter IPa boy T
+this is the boy who has become a thief.
+This transformation can be applied when there is already a modifier of the noun (here
+symholized M, equivalent to any modifier except a determiner). The modifier is the
+result either of an earlier application of this rule or of another modification rule.
+b6i, b6-yemi k6su ere-ma
+this come CPr be-old woman
+this is the old woman who is coming
+eri, kyr? war/ bQi,, emi
+he strong house door T there-is
+he has a strong house-doorb6i, ine beni b6u ye
+this my water drink thing
+this is my cup.
+Conditions: I. 2 = 4
+z. The noun in the NG of z is the head of a nominal construction.
+(Since the predicate is modifying the whole nominal phrase and not
+just one noun in it, the nominal phrase cannot extend into Y.)
+SC: 1 . . . 5 * 15++23T.32 S D : A. X (D+), NG, (+) Y
+h. NG, +ak/z, Np+VP
+Condition: z = 4
+SC: I. . . 6 * 16+234.3.2 Noun modifiers are formed from the predicates of constituent sentences whose
+subjects are identical with the noun to he modified.","[36, 37]"
+"+ {:.}+Y-, (M+) Nom, +i emiz
+Condition: 3 = 6
+SC: I . . . 7 3 IS+-? 23414.4 TRANSPOSED
+OBJECT
+An object which is to be emphasized or which is unwieldy is transposed to precede the
+subject, its original position being tahen by the replacer mQ4.
+omtnj, ken[ 6b6ri toboy erj-mj * kenj 6bbri toboy, ? m o erj-mj
+they a goat child see Spa
+i t was a young goat they saw
+they saw a young goat
+Similarly:
+fjaj tyo-g/ indi, a m+ f+-d$y
+food cook SF fish she i t buy IPa
+fish to cook is what she's boughtA G R A M M A R O F T H E KOLOICUMA D I A L E C T O F IJQbjsi dwei-kp?, y in? k6rbmpd+y
+that man too he him fall cs IPa
+he threw that man too.
+T.40 SD: NP, ( D f ) (M+) NG, +Vtr Aux
+Condition: If the head noun of the object is pronominal, it must be preceded by
+D and/or M. (1.e. the only pronoun forms which can undergo this
+transformation are the modified pronouns (6.1.1).)TRANSFORMATIONS O F T H E NOUN PHRASE4.5.3 fjniz 'add' occurs only at the end of a numeral phrase; it is therefore moved from
+any other position by this transformation.
+""6i, mafin[ briru
+6i, ma burli fin!
+10 z add yam
+twelve yamsT.41Obligatory
+SD: x NC, ffjnjz,{p). Y.","[39, 40]"
+"Non-lateralOralLabial
+Alveolar
+Back
+Labio-velar
+Examples:
+Cpi2
+tal
+kgnl
+kpalP
+t
+kkpb
+d
+9
+gbf
+s
+(h)LateralNasalz-otu
+akiz
+akpalpeople
+tooth
+bag(V) cvcapap4
+groundnuts
+epeti4
+mud
+tie
+kilm
+sikpaz
+wadebiz
+kill
+d
+point
+ggQn4 bright
+gb62 saygbyl
+odG4
+ggOz
+ag bizback
+cocoyam
+in-law
+calabashkabyl
+proverb
+abadjl
+ocean
+igbegil money
+igbegbel velvetfa1
+sogzfinish
+enterto weed
+old-a fish
+a grass
+oho!f+fejz
+k6suz(-gf$y~
+usil
+ehS4--via
+zyglthe other
+saveuzilcovenant
+a ceremonyovlinvu bn4 dragonfly
+azlizuz
+a fanw62
+ratad
+yeqilwe
+yam frame
+motherpwgy1
+grgl
+ayizchildren
+their
+newdawajl
+learn
+egberil story
+gyayanl horseVCgo out
+wife
+neck
+tie on back06, big18)am&
+ani~town
+that.qipast tense
+who, which
+future tense-la2reacha[$-temez
+nanal
+yegilshadow
+possess
+motherfarbelezpotI,4.zThe consonants are phonetically realized as follows:
+p t k kp are voiceless, almost ~ompletelyunaspirated plosives.
+2. b d g gb are fully voiced throughout.3. kp gb are voiceless and voiced plosives with simultaneous labial and velar release.
+a series of kymograph measurements made by J. D. M. H. Laver, the stop portion of
+tile doubly-articulated kp was not found, in intervocalic position, to be consistently
+longer than the singly-articulated p, lk. Both labiovelars are produced wit11 rounded lips.
+4. After hyphen juncture d is in free variation with t ; in some idiolects, only t occurs
+in this position. t is favoured by older speakers and is therefore probably the older form,
+but d was more comlnon among informants (mostly of the younger generation) and has
+normally been written. I t occurs only in:
+-d+y, -d+j immediate past tcnse
+-di
+and (linking verbs)
+-d+l@ (older form -tei!<j, from -t$j 'immediate past'+-kj 'emphatic') after
+-d$s+ (older form -te/s+, from -tej 'immediate past'+-sq 'all') after
+5. f v are labiodental fricatives.
+6 . [s z] are, for bilingual speakers, in free variation with [J d31 in forms borrowed
+from English:
+[Iligi] or [sligi] ssdgi sugar
+[ind3?ni] or [idni] inzini engine.
+The question arises of the point at which new phones introduced through loanwords are
+to be treated as phonemes. Two phonemes 1,j could he set u p in forms where there is
+alternation, s and z being restricted to forms which do not show the variation. But the
+fact that speakers make such statements as: 'We don't have J in our language', and 'Our
+language should not be spelt Jjo; it should be Tzqn' suggest that a phoneme j is not yet
+have not been heard;
+recognized by Roloknma speakers. (Similar statements about
+this probably rcflects two facts: (a) it is less common, and (b) it is not represented by a
+single graph in English spelling.)
+The use of [I], [d3] in sucb words is comparable to the use by educated English speakers
+of [XI, varying with [k], in German names like Bach. For many English speakers, there
+are styles of speech where [k] in these forms would be unacceptable, and where i t is
+consequently hard to avoid phonemicizing x. It is, on the othcr hand, doubtful whether
+there are styles of spcech in Kolokuma where [s], [z] are unacceptable in loanwords.
+(The status situation is interesting; English has for long had prestige as the mark of
+education, but there is now a nationalistic tendency, particularly among young men, to
+condemn the use of English loanwords and to note, if not definitely to disparage, phones
+like [d3] as 'English'.)
+On the whole, therefore, it is preferable not to set u p /J/, /j/ at present, but a change in
+the system could easily come about at this point.
+7. h is required only to account for the interjection eh6& 'oho!' If a separate phonological system or subsystem is set up to describe interjections, h is not necessary to the
+main system.[nI9A GRAMMAR O F THE K O L O K U M A D I A L E C T O F J J O8. Some speakers in some stylcs have one more phoneme not included in Table 3: a
+very weak voiced velar fricative gh. It occurs in only four forms, three of which are very
+common: -gh? 'locative', -gha 'negative', -gh6m+e 'past tense before reported speech'.
+If these were the only cases, [y] could be set u p as the allophone of g or h that follows
+hyphen juncture. But it also occurs in isaghik 'cottonwood', so that in intervocalic
+position it contrasts with both g and h.
+I n most contexts gh is segmentally zero for most spealcers; those who use [y] at all
+apparently do so only when it is emphasized. T h e fact that gh is written in the orthography no doubt encourages the use of [y] in reading aloud. I n this study the speech of
+those who do not use gh has been followed. T h e three common forms given above are
+thus written -?, -a, -am&. Each is preceded by a new syllable onset, which is phonologically interpreted as a featurc of hyphen juncture preceding a vowel.
+9. w r y are treated as a set because they all become nasalized in the vicinity of a nasal
+(1.3.').
+10. r is usually a single flap, but is apparently fricative for at least some speakers. I t
+occurs initially only in the rare word riti* 'frame on which yams are tied for storage'
+(probably a loanword), and in free variation with an initial vowel in riril or iriril 'feeling
+of sorrow'. English loanwords normally acquire an initial vowel: or@]., 'rice', or6dA4
+'Rhoda'.
+11. m n q have already been noted to nasalize vowels in their vicinity (I .3 .z).
+12. q occurs initially in the unit only after hyphen juncture in the single form -9jmj or
+-gj 'future tense'. Otherwise it occurs only as second consonant (i.e. when another
+consonant has already occurred in the unit), and is often in free variation with nasalization of the preceding and following vowels: bHq/
+b q n 'run'; but only yeqi 'mother'.
+13. 1 is always a clear variety.","[13, 14]"
+"T.IOSD: X (NP+) V, (NP+) V Y
+Condition: V in I+ dtjozSC: I2 * I + - d i 2
+3.3 INTRODUCTION
+OF akjz 'USE'3.3.1 T h e constituent sentence contains an object followed by akjz 'take, use'; the
+general meaning of the transformation is 'use something to do something', 'do something
+with something'.",[30]
+"INTRODUCTIONThese dialects are closely related and mutually intelligible. Boma scores 59.1% with
+~(alabari and 64.6% with Nembe; these figures are not significantly different from the
+66.8% it scores with Kabo (North-Western group), although the 70.8% it scores with
+IColokuma is significantly different from the Kalabari-Boma figure. T h e percentages
+suggest a transitional dialect, a result to be expected in view of the fact that this group
+is situated geographically between the Nembe, North-Western, and South-Western
+groups.
+B. North-Eastern:
+r . Okordia, spoken by the small Okordia clan on Taylor Creek.
+z. Amegi (Biseni), spokcn by Amegi-Biseni clan, who live to the north of Okordia on
+Taylor Creek.
+These two dialects are very divergent from the other groups, no doubt because of their
+isolated position and their intensive contact with dialects of the Edo and Igbo clusters.
+Amegi has certain features reminiscent of Kalabari, with wbich it has bad contact;
+Okordia is intermediate between the North-Central group and Amegi, but nearer to the
+latter. No lexicostatistic comparisons with other groups have yet been made.
+C. North-Central:
+I . Gbanran, spoken by the Gbanran clan along Taylor Creek to the south of Okordia.
+z . Elcpetiama, spoken by Ekpetiama clan along the Nun River. Ikibiri, although
+politically part of this clan, is tcntativcly assigned to the North-Western group below.
+3. Kolokuma, spoken by the large Kolokuma-Opokuma clan, who live mainly along
+t h e N u n to the north of Ekpetiama.
+These three dialects are fully mutually intelligible. On the Swadesh zoo-word list,
+Kolokuma scores 79.1% with Kabo (North-Western), 70.8% with Boma, 65.2% with
+Nembe, and 62.4% with Kalabari. These figures are not significantly different, but
+would he so if the intermediate dialect of Boma were omitted. T h e existence of such
+intermediate dialects is the reason for spealung of Ijg as one language and not as a group.",[5]
+"60. Vact + diwajz dream, fjl die, kin wander, ranil slip down, . .
+61. Vgen.1 + b62 come, fa1 finish, mliz go.
+6 ~ Vgen.2
+.
++ bQz pass, piz comelgo out, tejz escape.
+b3. Vgen.3 + fa1 finish.
+64. Vsp.1 +- bagi~run, desil jump, fin1 fly, iy6riz desccnd, k6roz fall, okiz swim,
+okiriz crawl, piz cornelgo out, wajj turu,4 wen12 walk, y?yl paddle,
+uw6uz ascend, . .
+65. Vsp.2 + b q / l run, desil jump, fin1 fly, okiz swim, okiriz crawl, waij turn,&
+wen12 walk, y o y l paddle, . .
+66. Vsp.3 + bile1 sink, dirjz boil, gogolo/ become stripped,4 gbodoi become
+burn up, k6roz fall, rn4jnz dissolve, tejz escape, . .
+w a ~ t e d jyQynz
+,~
+67. V c s . ~ r+ b62 come, die1 divide, mliz go, .
+68. Vcs.12 + bbuz drink, ?well fear,
+69. Vcs.2 -> bile1 sink, drown, be flooded, k6roz fall, okiz swim, wenjz walk,
+70. Vcs.31 + fdmuz be dirty, pi2 be clean, . .
+71. Vcs.32 -t bony2 sleep, pisil be wet, . . .
+72. Vnom + a183 be distant, bin2 be blimd, binl be many, diwajz dream, fjl die, . .
+73. Vbara + ayiz be new, biz kill, fdmuz be dirty,
+74. Av.11 -t barjl repeat, jnbalil struggle to, k6roz begin to, kyrejl be able to,
+liz succeed in, seriz begin to.
+75. AV.12 -t dil know how to, sinl finish, complete.
+76. AV.2 + bQz be too much, bowell be too much, ikiz he very much.
+77. Adv -t b6i gba-enbi meanwhile, b!Q4 herc, bjQbp4 here, k p j 4 indeed, at once,
+ken1 tibj entirely, komo tjbj entirely, kQkoz actually, miz then, now,
+(with negative) any more, men14 then, me-kj thus, so, nde+nj4 then,
+pBk/ just, simply.
+78. 1d.1 -t feerji4 quietly, gbiil rush out together, . .
+79. Id.2 -t fiafial clean, gorozia4 tall and well-shaped, . . .
+80. Id.3 + djijn* get up (in order to see someone), gbaigbail thump, . .
+81. Id.+
+-/- wasarawisaraz overflowing, w61eweiez bright, . . .
+82. Id.5 i- kpararalkpiraraz hoarse and broken (of voice), zalazilaz uneven, .
+83. Id.6 + beruuz dirty, potopotp muddy, . . .
+84. Nm
+-t day1 father, lkjmjz person, ol6ti14 champion, ow6iz man, toboql child,
+.
+yajl sou, yeil husband,
+85. Nf
+-t bay1 daughter, er6z woman, tal wife, toboy1 child, yeqil mother.
+86. Nrel + day1 father, tal wife, yeil husband, yeqil mother.
+87. Nps
+-t kjrniz person, 016th~champion, toboyl child, .",[26]
+"-PHONOLOGY(d) Type 4: finals only:
+-66
+polite emphasizer of verb
+-do
+stronger emphasizer of verb
+-d6
+strong and friendly emphasizer of verb
+-i
+weaker and more indifferent emphasizer of verb
+-Qa,
+vocative emphasizer
+-iab
+interrogative emphasizer
+-mjn[i(-rn?) while
+-bjm&nj, -b/mejnj because
+-bjm~jk$ because
+-nQi
+emphasizer of non-final verb
+-n[,
+who, which, that (relative)
+linker (of non-final verb to vowel-initial following unit)
+-nib
+-mp
+as soon as, when
+(e) Type 5 : finals only:
+-d.$s+
+when
+-d+kj
+after
+(f) Type 6: enclitics only:
+-b?
+non-feminine agent
+-aray
+feminine agent
+-otu
+plural agent
+-Ye
+inanimate modified pronoun
+-arna
+indefinite plural
+-kymo
+only
+1.8 NOTEON THE CONVENTIONAL ORTHOGRAPIIY
+The present orthography is quite inadequate to represent the phonological system of
+Kolokuma. Only seven vowels are distinguished: i e e a ? o u are marked as in the
+present transcription, but i is represented by i , e , or q, and (1 by 9, o, or u. Consequently,
+the vowel-harmony system is not apparent in the orthography. No tones are marked; to
+avoid some of the ambiguities this leads to, there are a certain number of arbitrary
+spellings: e.g. the first and second person singular pronouns, which are distinguished
+only by tone and both contain the same vowel, are written i 'I' (=/I) and e 'you' (=ia)
+respectively. Consonants are marked as in the present work, except that JI is written ng,
+g h is written as noted in 1.4.2, section 8, and the sequences nb, ngb are written rnb.
+rngb. Word division is inconsistent and does not appear to follow any well-established
+principles.",[19]
+"Ikeni idika, a rnQ e r i - d y !
+it is a hyena she has seen!)1.0.5 T h e term UNIT was suggested by Rowlands' TONAL UNIT;as used here, however,
+it is a unit for phoneme distribution, vowel harmony and nasalization as well as for tone.
+Units usually coincide with morphemes (k6roa 'fall'); the few exceptions consist of units
+where two or more morphemes are recognizable but do not function individually in
+respect of tone (k6rorn~z'make fall, throw': k6ro2 'fall'+ =rn? 'causative'). Because of
+these few cases, the term M O R P H E ~has been kept as a grammatical one and is not used
+on the phonological level. Since the grammar does not distinguish morphology and
+syntax, the term WORD has not been required at the grammatical levcl and is therefore
+used at the phonological level only.
+1.0.6 T h e term TONE GROUP is equivalent to Rowlands' TONAL GROUP and is preferred
+only as being slightly simpler. Tone groups are of crucial importance for the description
+of tone patterns (1.7.1, 7.1). They are not, however, delimited by junctures, because in
+certain circumstances they are linked into larger sequences, for which the tcrm TONE
+PHRASE is reserved.
+1.0.7 T h e various elements named and their distributions are summarized in Table I .phonemes
+vowel harmony
+nasalization
+tonemes
+tone patternssyllableunitwordxx
+x
+xxxtone
+grouptone
+phrasexxbreath
+groupx
+x1.1 VOWELS
+1.1.1 There are nine vowel phonemes in Kolokuma. They contrast as to high, mid
+and low tongue position; the high and mid vowels also contrast as to front and backT ~ L2E
+Front-CloseHigh
+MidiOpen[ili[el?",[10]
+"PHONOLOGY6iz
+6ruz
+6uzten
+deity
+masquerade
+QVZ
+air
+Three pronouns, the second person singular and plural, and the third person singular
+feminine, belong to this class in all Eolms except the long pronoun and prevocalic short
+forms. Another pronoun, the first person plural, belongs to this class in its posses,ive and short subject forms.
+Class I11 has the same tone patterns in isolation or initial position as class 11, except
+that there are no units with initial high vowel:
+li3
+oil palm
+wirjs
+house
+biras
+hand
+akQs
+be bitter
+ali,
+be far
+in6qi3
+be deaf
+There are no pronouns in class 111.
+Class IV has a great variety of tone patterns in isolation or initial position; it is the class
+that serves for all units that do not fit into one of the other classes, such as loans from
+English in which the stressed syllable is interpreted as high tone:
+m64
+object replacer;5 cf. rnOz thus
+abi4
+Oba (of Benin); cf. abiz a fish
+inki4
+ink
+igbone
+Hausa; Northerner
+og6ri4
+bushcow
+aka104
+moon
+t6bulb4
+table
+bul6bblo4 blue
+o16g bdsi4 cat
+op6ri6pb4 pig
+Four pronouns, the second person singular and plural, the third person feminine singular,
+and the first person plural belong to this class in their long pronoun and prevocalic short
+object forms, the first person plural also in its preconsonantal short object form. No verbs
+have been found in this class.
+Class V, the low class, contains the following units, which are low-high in isolation
+but low-low in initial position:
+beke5
+/bek6/
+European
+/deqi/
+which?
+deqi5
+ling61
+crayfish trap
+ingos
+/k+ni/
+one
+kenis
+/hdi/
+how much?
+nda5
+/$nd(~/
+the other (over there)
+?ndv~
+TOthese must be added the long pronoun and prevocalic object forms of three pronouns,
+first person singular, third person masculine singular and third person plural; there are
+no other known members of this class.
+In some idiolects, however, this unit appears to be of class I129A G R A M M A R O F T H E K O L O K U M A D I A L E C T O F IJO1.7.3 There are six main types of enclitics and finals. There are both enclitic and final
+membcrs of the first three types; types 4 and 5 contain only finals and type 6 only enclitics. All types except I and 6 are cited with a base tone pattern; all modifications
+to these base patterns are given in chapter 7. Types I and 6 are cited without a base tone
+pattern, because type I is largely and type 6 wholly conditioned by what precedes. (Type
+6, in fact, behaves exactly like a free unit except that it never occurs in init~alposition in
+a tone group and therefore cannot he assigned to a tone class.)
+Lists of thc various types follow.
+(a) Type I , subdivided into Ia, ~ b IC:
+,
+Type la: enclitic only:
+-a
+negativc
+Type i b : enclitics only:
+-ma
+definite feminine singular
+-m?,
+definite plural
+Type IC: enclitics and finals:
+enclitics :
+-kp?
+also, even
+-b/
+definite non-feminine singular
+-ki,
+indefinite noun emphasizcr
+-k/b
+adverhializer
+-mob adverbialiier
+-se
+all, whole
+-0
+at, in, to (locative)
+-mi
+definite past tense
+finals :
+-ni
+as (subordinator)
+-ya
+when, if
+-m?,
+and (linking nouns)
+-rnqd with
+(b) Type 2, subdivided into za, zb:
+Type za: enclitic only:
+-d&, -d+i immediate past tense
+Type zb: enclitics and finals:
+enclitics :
+-yemi
+simple/continuous present
+-kpm?
+negative optative
+finals:
+-di
+and (linking verbs)
+-Qba
+when, if
+(c) Type 3 : enclitics and final:
+enclitics:
+-nimi
+present state tense (with intransitives)
+present state tense (with transitives)
+-w6niml
+m i ,
+simple future tense
+final :
+simple past tense (before reported speech)
+-amp?","[18, 19]"
+"82vowel
+11-18. 20, 24-5, 28-9, 31, 53, 96-8, 10-1,,05-9,IIO-ISvowel elision
+11, 53. 95. I I O - I Z
+vowel harmony
+11-16, 31
+vowel length
+13-14, 16, 24, 108-12transitive directional verb (Vtr.d)35-6,44, 104transitive verb of type I (Vtr. I)34,44transposed object71-2, 82-3
+type (of unit)
+28, 30-1, 95-102word
+11-12word junchlre
+I,, 15, 110-11
+word-ordcr6az, ar62 she, her (poss.)
+87-9, ""4
+a-2, ar6-4 her
+87-8, ""4
+-2 weaker and more indifferent emphasizer of verb than -66
+31391
+-a negative
+209 30>74-5, 93-4
+-a, -? numeral s u f i
+722 90
+4% vocative emphasizer
+3'>4'
+-iab interrogative emphasizer
+31~76-7
+-6ba when, if
+302 79
+akjz take, use
+34-7~53-7, 66, 83,91, 112
+-ama indefinite plural
+3 1, 89-90
+-im& simple past tense (before reported speech)
+20'30,83,92-3,I03
+anjl that
+46, 62
+iri04 she
+86, 114
+-aray feminine agent
+3 1 ~ 8 6 89
+,
+ar/s I
+86, 114
+ark you (sg.)
+86, 114
+biraa way, -ness
+34,39-40, 64-6
+bira-bi as, the way . .
+79
+$be bar6 in that way
+83-4
+bay1 daughter
+46989INDEXA GRAMMAR O F T H E K O L O K U M A D I A L E C T O F T J Odial showb6i3 this (very near)35-6,8346, 62
+b6i g ba-ysnbi meanwhile
+85
+b6i-ki now
+85
+-bi definite non-feminine singular
+15-16, 30, 89, 112
+-bj (=when)
+79, 93
+-bjm&nj, -bjrnqjn/ because
+31,39,78-81, 93
+-bjrneikp because
+31, 39, 77-81? 93
+blnal relative
+89
+bjs& that
+46
+b62 come
+51, '03
+b6-da let's .
+76
+b 6 d h this (nearer of two)
+46, 62
+-b? non-fclninine agent
+3 ~ 8 689
+,-dQy, -d+j immediate past tense19, 30,80,92-3,94, 99-100, 113-4
+immediate present tense92-3, 113
+habitual93, 113
+ddoz go through, from, along499 53
+dyal some46
+4 6 polite emphasizer of verb
+3'. 91
+erniz (irregular present of timiz) be there
+393 94
+er6z (pl. er6amjnj) women
+89
+eris he
+86, 114..-pbekp? even if79,104-5
+-+beni marker of end of reported speech84-5,104-5eni- occurs in:
+enji so, then
+enji so-da and (linking verbs)
+19. 30, 52-3
+day1 (pl. day-otli) fatherenj[ dho so, then
+enj-k/ so
+eni-kQ$ therefore
+all on 8589
+d e q i ~ which?77-8
+degi ifie-k? when?
+78
+deqi seri-I<? when?
+78
+degi yQ-k$ where?
+78
+-deQ after
+19. 31,80, 94, 98
+dqqjl surpass
+59
+-d+s+ when
+19, 31~80,94,98
+die], dial fifteen
+72, 901fa1 negative of tlrniz be there94
+fa-qjml future negative
+753 93
+fjniz be extra, addgb6a say34-6,83-4,9""3Iifiea time
+ifie-bi whenA GRAMMAR OF T H E KOLOKUMA D I A L E C T OF J J Qdeqi ifie when?
+78
+inel my
+87,89>""4
+in62 your
+87.89,114
+is&z,isenas nine
+90
+iy&z see y6zi iye I
+15.87-8, 114
+1-1, ine-5 me, my
+15,88, 114
+iz, iyjz. y6z YOU (sg.)
+8 7 4 , 114
+i-2, in&-4 you, your (sg.)
+88, 114
+=f intransitive s u f i
+59,943 104
+kilas small
+103
+kenis one
+90.92
+-ki, emphasizer, esp. of indefinite noun
+30, 39,7749 80, 84992, 94
+-kib adverbializer
+30,39-40, 82s 93
+-k@m? negative optative
+16, 3 0 , 7 5 6
+-kymp only
+3'9 73,759 92
+kpes, kp6kpes only (emphatic)
+92
+-kp? also, even
+30,619 73984
+-kp? mi? (in ideophone phrase)
+40-1
+m$ then
+34, 509 53-4, 103
+-ma definite feminine singular
+303 89
+mamyl, ma1 two
+90INDEXmesil forty
+9'short form of gbi-am$?93
+-mi definite past tense
+15-16, 30, 80, 83, 92-3, I12
+stative present
+40,93, 112
+habitual
+93, 112
+mjel make, act
+34, 379 4*1*5479 82, 93
+mle-dai let's
+76
+-minil (-m?) while
+31 ~ 8 092-3
+,
+-m$ as soon as, when
+31, 80, 93
+mQz so, thus
+82, 93
+m+ki so, thus
+82,93
+mQ4 replacer of transposed object
+71-3.83
+-mQ towards; in regard to (directional suffix)
+34-6, 104
+-m?, definite plural
+16, 30,89
+-mob adverbializer
+30,39-40
+-mp, (also -mom?) and (linking nouns)
+30,61, 73, 90
+-mod (also -mom?) with
+30.38~90
+=m? causative s u f i
+5473 598 94
+mfiz go
+51, 103
+nai4 (not) yet
+74-5 3 93
+-nAi emphasizer of non-final verb
+3 I 3 9 I ,103
+ndai but, then
+85
+nda-iba and then85INDEXA GRAMMAR O F T H E KOLOI<UMA D I A L E C T O F TJQnda-k! how many?
+774
+-nimi present state tense (with intransitives)
+303 93, ""3
+-nj, who, which, that (relative)
+3'3 7'
+-nib linker (of non-ha1 verb to vowel-initial following unit)
+31, 34, 50, 53-4,103
+-ni as (subordinator)
+309 79-81, 93
+njqinja, njqina3 eight
+90
+n6in2, nia3 four
+90
+n6si3 forty
+91
+simple future tense
+m i ,
+15-16, 20, 30,92-3,99, 113-14-6i2, 6ia3 ten
+43-4,729 90
+-60 strong emphasizer of verb
+3'>91
+-66 strong and friendly emphasizer of verb
+3'
+-otu plural agent
+31.89
+ow& man
+46,89, 103-4
+01,they, their87-8, ""4
+PI, ?r?s them
+1 5 ~ 8 8 ,""4
+02, or42 you, your (PI)
+87-8, 114
+0-2. ?re-4 you (PI)
+88, 114
+-9 at, in, to (locative marker)
+20, 30. 37-8, 49, 58. 709 87
+?minis they
+86, ""4
+?mini4 you (PI)
+86,114
+?nd&, pndena3 four hundred
+43-4, 7% 90gnddy~ that (farther away)
+46,62
+?w?yl children (pl. of t?b?yl)
+89, 103
+piril give
+35-683
+seril time
+seri-bi when
+78-9
+degi s6rl-kp when?
+78
+t e seri-kqi, when?
+78
+-se all, whole
+16, 30, 40-1,46, 73, 80, 94
+slz, sia3 twenty
+43-4.7=,90
+rnesil forty
+9'
+t e s i ~ sixty
+9'
+s6ndie2, s6ndiaa six
+90
+s0nqma2, sqnoma3 seven
+90
+s+r?nz, sQran3 five
+90
+slieiz thirty
+72
+tiin-bj when
+79
+t5ruz, t5ra3 three
+90, 103
+tCsi3 sixq
+91
+? which
+tel what.
+77-8
+t e ifie-ki, when?
+78
+t e iyg-ki what?
+77-8
+te-ki which?
+77-8..","[63, 64, 65, 66]"
+"3.1.6 A specific verb of motion, dass z , is introduced between an object and its transitive verb. Superficially, it looks as if the verb of motion is transitive, since it is immediately preceded by an object; but there are no kernel sentences of the type:
+""eri, wiri wen[-mi
+he house walk Spa
+he walked the house.
+The derivation is:
+A. eri, wirj ikana-mi
+he house encircle Spa
+he went round the house
+b. eri, wen(-mi
+he walk Spa
+he walkedIwiri wpni-ni, akana-mi
+* eri,
+he wallted round the house.of6ni-bi, tQry fin, bein-mi
+river fly cross SPa
+bid T the bird flew across the river
+eri. iry-bj bki, y?r?-mj
+he canoe T swim encircle Spa
+he swam round the canoe
+toboy-bj, kjmj biqi, bg-yemi
+child T man run pass CPr
+the child is running past the man.",[29]
+"A G R A M M A R O F T I l E K O L O K U M A D I A L E C T O F TJOThe following uses have also been noted but are not covered by the rules:
+1 1 . -d+y denotes not only the immediate past in relation to the present,but a past
+immediately preceding another past, and a future immediately following another
+future.
+i bo-dej ssri-bi; eri, seri tie-mi
+when I came, he stood up
+b6i osho, pelpdqy-aba; w6ni, ken! b6u-ki sy?-d+y-66
+as soon as this rain stops, we'll be in the bush!12. - r ~ [ timi-mi denotes an unfulfilled condition:ako-a tirni-aba; art, b6u-qi timi-mi
+if it had not been bitter, I would have drunk it
+APPENDIX11: TABLE
+OF THE VARIOUS PRONOUN FORMSTABLE
+9Long
+PossesPerson pronoun siveShort
+Short
+object
+object
+cons.
+vwl+Short
+subject
+cons.","[60, 61]"
+"11. CENTRAL
+As noted above, dialects here are less sharply differentiated than in the East. Each
+clan, consisting of several small towns strung along a river or creek, speaks a slightly
+different dialcct and understands those of its neighbonrs. Probably all Central dialects
+are largely mutually intelligible; they are not mutually intelligible with South-Eastern
+dialects.
+T h e following classification of Central dialects into five groups is based on a few
+simple isoglosses and may be modified. I t is not easy to find bundles of isoglosses in this
+area, where dialect difference is closely correlated with geographical distance.
+A. South-Central:
+I . Bassan, spoken by the Bassan clan, who live in the most western coastal arcas of the
+Eastern Region. T h e dialcct of their neighbours, the Apoi clan, is probably also in the
+group.
+z. Boma (B""mg), spoken by the large Boma clan to the east of Bassan.
+3. Olodiama, spoken by the small Olodiama clan, sandwiched in between the northern
+parts of Bassan and Boma.
+4. Oporoma, spoken by the Oporoma clan to the north of Boma.
+Following I. Dyen, 'The lexicostatistical classification of the Malayopolynesian languages',
+(1962), B significant difference between two percentages is taken as roughlyLANGUAGE 38.38-46
+10%.",[5]
+"Similarly:
+eke6, oki mu-na, kiri !.%mi. en[-k@, ol6gbhsi-b1,
+rat swim go and land reach Spa thercfore cat T
+Rat swam and reached the land. Then Cat was angry
+b6!ou, ken-dei-nj, menj, eke lkpotu-mi
+heart hurt IPa sub then rat chase Spa
+and so he chased Rat.
+T.68 SD: A. X.
+B. Y.
+Condition: I # z?enii.so
+so, then~ n j ien[-nj
+eni-ki
+SC: 12 * I 2 enj-kQi)
+enj! dbo
+b6i-ki
+ndai
+nda-iba
+be! gba-y6nbiSO
+SOtherefore
+so, then
+now
+but, then
+and then
+meanwhile' 285MORPHOPHONEMICS I : N O N - T O N A LMORPHOPHONEMICS I: N O N - T O N A L6.1.3 Before a demonstrative, a pronoun subject which is part of a subordinated
+sentence serving as a noun modifier is either a short pronoun or a possessive. (When not
+preceding a demonstrative, only a possessive is possible: M.6-7.)
+{Ine}bei k+ri-gi-d.i wari-bi6.0 Morphophonemic iules are written with the single arrow, but are quite different in
+form from phrase-structure rules. On the left, each string begins with X and ends with
+Y; in between are the elements which are to be rewritten, marked off by commas, and
+next to them the relevant environment. On the right-hand side only the central part,
+corresponding to the portion which on the left is betwecn commas, is rewritten; the
+environment, which does not change, is to be read as identical with its statement on the
+left. Extra unspecified elements in the environment, when required, are noted as X', etc.
+T h e rules in this chapter are those which deal with the adjustment of morphs in strings,
+omitting tonal rules, which are dealt with in the last chapter.
+Morphophonemic rules are obligatory unless stated optional.","[46, 47]"
