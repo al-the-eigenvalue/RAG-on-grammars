@@ -1,0 +1,2151 @@
+Paragraph,Page number
+"
+8.2    Noun phrases
+       A noun phrase consists minimally of a noun (common or proper), pronoun (personal or
+indefinite), substantive determiner (demonstrative: ch ‘the’; kem ‘that’; mwa ‘that’ or inÿe
+‘other’, all functioning as a noun ) or substantive numeral (number functioning as a noun). Noun
+phrases can include other constituents, such as determiners, adjectives, and prenominal numerals.
+They also have case markers, which tend to go on the noun but can also occur at the end of the
+entire NP or on multiple constituents in the NP, namely the noun and an adjective that agrees
+with the noun. Some constituents of an NP can exhibit overt agreement with the head noun,
+indexing the same semantic case and noun class or reflecting the same evaluative suffix as the
+noun. Adjectives have class suffixes that agree with their nouns. Additionally, determiners, some
+pronouns, and numerals in certain environments bear class suffixes that agree with the classes of
+their referents, namely when they follow the noun or when they are in a different NP from the
+noun that they agree with, as discussed in 6.3. Furthermore, a number of NP constituents are
+marked with evaluative suffixes when they follow or are used substantively: nouns, pronouns,
+adjectives, determiners, and numerals, both within a noun phrase or across noun phrases (see
+                                                193
+3.3.2 for evaluatives). Sometimes these constituents will have evaluative suffixes when they
+precede a noun, but generally not.
+        Determiners and numerals always precede the heads of noun phrases, with determiners
+preceding numerals. Adjectives generally follow the noun, but due to the free word order of
+Kamsá they can sometimes precede the noun. There seems to be no appreciable difference in
+meaning. Possessors always precede the noun.
+        Thus, the order of constituents in a NP is as follows:        [determiner] [possessor] [numeral] [adjective] [noun] [adjective] [adjective]
+8.2.1   Heads of noun phrases
+        The head of a noun phrase is often a noun, but can also be a non-archetypical nominal,
+such as substantive adjectives, personal pronouns, numerals, and determiners (used
+substantively). Numbers and determiners always precede the noun, whereas adjectives can
+precede or follow the noun.
+        If a personal pronoun is the head of the noun phrase, then no other constituents are
+permitted. However, the pronoun can exhibit case marking and/or bear an evaluative suffix, with
+the case marking always at the end of the noun phrase. Because indefinite pronouns do not show
+up frequently in my corpus it is not clear if there can be other constituents in a noun phrase
+headed by an indefinite pronoun or what suffixes and clitics can be marked. Two determiners,
+the demonstrative kem ‘this, that’ and inÿe ‘other’ can also be heads of NPs when used
+substantively. The definite article ch can also stand alone as an NP, but it is more common for
+the third person singular pronoun cha, to serve as the entire NP, (8.2.1.2). Determiners are
+discussed in 5.4 but here are simply defined as words that show definiteness and/or specificity
+and precede the noun (as opposed to adjectives which can precede or follow the noun).
+        The following subsections detail the use of various word categories as heads of NPs.","[206, 207]"
+"
+1.6.3   Word order and syntax
+        The basic order of basic constituents in Kamsá seems to be SOV but it is extremely
+flexible and is also perhaps becoming SVO under the influence of Spanish. Kamsá is dependent-                                                 27
+marking, with possessors being marked morphologically rather than the thing possessed. The
+language also exhibits agreement, with adjectives agreeing with nouns in class, number, and
+sometimes case. Oblique phrases tend to follow the subject of the clause and can precede or
+follow the verb. Negators almost always precede verbs. Kamsá has mostly postpositions,
+although it also has some prepositions that it has borrowed from Spanish. There are some
+subordinators that are clause-initial and others that are clause final. In possessive constructions,
+the possessor precedes the possessum (possessed) and is marked with a genitive case ending.
+Adjectives can either follow or precede the nouns that they modify. Demonstratives and
+numerals always precede nouns. Kamsá may be considered a pro-drop language, in that an overt
+subject is not a necessary syntactic element.
+        Kamsá has nominative-accusative morphosyntactic alignment. In the third person, S and
+A (not O) trigger verbal agreement. There can be also object marking on verbs, mainly for first
+and second person objects. When the verb is ditransitive, if the goal is first or second person, it is
+marked on the verb (not the theme). Kamsá has a strange characteristic of having dual marking
+when there is a transitive sentence with an animate agent and patient. This could be polysemy.
+        There is wh-movement for questions: question words always come at the beginning of the
+clause. Polar (‘yes/no’) questions do not necessitate any change in word order, and no special
+particle is needed, although the tag aiñ o ndoñ ‘yes or no’ is commonly added to the end of the
+question with a difference in intonation. Comparatives and superlatives are formed with the
+Spanish loanword más ‘more’. Both nouns and adjectives can function as predicate
+complements, either without a copula or with an inflected ‘be’ verb.","[40, 41]"
+"
+                                                  71
+       There is no core argument case marking in the language (i.e. no overt marking for
+nominative and accusative). There are various semantic case markers which are oblique markers
+distinct from postpositions in that they are not separate words: they are bound morphemes and
+they fulfill various semantic functions to oblique case markers. By ""case"" I do not mean any
+theoretical definition of 'Case', but rather just a description of oblique marking in the language.","[84, 85]"
+"               A GRAMMATICAL DESCRIPTION OF KAMSÁ,
+                  A LANGUAGE ISOLATE OF COLOMBIA
+A DISSERTATION SUBMITTED TO THE GRADUATE DIVISION OF THE UNIVERSITY
+OF HAWAI‘I AT MĀNOA IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR
+                           THE DEGREE OF                      DOCTOR OF PHILOSOPHY                                  IN                            LINGUISTICS
+                           DECEMBER 2018
+                                  By                         Colleen Alena O’Brien
+                        Dissertation Committee:                       Lyle Campbell, Chairperson
+                              Robert Blust
+                              Gary Holton
+                            William O’Grady
+                           Alexander Mawyer
+                                 ACKNOWLEDGEMENTS
+        First, I would like to thank all of the Kamsás who welcomed me into their lives: Carmen,
+without whom nothing would have been possible; Margarita, Clemencia, Anita, and Maria
+Clementina for teaching me their language; Alejandro for all the wonderful conversations about
+language, philosophy, and life; as well as Margarita, Andrés, Ivan, Miguel, Luis, Sandra, and
+Rosita.
+        I have been extremely lucky to have worked with Lyle Campbell, who is the best advisor
+anyone could ever hope for. I would also like to thank my committee members, William
+O’Grady, Gary Holton, Bob Blust, and Alex Mawyer; and Robert Littman, who was the reason I
+was able to do a graduate degree at the University of Hawai‘i.
+        My friends in Bogotá offered me incredible support. I would like to thank Pipe for
+dedicating his time to working with me on Kamsá; Gustavo, whose conversations kept me going;
+Jennifer for always being willing to accompany me into the jungle; Andrea, one of the most
+lovely people in the world; Andrés for the evenings in La Candelaria; Edinson for our lunches
+together; Daniel for being my bodyguard; Francisco and Gloria for their hospitality; Lili for
+being my Colombian mother and friend; Javier for the inspiration; David for the breaks from el
+centro; Leidy for sharing insights about Kamsá; Camilo for being wonderful; Jorge for our
+mornings in Juan Valdez; Paul for the walks in the rain; Laura and Rajiv … I don’t know where
+to begin; Gerriet for always helping; Arturo for becoming my friend at BBC; Ricardo for our
+time together; Fernando for helping me before I knew Spanish; Mauricio for making things a
+little more fun; Alejandro and Juan for giving me a home; Yinneth for her great knowledge; Katy
+for the chats over coffee; and Youlin for helping me before she even knew me. There have been
+many other people in Colombia whom I’m grateful to as well: Luisa for opening her home to me;
+Henry in Sibundoy; Gloria in Manizales.
+        Some friends from the US visited me during my time in Colombia, making my time there
+even more pleasant. I’d like to thank John for making the first trip to Sibundoy with me; Ariane
+for staying in touch … hopefully we see each other more; Noah, these years have been crazy;
+Erik for always being there to talk and helping edit more drafts of things than I can count;
+Joachim for being willing to do anything; Craig for being a great friend and going with me to the
+beach.
+        Other friends who’ve been supportive during my degree, some of whom I’ve known
+since elementary school, some I’ve met more recently: Don, Vlad, Laura, Jonathan, and Verna.
+I’d also like to thank my parents.
+        Other mentors who have guided me during my PhD include Bryan, without whom I may
+never have done academia; Caleb for always seeming to believe in me; Thiago for offering
+advice along the way in Colombia; and Brett for the advice and contacts, starting in Cambridge.
+        I’d like to thank friends and classmates in Hawai‘i who’ve helped in various ways
+throughout the PhD process: Eve, Kirsten, Samantha, Kavon, John, Ryan, Sejung, Victoria,
+George, Laura, Clara, Kevin, Adila, and Melody.
+        I am also grateful for the generous agencies that have helped fund my research including
+the Bilinski Foundation, the American Philosophical Society, the American Association of
+University Women, and the Foundation for Endangered Languages.
+        Finally, I’d like to thank Russell.
+                                               ii
+                                         ABSTRACT
+        This dissertation presents a description of the grammar of Kamsá, an endangered
+language isolate spoken in the Putumayo department of southern Colombia. It is the first
+developed account of the language’s phonology, morphology, and syntax.
+        Kamsá is highly endangered due to the displacement of speakers and language shift. A
+reference grammar of a previously under-described language offers a number of potential
+benefits to general linguistics, showing what is possible in human languages. In addition to
+typologists, comparative and historical linguists are always interested to see whether an assumed
+isolate may, in fact, be demonstrably related to a known language family. The increasing
+endangerment of Kamsá, heightened by the displacement of Kamsá speakers from their ancestral
+home, has made the need for documentation and description extremely urgent, and this grammar
+will perhaps be useful for the creation of pedagogical materials, as well.
+                                               iii
+                                                   TABLE OF CONTENTS
+ACKNOWLEDGMENTS .................................................................................................. ii
+ABSTRACT ....................................................................................................................... iii
+LIST OF FIGURES .............................................................................................................x
+LIST OF MAPS ................................................................................................................. xi
+LIST OF ABBREVIATIONS ........................................................................................... xii1          INTRODUCTION ...................................................................................................1
+           1.1  Summary ......................................................................................................1
+           1.2  The Kamsá people and language .................................................................1
+                1.2.1 Location and history ........................................................................2
+                1.2.2 Culture..............................................................................................7
+                1.2.3 Relationship to other languages / classification attempts ..............11
+                1.2.4 Borrowing ......................................................................................12
+                1.2.5 Name of the language ....................................................................16
+           1.3  Language ecology and language vitality....................................................17
+                1.3.1 UNESCO’s nine factors .................................................................17
+                1.3.2 LEI .................................................................................................20
+                1.3.3 Language attitudes .........................................................................21
+                1.3.4 Education ......................................................................................22
+                1.3.5 The future of Kamsá ......................................................................23
+           1.4  Previous research on the language .............................................................23
+           1.5  Methodology ..............................................................................................26
+           1.6  Typological overview ................................................................................26
+                1.6.1 Phonetics and phonology ...............................................................27
+                1.6.2 Morphology and word classes .......................................................27
+                1.6.3 Word order and syntax ...................................................................27
+                1.6.4 Kamsá compared with Andean languages .....................................282          PHONOLOGY.......................................................................................................34
+           2.1 Introduction ................................................................................................34
+           2.2 Segmental phonology.................................................................................34
+               2.2.1 Vowels ...........................................................................................34
+                      2.2.1.1 Distribution of /u, e, o, a/ ...................................................35
+                      2.2.1.2 The high front vowel [i] .....................................................36
+                      2.2.1.3 The high central vowel /ɨ/ ..................................................38
+                      2.2.1.4 Arguments against the high central vowel as a phoneme ..39
+                      2.2.1.5 Vowel-glide sequences and glide-vowel sequences ..........39
+               2.2.2 Consonants .....................................................................................41
+                      2.2.2.1 Voiceless stops /t, k/ ..........................................................42
+                      2.2.2.2 Voiced stops /b, ⁿd, /ᵑɡ/ ......................................................42
+                      2.2.2.3 The prenasalized voiced palato-alveolar affricate /ⁿdʒ/ .....43
+                      2.2.2.4 Nasals /m, n, ɲ/...................................................................43
+                      2.2.2.5 Liquids ...............................................................................44
+                                                                      iv
+                        2.2.2.6 Voiceless fricatives and affricates /s, ts, ʂ, tʂ, ʃ, tʃ x/ .........44
+                        2.2.2.7 Borrowed phones /d, ɡ, r/, and maybe /p/ ..........................45
+    2.3        Syllables structure ......................................................................................45
+    2.4        Stress ..........................................................................................................46
+    2.5        Loan phonology .........................................................................................47
+    2.6        Morphophonemics: phonological rules......................................................48
+    2.7        Orthography of Kamsá ...............................................................................49
+               2.7.1 A brief history of Kamsá orthography ...........................................50
+               2.7.2 Justifications for my orthography ..................................................513   NOUNS ..................................................................................................................54
+    3.1 Introduction ................................................................................................54
+    3.2 Noun classes ..............................................................................................55
+        3.2.1 Nouns without noun class markers ................................................56
+        3.2.2 Class 1: nouns with -be ..................................................................57
+        3.2.3 Class 2: nouns with (wa-) -ya ........................................................58
+        3.2.4 Class 3: nouns with -i .....................................................................59
+        3.2.5 Class 4: nouns with -Vj ..................................................................61
+        3.2.6 Class 5: nouns with -jwa ................................................................61
+        3.2.7 Class 6: nouns with -sha ................................................................62
+        3.2.8 Class 7: nouns with -fja..................................................................62
+        3.2.9 Class 8: nouns with -iñ ...................................................................63
+        3.2.10 Class 9: repeaters ...........................................................................63
+        3.2.11 Suspect class 10: -kwa ...................................................................64
+        3.2.12 Noun class with case ......................................................................65
+        3.2.13 Noun class with plural ...................................................................66
+    3.3 Other nominal morphology ........................................................................66
+        3.3.1 Number ..........................................................................................67
+        3.3.2 Evaluatives: diminutive, pejorative, and ‘poor’ .............................69
+        3.3.3 Noun cases .....................................................................................71
+                    3.3.3.1 Unmarked case ...................................................................72
+                    3.3.3.2 Genitive ..............................................................................73
+                    3.3.3.3 Benefactive ........................................................................75
+                    3.3.3.4 Instrumental .......................................................................77
+                    3.3.3.5 Comitative ..........................................................................79
+                    3.3.3.6 Locative..............................................................................81
+                    3.3.3.7 Allative ...............................................................................82
+                    3.3.3.8 Ablative ..............................................................................84
+                    3.3.3.9 Adessive .............................................................................85
+                    3.3.3.10 Illative ..............................................................................85
+                    3.3.3.11 Summary of noun cases ...................................................854   VERBAL MORPHOLOGY ..................................................................................87
+    4.1 Introduction ................................................................................................87
+    4.2 Person and number: subject marking .........................................................88
+        4.2.1 First person singular: së- and Ø- ....................................................91                                                                 v
+      4.2.2 Second person singular: ko- ...........................................................93
+      4.2.3 Third person singular: i- or ton- .....................................................94
+      4.2.4 First person plural: bsë- .................................................................95
+      4.2.5 Second person plural: s̈mo- ............................................................97
+      4.2.6 Third person plural: mo- ................................................................98
+      4.2.7 First person dual marking ..............................................................99
+      4.2.8 Second person dual: s̈o- ...............................................................100
+      4.2.9 Third person dual: bo- ..................................................................101
+      4.2.10 Suffixes for marking number: plural -ang and dual -at ...............102
+      4.2.11 Concluding remarks on subject marking on verbs .......................104
+4.3   Object marking on verbs ..........................................................................104
+      4.3.1 First person singular subject, second person object: k-bo- ..........106
+      4.3.2 First person singular subject, third person singular object: së- ....108
+      4.3.3 Second singular subject, first singular object: s̈-ko- ....................109
+      4.3.4 Second singular subject, third object: ko- ....................................110
+      4.3.5 Third singular subject, first object: s̈o- ........................................110
+      4.3.6 Third singular subject, second object: k- .....................................111
+      4.3.7 Third singular subject, third plural object: to- .............................111
+      4.3.8 Third plural subject, first object: s̈-mo-........................................112
+      4.3.9 Third plural subject, second object: k-mo- ...................................113
+      4.3.10 Third plural subject, third singular object: mo- ...........................113
+      4.3.11 First plural subject, second singular object: k-bo- .......................114
+      4.3.12 Second plural subject, first singular object: s̈m- ..........................114
+      4.3.13 Objects in imperatives..................................................................115
+      4.3.14 Other phenomena associated with object marking ......................115
+4.4   Tense, aspect, mood, and evidentiality ....................................................116
+      4.4.1 Aspect: non-past habitual nd- and non-past progressive ts- ........118
+      4.4.2 Past and infinitives: j- ..................................................................120
+      4.4.3 Past, completed: t- ........................................................................121
+      4.4.4 Irrealis: ke- ...................................................................................122
+      4.4.5 Future: chan- ................................................................................123
+      4.4.6 Conditional/speculative: chao- and tay- ......................................124
+      4.4.7 Distant past: ye-............................................................................125
+      4.4.8 Passive?: yo-.................................................................................127
+4.5   Evidentiality: n- and j- or Ø- ....................................................................128
+4.6   Reciprocal: en- .........................................................................................129
+4.7   Imperative: m- ..........................................................................................130
+4.8   Certainty/intensifier: kwa- .......................................................................130
+4.9   Negation ...................................................................................................131
+      4.9.1 ndoñ with ke- and at- ...................................................................131
+      4.9.2 ndoñ with at- ................................................................................132
+      4.9.3 ndoñ with nd- ...............................................................................133
+      4.9.4 ndoñ with n- .................................................................................133
+      4.9.5 ndoñ with infinitive ......................................................................134
+      4.9.6 ndoñ with nt- ................................................................................135
+                                                      vi
+5   PRONOUNS AND DETERMINERS .................................................................136
+    5.1 Introduction ..............................................................................................136
+    5.2 Independent pronouns ..............................................................................136
+        5.2.1 Personal pronouns ........................................................................136
+        5.2.2 Semantics of Kamsá pronouns .....................................................138
+        5.2.3 Use of pronouns and alignment: subject and object ....................139
+        5.2.4 Pronoun cases...............................................................................141
+        5.2.5 Other pronominal morphology ....................................................143
+    5.3 Reflexive pronouns ..................................................................................143
+    5.4 Reciprocal pronouns ................................................................................144
+    5.5 Determiners .............................................................................................144
+        5.5.1 Determiners in NPs ......................................................................146
+        5.5.2 Determiners standing alone..........................................................148
+        5.5.3 Semantics of determiners .............................................................1496   ADJECTIVES ......................................................................................................150
+    6.1  Introduction ..............................................................................................150
+    6.2  The form of adjectives .............................................................................151
+    6.3  Adjectival inflection/agreement ...............................................................153
+         6.3.1 Plural marking on adjectives ........................................................153
+         6.3.2 Class markers on adjectives .........................................................153
+         6.3.3 Evaluatives on adjectives .............................................................154
+         6.3.4 Case marking on adjectives .........................................................155
+    6.4  Types of adjectives ..................................................................................156
+    6.5  Present and absent referents .....................................................................1577   OTHER WORD CLASSES .................................................................................159
+    7.1  Introduction ..............................................................................................159
+    7.2  Adverbs ....................................................................................................159
+         7.2.1 Temporal adverbs.........................................................................159
+         7.2.2 Adverbs of manner and other adverbs .........................................165
+         7.2.3 Adverbs of degree ........................................................................168
+         7.2.4 Issues for adverbs of degree .........................................................170
+    7.3  Deictics of place / locative adverbs .........................................................171
+         7.3.1 mwents̈ and moka ‘here’...............................................................172
+         7.3.2 chents̈ and choka ‘there’ ..............................................................173
+         7.3.3 Other cases: allative and ablative .................................................174
+         7.3.4 Intensifiers with deictics ..............................................................174
+         7.3.5 Other locative words ....................................................................175
+    7.4  Other function words and particles ..........................................................180
+         7.4.1 The function word nÿe ‘only’ ......................................................180
+         7.4.2 The function word nÿa ‘hope, would that’...................................182
+         7.4.3 The function word chor ‘then, thus’ ............................................183
+         7.4.4 The function word chka ‘in this way, like this’ ...........................184
+         7.4.5 The function word mënts̈á ‘like this, like that, in this way’ ........185
+         7.4.6 aiñ as an intensifier ......................................................................186                                                            vii
+    7.5       Negators ...................................................................................................186
+    7.6       Quantifiers................................................................................................1888   PHRASE-LEVEL SYNTAX ...............................................................................193
+    8.1  Introduction ..............................................................................................193
+    8.2  Noun phrases ............................................................................................193
+         8.2.1 Heads of noun phrases .................................................................194
+                8.2.1.1 Noun as head of an NP.....................................................195
+                8.2.1.2 Pronoun as head of an NP ................................................199
+                8.2.1.3 Determiner as head of an NP ...........................................199
+                8.2.1.4 Numeral as head of an NP ...............................................200
+                8.2.1.5 Adjective as head of an NP ..............................................200
+         8.2.2 Noun phrase agreement................................................................201
+         8.2.3 Phrase-level clitics ......................................................................202
+                8.2.3.1 NPs with case-marking clitics ..........................................202
+                8.2.3.2 NPs with topic marker =na ..............................................202
+    8.3  Verb phrases.............................................................................................203
+         8.3.1 VPs consisting entirely of a single verb .......................................204
+         8.3.2 VPs with a direct object ...............................................................204
+         8.3.3 VPs with obliques ........................................................................206
+         8.3.4 VPs with two objects ...................................................................207
+         8.3.5 VPs with one direct object and one oblique.................................207
+         8.3.6 VPs with adverbs and deictics .....................................................208
+         8.3.7 VPs with verbal complements .....................................................208
+         8.3.8 Verbs that take case-marked objects ............................................210
+    8.4  Postpositional phrases ..............................................................................210
+    8.5  Prepositional phrases ...............................................................................2119   SIMPLE CLAUSES (MONOCLAUSAL SENTENCES)...................................214
+    9.1  Introduction ..............................................................................................214
+    9.2  Clauses .....................................................................................................215
+         9.2.1 Intransitive clauses .......................................................................215
+         9.2.2 Predicative with jamnan ‘be’ .......................................................216
+         9.2.3 Transitive clauses .........................................................................217
+         9.2.4 Clauses with complements ...........................................................218
+         9.2.5 Clauses with obliques ..................................................................219
+         9.2.6 Ditransitive clauses ......................................................................220
+                9.2.6.1 Ditransitives with nouns ..................................................220
+                9.2.6.2 Ditransitives with pronouns .............................................221
+    9.3  Negation ...................................................................................................221
+         9.3.1 Negator words ndoñ and tonday in predicative constructions .....222
+         9.3.2 Negating verbs .............................................................................222
+         9.3.3 tonday ‘there is not’ .....................................................................223
+         9.3.4 Neither/nor ...................................................................................224
+         9.3.5 Other negative words ...................................................................224
+         9.3.6 Word order: ndoñ .........................................................................225                                                             viii
+          9.4       Comparatives and superlatives ................................................................226
+          9.5       Imperatives ...............................................................................................228
+                    9.5.1 Morphological imperatives ..........................................................228
+                    9.5.2 Future as imperative .....................................................................228
+          9.6       Interrogatives ...........................................................................................229
+                    9.6.1 Yes/no ..........................................................................................229
+                    9.6.2 WH questions ...............................................................................23010        SENTENCES AND MULTI-CLAUSAL CONSTRUCTIONS ..........................234
+          10.1 Introduction ..............................................................................................234
+          10.2 Coordination ............................................................................................235
+               10.2.1 Conjunctive coordination .............................................................235
+               10.2.2 Disjunctive coordination ..............................................................238
+               10.2.3 Adversative coordination .............................................................239
+               10.2.4 Correlative nÿe .............................................................................240
+          10.3 Subordination ...........................................................................................241
+               10.3.1 Subordinate clauses with nts̈amo ‘how, what happened’ ............242
+               10.3.2 Subordinate clauses with other question words ...........................244
+                       10.3.2.1 Subordinate clauses with ndayá ‘what’ .........................245
+                       10.3.2.2 Subordinate clauses with ndayents̈ ‘where’ ..................246
+                       10.3.2.3 Subordinate clauses with nda ‘who’ ..............................247
+               10.3.3 Temporal subordinate clauses with ora ‘when’ ...........................247
+               10.3.4 Subordinate clauses with =as .......................................................248
+               10.3.5 Causal clauses ..............................................................................251
+                       10.3.5.1 The subordinator kaus ‘because’ ...................................251
+                       10.3.5.2 The subordinator porke ‘because’ ..................................252
+          10.4 Indirect speech .........................................................................................252
+               10.4.1 Paratactic reported speech............................................................255
+               10.4.2 Reported speech using subordinators...........................................255
+               10.4.3 Indirect questions (embedded questions) .....................................256
+          10.5 Causative constructions ...........................................................................257
+          10.6 Nominalization as an equivalent to relative clauses ................................259SAMPLE TEXT...............................................................................................................262
+REFERENCES ................................................................................................................264
+                                                                    ix
+                                                LIST OF FIGURES
+Figure 1.1    Sibundoy ......................................................................................................4
+Figure 1.2    ts̈ombiach .....................................................................................................9
+Figure 2.1    Kamsá vowels (in the IPA) ........................................................................34
+Figure 2.2    Kamsá consonants (in the IPA)..................................................................41
+Figure 2.3    Kamsá vowels in the working orthography ...............................................49
+Figure 2.4    Kamsá consonants in the working orthography ........................................49
+Figure 2.5    Different spellings of Kamsá .....................................................................51
+Figure 3.1    Noun classes in Kamsá ..............................................................................65
+Figure 3.2    Nominal number ........................................................................................67
+Figure 3.3    Evaluatives .................................................................................................71
+Figure 3.4    Core argument marking .............................................................................73
+Figure 3.5    Noun cases and postpositions ....................................................................86
+Figure 4.1    Person and prefixes ....................................................................................89
+Figure 4.2    Person marking prefixes on verbs ............................................................106
+Figure 5.1    Personal pronouns ....................................................................................137
+Figure 5.2    Case markers on pronouns .......................................................................141
+Figure 5.3    Determiners in Kamsá..............................................................................145
+Figure 6.1    Noun/adjective order ................................................................................151
+Figure 6.2    Common adjectives ..................................................................................152
+Figure 7.1    Common adverbs in Kamsá .....................................................................160
+Figure 7.2    Adverbs of manner ...................................................................................165
+Figure 7.3    Adverbs of degree ....................................................................................168
+Figure 7.4    Locative adverbs ......................................................................................172
+Figure 7.5    Other place words ....................................................................................175
+Figure 7.6    Function words and particles ...................................................................180
+Figure 7.7    Quantifiers................................................................................................188
+Figure 9.1    Question words ........................................................................................231
+Figure 10.1   Conjunctions ............................................................................................234
+Figure 10.2   Subordinators ...........................................................................................242
+                                                               x
+                                                         LIST OF MAPS
+Map 1 Sibundoy ..................................................................................................................3
+Map 2 Sibundoy and neighboring towns.............................................................................4
+                                                                    xi
+                                 LIST OF ABBREVIATIONS
+         Wherever possible, the conventions of the Leipzig Glossing Rules
+(https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) are followed. The following is a
+complete list of abbreviations used in the glosses.1             1st person
+2             2nd person
+3             3rd person
+ABL           ablative
+AD            adessive case
+ALL           allative
+ANIM          animate
+BEN           benefactive
+CLF           classifier
+COM           comitative
+COND          conditional
+DEM           demonstrative
+DET           determiner
+DISC          discourse
+DU            dual
+EMPH          emphatic
+EPE           epenthetic
+EVAL          evaluative
+EVI           evidential
+FUT           future
+GEN           genitive
+HAB           habitual
+ILL           illative
+IMP           imperative
+INST          instrumental
+INT           intensive
+INTENS        intensifier
+IRR           irrealis
+LOC           locative
+NEG           negative/negator
+NMLZ          nominalizer
+PEJ           pejorative
+PL            plural
+PST           past
+REC           reciprocal
+REFL          reflexive
+                                             xii
+SG     singular
+SPEC   speculative
+SUB    subordinator
+TOP    topic
+VBLZ   verbalizer
+                      xiii
+                                            Chapter 1
+                                           Introduction
+1.1    Summary
+       This dissertation presents a description of the grammar of Kamsá, an endangered
+language isolate spoken in the Putumayo department of southern Colombia. It is the first
+developed account of the language’s phonology, morphology, and syntax.
+       Kamsá is highly endangered due to the displacement of speakers and language shift. A
+reference grammar of a previously under-described language offers a number of potential
+benefits to general linguistics, showing what is possible in human languages. In addition to
+typologists, comparative and historical linguists are always interested to see whether an assumed
+isolate may, in fact, be demonstrably related to a known language family. The increasing
+endangerment of Kamsá, heightened by the displacement of Kamsá speakers from their ancestral
+home, has made the need for documentation and description extremely urgent, and this grammar
+will perhaps be useful for the creation of pedagogical materials, as well.
+       This introductory chapter to this dissertation is organized as follows:
+In 1.2, I discuss the Kamsá people and language, including the location, culture, relationship to
+other languages, borrowing, and the name of the language. In 1.3 I discuss the language ecology
+and language vitality, and in 1.4 I discuss previous research on the language. In 1.5 I describe my
+methodology, and in 1.6 I give a typological overview of the language.","[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]"
+"(33)    Shbwaya inaujabwachan patronangbioy kots̈ jotbayam jatshok.
+        shbwaya       i-n-au-jabwachan       patron-ang-bi-oy      kots̈ jotbaya-m jatsh-ok
+        hunter.dog    3SG-EVI-?-help         owner-PL-ANI-ALL      pig catch-BEN swamp-LOC
+        ‘A hunting dog helped its owners catch a pig in the swamp.’ (Chindoy 55:1) (patron <
+        Spanish patrón ‘owner’); kots̈ < Spanish coche ‘pig’)8.4     Postpositional phrases
+        Postpositional phrases in Kamsá consist of a noun followed by a postposition. Often case
+markers are also present: case markers can occur on the postposition itself, on the noun, or on
+both the postposition and the noun. In (34a), the postposition tsëntsa ‘middle’ follows the noun
+tsa ‘room’ and tsëntsa has the locative marker -k. Similarly, in (34b) tsëntsa has the case marker
+                                               210
+-k and the NP preceding it, chëng ‘3PL’, has the genitive marker -be. In (34c) the third person
+singular pronoun cha has the genitive marker -be when it precedes bekonan ‘close’. An
+alternative analysis is that these are not postpositions, but rather nouns. In (34d) the tsëntsak is
+used nominally without any other noun (i.e. just ‘in the middle’ not ‘in the middle of the room’).
+Another analysis is that these are compound nouns, not postpositions.(34a) wabowan bëtsëkna tsa tsëntsak jakena
+      wabowan         bëtsëk-na      tsa     tsëntsa-k      jakena
+      horrible        arrogant-TOP room middle-LOC seated
+      ‘A horrible, arrogant one seated in the middle of the room’ (Chindoy 68:6)(34b) chëngbe tsëntsaka
+      chëngbe       tsëntsa-k-a
+      3PL-GEN       among-LOC-EPE
+      ‘among them’ (Matthew 18:2)(34c) chabe bekonan
+      cha-be          bekonan
+      3SG-GEN         close
+      ‘close to her’ (Chindoy 69.10)(34d) Tsëntsañokna kojonts̈e jatëshenÿnán.
+      Tsëntsañ-ok=na         ko=jonts̈e       j-atëshenÿnán
+      middle=LOC=TOP         ?=begin          VBLZ-get.bright
+      ‘(arriving) at the middle, it begin to get bright.’ (Chindoy 70:14)8.5    Prepositional phrases
+       Although Kamsá normally employs postpositions, it has borrowed some prepositions
+from Spanish. There are no native prepositions in the language (only postpositions), but the
+Spanish prepositions are very common now. In (35a), the preposition sin ‘without’ (from
+Spanish sin ‘without’) precedes the noun tamo ‘salt’. Nouns governed by the loan preposition sin
+take the instrumental case marker -k, as does tamo ‘salt’ below. If the preposition sin were not
+present in this sentence, then the phrase would mean ‘with salt’, as illustrated in (35b).
+       It is interesting to note that the language has postpositions, and that all subordinators go
+at the end of clauses, such as the general subordinator -as and ora ‘when’, but that it has started
+borrowing prepositions, and subordinators that go at the beginning of clauses (like ante ‘before’),
+so now you can have a mix of things going at the end of phrases and clauses and at the beginning
+                                                 211
+of verbs and clauses. Furthermore, it is possible that adpositions and subordinators borrowed
+from Spanish earlier (maybe several centuries ago) became postpositions or clause final
+subordinators, such as ora ‘when’ from Spanish hora ‘time, hour’, whereas recent borrowings
+became prepositions or clause initial subordinators.(35a) nÿe s̈men janÿets̈na sin tamok
+      nÿe     s̈men          janÿets̈na      [sin          tamo-k]
+      only toasted.corn corn.flour           [without      salt-INS]
+      ‘only toasted corn flour without salt’ (Chindoy 62:17)(35b) wameshnen tamok
+      wameshnen [tamo=k]
+      mote         [salt=INS]
+      ‘mote (hominy soup) with salt’       In (36a) another common preposition. asta ‘until’ (from Spanish hasta ‘until’), precedes
+bastok ‘Pasto (a city near Sibundoy)’. This preposition can have a noun or an infinitive object;
+when it takes an infinitive, it is always an uninflected. In (36a) asta bastok means ‘until Pasto’. It
+is unclear whether there is case marking on bastok because, like many place names, the
+unmarked form is already locative (such as bogotok ‘Bogotá’; tabanok ‘Sibundoy’ and chatjok
+‘Mocoa’). In (36b) asta ‘until’ is the preposition and the infinitive belongs to the prepositional
+phrase. The verb jwenatjëmb ‘disappear’ is not inflected for person, number, or TAM. In (36c)
+asta precedes shachna ‘five’, which is used substantively and has the plural marker -ëng.(36a) ch benach indëmën chatjokan asta bastok.
+      ch     benach indëmën       chatjok=an   [asta bastok]
+      DET    path 3SG-?-be        mocoa=ABL [until pasto]
+      ‘The road is from Mocoa to Pasto’ (MC)(36b) asta ch shem jwenatjëmb nÿetsá
+      asta ch       shem          j-wenatjëmb          nÿetsá
+      until DET woman             VBLZ-disappear       all
+      ‘Until the woman disappeared completely’ (Chindoy 69:9)(36c) Kada te mojonts̈a ots̈anan kanÿa, utat, asta shachnënga
+      kada te        mo-jonts̈a      ots̈anan        kanÿa utat      [asta shachn-ëng]
+      each day       3PL-start       lost            one     two     [until five-PL]
+      ‘Each day, they started getting lost: one, two, then five.’ (Chindoy 94:7)
+                                                 212
+       Another preposition, also derived from Spanish, is parej ‘together with’ presumably from
+parejo ‘similar, equal, close, next to’. It is interesting because its meaning has shifted from the
+Spanish meaning mostly as an adjective to become a preposition. Its noun has a case marker:
+commitative for animate nouns and instrumental for inanimate nouns. In (37a) parej
+enuntëngaftaka means ‘together with (her) friends’ where enuntëng ‘friends’ has the comitative
+marker -aftak. In (37b) parej twambianak means ‘together with that of the hen’ (meaning the
+brother discarded the chili along with the piece of hen). Note that in (37b) the noun has the
+ablative marker to show source; it does not have -bi even though it’s an animal (and living
+animals are animate) because in this sense it is food; and it does not show any object marking.(37a) nÿe s̈ës̈etem jtsabmuchtkoyám parej enuntëngaftaka.
+      nÿe      s̈ës̈-tem     j-ts-ab-mu-ch-tkoyám           parej          enunt-ëng-aftaka
+      PART corn-DIM          VBLZ-PROG-?-PL-FUT-bite        together       friend-PL-COM
+      ‘She was also going to eat it together with her friends.’ (Chindoy 90:14)(37b) Wabentsá tsëts̈a wayatmá bojongmia bojisants̈auts̈enam tboy,
+      wabentsá       tsëts̈a wayatmá     bo-jongmia bo-jisants̈auts̈en-am             tb-oy
+      brother        chili lover         DU-worry         DU-discard-BEN              abyss-ALL       parej twamb-ian-ak.
+       [parej          twamb-ian-ak]
+       together        chicken-ABL-INSTR
+       ‘The younger brother, a lover of chili, was upset by his throwing (it) into the abyss, along
+       with that of the chicken (i.e. piece of the chicken).’ (Chindoy 63:23)
+                                                 213
+                                              Chapter 9
+                             Simple clauses (monoclausal sentences)
+9.1     Introduction
+        In this chapter, I provide an overview of clause-level syntax in Kamsá, a clause being
+minimally a verb and a subject (expressed or not expressed). Because verbs are marked for
+person and number, a noun or pronoun is not obligatory, thus a clause could be simply a verb.
+First I discuss clauses (9.2) including intransitive (9.2.1), predicative (9.2.2), then transitive
+clauses (9.2.3) and clauses with complements (9.2.4). In (9.2.5) I discuss clauses with obliques
+and in (9.2.6) I discuss ditransitive clauses. In (9.3) I discuss negation and in (9.4) I discuss
+comparatives and superlatives. (9.5) covers imperatives and (9.6) describes interrogatives.
+        Indexing on the verb clearly shows that the system is nominative-accusative: subjects of
+transitive verbs have the same morphemes as subjects of intransitives, both contrasting with the
+marking of objects of transitives. NPs and personal pronouns are not marked in any way for
+Agent or Patient (see 3.3.3 on noun cases). As seen in the following examples, although the
+nouns and pronouns do not have any morphology for case, the verbal morphology is
+nominative/accusative.(1a)    ch bobonts tonjachemb tobias̈
+        ch     bobonts         to-n-j-achemb                    tobias̈
+        DET    boy             3SG.PST-EVI-VBLZ-call            girl
+        ‘The boy called the girl.’(1b)    ch bobonts s̈onjachemb (ats̈)
+        ch     bobonts       s̈o-n-j-achemb             ats̈
+        DET    boy           1OBJ-EVI-VBLZ-call         1SG
+        ‘The boy called me.’(1c)    ats̈ sënjachemb bobonts
+        ats̈     së-n-j-achemb                  bobonts
+        1SG 1SG.PST-EVI-VBLZ-call               boy
+        ‘I called the boy.’
+                                                  214
+(1d)     ch bobonts tonja
+         ch     bobonts             to-n-j-a
+         DET    boy                 3SG.PST-EVI-VBLZ-go
+         ‘The boy went.’(1e)     ats̈ sënja
+         ats̈     së-n-j-a
+         1SG 1SG.PST-EVI-VBLZ-go
+         ‘I went.’9.2      Clauses
+         The following sections cover intransitive clasues (9.2.1), predicative clasues (9.2.2),
+transitive clauses (9.2.3), clauses with complements (9.2.4), clauses with obliques (9.2.5), and
+ditransitive clauses (9.2.6).","[223, 224, 225, 226, 227, 228]"
+"
+                                                 203
+8.3.1   VPs consisting entirely of a single verb
+        A verb phrase can consist of just a verb (without any other constituents) as seen in (20a),
+where the verb jwenatjëmban ‘disappear’ is marked for person, number, and TAM. The prefix
+tën- ‘3SG’ indexes the third person singular subject washëntsayá ‘sower’. There is no object,
+oblique, adverb, or postposition within the VP. In (20a), the verb phrase contains nothing but a
+verb, and the object of the verb that is not present as a full noun is indicated by a cross-
+referencing prefix on the verb (k- ‘2SG)’. The prefix b- (which follows the object marker) indexes
+a first person singular subject; and the prefix at- marks the mood of the verb as irrealis.(20a) Ndayek tënjwenatjëmba ch washëntsayá?
+      ndayek        tën-j-wenatjëmba            ch             washëntsayá
+      why           3SG.R.PST-VERB-disappear    DET            sower
+      ‘Why did the sower disappear?’ (Chindoy 88.9)(20b) Aiñ kbatjwanáts.
+      aiñ    k-b-at-j-wanáts
+      yes    2SG-1SG-IRR-VERB-bring
+      ‘Yes I will bring you.’ (Chindoy 62:16)8.3.2   VPs with a direct object
+        Verb phrases can have expressed direct objects. As there is no case marking on any
+nominals (including pronouns) to indicate their role as subject or (direct) object in Kamsá, there
+is no morphological difference between subjects and objects. Also, because the word order in
+Kamsá is very free, it is generally not possible to use word order to discern which NP is the
+subject and which is the object in a transitive clause. In (21), there is no expressed subject; the
+NP mongoj ‘deer’ is the direct object of the verb. There is no extra morphology on mongoj to
+indicate what its role in the sentence is.","[216, 217]"
+"
+Case/post-position       Function                Label                   Example-∅                       S, A, and O                                     batá, shknen-be                      possession              genitive                bata-be
+-ak                      instrument              instrumental            shknen-ak-abtak                   comitative              comitative              bat-abtak-am, -bi-am              benefactive, purpose    benefactive             bata-bi-am,
+                                                                         shknen-am-oy, -bi-oy              motion toward           allative                taban-oy, bata-bi-oy-ok, -bi-ok(a)           location at             locative                beti-ok, bata-bi-oka-(k)an, -bi-akan         motion from             ablative                bata-bi-akan-iñ                      motion into             illative                kwashaj-iñ-ents̈                   location at             adessive                taban-ents̈e                             Figure 3.5 Noun cases and postpositions
+                                                86
+                                              Chapter 4
+                                        Verbal morphology
+4.1    Introduction
+       Kamsá verbs exhibit intricate morphology, with multiple prefixes and suffixes that index
+person and number for subjects and objects and indicate tense, aspect, mood, and evidentiality
+for events and states. This introduction summarizes the important phenomena of Kamsá verbal
+morphology discussed in more detail in the following sections.
+       Kamsá verbs reflect a nominative-accusative morphosyntactic alignment: the person
+marking for the single argument (the subject) of an intransitive verb matches the person marking
+for the more agentive argument (the subject) of a transitive verb, whereas the marking for the
+more patientive argument (the object) is different. Subject marking is obligatory in Kamsá, as is
+object marking for first and second person objects.
+       In verbs that do not exhibit any object marking, the first verbal prefix is usually a subject
+marker, with all other prefixes following this prefix and preceding the stem. There are some
+exceptions, however, such as the emphatic prefix kwa- and the perfective marker t-, both of
+which may precede the subject prefix. When a transitive verb exhibits overt object marking (that
+is, in verbs with first or second person objects), the object marker is the first prefix on the verb,
+followed by the subject marker, and then followed by all other prefixes and the stem.
+       This introductory section summarizes the different morphemes that Kamsá verbs can
+have, all of which are discussed in more depth in the rest of this chapter.
+       A verb consists minimally either of a root plus inflectional morphology or a root with the
+prefix j- and the suffix -an or -am. A root can never appear alone. Some examples of verb roots
+are the following. The elicitation forms always have j- and -an, thus I write them as such here.
+As seen in these examples, verb roots can start with /a/, /o/, or /w/.       j-abwamiy-an ‘buy’
+       j-achway-an ‘greet’
+       j-alants-an ‘dance’
+       j-amn-an ‘be’
+       j-as-an ‘eat’
+       j-ayan-an ‘say’                                                  87
+       j-otbem-an ‘sit’
+       j-owen-an ‘hear’
+       j-oyebwambay-an ‘speak’
+       j-wabw-an ‘cook’
+       j-wabwem-an ‘write’
+       j-washaby-an ‘wash clothes’       While all person (subject and object) and TAME (tense, aspect, mood, evidentiality)
+prefixes precede the root, there are a few suffixes that can appear on a root as well. Some
+prefixes are portmanteau, simultaneously encoding multiple grammatical categories, such as both
+person and tense or both tense and aspect. All inflected verbs are marked for both person and
+number.
+       Verbs also exhibit TAM marking. There are many prefixes that combine with each other
+for different tenses and aspects. In this chapter, I discuss all of the various morphemes that can
+occur on verbs. First, I discuss person and number subject marking (4.2) then person and number
+for object marking (4.3). In 4.4, I discuss the different tense, aspect, mood, and negation
+prefixes. In 4.5, I discuss evidentiality, followed by reciprocal marking in 4.6. In 4.7, I discuss
+the imperative form m-, and in 4.8 I show the intensifying prefix kwa-. The last sections are
+dedicated to suffixes.","[99, 100, 101]"
+"
+                                                    139
+(3)     ats̈na mosekak tsabo
+        ats̈=na       mosek-ak      ts-abo
+        1SG=TOP       music-INST    1SG-come
+        ‘I come with music.’ (Chindoy 85.3)        In (4), the first person singular is the subject and the independent pronoun is present, but
+the direct object, the second person singular, is marked on the verb and does not appear as an
+independent pronoun.(4)     ats̈ chekbojamanda chka
+        ats̈     ch-e-k-bo-j-amanda                     chka
+        1SG COND-EPE-2SG-DU-VBLZ-order                  thus
+        ‘I will order you thus.’ (Chindoy 62.21)        In (5), ats̈ is used as the independent object pronoun. It is the first word in the sentence.
+The verb also is marked for first person singular object, as well as with m- for imperative. Note
+that ats̈ here, when it is an object, has the same form as when it is a subject (as in (4)) but the
+verbal morphology is different.(5)     ats̈ mwents̈e s̈mëntjofja
+        ats̈    mwents̈e        s̈-më-n-tjofja
+        1SG here                1SG.OBJ-IMP-EVI-invite
+        ‘Invite me here (command)’ (Chindoy 93.1)        In (6), there is no independent subject pronoun or object pronoun. Both are marked only
+on the verb. The subject is marked with mo- which agrees with third person plural subjects. The
+object is marked with k-, the marker for second person objects. Note that the object agreement
+marker precedes the subject agreement marker on the verb. This is discussed more in 4.3 on
+object marking prefixes on verbs.(6)     k-mo-n-chan-tse-shbwas
+        k-mo-n-chan-tse-shbwas
+        2SG.OBJ-3PL.SUBJ-EVI-FUT-PROG-kill
+        ‘They are going to kill you.’ (Chindoy 84.3)
+                                                  140
+5.1.4     Pronoun cases
+          Each pronoun in Kamsá can take a variety of case markers, all of which are suffixes, and
+postpositions. They are the same as the case markers discussed in Chapter 2.2.3, and the case
+markers that require the animate marker -bi for animate nouns, are the same for pronouns. Thus,
+the allative and benefactive both require -bi, whereas the genitive -be does not, and the
+comitative is -abtak, perhaps deriving from -bi + -ak. Figure 5.2 summarizes the pronoun forms
+of the genitive, allative, benefactive, and comitative.","[152, 153, 154]"
+"                                                  70
+(32a) kanÿe jwesanës̈a waenbenenan plechufjwaka ch ladronëja jtsejwesam.
+      kanÿe jwesanës̈a     waenbenenan         plechu-fjwa-ka
+      one    blow.pipe     poisoned            arrow-INS-DISC        ch     ladron-ëja    j-tsejwesa-m
+        DET    thief-PEJ     VBLZ-shoot-BEN
+        ‘one blow pipe with poisoned arrows to shoot the thief.’ (95:18)(32b) Pero ch mëtëts̈en yap wabowanëja bominÿe tejabwajo.
+      Pero ch        mëtëts̈en     yap    wabowan-ëja bominÿe                 te-j-abwajo
+      but    DET     demon         very horrible- PEJ eye                     PST-VBLZ-put
+      ‘The demon had a horrible look.’ (Chindoy 79:24)                            Evaluative                           Suffix                           Diminutive                            -tem                               Poor                              -jema                            Pejorative                            -ëja                                         Figure 3.3 Evalutives3.3.3   Noun cases
+        The nominal system of Kamsá is somewhere along the spectrum between having case
+suffixes versus postpositions. In this section, I first outline the case system, showing each of the
+cases and postpositions and their allomorphs, and giving examples of some of the uses of each
+case and postposition. Then I discuss the distribution of each case and postposition, showing
+whether it can occur with common nouns (both animate and inanimate where possible), proper
+nouns, pronouns, and loans words. Many cases are different for animate nouns and inanimate
+nouns: namely, animate nouns have the suffix -bi preceding the case marker whereas inanimate
+nouns do not. Also, there are some cases which do not seem to be possible semantically with
+proper nouns or pronouns (such as the instrumental) and others that are not possible with
+inanimate nouns (such as the comitative). This will become apparent with each case that has this
+distinction and will be discussed further. At the end of this section, I give evidence for why
+some things are actual cases whereas other things seem to be postpositions.","[83, 84]"
+"
+13: Some have transitive/intransitive distinctions but most do not:
+         “However, in most of the central Andean languages (including Aymaran and Quechuan)
+the transitive / intransitive distinction hardly plays a role” (Adelaar 2008:29). It is important to
+note that this means that the verbs do not have transitive vs intransitive morphology, but objects
+can still have accusative case.",[44]
+"
+5.2     Independent pronouns
+        Kamsá has nine personal pronouns for subject/object. As with nouns, there is no
+morphological difference for pronouns that would depend on whether they function as the
+subject of an intransitive sentence, the subject of a transitive sentence, or a direct object. They
+mostly behave as nouns do in the language. They take case markers, and sometimes evaluatives.
+Like nouns, they do not seem to take class markers when they are referring to a noun with class
+markers. this section does not discuss pronominal affixes (e.g. pronominal agreement markers on
+verbs). Kamsá is a prodrop language. Person and number is marked by agreement affixes on the
+verb, both for subjects and objects, and the pronoun is not necessary.",[149]
+"       Grammatical role                    Case Marker                        Example            Agent                               Ø                                batá Patient (object of transitive)                 Ø                                batá    Subject of intransitive                     Ø                                batá  Recipient in a ditransitive                   Ø                                batá                                  Figure 3.4 Core argument marking3.3.3.2 Genitive
+       Kamsá has a genitive marker which shows possession. Kamsá is a dependent-marking
+language in that it marks the possessor, not the possessee. The genitive marker is the suffix -be
+and has no allomorphs. In (34a), bata ‘aunt’ has the genitive suffix -be to show that it is her
+friend. In (34b), a noun that ends with a consonant is show: bobonts ‘young man’ is bobonts-be
+in the genitive, without any phonological change.(34a) ats̈ sënjojinÿ batabe enuta
+      ats̈ së-n-jojinÿ       bata-be          enuta
+      1SG 1SG-EVI-see aunt-GEN                friend
+      ‘I saw my aunt’s friend.’ (MC)(34b) bobontsbe bëtsëtsatna
+      bobonts-be    bëtsëts-at=na
+      youth-GEN     parent-DU=TOP
+      ‘(the) young man’s parents’ (Chindoy 91) (from bëtsëtsat ‘parents’ from bëts ‘big’)       The genitive is mostly used for possession, for family members and physical objects. It
+can be used for possession by a definite noun, as seen above in (34a), where it is about a
+particular aunt. Nouns that are not definite or specific can also be possessed as seen in (35)
+where the speaker is talking about a sound that sounds like the scream of a human or a bark of a
+dog.",[86]
+"
+                                                75
+(42a) ats̈ sënjwabwa wameshnen ats̈be batabiam
+      ats̈     su-n-j-wabwa       wameshnen ats̈-be                 bata-bi-am
+      1SG 1SG-EVI-VBLZ-cook mote                 1SG-GEN            aunt-ANIM-BEN
+      ‘I cooked mote (hominy soup) for my aunt.’(42b) ats̈ sënjwabwa wameshnan ats̈be kes̈byam
+      ats̈     su-n-j-wabwa       wameshnan ats̈-be                 kes̈-bi-am
+      1SG 1SG-EVI-VBLZ-cook mote               1SG-GEN              dog- ANIM-BEN
+      ‘I cooked mote for my dog.’       The benefactive is used to show the one for whom the action is conducted, as seen in the
+examples above. The same suffix can also be used on the infinitive form of verbs (discussed
+further in 4.4.2). In (43a) -am is on the verb jobwamin ‘buy’ to show purpose.(43)   tonja tabanoy bis̈ans̈a jobwaminam
+       to-n-j-a                 tabanoy     bis̈ans̈a       j-obwamin-am
+       3SG-EVI-VBLZ-go          town-ALL    collards        VBLZ-buy-BEN
+       ‘He went to town to buy collard greens.’       The benefactive can be used with proper nouns, as seen in (44a) with Carmen-byam.
+With proper nouns that are animate, the animacy marker -bi is also obligatory. Pronouns can also
+have the benefactive. As with animate nouns, pronouns must have the -bi marker before the
+benefactive -am. In (44b), bëng, the first person plural pronoun, has -byam.(44a) ats̈ sënjwabwa wameshnen Carmenbyam
+      ats̈     së-n-j-wabwa       wameshnen          carmen-bi-am
+      1SG 1SG-EVI-VBLZ-cook mote                     Carmen-ANIM-BEN
+      Cociné mote para Carmen
+      ‘I cooked mote for Carmen.’(44b) ch tobias̈ to-n-jwabwa wameshnen bëngbyam
+      ch      tobias̈ to-n-jwabwa             wameshnen             bëng-bi-am
+      DET     girl     3SG-EVI-VBLZ-cook      mote                  1SG-ANIM-BEN
+      ‘The girl cooked mote for us.’       The benefactive is productive and can be used with loan words. In (45), three loan words
+have the benefactive marker: popayej-ëng-byam, pastus-eng-byam, and bogotill-ëng-byam, all of
+which are Spanish names (albeit derived from other indigenous languages) of cities, used on
+proper nouns, as seen in (45), from a text about preparing spots in Hell for people from several
+Colombian cities, including Popayan, Pasto, and Bogotá. Each noun is composed of the city                                                76
+name, followed by the plural marker, followed by the animacy marker -bi, then finally the
+benefactive suffix. Note that the case marker comes after the plural marker.(45)    s̈mochtseprontay pwesto popayejëngbiam,
+        s̈mo-ch-ts-eprontay         pwesto               popayej-ëng-bi-am
+        2PL-FUT-PROG-prepare        spot                 popayan-PL-ANI-BEN        pastusengbiam, bogotillëngbiam y onÿayoykëngbiam
+        pastus-eng-bi-am       bogotill-ëng-bi-am y         onÿay-oyk-ëng-bi-am
+        pasto-PL-ANI-BEN       bogota-PL-ANI-BEN and        hot-LOC-PL-ANI-BEN
+        ‘Prepare spots for the popayanenses, pastusos, bogotanos, and those from the hot places.’
+        (Chindoy 68:6)3.3.3.4 Instrumental
+        The instrumental case is -ak and has the additional allomorphs -k and -ek. When the noun
+ends in a consonant, the form is always -ak. When a noun ends in a vowel, the form is that vowel
++ -k When a noun ends in the glide y, the form is -ek.
+        In (46a), when -ak is added to the root s̈knen ‘plate’ it becomes s̈knen-ak. When the noun
+ends in a vowel, however, the root vowel remains. Thus tomo ‘salt’ with an instrumental ending
+becomes tomok, not /*tomak/ nor /*tomoak/. Likewise, in an example where the noun ends in
+/a/, the suffix is also /-k/ as seen in (46c) where tsëts̈a ‘aji’ becomes tsëts̈ak, not /*tsëts̈aak/ or
+/*tsëts̈aɁak/. Finally, in (46d) the instrumental is seen on shachbuy ‘tear’ which ends in the glide
+/y/. When -ak attaches to this noun, it becomes/ -ek/, perhaps because of phonetic reasons.(46a) ch bobonts s̈o-n-japega s̈knen-ak
+      ch     bobonts        s̈o-n-japega                          s̈knen-ak
+      DET    youth          1SG.OBJ-EVI-VBLZ-hit                  plate-INS
+      ‘The youth hit me with a plate.’(46b) Carmen in-ts-jwabwana wameshnen tamo-k
+      Carmen        i-n-ts-jwabwana          wameshnen                    tamo-k
+      Carmen        3SG-EVI-PROG-VBLZ-cook   mote                         salt-INS
+      ‘Carmen is cooking mote with salt.’(46c) Carmen tonjwabwana wameshnen tsëts̈ak
+      Carmen       to-n-j-wabwana                        wameshnen        tsëts̈a-k
+      Carmen       3SG.PST-EVI-VBLZ-cook                 mote             chili-INS
+      ‘Carmen cooked mote with chili.’                                                    77
+(46d) chana shachbuyek yejonts̈a jakwentan (...)
+      cha-na          shachbuy-ek              ye-j-onts̈a          j-akwentan
+      3SG-TOP         tear-INS                 3SG.DIS-VBLZ-start   VBLZ-tell
+      ‘He started to tell (the story) with a tear…’ (Chindoy1 68.2)        In addition to the uses of the instrumental shown above, where it often shows the literal
+item used to accomplish a task, it can be used as a more metaphorical instrument as in (46d)
+above when the narrator is telling his story ‘with a tear’.
+        The instrumental can also be used for other idiomatic uses and with certain verbs, such as
+the following example where the verb ‘to be full of’ takes the instrumental case. Note that there
+are no postpositions or prepositions in this sentence, only the verb. Also note that although the
+instrumental case is usually only found on inanimate common nouns, here it occurs on an
+animate noun.(47)    ch wajokainsha intsjutjen yents̈engak
+        ch     wajokainsha i-n-ts-jutjen                      yents̈-eng-ak
+        DET    car              3SG-EVI-PROG-be.full          person-PL-INS
+        ‘The car is full of people.’        The instrumental case is also used with the preposition sin from Spanish sin 'without'. In
+(48) tamo ‘salt’ is preceded by sin ‘without’ and has the instrumental case marker -ak, here
+realized as /-k/.(48)    nӱe s̈men janӱets̈na sin tamok
+        nӱe     s̈men           janӱets̈na      sin          tamo-k
+        only toasted.corn corn.flour            without      salt-INS
+        'only toasted corn flour without salt' (Chindoy1 62.17)Although there are no native prepositions in Kamsá, it has borrowed some prepositions from
+Spanish that have changed their meanings to become more grammatical. One example is parej
+from Spanish pareja ‘pair, couple’. In Kamsá, it is used to mean ‘together with’ and takes the
+instrumental case. In (49), parej is used with ibet ‘night’ to mean with each respective night
+(paired with each respective night).(49)    chana nӱe unga te parej ibetak
+        cha=na         nӱe     unga te         parej ibeta-k
+        3SG=TOP        only three day          with night-INS
+        ‘he only (spent) three days with their respective nights.’ (Chindoy1 67:1)                                                 78
+       This phenomenon is interesting in determining if these suffixes are case or not because it
+is one of the rare situations in Kamsá where the case suffix occurs with an additional adposition.
+At the same time, it is problematic because both of the adpositions shown above are loan words
+from Spanish.
+       The instrumental can occur on inanimate common nouns. It rarely occurs on proper
+nouns, pronouns, or animate common nouns, probably due to semantic limitations, that these
+things cannot normally be semantic instruments. In my data, this case mainly occurs with
+inanimate nouns.
+       The instrumental case ending is very productive, though, and is used with loanwords. In
+(50a) kuchiyo from Spanish cuchillo ‘knife’ has the instrumental suffix -k. The second example
+(50b) is even more interesting in that the case ending -ak appears on the loan word asukar
+‘sugar’ (from Spanish azúcar) and has the word sin (also from Spanish) ‘without’.(50a) kuchiyok
+      kuchiyo-k
+      knife-INS
+      ‘with a knife’(50b) sin asukarak
+      sin            asukar-ak
+      without        sugar-INS
+      ‘without sugar’ (asukar < Spanish azúcar ‘sugar’)3.3.3.5 Comitative
+       The comitative in Kamsá is for accompaniment and only applies to animate nouns. The
+form is -abtak (often pronounced as /-aftak/) and the initial vowel of this affix is deleted when
+the noun ends in a vowel. In (51a), kes̈ ‘dog’ takes the suffix -abtak, with the first /a/ maintained;
+however, in (51b), batá ‘aunt’ ends in a vowel; thus batá + abtak becomes bata-btak.(51a) su-n-j-a ats̈-be kes̈-abtak
+      su-n-j-a                 ats̈-be         kes̈-abtak
+      1SG-EVI-VBLZ-go          1SG-GEN         dog-COM
+      ‘I went with my dog.’
+                                                 79
+(51b) ats̈ sënjwabwa wameshnen ats̈be batabtak
+      ats̈     së-n-j-wabwa        wameshnen ats̈-be                 bata-btak
+      1SG 1SG-EVI-VBLZ-cook mote               1SG-GEN               aunt-COM
+      ‘I cooked mote with my aunt.’       It is likely that the comitative is derived from the instrumental. Many case markers on
+animate nouns must be preceded by -bi as shown above with the benefactive. Thus, it is possible
+that the comitative was noun + bi + ak and underwent some phonological or phonetic changes.
+For clarity the two cases are compared:       comitative: kes̈-abtak ‘with the dog’
+       instrumental: s̈knen-ak ‘with the plate’       Proper nouns can have the comitative marker as seen in (52a) where Carmen, has -abtak.
+All personal pronouns can also take -abtak. One example is shown in (52b) where -ak, the
+second singular pronoun, has the suffix -abtak. It is also productive and is attached to loan
+words. In (52c), -abtak is added to madrang ‘nuns’ a loan word from Spanish madre ‘mother’.
+Note that the word madgra-ng is plural, and that the comitative marker comes after the plural
+marker.(52a) ats̈ sënjwabwa wameshnen Carmen-abtak
+      ats̈     së-n-j-wabwa       wameshnen Carmen-abtak
+      1SG 1SG-EVI-VBLZ-cook mote            Carmen-COM
+      ‘I cooked mote with Carmen’ (MC)(52b) ats̈ sënjwabwa wameshnen ak-abtak
+      ats̈     së-n-jwabwa wameshnen ak-abtak
+      1SG 1SG-EVI-cook mote             2SG-COM
+      ‘I cooked mote with you’ (MC)(52c) sënjwatsjenda madra-ng-abtak
+      së-n-j-watsjenda       madra-ng-abtak
+      1SG-EVI-VBLZ-study mother-PL-COM
+      ‘I studied with the nuns.’ (MC)
+                                                  80
+3.3.3.6 Locative
+       The locative is used for the location of something. For inanimate nouns, it is formed by
+adding -ok to the root of the noun. In (53a) yebn becomes yebnok and in (53b) beti ‘tree’
+becomes betyok.(53a) Yebunok kots̈bian wabwanaingna
+      yebun-ok        kots̈-bian   wabwanai-ng=na
+      house-LOC       pig-ABL      cook-PL=TOP
+      'In the house, the pig-cooks…’(53b) s̈lofts̈ insemn betiok
+      s̈lofts̈ i-nt-s-emn             beti-ok
+      bird 3SG-EVI-PROG-be            tree-LOC
+      ‘The bird is in the tree.’       For animate nouns, the locative is formed with the suffix -bi followed by -ok. The
+meaning (for humans) is ‘at the house of’, like donde ‘where, at’ in Spanish (as in Está a donde
+Juan ‘he/she is at John’s [at John’s place/house]). In (54), bobonts ‘young man’ has the locative
+to mean ‘at the house of the young man.’(54)   (...) tobias̈ na yejtaysashjango bobontsbioka
+       tobias̈=na         ye-j-t-ay-sa-shjango       bobonts-bi-oka
+       girl=TOP           DIS-VBLZ-AGAIN-?-?-arrive  youth-ANIM-LOC
+       the girl returned to the place of the young man.","[88, 89, 90, 91, 92, 93, 94]"
+"
+(64)   As inÿe tsëm kwashajiñ yejenëchnungo.
+       as     inÿe tsëm kwashaj-iñ            ye-j-en-ëchnungo
+       then other new gourd-ILL               DIS-VBLZ-REC-transfer
+       ‘Then he transferred (it) into another new gourd.’ (Chindoy 63:28)3.3.3.11 Summary of noun cases
+       Kamsá nouns have suffixes that are somewhere between case markers and postpositions.
+They do not seem like true case markers because they do not differentiate between subjects and
+objects, yet they are not really postpositions because many of them are phonologically part of the                                                 85
+noun. Also, some of them function with other adpositions or special verbs that take a certain
+case, much like cases do typologically. Some of the cases also require an animacy marker bi- for
+animate nouns preceding the case, namely the benefactive, allative, locative and ablative. The
+comitative perhaps comes from the instrumental but underwent a phonological change. The
+genitive is the only case that is the same for animate and inanimate nouns, always -be.
+Postpositions are discussed in 8.4.
+         The noun cases are shown in the Figure 3.5 below.","[98, 99]"
+"
+8.2.3.1 NPs with case-marking clitics
+        NPs can have case marking. Usually, case marking is a clitic attached to the last element
+of the NP, after the class marker, as discussed in 3.1.12. In (18), bwangan ‘red’ has the
+morphemes wa- and -ya to agree with wasnaniya ‘poncho’. In addition, it has the case marker -k
+for the instrumental. As discussed in 3.1.12, case marking clitics come after the suffixes on
+nouns including the suffixes for class, number, and evaluatives.(18)    suntatbonja s̈es̈on wasnaniya wabwanganiyak
+        su-ntatbonja s̈es̈on [wasnani-ya wa-bwangani-ya-k]
+        1SG-cover        baby [blanket-CL CL-red-CL-INSTR]
+        ‘I covered the baby with the red blanket.’ (MC)8.2.3.2 NPs with topic marker =na
+        The topic marker =na, which is particularly common in narratives, often cliticizes to
+NPs, usually the last element in the noun phrase. In (19a), yendon ‘squirrel’ exhibits the clitic
+=na,. It can attach to pronouns, as well, as seen in (19b). The topic marker =na is always the last
+element of the NP: in (19c) =na comes after the locative marker =ok. Similarly, in (19d), =na
+cliticizes to the second element in the NP, coming after the evaluative -jem. In (19e) =na also
+cliticizes to the second element in the NP tsbanan ‘tall’ and comes after the allative case marker
+-oy.",[215]
+"(10)    Cha ínÿenga tojëftsatsebaká,
+        cha    ínÿe-ng-a      to-j-ëftsatsebaká
+        3SG other-PL-EPE PST-VBLZ-help
+                                                  143
+       pero kachá jéntsbokama ndoñe kenátobena
+       pero ka-chá            j-én-ts-bokama         ndoñe ke-n-át-obena
+       but     EMPH-3SG       VBLZ-REC-PROG-save NEG       IRR-EVI-NEG-be.able
+       ‘He saved others, but he can’t save himself!’ (Matthew 27:42) (tojëftsatsebaká =
+       <tojëftsatsebacá>, kachá = <cachá>, jéntsbokama= <jéntsbocama>, and kenátobena =
+       <quenátobena> in original orthography)5.4    Reciprocal pronouns
+       Kamsá does not seem to have reciprocal pronouns. Rather, the reciprocity is marked on
+the verb with the prefix en- The verb ‘to say’ takes different morphemes depending on whether
+there is a hearer or whether it is mutual as seen in (11): j-ayanan is less transitive, while j-
+auyanan, with the /u/ means ‘to tell someone’, and j-enyanan, with /en/ means that the telling is
+reciprocal, telling each other. This is discussed more in 4.6.(11)   jayanan ‘say’
+       jauyanan ‘tell someone’
+       jenyanan ‘tell each other’       The following two examples show the verb j-ayanan ‘to say’ as a reciprocal and with a
+hearer. In (12a) the verb has the reciprocal marker en-, and in (12b), the verb has the marker au-
+to show that there is a hearer. The hearer is marked with the allative marker -bioy.(12a) enabwatmat (...) bojenyan
+      enabwatmat bo-j-en-yan
+      couple         DU-VBLZ-REC-tell
+      ‘The couple told each other…’ (Chindoy 58.4)(12b) bojauyan wabentsabyoy
+      bo-j-auyan     wabentsa-bi-oy
+      DU-VBLZ-tell younger.brother-ANIM-ALL
+      ‘He told his younger brother..’ (Chindoy 62.20)5.5    Determiners
+       This section discusses the determiners, both articles and demonstratives.
+       Kamsá has one article, ch, which is probably related to the third person singular pronoun
+cha. It is used for definiteness/specificity but more research is needed. The language has one                                                 144
+main demonstrative kem, which basically means ‘this’. Both ch and kem can modify animate and
+inanimate nouns, although ch is used very often with animate nouns and not so often with
+inanimate nouns. Also, ch is used more when the noun is the subject (which is, of course, related
+to the previous observation). kem can also be used for both animate and inanimate nouns. Both
+ch and kem, when part of an NP, come at the beginning, regardless of the order of the other
+words in the NP and they can both stand alone, not as part of a larger NP. When the determiners
+are part of an NP, they do show any overt marking of agreement with the noun, but if they stand
+alone, they agree with their referent/antecedent in class, and sometimes in case and/or number. In
+addition to ch and kem, there is also kanÿe ‘one’ and inÿa ‘other’ that I include in this section
+because they behave similarly to ch and kem, also occurring at the beginning of an NP and
+agreeing with their referent/antecedent when they stand alone. Himmelmann uses the following
+two criteria to distinguish between articles and demonstratives:
+- articles occur only in nominal expressions, whereas demonstratives may appear as pronouns,
+adverbials, predicates or adnominal modifiers;
+- within the nominal expressions articles occupy a fixed position, either consistently to the left or
+to the right of the noun, whereas demonstratives may occur on either side of the noun in many
+languages. (Himmelmann 2001:832)
+        Kamsá does not seem to have these distinctions. All determiners must go at the beginning
+of the NP when they’re part of the NP, and they can all stand alone. That being said, it is rare for
+ch to stand alone; ch is extremely frequent as part of an NP, but it rarely stands alone.
+        The four determiners discussed in this chapter are presented in Figure 5.3.","[156, 157, 158]"
+"
+                                                 138
+5.2.3   Use of pronouns and alignment: subject and object
+        In Kamsá, there is no difference in form between subject and object pronouns, just as
+there is no difference in form between subject and object nouns. The language is thus neither
+nominative/accusative nor ergative/absolutive in its alignment for pronouns.
+        In (2a), the first person singular pronoun ats̈ is the subject of an intransitive sentence,
+with jan ‘go’ as the verb. The verb agrees with the subject, shown by the first person singular
+subject marking së. In (2b) ats̈ is the subject of a transitive sentence. As in (2a), the verb has the
+prefix së- to show that the subject is first person singular. In (2c), ats̈ is the direct object of a
+transitive verb. There is no change to ats̈; the form is identical to that in (2a) and (2b). The verb
+in (2c) is marked with a first person singular prefix s̈o- to agree with the direct object.","[151, 152]"
+"(6)    Kem puerte bakna ents̈anga.
+       kem puerte bakna ents̈anga
+       DEM    really bad     person-PL
+       ‘Those really bad people’ (kem = quem, bakna = bacna in original orthography)
+       (Matthew 12:39)
+                                               197
+In (7) the noun ángel ‘angel’ (< Spanish ángel) is preceded by the indefinite article kanÿe ‘one’
+and the genitive-marked noun Bëtsa ‘God’.(7)    kanÿe Bëngbe Bëtsabe ángel
+       kanÿe bëng-be         bëtsa-be       ángel
+       one    1PL-GEN        god-GEN        angel
+       ‘an angel of God’ (kanÿe = canÿe in original orthography) (Matthew 1:20)In (8) the comitative-marked noun shembásaftaka ‘with (the) woman’ follows both the
+determiner ch and inÿe ‘other’ (in that order).(8)    ch inÿe shembásaftaka
+       ch      inÿe shem-bása-ftak-a
+       DET     other woman-little-COM-EPE
+       ‘with the other woman’ (shembásaftaka = <shembásaftaca>, ch = <chë> in original
+       orthography) (Matthew 5:28)In (9) the noun soy ‘thing’ is marked as plural (i.e., contains the suffix -ëng) and is the head of an
+NP that also has the determiners chë and inÿe and the adjective ts̈abe ‘good’.(9)    ch inÿe ts̈abe soyënga
+       ch      inÿe     ts̈abe soyënga
+       DET     other good thing-PL-EPE
+       ‘the other good things’ (ch = chë in original orthography) (Matthew 23:23)Proper nouns can be heads of noun phrases as well, as seen in (10a). Although it is rare for
+proper nouns to head phrases containing determiners or other constituents, it is nevertheless
+possible, as seen in (10b), in which inÿe ‘other’ modifies the proper noun Mary.(10a) Carmen intsabwana wameshnen.
+      Carmen        i-n-ts-abwana       wameshnen
+      Carmen        3SG-EVI-PROG-cook mote
+      ‘Carmen is cooking mote (hominy soup).’ (MC)(10b) ch inÿe Mariyna
+      ch      inÿe mariy=na
+      DET     other mary=TOP
+      ‘the other Mary’ (ch = chë in original orthography) (Matthew 27:61)
+                                                  198
+8.2.1.2 Pronoun as head of an NP
+        Pronouns can be heads of noun phrases. Often they are not marked in any way
+morphologically—as seen in (11a)—but they can also appear with the topic marker =na (11b) or
+with an evaluative (11c) where ak ‘you’ has the evaluative -jem. There are no known examples
+of NPs headed by pronouns that contain adjectives.(11a) tonjapasaibs ats̈ sonja jabwacham ats̈be enuta
+      tonjapasaibs [ats̈] so-n-ja            j-abwacha-m             ats̈-be        enuta
+      yesterday       [1SG] 1SG-EVI-go       VERB-visit-BEN          1SG-GEN        friend
+      ‘Yesterday I went to visit my friend.’(11b) ats̈na kats̈atanga sëndëtsbamñe
+      [ats̈=na]               kats̈at-ang-a së-nd-ëts-bamñe
+      [1SG=TOP]       sibling-PL-EPE 1SG-EVI-PROG-have
+      ‘I have siblings…’
+      (Chindoy2 160:6)(11c) Akajem kochatoben ats̈ jtsakmenán.
+      [aka-jem]      ko-ch-at-oben          ats̈    j-tsakmenán
+      [2sg-EVAL]     2SG-FUT-IRR-be.able 1SG VERB-chase.
+      'You are not able to follow/chase/catch me.' (Chindoy 2: 154.4)        Note that although the determiner ch cannot go with a pronoun, it can precede a noun
+when it is functioning as a relativizer (discussed more in Chapter 11 on subordination), as seen in
+(12). Here, ch does not belong to the NP headed by the first person singular pronoun ats̈; rather,
+it is functioning as a relativizer.(12)    i ts̈ëngaftanga, ch ats̈ s̈mëstonëngna
+        i        ts̈ëngaftang-a ch       ats̈  s̈mëstonëngna
+        and      2PL-EPE           DET   1SG 2PL-follow
+        ‘and you who have followed me …’ (ch = <chë>, ats̈ = <ats̈e> in original orthography; i
+        < Spanish y ‘and’) (Matthew 19:28)8.2.1.3 Determiner as head of an NP
+        In addition to modifying other heads of noun phrases, determiners (when functioning as
+substantives) can serve as heads of noun phrases. In (13a), repeated from above, mwa ‘this, that’
+is the head of a noun phrase. In (13b) inÿe ‘other’ is the head of the NP with the determiner ch
+                                               199
+preceding it. It has the class marker -be to agree with its referent ndëts̈be ‘rock’. For discussion
+of the various demonstratives and determiners in Kamsá, see Chapter 5.(13a) Mwana ndoñ tobias̈ yents̈á kwandmënas
+      mwa-na         ndoñ tobias̈ yents̈á kwa-nd-mën-as
+      DEM-TOP        NEG     girl  human EMP-EVI-be-PART
+      ‘This (one) not being a human girl …’ (Chindoy 88:12)(13b) kem ndëts̈be mas intsewut ch inÿebe
+      kem ndëts̈-be          mas i-n-ts-ewut              [ch    inÿe-be]
+      DEM     rock-CL        more 3SG-EVI-PROG-heavy [DET other-CL]
+      ‘This rock is heavier than the other one.’ (MC) (mas from Spanish más ‘more’)8.2.1.4 Numeral as head of an NP
+           Noun phrases with numerals as the heads can have determiners, as seen in (14), where
+esconëfta bnë́ tsana ‘ninety nine’ (referring to sheep) is marked with both the article ch and inÿe
+‘other’.(14)       ch inÿe esconëfta bnë́ tsana
+           ch      inÿe esconëfta         bnë́ tsana
+           DET     other nine             ninety
+           ‘the other ninety nine (sheep)’ (ch = <chë> in original orthography) (Matthew 18:12)8.2.1.5 Adjective as head of an NP
+           Adjectives, when used substantively, can serve as head of an NP. In (15), bwangan ‘red’
+is used substantively to mean ‘the red (one)’, here referring to a feather. It has the suffix -jwa to
+agree in class marking with plumubjwa ‘feather’, which is not present here. (Note plumu- <
+Spanish pluma ‘feather’)(15)       Wabwanganabjwa yotsetsebwanaka.
+           wa-bwangana-bjwa yo-tsetsebwana-ka
+           CL-red-CL            3DIS.PST-catch-EMPH
+           ‘A red one was caught.’ (McDowell 49.)
+                                                 200
+8.2.2   Noun phrase agreement
+        Other elements of an NP can agree with a noun in class, number, case, and evaluative.
+Often they will agree with a noun that is not present in the NP, indexing the noun by bearing
+morphemes that agree with the missing noun in class, number, case, and/or evaluative
+(anaphorically) to indicate they are tracking a noun mentioned earlier but not repeated later in the
+discourse.
+        As discussed in (3.2) on noun class, adjectives in a noun phrase must agree with the noun
+they modify (unless the adjective precedes the head noun). In (16a), the adjective bën ‘long’
+agrees with bichaj ‘tongue’ in class, with the suffix -j. In (16b) the adjectives botaman
+‘beautiful’ and bseng ‘black’ both agree in class with wasniya ‘poncho’, in that they are marked
+with the prefix wa- and the suffix -iya, both of which are found on the noun. For nouns that do
+not have the prefix wa- but for which adjectives agreeing with them have wa- see section 3.2.(16a) ch mëts̈kway indobmën bënëj bichaj
+      ch      mëts̈kway     i-nd-obmën                       bënë-j          bicha-j
+      DET     snake         3SG-HAB-have long-CL             tongue-CL
+      ‘The snake has a long tongue.’ (MC 33)(16b) Ch wasnaniya wabotamaniya indowamën i wabsengiya.
+      ch     wa-snan-iya wa-botaman-iya            i-nd-o-wa-mën             i         wa-bseng-iya
+      DET    CL-poncho-CL CL-beautiful-CL          3SG-HAB-?-?-be            and       CL-black-CL
+      ‘The poncho is beautiful and black.’ (i < Spanish y ‘and’)        Numerals and determiners are not generally marked in any way to agree with the head
+noun of their NP. This may be so because these parts of speech always precede the noun.
+However, when a numeral is a head of its own NP, it must agree in class with its (implied but
+absent) referent. In (17a), the numeral unga ‘three’ is marked with the classifier -be to agree with
+mashakbe ‘lulo fruit’, even though this noun occurs in a separate phrase. Similarly, in (17b), inÿe
+‘other’ has the class marker -jwa to agree with yents̈iya ‘cloth’. (See 3.2 for why the class marker
+is -jwa instead of -ya.)(17a) Kanÿe mashakbe indoben joyebambayan i ungabe ndoñ.
+      kanÿe mashak-be         ind-oben       j-oyebambayan          i        unga-be         ndoñ
+      one    lulo-CL          3SG-be.able VERB-talk.INF             and      three-CL        NEG
+      ‘One lulo fruit can talk and three cannot.’ (i < Spanish y ‘and’)                                                201
+(17b) Kem yents̈iya indewamn wabchendujwa i inÿejwa wabwanganjwa.
+      kem yents̈i-ya indewamn wa-bchendu-jwa                i   inÿe-jwa wa-bwangan-jwa
+      DEM    cloth-CL 3SG-be        CL-blue-CL              and other-CL     CL-red-cl
+      ‘One cloth is blue and the other is red.’ (y < Spanish)8.2.3   Phrase-level clitics
+        There are at least two phrase level clitics that occur at the end of NPs. These include case
+marking clitics and the topic marker =na. If =na is present in an NP it is always the last element
+of the NP.","[210, 211, 212, 213, 214, 215]"
+"
+1.6.2   Morphology and word classes
+        Kamsá has complex morphology and is polysynthetic. There are prefixes and suffixes,
+but not infixes or circumfixes. Verbs are primarily prefixing. Nouns and adjectives primarily
+have suffixes. But verbs also bear suffixes, and all parts of speech can have certain suffixes.
+Nouns and adjectives can have prefixes, as well.
+        Verbs have prefixes for person, number, tense, aspect, mood, evidentiality, emphasis, and
+more, and have a few suffixes for TAM and nominalization. Kamsá verbs have morphological
+marking distinguishing singular, plural, and dual. There is a distinction between present, recent
+past, distant past, and future. There’s a two-way system of evidential marking. Negation is
+shown with a negator and verbal prefixes; the verb has several options for prefixes. There are a
+few clitics, as well, including subordinators.
+        Nouns have suffixes. These suffixes show number, case, class, and more. Noun class
+markers are part of the noun; the noun cannot appear without its class marker. Cases can stack,
+i.e. a noun can bear multiple case markers. Nouns can also appear with postpositions, but they do
+not have to. Case markers may be clitics or may be suffixes. Nouns can be singular, plural, or
+dual, shown by suffixes, but number marking on nouns is not obligatory.",[40]
+"
+11: Accusative marking and/or disambiguating suffix indicating actor as opposed to unmarked
+object
+         “Accusative case marking is found in several central Andean languages (Aymaran,
+Quechuan, Barbacoan, Páez, also in the pre-Andean Jivaroan languages), but less so in the
+northern Andes (cf. Constenla 1991) and in the south. Some northern languages, viz. Chimila,
+Ika (both Chibchan) and Cholón, feature a disambiguating affix that indicates an actor in
+opposition to an (unmarked) object” (Adelaar 2008:29).
+         Kamsá does not have accusative case marking; S, A, and O are unmarked. There is an
+optional clitic =na, however, that possibly marks actors. It is discussed in 8.2.3.2.",[44]
+"
+10: Case marking on nouns by suffixes or postpositions
+         “Case marking on noun phrases expressed by means of suffixes or postpositions is
+common in Andean languages” (Adelaar 2008:29).
+         Kamsá nouns have case marking with nine cases. These all suffixes.",[44]
+"
+3.2    Noun classes
+       Kamsá has a system that falls between noun class and noun classifier, typologically,
+fitting neither definition neatly. Here I choose the term class because the markers are an
+obligatory part of the noun. Kamsá does not have grammatical gender, but there are at least 10
+class markers that exist in the language, as well as a subset of nouns in which the noun itself is a
+suffix, often called a ‘repeater’ in other South American languages. The class markers are bound
+morphemes; they are suffixes which form a phonological word with their host and cannot be
+removed or changed. Demonstratives, adjectives, and sometimes numerals which agree with the
+noun have a matching suffix, depending on the position of the demonstrative, adjective, or
+numeral in relation to the noun. A few classes are signaled by both a prefix and a suffix, but no
+classes are signaled by a prefix without a suffix.
+       The majority of nouns in Kamsá do not belong to a noun class; the nouns with class
+markers are a very small subset of the nouns in the language. The majority of nouns have no
+special suffix and the adjectives, demonstratives, or numerals which agree with them do not take
+a special suffix, either. Although some noun classes have something semantic in common, such
+as signifying that the objects are round or hairy, many do not fall into a particular semantic
+domain, and for some classes, I have not found enough nouns to determine what if any the
+semantic relationship for the nouns could be.
+       After showing that most nouns do not belong to the class of nouns that require a class
+marker, I show 11 noun classes and one additional suspect noun class. For each category, I give
+an example of the noun with an adjective, where possible with the adjective bchenda ‘blue’.
+Then, I give other examples of other nouns in the class. Finally, for each category I offer an
+explanation of what could connect them semantically. Where possible, I include both native
+Kamsá words and loanwords from Spanish that belong to the class. The loan words that have
+class markers may lend additional insight into the semantic domain of these noun classes because
+they are more recent additions to the class. I start with the the unmarked noun class giving
+examples of a human, an object, a place, and an abstract thing, to show that there is no class or                                                 55
+gender for these words, the majority of words in the language. There is no morphological
+difference in the root between animate and inanimate nouns, or between human and nonhuman
+nouns. Again, it is important to emphasize that most nouns in Kamsá do NOT have any class
+marker, while there are some very specific groups of nouns that do have special noun-class
+suffixes.","[68, 69]"
+"
+                                                        149
+                                             Chapter 6
+                                             Adjectives
+6.1    Introduction
+       Adjectives in Kamsá are an open class of words. I define them as being words that can
+agree with nouns in class, number, and sometimes evaluatives and/or case; that can be
+intensified; and can take comparative degrees. Their typical functions are to modify
+nouns/nominals (attributive adjectives, e.g. the big dog) and as adjectival predicate complements
+(e.g. the dog is big). Their defining criteria in my analysis is their ability agree with nouns
+because nouns cannot agree with other nouns.
+       An adjective can agree with a noun that it modifies in class, number, and evaluative
+marking. Adjectives often take the case marker for a noun phrase, and they can sometimes agree
+with a noun in case. Adjectives can be intensified with adverbs such as bien ‘very’ and yap
+‘very, much’. Adjectives can also take comparatives.
+       The following examples show the morphology that adjectives have when agreeing with
+nouns. This chapter discusses this morphology in greater depth. In (1b) the adjective bwangan
+‘red’ agrees with chembalbe ‘tree tomato’ with the class marker -be. In (1c) bwangan ‘red’
+agrees with the plural noun s̈lofts̈ëng with the plural marker -ang. In (1d) stjnëj ‘hair’ has the
+diminutive marker -tem, as does the adjective ftseng ‘black’ that agrees with it. In (1e) both the
+noun chembalbe ‘tree tomato’ and bochan ‘ripe’ have the instrumental case marker -k. In
+addition, the adjective bochan agrees with chembal-be in class, as shown by the suffix -be. In
+(1f) the adjective is intensified with yap. Finally, in (1g) an adjective is used in a comparative
+construction with mas ‘more’. These qualities of adjectives are discussed further in the following
+sections of this chapter.(1a)   bwangan ‘red’(1b)   chembalbe indemun bwanganbe
+       chembal-be i-nd-emun          bwangan-be
+       tomato-CLF 3SG-HAB- be red-CLF
+       ‘The tree tomato is red.’ (MC)
+                                                 150
+(1c)   unga s̈lofts̈ëng bwanganang
+       unga s̈lofts̈-ëng       bwangan-ang
+       three bird-PL           red-PL
+       ‘The three birds (are) red.’ (MC)(1d)   ch tobias̈ indaboman stjnëjatem ftsengatem
+       ch      tobias̈ i-nd-aboman          stjnëj-a-tem ftseng-a-tem
+       DET     girl    3SG-HAB-have         hair-EPE-DIM black-EPE-DIM
+       ‘The girl has black hair.’ (MC)(1e)   ats̈ sënjwaba mntsen chembalbek bochanbek
+       ats̈     së-n-j-waba           mëntsen    chembal-be-k                    bochan-be-k
+       1SG 1SG-EVI-VBLZ-cook meat                tomato-CLF-INST                 ripe-CLF-INST
+       ‘I cooked meat with ripe tree tomato.’(1f)   tobias̈ yap flakwa ijamën
+       tobias̈ yap flakwa         i-j-amën
+       girl     very thin         3SG-VBLZ-be
+       ‘The woman was very thin.’(1g)   ch bobonts ya mas bna ch tobias̈byam
+       ch     bobonts         ya              mas bna           ch      tobias̈-by-am
+       DEM    boy             already         more tall         DET     girl-ANI-BEN
+       ‘The boy is (already) taller than the girl.’ (MC)6.2    The form of adjectives
+       Adjectives tend to end in /a/, /o/, or /á/. Adjectives that end in /o/ or /a/ lose this final
+vowel when they precede the noun, but adjectives ending in the stressed vowel /á/ do not lose the
+final vowel. In Figure 6.1 botamana ‘beautiful’ is botamán when preceding a noun and
+botamana when following the noun or standing alone after the verb. i-nd-emën is the third
+singular present form of j-amnan ‘be’.botamán tobias̈                                      ‘beautiful girl’
+tobias̈ botamana                                     ‘beautiful girl’
+tobias̈ indemën botamana                             ‘(the) girl is beautiful’
+tobias̈ botamana indemën                             ‘(the) girl is beautiful’                                  Figure 6.1 Noun/adjective order       Likewise, adjectives that end in /o/ lose the /o/ when they precedes the noun. betsko ’fast’
+can be betsk and podesko ’ugly’ can be podesk when preceding a noun. Adjectives that end in
+                                                 151
+stressed /á/ cannot lose the vowel regardless of the position of the adjective. ‘Fat dog’ can be
+either oboná kes̈ (fat dog) or kes̈ oboná (dog fat), but not *obon kes̈.
+       Figure 6.2 shows some common adjectives in the language.","[162, 163, 164, 165]"
+"
+                                                   53
+                                               Chapter 3
+                                                Nouns
+3.1    Introduction
+       In this chapter, nominal morphology and the structure of noun phrases in Kamsá are
+discussed. First, I lay out the inflectional morphology that nouns can take, and the head of the NP
+is identified, along with other elements that can be part of the noun phrase, including
+demonstratives, numbers, adjectives, and adpositions. Nouns are an open class in Kamsá.
+       Nouns can bear inflectional morphology, although a noun can be a word without any
+bound morphemes. The inflectional morphology includes: number marking (plural and dual),
+noun class markers, a topic marker, and a determiner that is a clitic preceding the noun. Kamsá
+has derivational morphology, including suffixes to make an agent from a verb and evaluatives
+(diminutives, augmentatives, and pejoratives). Kamsá nouns that are derived from verbs also
+lack morphology, i.e. they are stripped of the morphology of the verb.
+       Although Kamsá nouns can have multiple suffixes, it is not common for all possible
+suffixes to appear on a single noun at the same time. For example, a noun would not normally
+have a plural marker, a diminutive suffix, and a class marker all at once. If the noun has a class
+marker, the diminutive and/or the plural marker do not appear. Class markers are obligatory for
+those nouns that fall in the class of nouns that have class markers, whereas number marking is
+optional, and diminutives (by their nature) are also optional. Case markers are more flexible,
+because although they are obligatory, they can appear at the end of the noun phrase instead of on
+the noun itself, as discussed further below.","[66, 67]"
+"
+                                                 64
+              Class Number            Class Marker              Semantic Meaning                                             -0                      1                     -be                 round ((spherical?))                      2                   wa- -ya                      clothes                      3                      -i                        liquids                      4                     -Vj                         body                      5                  wa- -jwa                       cloth                      6                   wa- -sha              hairy? ((no semantic
+                                                             identification was given))                      7                     -fja                    long and thin                      8                      -iñ                         fire                      9                  repeaters             short, common words                     10              kwa (not a class)                  body                                 Figure 3.1 Noun classes in Kamsá3.2.12 Noun class with case
+       When the noun appears with case markers, the case marker is the last suffix of the
+adjective, after the noun classifier. In the following example, ndëts̈-be ‘rock’ is in the
+instrumental case (with the suffix -k). The adjective ftsen ‘black’ agrees with ndëts̈-be and has
+the classifier suffix -be followed by the instrumental suffix -k.(25)   ats̈ sën-japorma ch more ndëts̈-be ftsengë-be-k
+       ats̈           së-n-japorma            ch    more ndëts̈-be               ftsengë-be-k
+       1SG            1SG.PAST-EVI-make DET wall rock-CLF                        black-CLF-INST
+       ‘I made a wall with black rocks.’
+                                                   65
+3.2.13 Noun class with plural
+           When a noun is plural, the class marker comes before the plural marker. In (26) shemnë-
+be ‘egg’ has the class marker -be and is followed by -ng to show it is plural. Note that the plural
+marker is not obligatory; shemnë-be could be plural without -ng.(26)       shemnëbeng
+           shemnë-be-ng
+           egg-CLF-PL
+           ‘eggs’           McDowell states that noun class markers (which he terms noun classifiers) can be added
+to words that do not necessarily have them as a way to be creative with the language (1994). He
+gives the following example. In (27), from one of McDowell’s texts, the determiner ch refers to
+the oso ‘bear’ mentioned before in the same line. The determiner ch has the noun class marker -
+be which is used for round things. According to McDowell, this means he is being referred to as
+a round person, and that he is a humorous oaf rather than a fierce suitor that bears are in other
+stories.(27)       i ch osona, chbe yojtsaishniy
+           i       ch     oso-na           ch-be          yo-jtsaishniy
+           and     DET    bear-TOP         DET-CLF        3G.PST-put.on.fire
+           ‘And as for that bear, he put (them) on the fire.’ (From McDowell 2014:220)           I have not found any productivity with noun class in my data. McDowell gives one
+example of this occurring, and it is with -be. Whether or not other class markers could be used
+productively is unknown. If it is true, however, then these noun class markers perhaps seem more
+like noun classifiers than markers of noun classes.","[77, 78, 79]"
+"
+6.3.1   Plural marking on adjectives
+        Adjectives can have plural markers and dual markers. Number agreement is not
+obligatory. In (2a) the adjective botamana ‘beautiful’ has the plural marker -ëng to agree with
+the plural noun yebnëng ‘houses’. In (2b) bën ‘tall’ has the plural marker -ang to agree with the
+plural pronoun bëng ‘we (pl)’. In (2c) there are two adjectives bëts ‘big’ and basa ‘small’ both
+agreeing with the plural pronoun chëng ‘they’.(2a)    ch yebnëng botamanëng yomën
+        ch     yebnëng        botamanëng      yo-mën
+        DET    house-PL       beautiful-PL    ?-be
+        ‘The houses are beautiful.’ (MC)(2b)    Bëng bënënang mondemun
+        Bëng bënën-ang     mo-nd-emun
+        1PL    tall-PL     3PL-HAB-be
+        ‘We are tall (MC).(2c)    chëng bëtsang y basëng
+        chëng bëts-ang       y       basëng
+        3PL    big-PL        and     small-PL
+        ‘They are big and small.’ (MC)6.3.2   Class markers on adjectives
+        As discussed in 3.2, there is a subset of nouns in Kamsá that has class markers.
+Adjectives that agree with nouns that have class markers must bear these class markers. As seen
+in (3a) the adjective gobshn ‘green’ has the class marker -be to agree with the noun shemne-be
+‘egg’. In (3b) there are two adjectives, botamana ‘beautiful’ and bseng ‘black’ agreeing with the
+noun wasnaniya ‘blanket’ and they both have class markers. As discussed in 3.2.3 some nouns in                                                 153
+Kamsá have a class marking suffix as well as the prefix wa-. In (3b) both adjectives have the
+suffix -ya and the prefix wa-.(3a)    ch bobonts tbonjacheta ch tobias̈ shemnebe gobshnebe
+        ch     bobonts        t-bo-n-j-acheta       ch    tobias̈ shemne-be        gobshne-be
+        DET    boy            PST-DU-EVI-VBLZ-give DET    girl    egg-CLF          green-CLF
+        ‘The boy gave green eggs to the girl.’ (MC)(3b)    ch wasnaniya wabotamanëya indowamën i wabsengiya
+        ch     wa-snani-ya             wa-botamanë-ya    i-nd-owamën i             wa-bsengi-ya
+        DET    CLF-manta-CLF           CLF-beautiful-CLF 3SG-HAB-be and            CLF-black-CLF
+        ‘The blanket is beautiful and black.’ (MC)(3c)    kem yents̈ iya indewamn wabchendujwa
+        kem yents̈iya         i-nd-owamn wa-bchendu-jwa
+        DEM   cloth           3SG-HAB-be CLF-blue-CLF        y inyajuan wabwanganjwa
+         y      inya-jwan             wa-bwangan-jwa
+        and     other-CLF             CLF-red-CLF
+        ‘One cloth is blue and the other is red.’ (MC)6.3.3   Evaluatives on adjectives
+        Adjectives can have evaluatives. The adjective can have the evaluative whether the noun
+has an evaluative or not. In (4a) both the noun and adjective have the diminutive suffix -tem:
+gobshin ‘green’ agrees, having the diminutive marker -tem to agree with bominÿ-tem ‘eyes’. In
+(4b) gobshin ‘green’ has the suffix -tem but the noun, bominÿ ‘eye’ does not. In (4c) the
+adjective has the class marking prefix wa- and the diminutive -tem. Also note that the adjective is
+a loan word from Spanish delgado ‘thin’. In (4d) the adjective bëtsa ‘big’ has the diminutive -
+tem.(4a)    bominÿetem gobshintem indëmën
+        bominÿ-e-tem           gobshin-tem   i-nd-ëmën
+        eye-DIM                green-DIM     3SG-HAB-be
+        ‘(Her) eyes are green.’ (MC)
+                                               154
+(4b)    ats̈be bominÿ indemën gobshintem
+        ats̈be         bominÿ       i-nd-emën             gobshin-tem
+        1SG-GEN        eye-DIM      3SG-HAB-be            green-DIM
+        ‘My eyes are green.’ (MC)(4c)    ch wasnaniya indemun bien wadelgadatema
+        ch     wa-snani-ya i-nd-emun     bien wa-delgada-tem-a
+        DET    blanket-DIM 3SG-HAB-be very thin-DIM-EPE
+        ‘The blanket is very thin.’ (MC)(4d)    ya bëtsatema yojtsemna orna
+        ya            bëtsa-tem-a yo-j-ts-emna                  orna
+        already       big-DIM-EPE 3DIS-VBLZ-PROG-be             when
+        ‘When he was grown…’ (McDowell 76)6.3.4   Case marking on adjectives
+        Adjectives can have case markers. Generally, the last element of the NP (usually the noun
+or adjective) has the case marker. It is also possible for multiple elements of the NP to have the
+case marker, i.e. the noun and adjective can both be marked. In (5a), repeated from (1e) above,
+both the adjective and the noun are marked with the instrumental marker -k. In (5b) only the
+adjective, which is the last part of the NP, is marked with the instrumental marker. As with
+nouns, on adjectives the case marker comes after the number markers, as seen in (5c).(5a)    ats̈ sënjwaba mntsen chembalbek bochanbek
+        ats̈     së-n-j-waba           mëntsen      chembal-be-k              bochan-be-k
+        1SG 1SG-EVI-VBLZ-cook meat                  tomato-CLF-INST           ripe-CLF-INST
+        ‘I cooked meat with ripe tree tomato.’ (MC)(5b)    sënjatbonja s̈es̈on wasnaniya wabwanganiyak
+        së-n-j-atbonja         s̈es̈on wa-snani-ya              wa-bwangani-ya-k
+        1SG-EVI-VBLZ-cover baby CLF-blanket-CLF                 CLF-red-CLF-INST
+        ‘I covered the baby with the red blanket.’ (MC)(5c)    sënja ch betiesh tsbananëngshoy
+        sënja                   ch       beti-esh         tsbanan-ëng-sh-oy
+        1SG-EVI-VBLZ-go         DET      tree-?           tall-PL-CL?-ALL
+        ‘I went toward the tall trees.’ (MC)
+                                                    155
+6.4    Types of adjectives
+       There are several types of adjectives in Kamsá. Most end in -an and can precede or
+follow the NP they are modifying. Of the adjectives that end in -an, some are derived from
+verbs. Some adjectives can be used both as an adjective with the verb ‘to be’ or can have verbal
+morphology. Some can only be used as an adjective, i.e. cannot take verbal morphology. Of the
+ones that can only be an adjective (and not take verbal morphology), there is a small subset that
+has three unique qualities: [1] they generally precede the noun (rather than following the noun, as
+most nouns usually, but not always, do); [2] they do not usually agree with the noun; [3] and they
+can be used as compounds. These words are bëts ‘big’ and basa ‘small’.
+       All adjectives, however, can be used in compounds, and all adjectives can follow or
+precede the noun. All adjectives can agree with nouns in case, class, number, and evaluative
+(except when they are functioning as verbs, of course) and all adjectives can be used
+substantively as the head an NP. All adjectives must agree with their referent in class when they
+are not preceding the noun (i.e. adjectives agree with their referent if they follow their referent or
+when their referent is not in the same NP)
+       Adjectives derived from verbs behave the same as other adjectives. The following are
+some examples of adjectives derived from verbs. It is not clear how productive this derivational
+process is, if all verbs can become adjectives. Adjectives derived from verbs are the same as the
+verb, but without the initial j-. As with other adjectives, they do not take person, tense, aspect, or
+mood markers, but they can take case, number, evaluative, and class markers.(6a)   wabwán ‘cooked’ from j-wabwan ‘to cook’
+(6b)   obaná ‘dead’ from jobanan ‘die’The following are two compound nouns with the adjectives basa ‘small’ and bëts ‘big’.(7a)   shembasa ‘girl’ (from shem ‘woman’ and basa ‘small’)
+(7b)   bëts mamá ‘grandmother’ (from bëts ‘big’ and mamá ‘mother’)       A subset of adjectives in Kamsá can also be used as verbs. There are perhaps others that
+can be verbs, as well, but that have not appeared as verbs in my data. In (8a) joyejwan ‘be happy’
+is used as a verb with verbal prefixes for person, number, evidentiality, and aspect. In (8b)
+                                                 156
+oyejway ‘happy’ is used with the verb ‘be’ and has no verbal prefixes. Instead it has the number
+suffix -ëng ‘pl’ as nouns and adjectives do.(8a)    ats̈be enuta botamán tsaba intsoyejwa
+        ats̈be          enuta botamán        tsaba i-n-ts-oyejwa
+        1SG-GEN         friend beautiful     good 3SG-EVI-PROG-happy
+        ‘My beautiful friend is happy.’ (MC)(8b)    Chë maguënga chë estrella tmojáninÿe orna
+        chë   magu-ënga     chë     estrella      t-mo-j-áninÿe                  orna
+        DET   magi-PL-EPE DET star                PST-3PL-VBLZ-see               when        corente oyejuayënga imojtsemna
+        corente       oyejuay-ëng-a         i-mo-j-ts-emna
+        very          happy-PL-EPE          DIS-PL-VBLZ-PROG-be
+        ‘When the Magi saw the star, they were very happy (overjoyed).’ (Matthew 2:10)6.5     Present and absent referents
+        Adjectives agree with their referent whether or not it is present in the phrase. In (9a-b) the
+noun and adjective are both in the clause, and both are marked with the class marker (for round
+things) -be. The word order is different. In (9c) the referent chembalbe ‘tree tomato’ is not in the
+clause at all, but the adjective has the class marker -be to agree with it. (9d) is interesting in that
+the entity speaking is round (a lulo fruit) and the adjective botaman has the marker -be to agree
+with it. The first person singular pronoun ats̈ is in the clause, referring to the lulo fruit.(9a)    chembalbe tamnabe indemun
+        chembal-be tamna-be                     i-nd-emun
+        tomato-CLF delicious-CLF                3SG-HAB-be
+        ‘The tomato is delicious.’ (MC)(9b)    chembalbe indemun bwanganbe
+        chembal-be i-nd-emun      bwangan-be
+        tomato-GEN 3SG-HAB-be red-CLF
+        ‘The tomato is red.’ (MC)(9c)    bëtsabe indemun
+        bëtsa-be          i-nd-emun
+        big-CLF           3SG-HAB-be
+        ‘It is big’ (referring to a tomato) (MC)                                                   157
+(9d)   Ch mashakbe s̈onjauyan, “Ats̈ botaman-be sën-demun!”
+       ch     mashak-be       s̈o-n-j-auyan         ats̈ botaman-be së-nd-emun
+       DET    lulo-CLF        1SG.OBJ-EVI-VBLZ-say 1SG beautiful-CLF 1SG-HAB-be
+       ‘The lulo fruit told me, “I am beautiful!” (MC)
+                                          158
+                                             Chapter 7
+                                        Other word classes
+7.1     Introduction
+        In this chapter, I discuss the function, structure, morphology, and distribution of various
+word types that do not fit neatly into other word classes, i.e. words that are not nouns, verbs, or
+adjectives. I first discuss adverbs (7.2), including temporal adverbs (7.2.1), adverbs of manner
+(7.2.2), and adverbs of degree (7.2.3). In (7.2.4) I discuss some issues for the class of adverbs of
+degree. In (7.2) I discuss deictics of place and other words related to location (words that
+function as nouns, postpositions, and adjectives). Then I discuss function words and particles,
+(7.4), followed by negators (7.5) and quantifiers (7.6).","[166, 167, 168, 169, 170, 171, 172]"
+"(21)    Bojashbwá mongoj.
+        bo-jashbwá mongoj
+        DU-PAST-hunt deer
+        ‘He hunted a deer.’ (Chindoy 60:2)
+                                                 204
+        Pronouns can also serve as objects in a verb phrase. They are not marked any differently
+from full NP direct objects. In (22a). the object is ats̈ ‘1SG’. Note that the verb agrees with ats̈ in
+person and number. The noun ndëts̈-be ‘rock’ is marked with an instrumental case marker. In
+(2b), the subject is the first person singular pronoun ats̈. When comparing of (22b) in which ats̈
+‘1SG’ is the subject of a transitive clause with (22a) in which ats̈ ‘1SG’ is the object, it can be
+seen that the form of the pronoun is the same regardless of whether it is serving as subject or as
+object. In (22c), ats̈ ‘1SG’ is the subject of the sentence and has the topic marker -na. When a
+pronoun is the direct object of a verb, it does not have to be expressed, as seen in example (20b)
+above, in which the verbal prefix k- ‘2SG’ shows that the object is second person singular.(22a) Ch basatem ats̈ s̈onjapega base ndëts̈bemak.
+      ch     basa-tem        ats̈   s̈-o-n-j-apega                      base ndëts̈-be-mak
+      DET    boy-DIM         1SG 1SG-R.PST-EV-verb-hit                  small rock-CL-INS
+      ‘The boy hit me with a small rock.’(22b) Ats̈ sëntsabwana mënts̈en.
+      ats̈    sëntsabwana               mënts̈en
+      1SG 1SG-EV-PROG-cook              meat
+      ‘I am cooking meat.’(22c) Kochjotjajo i ats̈na kbochwakmie.
+      ko-ch-jotjajo          i       ats̈-na        k-bo-ch-wakmie
+      2SG-FUT-run.fast       and     1SG-TOP        2SG-1SG-FUT-follow
+      ‘You run fast and I will follow you.’ (i < Spanish y ‘and’) (Chindoy2 154:3)        Some other parts of speech can also serve as objects within VPs. In (23), the
+demonstrative mwa is the object of the imperative form of the verb jolempia ‘clean’ (from
+Spanish limpiar ‘clean’) and the numeral kanÿe ‘one’ is the object of the verb jasan ‘eat’.","[217, 218]"
+"
+3.3.3.1 Unmarked case
+       In Kamsá, A, S, and O do not have any overt case marking. The noun stem appears alone
+without any affixes. Furthermore, in ditransitives, neither the O or the Goal has any marking.
+       In (33a) the A (agent) batá ‘aunt’ has no suffix. In (33b) batá is the P (direct object) and
+has no suffix. In (33c) batá ‘aunt’ is the S (subject of the intransitive sentence) and has no affix.
+Finally, in (33d), batá is a recipient object of the ditransitive verb and has no case-marking
+suffix. Note that the other object sana ‘food’ also has no case marking.",[85]
+"
+                                                190
+(48a) Tsbananok ats̈na tswatma nÿets bnëte ts̈aba jtsamanam,
+      tsbanan=ok ats̈-na               ts-watma       [nÿets bënëte] ts̈aba j-ts-aman=am
+      tall=LOC        1SG=TOP          1sg-know       [all     of.day] good VBLZ-PROG-sleep=BEN
+      ‘I’m used to living in the tall part to sleep well all day.’ (Chindoy 104:7)(48b) nÿets bnëte i nÿets ibet.
+      [nÿets bnëte]            i     [nÿets ibet]
+      [all    of.day]          and   [all night]
+      ‘all day and all night’ (Chindoy 66:45)(48c) Ndwawenaná nÿets kwashbiá kastellán yejtsayambañ Bastok jetsabweyam.
+      nd-wawena=ná [nÿets kwashbiá kastellán] ye-j-ts-ayambañ Bastok j-etsabwey-am
+      NEG-listen=TOP [all     totuma gold] 3SG.DIS-VBLZ-PROG-bring         Pasto VBLZ-sell=BEN
+      ‘Not listening (to his older brother) he brought all the totuma ‘gourd’ of gold to Pasto to
+      sell.’ (Chindoy 64:34)(48d) Kats̈atna nÿets uta kukwats̈ stëts̈oyk enaná
+      Kats̈at=na             [nÿets uta kukwats̈]       stëts̈oyk      enaná
+      younger.brother=TOP [all       two hand]          behind        tied
+      ‘the younger brother with both hands tied behind…’ (Chindoy 65:43)       Another word is nÿets̈á. It is maybe a quantifier. In (49a) nÿets̈á precedes botamán
+‘beautiful’ to mean very or completely. (49b) is ambiguous; it isn’t clear if nÿets̈á should refer to
+the agent or to the screaming, whether the sentence means ‘they all screamed’ or ‘they screamed
+a lot’. In (49c) the lobsters kept eating the food until the earth was completely empty. It isn’t
+clear where the ‘empty’ meaning comes from. In (49d) nÿets̈á modifies kastellán ‘gold’ to mean
+‘such a quantity of gold, so much gold’.(49a) asta nÿets̈á botamán binÿnoy empasam jetsashjangwam.
+      asta nÿets̈á botamán             binÿn-oy       empasam       je-ts-ashjangw=am
+      until PART? beautiful            clear-ALL      forever       VBLZ-PROG-arrive=BEN
+      ‘Until arriving at the (place) always most beautiful and clear’ (describing heaven)
+      (Chindoy 71:16) (Note: it’s not clear if empasan ‘forever’ means arriving forever at the
+      place, or if the place is forever beautiful and clear)(49b) i nÿets̈á jisendëntjanán lastements̈e.
+      i        nÿets̈á       j-is-nd-ëntjanán     lastements̈e.
+      and      PART?         VBLZ-?-?-scream      pitifully
+      ‘And they screamed pitifully.’ (Chindoy 68:5)
+                                                 191
+(49c) asta ena fshants jisebem nÿets̈á.
+      asta ena       fshants j-is-ebem     nÿets̈á
+      until pure earth make                no.more
+      ‘until they made the earth completely empty.’ (the lobsters ate everything until the land
+      was empty) (Chindoy 108:6)(49d) Nÿa ndayents̈ nÿets̈á kastellán tëktsenÿen?
+      nÿa   ndayents̈        [nÿets̈á       kastellán]      të-k-ts-enÿen
+      PART where             [such          gold]           PST-2SG-PROG-find
+      ‘Where did you find so much gold?’       nÿa klarë s̈menÿanÿie.
+       nÿa            klarë s̈m-enÿanÿie
+       PART?          clear 2PL-show
+       ‘Show us clearly.’ (Chindoy 64:36)
+                                               192
+                                            Chapter 8
+                                       Phrase-level syntax
+8.1    Introduction
+       This chapter discusses phrase-level syntax in Kamsá. A phrase may be considered a set of
+one or more words functioning together as a syntactic unit, a unit usually smaller than (or a
+constituent of) a clause. A phrase consists minimally of a single word, but more often contains
+multiple words. In Kamsá, there are noun phrases (8.2), verb phrases, (8.3), postpositional
+phrases (9.4), and prepositional phrases (8.5). Although prepositional phrases only occur with
+Spanish loan words, they are very common in the language. There are some phrase-level clitics,
+including the topic marker =na which occurs at the end of a noun phrase (8.2.3.2) and case
+marking clitics at the end of noun phrases (8.2.3.1). Case marking is discussed further in (3.3.3).","[203, 204, 205, 206]"
+"                                                83
+(60)   chabe alma yejtsatoñ ts̈abe wachwan lwaroy
+       cha-be         alma ye-j-ts-atoñ                    ts̈abe wachwan            lwar-oy
+       3SG-GEN        soul     DIS-VBLZ-PROG-travel        good admirable            place-ALL
+       ‘His soul went to a good, admirable place.’ (Chindoy1 71.17)3.3.3.8 Ablative
+       The ablative is the case for motion away from. This is, of course, used most often for
+places, but it can be used for other nouns, as well, including animate nouns. Like the other cases,
+when it is used with an animate noun, the marker -bi precedes the ablative. The ablative seems to
+be a composite of the locative -ok with -an (which is not a marker, as far as I know). In (61a), tja
+‘mountain’ has the ablative marker okan and in (61b) yebn ‘house’ has the ablative marker,
+ending in -ok-an. In (61c), bata has the ablative marker -ok-an following the animate marker -bi.(61a) ats̈ sëntap tjokan
+      ats̈     së-n-tap    tj-okan
+      1SG 1SG-EVI-come mountain-ABL
+      ‘I came from the mountain.’ (MC)(61b) ch kes̈ yebnokan jabwach tbonsotjaj
+      ch      kes̈   yebn-okan      jabwach           t-bo-n-s-otjaj
+      DET     dog    house-ABL       strong           PST-DU-EVI-PROG-run
+      ‘The dog ran fast from the house.’ (MC)(61c) ats̈ sënja batabiokan
+      ats̈     së-n-j-a           bata-bi-okan
+      1SG 1SG-EVI-VBLZ-go         aunt-ANI-ABL
+      ‘I went from my aunt.’ (MC)In (62), chatjok ‘Mocoa’ ends in -okan. Like other nouns that are place names, the city ends in -
+ok. Like many place names, chatjok ends in -ok, which is also a locative marker. When used in
+the ablative, it does not become chatjokokan (adding -okan to chatjok) but rather chatjok.
+Perhaps the ablative is a composite of locative and -an.(62)   ch benach indemën chatjok-an asta bastok.
+       ch     benach        i-nd-emën      chatjok-an        asta    bastok
+       DET    path          3SG-HAB-be mocoa-ABL             until   pasto
+       ‘The road goes from Mocao until Pasto.’ (MC)
+                                                 84
+3.3.3.9 Adessive
+       There is another case for location at a place: -ents̈. More research is needed to determine
+the difference between this case and the locative -ok. In (63a) taban- ‘town, village, Sibundoy’
+has the marker -ents̈e for location, and in (63b) kanÿe ‘one’ has the marker -ents̈e to mean ‘in
+one place’.(63a) Desde tempskán bëngbe tabanents̈e kanÿe waman kabildo ineysomñe.
+      desde temps-kán     bëng-be        taban-ents̈e
+      since time-ABL      1PL-GEN        village-AD       kanÿe waman            kabildo         i-n-ey-somñe.
+       one    sacred          cabildo         DIS-EVI-?-be
+       ‘Since ancient times, there has existed just one holy cabildo in our town.’ (Chindoy 82:1)
+       (desde < Spanish desde ‘since’)(63b) Jentna mojobedezá jajmëtam kanÿents̈e.
+      jent=na       mo-j-obedezá         j-ajmëta-m              kanÿ-ents̈e
+      people=TOP 3PL-VBLZ-obey           VBLZ-put-BEN            one-AD
+      ‘The community obeyed, putting (the material) in one place. (Chindoy2 115:6) (jentna is
+      <gentna> in original orthography)3.3.3.10 Illative
+       The last noun case, also a form of locative is the illative -iñ. It is used for something
+going into something else, as seen in (64) below.","[96, 97, 98]"
+"(38)   Carmen-be taita
+       carmen-be     taita
+       Carmen-GEN father
+       ‘Carmen's father'       It can attach to pronouns, as well, which is discussed more extensively in Section 5.1.4.
+In (39), the personal pronoun ats̈ has the suffix -be to show possession.
+(39)   ats̈-be dios
+       ats̈-be         dios
+       1st-GEN         god
+       ‘My god’
+                                                 74
+        Finally, the genitive is very productive and can be used with loan words, such as (40)
+where the loan word diablo from Spanish diablo ‘devil’ has the genitive marker to show that it is
+the story of the devil.(40)    diable-be parlo
+        diable-be       parlo
+        devil-GEN       story
+        ‘story of the devil’ (Chindoy 72.1)3.3.3.3 Benefactive
+        The benefactive case expresses that the referent of the noun it marks receives the benefit
+of the situation expressed by the clause. The form is -am for inanimate nouns, with allomorph -m
+for nouns that end in vowels as seen in (41a) and (41b). In (41a) shknen ends in a consonant and
+the benefactive is the suffix -am. In (41b), bomo ‘potato’ ends in a vowel and the benefactive is
+realized as -m, presumably after going through the process of deleting a from bomo + -am. The
+form *bomoam does not exist.(41a) ch bomo kem shknen-am i ch mntshen inÿa shknen-am
+      ch     bomo kem shknen-am i                     ch      mntshen          inÿa shknen-am
+      DET    potato DEM plate-BEN             and     DET     meat             other plate-BEN
+      ‘The potato (is) for this plate and the meat (is) for the other plate.’ (MC)
+(41b) ch tamo kem bomo-m
+      ch     tamo kem bomo-m
+      DET    salt      DEM     potato-BEN
+      ‘The salt (is) for that potato.’        The benefactive is more common with animate nouns and the form is a composite of -bi,
+an animate marker, and -am, becoming -byam. This form, -byam does not have other
+allomorphs; it is the same for a noun that ends in a vowel as for a noun that ends in a consonant.
+In (42a) the noun bata ends in a vowel and has the ending -byam; in (42b), the noun kes̈ ‘dog’
+ends in a consonant and has the same ending, -byam.","[87, 88]"
+"
+3.3        Other nominal morphology
+           Kamsá nouns can have derivational morphology, though it is very limited, mainly to
+nominalize verbs, and also evaluatives including diminutive, pejorative, and augmentative. There
+is also considerable inflectional morphology, for number and cases. This section discusses the
+morphology of nouns, including noun cases, number markers, and diminutives. Noun class                                                  66
+markers were discussed above (see 3.2). Some of the morphology was discussed in Chapter 3,
+but here it is discussed in more detail, including all of the morphemes and allomorphs and their
+uses and meanings.","[79, 80]"
+"
+1.2.4   Borrowing
+        Kamsá has a long tradition of lexical borrowed from both Spanish and Inga. More
+recently, as the language has come to be spoken less and less, it has become more and more
+influenced by Spanish, both lexically and syntactically. This section focuses more on the older
+borrowings, especially those forms that have been fully integrated into Kamsá phonotactics or
+have undergone sound changes that have somewhat obscured their non-Kamsá etymologies. The
+words considered in this section are—largely—considered by native speakers to be “Kamsá”
+(regardless of their origins) and they are used commonly in traditional stories, ceremonial
+speech, and other speech registers that may be considered “pure” or “traditional”. Thus, these
+are—both etically (on the grounds of phonotactics and morphology) and emically (on the
+grounds of speaker identification of Kamsá-ness)—fully integrated loanwords as opposed to
+instances of code-switching or language loss.
+        One obvious semantic domain for borrowing includes vocabulary for fauna, flora,
+cultural objects and concepts that did not exist before the arrival of the Spanish. Examples
+include: ral ‘money’ (from Spanish real, the old Spanish currency), naranjabe ‘orange’ (from
+Spanish naranja ‘orange’), and jatrabaja ‘work’ (from Spanish trabajar ‘work’). All three of
+these words exhibit the borrowed phoneme /r/, which suggests that the forms are foreign.
+Nevertheless, their integration into Kamsá can be shown both phonologically and
+morphologically. First, ral ‘money’ has undergone a phonological reduction, from the disyllabic                                                  12
+form re.al to the current monosyllabic ral (the fact that the term real is no longer used in local
+Colombian Spanish can obscure the word’s etymology). Second, the from naranjabe ‘orange’
+shows a morphological change, having received the noun classifier associated with round
+objects, -be (3.2.2). Finally, jatrabaja has undergone the phonological change of the loss of a
+final consonant; furthermore, it reveals Kamsá verbal morphology by exhibiting the non-finite
+verb marker j(a)- (4), as well as being able to receive TAM morphology.
+       Almost all conjunctions (10.2) in Kamsá are borrowed from Spanish, including: o ‘or’
+(from Spanish o); i ‘and’ (from Spanish y); pero ‘but’ (from Spanish pero); porke ‘because’
+(from Spanish porque); maske ‘although’ (from Spanish más que ‘more than’); and ni ‘neither,
+nor’ (from Spanish ni). Other borrowed basic function-like words include mas ‘more’ (from
+Spanish más); mejor ‘better’ (from Spanish mejor); and peor ‘bad’ (from Spanish peor ‘worse’).
+These are all discussed in 10.2 and 9.4.
+       Because the Catholic missionaries were the only people speaking Spanish in Sibundoy
+until the 1950s (Fabre 2001:2), much of the older Spanish vocabulary that has been borrowed
+into Kamsá reflects the varieties of Spanish used by the them. Fabre states: “This explains why
+the Spanish layer we can detect in Kamsá and Inga is so replete with quaintly old-fashioned
+church Spanish” (Fabre 2001:2). Some examples are the following: parla ‘speak’ (from parlar, a
+now obsolete Spanish word for ‘speak’, cf. standard hablar); ndeombre ‘truly’ (from Spanish de
+hombre loosely, ‘by my word’); andela warda ‘God protect you’ (from Spanish dios le guarde,
+‘God preserve you’), dioslepay ‘thank you’ (from (que) dios le pague ‘may God pay you’, cf.
+standard gracias).
+       Along with vocabulary, Kamsá has borrowed some phonology from Spanish as well
+(2.2.2.7). The most obvious loan phoneme is /r/, some examples of which were seen above.
+Other examples include rat ‘bit, while’ (from Spanish rato ‘while’) and mor ‘now’ (from
+Spanish ahora ‘now’ or, alternatively, from *mwa-hora ‘this hour’, from Kamsá mwa ‘that’ plus
+Spanish hora ‘hour’).
+       Kamsá’s traditional phoneme inventory also lacked a plain (non-prenasalized) voiced
+alveolar /d/, and many older Spanish words that contained /d/ have been borrowed into Kamsá
+with either /nd/ or /ndʒ/ (written in orthography used here as <nd> and <nÿ>, respectively).
+Examples of Spanish words with *d that have been borrowed with phonological changes into
+                                                 13
+Kamsá are: nÿios or ndios or nÿios̈ ‘god’ (from Spanish dios ‘god’); ndeolpe ‘suddenly’ from de
+golpe ‘suddenly’; and nderado ‘maybe’ possibly from *de raro.
+       Many words borrowed from Spanish have changed in meaning, sometimes even
+functioning as different parts of speech in Kamsá than in Spanish. Loanwords are pointed out
+throughout the dissertation as well as their change in meaning and/or part of speech. Two brief
+examples of loanwords that have taken on new meaning in Kamsá are ora ‘when’ and parej
+‘with’. First, ora ‘when’ comes from the Spanish nouns hora ‘hour, time, when’, but has become
+a subordinator for temporal clauses, thus shifting both in meaning and in function (10.3.3).
+Similarly, parej ‘with’ from the Spanish adjective parejo ‘equal to, level with, similar to’
+functions in Kamsá as a preposition, not as a adjective.
+       Many Spanish words have found new meanings in ceremonial speech, the register of
+Kamsá that is used for many formal situations, such as greetings in the cabildo, and for Catholic
+sacraments, such as baptisms and confirmations. Haydee Seijas (1969:65), who conducted
+anthropological fieldwork in Sibundoy in the 1960s, refers to this type of speech as the lengua de
+los antiguos or “relación speech”. She reports that most people are not fluent in this speech,
+which consists of set words and phrases and are used by the governor in his Sunday address to
+the Kamsá people and by others as a means of showing politeness. The following example, the
+beginning of a formal greeting, shows the Spanish influence, with three out of the four words
+coming from Spanish (the possessive pronoun ats̈be ‘my’ is the only fully native Kamsá word).
+The verb, although derived from Spanish, exhibits Kamsá verbal morphology:(1)    Primermente ats̈be dios chas̈pasentsia …
+       primermente ats̈-be            dios cha-s̈-pasentsia
+       first             1SG-GEN      god    COND-1SG-forgive
+       ‘First may god forgive me…’ (Chindoy 28:5) (primermente from Spanish primeramente
+       ‘firstly’, dios from Spanish dios ‘God’, pasentsia from Spanish paciencia ‘patience’)       Much of the ‘formal’ speech relates to the Catholic church, which we might expect to
+have a lot of Spanish not because it’s formal but because it involves Catholic rituals and
+ceremonies, where they borrowed the words along with the rituals. There is also non-religious
+formal speech that uses Spanish, such as the petitioning for a girlfriend, mentioned above.
+       In addition to lexical borrowing, Kamsá has perhaps undergone structural changes under
+influence from Spanish and Inga. Since Kamsá has no known relatives and since no early                                                 14
+documents representing the language are known, it is impossible to say with any certainty what
+structural traits (if any) are due to influence from other languages. That said, it is possible that
+the basic word order in Kamsá is becoming more SVO (due to influence from Spanish), and that
+there is a trend toward using fewer adjectival verbs or null-copular constructions for predicate
+adjectives, with a preference instead for copula-plus-adjective constructions (as in Spanish).
+Fabre (Fabre 2001:3) suggests another influence from Spanish:   the redundant use of the same classifier, even with no intervening word between them,
+   strongly reminds of the Spanish number and gender agreement rules between the same two
+   parts of speech and sets Kamsá apart from classifier languages of Western Amazonia, where
+   classifiers are mostly used as an anaphoric device, there being no need of repeating the noun
+   to which they refer.","[25, 26, 27, 28]"
+"
+                                                 88
+Person and number             Pronoun                        Verbal prefix options          Optional number
+                                                                                            suffix on verb1SG                           ats̈                           së- (past, habitual,
+                                                             progressive), Ø-
+                                                             (future, conditional)2SG                           ak                             ko-3SG                           cha                            i- (future, conditional,
+                                                             progressive), t- (past),
+                                                             bo- (animate A and
+                                                             O)1PL                           bëng                           bsë-, së-, mo-                 -ang2PL                           tsëngaftang                    s̈m-, ko- mo-                  -ang3PL                           chëng                          mo-                            -ang1DU                           bëndat                         së-, bo-, mo-                  -at2DU                           tsëndat                        s̈m-, bo-                      -at3DU                           chat                           bo-                            -at                                         Figure 4.1 Person and prefixes         The first person singular prefix is së- or Ø-, depending on the TAM, i.e. së- (followed by
+the TAM prefix) for the past, habitual, and progressive forms, and Ø- (followed by the TAM
+prefix) for the future and conditional forms. The second person singular prefix is ko- for all TAM
+distinctions. The third person singular prefix exhibits a number of forms depending on tense
+distinctions: i- for progressive and future; Ø-, occasionally, for habitual (discussed below); to-
+for past; and ye- or yo- for distant past. Finally, the third person singular prefix can also be bo-
+(which is the same as the dual prefix 5); this is the case usually only if the clause is transitive and
+both the agent and patient are animate. It is important to note that in the future tense, first person
+subjects are zero-marked, whereas in other tenses third person subjects are zero-marked.
+         There are several options for marking non-singular: with simply plural or dual marking
+person prefixes; with plural or dual marking person prefixes in addition to plural or dual marking
+5
+ It is not clear if the bo- used on transitive verbs when both the subject and object are transitive is the same as the
+bo- used on verbs with dual subjects.","[101, 102]"
+"
+Pronouns:            Genitive            Allative             Benefactive          Comitative
+Subject/Objectats̈ ‘I’, ‘me’       ats̈-be ‘my’        ats̈-bi-oy ‘to me’   ats̈-bi-am(a) ‘for   ats̈-abtak ‘with
+                                                              me’                  me’ak ‘you’             ak-be ‘your’        ak-bi-oy ‘to you’ ak-bi-am ‘for           ak-abtak ‘with
+                                                           you’                    you’cha ‘he’, ‘she’,     cha-be ‘his’ ‘her’ cha-bi-oy ‘to         cha-bi-am ‘for       cha-btak ‘with
+‘it’; ‘him’, ‘her’                      him’, ‘to her’        him’, ‘for her’      him’, with her’bënd-at ‘we two’ bëndat-be ‘of us        bëndat-bi-oy ‘to     bëndat-bi-am         bëndat-abtak
+                 two’                    us two’              ‘for us two’         ‘with us two’tsëndat              tsëndat-be ‘of      tsëndat-bi-oy ‘to    tsëndat-bi-am        tsëndat-abtak
+                     you two’            you two’             ‘for you two’        ‘with you two’chat, sometimes      chatbe ‘of the      chat-bi-oy ‘to the chat-bi-am ‘for        chat-abtak ‘with
+chëndat              two of them’        two of them’       the two of them’       the two of them’bëng                 bëngbe ‘of us’      bëng-bi-oy ‘to       bëng-bi-am ‘for      bëng-abtak ‘with
+                                         us’                  us’                  us’tsëng or             tsëngaftang-be      tsëngaftang-bi-      tsëngaftang-bi-      tsëngaftang-
+tsëngaftang          ‘of you (pl)’       oy ‘to you (pl)’     am ‘for you (pl)’    abtak ‘with you
+                                                                                   (pl)’chëng                chëngbe ‘their’     chëng-bi-oy ‘to      chëng-bi-am ‘for     chëng-abtak ‘for
+                                         them’                them’                them’                                Figure 5.2 Case markers on pronouns
+                                                 141
+       Some examples of pronouns with these case markers are seen in the examples to follow.
+In (7a), the second person singular pronoun ak is shown with the benefactive marker -byam. In
+(7b) the third person singular pronoun cha is show with the comitative marker -abtak. In (7c) the
+first person plural pronoun bëng has the genitive marker -be. In (7d) the first person plural
+pronoun bëng has the benefactive marker -byam. In (7e) the first person dual pronoun bëndat has
+the genitive marker -be. In (7f), the second person plural pronoun tsëngabtang has the
+benefactive marker -byam. In (7g) the third person dual pronoun chat has the genitive marker -be
+to show that it was the lifeforce of both the people.(7a)   ats̈ sënjwabwa wameshnen akbiam
+       ats̈     së-n-j-wabwa           wameshnen             ak-bi-am
+       1SG 1SG-EVI-VBLZ-cook           mote                  2SG-ANIM-BEN
+       ‘I cooked mote for you.’ (MC)(7b)   ch batá tbojinÿ kanÿe bako i tojson chabtak
+       ch      batá t-bo-j-inÿ               kanÿe bako i to-json           cha-btak
+       DET     aunt PST-DU-VBLZ-see          one   uncle and PST-DU-VBLZ-go 3SG-COM
+       ‘The aunt saw an uncle and went with him.’(7c)   bëngbe Bëtsa
+       bëng-be         Bëtsa
+       1PL-GEN         big
+       'our Father' (Chindoy1 28)(7d)   ch tobias̈ tonjwabwa wameshnen bëngbiam
+       ch tobias̈      to-n-j-wabwa        wameshnen         bëng-bi-am
+       DET girl        PST-EVI-VBLZ-cook   mote              1PL-ANIM-BEN
+       ‘The girl cooked mote for us.’ (MC)(7e)   bëndatbe botaman palabra
+       bëndat-be       botaman         palabra
+       1DU-GEN         beautiful       word
+       'our beautiful word'
+       (Chindoy1 29)(7f)   ch tobias̈ tonjwabwa wameshnen tsëngabtangbiam
+       ch tobias̈      to-n-j-wabwa         wameshnen tsëngabtang-bi-am
+       DET girl        PST-EVI-VBLZ-cook    mote      2PL-ANIM-BEN
+       ‘The girl cooked mote for you (pl). (MC)
+                                                 142
+(7g)    chatbe aynan
+        chat-be         aynan
+        3DU-GEN         heart/lifeforce
+        ‘Their hearts’ (Chindoy 1 58.3)5.1.5   Other pronominal morphology
+        In addition to case markers, pronouns can also have the topic marker/discourse marker
+=na, as seen above, the intensifier prefix kach-, and evaluatives.
+        Pronouns can bear the intensifier prefix; it adds extra emphasis to the pronoun. In (8) the
+second singular pronoun ak has the prefix kach and the genitive suffix -be.(8)     kachakbe kausa
+        kach-ak-be            kausa
+        EMPH-2SG-GEN          cause
+        'Because of you' (Chindoy 69.11)        Sometimes pronouns can take evaluatives, although this is very rare and is perhaps only
+done for narrative or poetic reasons. In (9), the first person plural pronoun bëng has the suffix -
+jem, an evaluative suffix used for poor things. Note that there is an additional plural marker, even
+though bëng is already plural.(9)     bngajemunga sasnunga mondemenamse
+        bng-a-jem-ung-a      sasn-ung-a       mo-nd-emen-am-se
+        1PL-EPE-EVAL-PL-EPE food-PL-EPE 3PL-be-BEN-SUB
+        ‘We poor things food being food (...)’ (McDowell 181)5.3     Reflexive pronouns
+        Reflexive is shown with the intensifier/emphatic marker ka- or kach- added to the
+personal pronoun.","[154, 155, 156]"
+"
+                                                 147
+(16)    ch bobonts-ëng-a
+        ch     bobonts-ëng-a
+        DET    young.man-PL-EPE
+        ‘the young men’ (Chindoy 79.18)5.5.2   Determiners standing alone
+        Determiners can stand alone without anything else from the NP. When determiners stand
+alone, they agree with their referents. In (17a) inÿe ‘other’ has the class marker -be to agree with
+ndëts̈be ‘rock’. In (17b) the definite article ch has the suffix for poor things -jem. In (17c), the
+definite article has both -jem, the suffix for poor things, and the plural marker.(17a) kem ndëts̈be mas intsewut ch inÿebe
+      kem ndëts̈-be          mas i-n-ts-ewut         ch                 inÿe-be
+      DET     rock-CLF       more 3SG-EVI-PROG-heavy DET                DEM-GEN
+      ‘This rock is heavier than that one.’(17b) chora chjemna nts̈amo jutsemanana
+      chora ch-jem=na nts̈amo ju-ts-emanana
+      then DET-EVAL=TOP             how be
+      ‘then that poor one, what can he do?’ (McDowell)(17c) lempe ch-jem-ung-a
+      lempe ch-jem-ung-a
+      all     DET-EVAL-PL-EPE
+      ‘all those poor ones’ (McDowell 80)In (18) ch-be has as its antecedent s̈unjanabe ‘drum’ that occurred earlier in the discourse, and
+ch- plus ‘round thing’ classifier -be means ‘that’ in reference to a round antecedent, in this case
+the drum.(18)    bweno yojtsotsobobwertana shashinÿiñe chbe
+        bweno yo-j-ts-otsobobwertana          shashinÿ-iñe ch-be
+        well DIS-VBLZ-PROG-spin               foam-LOB     DET-CL
+        ‘Well, it spun around in the foam, that one.’ (McDowell 75)
+                                                  148
+5.5.3      Semantics of determiners
+           Kanÿe ‘one’ is used to modify nouns when they are first introduced in a story. However
+kanÿe is not necessary; a noun need not have any determiner at all. In the following two
+examples, an animal disguises itself as a human to go to a human’s house. In (19a) the animal is
+marked with kanÿe and in (19b) the noun has no determiner.(19a) kanÿe tobias̈ bekotem washekwa yejashango kanÿe yebunents̈e
+      kanÿe tobias̈ bekotem washekwa ye-j-ashango kanÿe yebun-ents̈e
+      one     girl   little-DIM footed        DIS-VBLZ-arrive one house-LOC
+      ‘A girl with short feet arrived at a house.’ (Chindoy 91.1)(19b) ntsoyna paresido bobonts-ka (...) yeja
+      ntsoyna       paresido       bobonts-ka          ye-ja
+      cusumbo       seeming        young.man-DISC     DIS-go
+      ‘A coatimundi13, seeming like a young man, went…’ (Chindoy 98.1)
+13
+     Cusumbo = coatimundi, (Procyonidae Nasua). It is an animal in the raccoon family.","[160, 161, 162]"
+"(11)    Tonjapasaibs bëng sënjabo yap jetiñ kabildokan.
+        tonjapasaibs bëng së-n-jabo           yap     jetiñ kabildo-kan
+        Yesterday     1PL      1SG-EVI-leave very late       town.hall-ABL
+        ‘Yesterday we left the town hall very late.’(kabildo < Spanish cabildo ‘town hall’) (MC)4.2.5   Second person plural: s̈mo-
+        Second person plural subjects are indexed on verbs by the prefix s̈mo-. Whereas the use
+of this prefix indexes both (second) person and (plural) number, it is possible for a verb agreeing
+with a second person plural subject to index just one or the other feature (as is the case with first
+person plural subjects, 4.2.4). Thus, a verb that agrees with a second person plural subject can
+simply be marked for second person with ko- or for plural with mo-. In (12a) the conquistadors
+are telling the Kamsá people that they (the Kamsás) will build a chapel in a certain spot. The
+prefix s̈mo- identifies the second person plural subject ‘you (pl)’, otherwise unspecified in the
+clause. In (12b) the second person plural pronoun tsëngafta7 is used. (Note: the pronoun is
+usually tsëngaftang, as -ang is the plural suffix on nouns, pronouns, verbs, and adjectives.)(12a) Kapilla s̈mochtsebojebuna.
+      kapilla        s̈mo-ch-ts-ebojebuna
+      chapel         2PL-FUT-PROG-build
+      ‘You (plural) will build the chapel.’ (kapilla < Spanish capilla ‘chapel’) (Chindoy2
+      115:4)
+7
+ There are two second person plural pronouns, the more common one being tsëngaftang, as -ang is the plural suffix
+on nouns, pronouns, verbs, and adjectives, but both are used.",[110]
+"
+                                                209
+(32a) Ndoñ yentsoben shlofts̈ënga jtsashebwayan tená …
+      ndoñ ye-n-ts-oben                   shlofts̈-ëng-a j-ts-ashebwayan            te=ná
+      NEG    D.PST-EV-PROG-be.able        bird-PL-EPE VBLZ-PROG-hunt                day=TOP
+      ‘The day he couldn’t hunt birds…’(32b) Akajem kochatoben ats̈ jtsakmenán.
+      aka-jem        ko-ch-at-oben         ats̈   j-ts-akmenán
+      2SG-EVAL       2SG-FUT-NEG-be.able 1SG VBLZ-PROG-chase
+      ‘You are not able to follow me.’ (Chindoy2 154:4)(32c) Pero inÿe soy ats̈ jatrabajamna ndon ketsatoben.
+      pero inÿe soy           ats̈   jatrabaja-m=na         ndoñ ke-ts-at-oben
+      but    other thing 1SG work.INF-BEN=TOP NEG IRR-PROG-IRR-be.able
+      ‘But other things, I’m not able to do.’ (pero < Spanish) (Chindoy 93:1)8.3.8   Verbs that take case-marked objects
+        Some verbs, which on semantic grounds seem very much to be transitive, nevertheless
+co-occur with nouns (i.e., objects) marked by an oblique case. Such verbs could perhaps be
+analyzed as intransitive, but with an argument structure that includes an oblique-marked nominal
+argument. Alternatively, they can be analyzed as transitive, but with a (lexically determined)
+stipulated selectional restriction that their direct-object arguments must be marked as oblique
+NPs. The verb jwajabwachan ‘help’, for example, takes a allative-marked NP as its object. In
+(33), the object of jwajabwachan ‘help’ is patronang ‘owners’, here marked with the allative
+suffix -bi-oy.","[222, 223]"
+"(26)       Tonjopasaibs ch bata tbojtam kanÿe twamb24 ats̈be waben.
+           tonjopasaibs ch       bata t-b-ojtam       kanÿe twamb                      ats̈-be          waben
+           yesterday      DET    aunt R.PST-DU-sell one      hen                       1SG-GEN          sister
+           ‘Yesterday the woman sold a hen to my sister.’           Similarly, when a verb has two objects and one of the objects is a pronoun, the pronoun is
+not marked as an oblique. In (27a) neither kwento ‘story’ nor ats̈ ‘1SG’ is marked, compared with
+(27b) where the first person singular pronoun ats̈ has a benefactive clitic.(27a) Ats̈ s̈ochanjakwenta taita mandat kanÿe kwent.
+      ats̈     s̈o-chan-jakwenta    taita.mandat kanÿe kwent
+      1SG 1SG-FUT-tell              governor      one    story
+      ‘The governor will tell me a story.’ (MC) (mandat < Spanish mandar ‘to command’,
+      kwento < Spanish cuento ‘story’)(27b) ch tobias̈ tonjwabwa wameshnen ats̈biam
+      ch      tobias̈       to-n-jwabwa                     wameshnen         ats̈-bi-am
+      DET     girl          3SG.PST-EVI-cook                mote              1SG-ANI-BEN
+      ‘The girl cooked mote for me.’ (MC)8.3.5      VPs with one direct object and one oblique
+           Verbs can also have a direct object and an oblique. In (28a) the direct object is
+wameshnen ‘mote’ and the first singular plural pronoun bëng is marked with the benefactive
+clitic =bi-am. In (28b) the direct object is also wameshnen ‘mote’ and the NP ats̈be wampnan
+taita ‘my father-in-law’ is marked with the locative clitic =bi-ok25 to mean ‘at my father-in-law’s
+(place)’, or donde mi suegro ‘(lit) where my father-in-law’ in Spanish.
+24
+  twamb ‘hen’ is probably borrowed from Quechua, atawalypa ‘chicken’, typically shortened to just walypa, and
+then widely borrowed from one indigenous language to the next.
+25
+     -bi is used for case marking on animate nouns.",[220]
+"
+The structure of a noun with a class marker is:
+       root + class + (dim) + (number) + (case)
+The structure of a noun without a class marker is:
+       root + (dim) + (number) + (case)
+For example, ‘with the little tree tomatoes’ could be chembalbe-tem-ëng-ak.",[67]
+"
+                                                         196
+(4a)   Gabilan sëchbon bobontse inamna.
+       gabilan      [sëchbon      bobonts]      i-n-amna
+       hawk         [lazy         young.man] D.PST-EV-be
+       ‘The sparrowhawk was a lazy young man.’ (Chindoy 93:1) (gabilan < Spanish gavilán
+       ‘hawk’)(4b)   Ats̈ chanjakwenta ats̈be enutá botaman kwento.
+       ats̈    chan-jakwenta          ats̈-be         enutá botamana        kwento
+       1SG 1SG.FUT-tell               1SG-GEN         friend beautiful      story
+       ‘I’m going to tell my friend a beautiful story.’ (MC)       Note that (4b) above can only be interpreted as containing the phrase ‘beautiful story’
+(and not ‘beautiful friend’) since the final –a of the adjective botamana is apocopated (adjectives
+lose their final vowel if and only if they precede the noun they modify). If the sentence were
+instead ats̈ chanjakwenta ats̈be enuta botamana kwento, then it would mean ‘I’m going to tell
+my beautiful friend a story.’
+       Noun phrases may also indicate possession. In Kamsá, the possessor (a pronoun or noun
+marked by the genitive suffix -be) precedes the possessee (the head noun of the phrase). In (5)
+mënts̈ena ‘meat’ is modified by the genitive-marked noun shlofts̈ëng-be ‘bird-GEN and
+mantension ‘maintenance’ is modified by the genitive-marked first person singular pronoun ats̈-
+be ‘my’.","[209, 210]"
+"
+                                                           163
+(1p)   chka jtsopasanan
+       chka j-ts-opasanan
+       like.this VBLZ-PROG-happen       porke choyna kaba yemba jente kamoyenaka
+       porke          choy=na         kaba yemba             jente           ka-mo-oyena-ka
+       because        there=TOP       still   infidel        people          INTS?-3PL-live-DISC
+       ‘This happens because the unfaithful (non-christian) people still live there.’ (j-opasa-n
+       from Spanish pasar ‘happen’; jente from Spanish gente ‘people’; The morpheme -ka on
+       the verb j-oyena-n ‘live’ possible discourse suffix -ka. Note that -ka is also the translative
+       marker as well as one form of the instrumental marker -ak.)       Multiple temporal adverbs can appear in a clause. In (2a) mor ‘now’ and ya ‘already’ are
+used together to mean something like ‘not anymore, ‘no longer’. This is like ya no ‘not anymore’
+in Spanish. In (2b), (2c), and (2d) mnte ‘today’ is used with other words to add specificity. In
+(2b) mnte is used with jitiñ ‘afternoon’ to mean ‘this afternoon’. In (2c) mnte ‘today’ is used
+together with kantate ‘Thursday’ to mean ‘this Thursday’ and in (2d) mnte is used with kachës
+‘morning’ to mean ‘this morning’. Note that this is common in colloquial Spanish, as well, using
+something like hoy tarde ‘today afternoon’ to mean ‘this afternoon’. In (2e) both chents̈an ‘later’
+and empasam ‘forever’ appear, but not as a compound; rather, they are separate, meaning ‘From
+then on, she disappeared forever’.(2a)   ats̈be kes̈ bëndanonÿa meset
+       ats̈-be         kes̈   bë-nd-anonÿa meset
+       1SG-GEN         dog    DU-?-look    cat       i mor ya ndoñ kebënatonÿa
+       i      [mor ya]              ndoñ ke-bë-n-atonÿa
+       and    [now already]         NEG     IRR-DU-EVI-IRR-look
+       ‘My dog was looking at the cat, and now it is not looking anymore.’ (MC)(2b)   mnte jitiñ
+       mnte jitiñ
+       today afternoon
+       ‘This afternoon.’(2c)   mnte kantaté
+       mnte kanta-té
+       today four-day (thursday)
+       ‘This thursday’
+                                                164
+(2d)     mnte kachës sënjwaliya librësha
+         [mnte kachës ]        së-n-j-waliya         librësha
+         [today morning]       1SG-EVI-VBLZ-read book
+         ‘This morning I read a book.’ (MC) (librësha is from Spanish libro ‘book’ with the suffix
+         -ësh which is added to many loanwords.)(2e)     chents̈an empasam ch tondol welaja yejwenatjëmba
+         chents̈an      empasam        ch     tondol welaja         ye-j-wenatjëmba
+         later          forever        DET    spirit old.woman      3DIS-VBLZ-disappear
+         ‘From then, the old lady ghost disappeared forever.’ (Chindoy2 55.5) (yejwenatjëmba =
+         <yejuenatjëmba> and welaja = <uelaja> in original orthography)7.2.2    Adverbs of manner and other Adverbs
+         Kamsá has adverbs of manner, which can be defined as adverbs that tell how something
+is done. They have the same form as adjectives, but when they are functioning as adverbs they
+are not inflected, and they almost always precede the verb. In other words, when they are
+functioning as adverbs, they are not inflected (i.e. do not agree with anything) but when they are
+functioning as adjectives, they can agree with the noun in case, class, number, and/or evaluative.
+It is not clear if all adjectives can be used adverbially; more research is needed. Figure 7.2
+summarizes the adverbs of manner in Kamsá.","[176, 177, 178]"
+"
+                                                 29
+5: Modifiers precede modified in NPs:
+       “A general characteristic of most Andean languages (including Aymaran and Quechuan)
+is that modifiers must precede the modified in hierarchically organized noun phrases. In some
+languages, however, adjectives follow the noun whereas in other modifiers precede it” (Adelaar
+2008:26).
+       While determiners and numerals must precede their associated head noun, adjectives can
+either precede or follow the head noun.","[42, 43]"
+"
+18: Nominalizing markers:
+       “Andean languages such as Aymaran, Quechuan and Uru-Chipaya have a set of
+morphological nominalizations, which may encode relative tense and which can be combined
+with case markers to form different types of adverbial clauses and complement clauses. They are
+also used to form relative clauses” (Adelaar 2008:30).",[45]
+"
+1.4     Previous research on the language
+        This dissertation is the first reference grammar of Kamsá. In this section I describe the
+history of research on the language and the major earlier contributions. There have been five
+major contributors to the documentation and description of Kamsá. Much has been published
+about the culture of the people and certain aspects of the language, and there are many Kamsá
+                                                  23
+texts that have been translated into Spanish and/or English, but there has not yet been a full
+grammatical description.
+       First, there was Marcelino de Castellví (1908-1951), a Capuchin priest from Spain, who
+founded the Centro de Investigaciones Lingüísticas y Etnológicas de la Amazonia Colombiana
+(‘Center for Linguistic and Ethnological Research in the Colombian Amazon’, CILEAC). He
+wrote several articles about Kamsá including “Bibliografía de la familia lingüística Kamsá”
+(‘Bibliography of the Kamsá linguistic family’) (1940).
+       Second, Linda Howard, a linguist working for the Summer Institute of Linguistics (SIL),
+spent a number of years living in Sibundoy. SIL was present in the region for almost 30 years,
+but with very few publications. Howard published two articles in English and two in Spanish on
+the language in the late 1960s: a brief description of the phonology “Camsá phonology” (Howard
+1967) and an attempt at explaining verbal inflection from a tagmemic analysis, a theoretical
+framework used by SIL linguists in the 1970s: “Camsá: certain features of verb inflection as
+related to paragraph types” (Howard 1977).
+       Third, in the early 1990s, John McDowell, a folklorist at the University of Indiana,
+published So wise were our elders: Mythic narratives of the Kamsá (McDowell 1994), a book of
+traditional stories in Kamsá, all translated into English, with extensive commentary. Although an
+impressive book and an excellent record of traditional culture, its purpose was not to describe the
+morphology or syntax of the language, nor is there any interlinear glossing. He has also written
+several articles including “Collaborative Ethnopoetics: The View from the Sibundoy Valley”,
+“Discourse Authority in the Sibundoy Valley” (1995), and “The Community-building Mission of
+Kamsá Ritual Language” (1990), among others.
+       Fourth, in the 1990s, José Narciso Jamioy Muchavisoy, a Kamsá linguist, published a
+few articles about the language after completing his Masters in Ethnolinguistics at the
+Universidad de los Andes in 1989. Some of his articles are: “Tiempo, aspecto y modo en
+kamentsa” (‘tense, aspect, and mood in Kamsá’, 1992), “Estructuras predicativas del kamentsa”
+(‘predicative structures of Kamsá’, 1999) and “Observaciones a los documentos de Fray
+Marcelino de Castellví sobre la lengua Kamëntsá” (‘Observations on the documents of Father
+Marcelino de Castellví about the Kamsá language’, 1999). In addition to these articles, he also
+helped translate Colombia’s constitution of 1991 into Kamsá.","[36, 37]"
+"(23)    Mwata molempia kanÿaná kochjase.
+        mwa-ta          mo-lempia    kanÿa=ná         ko-ch-jase
+        DET-DU          IMP-clean    one=TOP          2SG-FUT-eat
+        ‘Clean these two, and you will eat one of the them.’ (Chindoy 93:6) (lempia < Spanish
+        limpia ‘clean’)
+                                                   205
+8.3.3   VPs with obliques
+        Verb phrases can also contain obliques—that is, NPs that are marked with case-marked
+suffixes but do not play the role of core arguments (subject, object, or object of a distransitive) of
+the verb. In (24a) bobonts ‘young man’ bears the allative marker -bioy. In (24b), ndweñang
+‘owners’ has the benefactive marker. (Note that ndweñ ‘owner’ is from Spanish dueño ‘owner’;
+the initial alveolar stop is prenasalized, following the phonology of Kamsá, imposed by some
+speakers on Spanish loan words as well). In (24c), bata ‘aunt’ has the locative marker -bioka.
+None of these verb phrases has an expressed direct object.(24a) Ch kaserna bojatjay bobontsbioy:
+      Ch     kaser-na       bo-jatjay    bobonts-bioy
+      DET    landlord-TOP DU-ask         youth-ALL
+      ‘The owner asked the young man:’ (kaser < Spanish casero ‘owner’) (Chindoy 93:2)(24b) Pero kochantsareparan ndweñangbiama!
+      pero ko-chan-ts-areparan             ndweñ-ang-biam-a
+      but    2PL-FUT-PROG-be.careful       owner-PL-BEN-EPE
+      ‘Be careful of the owners!’ (pero < Spanish, ndeñ < Spanish dueño)(Chindoy 101:4)(24c) Yejaysashjango batabioka orna …
+      ye-j-ay-sashjango             bata-bioka orna
+      3SG.D.PST-VERB-?-arrive       aunt-LOC      when
+      ‘When she arrived to the aunt’s (house) …’ (orna < Spanish hora ‘hour’) (Chindoy 89:9)        In (25), the verb jatrabaja ‘work’ (< Spanish trabajar ‘to work’) has two oblique objects,
+jajan ‘chagra (small farm)’ marked as locative (jajan loses the final n and becomes jaja + -ok,
+then jajok) and taita ‘father’ marked as comitative.","[218, 219]"
+"
+10.2.1 Conjunctive coordination
+        Conjunctive coordination is shown with the conjunction i ‘and’, which has been
+borrowed from Spanish y ‘and’. When the conjunction i ‘and’ is placed between two elements,
+the two are joined syntactically, with neither element receiving special status or grammatical
+                                                  235
+marking. When two or more NPs are obliques, they can all have the oblique marker (seen in 1f)
+or sometimes only the second NP will have the oblique marker.
+       The conjunction i ‘and’ can be used to connect phrases within a clause as well as to
+connect clauses within a sentence. In (1a), it connects two NPs, each consisting of a single
+common noun: boyabasetemënga ‘boys’ and shembasetemënga ‘girls’. In (1b), the conjunction i
+‘and’ connects natjëmban ‘peace’ and silentsio ‘silence’, two NPs used adverbially. In (1c), it
+connects two VPs: s̈kotabe ‘I pull it out for you’ and kbochjwebuts̈en ‘I’ll throw it to you’. In
+(1d), two clauses are connected: akna benchetema ‘you (are) small’ and ats̈na bëtsá ‘I (am) big’.
+there is no verb, however, because the copula can be dropped. In (1e) two clauses are connected.
+In (1f) there is coordination between NPs that are marked for case, with the benefactive -am.(1a)   boyabasetemënga i shembasetemënga
+       boya-base-tem-ëng i          shem-base-tem-ëng
+       male-small-DIM-PL and        woman-small-DIM-PL
+       ‘boys and girls’ (Chindoy 69:10) (i = <y> in original orthography)(1b)   Chokna natjëmban i silentsio jtsyenam.
+       chok=na        natjëmban      i       silentsio       j-ts-yenam
+       there=TOP      peace          and     silence         VBLZ-PROG-live
+       ‘There one lives peacefully and silently.’ (Chindoy 104:6) (jtsyenam = <jtsienam> in
+       original orthography, from joyen ‘live’; i = <y> in original orthography; silentsio <
+       Spanish silencio ‘silence’)(1c)   Ats̈ s̈kotabe i kbochjwebuts̈en.
+       ats̈     s̈-k-otabe              i       k-bo-ch-j-webuts̈en
+       1sg      1SG-2SG-pluck           and     2SG-1SG-FUT-VBLZ-throw
+       ‘I’ll pluck (it) for you and throw (it) to you.’ (Chindoy 102:17) (i = <y> in original
+       orthography)(1d)   Akna benchetema i ats̈na bëtsá.
+       ak=na         benche-tem i           ats̈=na          bëtsá
+       2SG=TOP       small-DIM       and    1SG=TOP          big
+       ‘You are small and I am big.’ (i = <y> in original orthography)(1e)   s̈jaumashëngo tsoy i bës̈as̈a stëts̈oyka tejotsay
+       s̈-j-au-mashëngo      tsoy i            bës̈as̈a stëts̈-oyka te-jotsay
+       1SG.OBJ-VBLZ-?-enter inside and         door behind-LOC 1SG.PST-stand
+       ‘He made me go inside and I stood behind a door.’(Chindoy 68:4) (i = <y> in original
+       orthography)
+                                                236
+(1f)    s̈mochtseprontay pwesto popayejëngbiam,
+        s̈mo-ch-ts-eprontay         pwesto              popayej-ëng-bi-am
+        2PL-FUT-PROG-prepare        spot                popayan-PL-ANI-BEN        pastusengbiam, bogotillëngbiam y onÿayoykëngbiam
+        pastus-eng-bi-am       bogotill-ëng-bi-am y         onÿay-oyk-ëng-bi-am
+        pasto-PL-ANI-BEN       bogota-PL-ANI-BEN and        hot-LOC-PL-ANI-BEN
+        ‘Prepare spots for the people from Popayán, Pasto and Bogotá, and those from the hot
+        places.’ (Chindoy 68:6)        As seen in (1a), the conjunction i ‘and’ may be used, in a sense, to add an NP participant
+to a clause. Another means of accomplishing this is with the preposition parej ‘together with’.
+Unlike i ‘and’, the word parej ‘together with’ does not conjoin two NPs equally; rather, the
+second element is marked with either the instrumental suffix -ak for inanimate nouns or the
+comitative suffix -byak for animate ones. Although this isn’t a conjunction (it’s a preposition) it
+semantically achieves a similar thing.
+        Thus, although clearly derived from the Spanish noun parejo ‘equal (to)’, ‘equivalent
+(with)’, ‘on a par with’, ‘at the same level (with)’, ‘even’, ‘identical’, the Kamsá word parej
+‘together with’ functions as a preposition. In (2a), parej is used twice. In the first instance, it
+connects chnungwan te ‘six days’ with ibet ‘night’, meaning ‘six days and (six) nights’; the
+second instance functions similarly to express the notion of ‘three days and nights’. In (2b), the
+first element of the coordination is not expressed (it is understood to be the 3PL pronoun chëng
+‘they’); only the element after parej is overt: the object of the preposition enuta ‘friend’.(2a)    Kanÿe yents̈á bojadesmaya chnungwan te parej ibetak.
+        kanÿe yents̈á bo-j-adesmaya           chnungwan te           parej ibeta-ak
+        one    person DU-VBLZ-faint           six             day    with night=INST
+        ‘One person fainted for six days with (their respective) nights.’        Inÿanak kachká yejatspasa,
+        inÿan=ak      ka=chká        ye-j-ats-pasa
+        other=INST    like.that      3DIS-PROG-happen
+        ‘To another person, the same happened,’ (pasa < Spanish pasar ‘happen’)        pero chana nÿe unga te parej ibetak.
+        pero cha-na            nÿe     unga te         parej ibeta-ak
+        but     3SG=TOP        just    three day       with night-INST
+        ‘but he (stayed) only three days with (their respective) nights.’ (pero < Spanish pero
+        ‘but’) (Chindoy 67:1)                                                  237
+(2b)     nÿe s̈ës̈etem jtsabmuchtkoyám parej enuntëngaftaka.
+         nÿe      s̈ës̈e-tem    j-ts-ab-mu-chtkoy-ám           parej         enunta-ëng-aftaka.
+         just     corn-DIM      VBLZ-PROG-?-PL-peck-BEN        together.with friend-PL-COM
+         ‘but also they pecked the corn together with friends.’ (Chindoy 90:14)10.2.2 Disjunctive coordination
+         Disjunctive coordination in Kamsá is signaled by either the conjunction o ‘or’ (in positive
+polarity) or by the conjunction ni ‘neither, nor’ (in negative polarity). Both words are
+transparently loans from Spanish.
+         Like the conjunctive coordinator i ‘and’, the disjunctive coordinator o ‘or’ can be used to
+join two phrases, as in (3a), where it occurs between the numerals unga ‘three’ and kanta ‘four’.
+In (3b), the conjunction o ‘or’ joins two NPs (place names), Tëtknaiyay and Chitjianëjay. Note
+that only the second place has the locative suffix/clitic. In (3c), it connects two VPs : j-
+ojandwon-áy-an ‘roll around’ and j-en-obwast-an ‘scratch oneself’.(3a)     ayekna mobën unga o kanta jajañ jtsepochokayán.
+         ayekna         mobën [unga o           kanta] jajañ j-ts-epochokayán
+         thus           soon [three or          four] field VBLZ-PROG-finish
+         ‘Thus they finished three or four fields.’ (Chindoy 108:5)(3b)     Ch bachna yejabanÿena kabënga Tëtknaijay o Chitjianëjayoka.
+         ch     bachna ye-j-abanÿena          ka-bënga        [Tëtknaijay o Chitjianëjay=ok]
+         DET    priest 3SG.DIS-VBLZ-find      INT-1PL         [Tëtknaiyay or Chitjianëjay=LOC]
+         ‘The priest found us in Tëtknaiyay or Chitjianëjay.’ (Chindoy2 115:2) 28(3c)     Saká chte nda natsan
+         saká ch=te           nda            natsan
+         well DET=day         who            before         chaojtsëtjajandwoná o chaojtsenobwasto
+         [chao-j-ts-ët-jajandwoná              o        chao-j-ts-en-obwasto]
+         [IRR-VBLZ-PROG-IRR-roll.around        or       IRR-VBLZ-PROG-REFL-scratch]
+         ‘That day we’ll see who will be the first to roll around or scratch himself.’ (Chindoy2
+         161:11)28
+  The word kabëng (the first plural pronoun with the intensifier ka-) is used to refer to indigenous people, often
+Kamsás and Ingas, as opposed to other people. One can say someone is ‘kabëng’ to mean that he or she is
+Kamsá/Inga” but you wouldn’t use ka-bëng to talk about you and your friends to do something, unless you’re
+emphasizing that the group is indigenous. Thus, this sentence means the priest found the indigenous people there.","[248, 249, 250, 251]"
+"
+3.2.11 Suspect class 10: -kwa
+       McDowell (1994) posits that -kwa is a classifier for body parts. A few nouns that are
+body parts have -kwa in the word, as a bound morpheme, and no non-body part words in the
+language have this -kwa. Adjectives that agree with these nouns do not take the suffix -kwa;
+however, and thus it does not seem to be a noun class, at least not one parallel to the other noun
+classes. In the following sentence, derecha ‘right’ and iskyerda ‘left’ do not have a suffix -kwa to
+agree with kukwach ‘hand.’ If -kwa marked nouns formed a true noun class, we would expect
+derecha-kwa and iskyerda-kwa for ‘right’ and ‘left’. Because adjectives do not agree with these
+nouns, I do not categorize kwa as a noun class marker but rather maybe a frozen suffix.(24)   kanÿe kukwats̈ derecha y kanÿe kukwats̈ iskyerda
+       kanÿe kukwats̈        derecha        y      kanÿe kukwats̈              iskyerda
+       one     hand          right          and    one   hand                  left
+       ‘one right hand and one left hand’ (MC)Other nouns marked with -kwa include the following:matskwas̈: ear
+shekwats̈: foot
+bwakwats̈: armNote that the nouns with the -kwa morpheme end in slightly different sounds, with matskwas̈
+‘ear’ and shekwats̈ ‘foot’ both ending in the retroflex and bwakwats̈ ‘arm’ and kukwats̈ ‘hand’
+both ending in the retroflex affricate. This is different from all of the previous class markers,
+where the marker is the last suffix without any different consonants following it.
+       Figure 3.1 (on the following page) summarizes the noun classes in Kamsá.",[77]
+"
+                                 Word                       Meaning                                 botamana                   beautiful                                 wabowana                   sacred                                 oboná                      dead                                 podesko                    ugly                                 bëts(á)                    big                                 binchá or base or basá     small                                 osertaná                   intelligent                                 bëná or tsbanana           tall                                 bekwá                      short                                 bochen                     ripe                                 obaná                      fat                                 tamná                      delicious
+                                   Figure 6.2 Common adjectives
+                                                 152
+6.3     Adjectival inflection/agreement
+        Adjectives agree with the noun they modify. Class agreement is obligatory (unless the
+adjective preceeds the noun), while number, case, and evaluative marking are optional.
+Adjectives agree with nouns even if the noun is not overt in the clause.","[165, 166]"
+"
+3.3.3.7 Allative
+       The allative in Kamsá is marked with -oy on inanimate nouns and -bi-oy on animate
+nouns. The allative shows motion toward the noun and sometimes is used when the noun is the
+recipient of an action. It is used without any postpositions. With nouns that end in a vowel, the
+final vowel is deleted and -oy is added, as seen in (58a) where tja ‘mountain, countryside’
+becomes tjoy, not /*tjaoy/ or /*tjay/. Animate nouns, as seen with some of the other cases, take
+the suffix -bi before the allative marker -oy. In (58b), batá has the markers -bi and -oy and the
+meaning is motion toward.",[95]
